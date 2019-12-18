@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"> Јиесхуо Читач екрана</string>
+    <string name="accessibility_service_description">
+        Јиесхуо Читач екрана помаже слепим корисницима да користе своје мобилне телефоне. Покушали смо да будемо креативни. За више информација отворите подешавања\\помоћ.\n
+        Неке функције неће бити доступне док не набавите пуну верзију. За више детаља, Молимо вас контактирајте корисничку подршку путем званичне QQ групе.\n
+        \n
+        Карактеристике: \n
+        Гласовни Асистент: користите ваш телефон без додиривања уз помоћ нашег гласовног асистента.\n
+        Додаци: инсталирајте додатке како бисте побољшали ваше искуство.\n
+        Истражујте путем знакова, речи, пасуса… Увек постоји начин прегледа који испуњава ваше потребе.\n
+        Програм је брз и одзивљив.\n
+        Убаците звучне теме које ће увек пријати вашим ушима.\n
+        Функције напредног копирања омогућавају да копирате шта год пожелите.\n
+        Контекстни покрети дозвољавају екстремну флексибилност.\n
+        Прилагодљиви покрети.\n
+        Флексибилна подешавања обавештења. Никада\ нећете бити ометани нечим што вас не занима у неком моменту.\n
+        \n
+        Премиум функције:\n
+        Виртуелни екран за неприступачне апликације како бисте отворили нови свет за себе.\n
+        Аутоматска ОЦР функција: аутоматски препознајте слике и читајте текст  с лакоћом.\n
+        Муњевито и брзо препознавање кодова са слике, које омогућује брзо препознавање кодова са слике у реалном времену.\n
+        Препознајте све што је у вашој близини. Људе, догађаје и објекте.\n
+        Филтрирање интернет садржаја: читајте интернет садржај с лакоћом, без слика и садржаја, који вам скреће пажњу.\n
+        Копирајте целе екране с лакоћом.\n
+        Начин читања чланака: аутоматско окретање страница, филтрирање садржаја… \n
+        Покрети који се могу прилагодити за одређену апликацију.
+        Списак омиљених: приступите  свом омиљеном садржају, било када, било где.\n
+        Брзо уређивање: брзо проналазите реченице, речи и одломке  које желите да уредите.\n
+        Напредно означавање текста: по речима, реченицама, одломцима. Означите тачно одређени текст, који вам треба.\n
+        И многе друге операције које можете извршавати уз помоћ додатних гласовних наредби.\n
+        Аутоматски покренути додаци, увек имајте своје омиљене додатке покренуте.\n
+        Јиесхуо је ваш неисцрпно подесив читач екрана!
+    </string>
+
+    <string name="about_title">Hebei Biyou Technology Co., Ltd.</string>
+    <string name="help_feed_summary">Јиесхуо Читач екрана користи неколико технолошких решења треће стране: Тенцент АИ, Баиду АИ, Баиду ТТС, Баиду Транслатор, Баиду МТС, Андро ЛУА Плус, ИТД.</string>
+
+    <string name="menu_title">Мени</string>
+
+    <string name="tts_speed_title">Брзина говора: </string>
+    <string name="tts_speed_summary">Брзина говорне јединице.</string>
+
+
+    <string name="usage_hints_title">Читај савете о коришћењу: </string>
+    <string name="usage_hints_summary">Чита интерактивне савете базиране на апликацији коју користите.</string>
+
+    <string name="vibrate_title">Вибрација: </string>
+    <string name="vibrate_summary">Користи вибрацију са читачем екрана.</string>
+
+    <string name="use_proixmity_sensor_title">Користите сензор близине: </string>
+    <string name="use_proixmity_sensor_summary">Зауставља читање када се додирне сензор близине.</string>
+
+    <string name="screen_off_speak_title">Читај обавештења када је уређај закључан: </string>
+    <string name="screen_off_speak_summary">Обавештења ће бити прочитана када је уређај закључан.</string>
+
+    <string name="use_sound_title">Звучна повратна информација: </string>
+    <string name="use_sound_summary">Користите тренутно одабрану звучну тему.</string>
+
+    <string name="use_list_index_title">Читај опсег листе: </string>
+    <string name="use_list_index_summary">Изговара информацију о приказивању опсега листе приликом скроловања.</string>
+
+    <string name="use_node_title">Користите чворасти начин прегледа (само за напредне кориснике)</string>
+    <string name="use_node_summary">користи чворасти начин прегледа.</string>
+
+    <string name="tts_volume_title">Јачина говорне јединице: </string>
+    <string name="tts_volume_summary">Јачина говорне јединице једнака је јачини звука медија.</string>
+
+    <string name="use_key_shortcut_title">Користите тастере за јачину звука као тастере пречица: </string>
+    <string name="use_key_shortcut_summary">Дуго притискајте тастере за јачину звука како бисте извршавали разне операције.</string>
+    <string name="tts_speaker_title">Глас: </string>
+    <string name="tts_speaker_summary">Уграђени глас говорне јединице.</string>
+
+    <string name="tts_settings_title">Подешавања говорне јединице</string>
+    <string name="feed_setting_title">Подешавања повратних информација</string>
+    <string name="content_setting_title">Подешавања презентације садржаја</string>
+    <string name="other_setting">Остала подешавања</string>
+
+    <string name="tts_system_settings_title">Подешавања говорне јединице система</string>
+
+    <string name="template_stream_volume">%1$s јачина је %2$d</string>
+    <string name="template_stream_volume_set">%1$s јачина %2$d</string>
+    <string name="value_stream_master">"Главна"</string>
+    <string name="value_stream_voice_call">"Позив"</string>
+    <string name="value_stream_system">"Звукови система "</string>
+    <string name="value_stream_ring">"Звоњава"</string>
+    <string name="value_stream_music">"Мултимедија"</string>
+    <string name="value_stream_alarm">"Аларм"</string>
+    <string name="value_stream_notification">"Обавештења"</string>
+    <string name="value_stream_dtmf">"ДТМФ тонови"</string>
+    <string name="value_googletv_screen_saver">"Чувар екрана"</string>
+
+    <string name="template_charging">"Пуњење %1$s, батерија је на %2$s."</string>
+    <string name="notification_type_status_started">"започето"</string>
+    <string name="notification_type_status_stopped">"заустављено"</string>
+    <string name="acc_settings_title">Подешавања приступачности</string>
+    <string name="qq_group_title">Званична QQ група Јиесхуо читача екрана</string>
+    <string name="audio_focus_title">Утишавање звука када раде друге апликације: </string>
+
+    <string name="voice_app_name">Гласовни асистент</string>
+    <string name="voice_helper_service_description">Користите ваш телефон уз помоћ гласовних наредби.</string>
+    <string name="web_app_name">Интернет претраживач</string>
+    <string name="help_title">Екран помоћи</string>
+    <string name="use_log_title">Омогући вођење записника: </string>
+    <string name="notification_speak_title">Читај обавештења: </string>
+    <string name="plugin_title">Додаци</string>
+    <string name="action_menu_title">Мени са радњама</string>
+    <string name="clipboard_menu_title">Мени међуспремника</string>
+    <string name="select_menu_title">Означавање текста</string>
+    <string name="all_text_title">Читање пуног текста</string>
+    <string name="use_touch_mode_title">Омогући покрете (не искључујте ако сте тотално слепи): </string>
+    <string name="unknown_lable_title">Покушај погађати ознаку неозначене ставке: </string>
+    <string name="action_setting_title">Подешавања радњи</string>
+    <string name="use_single_tap_title">Једноструки додир за активацију: </string>
+    <string name="use_up_tap_title">Подигните прст са ставке за активацију: </string>
+    <string name="sound_volume_title">Јачина звучне теме: </string>
+    <string name="notification_bar_speak_title">Читај обавештења из траке са обавештењима: </string>
+    <string name="notification_toast_speak_title">Читај искачућа обавештења: </string>
+    <string name="notification_announcement_speak_title">Читај обавештења читача екрана: </string>
+    <string name="notification_settings_title">Подешавања обавештења</string>
+    <string name="help_feed_title">Помоћ и повратне информације</string>
+    <string name="advanced_setting_title">Напредна подешавања</string>
+    <string name="notification_white_list_title">Бела листа обавештења</string>
+    <string name="notification_black_list_title">Црна листа обавештења</string>
+    <string name="voice_help_title">Гласовни асистент помоћ</string>
+    <string name="sound_package_title">Звучне теме</string>
+    <string name="value_default">Подразумевана</string>
+    <string name="notification_app_name_speak_title">Читај извор обавештења: </string>
+    <string name="use_up_tap_summary">Подизање прста активираће ставку која се налази испод њега. Уколико прст дуже остане на ставци, иста неће бити активирана.</string>
+    <string name="use_tap_mode_title">Додирните екран како бисте пребацили фокус: </string>
+    <string name="vibrate_intensity_title">Интензитет вибрације: </string>
+    <string name="use_progress_title">Аутоматско читање трака напредка: </string>
+    <string name="use_scroll_list_index_title">Читај тренутни опсег приказаних ставки на екрану: </string>
+    <string name="use_content_changed_title">Извести о динамичким променама садржаја: </string>
+    <string name="use_double_fling_title">Користи вишеделне покрете: </string>
+    <string name="use_view_name_title">Читај назив тренутно фокусиране контроле: </string>
+    <string name="permissions_settings_title">Исправити проблеме с дозволама</string>
+    <string name="use_node_info_title">Читај тренутну информацију о чвору: </string>
+    <string name="use_content_tree_changed_title">Аутоматски Читај садржај тренутног прозора: </string>
+    <string name="split_menu_title">Мени за кретање</string>
+    <string name="split_edit_title">Уређивање</string>
+    <string name="edit_title">Уреди</string>
+    <string name="plugin_manager_title">Управљај додацима</string>
+    <string name="sound_manager_title">Управљај звучним темама</string>
+    <string name="clipboard_manager_title">Управљај међуспремником</string>
+    <string name="label_manager_title">Управљај прилагођеним ознакама</string>
+    <string name="menu_manager_title">Управљај главним менијем</string>
+    <string name="menu_up_tap_title">Отпустите прст за активацију ставке менија: </string>
+    <string name="navigation_up_tap_title">Отпустите прст, како бисте активирали софтверске навигационе тастере: </string>
+    <string name="only_notification_title">Омогући поновно покретање читача екрана само из траке са обавештењима: </string>
+    <string name="send_log_title">Пошаљи извештаје</string>
+    <string name="long_click_title">Чекање на дуги притисак: </string>
+    <string name="long_click_summary">Кашњење уз које ће радња повезана са дугим притиском бити активирана.</string>
+    <string name="split_select_title">Означавам</string>
+    <string name="use_up_long_click_title">Додирните и отпустите прст, како би се ставка активирала акцијом дугог притиска: </string>
+    <string name="use_up_long_click_summary">Симулирај акцију дугог притиска додиривањем и отпуштањем прста са ставке</string>
+    <string name="backup_manager_title">Управљај сигурносним копијама</string>
+    <string name="user_letter_map_title">Користи кориснички речник (потребно је поновно покретање како би промена ступила на снагу): </string>
+    <string name="tts_use_offline_title">Користи Он-лине говорну јединицу: </string>
+    <string name="tts_use_offline_summary">Уколико нема преноса путем бежичне интернет везе, бићете аутоматски пребачени на подразумевану говорну јединицу</string>
+    <string name="gesture_package_title">Тема покрета: </string>
+    <string name="long_text_title">Напредно уређивање текста</string>
+    <string name="gesture_manager_title">Управљај покретима</string>
+    <string name="use_ocr_title">Аутоматско коришћење функције ОЦР: </string>
+    <string name="use_ocr_summary">Аутоматски идентификуј слику у фокусу или неозначену ставку. Ово ће користити више саобраћаја и енергије</string>
+    <string name="content_blacklist_title">Садржај црне листе</string>
+    <string name="no_phone_permission">Нема дозвола.</string>
+    <string name="message_time_out">неауторизовано</string>
+    <string name="message_welcome">Јиесхуо Читач екрана је укључен.</string>
+    <string name="message_in_dim_screen">Таман екран омогућен.</string>
+    <string name="message_out_dim_screen">Таман екран онемогућен</string>
+    <string name="message_only_android5_last">Подржан је андроид 5 или новији!</string>
+    <string name="notification_box">Оквир обавештења</string>
+    <string name="clear">Очисти</string>
+    <string name="message_disabled_up_tap">"Отпустите за активацију" онемогућено</string>
+    <string name="message_enabled_up_tap">"Отпустите за активацију" омогућено.</string>
+    <string name="message_no_found_edit_text">Оквир за уређивање није пронађен.</string>
+    <string name="message_voice_feedback_paused">Гласовна повратна информација је привремено онемогућена.</string>
+    <string name="message_voice_feedback_resume">Гласовна повратна информација је поново омогућена</string>
+    <string name="message_enable_tap_mode">Омогући начин "Додирните за пребацивање фокуса"</string>
+    <string name="message_disabled_tap_mode">Онемогући начин "Додирните за пребацивање фокуса"</string>
+    <string name="directory_gestures">Покрети</string>
+    <string name="directory_temp">ТМП</string>
+    <string name="directory_plugins">Додаци</string>
+    <string name="message_recognition">Препознајем…</string>
+    <string name="message_recognition_error">Грешка при препознавању. Молимо покушајте поново.</string>
+    <string name="directory_sounds">Звукови</string>
+    <string name="directory_resources">Ресурси</string>
+    <string name="file_name_letter">dict.json</string>
+    <string name="file_name_symbol">symbols.json</string>
+    <string name="directory_labels">Ознаке</string>
+    <string name="directory_backup">Сигурносне копије</string>
+    <string name="message_load_sound_error">Грешка приликом учитавања звучне теме.</string>
+    <string name="message_load_done">Ресурс је успешно увезен.</string>
+    <string name="tool_title">Алати и додаци</string>
+    <string name="directory_tools">Алати</string>
+    <string name="ocr_title">Препознавање текста</string>
+    <string name="tool_manager_title">Управљање алатима</string>
+    <string name="message_load_error">Неуспешно увезен ресурс.</string>
+    <string name="manager_activity_title">Управљање ресурсима</string>
+    <string name="use_headset_key_title">Користи дугме на слушалицама за контролу читача екрана: </string>
+    <string name="use_wake_lock_title">Оставите телефон стално откључан: </string>
+    <string name="user_settings_title">Кориснички центар</string>
+    <string name="user_name_title">Корисничко име</string>
+    <string name="user_id_title">ИД корисника</string>
+    <string name="user_key_title">Ауторизацијски кључ</string>
+    <string name="user_validity_title">Рок важења: </string>
+    <string name="user_point_title">Бодови за позивање корисника</string>
+    <string name="gesture_description_title">Опис покрета</string>
+    <string name="user_invite_title">ИД позиваоца</string>
+    <string name="login_title">Пријава</string>
+    <string name="reg_title">Регистрација</string>
+    <string name="message_recognition_none">Нема резултата препознавања</string>
+    <string name="tts_iflytek_settings_title">Подешавања Ксунфеи говорне јединице</string>
+    <string name="tts_use_fly_title">Користи Ксунфеи говорну јединицу: </string>
+    <string name="tts_pitch_title">Висина гласа: </string>
+    <string name="tts_speed_double_title">Додатно убрзање синтезе говора: </string>
+    <string name="tts_unisound_settings_title">Подешавања Унисоунд Говорне Јединице</string>
+    <string name="use_wake_lock_summary">Оставите екран укључен када се чита текст.</string>
+    <string name="audio_focus_summary">Утишај друге звукове у току изговарања.</string>
+    <string name="message_done">Завршено</string>
+    <string name="app_gesture_package_title">Тема покрета за апликације.</string>
+    <string name="app_gesture_package_summary">Конфигуриши тему покрета за апликације.</string>
+    <string name="char_mode_gesture_title">Не користи прилагођене покрете у начину прегледања реч по реч: </string>
+    <string name="char_mode_gesture_summary">Користи подразумеване покрете у начину прегледа реч по реч</string>
+    <string name="notification_summary_title">Опис обавештења</string>
+    <string name="use_image_filter_title">Филтрирај слике приликом претраживања интернет страница</string>
+    <string name="gesture_settings_title">Подешавања покрета</string>
+    <string name="setup_plugin_title">Аутоматски покренути додаци</string>
+    <string name="advanced_menu_title">Напредна подешавања</string>
+    <string name="quick_menu_title">Брзи мени</string>
+    <string name="check_update_title">Провери надоградње</string>
+    <string name="qq_group_summary">Дискутујте о програму или га купите</string>
+    <string name="favorites_menu_title">Омиљено</string>
+    <string name="favorites_manager_title">Управљајте својим омиљеним ставкама</string>
+    <string name="use_multi_menu_title">Користи мени са више колона: </string>
+    <string name="use_multi_menu_summary">Мени са више колона не подржава прилагођени садржај</string>
+    <string name="use_left_right_title">Користи превлачења прстом у лево или у десно за кретање: </string>
+    <string name="use_list_item_index_title">Читај број фокусиране ставке на попису: </string>
+    <string name="use_left_right_summary">Када се користи подразумевана тема покрета, мењање фокуса са превлачењем лево-десно, извршава функције пречице са превлачењем горе-доле.</string>
+    <string name="use_old_previous_title">Користи стари начин мењања фокуса: </string>
+    <string name="baidu_tieba_title">Баиду енциклопедија</string>
+    <string name="use_single_tts_title">Користи једну говорну јединицу: </string>
+    <string name="use_auto_update_title">Омогући аутоматске надоградње: </string>
+    <string name="use_pager_scroll_title">Аутоматски листај странице: </string>
+    <string name="use_supper_filter_title">Строго филтрирање интернет страница: </string>
+    <string name="change_log_title">Дневник измена</string>
+    <string name="use_up_long_quick_menu_title">Прикажи мени са радњама приликом дугог притиска: </string>
+    <string name="use_show_dis_enabled_quick_menu_title">Прикажи недоступне радње у менију са радњама: </string>
+    <string name="voice_helper_setting_title">Подешавања Гласовног асистента</string>
+    <string name="voice_helper_copy_title">Аутоматски копирај резултате превода у међуспремник: </string>
+    <string name="trans_lang_from_title">Изворни језик: </string>
+    <string name="use_pager_scroll_summary">Аутоматски се пребацујте на следећу страницу када дођете до краја тренутне</string>
+    <string name="scroll_gesture_settings_title">Подешавања померања</string>
+    <string name="click_settings_title">Подешавања кликабилних акција</string>
+    <string name="key_shortcut_setting_title">Подешавања тастера за пречице</string>
+    <string name="gesture_title">Подешавања покрета</string>
+    <string name="use_single_tap_summary">Кликни једном за активирање фокусиране ставке</string>
+    <string name="use_old_previous_summary">传统方式上一个焦点是下一个焦点的简单返回，取消后将使用新的上一个焦点方式，按照焦点层级返回，在一直向上浏览时更容易掌握内容所属关系</string>
+    <string name="use_headset_key_summary">Притисните дугме на слушалицама за прелазак на следећу ставку, дуго притисните дугме за активацију гласовног асистента.</string>
+    <string name="list_view_settings_title">Подешавања листе</string>
+    <string name="view_label_settings_title">Подешавања приказивања ознака</string>
+    <string name="view_changed_settings_title">Подешавања динамичког садржаја</string>
+    <string name="content_filter_settings_title">Подешавања филтрирања садржаја</string>
+    <string name="hints_list_settings_title">Подешавања савета о коришћењу</string>
+    <string name="use_node_info_summary">Читај информације у тренутно фокусираном чвору када се налазите у чворастом начину прегледа.</string>
+    <string name="use_list_item_index_summary">Читај распон листе тренутне ставке.</string>
+    <string name="use_scroll_list_index_summary">Читај тренутни распон листе приликом скроловања</string>
+    <string name="use_view_name_index_summary">Читај тип и назив тренутне ставке, уколико не постоји назив, читач екрана ће покушати да га одреди.</string>
+    <string name="unknown_lable_summary">ИД тренутно фокусиране ставке се чита када тренутна ставка нема назив.</string>
+    <string name="use_progress_summary">Аутоматски читај траке напредка када се исте промене</string>
+    <string name="use_content_changed_summary">Аутоматски читај фокусиране ставке</string>
+    <string name="use_content_tree_changed_summary">Аутоматски читај промене у тренутном прозору</string>
+    <string name="content_blacklist_summary">Филтрирајте садржај на црну листу како бисте одстранили део непотребног фокуса. Појавила се грешка која значи да се ознака не може додати.</string>
+    <string name="use_image_filter_summary">Филтрирај слике приликом прегледа интернет страница</string>
+    <string name="use_supper_filter_summary">Филтрирај интернет садржај који није кинески.</string>
+    <string name="use_edge_gesture_title">Користи ивичне покрете: </string>
+    <string name="left_edge_gesture_title">Подешавање леве ивичне пречице</string>
+    <string name="right_edge_gesture_title">Подешавање десне ивичне пречице</string>
+    <string name="right_edge_gesture_value_default">Недавне апликације</string>
+    <string name="left_edge_gesture_value_default">Назад</string>
+    <string name="use_edge_gesture_summary">Покрети који се изводе на крајњој ивици екрана.</string>
+    <string name="left_edge_gesture_summary">Прилагодите леву ивичну пречицу.</string>
+    <string name="right_edge_gesture_summary">Прилагодите десну ивичну пречицу</string>
+    <string name="down_volume_key_value_default">гласовни асистент</string>
+    <string name="down_volume_key_title">Дуго притисните дугме за смањивање јачине</string>
+    <string name="down_volume_key_summary">Прилагодите функцију дугог притиска дугмета за смањивање јачине.</string>
+    <string name="up_volume_key_title">Дуго притисните дугме за појачавање</string>
+    <string name="up_volume_key_summary">Прилагодите функцију дугог притиска дугмета за појачавање</string>
+    <string name="up_volume_key_value_default">Укључите или искључите "Отпуштање прста за активацију"</string>
+    <string name="use_speak_call_phone_summary">Изговарај број и име позиваоца: </string>
+    <string name="use_speak_call_phone_title">Информација о позиваоцу: </string>
+    <string name="use_speak_changed_volume_summary">Читај поруку при подешавању јачине звука</string>
+    <string name="use_speak_changed_volume_title">Читај поруку о промени јачине: </string>
+    <string name="vip_qq_group_title">Јиесхуо VIP QQ група</string>
+    <string name="qq_group2_title">Јиесхуо Читач екрана званична QQ група</string>
+    <string name="right_long_edge_gesture_value_default">Трака обавештења</string>
+    <string name="left_long_edge_gesture_value_default">Почетни екран</string>
+    <string name="right_long_edge_gesture_title">Подешавања превлачења по десној ивици екрана</string>
+    <string name="left_long_edge_gesture_title">Подешавања превлачења по левој ивици екрана</string>
+    <string name="left_long_edge_gesture_summary">Превуците с леве према десној ивици екрана</string>
+    <string name="right_long_edge_gesture_summary">Превуците с десне према левој ивици екрана.</string>
+    <string name="use_up_long_quick_menu_summary">Прикажите мени пречица приликом дугог притиска на фокусирану ставку.</string>
+    <string name="up_volume_short_key_value_default">Појачавање јачине звука</string>
+    <string name="up_volume_short_key_title">Кратак притисак дугмета за појачавање јачине звука: </string>
+    <string name="up_volume_short_key_summary">Изабери радњу коју желиш да буде извршена приликом кратког притиска на дугме за повећавање јачине звука. Ако желиш променити јачину, користи дугмад за јачину држећи прст на екрану</string>
+    <string name="down_volume_short_key_value_default">Смањивање јачине звука</string>
+    <string name="down_volume_short_key_title">Кратак притисак дугмета за смањивање јачине звука: </string>
+    <string name="down_volume_short_key_summary">Изабери радњу коју желиш да буде извршена приликом кратког притиска на дугме за смањивање јачине звука. Ако желиш променити јачину, користи дугмад за јачину држећи прст на екрану</string>
+    <string name="use_ringtone_volume_title">Користи јачину звука звона: </string>
+    <string name="use_ringtone_volume_summary">Користите јачину звука звона за одређивање јачине информација о позиваоцу</string>
+    <string name="up_down_volume_short_key_value_default">Привремено онемогући истраживање додиром</string>
+    <string name="up_down_volume_short_key_summary">Онемогући или омогући истраживање додиром</string>
+    <string name="up_down_volume_short_key_title">Истовремени притисак оба дугмета за јачину звука</string>
+    <string name="tts_engine_title">Главна говорна јединица</string>
+    <string name="async_tts_engine_title">Друга говорна јединица</string>
+    <string name="async_tts_engine_summary">Говорна јединица која се користи за читање обавештења и других додатних информација. Одабир исте говорне јединице попут главне резултираће коришћењем само једне говорне јединице.</string>
+    <string name="tts_engine_summary">Говорна јединица која се користи за читање садржаја. Ако изабрана јединица не ради, прва доступна јединица ће бити коришћена.</string>
+    <string name="timer_manager_title">Управљај тајмером</string>
+    <string name="use_foreground_title">Користи чувар екрана</string>
+    <string name="use_foreground_summary">Ако је екран често у стању мировања, означите ову могућност</string>
+    <string name="use_speak_qq_changed_title">Аутоматски читај QQ поруке у разговорима</string>
+    <string name="use_speak_qq_changed_summary">Аутоматски чита пристигле QQ поруке.</string>
+    <string name="left_button_default_value">Прекини|Одбиј|*Превуци за одбијање долазног позива*|Заврши позив|Прекини позив|Прекини|Прекини QQ позив|Одбиј QQ позив|Пребаците се на претходни позив|Иди на претходну ставку|Крећи се на горе|Откажи&amp;Начин слушалица</string>
+    <string name="right_button_default_value">Одговори на позив|*Превуци за одговарање на позив*|Хандсфрее режим|Режим звучника|Иди на следећу ставку|Следећа песма</string>
+    <string name="edge_gesture_title">Подешавања ивичних покрета</string>
+    <string name="left_button_title">Акције пречице левог превлачења</string>
+    <string name="right_button_title">Акције пречице десног превлачења</string>
+    <string name="use_add_async_tts_title">Складишти обавештења за читање: </string>
+    <string name="use_add_async_tts_summary">Ако постоји више од једног обавештења које мора бити прочитано, говор неће бити прекинут. Ова могућност не подржава режим једне говорне јединице</string>
+    <string name="questions_answers_title">Често Постављана Питања</string>
+    <string name="orientation_landscape">Хоризонтално</string>
+    <string name="orientation_portrait">Вертикално</string>
+    <string name="use_alarm_title">Изговарај време: </string>
+    <string name="use_alarm_summary">Изговара одређено време.</string>
+    <string name="alarm_settings_title">Подешавања аларма</string>
+    <string name="url_menu_title">Ставке за интеракцију</string>
+    <string name="use_long_click_voice_input_title">Користи гласовни унос при дугом притиску на текстуално поље.</string>
+    <string name="voice_input_append_mode_title">Додај текст на крај текстуалног поља кад се користи гласовни унос</string>
+
+    <string name="general_usage_hints_title">Општи савети о коришћењу</string>
+    <string name="general_speak_list_title">Чита информације о листи</string>
+    <string name="general_settings_title">Општа подешавања</string>
+    <string name="use_custom_gesture_title">Користи прилагођене покрете</string>
+    <string name="custom_gesture_settings_title">Подешавања прилагођених покрета</string>
+    <string name="use_foreground_pro_title">Напредна заштита од закључавања</string>
+    <string name="use_foreground_pro_summary">Поставља Јиесхуо изнад других програма, помаже при очитавању говорних јединица на закључаном екрану</string>
+    <string name="use_power_save_title">Режим уштеде енергије: </string>
+    <string name="use_power_save_summary">Смањује коришћење батерије</string>
+    <string name="power_settings_title">Подешавања уштеде енергије</string>
+    <string name="action_settings_title">Подешавања радњи</string>
+    <string name="keep_focus_position_title">Памти позицију фокуса</string>
+    <string name="download_activity_title">Преузми додатне ресурсе</string>
+    <string name="use_number_speak_title">Читај бројеве цифру по цифру: </string>
+    <string name="use_input_method_gesture_title">Када се налазите у режиму уређивања, Користите покрете за означавање речи</string>
+    <string name="use_input_method_gesture_summary">Превлачења ће мењати одабир речи за аутоматски исправак.</string>
+    <string name="use_volume_key_move_text_title">Користите тастере за јачину звука како бисте померали курсор када се налазите у режиму уређивања</string>
+    <string name="user_text">Корисничко име: од 5 до 15 латиничних знакова</string>
+    <string name="pass_text">Лозинка: од 6 до 15 латиничних знакова.</string>
+    <string name="current_text">%d од %d знакова је унешено</string>
+    <string name="user_id_text">ИД корисника</string>
+    <string name="screen_on_off_settings_title">Извештавање о стању екрана</string>
+    <string name="use_screen_on_speak_title">Читај поруку откључавања екрана</string>
+    <string name="use_screen_off_speak_title">Читај поруку закључавања екрана</string>
+    <string name="use_accessibility_volume_title">Користи јачину звука приступачности</string>
+    <string name="use_accessibility_volume_summary">Јачина читача екрана ће бити контролисана јачином приступачности уместо јачином медија. Упозорење! ово подржава само говорна јединица система</string>
+    <string name="value_stream_accessibility">Приступачност</string>
+    <string name="left_right_gesture_title">Подешавања алтернативних покрета</string>
+    <string name="use_move_list_view_item_title">Лево и десно превлачење по екрану помера попис.</string>
+    <string name="no_support">Потребна је верзија андроида %d или новија.</string>
+    <string name="use_pinyin_speak_title">Користи ПинЈин говорну јединицу у режиму уређивања</string>
+    <string name="backup_restore_settings_title">Подешавања сигурносне копије и враћања</string>
+    <string name="backup_settings_title">Подешавања сигурносне копије</string>
+    <string name="restore_settings_title">Подешавања враћања</string>
+    <string name="restore_settings_summary">Враћање подешавања ће пребрисати тренутна подешавања</string>
+    <string name="backup_settings_summary">Сигурносна копија подешавања ће пребрисати последњу сигурносну копију</string>
+    <string name="jieshuo_bbs_title">Форум Јиесхуо читача екрана</string>
+    <string name="use_symbol_speak_title">Читај интерпункцију</string>
+    <string name="use_cloud_label_title">Дељење ознака: </string>
+    <string name="use_cloud_label_summary">Дели и преузми прилагођене ознаке са сервера</string>
+    <string name="directory_helper">Асистент</string>
+    <string name="helper_manager_title">Раширена подешавања Гласовног асистента</string>
+    <string name="alarm_interval_title">Интервал аларма</string>
+    <string name="use_timer_speak_title">Користи поруку тајмера</string>
+    <string name="use_timer_vibrate_title">Користи вибрацију тајмера</string>
+    <string name="use_double_edge_gesture_title">Користи двострукопрстни ивични мени</string>
+    <string name="use_raw_click_title">Користи директан клик уместо клика приступачности</string>
+    <string name="use_raw_click_summary">У Андроиду 7 или новијем, ова функција може решити проблем одређених апликација које не реагују на улазне покрете.</string>
+    <string name="has_vip_summary">%s је доступно само за премиум кориснике</string>
+    <string name="vip_qq_kefu_title">Јиесхуо подршка</string>
+    <string name="vip_qq_kefu_summary">Овде можете добити подршку и купити читач екрана</string>
+    <string name="use_speak_changed_window_title">Чита цео садржај прозора када се исти промени: </string>
+    <string name="use_timer_sound_title">Звук тајмера: </string>
+    <string name="timer_setting_title">Подешавања тајмера</string>
+    <string name="voice_cmd_setting_title">Подешавања гласовних команди</string>
+    <string name="directory_cmd">Прилагођене гласовне команде</string>
+    <string name="use_move_list_view_item_summary">Дозвољава брзо кретање по листама</string>
+    <string name="add">Додај</string>
+    <string name="re_def_msg">Кликтањем дугмета У реду биће враћена подразумевана подешавања</string>
+    <string name="use_double_fling_summary">Брзо превуците према горе двапут начин брзог прегледа, превуците према доле двапут за аутоматски преглед</string>
+    <string name="voice_helper_use_gestures_title">Дозволи мењање тема покрета уз помоћ гласовног асистента</string>
+    <string name="voice_helper_use_app_gestures_title">Дозвољава мењање тема покрета коришћењем гласовног асистента</string>
+    <string name="voice_helper_use_cmd_title">Дозволи коришћење гласовних команди</string>
+    <string name="voice_helper_use_supper_cmd_title">Користи додатне гласовне команде у гласовном асистенту</string>
+    <string name="voice_helper_use_plugin_title">Користи додатке у гласовном асистенту</string>
+    <string name="voice_helper_use_tool_title">Дозвољава коришћење додатака у гласовном асистенту</string>
+    <string name="message_has_vip">Ова функција је доступна само премиум корисницима.</string>
+    <string name="has_vip_summary2">Функција %s је ограничена у бесплатној верзији програма</string>
+    <string name="voice_helper_capability_setting">Подешавања могућности гласовног асистента</string>
+    <string name="use_wake_lock_pro_title">Унапређено држање екрана одкључаним</string>
+    <string name="use_wake_lock_pro_summary">Ако опција изнад не ради, Молимо користите ову опцију.</string>
+    <string name="more_setting">Још подешавања</string>
+    <string name="kayword">Унесите кључну реч</string>
+    <string name="notification_black_list_summary">Обавештења која садрже ставке које су на црној листи неће бити изговорена.</string>
+    <string name="notification_while_list_summary">Обавештења која садрже ставке које су на белој листи ће увек бити изговорена.</string>
+    <string name="system_tts_volume_title">Јачина говорне јединице система</string>
+			<string name="notification_select_title">Подешавања читања обавештења</string>
+
+    <string name="message_disable_dim_screen">Молимо прво искључите затамњење екрана</string>
+    <string name="start_long_copy">Напредно копирање је започето</string>
+    <string name="runnimg_background">Читач екрана је покренут у позадинском начину</string>
+    <string name="description">Опис</string>
+    <string name="gestures_description_not_found">Датотека помоћи за покрете није пронађена</string>
+    <string name="timer_date_format">yyyy.M.d. HH:mm.</string>
+    <string name="to_all">%s за %s, укупно%s.</string>
+    <string name="try_again">Молимо покушајте поново</string>
+    <string name="timer_and_now_time">%s,сада је %s</string>
+    <string name="edit">уреди</string>
+    <string name="edit_text_not_found">Поље за уређивање није пронађено</string>
+    <string name="char_mode">Преглед реч по реч</string>
+    <string name="focus_mode">Преглед фокуса</string>
+    <string name="auto_next">Аутоматски преглед</string>
+    <string name="message_copy">Порука копирана</string>
+    <string name="message_append">Текст је додат</string>
+     <string name="text_format_settings_title">Подешавања речника</string>
+    <string name="use_text_format_first_title">Читај прво текст, када се налази у начину објашњавања: </string>
+    <string name="use_text_format_char_number_title">Читај састављајућа слова као једно слово: </string>
+
+    <string name="lower_case_format">%s Мало %s</string>
+    <string name="upper_case_format">%s Велико %s</string>
+    <string name="lower_case_format_number">%s，Мало, %s，%d слова</string>
+    <string name="upper_case_format_number">%s，Велико %s，%d Слова</string>
+
+    <string name="lower_case_format2">%s</string>
+    <string name="upper_case_format2">Велико %s</string>
+    <string name="upper_case_format3">%s Велико</string>
+    <string name="lower_case_format_number2">%s，%d Letters</string>
+    <string name="upper_case_format_number2">Постоји %s великих %d слова</string>
+
+    <string name="use_slow_speed_title">Успори говор када се налазиш у начину прегледа речи</string>
+    <string name="has_vip_summary_gesture">Ови покрети се не могу прилагођавати у бесплатној верзији програма</string>
+    <string name="message_has_vip_loop_click">Притисци са задршком нису подржани у бесплатној верзији програма.</string>
+
+    <string name="command_click">Клик</string>
+    <string name="command_long_click">Дуги притисак</string>
+    <string name="command_unlock">Одкључај</string>
+    <string name="command_start">Горе</string>
+    <string name="command_end">Доле</string>
+    <string name="command_nothing">Нема команде</string>
+    <string name="command_sleep">Режим спавања</string>
+    <string name="command_send_log">Пошаљи записнике</string>
+    <string name="command_gesture_setting">Подешавања покрета</string>
+    <string name="command_voice_setting">Подешавања говорне јединице</string>
+    <string name="command_action_setting">@string/action_setting_title</string>
+    <string name="command_feedback_setting">@string/feed_setting_title</string>
+    <string name="command_content_setting">@string/content_setting_title</string>
+    <string name="command_notification_setting">@string/notification_settings_title</string>
+    <string name="command_help_feed_setting">Помоћ и повратне информације</string>
+    <string name="command_left_shortcut">Лева пречица</string>
+    <string name="command_right_shortcut">Десна пречица</string>
+    <string name="command_long_copy">Напредно копирање текста</string>
+    <string name="command_my_location">моја локација</string>
+    <string name="command_where_i">Где се налазим?</string>
+    <string name="command_current_location">тренутна локација</string>
+    <string name="command_verification">Код са слике</string>
+    <string name="command_verification2">Код са слике</string>
+    <string name="command_verification3">Код са слике</string>
+    <string name="feed_back_disabled">Гласовна повратна информација је онемогућена</string>
+    <string name="command_gesture_help">Опис покрета</string>
+    <string name="command_gesture_help2">Помоћ за покрете</string>
+    <string name="command_virtual_screen">Виртуелни екран</string>
+    <string name="command_play_control">Контрола репродукције</string>
+    <string name="command_read_mode">Начин читања</string>
+    <string name="command_verbatim_speak">Начин читања реч по реч</string>
+    <string name="command_verbatim_speak2">Начин читања реч по реч</string>
+    <string name="command_to_previous_focus">Претходна ставка</string>
+    <string name="command_to_next_focus">Следећа ставка</string>
+    <string name="command_to_previous_page">Претходна страница</string>
+    <string name="command_to_next_page">Следећа страница</string>
+    <string name="command_to_previous_scroll">Помери се горе</string>
+    <string name="command_to_next_scroll">Помери се доле</string>
+    <string name="command_to_previous_progress">Смањи клизач</string>
+    <string name="command_to_next_progress">Повећај клизач</string>
+    <string name="command_lower_volume">Смањи јачину</string>
+    <string name="command_raise_volume">Повећај јачину</string>
+    <string name="command_now_time">тренутно време</string>
+    <string name="command_timer_mode">Тајмер</string>
+    <string name="command_timer_start">покрени тајмер</string>
+    <string name="command_quick_mode">Брзи преглед</string>
+    <string name="command_auto_next">Аутоматски преглед</string>
+    <string name="command_auto_speak">Аутоматско читање</string>
+
+    <string name="command_copy">Копирај</string>
+    <string name="command_append_copy">Копирај с додавањем</string>
+    <string name="command_paste">Налепи</string>
+
+    <string name="raw_swipe_down">[Повуци доле]</string>
+    <string name="raw_swipe_up">[Повуци горе]</string>
+    <string name="raw_swipe_right">[Повуци десно]</string>
+    <string name="raw_swipe_left">[Повуци лево]</string>
+    <string name="raw_long_click">[Дуги притисак]</string>
+    <string name="raw_click">[Клик]</string>
+
+    <string name="click_to_enabled">Истраживање додиром је поново омогућено.</string>
+    <string name="touch_mode_disabled">Истраживање додиром је онемогућено.</string>
+    <string name="node_mode">Чворасти преглед</string>
+    <string name="ignore_battery">Молимо омогућите апликацији да игнорише подешавања оптимизације батерије.</string>
+    <string name="overlay_window">Молимо омогућите слику у слици.</string>
+    <string name="opened"> укључено</string>
+    <string name="closed"> искључено</string>
+    <string name="checked"> означено</string>
+    <string name="unchecked"> није означено</string>
+    <string name="page_from_to">Страна %d од %d</string>
+    <string name="done">Операција је завршена</string>
+    <string name="error_try_again">Догодила се грешка. Молимо покушајте поново</string>
+    <string name="swipe_right">Превуци у десно</string>
+    <string name="swipe_left">Превуци у лево</string>
+    <string name="long_clicked">Дуги притисак</string>
+    <string name="notification_from">Ново обавештење од %s</string>
+    <string name="progress">Ток: %d</string>
+    <string name="item_current_count">%d од %d</string>
+    <string name="item_from_to_count">Приказују се ставке %d до %d од укупно %d</string>
+    <string name="point">Тачкица</string>
+    <string name="selected">Изабрано</string>
+    <string name="disabled">Недоступно</string>
+    <string name="progress2">Позиција: %d</string>
+    <string name="view_name_button"> дугме</string>
+    <string name="view_name_edit_text"> поље за уређивање</string>
+    <string name="view_name_editing">измена је у току</string>
+    <string name="view_name_web_view">Компонента приказа веб садржаја</string>
+    <string name="view_name_list_view"> листа</string>
+    <string name="view_name_spinner"> изборни оквир</string>
+    <string name="view_name_switch"> прекидач</string>
+    <string name="view_name_radio_button"> изборно дугме</string>
+    <string name="view_name_check_box"> поље за потврду</string>
+    <string name="view_name_seek_bar"> клизач</string>
+    <string name="view_name_progress_bar"> трака напредовања</string>
+    <string name="view_name_rating_bar"> оцењивачка трака</string>
+    <string name="view_name_image_button"> дугме са сликом</string>
+    <string name="view_name_image"> слика</string>
+
+    <string name="message_has_vip_read_mode">Начин читања чланака није доступан у бесплатној верзији програма</string>
+    <string name="message_enabled_read_mode">Излазим из начина читања</string>
+    <string name="message_long_copyed">Копиран је број ставки %d.</string>
+    <string name="message_read_mode_enabled">Улазим у начин читања,</string>
+    <string name="message_timer_mode_enabled">Тајмер је покренут</string>
+    <string name="message_clean">Поље за уређивање је очишћено</string>
+    <string name="message_clean_error">Грешка при чишћењу</string>
+    <string name="message_edit_text_not_found">Није пронађено поље за уређивање</string>
+
+
+    <string name="rap_action_settings_title">Додиривање задње стране телефона</string>
+    <string name="back_rap_action_value_default">@string/command_now_time</string>
+    <string name="back_rap_action_title">Двоструки додир задње стране телефона</string>
+    <string name="back_rap_action_summary">Двоструки додир задње стране телефона</string>
+
+    <string name="shake_action_value_default">@string/command_nothing</string>
+    <string name="shake_action_title">Протреси</string>
+    <string name="shake_action_summary">Протресите ваш уређај хоризонтално</string>
+
+
+    <string name="shake_action_sens_title">Осетљивост протресивања: </string>
+    <string name="shake_action_call_title">Протреси за одговарање на позив: </string>
+    <string name="message_no_thing">Нема садржаја</string>
+    <string name="double_fling_setting">Подешавања вишеделних покрета</string>
+
+    <string name="command_off_screen">Закључан екран</string>
+    <string name="command_lock">Закључан екран</string>
+    <string name="command_accessibility_service_setting">Подешавања приступачности</string>
+    <string name="command_trans">Преведи</string>
+    <string name="command_disable_dim_screen">Онемогући затамњење екрана</string>
+    <string name="command_enable_dim_screen">Затамњење</string>
+    <string name="command_enable_dim_screen2">Омогући затамњење екрана</string>
+    <string name="command_to_recents">Екран са недавним апликацијама</string>
+    <string name="command_clean">Очисти тренутно фокусирано поље за уређивање</string>
+    <string name="command_select">Мени означавања</string>
+    <string name="command_notification_box">Поље са обавештењима</string>
+    <string name="command_up_tap">Укључи или искључи "отпусти за активацију"</string>
+    <string name="command_tap_mode">Укључи или искључи додирни за пребацивање фокуса</string>
+    <string name="command_node_mode">Укључи или искључи чворасти начин прегледа</string>
+    <string name="command_to_home">Почетни екран</string>
+    <string name="command_to_back">Назад</string>
+    <string name="command_long_edit">Напредно уређивање текста</string>
+    <string name="command_all_speak">Читај цео екран</string>
+    <string name="command_all_speak2">Читај све</string>
+    <string name="command_all_select">Одабери све</string>
+    <string name="command_voice_helper">гласовни асистент</string>
+    <string name="command_voice_input">Гласовно диктирање</string>
+    <string name="command_ocr">Препознавање слика</string>
+    <string name="command_ocr_text">Препознавање текста</string>
+    <string name="camera_title">Јиесхуо камера</string>
+    <string name="command_disable_touch">Онемогући истраживање додиром</string>
+    <string name="command_disable_feedback">Онемогући повратну информацију гласом</string>
+    <string name="command_to_notifications">Отвори панел са обавештењима</string>
+    <string name="command_notifications">Читај траку са обавештењима</string>
+    <string name="command_battery_level">Изговара ниво батерије</string>
+    <string name="command_battery">Ниво батерије</string>
+    <string name="command_quick_menu">Мени пречица</string>
+    <string name="command_gestures_edit">Уреди покрете</string>
+
+    <string name="clipboard">Међуспремник</string>
+    <string name="favorites">Омиљено</string>
+    <string name="input_method">Начин уноса</string>
+    <string name="main_menu">Главни мени</string>
+    <string name="auto_read">Аутоматско читање</string>
+    <string name="list_mode_title">Прегледање листе</string>
+    <string name="main_setting">Подешавања програма</string>
+    <string name="battery_level">Батерија је на: %d</string>
+
+
+    <string name="double_fling_left_gesture_title">Подешавања левог превлачења</string>
+    <string name="double_fling_up_gesture_title">Подешавања превлачења према горе</string>
+    <string name="double_fling_right_gesture_title">Подешавања десног превлачења</string>long
+    <string name="double_fling_down_gesture_title">Подешавања превлачења према доле</string>
+
+    <string name="down_right_double_fling_setting">Подешавања вишеделног покрета доле десно</string>
+    <string name="down_right_double_fling_left_gesture_value_default">Назад</string>
+    <string name="down_right_double_fling_up_gesture_value_default">Почетни екран</string>
+    <string name="down_right_double_fling_right_gesture_value_default">[клик]</string>
+    <string name="down_right_double_fling_down_gesture_value_default">Панел са обавештењима</string>
+
+    <string name="down_left_double_fling_setting">Подешавања вишеделног покрета доле лево</string>
+    <string name="down_left_double_fling_left_gesture_value_default">@string/command_copy</string>
+    <string name="down_left_double_fling_up_gesture_value_default">@string/command_paste</string>
+    <string name="down_left_double_fling_right_gesture_value_default">@string/command_append_copy</string>
+    <string name="down_left_double_fling_down_gesture_value_default">@string/command_long_copy</string>
+
+
+    <string name="use_down_right_double_fling_gesture_title">Користи вишеделни покрет доле десно</string>
+    <string name="use_down_left_double_fling_gesture_title">Користи вишеделни покрет доле лево</string>
+
+
+    <string name="right_double_fling_setting">Подешавања вишеделног покрета двоструко десно</string>
+    <string name="use_right_double_fling_gesture_title">Користи вишеделни покрет двоструко десно</string>
+
+    <string name="left_double_fling_setting">Подешавања вишеделног покрета двоструко лево</string>
+    <string name="use_left_double_fling_gesture_title">Користи вишеделни покрет двоструко лево</string>
+
+
+    <string name="up_double_fling_setting">Подешавања вишеделног покрета на горе</string>
+    <string name="use_up_double_fling_gesture_title">Користи вишеделни покрет на горе</string>
+
+    <string name="down_double_fling_setting">Подешавања вишеделног покрета на доле</string>
+    <string name="use_down_double_fling_gesture_title">Користи вишеделни покрет на доле</string>
+
+
+    <string name="up_left_double_fling_setting">Подешавања вишеделног покрета горе лево</string>
+    <string name="use_up_left_double_fling_gesture_title">Користи вишеделни покрет горе лево</string>
+
+    <string name="up_right_double_fling_setting">Подешавања вишеделног покрета горе десно</string>
+    <string name="use_up_right_double_fling_gesture_title">Користи вишеделни покрет горе десно</string>
+
+
+    <string name="right_left_double_fling_setting">Подешавања вишеделног покрета десно лево</string>
+    <string name="use_right_left_double_fling_gesture_title">Користи вишеделни покрет десно лево</string>
+
+    <string name="left_right_double_fling_setting">Подешавања вишеделног покрета лево десно</string>
+    <string name="use_left_right_double_fling_gesture_title">Користи вишеделни покрет лево десно</string>
+
+
+    <string name="up_down_double_fling_setting">Подешавања вишеделног покрета горе доле</string>
+    <string name="use_up_down_double_fling_gesture_title">Користи вишеделни покрет горе доле</string>
+
+    <string name="down_up_double_fling_setting">Подешавања вишеделног покрета доле горе</string>
+    <string name="use_down_up_double_fling_gesture_title">Користи вишеделни покрет доле горе</string>
+
+
+    <string name="left_down_double_fling_setting">Подешавања вишеделног покрета лево доле</string>
+    <string name="use_left_down_double_fling_gesture_title">Користи вишеделни покрет лево доле</string>
+
+    <string name="left_up_double_fling_setting">Подешавања вишеделног покрета лево горе</string>
+    <string name="use_left_up_double_fling_gesture_title">Користи вишеделни покрет лево горе</string>
+
+
+    <string name="right_down_double_fling_setting">Подешавања вишеделног покрета десно доле</string>
+    <string name="use_right_down_double_fling_gesture_title">Користи вишеделни покрет десно доле</string>
+
+    <string name="right_up_double_fling_setting">Подешавања вишеделног покрета десно горе</string>
+    <string name="use_right_up_double_fling_gesture_title">Користи вишеделни покрет десно горе</string>
+
+    <string name="command_speak">Читај</string>
+    <string name="command_intput">Улаз</string>
+    <string name="app">Отвори апликацију</string>
+    <string name="command_to_previous_section">Иди на претходни одељак</string>
+    <string name="command_to_next_section">Иди на следећи одељак</string>
+    <string name="command_to_previous_link">Иди на претходни линк</string>
+    <string name="command_to_next_link">Иди на следећи линк</string>
+    <string name="command_to_previous_control">Иди на претходну контролу</string>
+    <string name="command_to_next_control">Иди на следећу контролу</string>
+    <string name="system_tts_engine_title">Говорна јединица</string>
+    <string name="cancel">Откажи</string>
+    <string name="timer_interval_title">Интервал подсетника</string>
+    <string name="gesture_help_title">Помоћ покрета</string>
+    <string name="show_volume_ui_title">Прикажи панел јачине система када се подешава јачина</string>
+    <string name="fingerprint_gesture_setting">Подешавања покрета на читачу отиска прста</string>
+    <string name="fingerprint_gesture_setting_summary">Ова функција је подржана на уређајима са андроидом 8 или новијим.</string>
+    <string name="use_fingerprint_gesture_title">Користи покрете који се изводе на читачу отиска прстију: </string>
+    <string name="fingerprint_left_gesture_value_default">Назад</string>
+    <string name="fingerprint_right_gesture_value_default">[Клик]</string>
+    <string name="fingerprint_up_gesture_value_default">Претходна ставка</string>
+    <string name="fingerprint_down_gesture_value_default">Следећа ставка</string>
+    <string name="command_supper_mode">Начин детаљног кретања</string>
+    <string name="command_ocr_focus">Препознај фокусирану ставку функцијом ОЦР.</string>
+    <string name="navi">кретање</string>
+    <string name="unknown_index_title">Read the index of an unlabelled control: </string>
+    <string name="unknown_index_summary">Read the index number of the focused item, even if the item has no label or ID.</string>
+    <string name="alarm_start_hour_title">Време почетка аларма</string>
+    <string name="alarm_end_hour_title">Време краја аларма</string>
+    <string name="command_virtual_navigation">Виртуелна навигација</string>
+    <string name="voice_helper_use_click_title">Директно активирај означену ставку.</string>
+    <string name="voice_helper_use_app_title">Директно отвори означени програм</string>
+    <string name="voice_helper_use_app_summary">Можете отворити одређени програм тако да кажете његово име. Ако је та опција онемогућена изговорите "Отвори Име програма" како бисте га отворили.</string>
+    <string name="voice_helper_use_click_summary">Можете изговорити име ставке како бисте је активирали. Ако је ова опција онемогућена, изговорите "активирај Име Ставке" како бисте активирали дату ставку.</string>
+    <string name="edge_gesture_width_title">Распон активације ивичног покрета: </string>
+    <string name="use_double_edge_gesture_summary">функције које су подешене да се испуњавају уз помоћ вишеделних покрета нису доступне из менија вишеделних покрета.</string>
+    <string name="left_edge_gesture_items_title">Прилагодите леви ивични мени</string>
+    <string name="right_edge_gesture_items_title">Прилагодите десни ивични мени</string>
+    <string name="multi_menu_items_title">Прилагодите мени са више колона</string>
+    <string name="main_menu_items_title">Прилагодите главни мени</string>
+    <string name="use_edge_gesture_menu_title">Користи ивични екрански мени: </string>
+    <string name="use_left_edge_gesture_quick_menu_title">在左边缘菜单中使用单应用快捷菜单</string>
+    <string name="use_small_filter_title">Филтрирај нежељене ставке: </string>
+    <string name="jieshuo_bbs_summary">Поделите ваше повратне информације о Јиесхуо Читачу екрана на нашем форуму</string>
+    <string name="voice_recognizer_title">Препознавач гласа: </string>
+    <string name="use_text_format_char_upper_title">Изговори када се ради о великим словима: </string>
+    <string name="voice_helper_media_mute_mode_title">Утишај јачину медија када је гласовни асистент активан: </string>
+    <string name="trans_lang_to_title">Језик на који се преводи: </string>
+    <string name="recognizer_lang_title">Језик препознавања говора: </string>
+    <string name="float_menu_items_title">Подешавања плутајућег менија</string>
+    <string name="use_float_menu_title">Користи плутајући мени</string>
+    <string name="tts_scale_title">Брзина говора говорне јединице</string>
+    <string name="auto_previous">Аутоматски претходни</string>
+    <string name="code_help_title">Јиесхуо АПИ референца за програмере</string>
+    <string name="sign_up">Регистрација</string>
+    <string name="login">Пријава</string>
+    <string name="back">Назад</string>
+    <string name="error">Грешка</string>
+    <string name="login_done">Пријава успешна</string>
+    <string name="sign_done">Регистрација успешна</string>
+    <string name="directory_timer">Тајмер</string>
+    <string name="timer_tags_items_title">управљач ознака тајмера</string>
+    <string name="value_none">ништа</string>
+    <string name="msg_deleted">%s избрисано</string>
+    <string name="tts_echo_voice_settings_title">Подешавања Екхо ТТС</string>
+    <string name="screen_off">Екран закључан</string>
+    <string name="edit_box_no_found">Поље за уређивање није пронађено</string>
+    <string name="msg_speak_content">Реците нешто</string>
+    <string name="msg_bye">Довиђења!</string>
+    <string name="date_format">HH:mm</string>
+    <string name="date_format0">HH:00</string>
+    <string name="more">Још</string>
+    <string name="add_label">Додај ознаку</string>
+    <string name="grid_item_current">Редова %d, колона %d.</string>
+    <string name="node_info_root">Root node contains %d child nodes.</string>
+    <string name="node_info">There are %d child nodes.</string>
+    <string name="node_info_none">No child nodes.，</string>
+    <string name="rating_current_count">Оцена %d од %d звездица.</string>
+    <string name="date_format_sec">с\'секунди\'</string>
+    <string name="date_format_min_sec">м\'минута\'сс\'секунди\'</string>
+    <string name="date_format_hour_min">ХХ\'Сати\'мм\'минута\'</string>
+    <string name="hint_move">Превлачите лево или десно за померање курсор\'позиције.</string>
+    <string name="hint_edit">Двапут додирните за уређивање.</string>
+    <string name="hint_change_seek">Превуците прстом у лево или у десно, како бисте променили позицију клизача.</string>
+    <string name="hint_change_rating">Превуците прстом у лево или у десно како бисте променили оцену.</string>
+    <string name="hint_checked">Двапут додирните за одабир.</string>
+    <string name="hint_uncheck">Двапут додирните да бисте уклонили ознаку.</string>
+    <string name="hint_closed">Двапут додирните за затварање.</string>
+    <string name="hint_opened">Двапут додирните за отварање.</string>
+    <string name="hint_changed">Двапут додирните за пребацивање.</string>
+    <string name="hint_double_click">Двапут притисните</string>
+    <string name="hint_activated">Активирано</string>
+    <string name="hint_double_click_activated">Двапут притисните за активацију</string>
+    <string name="hint_node_move">Left swipe: go to the previous node. Swipe right: go to the next node. Swipe down: go to the next element. Swipe up: go to the previous element.</string>
+    <string name="date_formater_min">мм\'минута\'</string>
+    <string name="touch_mode_enabled">Истраживање додира је омогућено.</string>
+    <string name="custom">Прилагођено</string>
+
+    <string name="create_gesture">Направи тему глобалних покрета</string>
+    <string name="create_app_gesture">Направи тему покрета за апликацију</string>
+    <string name="func">Функција</string>
+    <string name="swipe_up_right">Превуците горе и десно</string>
+    <string name="swipe_up_down">Превуците горе и доле</string>
+    <string name="swipe_up_left">Превуците горе и лево</string>
+    <string name="swipe_down">Превуците доле</string>
+    <string name="swipe_down_right">Превуците доле и десно</string>
+    <string name="swipe_down_up">Превуците доле и горе</string>
+    <string name="swipe_down_left">Превуците доле и лево</string>
+    <string name="swipe_left_up">Превуците лево и горе</string>
+    <string name="swipe_left_down">Превуците лево и доле</string>
+    <string name="swipe_left_right">Превуците лево и десно</string>
+    <string name="swipe_up">Превуците горе</string>
+    <string name="swipe_right_up">Превуците десно и горе</string>
+    <string name="swipe_right_down">Превуците десно и доле</string>
+    <string name="swipe_right_left">Превуците десно и лево</string>
+    <string name="exit">Излаз</string>
+    <string name="create">Направи</string>
+    <string name="save">Сачувај</string>
+    <string name="saved">Сачувано</string>
+    <string name="edit_name">Измени име</string>
+    <string name="actions">Радње</string>
+    <string name="share">Подели</string>
+    <string name="move_to_up">Помери горе</string>
+    <string name="move_to_down">Помери доле</string>
+    <string name="delete">Избриши</string>
+    <string name="select">Изабери</string>
+    <string name="rename">Преименуј</string>
+    <string name="func_manager">Управљач функција</string>
+    <string name="func_create">Направи функцију</string>
+    <string name="waiting">Чекање</string>
+    <string name="gestures_description_default">За подразумевану тему покрета погледајте екран помоћи.</string>
+    <string name="auto_click">Аутоматски клик</string>
+    <string name="insert">%s убачено.</string>
+    <string name="edit_button">Отвори листу дугмади (по један у реду).</string>
+    <string name="use_upper_speak_title">Изговори велико слово при писању на тастатури: </string>
+    <string name="system_voice_recognizer_title">Системски алат за препознавање говора</string>
+    <string name="system_voice_recognizer_summary">Подешавање је валидно само ако је механизам за препознавање постављен на нивоу Система.</string>
+    <string name="msg_no_found">Није пронађено.</string>
+    <string name="msg_canceled">Отказано.</string>
+    <string name="voice_cmd_phone_to">Позови телефон</string>
+    <string name="voice_cmd_call">Позив</string>
+    <string name="voice_cmd_send">Пошаљи</string>
+    <string name="open">отвори</string>
+    <string name="voice_cmd_uninstall">Деинсталирај</string>
+    <string name="voice_cmd_install">Инсталирај</string>
+    <string name="voice_cmd_input">Улаз</string>
+    <string name="voice_cmd_search">Претрага</string>
+    <string name="camera_guide">Режим препознавања у реалном времену.</string>
+    <string name="camera_tag">Препознавање сцена.</string>
+    <string name="camera_ocr">Препознавање текста</string>
+    <string name="camera_face">Идентификација лица</string>
+    <string name="camera_animal">Идентификација животиња</string>
+    <string name="camera_plant">Идентификација биљака.</string>
+    <string name="camera_currency">Идентификација новчанице.</string>
+    <string name="camera_ingredient">Идентификација воћа и поврћа.</string>
+    <string name="split_char">Знакови</string>
+    <string name="split_all">Све</string>
+    <string name="split_sentence">Реченице</string>
+    <string name="split_line">Ред</string>
+    <string name="split_paragraph">Одломци</string>
+    <string name="auto_click_create">Направи функцију аутоматског клика</string>
+    <string name="msg_text_changed">текст је промењен</string>
+    <string name="no_save">Не сачувај</string>
+
+    <string name="use_web_type_move_title">прегледај по контролама на интернет страницама.</string>
+    <string name="pref_donate_alipay">Донирајте користећи Али пеј, како бисте подржали развој читача екрана.</string>
+    <string name="pref_donate_paypal">Донирајте користећи пеј пал, како бисте подржали развој читача екрана.</string>
+    <string name="menu_settings_title">Подешавања менија</string>
+    <string name="directory_download">Преузимања</string>
+    <string name="msg_has_vip_split_edit">Бесплатна верзија програма не подржава уређивање више од сто знакова.</string>
+
+    <string name="media_doc_title">Звучни туторијали</string>
+    <string name="downloaded">Преузето</string>
+    <string name="no_login">Нисте пријављени.</string>
+    <string name="no_vip">Нисте премиум корисник!</string>
+    <string name="need_vip">Уколико желите да купите програм, контактирајте неки од корисничких сервиса.</string>
+    <string name="check_read_phone_state_permission">проверите ваљаност дозвола.</string>
+
+    <string name="message_timer_mode_disabled">Тајмер је заустављен,%s,сада је %s</string>
+    <string name="camera_right_up">Десно горе</string>
+    <string name="camera_left_up">Лево горе</string>
+    <string name="camera_hold_posture">Задржите своје држање</string>
+    <string name="camera_hold_posture_have_face">Држите држање, има %d лица</string>
+    <string name="camera_lower_left_hand">Спустите леву руку</string>
+    <string name="camera_raise_left_hand">Подигните леву руку</string>
+    <string name="camera_top_up">Подигните горе</string>
+    <string name="camera_screen_up">Подигните екран према горе</string>
+    <string name="camera_screen_down">Спустите екран према доле</string>
+    <string name="camera_move_left">Померите у лево</string>
+    <string name="camera_move_right">Померите у десно</string>
+    <string name="camera_move_up">Померите према горе</string>
+    <string name="camera_move_down">Померите према доле</string>
+    <string name="camera_top_move_far">Одаљите</string>
+    <string name="camera_top_move_near">Приближите</string>
+    <string name="camera_bottom_up">Према доле</string>
+
+    <string name="use_text_format_read_word_title">Читај слова фонетски</string>
+    <string name="restore">Врати</string>
+    <string name="backup">Направи сигурносну копију</string>
+    <string name="directory_camera">Камера</string>
+    <string name="game_mode_title">користи начин игре: </string>
+    <string name="game_mode_summary">Ставите апликацију у режим игре да бисте аутоматски онемогућили покрете за њу.</string>
+    <string name="msg_backuped">Сигурносна копија је направљена.</string>
+    <string name="msg_items">%d ставки.</string>
+    <string name="msg_recognition_results">Резултати</string>
+    <string name="edit_mode">Начин уређивања</string>
+    <string name="use_dpad_key_title">користи стрелице за померање фокуса: </string>
+    <string name="ocr_engine_title">ОЦР систем за препознавање: </string>
+    <string name="manager_title">Управљач</string>
+    <string name="msg_battery_full">Батерија је напуњена</string>
+    <string name="invite_code">Код позивнице: </string>
+    <string name="msg_supper_mode">强力模式可以获得更多焦点内容</string>
+    <string name="msg_enabled_supper_mode">开启强力模式</string>
+    <string name="msg_disabled_supper_mode">关闭强力模式</string>
+    <string name="msg_enabled_supper_mode_error">开启强力模式失败</string>
+    <string name="msg_disabled_supper_mode_error">Failed to turn off the detailed navigation mode!</string>
+    <string name="msg_backup_done">Сигурносна копија ће бити сачувана у фолдеру сигурносних копија.</string>
+    <string name="msg_restored">Сигурносна копија враћена.</string>
+    <string name="backup_done">Сигурносна копија завршена.</string>
+    <string name="msg_gestures_empty">Директоријум покрети је празан.</string>
+    <string name="msg_sounds_empty">ДиректоријумЗвучних тема је празан</string>
+    <string name="msg_clipboards_empty">Директоријум међуспремника је празан</string>
+    <string name="msg_favorites_empty">Директоријум омиљено је празан</string>
+    <string name="msg_timers_empty">Директоријум тајмера је празан</string>
+    <string name="msg_plugins_empty">Директоријум додаци је празан</string>
+    <string name="msg_tools_empty">Директоријум алати је празан</string>
+    <string name="msg_labels_empty">Директоријум ознаке је празан</string>
+    <string name="msg_backups_empty">Директоријум сигурносне копије је празан</string>
+    <string name="msg_cmds_empty">Директоријум гласовних команди је празан!</string>
+    <string name="close">Затвори</string>
+    <string name="multi_click">Режим више од једног додира</string>
+    <string name="command_raw_tap">Режим једноструког додира</string>
+    <string name="msg_enabled_raw_tap">Режим једноструког додира је омогућен. Додирните екран на једну секунду да бисте аутоматски активирали ставку испод прста.</string>
+    <string name="msg_disabled_raw_tap">Режим једноструког додира је онемогућен.</string>
+
+    <string name="system_tts_scale_summary">Додаје додатну брзину говорној јединици система. Упозорење! Ово је функција у бета фази, и не гарантује се да ће радити на свакој говорној јединици!</string>
+    <string name="send_email_title">Контакт путем е-маил адресе 946049229@qq.com</string>
+
+    <string name="voice_helper_use_blot_title">使用聊天机器人</string>
+
+    <string name="message_recognition_empty">我没听清你说什么</string>
+    <string name="voice_helper_exit">再见</string>
+    <string name="voice_input_mode">听写模式</string>
+    <string name="voice_helper_record_start">录制指令</string>
+    <string name="voice_helper_record_stop">结束录制</string>
+    <string name="voice_helper_record_message">开始录制，依次说出指令，最后说，</string>
+    <string name="voice_helper_record_done">录制完成</string>
+    <string name="msg_save_error">保存出错</string>
+    <string name="msg_has_vip_voice_cmd">非会员使用的语音不能超过十条</string>
+    <string name="cmd_create">新建指令</string>
+    <string name="cmd_manager">管理指令</string>
+    <string name="note_tile">云笔记</string>
+    <string name="message_count_out">数量超过限制</string>
+    <string name="cloud_backup_restore_settings_title">云备份</string>
+    <string name="cloud_backup_settings_title">备份设置</string>
+    <string name="cloud_restore_settings_title">恢复设置</string>
+    <string name="cloud_backup_clipboard_title">备份剪切板</string>
+    <string name="cloud_restore_clipboard_title">恢复剪切板</string>
+    <string name="cloud_backup_favorites_title">备份收藏夹</string>
+    <string name="cloud_restore_favorites_title">恢复收藏夹</string>
+    <string name="cloud_backup_timer_title">备份计时记录</string>
+    <string name="cloud_restore_timer_title">恢复计时记录</string>
+    <string name="cloud_backup_label_title">备份标签</string>
+    <string name="cloud_restore_label_title">恢复标签</string>
+    <string name="cloud_backup_gesture_title">备份手势</string>
+    <string name="cloud_restore_gesture_title">恢复手势</string>
+    <string name="cloud_backup_sound_title">备份音效</string>
+    <string name="cloud_restore_sound_title">恢复音效</string>
+    <string name="cloud_backup_cmd_title">备份指令</string>
+    <string name="cloud_restore_cmd_title">恢复指令</string>
+    <string name="ocr_baidu_secret_title">Secret key</string>
+    <string name="ocr_baidu_key_title">App key</string>
+    <string name="ocr_baidu_id_title">App id</string>
+    <string name="ocr_baidu_setting">Baidu OCR</string>
+    <string name="use_ocr_baidu_title">使用自己的百度OCR</string>
+    <string name="use_ocr_baidu_summary">使用自己的识别接口可以更加高效的识别文字，请到https://ai.baidu.com注册获取信息</string>
+    <string name="use_ocr_baidu_help">请到https://ai.baidu.com注册，并开通文字，图片标签，植物，动物，植物，果蔬，货币识别</string>
+    <string name="ocr_setting">文字识别设置</string>
+    <string name="ocr_lang_title">识别语言</string>
+    <string name="ocr_lang_summary">仅使用腾讯云接口时有效</string>
+    <string name="ocr_baidu_summary">仅使用百度OCR接口时有效</string>
+    <string name="add_from_focus_node">添加当前焦点</string>
+    <string name="add_from_virtual_screen">通过虚拟屏幕</string>
+    <string name="add_from_virtual_list">通过文字识别</string>
+    <string name="use_ocr_qq_title">腾讯云-无障碍研究会助力支持接口</string>
+    <string name="ocr_lang_enteries">中英文混合|自动识别|日语|韩语|西班牙语|法语|德语|葡萄牙语|越南语|马来语|俄语|意大利语|荷兰语|瑞典语|芬兰语|丹麦语|挪威语|匈牙利语|泰语|拉丁语系</string>
+
+
+</resources>

@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"> صفحه‌خوان Commentary </string>
+    <string name="accessibility_service_description">
+        صفحه‌خوان Commentary برنامه ای است که امکان استفاده از تلفن همراه را برای نابینایان فراهم میکند. در این برنامه از روش های خلاقانه ای استفاده شده است. برای جزئیات بیشتر، به  تنظیمات\\راهنما بروید.\n
+        برخی از عملکرد‌ها تا زمانی که نسخه پیشرفته  برنامه را خریداری کنید محدود میشوند. برای جزئیات بیشتر، از طریق QQ با پشتیبانی در تماس باشید.\n
+        \n
+        ویژگی‌ها: \n
+        دستیار صوتی: با استفاده از دستیار صوتی ما، بدون لمس کردن صفحه با دستگاه خود کار کنید.\n
+        افزونه: با نصب افزونه ها، تجربه کار بهتری داشته باشید. .\n
+        مرور بر اساس حرف، کلمه، پاراگراف، همیشه حالت مرور مناسب با نیاز شما وجود دارد.\n
+        این برنامه بسیار سریع عمل می‌کند.\n
+        با نصب پوسته های صوتی مختلف، صدا‌های  گوش‌نواز را به صفحه‌خوان خود اضافه کنید.\n
+        کپی پیشرفته به شما اجازه می‌دهد آن‌چه نیاز دارید کپی کنید.\n
+        ژست های حرکتی انعطاف‌پذیر.\n
+        امکان تغییر ژست های حرکتی.\n
+        تنظیمات اعلان انعطاف‌پذیر: دیگر با اعلان‌های مزاحم روبرو نخواهید شد.\n
+        \n
+        ویژگی‌های نسخه پیشرفته:\n
+        صفحه مجازی، پنجره ای جدید به دنیای برنامه های با مشکل دسترس‌پذیری برای شما باز میکند.\n
+        نویسه‌خوان نوری خودکار: عکس‌های دارای متن را شناسایی کنید و آنها را به راحتی بخوانید.\n
+        حل سریع معما‌های تصویری با استفاده از هوش مصنوعی.\n
+        چهره ها، اشیاء، صحنه ها و هر چیزی که مقابلتان است را شناسایی کنید.\n
+        فیلتر کردن صفحات وب: به راحتی و بدون محتوای مزاحم صفحات وب را بخوانید.\n
+        تمامی محتوای یک صفحه را به راحتی کپی کنید.\n
+        حالت ویژه خواندن مقاله: فیلتر کردن محتوا، تغییر خودکار صفحات و… \n
+        ژست های حرکتی قابل شخصی‌سازی جداگانه برای هر برنامه. \n
+        لیست علاقه‌مندی: همیشه به محتوای مورد علاقه خود دسترسی داشته باشید.\n
+        ویرایش سریع: حرف، کلمه یا پاراگرافی که میخواهید ویرایش کنید را به سرعت پیدا کنید.\n
+        انتخاب متن پیشرفته: حرف به حرف، کلمه به کلمه یا پاراگراف به پاراگراف. همان متنی که نیاز دارید را انتخاب کنید.\n
+        فرمان‌های صوتی متعدد که عملکرد های مختلف را آسان میکنند.\n
+        راه‌اندازی خودکار پلاگین‌ها: پلاگین های مورد علاقه شما همیشه در دسترس هستند.\n
+         Commentary صفحه‌خوان بی‌نهایت انعطاف‌پذیر و قابل شخصی‌سازی شماست!
+    </string>
+
+    <string name="about_title">Hebei Biyou Technology Co., Ltd. .</string>
+    <string name="help_feed_summary">صفحه‌خوان Commentary از برخی فناوری‌های شخص ثالث استفاده میکند: Tencent AI, Baidu AI, Baidu TTS, Baidu Translator, Baidu MTS, Andro LUA Plus. </string>
+
+    <string name="menu_title">منوی اصلی</string>
+
+    <string name="tts_speed_title">سرعت  متن به گفتار: </string>
+    <string name="tts_speed_summary">میزان سرعت متن به گفتار. </string>
+
+
+    <string name="usage_hints_title">خواندن نکات استفاده: </string>
+    <string name="usage_hints_summary"> نکات تعاملی متناسب با موقعیت خوانده شوند. </string>
+
+    <string name="vibrate_title">بازخورد لرزشی: </string>
+    <string name="vibrate_summary">از بازخورد لرزشی در صفحه‌خوان استفاده شود. </string>
+
+    <string name="use_proixmity_sensor_title">استفاده از حسگر مجاورت: </string>
+    <string name="use_proixmity_sensor_summary">هنگامی که به حسگر مجاورت نزدیک میشوید، خواندن متوقف شود. </string>
+
+    <string name="screen_off_speak_title">هنگامی که صفحه خاموش است، اعلانات خوانده شوند: </string>
+    <string name="screen_off_speak_summary">هنگامی که صفحه خاموش است، اعلانات خوانده شوند. </string>
+
+    <string name="use_sound_title">بازخورد صوتی: </string>
+    <string name="use_sound_summary">هنگام کار با صفحه‌خوان، علائم صوتی ارائه شود. </string>
+
+    <string name="use_list_index_title">محدوده لیستها خوانده شود: </string>
+    <string name="use_list_index_summary">هنگام پیمایش، اطلاعات مربوط به محدوده لیستها خوانده شود. </string>
+
+    <string name="use_node_title">استفاده از حالت مرور گرهی (فقط کاربران حرفه ای)</string>
+    <string name="use_node_summary">از حالت مرور گرهی استفاده شود. </string>
+
+    <string name="tts_volume_title">میزان صدای متن به گفتار: </string>
+    <string name="tts_volume_summary">میزان صدای متن به گفتار با صدای رسانه برابر است. </string>
+
+    <string name="use_key_shortcut_title">استفاده از دگمه های تنظیم صدا به عنوان میانبر: </string>
+    <string name="use_key_shortcut_summary">از فشار طولانی دگمه های تنظیم صدا برای انجام سریع عملیات استفاده شود. </string>
+    <string name="tts_speaker_title">موتور متن به گفتار: </string>
+    <string name="tts_speaker_summary">موتور متن به گفتار داخلی.</string>
+
+    <string name="tts_settings_title">تنظیمات متن به گفتار</string>
+    <string name="feed_setting_title">تنظیمات بازخورد</string>
+    <string name="content_setting_title">تنظیمات ارائه محتوا</string>
+    <string name="other_setting">سایر تنظیمات</string>
+
+    <string name="tts_system_settings_title">تنظیمات موتور  متن به گفتار سیستم</string>
+
+    <string name="template_stream_volume">میزان صدای >%1$s  روی  %2$d درصد  تنظیم شد</string>
+    <string name="template_stream_volume_set">میزان صدای %1$s,    %2$d است</string>
+    <string name="value_stream_master">"اصلی"</string>
+    <string name="value_stream_voice_call">"تماس"</string>
+    <string name="value_stream_system">" صدای سیستم "</string>
+    <string name="value_stream_ring">" زنگ "</string>
+    <string name="value_stream_music">" رسانه "</string>
+    <string name="value_stream_alarm">" هشدار "</string>
+    <string name="value_stream_notification">" اعلان "</string>
+    <string name="value_stream_dtmf">" DTMF "</string>
+    <string name="value_googletv_screen_saver">" محافظ صفحه نمایش" </string>
+
+    <string name="template_charging">"در حال شارژ  %1$s, میزان باتری   %2$s است."</string>
+    <string name="notification_type_status_started">" راه‌اندازی "</string>
+    <string name="notification_type_status_stopped">"متوقف شده "</string>
+    <string name="acc_settings_title">تنظیمات دسترس‌پذیری</string>
+    <string name="qq_group_title">گروه رسمی Commentary در QQ</string>
+    <string name="audio_focus_title">کاهش صدای پس‌زمینه: </string>
+
+    <string name="voice_app_name">دستیار صوتی</string>
+    <string name="voice_helper_service_description">با فرمان‌های صوتی از دستگاه خود استفاده کنید.</string>
+    <string name="web_app_name">مرورگر وب</string>
+    <string name="help_title">صفحه راهنما</string>
+    <string name="use_log_title">فعال کردن  گزارش‌گیری: </string>
+    <string name="notification_speak_title"> خواندن اعلان‌ها: </string>
+    <string name="plugin_title">افزونه‌ها</string>
+    <string name="action_menu_title">منوی عملیات: </string>
+    <string name="clipboard_menu_title">منوی کلیپ‌برد</string>
+    <string name="select_menu_title">انتخاب متن</string>
+    <string name="all_text_title">حالت مرور تمام متن</string>
+    <string name="use_touch_mode_title">فعال‌سازی ژست‌های حرکتی. (اگر نابینای مطلق هستید، این گزینه را غیر‌فعال نکنید): </string>
+    <string name="unknown_lable_title">حدث زدن برچسب گزینه های برچسب نخورده: </string>
+    <string name="action_setting_title">تنظیمات کنش‌ها</string>
+    <string name="use_single_tap_title">با یک بار اشاره گزینه ها  فعال شوند: </string>
+    <string name="use_up_tap_title">گزینه ها با برداشتن انگشت از روی صفحه فعال شوند: </string>
+    <string name="sound_volume_title">میزان صدای پوسته صوتی: </string>
+    <string name="notification_bar_speak_title">اعلان‌ها از پنل اعلان خوانده شوند: </string>
+    <string name="notification_toast_speak_title">خواندن اعلان‌های پاپ‌آپ: </string>
+    <string name="notification_announcement_speak_title">خواندن اعلان‌های صفحه‌خوان: </string>
+    <string name="notification_settings_title">تنظیمات اعلان</string>
+    <string name="help_feed_title">راهنما و بازخورد</string>
+    <string name="advanced_setting_title">تنظیمات پیشرفته</string>
+    <string name="notification_white_list_title">لیست سفید اعلان‌ها</string>
+    <string name="notification_black_list_title">لیست سیاه اعلان‌ها</string>
+    <string name="voice_help_title">راهنمای دستیار صوتی</string>
+    <string name="sound_package_title">پوسته‌های صوتی</string>
+    <string name="value_default">پیشفرض</string>
+    <string name="notification_app_name_speak_title">خواندن منبع اعلان: </string>
+    <string name="use_up_tap_summary">در صورتی که انگشت خود را از صفحه بردارید، گزینه ای که زیر انگشت شما بوده فعال میشود. اگر انگشت شما برای مدت بیشتری روی آن گزینه بماند، در صورت برداشتن انگشت، گزینه فعال نمیشود. </string>
+    <string name="use_tap_mode_title">برای تغییر فوکوس به صفحه ضربه بزنید: </string>
+    <string name="vibrate_intensity_title">شدت لرزش: </string>
+    <string name="use_progress_title">وضعیت نوار‌های پیشرفت به طور خودکار خوانده شود: </string>
+    <string name="use_scroll_list_index_title">دامنه نمایش لیست تازه پیمایش شده خوانده شود: </string>
+    <string name="use_content_changed_title"> تغییرات محتوای پویا اعلام شود: </string>
+    <string name="use_double_fling_title">استفاده از ژست‌های حرکتی چندبخشی : </string>
+    <string name="use_view_name_title">نام کنترل فوکوس شده خوانده شود: </string>
+    <string name="permissions_settings_title">اصلاح مجوز‌ها</string>
+    <string name="use_node_info_title">خواندن اطلاعات گره کنونی: </string>
+    <string name="use_content_tree_changed_title">محتوای پنجره فعلی خودکار خوانده شود: </string>
+    <string name="split_menu_title">منوی مسیر‌یابی: </string>
+    <string name="split_edit_title">ویرایش تکه ای: </string>
+    <string name="edit_title">ویرایش</string>
+    <string name="plugin_manager_title">مدیریت پلاگین‌ها</string>
+    <string name="sound_manager_title">مدیریت پوسته‌های صوتی</string>
+    <string name="clipboard_manager_title">مدیریت کلیپ‌برد</string>
+    <string name="label_manager_title">مدیریت برچسب‌های سفارشی</string>
+    <string name="menu_manager_title">مدیریت منوی اصلی</string>
+    <string name="menu_up_tap_title">گزینه های منو‌های برنامه با برداشتن انگشت از صفحه فعال شوند: </string>
+    <string name="navigation_up_tap_title">دگمه های ناوبری نرم‌افزاری با برداشتن انگشت از صفحه فعال شوند: </string>
+    <string name="only_notification_title">صفحه‌خوان فقط از پنل اعلان‌ها فعال شود: </string>
+    <string name="send_log_title">ارسال گزارش‌ها</string>
+    <string name="long_click_title">تاخیر در لمس و نگه داشتن: </string>
+    <string name="long_click_summary">تاخیر پیش از فعال شدن فشار طولانی</string>
+    <string name="split_select_title">در حال انتخاب</string>
+    <string name="use_up_long_click_title">پس از کلیک کردن انگشت خود را بردارید تا فشار طولانی فعال شود: </string>
+    <string name="use_up_long_click_summary">فشار طولانی را با کلیک و برداشتن انگشت از روی صفحه فعال کنید.</string>
+    <string name="backup_manager_title">مدیریت پشتیبانی</string>
+    <string name="user_letter_map_title">استفاده از واژه‌نامه سفارشی. (به راه‌اندازی مجدد نیاز دارد): </string>
+    <string name="tts_use_offline_title">Use online استفاده از موتور متن به گفتار آنلاین: </string>
+    <string name="tts_use_offline_summary">اگر وای‌فایدر دسترس نباشد، از  موتور صوتی  پیشفرض استفاده خواهد شد.</string>
+    <string name="gesture_package_title">پوسته  حرکتی: </string>
+    <string name="long_text_title">ویرایش پیشرفته</string>
+    <string name="gesture_manager_title">مدیریت ژست‌های حرکتی</string>
+    <string name="use_ocr_title">استفاده خودکار از نویسه‌خوان نوری: </string>
+    <string name="use_ocr_summary">عکس یا کنترل فوکوس شده به طور خودکار شناسایی شود. این عملیات نیرو و حجم اینترنت بیشتری مصرف میکند. </string>
+    <string name="content_blacklist_title">لیست سیاه محتوا</string>
+    <string name="no_phone_permission">هیچ مجوزی اعطا نشده.</string>
+    <string name="message_time_out">مجاز نیست</string>
+    <string name="message_welcome">به صفحه‌خوان commentary خوش آمدید!</string>
+    <string name="message_in_dim_screen">پرده فعال شد.</string>
+    <string name="message_out_dim_screen">پرده غیر‌فعال شد</string>
+    <string name="message_only_android5_last">فقط اندروید 5 و بالاتر پشتیبانی می‌شوند!</string>
+    <string name="notification_box">جعبه اعلان</string>
+    <string name="clear">پاک کردن</string>
+    <string name="message_disabled_up_tap">برداشتن انگشت برای فعال‌سازی خاموش شد. </string>
+    <string name="message_enabled_up_tap">برداشتن انگشت برای فعال‌سازی  روشن شد. </string>
+    <string name="message_no_found_edit_text">کادر ویرایش پیدا نشد. </string>
+    <string name="message_voice_feedback_paused">بازخورد صوتی معلق شد. </string>
+    <string name="message_voice_feedback_resume">بازخورد صوتی از سر گرفته شد. </string>
+    <string name="message_enable_tap_mode">فعال کردن "ضربه زدن برای تغییر فوکوس</string>
+    <string name="message_disabled_tap_mode">غیر‌فعال کردن  "ضربه زدن برای تغییر فوکوس"</string>
+    <string name="directory_gestures">Gestures</string>
+    <string name="directory_temp">TMP</string>
+    <string name="directory_plugins">Plugins</string>
+    <string name="message_recognition">در حال شناسایی…</string>
+    <string name="message_recognition_error">در شناسایی خطایی رخ داد. لطفا دوباره امتحان کنید.</string>
+    <string name="directory_sounds">Sounds</string>
+    <string name="directory_resources">Resources</string>
+    <string name="file_name_letter">dict.json</string>
+    <string name="file_name_symbol">symbols.json</string>
+    <string name="directory_labels">Labels</string>
+    <string name="directory_backup">Backups</string>
+    <string name="message_load_sound_error">در بارگذاری  پوسته صوتی خطایی رخ داد.</string>
+    <string name="message_load_done">با موفقیت وارد شد.</string>
+    <string name="tool_title">پلاگین و ابزار‌ها</string>
+    <string name="directory_tools">ابزار‌ها</string>
+    <string name="ocr_title">شناسایی متن</string>
+    <string name="tool_manager_title">مدیریت ابزارها</string>
+    <string name="message_load_error"> وارد کردن منبع نا‌موفق بود.</string>
+    <string name="manager_activity_title">مدیریت منابع</string>
+    <string name="use_headset_key_title">از دگمه ی هدست برای کنترل صفحه‌خوان استفاده شود: </string>
+    <string name="use_wake_lock_title">استفاده از  ضد‌خواب: </string>
+    <string name="user_settings_title">مرکز کاربری</string>
+    <string name="user_name_title">نام کاربری: </string>
+    <string name="user_id_title">شناسه کاربری: </string>
+    <string name="user_key_title">کلید تایید مجوز: </string>
+    <string name="user_validity_title">اعتبار: </string>
+    <string name="user_point_title">امتیاز معرفی: </string>
+    <string name="gesture_description_title">توضیحات ژست‌های حرکتی</string>
+    <string name="user_invite_title">شناسه معرفی:</string>
+    <string name="login_title">ورود</string>
+    <string name="reg_title">ثبت‌نام</string>
+    <string name="message_recognition_none">چیزی شناسایی نشد</string>
+    <string name="tts_iflytek_settings_title">تنظیمات Xunfei TTS </string>
+    <string name="tts_use_fly_title">از  موتور متن به گفتار Xunfei استفاده شود: </string>
+    <string name="tts_pitch_title">زیر و بمی: </string>
+    <string name="tts_speed_double_title">سرعت موتور متن به گفتار دو برابر شود: </string>
+    <string name="tts_unisound_settings_title">تنظیمات Unisound tts</string>
+    <string name="use_wake_lock_summary">هنگامی که متن خوانده می‌شود، صفحه روشن بماند .</string>
+    <string name="audio_focus_summary">هنگام پخش صدای صفحه‌خوان، سایر صدا‌ها کم شوند. </string>
+    <string name="message_done">انجام شد</string>
+    <string name="app_gesture_package_title">پوسته حرکتی تک‌برنامه‌ای: </string>
+    <string name="app_gesture_package_summary">پوسته‌های حرکتی تک‌برنامه ای را تنظیم کنید. </string>
+    <string name="char_mode_gesture_title">هنگام استفاده از حالت مرور کلمه به کلمه، از ژست‌های حرکتی سفارشی استفاده نشود: </string>
+    <string name="char_mode_gesture_summary">از ژست‌های حرکتی پیشفرض در حالت کلمه به کلمه استفاده شود. </string>
+    <string name="notification_summary_title">خلاصه اعلان: </string>
+    <string name="use_image_filter_title">هنگام مرور وب، عکسها نادیده گرفته شوند: </string>
+    <string name="gesture_settings_title">تنظیمات ژست‌های حرکتی</string>
+    <string name="setup_plugin_title">پلاگین‌های خودکار</string>
+    <string name="advanced_menu_title">منوی پیشرفته</string>
+    <string name="quick_menu_title">منوی سریع</string>
+    <string name="check_update_title">بررسی برای به‌روزرسانی</string>
+    <string name="qq_group_summary">درباره برنامه بحث کنید یا آن را بخرید.</string>
+    <string name="favorites_menu_title">علاقه‌مندی‌ها</string>
+    <string name="favorites_manager_title">موارد مورد علاقه خود را مدیریت کنید.</string>
+    <string name="use_multi_menu_title">از منوی چند‌ستونه استفاده شود: </string>
+    <string name="use_multi_menu_summary">منوی چند‌ستونی از محتوای سفارشی پشتیبانی نمی‌کند.</string>
+    <string name="use_left_right_title">از کشیدن انگشت به چپ و راست برای حرکت استفاده شود: </string>
+    <string name="use_list_item_index_title">شماره‌ی گزینه‌ی فوکوس شده خوانده شود: </string>
+    <string name="use_left_right_summary">هنگام استفاده از پوسته حرکتی پیشفرض، به جایِ بالا و پایین، از کشیدن انگشت به چپ و راست برای حرکت استفاده شود. </string>
+    <string name="use_old_previous_title">از روش قدیمی تغییر فوکوس استفاده شود: </string>
+    <string name="baidu_tieba_title">دانش‌نامه Baidu</string>
+    <string name="use_single_tts_title">از یک موتور صوتی استفاده شود: </string>
+    <string name="use_auto_update_title">فعال‌سازی به‌روز‌رسانی خودکار: </string>
+    <string name="use_pager_scroll_title">پیمایش خودکار در صفحات: </string>
+    <string name="use_supper_filter_title">فیلتر شدید محتوای وب: </string>
+    <string name="change_log_title">گزارش تغییرات</string>
+    <string name="use_up_long_quick_menu_title">پس از فشار طولانی، منوی کنش‌ها نمایش داده شود: </string>
+    <string name="use_show_dis_enabled_quick_menu_title">موارد غیر‌فعال در منوی کنش‌ها نمایش داده شوند: </string>
+    <string name="voice_helper_setting_title">تنظیمات دستیار صوتی</string>
+    <string name="voice_helper_copy_title">نتیجه های ترجمه به طور خودکار در کلیپ‌برد کپی شوند: </string>
+    <string name="trans_lang_from_title">زبان مبدا: </string>
+    <string name="use_pager_scroll_summary">وقتی به پایان یک صفحه میرسید، خودکار به صفحه بعدی پیمایش کنید. </string>
+    <string name="scroll_gesture_settings_title">تنظیمات پیمایش</string>
+    <string name="click_settings_title">تنظیمات ضربه و کلیک</string>
+    <string name="key_shortcut_setting_title">تنظیمات کلید‌های میانبر</string>
+    <string name="gesture_title">تنظیمات ژست‌های حرکتی</string>
+    <string name="use_single_tap_summary">گزینه فوکوس شده را با یک ضربه فعال کنید. </string>
+    <string name="use_old_previous_summary">传统方式上一个焦点是下一个焦点的简单返回，取消后将使用新的上一个焦点方式，按照焦点层级返回，在一直向上浏览时更容易掌握内容所属关系</string>
+    <string name="use_headset_key_summary">برای رفتن به گزینه بعدی دگمه هدست را فشار دهید، برای فعال کردن دستیار صوتی دگمه هدست را نگه دارید..</string>
+    <string name="list_view_settings_title">تنظیمات لیست</string>
+    <string name="view_label_settings_title">تنظیمات نمایش برچسب‌ها</string>
+    <string name="view_changed_settings_title">تنظیمات محتوای پویا</string>
+    <string name="content_filter_settings_title">تنظیمات فیلترینگ محتوا</string>
+    <string name="hints_list_settings_title">تنظیمات نکات استفاده </string>
+    <string name="use_node_info_summary">هنگام مرور گرهی، اطلاعات جانبی درباره گره فوکوس شده  خوانده شود. </string>
+    <string name="use_list_item_index_summary">شماره  گزینه فوکوس شده خوانده شود. </string>
+    <string name="use_scroll_list_index_summary">دامنه  لیست در حال پیمایش خوانده شود. </string>
+    <string name="use_view_name_index_summary">نام و نوع عنصر فوکوس شده خوانده شود. اگر نام عنصر در دسترس نباشد، صفحه‌خوان آن را حدث خواهد زد. </string>
+    <string name="unknown_lable_summary">وقتی نام گزینه فوکوس شده در دسترس نباشد، شناسه یه آن  خوانده شود. </string>
+    <string name="use_progress_summary">نوار‌های پیشرفت در صورت فوکوس شدن به طور خودکار خوانده شوند. </string>
+    <string name="use_content_changed_summary">موارد   فوکوس شده به طور خودکار خوانده شوند. </string>
+    <string name="use_content_tree_changed_summary">تغییرات در پنجره کنونی به طور خودکار خوانده شوند. </string>
+    <string name="content_blacklist_summary">مناسب برای برچسب زدن روی دگمه هایی که برچسب نمی‌پذیرند. </string>
+    <string name="use_image_filter_summary">هنگام مرور صفحات وب، عکس‌ها نادیده گرفته شوند. </string>
+    <string name="use_supper_filter_summary">فقط محتوای چینی نشان داده شود. </string>
+    <string name="use_edge_gesture_title">از ژست‌های لبه ای استفاده شود.: </string>
+    <string name="left_edge_gesture_title">ژست لبه ای کوتاه سمت چپ</string>
+    <string name="right_edge_gesture_title">ژست لبه ای کوتاه سمت راست</string>
+    <string name="right_edge_gesture_value_default">برنامه‌های اخیر</string>
+    <string name="left_edge_gesture_value_default">بازگشت</string>
+    <string name="use_edge_gesture_summary">ژست‌های حرکتی ویژه لبه ی صفحه. </string>
+    <string name="left_edge_gesture_summary">سفارشی‌سازی ژست لبه ای کوتاه سمت چپ. </string>
+    <string name="right_edge_gesture_summary">سفارشی‌سازی ژست لبه ای کوتاه سمت راست. </string>
+    <string name="down_volume_key_value_default">دستیار صوتی</string>
+    <string name="down_volume_key_title">فشار طولانی دگمه کاهش صدا: </string>
+    <string name="down_volume_key_summary">سفارشی‌سازی فشار طولانی دگمه کاهش صدا. </string>
+    <string name="up_volume_key_title">فشار طولانی دگمه افزایش صدا: </string>
+    <string name="up_volume_key_summary">سفارشی‌سازی فشار طولانی دگمه افزایش صدا. </string>
+    <string name="up_volume_key_value_default">تغییر در وضعیت "فعالسازی گزینه ها با برداشتن انگشت از صفحه"</string>
+    <string name="use_speak_call_phone_summary">هنگام دریافت تماس، نام و شماره تماس‌گیرنده خوانده شود: </string>
+    <string name="use_speak_call_phone_title">اطلاعات تماس‌گیرنده: </string>
+    <string name="use_speak_changed_volume_summary">هنگام تغییر میزان صدا، درصد تغییرات خوانده شود. </string>
+    <string name="use_speak_changed_volume_title">خواندن تغییرات میزان صدا: </string>
+    <string name="vip_qq_group_title">گروه صفحه‌خوان commentary مخصوص کاربران پیشرفته  در QQ</string>
+    <string name="qq_group2_title">گروه رسمی صفحه‌خوان commentary در QQ</string>
+    <string name="right_long_edge_gesture_value_default">پنل اعلانات</string>
+    <string name="left_long_edge_gesture_value_default">صفحه اصلی</string>
+    <string name="right_long_edge_gesture_title"> ژست لبه ای طولانی سمت راست</string>
+    <string name="left_long_edge_gesture_title">ژست لبه ای طولانی سمت چپ</string>
+    <string name="left_long_edge_gesture_summary">انگشت خود را مدتی در لبه  چپ صفحه نگه دارید، سپس به راست بکشید</string>
+    <string name="right_long_edge_gesture_summary">انگشت خود را مدتی در لبه  راست صفحه نگه دارید، سپس به چپ بکشید.</string>
+    <string name="use_up_long_quick_menu_summary">هنگام فشار طولانی روی مورد فوکوس شده، منوی میانبر‌ها نشان داده شود.</string>
+    <string name="up_volume_short_key_value_default">افزایش میزان صدا</string>
+    <string name="up_volume_short_key_title">فشار دادن دگمه افزایش صدا: </string>
+    <string name="up_volume_short_key_summary">افزایش میزان صدا</string>
+    <string name="down_volume_short_key_value_default">کاهش میزان صدا</string>
+    <string name="down_volume_short_key_title">فشار دادن دگمه کاهش میزان صدا: </string>
+    <string name="down_volume_short_key_summary">کاهش میزان صدا</string>
+    <string name="use_ringtone_volume_title">استفاده از میزان صدای زنگ: </string>
+    <string name="use_ringtone_volume_summary">از میزان صدای زنگ برای خواندن نام تماس‌گیرنده استفاده شود. </string>
+    <string name="up_down_volume_short_key_value_default">تعلیق کاوش با لمس</string>
+    <string name="up_down_volume_short_key_summary">توقف یا از‌سر‌گیری کاوش با لمس</string>
+    <string name="up_down_volume_short_key_title">فشار دادن همزمان دگمه های تنظیم صدا</string>
+    <string name="tts_engine_title">موتور متن به گفتار اصلی</string>
+    <string name="async_tts_engine_title">موتور متن به گفتار ثانویه: </string>
+    <string name="async_tts_engine_summary">موتور صوتی مورد استفاده برای خواندن اعلان‌ها و سایر اطلاعات. انتخاب موتور گفتار یکسان با موتور اصلی باعث استفاده از یک موتور برای همه چیز میشود. </string>
+    <string name="tts_engine_summary">موتور متن به گفتار برای محتوای اصلی. اگر موتور صوتی انتخابی کار نکند، اولین موتور سالم استفاده خواهد شد. </string>
+    <string name="timer_manager_title">مدیریت زمان‌سنج</string>
+    <string name="use_foreground_title">حفاظت از پس‌زمینه</string>
+    <string name="use_foreground_summary">اگر صفحه‌خوان مکررا خاموش میشود، این گزینه را فعال کنید</string>
+    <string name="use_speak_qq_changed_title">پیام‌های QQ خودکار خوانده شوند</string>
+    <string name="use_speak_qq_changed_summary">پیام‌های ورودی از پیام‌رسان QQ به صورت خودکار خوانده شوند.</string>
+    <string name="left_button_default_value">挂断|拒绝|*滑动以拒绝来电*|结束通话|挂断通话|挂断电话|结束QQ通话|结束QQ电话|切换上一首|上一曲|向上导航|取消&amp;免提</string>
+    <string name="right_button_default_value">接听|*滑动以接听来电*|免提|扬声器|切换下一首|下一曲</string>
+    <string name="edge_gesture_title">تنظیمات ژست‌های لبه ای</string>
+    <string name="left_button_title">عملکرد‌میانبر  چپ</string>
+    <string name="right_button_title">عملکرد میانبر راست</string>
+    <string name="use_add_async_tts_title">اعلان‌ها برای خوانده شدن در صف قرار بگیرند: </string>
+    <string name="use_add_async_tts_summary">اگر بیشتر از یک اعلان برای خواندن موجود باشد، اعلان‌ها به ترتیب و کامل خوانده خواهند شد. این ویژگی فقط با موتور گفتار دوگانه کار می‌کند</string>
+    <string name="questions_answers_title">پرسش‌های متداول</string>
+    <string name="orientation_landscape">افقی</string>
+    <string name="orientation_portrait">عمودی</string>
+    <string name="use_alarm_title">ساعت گویا: </string>
+    <string name="use_alarm_summary">ساعت در زمان مشخص شده اعلام شود. </string>
+    <string name="alarm_settings_title"> تنظیمات ساعت</string>
+    <string name="url_menu_title">عناصر قابل تعامل</string>
+    <string name="use_long_click_voice_input_title">هنگام فشار طولانی روی کادر ویرایش، از ورودی صوتی استفاده شود.</string>
+    <string name="voice_input_append_mode_title">هنگام استفاده از ورودی صوتی، متن ورودی به آخر کادر ویرایش اضافه شود:</string>
+
+    <string name="general_usage_hints_title">نکات استفاده کلی</string>
+    <string name="general_speak_list_title">اطلاعات لیست خوانده شود:</string>
+    <string name="general_settings_title">تنظیمات کلی</string>
+    <string name="use_custom_gesture_title">از ژست‌های حرکتی سفارشی استفاده شود</string>
+    <string name="custom_gesture_settings_title">سفارشی‌سازی ژست‌های حرکتی</string>
+    <string name="use_foreground_pro_title">حفاظت در پس زمینه</string>
+    <string name="use_foreground_pro_summary">اگر صفحه‌خوان مکررا از کار می‌افتد، این گزینه را فعال کنید</string>
+    <string name="use_power_save_title">ذخیره نیرو: </string>
+    <string name="use_power_save_summary">کاهش نیروی مصرفی</string>
+    <string name="power_settings_title">تنظیمات نیرو</string>
+    <string name="action_settings_title">تنظیمات تعامل حرفه ای</string>
+    <string name="keep_focus_position_title">موقعیت فوکوس به حافظه سپرده شود:</string>
+    <string name="download_activity_title">بارگیری محتوای اختیاری</string>
+    <string name="use_number_speak_title">اعداد تک به تک خوانده شوند: </string>
+    <string name="use_input_method_gesture_title">هنگام ویرایش از ژست‌های حرکتی برای انتخاب کلمات استفاده شود:</string>
+    <string name="use_input_method_gesture_summary">با استفاده از ژست‌های حرکتی، کلمه صحیح انتخاب شود. (مخصوص ورودی متن چینی). </string>
+    <string name="use_volume_key_move_text_title">هنگام ویرایش، نشانگر  با دگمه های کنترل صدا جابجا شود: </string>
+    <string name="user_text">نام کاربری: بین 5 تا 15 کاراکتر لاتین. </string>
+    <string name="pass_text">رمز عبور: بین 6 تا 15 کاراکتر لاتین. </string>
+    <string name="current_text">%dتا از %d حرف وارد شده</string>
+    <string name="user_id_text">شناسه کاربری: </string>
+    <string name="screen_on_off_settings_title">گزارش وضعیت صفحه</string>
+    <string name="use_screen_on_speak_title">پیام باز شدن قفل صفحه خوانده شود</string>
+    <string name="use_screen_off_speak_title">پیام خاموش شدن صفحه خوانده شود</string>
+    <string name="use_accessibility_volume_title">از کنترل  صدای دسترسپذیری استفاده شود: </string>
+    <string name="use_accessibility_volume_summary">صدای صفحه‌خوان توسط کنترل صدای دسترس‌پذیری  تنظیم خواهد شد. هشدار! فقط حالت موتور گفتار سیستم  از این قابلیت پشتیبانی میکند.</string>
+    <string name="value_stream_accessibility">دسترس‌پذیری</string>
+    <string name="left_right_gesture_title">تنظیمات ژست‌های حرکتی جایگزین</string>
+    <string name="use_move_list_view_item_title">کشیدن انگشت به چپ و راست به سرعت میان گزینه ها حرکت کند.</string>
+    <string name="no_support">به نسخه اندروید  %d یا بالا‌تر نیاز است.</string>
+    <string name="use_pinyin_speak_title">هنگام ویرایش، از موتور گفتار  Pinyin  استفاده شود. (مخصوص کاربران چینی)</string>
+    <string name="backup_restore_settings_title">تنظیمات پشتیبانی</string>
+    <string name="backup_settings_title">پشتیبانی</string>
+    <string name="restore_settings_title">بازگردانی </string>
+    <string name="restore_settings_summary">در صورت باز‌گردانی، تنظیمات جایگزین خواهند شد</string>
+    <string name="backup_settings_summary">در صورت پشتیبان گیری، نسخه های پشتیبان گذشته جایگزین خواهند شد</string>
+    <string name="jieshuo_bbs_title">انجمن صفحه‌خوان commentary</string>
+    <string name="use_symbol_speak_title">علائم خوانده شوند: </string>
+    <string name="use_cloud_label_title">به اشتراک‌گذاری برچسب‌ها: </string>
+    <string name="use_cloud_label_summary">برچسب‌های سفارشی شده  به اشتراک گذاشته و یا از سرور دانلود شوند. </string>
+    <string name="directory_helper">دستیار</string>
+    <string name="helper_manager_title">تنظیمات بسط‌یافته دستیار صوتی</string>
+    <string name="alarm_interval_title">تکرار ساعت گویا: </string>
+    <string name="use_timer_speak_title">هشدار گفتاری برای زمانسنج: </string>
+    <string name="use_timer_vibrate_title">هشدار لرزشی برای زمانسنج: </string>
+    <string name="use_double_edge_gesture_title">منوی لبه ای با دو انگشت باز شود: </string>
+    <string name="use_raw_click_title">استفاده از کلیک مستقیم: </string>
+    <string name="use_raw_click_summary">در اندروید‌های 7 و بالا‌تر، با استفاده از این گزینه مشکل بعضی از برنامه ها که به کلیک کردن با صفحه‌خوان ها پاسخ نمیدهند حل میشود. </string>
+    <string name="has_vip_summary"> ،%s فقط برای کاربران پیشرفته در دسترس است. </string>
+    <string name="vip_qq_kefu_title">پشتیبانی commentary</string>
+    <string name="vip_qq_kefu_summary">پشتیبانی، خرید و فعال‌سازی. </string>
+    <string name="use_speak_changed_window_title">هنگام تعویض پنجره، تمام محتوای صفحه خوانده شود: </string>
+    <string name="use_timer_sound_title">هشدار صوتی برای زمانسنج: </string>
+    <string name="timer_setting_title">تنظیمات زمانسنج. </string>
+    <string name="voice_cmd_setting_title">فرمان‌های صوتی</string>
+    <string name="directory_cmd">فرمان‌های صوتی سفارشی</string>
+    <string name="use_move_list_view_item_summary">برای حرکت با سرعت بیشتر در لیست‌ها</string>
+    <string name="add">افزودن</string>
+    <string name="re_def_msg">در صورت تایید تنظیمات به حالت پیشفرض باز‌نشانی خواهند شد،</string>
+    <string name="use_double_fling_summary">快速向上滑动两步打开点击浏览模式，下滑两步自动浏览</string>
+    <string name="voice_helper_use_gestures_title">تغییر پوسته‌های حرکتی توسط دستیار صوتی  </string>
+    <string name="voice_helper_use_app_gestures_title">تغییر پوسته‌های حرکتی تک‌برنامه ای توسط دستیار صوتی  </string>
+    <string name="voice_helper_use_cmd_title">استفاده از فرمان‌های صوتی</string>
+    <string name="voice_helper_use_supper_cmd_title">استفاده از فرمان‌های صوتی بیشتر در دستیار صوتی</string>
+    <string name="voice_helper_use_plugin_title">استفاده از پلاگین‌ها در دستیار صوتی</string>
+    <string name="voice_helper_use_tool_title">استفاده از افزونه‌ها در دستیار صوتی</string>
+    <string name="message_has_vip">این امکان فقط برای کاربران  پیشرفته فعال است. </string>
+    <string name="has_vip_summary2"> %s در نسخه رایگان برنامه محدود است. </string>
+    <string name="voice_helper_capability_setting">امکانات دستیار صوتی</string>
+    <string name="use_wake_lock_pro_title">استفاده از ضد‌خواب بهبود‌یافته</string>
+    <string name="use_wake_lock_pro_summary">اگر ضد‌خواب    کار نکرد، از این گزینه استفاده کنید. </string>
+    <string name="more_setting">تنظیمات بیشتر</string>
+    <string name="kayword">یک کلمه کلیدی وارد کنید. </string>
+    <string name="notification_black_list_summary">اعلاناتی که در آنها از موارد لیست سیاه استفاده شده باشد خوانده نخواهند شد. </string>
+    <string name="notification_while_list_summary">اعلاناتی که در آنها از موارد لیست سفید استفاده شده باشد همیشه خوانده خواهند شد. </string>
+    <string name="system_tts_volume_title">میزان صدای موتور گفتار سیستم</string>
+    <string name="notification_select_title">تنظیمات خواندن اعلان‌ها</string>
+
+    <string name="message_disable_dim_screen">لطفا اول پرده را غیر‌فعال کنید. </string>
+    <string name="start_long_copy">کپی پیشرفته شروع شد. </string>
+    <string name="runnimg_background">حفاظت در پس زمینه: </string>
+    <string name="description">توضیحات: </string>
+    <string name="gestures_description_not_found">فایل راهنمای پوسته‌ی حرکتی پیدا نشد. </string>
+    <string name="timer_date_format">yyyy.M.d. HH:mm.</string>
+    <string name="to_all">%s تا  %s, مجموع %s.</string>
+    <string name="try_again">لطفا دوباره تلاش کنید. </string>
+    <string name="timer_and_now_time">%s گذشته, هم‌اکنون  ساعت %s است</string>
+    <string name="edit">ویرایش</string>
+    <string name="edit_text_not_found">کادر ویرایش پیدا نشد</string>
+    <string name="char_mode">حالت کلمه به کلمه</string>
+    <string name="focus_mode">حالت مرور فوکوس</string>
+    <string name="auto_next">حالت مرور خودکار</string>
+    <string name="message_copy">متن کپی شد</string>
+    <string name="message_append">متن اضافه شد</string>
+    <string name="text_format_settings_title">تنظیمات فرمت متن </string>
+    <string name="use_text_format_first_title">در حالت توضیح، متن اول خوانده شود: </string>
+    <string name="use_text_format_char_number_title">حروف پیوسته به عنوان یک کلمه خوانده شوند: </string>
+
+    <string name="lower_case_format">%s %s</string>
+    <string name="upper_case_format">%s بزرگ %s</string>
+    <string name="lower_case_format_number">%s， حرف کوچک%s，%d حرف</string>
+    <string name="upper_case_format_number">%s，حرف بزرگ%s，%d حرف</string>
+
+    <string name="lower_case_format2">%s</string>
+    <string name="upper_case_format2"> %s بزرگ</string>
+    <string name="upper_case_format3">%s بزرگ</string>
+    <string name="lower_case_format_number2">%s，%d حرف</string>
+    <string name="upper_case_format_number2"> %s حرف بزرگ در مجموعِ  %d حرف وجود دارد. </string>
+
+    <string name="use_slow_speed_title">هنگام مرور کلمه به کلمه، سرعت گفتار کمتر شود</string>
+    <string name="has_vip_summary_gesture">این ژست‌های حرکتی در نسخه رایگان برنامه  سفارشی نمی‌شوند</string>
+    <string name="message_has_vip_loop_click">کلیک با تاخیر در نسخه رایگان برنامه غیر‌فعال است.</string>
+
+    <string name="command_click">کلیک</string>
+    <string name="command_long_click">فشار طولانی</string>
+    <string name="command_unlock">باز کردن  قفل</string>
+    <string name="command_start">بالا</string>
+    <string name="command_end">پایین</string>
+    <string name="command_nothing">هیچ</string>
+    <string name="command_sleep">حالت خواب</string>
+    <string name="command_send_log">ارسال گزارش</string>
+    <string name="command_gesture_setting">تنظیمات ژست‌های حرکتی</string>
+    <string name="command_voice_setting">تنظیمات متن به گفتار</string>
+    <string name="command_action_setting">@string/action_setting_title</string>
+    <string name="command_feedback_setting">@string/feed_setting_title</string>
+    <string name="command_content_setting">@string/content_setting_title</string>
+    <string name="command_notification_setting">@string/notification_settings_title</string>
+    <string name="command_help_feed_setting">راهنما و بازخورد</string>
+    <string name="command_left_shortcut">میانبر چپ</string>
+    <string name="command_right_shortcut">میانبر راست</string>
+    <string name="command_long_copy">کپی پیشرفته</string>
+    <string name="command_my_location">موقعیت مکانی من</string>
+    <string name="command_where_i">من کجا هستم؟?</string>
+    <string name="command_current_location">موقعیت کنونی</string>
+    <string name="command_verification">معمای تصویری</string>
+    <string name="command_verification2">معمای تصویری</string>
+    <string name="command_verification3">معمای تصویری</string>
+    <string name="feed_back_disabled">بازخورد صوتی غیر فعال شد</string>
+    <string name="command_gesture_help">توضیحات پوسته حرکتی</string>
+    <string name="command_gesture_help2">راهنمای پوسته حرکتی</string>
+    <string name="command_virtual_screen">صفحه مجازی</string>
+    <string name="command_play_control">کنترل پخش</string>
+    <string name="command_read_mode">حالت خواندن</string>
+    <string name="command_verbatim_speak">حالت مرور کلمه به کلمه</string>
+    <string name="command_verbatim_speak2">حالت مرور کلمه به کلمه</string>
+    <string name="command_to_previous_focus">مورد قبلی</string>
+    <string name="command_to_next_focus">مورد بعدی</string>
+    <string name="command_to_previous_page">صفحه قبلی</string>
+    <string name="command_to_next_page">صفحه بعدی</string>
+    <string name="command_to_previous_scroll">پیمایش به بالا</string>
+    <string name="command_to_next_scroll">پیمایش به پایین</string>
+    <string name="command_to_previous_progress">کاهش اِسلایدِر</string>
+    <string name="command_to_next_progress">افزایش اِسلایدِر</string>
+    <string name="command_lower_volume">کاهش میزان صدا</string>
+    <string name="command_raise_volume">افزایش میزان صدا</string>
+    <string name="command_now_time">ساعت</string>
+    <string name="command_timer_mode">زمان‌سنج</string>
+    <string name="command_timer_start">فعال کردن زمان‌سنج</string>
+    <string name="command_quick_mode">حالت مرور سریع</string>
+    <string name="command_auto_next">حالت مرور خودکار</string>
+    <string name="command_auto_speak">حالت خواندن خودکار</string>
+
+    <string name="command_copy">کپی</string>
+    <string name="command_append_copy">کپی افزایشی</string>
+    <string name="command_paste">جایگذاری</string>
+
+    <string name="raw_swipe_down">[کشیدن انگشت به پایین]</string>
+    <string name="raw_swipe_up">[کشیدن انگشت به بالا]</string>
+    <string name="raw_swipe_right">[کشیدن انگشت به راست]</string>
+    <string name="raw_swipe_left">[کشیدن انگشت به چپ]</string>
+    <string name="raw_long_click">[فشار طولانی]</string>
+    <string name="raw_click">[کلیک]</string>
+
+    <string name="click_to_enabled">کاوش با لمس فعال شد.</string>
+    <string name="touch_mode_disabled">کاوش با لمس غیر فعال شد.</string>
+    <string name="node_mode">مرور گرهی</string>
+    <string name="ignore_battery">به برنامه اجازه دهید تا تنظیمات بهینه سازی نیرو را نادیده بگیرد..</string>
+    <string name="overlay_window">لطفا حالت تصویر در تصویر را فعال کنید.</string>
+    <string name="opened"> روشن</string>
+    <string name="closed"> خاموش</string>
+    <string name="checked"> علامت‌دار</string>
+    <string name="unchecked"> بدون علامت</string>
+    <string name="page_from_to">صفحه  %d از %d</string>
+    <string name="done"> انجام شد</string>
+    <string name="error_try_again">خطایی رخ داده است. لطفا دوباره امتحان کنید</string>
+    <string name="swipe_right">کشیدن انگشت به راست</string>
+    <string name="swipe_left">کشیدن انگشت به چپ</string>
+    <string name="long_clicked">فشار طولانی</string>
+    <string name="notification_from">اعلان جدید از  %s</string>
+    <string name="progress">نوار پیشرفت: %d</string>
+    <string name="item_current_count">%d از %d</string>
+    <string name="item_from_to_count">نمایش موارد  %d تا  %d از %d</string>
+    <string name="point">ستاره</string>
+    <string name="selected"> انتخاب شده</string>
+    <string name="disabled"> غیر‌فعال</string>
+    <string name="progress2"> موقعیت: %d</string>
+    <string name="view_name_button"> دگمه. </string>
+    <string name="view_name_edit_text"> کادر ویرایش</string>
+    <string name="view_name_editing"> در حال ویرایش</string>
+    <string name="view_name_web_view"> نمای وب. </string>
+    <string name="view_name_list_view"> لیست</string>
+    <string name="view_name_spinner"> جعبه کشویی</string>
+    <string name="view_name_switch"> سوییچ</string>
+    <string name="view_name_radio_button"> دگمه رادیویی</string>
+    <string name="view_name_check_box"> کادر علامت‌زدنی</string>
+    <string name="view_name_seek_bar"> اِسلایدِر</string>
+    <string name="view_name_progress_bar"> نوار پیشرفت</string>
+    <string name="view_name_rating_bar"> نوار امتیاز‌دهی</string>
+    <string name="view_name_image_button"> دگمه گرافیکی</string>
+    <string name="view_name_image"> عکس</string>
+
+    <string name="message_has_vip_read_mode"> حالت خواندن رمان در نسخه رایگان برنامه غیر‌فعال است</string>
+    <string name="message_enabled_read_mode">خروج از حالت خواندن</string>
+    <string name="message_long_copyed">در مجموع  %d مورد کپی شد.</string>
+    <string name="message_read_mode_enabled">ورود به حالت خواندن,</string>
+    <string name="message_timer_mode_enabled">زمان‌سنج شروع به کار کرد</string>
+    <string name="message_clean">متن پاک شد</string>
+    <string name="message_clean_error">خطا در پاک کردن متن</string>
+    <string name="message_edit_text_not_found">کادر ویرایش پیدا نشد</string>
+
+
+    <string name="rap_action_settings_title">ضربه زدن به پشت دستگاه </string>
+    <string name="back_rap_action_value_default">@string/command_now_time</string>
+    <string name="back_rap_action_title">دو بار ضربه زدن به پشت دستگاه: </string>
+    <string name="back_rap_action_summary">دو بار ضربه زدن به پشت دستگاه</string>
+
+    <string name="shake_action_value_default">@string/command_nothing</string>
+    <string name="shake_action_title">تکان دادن</string>
+    <string name="shake_action_summary">دستگاه خود را افقی تکان دهید </string>
+
+
+    <string name="shake_action_sens_title">حساسیت به تکان دادن: </string>
+    <string name="shake_action_call_title">با تکان دادن دستگاه به تماس‌ها پاسخ دهید: </string>
+    <string name="message_no_thing">محتوایی موجود نیست</string>
+    <string name="double_fling_setting">تنظیمات ژست‌های حرکتی چند‌بخشی </string>
+
+    <string name="command_off_screen">صفحه قفل شود</string>
+    <string name="command_lock">صفحه قفل شود</string>
+    <string name="command_accessibility_service_setting">تنظیمات دسترس‌پذیری</string>
+    <string name="command_trans">ترجمه</string>
+    <string name="command_disable_dim_screen">غیر‌فعال کردن پرده</string>
+    <string name="command_enable_dim_screen">پرده</string>
+    <string name="command_enable_dim_screen2">فعال کردن پرده</string>
+    <string name="command_to_recents">برنامه های اخیر</string>
+    <string name="command_clean">پاک کردن کادر ویرایش فوکوس شده</string>
+    <string name="command_select">انتخاب متن</string>
+    <string name="command_notification_box">جعبه اعلان</string>
+    <string name="command_up_tap">تغییر وضعیت "برداشتن انگشت برای فعال‌سازی"</string>
+    <string name="command_tap_mode">تغییر وضعیت "ضربه زدن برای تغییر فوکوس"</string>
+    <string name="command_node_mode">تغییر در حالت مرور گرهی</string>
+    <string name="command_to_home">صفحه اصلی</string>
+    <string name="command_to_back">بازگشت</string>
+    <string name="command_long_edit">ویرایش پیشرفته</string>
+    <string name="command_all_speak">خواندن تمام صفحه</string>
+    <string name="command_all_speak2">تمام صفحه را بخوان</string>
+    <string name="command_all_select">انتخاب همه</string>
+    <string name="command_voice_helper">دستیار صوتی</string>
+    <string name="command_voice_input">دیکته صوتی</string>
+    <string name="command_ocr">شناسایی عکس</string>
+    <string name="command_ocr_text">شناسایی متن</string>
+    <string name="camera_title">دوربین Commentary</string>
+    <string name="command_disable_touch">تعلیق کاوش با لمس</string>
+    <string name="command_disable_feedback">تعلیق بازخورد صوتی</string>
+    <string name="command_to_notifications">باز کردن پنل اعلان‌ها </string>
+    <string name="command_notifications">خواندن نوار اعلان‌ها </string>
+    <string name="command_battery_level">درصد باتری را اعلام کن</string>
+    <string name="command_battery">درصد باتری</string>
+    <string name="command_quick_menu">منوی میانبر‌ها</string>
+    <string name="command_gestures_edit">ویرایش ژست‌های حرکتی</string>
+
+    <string name="clipboard">کلیپ‌برد</string>
+    <string name="favorites">علاقه‌مندی‌ها</string>
+    <string name="input_method">شیوه‌ی نوشتار</string>
+    <string name="main_menu">منوی اصلی: </string>
+    <string name="auto_read">خواندن خودکار</string>
+    <string name="list_mode_title">حالت مرور لیستی</string>
+    <string name="main_setting">تنظیمات برنامه</string>
+    <string name="battery_level">نیروی باتری: %d</string>
+
+
+    <string name="double_fling_left_gesture_title">اشاره به  چپ</string>
+    <string name="double_fling_up_gesture_title">اشاره به بالا</string>
+    <string name="double_fling_right_gesture_title">اشاره به راست</string>long
+    <string name="double_fling_down_gesture_title">اشاره به پایین</string>
+
+    <string name="down_right_double_fling_setting">ژست حرکتی چند‌بخشی پایین راست</string>
+    <string name="down_right_double_fling_left_gesture_value_default">بازگشت</string>
+    <string name="down_right_double_fling_up_gesture_value_default">صفحه اصلی</string>
+    <string name="down_right_double_fling_right_gesture_value_default">[کیلیک]</string>
+    <string name="down_right_double_fling_down_gesture_value_default">پنل اعلان‌ها</string>
+
+    <string name="down_left_double_fling_setting">ژست حرکتی چند‌بخشی پایین-چپ</string>
+    <string name="down_left_double_fling_left_gesture_value_default">@string/command_copy</string>
+    <string name="down_left_double_fling_up_gesture_value_default">@string/command_paste</string>
+    <string name="down_left_double_fling_right_gesture_value_default">@string/command_append_copy</string>
+    <string name="down_left_double_fling_down_gesture_value_default">@string/command_long_copy</string>
+
+
+    <string name="use_down_right_double_fling_gesture_title">استفاده از ژست‌ حرکتی چند‌بخشی پایین-راست</string>
+    <string name="use_down_left_double_fling_gesture_title">استفاده از ژست حرکتی چند‌بخشی پایین-چپ</string>
+
+
+    <string name="right_double_fling_setting">ژست حرکتی چند‌بخشی دوبار‌راست</string>
+    <string name="use_right_double_fling_gesture_title">استفاده از ژست حرکتی چند‌بخشی دوبار‌راست</string>
+
+    <string name="left_double_fling_setting">ژست حرکتی چند‌بخشی دوبار‌چپ</string>
+    <string name="use_left_double_fling_gesture_title">استفاده از ژست حرکتی چند‌بخشی دوبار‌چپ</string>
+
+
+    <string name="up_double_fling_setting">ژست حرکتی چند‌بخشی بالا</string>
+    <string name="use_up_double_fling_gesture_title">استفاده از ژست حرکتی چند‌بخشی بالا</string>
+
+    <string name="down_double_fling_setting">ژست حرکتی چند‌بخشی پایین</string>
+    <string name="use_down_double_fling_gesture_title">استفاده از ژست حرکتی چند‌بخشی پایین</string>
+
+
+    <string name="up_left_double_fling_setting">ژست حرکتی چند‌بخشی بالا-چپ</string>
+    <string name="use_up_left_double_fling_gesture_title">استفاده از ژست حرکتی چند‌بخشی بالا-چپ</string>
+
+    <string name="up_right_double_fling_setting">ژست حرکتی چند‌بخشی بالا-راست</string>
+    <string name="use_up_right_double_fling_gesture_title">استفاده از ژست حرکتی چند‌بخشی بالا-راست</string>
+
+
+    <string name="right_left_double_fling_setting">ژست حرکتی چند‌بخشی راست-چپ</string>
+    <string name="use_right_left_double_fling_gesture_title">استفاده از ژست حرکتی چند‌بخشی راست-چپ</string>
+
+    <string name="left_right_double_fling_setting">ژست حرکتی چند‌بخشی چپ-راست</string>
+    <string name="use_left_right_double_fling_gesture_title">استفاده از ژست حرکتی چند‌بخشی چپ-راست</string>
+
+
+    <string name="up_down_double_fling_setting">ژست حرکتی چند‌بخشی بالا-پایین</string>
+    <string name="use_up_down_double_fling_gesture_title">استفاده از ژست حرکتی چند‌بخشی بالا-پایین</string>
+
+    <string name="down_up_double_fling_setting">ژست حرکتی چند‌بخشی پایین-بالا</string>
+    <string name="use_down_up_double_fling_gesture_title">استفاده از ژست حرکتی چند‌بخشی پایین-بالا</string>
+
+
+    <string name="left_down_double_fling_setting">ژست حرکتی چند‌بخشی چپ-پایین</string>
+    <string name="use_left_down_double_fling_gesture_title">استفاده از ژست حرکتی چند‌بخشی چپ-پایین</string>
+
+    <string name="left_up_double_fling_setting">ژست حرکتی چند‌بخشی چپ-بالا</string>
+    <string name="use_left_up_double_fling_gesture_title">استفاده از ژست حرکتی چند‌بخشی چپ بالا</string>
+
+
+    <string name="right_down_double_fling_setting">ژست حرکتی چند‌بخشی راست-پایین</string>
+    <string name="use_right_down_double_fling_gesture_title">استفاده از ژست حرکتی چند‌بخشی راست-پایین </string>
+
+    <string name="right_up_double_fling_setting">ژست حرکتی چند‌بخشی راست-بالا</string>
+    <string name="use_right_up_double_fling_gesture_title">استفاده از ژست حرکتی چند‌بخشی راست-بالا</string>
+
+    <string name="command_speak">خواندن</string>
+    <string name="command_intput">ورودی</string>
+    <string name="app">باز کردن برنامه</string>
+    <string name="command_to_previous_section">برو به بخش  قبلی</string>
+    <string name="command_to_next_section"> برو به بخش بعدی</string>
+    <string name="command_to_previous_link">برو به پیوند قبلی</string>
+    <string name="command_to_next_link">برو به پیوند بعدی</string>
+    <string name="command_to_previous_control">برو به عنصر کنترلی قبلی</string>
+    <string name="command_to_next_control">برو به عنصر کنترلی بعدی</string>
+    <string name="system_tts_engine_title">موتور متن به گفتار</string>
+    <string name="cancel">لغو</string>
+    <string name="timer_interval_title">تکرار یاد‌آور</string>
+    <string name="gesture_help_title">راهنمای پوسته‌حرکتی</string>
+    <string name="show_volume_ui_title">هنگام کنترل میزان صدا، پنل تنظیم صدای سیستم روی صفحه نمایش داده شود</string>
+    <string name="fingerprint_gesture_setting">تنظیمات ژست‌های اثر انگشت</string>
+    <string name="fingerprint_gesture_setting_summary">این ویژگی فقط برای اندروید 8 و بالاتر فعال است .</string>
+    <string name="use_fingerprint_gesture_title">استفاده از ژست‌های حرکتی اجرا شده روی حسگر اثر انگشت : </string>
+    <string name="fingerprint_left_gesture_value_default">بازگشت</string>
+    <string name="fingerprint_right_gesture_value_default">[کلیک]</string>
+    <string name="fingerprint_up_gesture_value_default">مورد قبلی</string>
+    <string name="fingerprint_down_gesture_value_default">مورد بعدی</string>
+    <string name="command_supper_mode">حالت ناوبری پر-جزئیات</string>
+    <string name="command_ocr_focus">شناسایی مورد فوکوس شده با نویسه‌خوان نوری.</string>
+    <string name="navi">ناوبری</string>
+    <string name="unknown_index_title">شماره‌ی گزینه‌ی بدون برچسب خوانده شود: </string>
+    <string name="unknown_index_summary">در صورت موجود نبودن برچسب یا شناسه، شماره‌ی مورد فوکوس شده خوانده شود. </string>
+    <string name="alarm_start_hour_title">زمان شروع به کار ساعت گویا</string>
+    <string name="alarm_end_hour_title">زمان پایان کار ساعت گویا</string>
+    <string name="command_virtual_navigation">ناوبری مجازی</string>
+    <string name="voice_helper_use_click_title">مورد تعیین شده  مستقیما فعال شود.</string>
+    <string name="voice_helper_use_app_title">برنامه‌ی تعیین شده مستقیما باز شود</string>
+    <string name="voice_helper_use_app_summary">شما میتوانید هر برنامه را با گفتن نامِ آن باز کنید. اگر این امکان فعال نبود، بگویید "برنامه ی x[برنامه دلخواه] را باز کن" تا برنامه باز شود.</string>
+    <string name="voice_helper_use_click_summary">شما میتوانید هر عنصر را با گفتن نامِ آن فعال کنید. اگر این امکان فعال نبود، بگویید "عنصر x [نامِ عنصرِ دلخواه] را فعال کن" تا آن عنصر فعال شود.</string>
+    <string name="edge_gesture_width_title">محدوده فعال‌سازی ژست‌های  لبه ای: </string>
+    <string name="use_double_edge_gesture_summary">شما می‌توانید با کشیدن دو انگشت در محدوده ژست‌های لبه ای، منوی لبه ای را باز کنید.</string>
+    <string name="left_edge_gesture_items_title">سفارشی سازی منوی لبه ای چپ</string>
+    <string name="right_edge_gesture_items_title">سفارشی‌سازی منوی لبه ای راست</string>
+    <string name="multi_menu_items_title">سفارشی‌سازی منوی چند‌ستونی</string>
+    <string name="main_menu_items_title">سفارشی‌سازی منوی اصلی</string>
+    <string name="use_edge_gesture_menu_title">منوی لبه ای با یک انگشت باز شود: </string>
+    <string name="use_left_edge_gesture_quick_menu_title">在左边缘菜单中使用单应用快捷菜单</string>
+    <string name="use_small_filter_title">موارد مزاحم نادیده گرفته شوند: </string>
+    <string name="jieshuo_bbs_summary">دیدگاه خود درباره صفحه‌خوان commentary را با ما در انجمن به اشتراک بگذارید. </string>
+    <string name="voice_recognizer_title">موتور شناسایی صدا: </string>
+    <string name="use_text_format_char_upper_title">در صورت بزرگ بودن حرف هشدار داده شود: </string>
+    <string name="voice_helper_media_mute_mode_title">هنگامی که دستیار صوتی فعال است، صدای رسانه قطع شود: </string>
+    <string name="trans_lang_to_title">زبان مقصد: </string>
+    <string name="recognizer_lang_title">زبان شناسایی گفتار: </string>
+    <string name="float_menu_items_title">تنظیمات منوی شناور</string>
+    <string name="use_float_menu_title">از منوی شناور استفاده شود</string>
+    <string name="tts_scale_title">TTS rate</string>
+    <string name="auto_previous">عقبگرد خودکار</string>
+    <string name="code_help_title">راهنمای API</string>
+    <string name="sign_up">ثبت‌نام</string>
+    <string name="login">ورود</string>
+    <string name="back">بازگشت</string>
+    <string name="error">خطا</string>
+    <string name="login_done">ورود با موفقیت انجام شد</string>
+    <string name="sign_done">ثبت‌نام با موفقیت انجام شد</string>
+    <string name="directory_timer">timer</string>
+    <string name="timer_tags_items_title">مدیریت برچسب‌های زمان‌سنج</string>
+    <string name="value_none">هیچ‌کدام</string>
+    <string name="msg_deleted">%s پاک شد</string>
+    <string name="tts_echo_voice_settings_title">تنظیمات موتور گفتار Echo </string>
+    <string name="screen_off">صفحه خاموش است</string>
+    <string name="edit_box_no_found">کادر ویرایش پیدا نشد</string>
+    <string name="msg_speak_content">لطفا ابتدا محتوا را بیان کنید</string>
+    <string name="msg_bye">خدا نگهدار!</string>
+    <string name="date_format">HH:mm</string>
+    <string name="date_format0">HH:00</string>
+    <string name="more">بیشتر</string>
+    <string name="add_label">افزودن برچسب</string>
+    <string name="grid_item_current">ردیف %d, ستون %d.</string>
+    <string name="node_info_root">گره اصلی  دارای  %d گره فرزند است.</string>
+    <string name="node_info"> %d گره فرزند وجود دارد.</string>
+    <string name="node_info_none">گره فرزندی وجود ندارد.</string>
+    <string name="rating_current_count">امتیاز  %d از %d ستاره.</string>
+    <string name="date_format_sec">s\'ثانیه\'</string>
+    <string name="date_format_min_sec">m\'دقیقه و\'ss\'ثانیه\'</string>
+    <string name="date_format_hour_min">HH\'ساعت و \'mm\'دقیقه \'</string>
+    <string name="hint_move">, انگشت خود را به چپ یا  راست بکشید تا موقعیت نشانگر را تغییر دهید.</string>
+    <string name="hint_edit"> , برای ویرایش دو بار ضربه بزنید.</string>
+    <string name="hint_change_seek"> , انگشت خود را به چپ و راست بکشید تا در اِسلایدِر حرکت کنید.</string>
+    <string name="hint_change_rating"> , انگشت خود را به چپ یا  راست بکشید تا امتیاز را تغییر دهید.</string>
+    <string name="hint_checked"> , برای علامت زدن دو بار ضربه بزنید.</string>
+    <string name="hint_uncheck"> , برای برداشتن علامت دو بار ضربه بزنید.</string>
+    <string name="hint_closed"> , برای بستن دو بار ضربه بزنید.</string>
+    <string name="hint_opened"> , برای باز کردن دو بار ضربه بزنید.</string>
+    <string name="hint_changed"> , برای تغییر دو بار ضربه بزنید.</string>
+    <string name="hint_double_click"> , دو بار ضربه زدن</string>
+    <string name="hint_activated"> , فعال کردن</string>
+    <string name="hint_double_click_activated"> , برای فعال کردن دو بار ضربه بزنید.</string>
+    <string name="hint_node_move">کشیدن انگشت به چپ: گره قبلی. کشیدن انگشت به راست: گره بعدی. کشیدن  انگشت به پایین: عنصر بعدی. کشیدن انگشت به بالا: عنصر قبلی.</string>
+    <string name="date_formater_min">mm\'minutes\'</string>
+    <string name="touch_mode_enabled">کاوش با لمس فعال شد. </string>
+    <string name="custom">سفارشی</string>
+
+    <string name="create_gesture">ایجاد پوسته‌ی حرکتی سراسری.</string>
+    <string name="create_app_gesture">ایجاد پوسته‌ی حرکتی تک‌برنامه ای.</string>
+    <string name="func">عملکرد</string>
+    <string name="swipe_up_right">کشیدن انگشت به بالا و راست</string>
+    <string name="swipe_up_down">کشیدن انگشت به بالا و پایین</string>
+    <string name="swipe_up_left">کشیدن انگشت به بالا و چپ</string>
+    <string name="swipe_down">کشیدن انگشت به پایین</string>
+    <string name="swipe_down_right">کشیدن انگشت به پایین و راست</string>
+    <string name="swipe_down_up">کشیدن انگشت به پایین و بالا</string>
+    <string name="swipe_down_left">کشیدن انگشت به پایین و چپ</string>
+    <string name="swipe_left_up">کشیدن انگشت به چپ و بالا</string>
+    <string name="swipe_left_down">کشیدن انگشت به چپ و پایین</string>
+    <string name="swipe_left_right">کشیدن انگشت به چپ و راست</string>
+    <string name="swipe_up">کشیدن انگشت به بالا</string>
+    <string name="swipe_right_up">کشیدن انگشت به راست و بالا</string>
+    <string name="swipe_right_down">کشیدن انگشت به راست و پایین</string>
+    <string name="swipe_right_left">کشیدن انگشت به   راست و چپ</string>
+    <string name="exit">خروج</string>
+    <string name="create">ایجاد</string>
+    <string name="save">ذخیره</string>
+    <string name="saved">ذخیره شد</string>
+    <string name="edit_name">ویرایش نام</string>
+    <string name="actions">کنش‌ها</string>
+    <string name="share">به‌اشتراک‌گذاری</string>
+    <string name="move_to_up">بالا</string>
+    <string name="move_to_down">پایین</string>
+    <string name="delete">حذف</string>
+    <string name="select">انتخاب</string>
+    <string name="rename">تغییر نام</string>
+    <string name="func_manager">مدیریت عملکرد‌ها</string>
+    <string name="func_create">ایجاد عملکرد</string>
+    <string name="waiting">لطفا صبر کنید</string>
+    <string name="gestures_description_default">برای راهنمای پوسته‌ی حرکتی پیشفرض، به صفحه‌ی راهنما مراجعه کنید.</string>
+    <string name="auto_click">کلیک خودکار</string>
+    <string name="insert">%s درج شد.</string>
+    <string name="edit_button">لیستی از دگمه ها را وارد کنید. (یک دگمه در هر خط).</string>
+    <string name="use_upper_speak_title">هنگام تایپ، حروف بزرگ گزارش شوند: </string>
+    <string name="system_voice_recognizer_title">موتور شناسایی گفتار سیستم: </string>
+    <string name="system_voice_recognizer_summary">این تنظیم فقط در صورتی که موتور شناسایی روی سیستم تنظیم شده باشد کار می‌کند.</string>
+    <string name="msg_no_found">پیدا نشد.</string>
+    <string name="msg_canceled">لغو شد.</string>
+    <string name="voice_cmd_phone_to">تماس با</string>
+    <string name="voice_cmd_call">تماس بگیر</string>
+    <string name="voice_cmd_send">بفرست</string>
+    <string name="open">باز کردن</string>
+    <string name="voice_cmd_uninstall">حذف</string>
+    <string name="voice_cmd_install">نصب</string>
+    <string name="voice_cmd_input">ورودی</string>
+    <string name="voice_cmd_search">جستجو</string>
+    <string name="camera_guide">حالت شناسایی لحظه ای.</string>
+    <string name="camera_tag">توضیح صحنه.</string>
+    <string name="camera_ocr">شناسایی متن.</string>
+    <string name="camera_face">تشخیص چهره</string>
+    <string name="camera_animal">تشخیص حیوانات</string>
+    <string name="camera_plant">شناسایی گیاهان.</string>
+    <string name="camera_currency">پول‌شناس.</string>
+    <string name="camera_ingredient">شناسایی مواد غذایی.</string>
+    <string name="split_char">حرف</string>
+    <string name="split_all">همه</string>
+    <string name="split_sentence">کلمه</string>
+    <string name="split_line">خط</string>
+    <string name="split_paragraph">پاراگراف</string>
+    <string name="auto_click_create">ایجاد کلیک خودکار جدید</string>
+    <string name="msg_text_changed">متن تغییر کرده است. میخواهید با آن چه کنید؟</string>
+    <string name="no_save">ذخیره نکن</string>
+
+    <string name="use_web_type_move_title">مرور صفحات وب بر اساس عناصر: </string>
+    <string name="pref_donate_alipay">حمایت از طریق Alipay.</string>
+    <string name="pref_donate_paypal">حمایت از طریق  Paypal.</string>
+    <string name="menu_settings_title">تنظیمات منو</string>
+    <string name="directory_download">دانلود</string>
+    <string name="msg_has_vip_split_edit">نسخه رایگان برنامه بیش از 100 کاراکتر را در ویرایش تکه ای پشتیبانی نمیکند.</string>
+    <string name="media_doc_title">راهنمای صوتی</string>
+    <string name="downloaded">دانلود شده</string>
+    <string name="no_login">شما هنوز وارد نشده اید</string>
+    <string name="no_vip">عضو رایگان</string>
+    <string name="need_vip">در صورت نیاز به نسخه پیشرفته، با گروه پشتیبانی تماس بگیرید.</string>
+    <string name="check_read_phone_state_permission">مجوز وضعیت دستگاه را بررسی کنید</string>
+    <string name="message_timer_mode_disabled">زمان سنج متوقف شد، زمان محاسبه شده %s, و اکنون   ساعت %s است</string>
+    <string name="camera_right_up">راست و بالا</string>
+    <string name="camera_left_up">چپ و بالا</string>
+    <string name="camera_hold_posture">دوربین را ثابت نگه دارید</string>
+    <string name="camera_hold_posture_have_face">دوربین را ثابت نگه دارید,  %d صورت در تصویر است</string>
+    <string name="camera_lower_left_hand">دست چپ را پایین‌تر بگیرید</string>
+    <string name="camera_raise_left_hand">دست چپ را بالاتر  بگیرید</string>
+    <string name="camera_top_up">دوربین را بالا ببرید</string>
+    <string name="camera_screen_up">صفحه را به سمت بالا  بگیرید</string>
+    <string name="camera_screen_down">صفحه را به سمت پایین بگیرید</string>
+    <string name="camera_move_left">دستگاه را به چپ ببرید</string>
+    <string name="camera_move_right">دستگاه را به راست ببرید</string>
+    <string name="camera_move_up">دستگاه را  بالا‌تر بگیرید</string>
+    <string name="camera_move_down">دستگاه را  پایین‌تر بگیرید</string>
+    <string name="camera_top_move_far">بالای دستگاه را  دور‌تر بگیرید</string>
+    <string name="camera_top_move_near">بالای دستگاه را نزدیک‌تر بگیرید</string>
+    <string name="camera_bottom_up">پایین دستگاه را بالاتر بگیرید</string>
+    <string name="use_text_format_read_word_title">برای حروف مثال خوانده شود</string>
+    <string name="restore">باز‌نشانی</string>
+    <string name="backup">نسخه پشتیبان</string>
+    <string name="directory_camera">camera</string>
+    <string name="game_mode_title">حالت بازی: </string>
+    <string name="game_mode_summary">کاوش با لمس در صورت باز شدن برنامه هایی که در این قسمت تعیین میکنید متوقف خواهد شد</string>
+    <string name="msg_backuped">پشتیبان‌گیری با موفقیت انجام شد</string>
+    <string name="msg_items">%dمورد</string>
+    <string name="msg_recognition_results">نتایج شناسایی</string>
+    <string name="edit_mode">حالت ویرایش</string>
+    <string name="use_dpad_key_title">فوکوس با استفاده از دگمه های جهت‌نما جابجا شود.</string>
+    <string name="ocr_engine_title">موتور نویسه‌خوان نوری</string>
+    <string name="manager_title">مدیریت</string>
+    <string name="msg_battery_full">شارژ باتری کامل است</string>
+    <string name="invite_code">کد دعوت</string>
+    <string name="msg_supper_mode">强力模式可以获得更多焦点内容</string>
+    <string name="msg_enabled_supper_mode">开启强力模式</string>
+    <string name="msg_disabled_supper_mode">关闭强力模式</string>
+    <string name="msg_enabled_supper_mode_error">开启强力模式失败</string>
+    <string name="msg_disabled_supper_mode_error">关闭强力模式失败</string>
+    <string name="msg_backup_done">فایل پشتیبان در مثیر /حافظه داخلی/解说/backup ذخیره میشود. اگر از پوشه 解说 کپی تهیه کنید، تمامی اطلاعات صفحه‌خوان از جمله ژست‌های حرکتی، پوسته های صوتی، پلاگین‌ها و... با جایگزین کردن پوشه بازگردانی میشوند</string>
+    <string name="msg_restored">恢复完成</string>
+    <string name="backup_done">نسخه پشتیبان تهیه شد</string>
+    <string name="msg_gestures_empty">لیست ژست‌های حرکتی خالی است</string>
+    <string name="msg_sounds_empty">لیست پوسته‌های صوتی خالی است</string>
+    <string name="msg_clipboards_empty">کلیپ‌برد خالی است</string>
+    <string name="msg_favorites_empty">لیست علاقه‌مندی ها خالی است</string>
+    <string name="msg_timers_empty">لیست زمان‌سنج‌ها خالی است</string>
+    <string name="msg_plugins_empty">لیست پلاگین‌ها خالی است</string>
+    <string name="msg_tools_empty">لیست ابزار‌ها خالی است</string>
+    <string name="msg_labels_empty">لیست برچسب‌ها خالی است</string>
+    <string name="msg_backups_empty">لیست پشتیبان‌ها خالی است</string>
+    <string name="msg_cmds_empty">لیست فرمان‌های صوتی سفارشی خالی است</string>
+    <string name="close">بستن</string>
+    <string name="multi_click">حالت چند‌ضربه ای</string>
+    <string name="command_raw_tap">حالت اشاره‌ای</string>
+    <string name="msg_enabled_raw_tap">حالت اشاره‌ای فعال شد. انگشت خود را به مدت یک ثانیه روی هر عنصر نگه دارید تا فعال شود. </string>
+    <string name="msg_disabled_raw_tap">حالت اشاره‌ای غیر‌فعال شد. </string>
+    <string name="system_tts_scale_summary">سرعت موتور گفتار را بیش از حد ممکن افزایش میدهد. این قابلیت ممکن است با موتور گفتار شما سازگار نباشد.</string>
+    <string name="send_email_title">Email 946049229@qq.com</string>
+
+    <string name="voice_helper_use_blot_title">使用聊天机器人</string>
+
+    <string name="message_recognition_empty">我没听清你说什么</string>
+    <string name="voice_helper_exit">再见</string>
+    <string name="voice_input_mode">听写模式</string>
+    <string name="voice_helper_record_start">录制指令</string>
+    <string name="voice_helper_record_stop">结束录制</string>
+    <string name="voice_helper_record_message">开始录制，依次说出指令，最后说，</string>
+    <string name="voice_helper_record_done">录制完成</string>
+    <string name="msg_save_error">保存出错</string>
+    <string name="msg_has_vip_voice_cmd">非会员使用的语音不能超过十条</string>
+    <string name="cmd_create">新建指令</string>
+    <string name="cmd_manager">管理指令</string>
+    <string name="note_tile">云笔记</string>
+    <string name="message_count_out">数量超过限制</string>
+    <string name="cloud_backup_restore_settings_title">云备份</string>
+    <string name="cloud_backup_settings_title">备份设置</string>
+    <string name="cloud_restore_settings_title">恢复设置</string>
+    <string name="cloud_backup_clipboard_title">备份剪切板</string>
+    <string name="cloud_restore_clipboard_title">恢复剪切板</string>
+    <string name="cloud_backup_favorites_title">备份收藏夹</string>
+    <string name="cloud_restore_favorites_title">恢复收藏夹</string>
+    <string name="cloud_backup_timer_title">备份计时记录</string>
+    <string name="cloud_restore_timer_title">恢复计时记录</string>
+    <string name="cloud_backup_label_title">备份标签</string>
+    <string name="cloud_restore_label_title">恢复标签</string>
+    <string name="cloud_backup_gesture_title">备份手势</string>
+    <string name="cloud_restore_gesture_title">恢复手势</string>
+    <string name="cloud_backup_sound_title">备份音效</string>
+    <string name="cloud_restore_sound_title">恢复音效</string>
+    <string name="cloud_backup_cmd_title">备份指令</string>
+    <string name="cloud_restore_cmd_title">恢复指令</string>
+    <string name="ocr_baidu_secret_title">Secret key</string>
+    <string name="ocr_baidu_key_title">App key</string>
+    <string name="ocr_baidu_id_title">App id</string>
+    <string name="ocr_baidu_setting">Baidu OCR</string>
+    <string name="use_ocr_baidu_title">使用自己的百度OCR</string>
+    <string name="use_ocr_baidu_summary">使用自己的识别接口可以更加高效的识别文字，请到https://ai.baidu.com注册获取信息</string>
+    <string name="use_ocr_baidu_help">请到https://ai.baidu.com注册，并开通文字，图片标签，植物，动物，植物，果蔬，货币识别</string>
+    <string name="ocr_setting">文字识别设置</string>
+    <string name="ocr_lang_title">识别语言</string>
+    <string name="ocr_lang_summary">仅使用腾讯云接口时有效</string>
+    <string name="ocr_baidu_summary">仅使用百度OCR接口时有效</string>
+    <string name="add_from_focus_node">添加当前焦点</string>
+    <string name="add_from_virtual_screen">通过虚拟屏幕</string>
+    <string name="add_from_virtual_list">通过文字识别</string>
+    <string name="use_ocr_qq_title">腾讯云-无障碍研究会助力支持接口</string>
+    <string name="ocr_lang_enteries">中英文混合|自动识别|日语|韩语|西班牙语|法语|德语|葡萄牙语|越南语|马来语|俄语|意大利语|荷兰语|瑞典语|芬兰语|丹麦语|挪威语|匈牙利语|泰语|拉丁语系</string>
+
+
+</resources>

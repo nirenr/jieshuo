@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="execute_command">
+        <item>@string/command_nothing</item>
+        <item>@string/directory_plugins</item>
+        <item>@string/directory_cmd</item>
+        <item>@string/directory_tools</item>
+        <item>@string/app</item>
+        <item>@string/command_to_previous_focus</item>
+        <item>@string/command_to_next_focus</item>
+        <item>@string/command_start</item>
+        <item>@string/command_end</item>
+        <item>@string/command_left_shortcut</item>
+        <item>@string/command_right_shortcut</item>
+        <item>@string/command_to_previous_scroll</item>
+        <item>@string/command_to_next_scroll</item>
+        <item>@string/command_to_previous_progress</item>
+        <item>@string/command_to_next_progress</item>
+        <item>@string/command_to_previous_section</item>
+        <item>@string/command_to_next_section</item>
+        <item>@string/command_to_previous_link</item>
+        <item>@string/command_to_next_link</item>
+        <item>@string/command_to_previous_control</item>
+        <item>@string/command_to_next_control</item>
+        <item>@string/command_lower_volume</item>
+        <item>@string/command_raise_volume</item>
+        <item>@string/command_now_time</item>
+        <item>@string/command_timer_mode</item>
+        <item>@string/command_current_location</item>
+        <item>@string/command_virtual_screen</item>
+        <item>@string/command_verification</item>
+        <item>@string/command_gesture_help</item>
+        <item>@string/command_trans</item>
+        <item>@string/command_enable_dim_screen</item>
+        <item>@string/clipboard_menu_title</item>
+        <item>@string/favorites_menu_title</item>
+        <item>@string/input_method</item>
+        <item>@string/command_paste</item>
+        <item>@string/command_copy</item>
+        <item>@string/command_long_copy</item>
+        <item>@string/command_append_copy</item>
+        <item>@string/command_clean</item>
+        <item>@string/command_notification_box</item>
+        <item>@string/command_up_tap</item>
+        <item>@string/command_supper_mode</item>
+        <item>@string/command_tap_mode</item>
+        <item>@string/command_node_mode</item>
+        <item>@string/command_to_recents</item>
+        <item>@string/command_to_home</item>
+        <item>@string/command_to_back</item>
+        <item>@string/command_click</item>
+        <item>@string/command_long_click</item>
+        <item>@string/command_long_edit</item>
+        <item>@string/advanced_menu_title</item>
+        <item>@string/quick_menu_title</item>
+        <item>@string/action_menu_title</item>
+        <item>@string/main_menu</item>
+        <item>@string/command_read_mode</item>
+        <item>@string/command_verbatim_speak2</item>
+        <item>@string/char_mode</item>
+        <item>@string/command_auto_next</item>
+        <item>@string/auto_previous</item>
+        <item>@string/split_menu_title</item>
+        <item>@string/split_edit_title</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/all_text_title</item>
+        <item>@string/command_all_select</item>
+        <item>@string/command_voice_helper</item>
+        <item>@string/command_voice_input</item>
+        <item>@string/plugin_title</item>
+        <item>@string/tool_title</item>
+        <item>@string/command_ocr_text</item>
+        <item>@string/command_ocr_focus</item>
+        <item>@string/camera_title</item>
+        <item>@string/main_setting</item>
+        <item>@string/command_disable_touch</item>
+        <item>@string/command_disable_feedback</item>
+        <item>@string/command_to_notifications</item>
+        <item>@string/command_gestures_edit</item>
+        <item>@string/command_virtual_navigation</item>
+        <item>@string/url_menu_title</item>
+        <item>@string/actions</item>
+
+        <item>@string/raw_click</item>
+        <item>@string/raw_long_click</item>
+        <item>@string/raw_swipe_left</item>
+        <item>@string/raw_swipe_right</item>
+        <item>@string/raw_swipe_up</item>
+        <item>@string/raw_swipe_down</item>
+    </string-array>
+    <string-array name="right_menu_items">
+        <item>@string/command_click</item>
+        <item>@string/command_long_click</item>
+        <item>@string/command_start</item>
+        <item>@string/command_end</item>
+        <item>@string/command_copy</item>
+        <item>@string/command_append_copy</item>
+        <item>@string/command_paste</item>
+        <item>@string/clipboard_menu_title</item>
+        <item>@string/favorites_menu_title</item>
+        <item>@string/split_edit_title</item>
+        <item>@string/command_long_copy</item>
+        <item>@string/command_trans</item>
+        <item>@string/command_verification2</item>
+        <item>@string/command_timer_mode</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="left_menu_items">
+        <item>@string/command_auto_next</item>
+        <item>@string/command_read_mode</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/split_menu_title</item>
+        <item>@string/command_verbatim_speak2</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/command_all_select</item>
+        <item>@string/command_ocr_text</item>
+        <item>@string/plugin_title</item>
+        <item>@string/command_notification_box</item>
+        <item>@string/command_to_notifications</item>
+        <item>@string/command_long_edit</item>
+        <item>@string/command_gestures_edit</item>
+        <item>@string/command_virtual_screen</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="action_menu_items">
+        <item>@string/command_clean</item>
+        <item>@string/command_select</item>
+        <item>@string/command_copy</item>
+        <item>@string/command_append_copy</item>
+        <item>@string/command_paste</item>
+        <item>@string/clipboard_menu_title</item>
+        <item>@string/favorites_menu_title</item>
+        <item>@string/split_edit_title</item>
+        <item>@string/command_long_copy</item>
+    </string-array>
+    <string-array name="menu_def_items">
+        <item>@string/split_menu_title</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/command_voice_helper</item>
+        <item>@string/plugin_title</item>
+        <item>@string/main_setting</item>
+        <item>@string/command_disable_feedback</item>
+    </string-array>
+    <string-array name="menu_items">
+        <item>@string/action_menu_title</item>
+        <item>@string/advanced_menu_title</item>
+        <item>@string/command_auto_next</item>
+        <item>@string/command_read_mode</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/command_node_mode</item>
+        <item>@string/split_menu_title</item>
+        <item>@string/command_verbatim_speak2</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/all_text_title</item>
+        <item>@string/command_all_select</item>
+        <item>@string/command_voice_helper</item>
+        <item>@string/command_ocr_text</item>
+        <item>@string/camera_title</item>
+        <item>@string/plugin_title</item>
+        <item>@string/tool_title</item>
+        <item>@string/main_setting</item>
+        <item>@string/command_disable_touch</item>
+        <item>@string/command_disable_feedback</item>
+        <item>@string/command_notification_box</item>
+        <item>@string/command_to_notifications</item>
+        <item>@string/command_long_edit</item>
+        <item>@string/command_gestures_edit</item>
+        <item>@string/command_enable_dim_screen</item>
+        <item>@string/command_virtual_screen</item>
+        <item>@string/command_quick_mode</item>
+        <item>@string/command_supper_mode</item>
+        <item>@string/command_virtual_navigation</item>
+    </string-array>
+    <string-array name="left_button">
+        <item>Colgar</item>
+        <item>Rechazar</item>
+        <item>*Deslice para rechazar llamadas*</item>
+        <item>Finalizar llamada</item>
+        <item>Colgar llamada</item>
+        <item>Responder llamada</item>
+        <item>Finalizar llamada QQ</item>
+        <item>Finalizar llamada QQ</item>
+        <item>Anterior</item>
+        <item>Pista anterior</item>
+        <item>Navegar arriba</item>
+    </string-array>
+    <string-array name="right_button">
+        <item>Responder llamada</item>
+        <item>*Deslice para aceptar la llamada*</item>
+        <item>Manos libres</item>
+        <item>Altavoz</item>
+        <item>Cambia al siguiente</item>
+        <item>Siguiente pista</item>
+    </string-array>
+
+    <string-array name="voice_recognizer_values">
+        <item>3</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="voice_recognizer_entries">
+        <item>System</item>
+        <item>Motor 1</item>
+        <item>Motor 2</item>
+        <item>Motor 3</item>
+    </string-array>
+    <string-array name="tts_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+        <item>64</item>
+        <item>65</item>
+        <item>66</item>
+        <item>67</item>
+        <item>68</item>
+        <item>69</item>
+        <item>70</item>
+        <item>71</item>
+        <item>72</item>
+        <item>73</item>
+        <item>74</item>
+        <item>75</item>
+        <item>76</item>
+        <item>77</item>
+        <item>78</item>
+        <item>79</item>
+        <item>80</item>
+        <item>81</item>
+        <item>82</item>
+        <item>83</item>
+        <item>84</item>
+        <item>85</item>
+        <item>86</item>
+        <item>87</item>
+        <item>88</item>
+        <item>89</item>
+        <item>90</item>
+        <item>91</item>
+        <item>92</item>
+        <item>93</item>
+        <item>94</item>
+        <item>95</item>
+        <item>96</item>
+        <item>97</item>
+        <item>98</item>
+        <item>99</item>
+        <item>100</item>
+    </string-array>
+    <!--string-array name="tts_speaker_title">
+        <item>Voz femenina</item>
+        <item>Voz masculina</item>
+        <item>Feliz</item>
+        <item>Du si si</item>
+    </string-array>
+    <string-array name="tts_speaker">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array-->
+    <string-array name="vibrate_intensity_entries">
+        <item>Ligero</item>
+        <item>Medio</item>
+        <item>Intenso</item>
+        <item>Muy intenso</item>
+    </string-array>
+    <string-array name="vibrate_intensity_values">
+        <item>12</item>
+        <item>32</item>
+        <item>48</item>
+        <item>64</item>
+    </string-array>
+    <string-array name="long_click_entries">
+        <item>Corto</item>
+        <item>Medio</item>
+        <item>Largo</item>
+    </string-array>
+    <string-array name="long_click_values">
+        <item>500</item>
+        <item>750</item>
+        <item>1000</item>
+    </string-array>
+    <string-array name="edge_gesture_width_entries">
+        <item>Chico</item>
+        <item>Medio</item>
+        <item>Grande</item>
+        <item>Máximo</item>
+    </string-array>
+    <string-array name="edge_gesture_width_values">
+        <item>8</item>
+        <item>12</item>
+        <item>16</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="tts_speaker_entries">
+        <item>Xiaoyan</item>
+        <item>Xiaofeng</item>
+    </string-array>
+    <string-array name="tts_speaker_values">
+        <item>xiaoyan</item>
+        <item>xiaofeng</item>
+    </string-array>
+    <string-array name="advanced_menu_items">
+        <item>traducción</item>
+        <item>Reconocer Escenas</item>
+        <item>Reconocimiento de texto</item>
+        <item>Reconocimiento de rostros</item>
+        <item>Reconocimiento de captcha</item>
+        <item>Resultado del reconocimiento</item>
+        <item>Descripción de imagen</item>
+    </string-array>
+    <string-array name="lang_entries">
+        <item>automático</item>
+        <item>Coreano</item>
+        <item>Chino Simplificado</item>
+        <item>Chino tradicional</item>
+        <item>Neerlandés</item>
+        <item>Tailandés</item>
+        <item>Griego</item>
+        <item>Italiano</item>
+        <item>Esloveno</item>
+        <item>Japonés</item>
+        <item>Inglés</item>
+        <item>Árabe</item>
+        <item>Cantonés</item>
+        <item>Húngaro</item>
+        <item>Estonio</item>
+        <item>Rumano</item>
+        <item>Chino</item>
+        <item>Checo</item>
+        <item>Alemán</item>
+        <item>Francés</item>
+        <item>Finlandés</item>
+        <item>Portugués</item>
+        <item>Danés</item>
+        <item>Ruso</item>
+        <item>Búlgaro</item>
+        <item>Español</item>
+        <item>Sueco</item>
+        <item>Polaco</item>
+        <item>Vietnamita</item>
+    </string-array>
+    <string-array name="lang_values">
+        <item>auto</item>
+        <item>kor</item>
+        <item>wyw</item>
+        <item>cht</item>
+        <item>nl</item>
+        <item>th</item>
+        <item>el</item>
+        <item>it</item>
+        <item>slo</item>
+        <item>jp</item>
+        <item>en</item>
+        <item>ara</item>
+        <item>yue</item>
+        <item>hu</item>
+        <item>est</item>
+        <item>rom</item>
+        <item>zh</item>
+        <item>cs</item>
+        <item>de</item>
+        <item>fra</item>
+        <item>fin</item>
+        <item>pt</item>
+        <item>dan</item>
+        <item>ru</item>
+        <item>bul</item>
+        <item>spa</item>
+        <item>swe</item>
+        <item>pl</item>
+        <item>vie</item>
+    </string-array>
+    <string-array name="tts_engine_values">
+        <item>system</item>
+        <item>unisound</item>
+    </string-array>
+    <string-array name="tts_engine_entries">
+        <item>System TTS</item>
+        <item>Yunzhisheng TTS</item>
+    </string-array>
+    <string-array name="tts_engine_vip_values">
+        <item>system</item>
+        <item>iflytek</item>
+        <item>unisound</item>
+    </string-array>
+    <string-array name="tts_engine_vip_entries">
+        <item>System TTS</item>
+        <item>Xunfei TTS</item>
+        <item>Yunzhisheng TTS</item>
+    </string-array>
+    <string-array name="alarm_interval_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="alarm_interval_entries">
+        <item>Cada 5 minutos</item>
+        <item>Cada 10 minutos</item>
+        <item>Cada 15 minutos</item>
+        <item>Cada 30 minutos</item>
+        <item>Cada 60 minutos</item>
+    </string-array>
+    <string-array name="timer_interval_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+    </string-array>
+    <string-array name="timer_interval_entries">
+        <item>1 minuto</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+    </string-array>
+    <string-array name="alarm_hour_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="recognizer_lang_entries">
+        <item>Chino simp</item>
+        <item>Chino trad</item>
+        <item>Inglés</item>
+    </string-array>
+    <string-array name="recognizer_lang_values">
+        <item>zh_CN</item>
+        <item>zh_GD</item>
+        <item>en_GB</item>
+    </string-array>
+    <string-array name="tts_scale_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="tts_scale_entries">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="web_type_title">
+        <item>Predeterminado</item>
+        <item>Encabezado</item>
+        <item>Enlace</item>
+        <item>Botón</item>
+        <item>Desplazamiento</item>
+        <item>Visión</item>
+    </string-array>
+
+</resources>

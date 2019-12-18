@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="execute_command">
+        <item>@string/command_nothing</item>
+        <item>@string/directory_plugins</item>
+        <item>@string/directory_cmd</item>
+        <item>@string/directory_tools</item>
+        <item>@string/app</item>
+<item>ترجمه خودکار</item>       
+        <item>@string/command_to_previous_focus</item>
+        <item>@string/command_to_next_focus</item>
+        <item>@string/command_start</item>
+        <item>@string/command_end</item>
+        <item>@string/command_left_shortcut</item>
+        <item>@string/command_right_shortcut</item>
+        <item>@string/command_to_previous_scroll</item>
+        <item>@string/command_to_next_scroll</item>
+        <item>@string/command_to_previous_progress</item>
+        <item>@string/command_to_next_progress</item>
+        <item>@string/command_to_previous_section</item>
+        <item>@string/command_to_next_section</item>
+        <item>@string/command_to_previous_link</item>
+        <item>@string/command_to_next_link</item>
+        <item>@string/command_to_previous_control</item>
+        <item>@string/command_to_next_control</item>
+        <item>@string/command_lower_volume</item>
+        <item>@string/command_raise_volume</item>
+        <item>@string/command_now_time</item>
+        <item>@string/command_timer_mode</item>
+        <item>@string/command_current_location</item>
+        <item>@string/command_virtual_screen</item>
+        <item>@string/command_verification</item>
+        <item>@string/command_gesture_help</item>
+        <item>@string/command_trans</item>
+        <item>@string/command_enable_dim_screen</item>
+        <item>@string/clipboard_menu_title</item>
+        <item>@string/favorites_menu_title</item>
+        <item>@string/input_method</item>
+        <item>@string/command_paste</item>
+        <item>@string/command_copy</item>
+        <item>@string/command_long_copy</item>
+        <item>@string/command_append_copy</item>
+        <item>@string/command_clean</item>
+        <item>@string/command_notification_box</item>
+        <item>@string/command_up_tap</item>
+        <item>@string/command_supper_mode</item>
+        <item>@string/command_tap_mode</item>
+        <item>@string/command_node_mode</item>
+        <item>@string/command_to_recents</item>
+        <item>@string/command_to_home</item>
+        <item>@string/command_to_back</item>
+        <item>@string/command_click</item>
+        <item>@string/command_long_click</item>
+        <item>@string/command_long_edit</item>
+        <item>@string/advanced_menu_title</item>
+        <item>@string/quick_menu_title</item>
+        <item>@string/action_menu_title</item>
+        <item>@string/main_menu</item>
+        <item>@string/command_read_mode</item>
+        <item>@string/command_verbatim_speak2</item>
+        <item>@string/char_mode</item>
+        <item>@string/command_auto_next</item>
+        <item>@string/auto_previous</item>
+        <item>@string/split_menu_title</item>
+        <item>@string/split_edit_title</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/all_text_title</item>
+        <item>@string/command_all_select</item>
+        <item>@string/command_voice_helper</item>
+        <item>@string/command_voice_input</item>
+        <item>@string/plugin_title</item>
+        <item>@string/tool_title</item>
+        <item>@string/command_ocr_text</item>
+        <item>@string/command_ocr_focus</item>
+        <item>@string/camera_title</item>
+        <item>@string/main_setting</item>
+        <item>@string/command_disable_touch</item>
+        <item>@string/command_disable_feedback</item>
+        <item>@string/command_to_notifications</item>
+        <item>@string/command_gestures_edit</item>
+        <item>@string/command_virtual_navigation</item>
+        <item>@string/url_menu_title</item>
+        <item>@string/actions</item>
+
+        <item>@string/raw_click</item>
+        <item>@string/raw_long_click</item>
+        <item>@string/raw_swipe_left</item>
+        <item>@string/raw_swipe_right</item>
+        <item>@string/raw_swipe_up</item>
+        <item>@string/raw_swipe_down</item>
+    </string-array>
+    <string-array name="right_menu_items">
+        <item>@string/command_click</item>
+        <item>@string/command_long_click</item>
+        <item>@string/command_start</item>
+        <item>@string/command_end</item>
+        <item>@string/command_copy</item>
+        <item>@string/command_append_copy</item>
+        <item>@string/command_paste</item>
+        <item>@string/clipboard_menu_title</item>
+        <item>@string/favorites_menu_title</item>
+        <item>@string/split_edit_title</item>
+        <item>@string/command_long_copy</item>
+        <item>@string/command_trans</item>
+        <item>@string/command_verification2</item>
+        <item>@string/command_timer_mode</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="left_menu_items">
+        <item>@string/command_auto_next</item>
+        <item>@string/command_read_mode</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/split_menu_title</item>
+        <item>@string/command_verbatim_speak2</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/command_all_select</item>
+        <item>@string/command_ocr_text</item>
+        <item>@string/plugin_title</item>
+        <item>@string/command_notification_box</item>
+        <item>@string/command_to_notifications</item>
+        <item>@string/command_long_edit</item>
+        <item>@string/command_gestures_edit</item>
+        <item>@string/command_virtual_screen</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="action_menu_items">
+        <item>@string/command_clean</item>
+        <item>@string/command_select</item>
+        <item>@string/command_copy</item>
+        <item>@string/command_append_copy</item>
+        <item>@string/command_paste</item>
+        <item>@string/clipboard_menu_title</item>
+        <item>@string/favorites_menu_title</item>
+        <item>@string/split_edit_title</item>
+        <item>@string/command_long_copy</item>
+    </string-array>
+    <string-array name="menu_def_items">
+        <item>@string/split_menu_title</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/command_voice_helper</item>
+        <item>@string/plugin_title</item>
+        <item>@string/main_setting</item>
+        <item>@string/command_disable_feedback</item>
+    </string-array>
+    <string-array name="menu_items">
+        <item>@string/action_menu_title</item>
+        <item>@string/advanced_menu_title</item>
+        <item>@string/command_auto_next</item>
+        <item>@string/command_read_mode</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/command_node_mode</item>
+        <item>@string/split_menu_title</item>
+        <item>@string/command_verbatim_speak2</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/all_text_title</item>
+        <item>@string/command_all_select</item>
+        <item>@string/command_voice_helper</item>
+        <item>@string/command_ocr_text</item>
+        <item>@string/camera_title</item>
+        <item>@string/plugin_title</item>
+        <item>@string/tool_title</item>
+        <item>@string/main_setting</item>
+        <item>@string/command_disable_touch</item>
+        <item>@string/command_disable_feedback</item>
+        <item>@string/command_notification_box</item>
+        <item>@string/command_to_notifications</item>
+        <item>@string/command_long_edit</item>
+        <item>@string/command_gestures_edit</item>
+        <item>@string/command_enable_dim_screen</item>
+        <item>@string/command_virtual_screen</item>
+        <item>@string/command_quick_mode</item>
+        <item>@string/command_supper_mode</item>
+        <item>@string/command_virtual_navigation</item>
+    </string-array>
+    <string-array name="left_button">
+        <item>پایان تماس</item>
+        <item>رد تماس</item>
+        <item>*برای رد تماس انگشت خود را به چپ بکشید*</item>
+        <item>پایان تماس</item>
+        <item>قطع تماس</item>
+        <item>قطع تماس</item>
+        <item>پایان تماس QQ</item>
+        <item>پایان تماس QQ</item>
+        <item>تغییر حالت مرور به عنصر قبلی</item>
+        <item>موسیقی  قبلی</item>
+        <item>بازگشت</item>
+    </string-array>
+    <string-array name="right_button">
+        <item>پاسخ به تماس</item>
+        <item>*برای پاسخ دادن انگشت خود را به راست بکشید*</item>
+        <item>حالت هندزفری mode</item>
+        <item>روشن کردن اسپیکر</item>
+        <item>تغییر حالت مرور به عنصر بعدی</item>
+        <item>موسیقی بعدی</item>
+    </string-array>
+
+    <string-array name="voice_recognizer_values">
+        <item>3</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="voice_recognizer_entries">
+        <item>پیشفرض سیستم</item>
+        <item>موتور شماره 1</item>
+        <item>موتور شماره 2</item>
+        <item>موتور شماره  3</item>
+    </string-array>
+    <string-array name="tts_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+        <item>64</item>
+        <item>65</item>
+        <item>66</item>
+        <item>67</item>
+        <item>68</item>
+        <item>69</item>
+        <item>70</item>
+        <item>71</item>
+        <item>72</item>
+        <item>73</item>
+        <item>74</item>
+        <item>75</item>
+        <item>76</item>
+        <item>77</item>
+        <item>78</item>
+        <item>79</item>
+        <item>80</item>
+        <item>81</item>
+        <item>82</item>
+        <item>83</item>
+        <item>84</item>
+        <item>85</item>
+        <item>86</item>
+        <item>87</item>
+        <item>88</item>
+        <item>89</item>
+        <item>90</item>
+        <item>91</item>
+        <item>92</item>
+        <item>93</item>
+        <item>94</item>
+        <item>95</item>
+        <item>96</item>
+        <item>97</item>
+        <item>98</item>
+        <item>99</item>
+        <item>100</item>
+    </string-array>
+    <!--string-array name="tts_speaker_title">
+        <item>صدای زن</item>
+        <item>صدای مرد</item>
+        <item>خوشحال</item>
+        <item>Du ya ya</item>
+    </string-array>
+    <string-array name="tts_speaker">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array-->
+    <string-array name="vibrate_intensity_entries">
+        <item>خفیف</item>
+        <item>معمولی</item>
+        <item>شدید</item>
+        <item>بسیار شدید</item>
+    </string-array>
+    <string-array name="vibrate_intensity_values">
+        <item>12</item>
+        <item>32</item>
+        <item>48</item>
+        <item>64</item>
+    </string-array>
+    <string-array name="long_click_entries">
+        <item>کوتاه</item>
+        <item>معمولی</item>
+        <item>طولانی</item>
+    </string-array>
+    <string-array name="long_click_values">
+        <item>500</item>
+        <item>750</item>
+        <item>1000</item>
+    </string-array>
+    <string-array name="edge_gesture_width_entries">
+        <item>کوچک</item>
+        <item>معمولی</item>
+        <item>بزرگ</item>
+        <item>بیشترین حد</item>
+    </string-array>
+    <string-array name="edge_gesture_width_values">
+        <item>8</item>
+        <item>12</item>
+        <item>16</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="tts_speaker_entries">
+        <item>Xiaoyan</item>
+        <item>Xiaofeng</item>
+    </string-array>
+    <string-array name="tts_speaker_values">
+        <item>xiaoyan</item>
+        <item>xiaofeng</item>
+    </string-array>
+    <string-array name="advanced_menu_items">
+        <item>ترجمه</item>
+        <item>توضیح صحنه</item>
+        <item>شناسایی متن</item>
+        <item>تشخیص چهره</item>
+        <item>حل معمای صوتی</item>
+        <item>نتایج شناسایی</item>
+        <item>توضیح عکس</item>
+    </string-array>
+    <string-array name="lang_entries">
+        <item>خودکار</item>
+        <item>کره‌ای</item>
+        <item>چینی ساده شده</item>
+        <item>چینی سنتی</item>
+        <item>هلندی</item>
+        <item>تایلندی</item>
+        <item>یونانی</item>
+        <item>ایتالیایی</item>
+        <item>اِسلُووینیایی</item>
+        <item>ژاپنی</item>
+        <item>انگلیسی</item>
+<item>فارسی</item>
+                <item>عربی</item>
+        <item>کانتونی</item>
+        <item>مجاری</item>
+        <item>اِستونیایی</item>
+        <item>رومانیایی</item>
+        <item>چینی</item>
+        <item>چکی</item>
+        <item>آلمانی</item>
+        <item>فرانسوی</item>
+        <item>فنلاندی</item>
+        <item>پرتغالی</item>
+        <item>دانمارکی</item>
+        <item>روسی</item>
+        <item>بلغاری</item>
+        <item>اسپانیایی</item>
+        <item>سوئدی</item>
+        <item>لهستانی</item>
+        <item>ویتنامی</item>
+    </string-array>
+    <string-array name="lang_values">
+        <item>auto</item>
+        <item>kor</item>
+        <item>wyw</item>
+        <item>cht</item>
+        <item>nl</item>
+        <item>th</item>
+        <item>el</item>
+        <item>it</item>
+        <item>slo</item>
+        <item>jp</item>
+        <item>en</item>
+<item>fa</item>
+                <item>ara</item>
+        <item>yue</item>
+        <item>hu</item>
+        <item>est</item>
+        <item>rom</item>
+        <item>zh</item>
+        <item>cs</item>
+        <item>de</item>
+        <item>fra</item>
+        <item>fin</item>
+        <item>pt</item>
+        <item>dan</item>
+        <item>ru</item>
+        <item>bul</item>
+        <item>spa</item>
+        <item>swe</item>
+        <item>pl</item>
+        <item>vie</item>
+    </string-array>
+    <string-array name="tts_engine_values">
+        <item>system</item>
+        <item>unisound</item>
+    </string-array>
+    <string-array name="tts_engine_entries">
+        <item>موتور گفتار پیشفرض سیستم</item>
+        <item>موتور گفتار Yunzhisheng </item>
+    </string-array>
+    <string-array name="tts_engine_vip_values">
+        <item>system</item>
+        <item>iflytek</item>
+        <item>unisound</item>
+    </string-array>
+    <string-array name="tts_engine_vip_entries">
+        <item>System TTS</item>
+        <item>Xunfei TTS</item>
+        <item>Yunzhisheng TTS</item>
+    </string-array>
+    <string-array name="alarm_interval_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="alarm_interval_entries">
+        <item>هر 5 دقیقه</item>
+        <item>هر 10 دقیقه</item>
+        <item>هر  15 دقیقه</item>
+        <item>هر 30 دقیقه</item>
+        <item>هر 60 دقیقه</item>
+    </string-array>
+    <string-array name="timer_interval_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+    </string-array>
+    <string-array name="timer_interval_entries">
+        <item>1 دقیقه</item>
+        <item>5 دقیقه</item>
+        <item>10 دقیقه</item>
+        <item>15 دقیقه</item>
+    </string-array>
+    <string-array name="alarm_hour_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="recognizer_lang_entries">
+        <item>چینی ساده شده</item>
+        <item>چینی سنتی</item>
+        <item>انگلیسی</item>
+    </string-array>
+    <string-array name="recognizer_lang_values">
+        <item>zh_CN</item>
+        <item>zh_GD</item>
+        <item>en_GB</item>
+    </string-array>
+    <string-array name="tts_scale_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="tts_scale_entries">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="web_type_title">
+        <item>پیشفرض</item>
+        <item>عنوان</item>
+        <item>پیوند</item>
+        <item>دگمه</item>
+        <item>پیمایش</item>
+        <item>نما</item>
+    </string-array>
+
+</resources>

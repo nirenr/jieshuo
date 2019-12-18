@@ -1,0 +1,771 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="help_items">
+        <item>
+        Navegando com gestos padrões do Jieshuo\n
+        Varra para cima para  focar o item anterior, varra para baixo para focar o próximo item.\n
+        No entanto, você pode alterar esse comportamento nas configurações de ação.
+</item>
+        <item>
+        Ativando o Menu Principal:\n
+        Faça um gesto varrendo de cima para baixo e a direita em um movimento contínuo. você poderá expandir as opções varrendo novamente para a direita.\n
+        Você pode exibir todo o menu de uma só vez personalizando-o nas configurações do Menu.
+</item>
+        <item>
+        Ativando o Assistente de Voz:\n
+        O Assistente de Voz é ativado usando o gesto de varrer de cima para baixo e a esquerda em um movimento contínuo. Após esta ação, será emitido um som, então basta você falar um comando.
+Se você tocar duas vezes em um campo de edição e mantê-lo pressionado no segundo toque, a digitação por voz do Assistente será automaticamente ativada.\n
+        As funcionalidades do Assistente de Voz podem ser expandidas através de suas configurações avançadas,.
+</item>
+        <item>
+        Ativando o Menu Ações:\n
+        Faça um gesto varrendo de baixo para cima e a direita em um movimento contínuo. Você poderá expandir as opções varrendo novamente para a direita.
+</item>
+        <item>
+        Ativando o Menu Extensões:\n
+                Faça um gesto varrendo de baixo para cima e a esquerda em um movimento contínuo. Você poderá expandir  a lista de comandos de voz varrendo novamente a direita.\n
+        Você poderá encontrar mais extensões no repositório do Jieshuo.\n
+Também poderá         adicionar ou alterar comandos em Configurações Avançadas, Configurações do Assistente de Voz, Configurações de Comandos de Voz.
+</item>
+        <item>
+        Funções do Menu Ações:\n
+        Copiar: Copia o conteúdo focado para a área de transferência.\n
+        Adicionar cópia: Adiciona o conteúdo focado na última posição da área de transferência.\n
+        Área de transferência: Cola o último conteúdo copiado em uma caixa de edição. Caso o mantenha pressionado, o conteúdo será adicionado a lista de favoritos.\n
+        Favoritos: Toque para entrar no modo de edição ou mantenha pressionado para editá-lo.\n
+        Nas Configurações Avançadas, Gerenciamento de Recursos você poderá excluir ou fazer backup da área de transferência e dos favoritos.
+</item>
+        <item>
+        Cópia Avançada (apenas para Usuários  Premium):\n
+        A cópia avançada pode copiar o conteúdo de listas avançadas.\n
+        Após ativar a cópia avançada no menu ações, você deve aguardar por diferentes períodos de acordo com o tamanho da lista. Quando a cópia estiver concluída, você será solicitado a concluí-la.\n
+        Você poderá interromper a cópia fazendo qualquer gesto enquanto ela não for concluída.
+</item>
+        <item>
+        Seleção de texto completo (somente usuários Premium):\n
+        A seleção de textos completos é ideal para copiar conteúdos de páginas web ou que são mais complexos.\n
+        A seleção de texto completo pode dividir o conteúdo por palavra, frase e parágrafos, selecione o conteúdo desejado através da caixa de verificação e finalmente faça a cópia necessária.\n
+        Para selecionar vários itens em uma lista, navegue até o primeiro desejado e o mantenha pressionado por alguns instantes, após, localize o último e toque e mantenha pressionado por alguns instantes. todos os itens neste intervalo serão rapidamente selecionados.
+</item>
+        <item>
+        Edição avançada (Apenas para Usuários Premium):\n
+        Você pode editar o conteúdo focado de acordo com palavras, frases, parágrafos ou texto completo na caixa de edição ou na caixa de não edição para facilitar o posicionamento e a modificação rápida.\n
+        Toque na lista de edição dividida para editá-la, pressione e segure para tornar a entrada mais detalhada.\n
+        Toque nas caixas de edição para editá-las, e as caixas de não-edição só podem ser salvas na área de transferência quando forem copiadas.
+</item>
+        <item>
+        Lista de navegação:\n
+        Mostra todos os itens como uma lista, basta tocar para ativá-los, muito útil para navegação em páginas web.
+</item>
+        <item>
+        Modo de leitura (Apenas para Usuários Premium):\n
+        Você pode ler artigos de páginas da Web abertos no navegador, filtrar conteúdo indesejado e rolar páginas automaticamente.
+</item>
+        <item>
+        Janela virtual (Apenas para Usuários Premium):\n
+        O OCR reconhece o conteúdo da tela, exibe o resultado de acordo com a posição do texto, toque no texto do resultado para ativar o foco correspondente, pressione a palavra para dividir o foco e toque nela para ativar a sua posição.\n
+        Para ativar no Android 7 ou superior dê duplo toque, no Android 6 ou inferior toque três vezes.
+</item>
+        <item>
+        Reconhecimento de texto (Apenas para Usuários Premium):\n
+        O conteúdo na tela é reconhecido pelo OCR, e o resultado é exibido em uma lista, e a lista de resultados pode ser tocada para ativar o foco correspondente, o pressionamento longo é seguido pela exibição do resultado da palavra, e a palavra única é ativada na posição.\n
+        A ativação não é compatível com o Android 6, nesta versão só é possível ver os resultados.
+</item>
+        <item>
+        Reconhecimento de CAPTCHA (Apenas para Usuários Premium):\n
+        Toque no código de verificação, use o menu avançado, a identificação do código de verificação, ou Assistente de Voz, a identificação do código de verificação, pode reconhecer o código de verificação digital em inglês, e o resultado do reconhecimento será copiado automaticamente para a área de transferência.
+</item>
+        <item>
+        Câmera do Jieshuo (Apenas para Usuários Premium):\n
+        A câmera pode reconhecer textos, cenas, animais, plantas ou orientação da câmera. A função suporta atualmente apenas a câmera traseira, usando o modo de captura através dos botões de aumentar ou diminuir volume.
+</item>
+        <item>
+        Navegação rápida em listas:\n
+        Nas configurações de ações é possível definir que os gestos de varrer para esquerda ou para a direita naveguem rapidamente em listas, por exemplo  você poderá usar o gesto para a esquerda ou direita para navegar nas mensagens de chat do QQ.
+</item>
+        <item>
+        Notificações de listas negras ou brancas:\n
+        A lista negra pode filtrar as notificações que contêm itens especificados e inserir um asterisco para filtrar todas as notificações do aplicativo.\n
+        A lista branca permite a leitura de notificações que contenham itens especificados, mesmo que a notificação tenha sido fechada. A inserção de um asterisco indica que todas as notificações do programa são permitidas.\n
+        Palavras-chave suportam expressões regulares.
+</item>
+        <item>
+        Conteúdo da lista negra:\n
+        Você pode filtrar o conteúdo focado , geralmente é utilizado para marcar conteúdos inacessíveis.\n
+        Expressões regulares não são suportadas com base em considerações de eficiência.
+</item>
+        <item>
+        Filtragem de conteúdo da Web (Apenas para Usuários Premium):\n
+        Filtra anotações, imagens, e informações inúteis em páginas web.\n
+        Uma filtragem mais forte pode eliminar ainda mais conteúdo desnecessário.
+</item>
+        <item>
+        Modo Super (Apenas para Usuários Premium):\n
+        O modo Super oferece mais foco operacional,\n
+        É conhecido por trazer melhores experiências em softwares como o WeChat Sports, o WeChat Friends Circle, o Taobao Footprint, o Huawei Router entre outros.
+</item>
+        <item>
+        Navegação virtual (Apenas para Usuários Premium):\n
+        A navegação virtual adiciona conteúdos que não podem ser acessados através do toque direto.\n
+        Adicione apenas posições imutáveis, toque no nome focado e reconhecido no toque de reconhecimento,\n
+        Compatível com Android 7 ou superior.
+</item>
+        <item>
+        Gestos personalizados:\n
+        Você pode personalizar qualquer recurso interno ou estendido como gestos.\n
+        Altere rapidamente os gestos importando um pacote de gestos.\n
+        Após o gesto ser importado, será necessário definir a operação e a comultação do esquema de gestos para que ele tenha efeito.\n
+        Se você não estiver familiarizado com as sugestões de operação nas configurações comuns, personalize o gesto para modificá-lo.
+</item>
+        <item>
+        Gestos de duas etapas (Apenas para Usuários Premium):\n
+        Um gesto em duas etapas é uma operação que suporta rapidamente um segundo gesto após a conclusão de um primeiro.\n
+        Esta funcionalidade Pode ser ativada ou personalizada nas configurações de ação, em gestos de duas etapas.\n
+        Após ativar o gesto em duas etapas, há uma espera de meio segundo depois de efetuar o primeiro gesto.\n
+        Não defina ações que exijam eficiência, como mover o foco, usando gestos em duas etapas.
+</item>
+        <item>
+        Gravar comandos de voz:\n
+        Inicie o Assistente de Voz para falar o comando de gravação, fale qual programa que deve ser aberto, um de cada vez, ou toque na tecla do foco para realizar a gravação rápida de comando de voz. Quando todas as instruções forem concluídas, fale para encerrar a gravação, após a solicitação para inserir o nome do comando, diga o nome que deseja dar ao comando, e finalmente toque em ok.\n
+        Se houver algum comando não reconhecido durante o processo de gravação, você poderá voltar a falar.\n
+        Os comandos gravados poderão ser alterados nas configurações avançadas, Configurações do Assistente de Voz, Configurações de Comandos de Voz.
+</item>
+
+    </string-array>
+
+    <string-array name="code_help_items">
+        <item>Interpretando gestos e plugins multi-função com uma sintaxe da API lua proprietária para implementar um gesto de múltiplas funções.\n
+        Se você está familiarizado com lua e androlua, você pode implementar mais funções.Este documento descreve apenas a parte proprietária da API.
+        </item>
+        <item>
+        Conceito básico\n
+        Service: função auxiliar, é o núcleo deste serviço de leitura de tela, cada função é baseada nela.
+        </item>
+        <item>
+        Descrição do tipo de parâmetro:\n
+        Node: o foco atual, que é o nó que atualmente recebe o foco da função auxiliar, a operação geral é para esse foco.\n
+        Bool: booleano, verdadeiro ou falso.\n
+        Text: conteúdo de texto.
+        </item>
+        <item>
+        Return: retorna a informação se você deseja ler a tela para executar a ação padrão do gesto.\n
+        Retornando true intercepta o gesto, false retorna para a camada anterior.Se um único gesto do programa retornar false, o gesto global assumirá e o gesto global retornará false, que é tratado pelo gesto padrão.
+        </item>
+        <item>
+        Comandos comuns\n
+        Service.execute ("comando", nó)\n
+        Este comando explica algumas instruções construídas para simplificar o desenvolvimento. Se a execução retornar true, a falha retornará false.
+        </item>
+        <item>
+
+        service.postExecute (time, "comando", node)\n
+        Atrasa a execução do comando.
+        </item>
+        <item>
+        text=service.getText(node)\n
+        Obtêm as informações de texto do nó especificado.
+        </item>
+        <item>
+        service.setText (node, texto)\n
+        Define o conteúdo de texto em uma caixa de entrada de texto.
+        </item>
+        <item>
+        service.setText(texto)\n
+
+        Define o conteúdo textual em uma caixa de texto da interface atual.        </item>
+        <item>
+        service.copy()\n
+        Copia o conteúdo de texto focado para a área de transferência.
+        </item>
+        <item>
+        service.appendCopy()\n
+        Adiciona o texto focado à área de transferência.
+        </item>
+        <item>
+        service.copy(text)\n
+        Copia o conteúdo de texto especificado para a área de transferência.
+        </item>
+        <item>
+        service.appendCopy(text)\n
+        Adiciona o texto especificado à área de transferência.
+        </item>
+        <item>
+        service.paste()\n
+        Cola o conteúdo da área de transferência na caixa de texto da interface atual.
+        </item>
+        <item>
+        service.paste(node)\n
+        Cola o conteúdo da área de transferência na caixa de entrada especificada.
+        </item>
+        <item>
+        service.toNext()\n
+        Foca o próximo item
+        </item>
+        <item>
+        service.toNext(node,bool)\n
+        Especifica o próximo nó a ser focado, bool é true para encontrar o nó filho, e false não é para encontrar.
+        </item>
+        <item>
+        service.toPrevious()\n
+                Foca o item anterior.
+        </item>
+        <item>
+        service.toPrevious(node,bool)\n
+        Especifica o nó anterior a ser focado, bool é true para encontrar o nó filho, e false não é para encontrar.
+        </item>
+        <item>
+        service.toNextChar()\n
+        Vai para o próximo caracter.
+        </item>
+        <item>
+        service.toPreviousChar()\n
+        Vai para o caracter anterior.
+        </item>
+        <item>
+        service.toNextLine()\n
+        Vai para a próxima linha.
+        </item>
+        <item>
+        service.toPreviousLine()\n
+        Vai para a linha anterior
+        </item>
+        <item>
+        service.toTextStart()\n
+        Vai para o início do texto.
+        </item>
+        <item>
+        service.toTextEnd()\n
+        Vai para o fim do texto.
+        </item>
+        <item>
+        service.toListViewStart()\n
+        Vai para o início da lista.
+        </item>
+        <item>
+        service.toListViewEnd()\n
+        Vai para o fim da lista.
+        </item>
+        <item>
+        service.getRootNodeInfo()\n
+        Obtêm o nó raíz.
+        </item>
+        <item>
+        service.ocr(node)\n
+        O reconhecimento de texto especifica o nó e está disponível apenas para membros.
+        </item>
+        <item>
+        service.setTimerMode(bool)\n
+        Ativa ou desativa o modo timer, true ativa, false desativa.
+        </item>
+        <item>
+        service.setAutoReadEnabled(bool)\n
+        Ativa ou desativa o modo de leitura, true ativa, false desativa.
+        </item>
+        <item>
+        service.setAutoNext(bool)\n
+        Ativa ou desativa o modo de navegação automática, true ativa, false desativa.
+        </item>
+        <item>
+        bool=service.isEditView(node)\n
+        Determina se o nó atual é uma caixa de edição.
+        </item>
+        <item>
+        bool=service.isSeekBar(node)\n
+        Determina se o nó atual é um controle deslizante de progresso.
+        </item>
+        <item>
+        bool=service.isListView(node)\n
+        Determine se o nó atual é uma lista.
+        </item>
+        <item>
+        bool=service.isInListView(node)\n
+        Determina se o nó atual está em uma lista.
+        </item>
+        <item>
+        bool=service.isInWebView(node)\n
+        Determina se o nó atual está em uma página da web.
+        </item>
+        <item>
+        bool=service.isClick(node)\n
+        Determina se o nó atual pode ser clicado.
+        </item>
+        <item>
+        service.toClick()\n
+        Toque no foco atual e use o ponteiro simulado para clicar no foco no Android 7 ou superior.
+        </item>
+        <item>
+        service.toClick(node)\n
+        Clica no nó especificado.
+        </item>
+        <item>
+        service.toLongClick()\n
+        Toque longo em um item
+        </item>
+        <item>
+        service.toLongClick(node)\n
+        Mantêm pressionado o nó especificado.
+        </item>
+        <item>
+        service.toBack()\n
+        Volta ao item anterior.
+        </item>
+        <item>
+        service.toHome()\n
+        Volta para a tela principal.
+        </item>
+        <item>
+        service.toNotification()\n
+        Abre a barra de notificações.
+        </item>
+        <item>
+        service.toParent()\n
+        Abre a lista de tarefas mais recentes.
+        </item>
+        <item>
+        service.scrollBackward(node)\n
+        Rola para trás
+        </item>
+        <item>
+        service.scrollForward(node)\n
+        Rola para frente.
+        </item>
+        <item>
+        service.loadGesturePackage(name)\n
+        Carrega um pacote de gestos.
+        </item>
+        <item>
+        service.click(x,y)\n
+        Simula uma mão tocando em uma posição especificada da tela, apenas disponível no Android 7 ou superior.
+        </item>
+        <item>
+        service.longClick(x,y)\n
+        Simula uma mão mantendo uma posição especificada da tela pressionada, apenas disponível no Android 7 ou superior.
+        </item>
+        <item>
+        service.press(x,y,t)\n
+        Simula uma mão mantendo uma posição especificada da tela pressionada por um determinado tempo, apenas disponível no Android 7 ou superior.
+        </item>
+        <item>
+        service.swipe(x1,y1,x2,y2,t)\n
+        O reprodutor padrão desloca de uma posição para outra em um horário especificado, e somente o Android 7 ou superior é suportado.
+        </item>
+        <item>
+Declaração de controle de código.        </item>
+        <item>
+        IF condição, then.
+        Código para executar\n
+        end\n
+        O código que satisfaz a condição de execução especificada.\n
+        Por exemplo:\n
+        if service.isEditView(node) then
+          service.execute("edição dividida",node)\n
+        return true\n
+        end\n
+        Esse código significa que a edição dividida é ativada quando o foco está na caixa de edição.
+        </item>
+        <item>
+        for n=1,o número de repetições é igual a  do\n
+        Para executar o código\n
+        end\n
+        Repita o código especificado um determinado número de vezes\n
+        Por exemplo:\n
+        for n=1,10 do\n
+        service.toBack()\n
+        end\n
+        Repita 10 vezes.
+        </item>
+        <item>
+        Definir função\n
+        Nome da função, função (parâmetro)\n
+        Código da função\n
+        end
+        </item>
+        <item>
+        Uma função é um bloco de funções de código que pode efetivamente reutilizar o código.\n
+        Por exemplo, abaixo está uma função que adiciona dados a uma lista, que pode ser usada para adicionar código duplicado a uma lista no código do gesto.\n
+        function append(t1,t2)\n
+        for k,v in ipairs(t2) do\n
+        table.insert(t1,v)\n
+        end\n
+        end\n
+        Clique na lista ={}\n
+        Lista de botões = {"% click", "% back"}\n
+        for n=1,10 do\n
+        Adiciona (lista de cliques, lista de botões) \ n
+        end\n
+        Adicione o conteúdo da lista de botões 10 vezes à lista de cliques.
+        </item>
+        <item>
+        Função slide ()\n
+        service.swipe(500,300,500,1000,1000)\n
+        return true\n
+        end\n
+        A mão analógica desliza na tela e pode ser usada no código do gesto\n
+        Service.click ({{"> WeChat", "% Swipe"}})\n
+        Ative a simulação no WeChat para deslizar a tela para cima e para baixo.
+        </item>
+        <item>
+        Toque automático\n
+        Service.click ({lista de botões})\nEncontre automaticamente os botões que foram clicados na lista de botões, pela ordem\n
+        Os nomes dos botões suportam alguns caracteres curinga\n
+        Se ## antes do sinal de mais (#), significa que a pesquisa é um rótulo personalizado.\n
+        Adicionar * (asterisco) antes ou depois, indica que existem outros caracteres antes ou depois.\n
+        Adicione # (Cardinal) para indicar a ordem dos botões.\n
+        Adicionar arroba (@) significa pesquisar apenas em um programa.\n
+Adicionar $ (Sifrão) indica o atraso após a conclusão da execução.\n
+        Os parâmetros suportam várias tabelas, ordens de pesquisa,
+        Se a pesquisa retornar true, a falha retornará false.\n
+Veja a descrição completa abaixo:
+        </item>
+        <item>
+        Atraso no click\n
+        service.postClick (hora, {lista de botões})\n
+        O atraso é executado por um certo tempo, a unidade de tempo é milissegundos e a definição da lista de botões é a mesma do clique.\n
+        Não há retorno de valor.
+        </item>
+        <item>
+        Service.plugin ("nome do plugin", node)\n
+        Executa um plugin.\n
+        Retorna o valor retornado pela personalização do plugin.
+        </item>
+        <item>
+        O gesto de fala é o mais flexível com cliques automáticos. A forma básica é:
+        </item>
+        <item>
+        Lista de botões = {}\n
+        Service.click (lista de botões)\n
+        return true
+        </item>
+        <item>
+As próximas duas linhas são fixas, você só precisa modificar a lista de botões.\n
+                O formato da lista de botões consistem em alguns nomes de botões e símbolos entre aspas dentro de chaves.
+        </item>
+        <item>
+        O exemplo mais simples
+        </item>
+        <item>
+        Lista de botões = {"OK"}\n
+        Service.click (lista de botões)\n
+        return true
+        </item>
+        <item>
+        Este código poderá clicar no botão OK na tela.
+        </item>
+        <item>
+        Lista de botões = {\n
+        "OK"\n
+        "Concluído\n
+        }
+        Service.click (lista de botões)\n
+        return true
+        </item>
+        <item>
+        Este é o primeiro nível das chaves.Se tudo estiver OK, clique em OK.Se não houver OK, clique em Concluir.Se não, continue a pesquisar o botão concluir.
+        </item>
+        <item>
+        Às vezes, precisamos clicar em uma série de botões para obter algumas funções, o que mostra a vantagem dos cliques automáticos.
+        </item>
+        <item>
+        Lista de botões = {\n
+        {"Grupo de cards de informação", "Arquivo"}\n
+        }
+        Service.click (lista de botões)\n
+        return true
+        </item>
+        <item>
+        Este é o segundo nível de chaves, os botões nas chaves secundárias serão clicados sequencialmente, até que um botão não pare,
+        </item>
+        <item>
+        Colchetes de aninhamento nas chaves permitem cliques contínuos.
+        </item>
+        <item>
+        Na lista de botões usamos alguns símbolos para melhorar a função,
+        </item>
+        <item>
+        O mais comumente usado é * (asterisco), este símbolo antes e depois do texto do botão, indica que pode haver outro conteúdo
+        </item>
+        <item>
+        Por exemplo, para clicar na interface principal do QQ e identificar na tela o grupo de mensagens não lidas, por vezes, tem 99 mensagens não lidas, desta vez para escrever,
+        </item>
+        <item>
+        Interpretação do Grupo de leitura de tela *
+        </item>
+        <item>
+        # 井 号, indica o primeiro resultado.Às vezes, uma interface tem muitos botões com o mesmo nome.Neste caso, você precisa usar o sinal de cardinal para indicar o clique.
+        </item>
+        <item>
+        Por exemplo, determine # 1, indicando o primeiro, ou um número negativo, como determinando # -1, indicando o último.
+        </item>
+        <item>
+        O símbulo de coringa no início do texto indica que o botão deve ser encontrado, não o seu nome.Por exemplo, para botões que não possuem nome, você pode adicionar tags e usá-las para encontrá-los.
+        </item>
+        <item>
+        O símbolo barra vertical (|) significa se houver uma barra vertical após nenhum clique, \ n
+        Veja o exemplo ok e concluído, que pode ser abreviado como\n
+        OK | concluído\n
+        Clique em OK ou em Concluir.
+        </item>
+        <item>
+        &amp; significa e, isto é, apenas a interface com o conteúdo por trás do símbolo &amp;, clique no botão do conteúdo anterior.
+        </item>
+        <item>
+        OK e * sair *\n
+        Indica que somente essa interface tem um tipo de saída, como confirmar a saída e em seguida, clicar em OK, sem sair das duas palavras, ela não será executada.
+        </item>
+        <item>
+        &amp; seguido por um ponto de exclamação mais uma palavra-chave para indicar que o conteúdo não está incluído,\n
+        OK &amp;! * Sair *\n
+        Isso significa que somente quando essa interface não sair das palavras, clique em OK e, se você sair das duas palavras, ela não será executada.
+        </item>
+        <item>
+        O símbolo &amp;indica que o tipo de foco atual está marcado,\n
+        &amp;editável\n
+        &amp;clique em\n
+        &amp; lista\n
+        &amp;item da lista\n
+        &amp; caixa de edição\n
+        Esta caixa de edição é a caixa de edição do método de entrada pop-up.
+        </item>
+        <item>
+        $ $ cifrão, este símbolo após o texto indica quanto tempo esperar para executar o próximo passo após clicar no botão.
+        </item>
+        <item>
+        "Grupo de cards de informação $ 2000", "Arquivo"\n
+        Indica que o arquivo será clicado 2 segundos depois de clicar no cartão de dados do grupo.
+        </item>
+        <item>
+        &lt; A execução será repetida tantas vezes quanto o botão foi clicado\n
+        Tais como\n
+        Próxima música &lt; 10\n
+        Clique no botão  próxima música dez vezes
+        </item>
+        <item>
+        O sinal menor indica que a posição está apenas focada e ainda não foi clicada.\n
+        &lt; OK\n
+        Encontre o botão OK, mas não clique.
+        </item>
+        <item>
+        > maior que o número indicado anteriormente para espera,\n
+        "Grupo de cards de informação", "Arquivo> 10"\n
+        A resposta do telefone celular pode ser rápida ou lenta.Você pode esperar por um certo tempo com este símbolo.Esse código significa que você pode esperar por dez segundos depois de clicar no cartão de dados do grupo.Se houver um arquivo dentro de dez segundos, clique nele imediatamente.Se ele expirar, pare a execução.
+        </item>
+        <item>
+        Abra o programa no início do maior que\n
+        > WeChat\n
+        Abra o WeChat,\n
+        > QQ\n
+        Abra o QQ,
+        </item>
+        <item>
+        Existem também símbolos de extensão que podem executar outras funções,\n
+        % pode executar algumas instruções comuns,\n
+        Por exemplo:\n
+        % copy\n
+        Pode ser copiado,\n
+        % de leitura de texto completo\n
+        Pode ler em voz alta em tela cheia.
+        </item>
+        <item>
+        % também pode executar a função especificada no script, a função retorna true para continuar a execução, false para pará-la
+        </item>
+        <item>
+        Os colchetes [] incluem o conteúdo do clique direto da simulação, e o uso de cliques de acessibilidade são diferentes, o clique direto pode resolver o problema que alguns itens não podem ser clicados.\n
+        [tocar] \ n
+        Simula um clique direto no botão de reprodução.\n
+        [% clique]\n\n
+        Simula clique direto no foco atual.
+        </item>
+        <item>
+        [x, y] entre os colchetes estão dois números para indicar a posição onde haverá a simulação do click. Você pode usar números inteiros para indicar a posição absoluta ou decimal para indicar a posição relativa\n
+        [300,500]\n
+        O clique simulado contará 300 pixels da esquerda e 500 pixels da parte superior.\n
+        [0.3,0.5]\n
+        O clique simulado contará com 0,3 da lateral esquerda e 0,5 do início da tela.
+        </item>
+        <item>
+        [x, y, t] entre os colchetes estão três números para indicar o tempo para executar uma simulação de click na posição especificada, os dois primeiros números significam o mesmo que os anteriores, e o terceiro é o tempo em milissegundos.\n
+        [300,500,1000]\n
+        A simulação do clique contará 300 pixels da esquerda e 500 pixels da parte superior, com duração de 1000 milissegundos.
+        </item>
+        <item>
+        [X1, y1, x2, y2, T] Entre os colchetes estão 5  números que significam x1, y1 para x2, y2 posição, a posição absoluta pode ser representada por um número inteiro, decimal, ou mostrar as posições relativas\n
+        [300,500,300,800,1000]\n
+        A simulação contará 300 pixels a partir da esquerda, 500 pixels de cima, e move para a posição 300.800 em 1.000 milissegundos.
+        </item>
+        <item>
+        Movimentos simulados também podem especificar o número de movimentos\n
+        [300,500,300,800,1000,10]\n
+        A simulação conta 300 pixels a partir da esquerda, a partir da posição de 500 pixels acima, e desliza para a posição de 300.800 em 10 milissegundos, 10 vezes.
+        </item>
+        <item>
+        Às vezes existem situações diferentes na execução de gestos, como abrir o QQ, clicar no grupo de comentários, clicar no card do grupo, clicar no arquivo.\n
+        Se houver um anúncio de grupo, ele ficará preso na etapa de clicar no cartão de dados do grupo e não poderá ser executado,\n
+        Neste ponto, você precisa de código de ramificação para contornar essas situações inesperadas,\n
+        Este é apenas um exemplo manuscrito.Pode haver erros de digitação que não podem ser executados.Click em ok para entender o significado.
+        </item>
+        <item>
+        按钮列表={\n
+        {
+            ">QQ",\n
+        "Tela de explicação lendo o grupo de troca *",\n
+        {
+              "Eu li o anúncio do grupo | Eu sei"\n
+        },\n
+        "Cartão de informações do grupo"\n
+        "arquivo"\n
+        }
+        }
+        </item>
+        <item>
+        Como a versão do QQ é diferente, é necessário determinar o botão de anúncio de grupo,\n
+        Podemos ver que depois de clicar no grupo de leitura de comentários, um par de chaves é adicionado e os botões entre parênteses são executados e, se não estiverem, são ignorados e a execução dos seguintes botões não é afetada,\n
+        Se houver operações complexas na matriz ou em vários cenários, também podemos colocar vários colchetes.
+        </item>
+        <item>
+        Lista de botões = {\n
+        {
+            ">QQ",\n
+        "Tela de explicação lendo o grupo de troca *",\n
+        {
+             { "Eu li o grupo de avisos", "OK"}\n
+        {"Eu sei", "OK"},\n
+        },\n
+        "Cartão de informações do grupo"\n
+        "arquivo"\n
+        }
+        }
+        </item>502
+    </string-array>
+
+    <string-array name="gesture_help_items">
+        <item>
+                Operações com gestos básicos:\n
+        Estes gestos são utilizados para as operações básicas. Eles são realizados principalmente com um ou dois dedos.\n
+        Se o gesto exigir o desenho de um ângulo, a primeira metade deverá ser executada em toda a tela e a outra metade poderá ser mais curta.</item>
+        <item>
+        Gestos multitoques\n
+        Varrer para cima: move para o item anterior.\n
+        Varrer para baixo: move para o próximo item.\n
+        Varrer para a direita e para a esquerda: aplicativos recentes.\n
+        Varrer para a esquerda: volta em um grande grupo de itens, como uma lista \n
+        Varrer para a direita: avança em um grande grupo de itens, como uma lista.\n
+        Toque duplo: ativa o item focado\n
+        Varrer para cima e para a direita: abre o menu de ações.\n
+        Varrer para baixo e para a esquerda: ativa o assistente de voz \n
+        Varrer para cima e para a esquerda: abre o menu de extensões.\n
+        Varrer para a esquerda e para a direita: tela inicial.\n
+        Varrer para cima e para baixo: move para o início da tela atual.\n
+        Varrer para baixo e para cima: move para o fim da tela atual.\n
+        Varrer para esquerda e para cima: abre a barra de notificações.\n
+        Varrer para esquerda e para baixo: altera o modo de navegação.\n
+        Varrer para direita e para cima: lê a tela do início ao fim.\n
+        Varrer para cima com dois dedos: rola a tela para cima.\n
+        Varrer para baixo com dois dedos: rola a tela para baixo.\n
+        Varrer para a esquerda com dois dedos: avança para a próxima página.\n
+
+        Varrer para a direita com dois dedos: volta para a página anterior.\n
+        </item>
+        <item>
+        Clique no gesto do modo de navegação:\n
+        Toque para alterar o foco\n
+        Modo de navegação acima\n
+        Modo de navegação abaixo
+        </item>
+        <item>
+        Concentre os gestos do modo de navegação:\n
+        Um toque acima\n
+        Próximo item abaixo.
+        </item>
+        <item>
+        Chamada do QQ WeChat\n
+        Varra para a esquerda para rejeitar\n
+        Varra para a direita para aceitar.
+        </item>
+        <item>
+        Chamada telefônica do QQ WeChat\n
+        Varra para a esquerda para desligar\n
+        Varra para a direita para ativar o modo mãos-livres
+        </item>
+        <item>Lista\nPágina anterior\n
+        Próxima página
+        </item>
+        <item>
+        Diálogo\n
+        Cancelar\n
+        Ok
+        </item>
+        <item>
+        controle deslizante de progresso\n
+		Varra para a esquerda para diminuir\n
+        Varra para a direita para aumentar.
+        </item>
+        <item>
+        Caixa de texto\n
+        Move o cursor a esquerda\n
+        Move o cursor a direita.
+        </item>
+        <item>
+        Gestos de navegação no modo Palavra a palavra:\n
+        varrer  para cima: vai para a próxima linha.\n
+        varrer  para baixo: vai para a linha anterior\n
+        varrer  para direita: vai para a próxima letra\n
+        varrer  para esquerda: vai para a letra anterior.\n
+        Toque duplo em uma linha: localizar palavras nessa linha\n
+        varrer  para cima e para a esquerda: vai para o parágrafo anteriior.\n
+        varrer  para cima e para a direita: vai para o próximo parágrafo.\n
+        varrer  para direita e para baixo: modo de seleção..
+        </item>
+        <item>
+        Gestos para seleção de texto:\n
+        Toque único: Lê o caracter atual\n
+        Varrer para cima: Vai para a linha anterior\n
+        Varrer para baixo: Vai para a próxima linha.\n
+        Varrer Para a esquerda: Vai para o caracter anterior.\n
+        Varrer para a direita: vai para o próximo caractere.\N
+        Varrer para a esquerda e para cima: vai para o parágrafo anterior.\N
+        Varrer para a direita e para cima: Vai para o próximo parágrafo.\N
+        Varrer para cima e a direita: tira toda a seleção.\N
+        Varrer para baixo e à direita: copia a seleção.\N
+Varrer para cima e a esquerda: Adiciona a cópia\N
+Varrer para baixo e a direita: Copia todo o texto.
+        </item>
+        <item>
+Gesto para navegação por nós
+        Varrer para cima: vai para o nó anterior.\N
+        Varrer para baixo: vai para o próximo nó.\N
+Varrer para a esquerda: vai para o nó pai.\N
+Varrer para a direita: vai para o nó filho.\N
+Varrer para baixo e a esquerda : sai do nó.
+        </item>
+        <item>
+        Manual do Assistente de Voz:\n
+Abrir NomeDoAPP: Abre o aplicativo informado.
+Enviar conteúdo: permite o envio direto para o QQ e Wechat
+Pesquisar por conteúdo: realiza a pesquisa on-line da frase fornecida
+O assistente de voz é extensível graças aos menus e plugins de edição.
+        </item>
+    </string-array>
+    <string-array name="voice_helper_help_items">
+        <item>Abrir o programa: abre o nome do aplicativo.</item>
+        <item>Instalar o programa: instale o nome do aplicativo.</item>
+        <item>Desinstalar o programa: desinstale o nome do aplicativo.</item>
+        <item> Ler tudo: Lê toda a tela.–‡</item>
+        <item>Ler em voz alta: Lê em voz alta e segue o cursor.»</item>
+        <item>Luminosidade Atual: Informa a luminosidade do ambiente.</item>
+        <item>Tocar: Ativa o item selecionado</item>
+        <item>Ativar item especificado: ativar item com o nome especificado•</item>
+        <item>Copiar o item focado: copia o item selecionado para a área de transferência</item>
+        <item>Traduzir: Traduz o texto atualmente focado.</item>
+        <item>Traduzir NomedoIdioma: Traduz o texto atualmente focado para um determinado idioma</item>
+        <item>Selecionar: seleciona um determinado texto</item>
+        <item>Envie uma mensagem na janela de bate-papo do WeChat: envie olá</item>
+        <item>Digitar texto: insere o texto falado na caixa de texto</item>
+        <item>Entrada longa: Modo de ditado longo</item>
+        <item>Verificar o clima: verifica a meteorologia</item>
+        <item>Verificar o bilhete: verifica os bilhetes de trem</item>
+        <item>Diga-me uma receita: pesquisa a receita de um determinado alimento.</item>
+        <item>Conte-me uma piada: conta uma piada aleatória.</item>
+        <item>Copiar a resposta: copia a resposta de um determinado comando.</item>
+        <item>Existem mais recursos a serem descobertos.</item>
+    </string-array>
+</resources>

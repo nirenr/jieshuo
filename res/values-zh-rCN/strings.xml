@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"> 解说</string>
+    <string name="accessibility_service_description">
+        解说是一个视障人士的辅助软件，他可以让你更加轻松的使用手机，我们在人机交互上做了一些尝试与创新，你可能需要一些时间熟悉，更多细节请打开设置查看帮助或与我们联系。\n
+        软件未会员授权时部分功能受限制，如需购买会员请在官方QQ群联系我们的客服。\n
+        \n
+        特色功能：\n
+        语音助手，可以打字聊天，操作手机，动口不动手。\n
+        扩展插件，动态扩展，无限可能。\n
+        列表浏览，节点浏览，全文浏览，拆分浏览，自动浏览，逐字浏览，六种浏览模式，总能找到你要的内容。\n
+        抬手激活，操作迅速无偏移。\n
+        自定义音效方案，总能取悦你的耳朵。\n
+        选取复制，轻松复制你所想要的内容。\n
+        动态手势，根据场景方便你最需要的操作。\n
+        可扩展自定义手势，多功能手势什么功能自己说了算。\n
+        双音库朗读，不重要内容再也不会打断你的聆听。\n
+        \n
+        会员功能，\n
+        虚拟屏幕，不支持无障碍的软件也能操作，为你打开一片新世界。\n
+        自动ocr识别，摸到哪里识别到哪里，图片内容轻松获取，\n
+        验证码识别，人工智能识别，识别速度快如闪电，\n
+        解说相机，文字，场景，人脸，统统拿下，\n
+        网页图片过滤，干净的朗读，清爽的体验，\n
+        长复制，多长列表都能复制，告别繁琐的追加复制\n
+        小说阅读模式，自动翻页，自动过滤，读屏秒变阅读器，\n
+        自定义单程序手势，像快捷键一样的手势，轻松操作，无限可能，\n
+        收藏夹，收藏常用内容，随时随地，轻松输入，\n
+        拆分编辑，按段，按句，按字，细化拆分，快速定位，极速修改，\n
+        全文选取，按段，按句，按字，想复制哪里复制哪里，\n
+        语音指令，各种操作，一步直达，\n
+        自启动插件，整点报时，自动抢红包，开启黑屏模式，等等等等，\n
+        解说是我们的，也是你们的，只要你愿意，可以完全打造属于自己的解说读屏。
+    </string>
+
+    <string name="about_title">河北必优科技有限公司</string>
+    <string name="help_feed_summary">软件使用了腾讯优图，腾讯AI，百度AI，百度语音，百度翻译，百度LBS，百度MTJ，云之声，图灵，AndroLua+的部分技术</string>
+
+    <string name="menu_title">菜单</string>
+
+    <string name="tts_speed_title">语音合成语速</string>
+    <string name="tts_speed_summary">语音合成朗读的语速</string>
+
+
+    <string name="usage_hints_title">读出操作提示</string>
+    <string name="usage_hints_summary">在使用时读出操作提示</string>
+
+    <string name="vibrate_title">震动反馈</string>
+    <string name="vibrate_summary">使用震动反馈</string>
+
+    <string name="use_proixmity_sensor_title">使用距离感应器</string>
+    <string name="use_proixmity_sensor_summary">靠近屏幕时中止朗读</string>
+
+    <string name="screen_off_speak_title">屏幕关闭后朗读通知</string>
+    <string name="screen_off_speak_summary">屏幕关闭后朗读通知</string>
+
+    <string name="use_sound_title">声音反馈</string>
+    <string name="use_sound_summary">使用声音反馈</string>
+
+    <string name="use_list_index_title">朗读列表信息</string>
+    <string name="use_list_index_summary">用双指滚动列表时，朗读当前列表可视范围信息</string>
+
+    <string name="use_node_title">使用节点浏览模式</string>
+    <string name="use_node_summary">使用节点浏览模式</string>
+
+    <string name="tts_volume_title">语音合成音量</string>
+    <string name="tts_volume_summary">语音合成音量相当于媒体音量的比例</string>
+
+    <string name="use_key_shortcut_title">使用音量快捷键</string>
+    <string name="use_key_shortcut_summary">使用音量键短按或长按执行快捷操作</string>
+    <string name="tts_speaker_title">发音人</string>
+    <string name="tts_speaker_summary">内置语音合成的发音人</string>
+
+    <string name="tts_settings_title">语音设置</string>
+    <string name="feed_setting_title">反馈设置</string>
+    <string name="content_setting_title">内容设置</string>
+    <string name="other_setting">其他设置</string>
+
+    <string name="tts_system_settings_title">系统TTS服务设置</string>
+
+    <string name="template_stream_volume">%1$s音量为百分之 %2$d</string>
+    <string name="template_stream_volume_set">%1$s音量 %2$d</string>
+    <string name="value_stream_master">"主音量"</string>
+    <string name="value_stream_voice_call">"电话"</string>
+    <string name="value_stream_system">"系统声音"</string>
+    <string name="value_stream_ring">"铃声"</string>
+    <string name="value_stream_music">"媒体"</string>
+    <string name="value_stream_alarm">"闹钟"</string>
+    <string name="value_stream_notification">"通知"</string>
+    <string name="value_stream_dtmf">"拨号音效"</string>
+    <string name="value_googletv_screen_saver">"屏保"</string>
+
+    <string name="template_charging">"充电%1$s，电池电量为百分之 %2$s。"</string>
+    <string name="notification_type_status_started">"已开始"</string>
+    <string name="notification_type_status_stopped">"已停止"</string>
+    <string name="acc_settings_title">辅助功能设置</string>
+    <string name="qq_group_title">解说读屏官方QQ群(已满)</string>
+    <string name="audio_focus_title">音频闪避</string>
+
+    <string name="voice_app_name">语音助手</string>
+    <string name="voice_helper_service_description">语音操作手机，免触摸操作</string>
+    <string name="web_app_name">浏览器</string>
+    <string name="help_title">功能使用说明</string>
+    <string name="use_log_title">记录日志</string>
+    <string name="notification_speak_title">朗读通知</string>
+    <string name="plugin_title">扩展插件</string>
+    <string name="action_menu_title">操作菜单</string>
+    <string name="clipboard_menu_title">剪切板</string>
+    <string name="select_menu_title">选取</string>
+    <string name="all_text_title">全文浏览</string>
+    <string name="use_touch_mode_title">触摸浏览(全盲请勿关闭)</string>
+    <string name="unknown_lable_title">读出未定义标签</string>
+    <string name="action_setting_title">操作设置</string>
+    <string name="use_single_tap_title">单击激活</string>
+    <string name="use_up_tap_title">抬起即激活</string>
+    <string name="sound_volume_title">声音反馈音量</string>
+    <string name="notification_bar_speak_title">朗读通知栏通知</string>
+    <string name="notification_toast_speak_title">朗读气泡通知</string>
+    <string name="notification_announcement_speak_title">朗读程序通知</string>
+    <string name="notification_settings_title">通知设置</string>
+    <string name="help_feed_title">帮助与反馈</string>
+    <string name="advanced_setting_title">高级设置</string>
+    <string name="notification_white_list_title">通知白名单</string>
+    <string name="notification_black_list_title">通知黑名单</string>
+    <string name="voice_help_title">语音助手说明</string>
+    <string name="sound_package_title">音效方案</string>
+    <string name="value_default">默认</string>
+    <string name="notification_app_name_speak_title">朗读通知来源</string>
+    <string name="use_up_tap_summary">手指离开屏幕即可激活焦点，如果停留超过一定时间将不会激活</string>
+    <string name="use_tap_mode_title">点击屏幕切换焦点</string>
+    <string name="vibrate_intensity_title">震动强度</string>
+    <string name="use_progress_title">自动朗读进度</string>
+    <string name="use_scroll_list_index_title">列表滚动时朗读进度</string>
+    <string name="use_content_changed_title">朗读焦点内容改变</string>
+    <string name="use_double_fling_title">使用快速滑动两步手势</string>
+    <string name="use_view_name_title">读出视图名称</string>
+    <string name="permissions_settings_title">重新获取权限</string>
+    <string name="use_node_info_title">读出节点信息</string>
+    <string name="use_content_tree_changed_title">朗读窗口内容改变</string>
+    <string name="split_menu_title">拆分浏览</string>
+    <string name="split_edit_title">拆分编辑</string>
+    <string name="edit_title">编辑内容</string>
+    <string name="plugin_manager_title">插件管理</string>
+    <string name="sound_manager_title">音效管理</string>
+    <string name="clipboard_manager_title">剪切板管理</string>
+    <string name="label_manager_title">标签管理</string>
+    <string name="menu_manager_title">主菜单管理</string>
+    <string name="menu_up_tap_title">在菜单使用抬手激活</string>
+    <string name="navigation_up_tap_title">在屏幕导航键使用抬手激活</string>
+    <string name="only_notification_title">仅通过通知栏恢复反馈</string>
+    <string name="send_log_title">发送日志</string>
+    <string name="long_click_title">触摸与按住延时</string>
+    <string name="long_click_summary">抬手激活状态下取消与长按延时</string>
+    <string name="split_select_title">选取</string>
+    <string name="use_up_long_click_title">单击激活和抬手激活长按</string>
+    <string name="use_up_long_click_summary">单击激活和抬手激活模式停留一定时间模拟长按</string>
+    <string name="backup_manager_title">备份管理</string>
+    <string name="user_letter_map_title">自定义字词解释库(重启生效)</string>
+    <string name="tts_use_offline_title">使用云语音库(声音效果好)</string>
+    <string name="tts_use_offline_summary">没有WiFi将自动切换离线语音库</string>
+    <string name="gesture_package_title">手势方案</string>
+    <string name="long_text_title">长文本编辑</string>
+    <string name="gesture_manager_title">手势管理</string>
+    <string name="use_ocr_title">自动使用OCR识别</string>
+    <string name="use_ocr_summary">触摸到未定义图片或焦点时自动使用OCR识别内容，将消耗更多流量与电力</string>
+    <string name="content_blacklist_title">内容黑名单</string>
+    <string name="no_phone_permission">没有直接拨打电话权限</string>
+    <string name="message_time_out">未授权</string>
+    <string name="message_welcome">欢迎使用解说读屏</string>
+    <string name="message_in_dim_screen">进入黑屏模式</string>
+    <string name="message_out_dim_screen">退出黑屏模式</string>
+    <string name="message_only_android5_last">仅支持安卓5以上系统</string>
+    <string name="notification_box">通知盒子</string>
+    <string name="clear">清空</string>
+    <string name="message_disabled_up_tap">关闭抬手激活</string>
+    <string name="message_enabled_up_tap">开启抬手激活</string>
+    <string name="message_no_found_edit_text">未找到输入框</string>
+    <string name="message_voice_feedback_paused">语音反馈已暂停</string>
+    <string name="message_voice_feedback_resume">语音反馈已启用</string>
+    <string name="message_enable_tap_mode">开启点击切换焦点</string>
+    <string name="message_disabled_tap_mode">关闭点击切换焦点</string>
+    <string name="directory_gestures">手势</string>
+    <string name="directory_temp">临时</string>
+    <string name="directory_plugins">插件</string>
+    <string name="message_recognition">正在识别</string>
+    <string name="message_recognition_error">识别出错，请重试</string>
+    <string name="directory_sounds">音效</string>
+    <string name="directory_resources">资源</string>
+    <string name="file_name_letter">文字.json</string>
+    <string name="file_name_symbol">符号.json</string>
+    <string name="directory_labels">标签</string>
+    <string name="directory_backup">备份</string>
+    <string name="message_load_sound_error">音效切换失败</string>
+    <string name="message_load_done">导入成功</string>
+    <string name="tool_title">扩展工具</string>
+    <string name="directory_tools">工具</string>
+    <string name="ocr_title">文字识别</string>
+    <string name="tool_manager_title">工具管理</string>
+    <string name="message_load_error">导入失败</string>
+    <string name="manager_activity_title">资源管理</string>
+    <string name="use_headset_key_title">使用耳机按键控制读屏</string>
+    <string name="use_wake_lock_title">使用唤醒锁定</string>
+    <string name="user_settings_title">用户中心</string>
+    <string name="user_name_title">用户名</string>
+    <string name="user_id_title">用户ID</string>
+    <string name="user_key_title">授权码</string>
+    <string name="user_validity_title">有效期</string>
+    <string name="user_point_title">积分</string>
+    <string name="gesture_description_title">手势方案说明</string>
+    <string name="user_invite_title">邀请记录</string>
+    <string name="login_title">登录</string>
+    <string name="reg_title">注册</string>
+    <string name="message_recognition_none">没有识别结果</string>
+    <string name="tts_iflytek_settings_title">讯飞语音设置</string>
+    <string name="tts_use_fly_title">使用讯飞语音引擎</string>
+    <string name="tts_pitch_title">语音合成语调</string>
+    <string name="tts_speed_double_title">更快的语速</string>
+    <string name="tts_unisound_settings_title">云知声语音设置</string>
+    <string name="use_wake_lock_summary">在语音朗读时保持屏幕唤醒</string>
+    <string name="audio_focus_summary">语音反馈时降低其他音频音量</string>
+    <string name="message_done">完成</string>
+    <string name="app_gesture_package_title">单应用手势方案</string>
+    <string name="app_gesture_package_summary">为单个应用配置手势方案</string>
+    <string name="char_mode_gesture_title">不在逐字浏览模式使用自定义手势</string>
+    <string name="char_mode_gesture_summary">在逐字浏览模式使用默认手势</string>
+    <string name="notification_summary_title">通知摘要</string>
+    <string name="use_image_filter_title">过滤网页中无用的图片注释</string>
+    <string name="gesture_settings_title">手势方案设置</string>
+    <string name="setup_plugin_title">自动运行的插件</string>
+    <string name="advanced_menu_title">高级菜单</string>
+    <string name="quick_menu_title">快捷菜单</string>
+    <string name="check_update_title">检查更新</string>
+    <string name="qq_group_summary">咨询，建议或者购买会员</string>
+    <string name="favorites_menu_title">收藏夹</string>
+    <string name="favorites_manager_title">收藏夹管理</string>
+    <string name="use_multi_menu_title">使用多列菜单</string>
+    <string name="use_multi_menu_summary">多列菜单不支持自定义内容</string>
+    <string name="use_left_right_title">使用左右手势切换焦点</string>
+    <string name="use_list_item_index_title">朗读项目序号索引</string>
+    <string name="use_left_right_summary">使用默认手势时，左右切换焦点，上下执行快捷功能</string>
+    <string name="use_old_previous_title">使用传统的上一个焦点移动方式</string>
+    <string name="baidu_tieba_title">解说读屏贴吧交流</string>
+    <string name="use_single_tts_title">使用单一语音库</string>
+    <string name="use_auto_update_title">自动升级</string>
+    <string name="use_pager_scroll_title">自动滚动页面</string>
+    <string name="use_supper_filter_title">更强的网页内容过滤</string>
+    <string name="change_log_title">更新日志</string>
+    <string name="use_up_long_quick_menu_title">在模拟长按时显示快捷菜单</string>
+    <string name="use_show_dis_enabled_quick_menu_title">在快捷菜单显示未启用的功能</string>
+    <string name="voice_helper_setting_title">语音助手设置</string>
+    <string name="voice_helper_copy_title">自动复制翻译结果</string>
+    <string name="trans_lang_from_title">翻译的源语言</string>
+    <string name="use_pager_scroll_summary">当浏览到多页面视图最后一个焦点时，自动滚动下一个页面</string>
+    <string name="scroll_gesture_settings_title">焦点移动设置</string>
+    <string name="click_settings_title">点击操作设置</string>
+    <string name="key_shortcut_setting_title">快捷键设置</string>
+    <string name="gesture_title">手势设置</string>
+    <string name="use_single_tap_summary">点击一次激活焦点</string>
+    <string name="use_old_previous_summary">传统方式上一个焦点是下一个焦点的简单返回，取消后将使用新的上一个焦点方式，按照焦点层级返回，在一直向上浏览时更容易掌握内容所属关系</string>
+    <string name="use_headset_key_summary">短按耳机按键下一个焦点，长按启动语音助手</string>
+    <string name="list_view_settings_title">列表提示设置</string>
+    <string name="view_label_settings_title">视图内容设置</string>
+    <string name="view_changed_settings_title">内容改变朗读设置</string>
+    <string name="content_filter_settings_title">内容过滤设置</string>
+    <string name="hints_list_settings_title">内容提示设置</string>
+    <string name="use_node_info_summary">在节点浏览模式下读出当前节点的附加信息</string>
+    <string name="use_list_item_index_summary">浏览列表项目时，读出当前项目的序号索引</string>
+    <string name="use_scroll_list_index_summary">使用手势快速滚动列表时，朗读当前列表可视范围信息</string>
+    <string name="use_view_name_index_summary">读出当前焦点视图类型名称，如无内容则强制读出按钮等信息</string>
+    <string name="unknown_lable_summary">当前焦点无文字信息时读出焦点的ID</string>
+    <string name="use_progress_summary">浏览进度条时自动朗读进度条进度改变</string>
+    <string name="use_content_changed_summary">自动朗读当前焦点及子焦点的内容</string>
+    <string name="use_content_tree_changed_summary">自动朗读当前窗口焦点改变的内容</string>
+    <string name="content_blacklist_summary">过滤黑名单中的内容，可解决部分焦点有错误说明不能添加标签问题</string>
+    <string name="use_image_filter_summary">过滤网页中无用的图片说明</string>
+    <string name="use_supper_filter_summary">过滤更多可能是无用信息的非中文网页内容</string>
+    <string name="use_edge_gesture_title">使用边缘手势</string>
+    <string name="left_edge_gesture_title">从左侧向内滑动功能</string>
+    <string name="right_edge_gesture_title">从右侧向内滑动功能</string>
+    <string name="right_edge_gesture_value_default">最近任务</string>
+    <string name="left_edge_gesture_value_default">返回</string>
+    <string name="use_edge_gesture_summary">单指或双指从屏幕边缘向内滑动手势</string>
+    <string name="left_edge_gesture_summary">自定义从左侧滑入的手势功能</string>
+    <string name="right_edge_gesture_summary">自定义从右侧滑入的手势功能</string>
+    <string name="down_volume_key_value_default">语音助手</string>
+    <string name="down_volume_key_title">长按音量减键</string>
+    <string name="down_volume_key_summary">自定义长按音量减键功能</string>
+    <string name="up_volume_key_title">长按音量加键</string>
+    <string name="up_volume_key_summary">自定义长按音量加键功能</string>
+    <string name="up_volume_key_value_default">抬手激活</string>
+    <string name="use_speak_call_phone_summary">来电时播报来电号码和姓名</string>
+    <string name="use_speak_call_phone_title">来电报号</string>
+    <string name="use_speak_changed_volume_summary">调节音量时读出提示</string>
+    <string name="use_speak_changed_volume_title">音量提示</string>
+    <string name="vip_qq_group_title">解说会员交流群</string>
+    <string name="qq_group2_title">解说读屏官方QQ二群</string>
+    <string name="right_long_edge_gesture_value_default">通知栏</string>
+    <string name="left_long_edge_gesture_value_default">主屏幕</string>
+    <string name="right_long_edge_gesture_title">从右侧向内滑动长按功能</string>
+    <string name="left_long_edge_gesture_title">从左侧向内滑动长按功能</string>
+    <string name="left_long_edge_gesture_summary">自定义从左侧滑入并停留一秒的手势功能</string>
+    <string name="right_long_edge_gesture_summary">自定义从右侧滑入并停留一秒的手势功能</string>
+    <string name="use_up_long_quick_menu_summary">在触摸浏览时在一个焦点停留一段时间后显示快捷菜单</string>
+    <string name="up_volume_short_key_value_default">增大音量</string>
+    <string name="up_volume_short_key_title">短按音量加键</string>
+    <string name="up_volume_short_key_summary">自定义短按音量加键功能，在触摸屏幕状态为增大音量</string>
+    <string name="down_volume_short_key_value_default">减小音量</string>
+    <string name="down_volume_short_key_title">短按音量减键</string>
+    <string name="down_volume_short_key_summary">自定义短按音量减键功能，在触摸屏幕状态为减小音量</string>
+    <string name="use_ringtone_volume_title">使用铃声音量</string>
+    <string name="use_ringtone_volume_summary">在来电时使用铃声音量朗读</string>
+    <string name="up_down_volume_short_key_value_default">暂停触摸浏览</string>
+    <string name="up_down_volume_short_key_summary">自定义同时按住音量加减键功能，在暂停反馈或暂停触摸浏览状态下为恢复反馈</string>
+    <string name="up_down_volume_short_key_title">同时按住音量加减键</string>
+    <string name="tts_engine_title">主语音库</string>
+    <string name="async_tts_engine_title">副语音库</string>
+    <string name="async_tts_engine_summary">设置读通知等内容的语音库，如果选择与主语音库相同则等同于单语音库</string>
+    <string name="tts_engine_summary">设置读出浏览内容的语音库，如果选择的语音库失效将顺序使用下边的语音库</string>
+    <string name="timer_manager_title">计时器记录</string>
+    <string name="use_foreground_title">后台保护</string>
+    <string name="use_foreground_summary">如果读屏频繁休眠建议勾选该选项</string>
+    <string name="use_speak_qq_changed_title">自动朗读聊天信息</string>
+    <string name="use_speak_qq_changed_summary">自动朗读QQ微信等当前聊天窗口的最新信息</string>
+    <string name="left_button_default_value">挂断|拒绝|*滑动以拒绝来电*|结束通话|挂断通话|挂断电话|结束QQ通话|结束QQ电话|拒绝语音通话|切换上一首|上一曲|向上导航|取消&amp;免提</string>
+    <string name="right_button_default_value">接听|*滑动以接听来电*|免提|扬声器|接听语音通话|切换下一首|下一曲</string>
+    <string name="edge_gesture_title">边缘手势设置</string>
+    <string name="left_button_title">向左手势快捷功能</string>
+    <string name="right_button_title">向右手势快捷功能</string>
+    <string name="use_add_async_tts_title">排队朗读通知类信息</string>
+    <string name="use_add_async_tts_summary">非打断式副语音库朗读排队朗读通知类信息，在单音库模式时不支持</string>
+    <string name="questions_answers_title">常见问题</string>
+    <string name="orientation_landscape">横向</string>
+    <string name="orientation_portrait">纵向</string>
+    <string name="use_alarm_title">语音报时</string>
+    <string name="use_alarm_summary">在指定时间播报时间</string>
+    <string name="alarm_settings_title">报时设置</string>
+    <string name="url_menu_title">链接</string>
+    <string name="use_long_click_voice_input_title">长按编辑框时使用语音输入</string>
+    <string name="voice_input_append_mode_title">语音输入时使用追加模式</string>
+
+    <string name="general_usage_hints_title">读出操作提示</string>
+    <string name="general_speak_list_title">读出列表信息</string>
+    <string name="general_settings_title">常用设置</string>
+    <string name="use_custom_gesture_title">使用自定义手势</string>
+    <string name="custom_gesture_settings_title">自定义手势设置</string>
+    <string name="use_foreground_pro_title">加强型防止锁屏休眠</string>
+    <string name="use_foreground_pro_summary">如果手机关屏休眠严重，可以尝试该选项，他在关屏时将解说设置为前台窗口</string>
+    <string name="use_power_save_title">省电模式</string>
+    <string name="use_power_save_summary">如果待机耗电过高可以尝试打开</string>
+    <string name="power_settings_title">电池设置</string>
+    <string name="action_settings_title">操作设置</string>
+    <string name="keep_focus_position_title">记忆焦点位置</string>
+    <string name="download_activity_title">资源下载</string>
+    <string name="use_number_speak_title">强制使用数字读法读出数字</string>
+    <string name="use_input_method_gesture_title">在输入法使用手势选字</string>
+    <string name="use_input_method_gesture_summary">在讯飞输入法，谷歌拼音输入法和谷歌注音输入法支持手势滑动选择候选字</string>
+    <string name="use_volume_key_move_text_title">使用音量键移动光标</string>
+    <string name="user_text">用户名,5到15位英语字母或数字</string>
+    <string name="pass_text">密码,6到15位英语字母或数字</string>
+    <string name="current_text">共%d个字符，当前是第%d个</string>
+    <string name="user_id_text">用户ID</string>
+    <string name="screen_on_off_settings_title">开关屏提示设置</string>
+    <string name="use_screen_on_speak_title">开屏语音提示</string>
+    <string name="use_screen_off_speak_title">关屏语音提示</string>
+    <string name="use_accessibility_volume_title">使用无障碍音量</string>
+    <string name="use_accessibility_volume_summary">仅支持系统语音库</string>
+    <string name="value_stream_accessibility">读屏</string>
+    <string name="left_right_gesture_title">左右快捷手势设置(在左右手势为默认时有效)</string>
+    <string name="use_move_list_view_item_title">左右手势在列表项目间快速移动</string>
+    <string name="no_support">仅支持%d以上系统</string>
+    <string name="use_pinyin_speak_title">在输入法键盘使用拼音读法读出字母</string>
+    <string name="backup_restore_settings_title">备份与恢复</string>
+    <string name="backup_settings_title">备份设置</string>
+    <string name="restore_settings_title">恢复设置</string>
+    <string name="restore_settings_summary">恢复设置将覆盖当前的设置</string>
+    <string name="backup_settings_summary">备份全部设置将覆盖上次备份的内容</string>
+    <string name="jieshuo_bbs_title">解说论坛</string>
+    <string name="use_symbol_speak_title">读出必要的符号</string>
+    <string name="use_cloud_label_title">云标签</string>
+    <string name="use_cloud_label_summary">自动分享和获取服务器上的标签</string>
+    <string name="directory_helper">助手</string>
+    <string name="helper_manager_title">语音助手扩展管理</string>
+    <string name="alarm_interval_title">报时间隔</string>
+    <string name="use_timer_speak_title">计时器语音播报</string>
+    <string name="use_timer_vibrate_title">计时器震动提示</string>
+    <string name="use_double_edge_gesture_title">使用双指边缘菜单</string>
+    <string name="use_raw_click_title">使用直接点击代替辅助功能点击</string>
+    <string name="use_raw_click_summary">在安卓7以上系统中使用模拟手点击代替辅助功能点击,可以解决部分焦点需要长按的问题，在列表浏览，单击激活，抬手激活有效</string>
+    <string name="has_vip_summary">仅会员可用,%s</string>
+    <string name="vip_qq_kefu_title">解说客服</string>
+    <string name="vip_qq_kefu_summary">咨询，购买，移机，过户请务必通过认证客服</string>
+    <string name="use_speak_changed_window_title">窗口改变时读出全部内容</string>
+    <string name="use_timer_sound_title">音效提示</string>
+    <string name="timer_setting_title">计时报时设置</string>
+    <string name="voice_cmd_setting_title">语音指令设置</string>
+    <string name="directory_cmd">指令</string>
+    <string name="use_move_list_view_item_summary">可以在如QQ消息列表快速滑动浏览</string>
+    <string name="add">添加</string>
+    <string name="re_def_msg">点击确认将恢复默认设置</string>
+    <string name="use_double_fling_summary">快速向上滑动两步打开点击浏览模式，下滑两步自动浏览</string>
+    <string name="voice_helper_use_gestures_title">在语音助手使用手势方案的指令</string>
+    <string name="voice_helper_use_app_gestures_title">在语音助手使用单应用手势方案的指令</string>
+    <string name="voice_helper_use_cmd_title">在语音助手使用语音指令</string>
+    <string name="voice_helper_use_supper_cmd_title">在语音助手使用超级语音指令</string>
+    <string name="voice_helper_use_plugin_title">在语音助手使用扩展插件</string>
+    <string name="voice_helper_use_tool_title">在语音助手使用扩展工具</string>
+    <string name="message_has_vip">仅会员可用</string>
+    <string name="has_vip_summary2">非会员限制%s</string>
+    <string name="voice_helper_capability_setting">语音助手能力设置</string>
+    <string name="use_wake_lock_pro_title">增强型唤醒锁定</string>
+    <string name="use_wake_lock_pro_summary">如果上边的唤醒锁定无效，请尝试勾选该选项</string>
+    <string name="more_setting">更多设置</string>
+    <string name="kayword">输入关键字</string>
+    <string name="notification_black_list_summary">包含黑名单内容的通知将不会朗读</string>
+    <string name="notification_while_list_summary">包含白名单内容的通知将始终朗读</string>
+    <string name="system_tts_volume_title">系统语音合成音量</string>
+    <string name="notification_select_title">要朗读的通知</string>
+
+    <string name="message_disable_dim_screen">请先退出黑屏模式</string>
+    <string name="start_long_copy">开始长复制</string>
+    <string name="runnimg_background">解说后台保护中</string>
+    <string name="description">说明</string>
+    <string name="gestures_description_not_found">未找到该手势方案说明文件</string>
+    <string name="timer_date_format">yyyy年M月d日 HH点mm分</string>
+    <string name="to_all">%s到%s，共%s</string>
+    <string name="try_again">请重试</string>
+    <string name="timer_and_now_time">%s,现在是 %s</string>
+    <string name="edit">编辑</string>
+    <string name="edit_text_not_found">未找到输入框</string>
+    <string name="char_mode">逐字浏览</string>
+    <string name="focus_mode">焦点浏览</string>
+    <string name="auto_next">自动浏览</string>
+    <string name="message_copy">已复制</string>
+    <string name="message_append">已追加</string>
+     <string name="text_format_settings_title">字词解释设置</string>
+    <string name="use_text_format_first_title">解释时先读出该文字</string>
+    <string name="use_text_format_char_number_title">读出是第几个英文字母</string>
+
+    <string name="lower_case_format">%s，小写%s</string>
+    <string name="upper_case_format">%s，大写%s</string>
+    <string name="lower_case_format_number">%s，小写%s，第%d个字母</string>
+    <string name="upper_case_format_number">%s，大写%s，第%d个字母</string>
+
+    <string name="lower_case_format2">%s</string>
+    <string name="upper_case_format2">大写%s</string>
+    <string name="upper_case_format3">%s大写</string>
+    <string name="lower_case_format_number2">%s，第%d个字母</string>
+    <string name="upper_case_format_number2">大写%s，第%d个字母</string>
+
+    <string name="use_slow_speed_title">报时，逐字浏览时使用较慢语速</string>
+    <string name="has_vip_summary_gesture">非会员上下左右单方向手势不可自定义</string>
+    <string name="message_has_vip_loop_click">仅会员支持定时循环点击</string>
+
+    <string name="command_click">点击</string>
+    <string name="command_long_click">长按</string>
+    <string name="command_unlock">解锁</string>
+    <string name="command_start">开头</string>
+    <string name="command_end">结尾</string>
+    <string name="command_nothing">无操作</string>
+    <string name="command_sleep">延时</string>
+    <string name="command_send_log">发送日志</string>
+    <string name="command_gesture_setting">手势设置</string>
+    <string name="command_voice_setting">语音设置</string>
+    <string name="command_action_setting">@string/action_setting_title</string>
+    <string name="command_feedback_setting">@string/feed_setting_title</string>
+    <string name="command_content_setting">@string/content_setting_title</string>
+    <string name="command_notification_setting">@string/notification_settings_title</string>
+    <string name="command_help_feed_setting">帮助反馈</string>
+    <string name="command_left_shortcut">左快捷功能</string>
+    <string name="command_right_shortcut">右快捷功能</string>
+    <string name="command_long_copy">长复制</string>
+    <string name="command_my_location">我的位置</string>
+    <string name="command_where_i">我在哪里</string>
+    <string name="command_current_location">当前位置</string>
+    <string name="command_verification">验证码</string>
+    <string name="command_verification2">验证码识别</string>
+    <string name="command_verification3">识别验证码</string>
+    <string name="feed_back_disabled">语音反馈已暂停</string>
+    <string name="command_gesture_help">手势说明</string>
+    <string name="command_gesture_help2">手势帮助</string>
+    <string name="command_virtual_screen">虚拟屏幕</string>
+    <string name="command_play_control">播放控制</string>
+    <string name="command_read_mode">阅读模式</string>
+    <string name="command_verbatim_speak">逐字解释</string>
+    <string name="command_verbatim_speak2">逐字朗读</string>
+    <string name="command_to_previous_focus">上个焦点</string>
+    <string name="command_to_next_focus">下个焦点</string>
+    <string name="command_to_previous_page">向上翻页</string>
+    <string name="command_to_next_page">向下翻页</string>
+    <string name="command_to_previous_scroll">向上滚动</string>
+    <string name="command_to_next_scroll">向下滚动</string>
+    <string name="command_to_previous_progress">减少进度</string>
+    <string name="command_to_next_progress">增加进度</string>
+    <string name="command_lower_volume">减小音量</string>
+    <string name="command_raise_volume">增大音量</string>
+    <string name="command_now_time">现在时间</string>
+    <string name="command_timer_mode">计时器</string>
+    <string name="command_timer_start">开始计时</string>
+    <string name="command_quick_mode">快速浏览</string>
+    <string name="command_auto_next">自动浏览</string>
+    <string name="command_auto_speak">自动朗读</string>
+
+    <string name="command_copy">复制</string>
+    <string name="command_append_copy">追加复制</string>
+    <string name="command_paste">粘贴</string>
+
+    <string name="raw_swipe_down">[向下]</string>
+    <string name="raw_swipe_up">[向上]</string>
+    <string name="raw_swipe_right">[向右]</string>
+    <string name="raw_swipe_left">[向左]</string>
+    <string name="raw_long_click">[长按]</string>
+    <string name="raw_click">[点击]</string>
+
+    <string name="click_to_enabled">点击恢复</string>
+    <string name="touch_mode_disabled">触摸浏览已暂停</string>
+    <string name="node_mode">节点浏览</string>
+    <string name="ignore_battery">请设置允许忽略电池优化</string>
+    <string name="overlay_window">请设置允许在其他应用显示内容</string>
+    <string name="opened">已打开</string>
+    <string name="closed">已关闭</string>
+    <string name="checked">已选择</string>
+    <string name="unchecked">未选择</string>
+    <string name="page_from_to">第%d页，共%d页</string>
+    <string name="done">操作完成</string>
+    <string name="error_try_again">操作失败，请重试</string>
+    <string name="swipe_right">右滑</string>
+    <string name="swipe_left">左滑</string>
+    <string name="long_clicked">长按了</string>
+    <string name="notification_from">来自%s的通知</string>
+    <string name="progress">百分之%d</string>
+    <string name="item_current_count">第%d项 共%d项</string>
+    <string name="item_from_to_count">第%d到%d项 共%d项</string>
+    <string name="point">点</string>
+    <string name="selected">已选中</string>
+    <string name="disabled">不可用</string>
+    <string name="progress2">进度百分之%d</string>
+    <string name="view_name_button">按钮</string>
+    <string name="view_name_edit_text">编辑框</string>
+    <string name="view_name_editing">正在编辑</string>
+    <string name="view_name_web_view">网页视图</string>
+    <string name="view_name_list_view">列表</string>
+    <string name="view_name_spinner">下拉列表</string>
+    <string name="view_name_switch">开关</string>
+    <string name="view_name_radio_button">单选按钮</string>
+    <string name="view_name_check_box">复选框</string>
+    <string name="view_name_seek_bar">进度滑块</string>
+    <string name="view_name_progress_bar">进度条</string>
+    <string name="view_name_rating_bar">评分条</string>
+    <string name="view_name_image_button">图片按钮</string>
+    <string name="view_name_image">图片</string>
+
+    <string name="message_has_vip_read_mode">仅会员支持阅读模式</string>
+    <string name="message_enabled_read_mode">已退出阅读模式</string>
+    <string name="message_long_copyed">已完成复制，共%d条内容</string>
+    <string name="message_read_mode_enabled">已进入阅读模式,</string>
+    <string name="message_timer_mode_enabled">开始计时</string>
+    <string name="message_clean">已清空</string>
+    <string name="message_clean_error">清空出错</string>
+    <string name="message_edit_text_not_found">未找到输入框</string>
+
+
+    <string name="rap_action_settings_title">敲击操作设置</string>
+    <string name="back_rap_action_value_default">@string/command_now_time</string>
+    <string name="back_rap_action_title">双击背部操作</string>
+    <string name="back_rap_action_summary">双击手机后背执行的快捷操作</string>
+
+    <string name="shake_action_value_default">@string/command_nothing</string>
+    <string name="shake_action_title">摇一摇操作</string>
+    <string name="shake_action_summary">左右摇动手机执行的快捷操作</string>
+
+
+    <string name="shake_action_sens_title">摇一摇灵敏度</string>
+    <string name="shake_action_call_title">摇一摇接听来电</string>
+    <string name="message_no_thing">没有内容</string>
+    <string name="double_fling_setting">快速两步滑动手势</string>
+
+    <string name="command_off_screen">关闭屏幕</string>
+    <string name="command_lock">锁屏</string>
+    <string name="command_accessibility_service_setting">辅助功能</string>
+    <string name="command_trans">翻译</string>
+    <string name="command_disable_dim_screen">退出黑屏</string>
+    <string name="command_enable_dim_screen">黑屏模式</string>
+    <string name="command_enable_dim_screen2">调暗屏幕</string>
+    <string name="command_to_recents">最近任务</string>
+    <string name="command_clean">清空</string>
+    <string name="command_select">选取</string>
+    <string name="command_notification_box">通知盒子</string>
+    <string name="command_up_tap">抬手激活</string>
+    <string name="command_tap_mode">点击浏览</string>
+    <string name="command_node_mode">节点浏览</string>
+    <string name="command_to_home">主屏幕</string>
+    <string name="command_to_back">返回</string>
+    <string name="command_long_edit">长文本编辑</string>
+    <string name="command_all_speak">全屏朗读</string>
+    <string name="command_all_speak2">全文朗读</string>
+    <string name="command_all_select">全文选取</string>
+    <string name="command_voice_helper">语音助手</string>
+    <string name="command_voice_input">语音输入</string>
+    <string name="command_ocr">图片识别</string>
+    <string name="command_ocr_text">文字识别</string>
+    <string name="camera_title">解说相机</string>
+    <string name="command_disable_touch">暂停触摸浏览</string>
+    <string name="command_disable_feedback">暂停语音反馈</string>
+    <string name="command_to_notifications">打开通知栏</string>
+    <string name="command_notifications">通知栏</string>
+    <string name="command_battery_level">电池电量</string>
+    <string name="command_battery">电量</string>
+    <string name="command_quick_menu">快捷菜单</string>
+    <string name="command_gestures_edit">编辑手势</string>
+
+    <string name="clipboard">剪切板</string>
+    <string name="favorites">收藏夹</string>
+    <string name="input_method">输入法</string>
+    <string name="main_menu">主菜单</string>
+    <string name="auto_read">自动朗读</string>
+    <string name="list_mode_title">列表浏览</string>
+    <string name="main_setting">程序设置</string>
+    <string name="battery_level">电量百分之%d</string>
+
+
+    <string name="double_fling_left_gesture_title">向左</string>
+    <string name="double_fling_up_gesture_title">向上</string>
+    <string name="double_fling_right_gesture_title">向右</string>long
+    <string name="double_fling_down_gesture_title">向下</string>
+
+    <string name="down_right_double_fling_setting">先下后右滑动两步手势设置</string>
+    <string name="down_right_double_fling_left_gesture_value_default">返回</string>
+    <string name="down_right_double_fling_up_gesture_value_default">主屏幕</string>
+    <string name="down_right_double_fling_right_gesture_value_default">[点击]</string>
+    <string name="down_right_double_fling_down_gesture_value_default">通知栏</string>
+
+    <string name="down_left_double_fling_setting">先下后左滑动两步手势设置</string>
+    <string name="down_left_double_fling_left_gesture_value_default">@string/command_copy</string>
+    <string name="down_left_double_fling_up_gesture_value_default">@string/command_paste</string>
+    <string name="down_left_double_fling_right_gesture_value_default">@string/command_append_copy</string>
+    <string name="down_left_double_fling_down_gesture_value_default">@string/command_long_copy</string>
+
+
+    <string name="use_down_right_double_fling_gesture_title">使用先下后右滑动两步手势</string>
+    <string name="use_down_left_double_fling_gesture_title">使用先下后左滑动两步手势</string>
+
+
+    <string name="right_double_fling_setting">向右滑动两步手势设置</string>
+    <string name="use_right_double_fling_gesture_title">使用向右滑动两步手势</string>
+
+    <string name="left_double_fling_setting">向左滑动两步手势设置</string>
+    <string name="use_left_double_fling_gesture_title">使用向左滑动两步手势</string>
+
+
+    <string name="up_double_fling_setting">向上滑动两步手势设置</string>
+    <string name="use_up_double_fling_gesture_title">使用向上滑动两步手势</string>
+
+    <string name="down_double_fling_setting">向下滑动两步手势设置</string>
+    <string name="use_down_double_fling_gesture_title">使用向下滑动两步手势</string>
+
+
+    <string name="up_left_double_fling_setting">先上后左滑动两步手势设置</string>
+    <string name="use_up_left_double_fling_gesture_title">使用先上后左滑动两步手势</string>
+
+    <string name="up_right_double_fling_setting">先上后右滑动两步手势设置</string>
+    <string name="use_up_right_double_fling_gesture_title">使用先上后右滑动两步手势</string>
+
+
+    <string name="right_left_double_fling_setting">先右后左滑动两步手势设置</string>
+    <string name="use_right_left_double_fling_gesture_title">使用先右后左滑动两步手势</string>
+
+    <string name="left_right_double_fling_setting">先左后右滑动两步手势设置</string>
+    <string name="use_left_right_double_fling_gesture_title">使用先左后右滑动两步手势</string>
+
+
+    <string name="up_down_double_fling_setting">先上后下滑动两步手势设置</string>
+    <string name="use_up_down_double_fling_gesture_title">使用先上后下滑动两步手势</string>
+
+    <string name="down_up_double_fling_setting">先下后上滑动两步手势设置</string>
+    <string name="use_down_up_double_fling_gesture_title">使用先下后上滑动两步手势</string>
+
+
+    <string name="left_down_double_fling_setting">先左后下滑动两步手势设置</string>
+    <string name="use_left_down_double_fling_gesture_title">使用先左后下滑动两步手势</string>
+
+    <string name="left_up_double_fling_setting">先左后上滑动两步手势设置</string>
+    <string name="use_left_up_double_fling_gesture_title">使用先左后上滑动两步手势</string>
+
+
+    <string name="right_down_double_fling_setting">先右后下滑动两步手势设置</string>
+    <string name="use_right_down_double_fling_gesture_title">使用先右后下滑动两步手势</string>
+
+    <string name="right_up_double_fling_setting">先右后上滑动两步手势设置</string>
+    <string name="use_right_up_double_fling_gesture_title">使用先右后上滑动两步手势</string>
+
+    <string name="command_speak">朗读</string>
+    <string name="command_intput">输入</string>
+    <string name="app">程序</string>
+    <string name="command_to_previous_section">上个标题</string>
+    <string name="command_to_next_section">下个标题</string>
+    <string name="command_to_previous_link">上个链接</string>
+    <string name="command_to_next_link">下个链接</string>
+    <string name="command_to_previous_control">上个控件</string>
+    <string name="command_to_next_control">下个控件</string>
+    <string name="system_tts_engine_title">语音引擎</string>
+    <string name="cancel">取消</string>
+    <string name="timer_interval_title">计时器间隔</string>
+    <string name="gesture_help_title">手势使用说明</string>
+    <string name="show_volume_ui_title">调节音量时显示音量面板</string>
+    <string name="fingerprint_gesture_setting">指纹导航设置</string>
+    <string name="fingerprint_gesture_setting_summary">仅支持部分安卓8后置指纹机型,华为手机上在系统指纹设置，长按触控启用接听电话等才能正常使用</string>
+    <string name="use_fingerprint_gesture_title">使用指纹导航</string>
+    <string name="fingerprint_left_gesture_value_default">返回</string>
+    <string name="fingerprint_right_gesture_value_default">[点击]</string>
+    <string name="fingerprint_up_gesture_value_default">上个焦点</string>
+    <string name="fingerprint_down_gesture_value_default">下个焦点</string>
+    <string name="command_supper_mode">强力模式</string>
+    <string name="command_ocr_focus">焦点识别</string>
+    <string name="navi">导航</string>
+    <string name="unknown_index_title">读出未定义焦点索引</string>
+    <string name="unknown_index_summary">当前焦点无文字信息且无ID时读出索引</string>
+    <string name="alarm_start_hour_title">报时开始时间</string>
+    <string name="alarm_end_hour_title">报时结束时间</string>
+    <string name="command_virtual_navigation">虚拟导航</string>
+    <string name="voice_helper_use_click_title">直接点击说出的焦点关键字</string>
+    <string name="voice_helper_use_app_title">直接打开说出的软件名称</string>
+    <string name="voice_helper_use_app_summary">可以使用直接说出程序的名称打开程序，关闭此选项后使用打开加程序名称打开程序</string>
+    <string name="voice_helper_use_click_summary">可以使用直接说出焦点的关键字查找并点击焦点，关闭此选项后使用点击加焦点关键字查找点击焦点</string>
+    <string name="edge_gesture_width_title">边缘手势触发范围</string>
+    <string name="use_double_edge_gesture_summary">使用边缘菜单将不能使用边缘手势的自定义功能</string>
+    <string name="left_edge_gesture_items_title">自定义左边缘菜单</string>
+    <string name="right_edge_gesture_items_title">自定义右边缘菜单</string>
+    <string name="multi_menu_items_title">自定义多列菜单</string>
+    <string name="main_menu_items_title">自定义主菜单</string>
+    <string name="use_edge_gesture_menu_title">使用单指边缘菜单</string>
+    <string name="use_left_edge_gesture_quick_menu_title">在左边缘菜单中使用单应用快捷菜单</string>
+    <string name="use_small_filter_title">过滤无用控件</string>
+    <string name="jieshuo_bbs_summary">交流，反馈，共享</string>
+    <string name="voice_recognizer_title">识别引擎</string>
+    <string name="use_text_format_char_upper_title">仅提示大写</string>
+    <string name="voice_helper_media_mute_mode_title">启用语音助手时屏蔽媒体声音</string>
+    <string name="trans_lang_to_title">翻译的目标语言</string>
+    <string name="recognizer_lang_title">语音识别语言</string>
+    <string name="float_menu_items_title">悬浮菜单设置</string>
+    <string name="use_float_menu_title">使用悬浮菜单</string>
+    <string name="tts_scale_title">语速倍率</string>
+    <string name="auto_previous">向上浏览</string>
+    <string name="code_help_title">代码说明</string>
+    <string name="sign_up">注册</string>
+    <string name="login">登陆</string>
+    <string name="back">返回</string>
+    <string name="error">出错</string>
+    <string name="login_done">登陆成功</string>
+    <string name="sign_done">注册成功</string>
+    <string name="directory_timer">计时</string>
+    <string name="timer_tags_items_title">计时器标签管理</string>
+    <string name="value_none">无</string>
+    <string name="msg_deleted">已删除%s</string>
+    <string name="tts_echo_voice_settings_title">回声语音设置</string>
+    <string name="screen_off">屏幕已关闭</string>
+    <string name="edit_box_no_found">未找到输入框</string>
+    <string name="msg_speak_content">请说内容</string>
+    <string name="msg_bye">再见</string>
+    <string name="date_format">HH点mm分</string>
+    <string name="date_format0">HH点整</string>
+    <string name="more">更多</string>
+    <string name="add_label">添加标签</string>
+    <string name="grid_item_current">%d行%d列，</string>
+    <string name="node_info_root">根节点，有%d个子节点，</string>
+    <string name="node_info">有%d个子节点，</string>
+    <string name="node_info_none">没有子节点，</string>
+    <string name="rating_current_count">评分%d星共%d星</string>
+    <string name="date_format_sec">s\'秒\'</string>
+    <string name="date_format_min_sec">m\'分\'ss\'秒\'</string>
+    <string name="date_format_hour_min">HH\'小时\'mm\'分\'</string>
+    <string name="hint_move">左右滑动移动光标</string>
+    <string name="hint_edit">双击编辑</string>
+    <string name="hint_change_seek">左右滑动调节进度</string>
+    <string name="hint_change_rating">左右滑动更改评分</string>
+    <string name="hint_checked">双击选择</string>
+    <string name="hint_uncheck">双击取消选择</string>
+    <string name="hint_closed">双击关闭</string>
+    <string name="hint_opened">双击打开</string>
+    <string name="hint_changed">双击切换</string>
+    <string name="hint_double_click">双击</string>
+    <string name="hint_activated">激活</string>
+    <string name="hint_double_click_activated">双击激活</string>
+    <string name="hint_node_move">向左滑动进入子节点，向右滑动返回父节点，向下滑动浏览下个节点，向上滑动浏览上个节点</string>
+    <string name="date_formater_min">mm\'分\'</string>
+    <string name="touch_mode_enabled">触摸浏览已启用</string>
+    <string name="custom">自定义</string>
+    <string name="create_gesture">新建通用手势</string>
+    <string name="create_app_gesture">新建单应用手势</string>
+
+    <string name="func">功能</string>
+    <string name="swipe_up_right">先上后右</string>
+    <string name="swipe_up_down">先上后下</string>
+    <string name="swipe_up_left">先上后左</string>
+    <string name="swipe_down">下滑</string>
+    <string name="swipe_down_right">先下后右</string>
+    <string name="swipe_down_up">先下后上</string>
+    <string name="swipe_down_left">先下后左</string>
+    <string name="swipe_left_up">先左后上</string>
+    <string name="swipe_left_down">先左后下</string>
+    <string name="swipe_left_right">先左后右</string>
+    <string name="swipe_up">上滑</string>
+    <string name="swipe_right_up">先右后上</string>
+    <string name="swipe_right_down">先右后下</string>
+    <string name="swipe_right_left">先右后左</string>
+    <string name="exit">退出</string>
+    <string name="create">新建</string>
+    <string name="save">保存</string>
+    <string name="saved">已保存</string>
+    <string name="edit_name">输入名称</string>
+    <string name="actions">操作</string>
+    <string name="share">分享</string>
+    <string name="move_to_up">上移</string>
+    <string name="move_to_down">下移</string>
+    <string name="delete">删除</string>
+    <string name="select">选择功能</string>
+    <string name="rename">重命名</string>
+    <string name="func_manager">管理功能</string>
+    <string name="func_create">新建功能</string>
+    <string name="waiting">请稍后</string>
+    <string name="gestures_description_default">默认手势: 参看帮助与反馈手势说明</string>
+    <string name="auto_click">自动点击</string>
+    <string name="insert">插入%s</string>
+    <string name="edit_button">输入按钮列表(每行一个)</string>
+    <string name="use_upper_speak_title">在键盘输入时提示大写字母</string>
+    <string name="system_voice_recognizer_title">系统语音识别引擎</string>
+    <string name="system_voice_recognizer_summary">仅识别引擎设置为系统时有效</string>
+    <string name="msg_no_found">未找到</string>
+    <string name="msg_canceled">已取消</string>
+    <string name="voice_cmd_phone_to">打电话给</string>
+    <string name="voice_cmd_call">呼叫</string>
+    <string name="voice_cmd_send">发送</string>
+    <string name="open">打开</string>
+    <string name="voice_cmd_uninstall">卸载</string>
+    <string name="voice_cmd_install">安装</string>
+    <string name="voice_cmd_input">输入</string>
+    <string name="voice_cmd_search">搜索</string>
+    <string name="camera_guide">引导模式</string>
+    <string name="camera_tag">场景识别</string>
+    <string name="camera_ocr">文字识别</string>
+    <string name="camera_face">人脸识别</string>
+    <string name="camera_animal">动物识别</string>
+    <string name="camera_plant">植物识别</string>
+    <string name="camera_currency">钱币识别</string>
+    <string name="camera_ingredient">果蔬识别</string>
+    <string name="split_char">按字</string>
+    <string name="split_all">全文</string>
+    <string name="split_sentence">按句</string>
+    <string name="split_line">按行</string>
+    <string name="split_paragraph">按段</string>
+    <string name="auto_click_create">新建自动点击功能</string>
+    <string name="msg_text_changed">内容已更改</string>
+    <string name="no_save">不保存</string>
+
+    <string name="use_web_type_move_title">在网页使用按类型浏览</string>
+    <string name="pref_donate_alipay">使用支付宝支持解说的开发</string>
+    <string name="pref_donate_paypal">使用贝宝支持解说的开发</string>
+    <string name="menu_settings_title">菜单设置</string>
+    <string name="directory_download">下载</string>
+    <string name="msg_has_vip_split_edit">非会员不支持编辑超过100个字符</string>
+    <string name="media_doc_title">音频教程</string>
+    <string name="downloaded">已下载</string>
+    <string name="no_login">未登录</string>
+    <string name="no_vip">非会员</string>
+    <string name="need_vip">如需开通会员在客服列表中联系我们的客服</string>
+    <string name="check_read_phone_state_permission">检查读取电话权限</string>
+    <string name="message_timer_mode_disabled">结束计时,%s,现在是 %s</string>
+    <string name="camera_right_up">右侧朝上</string>
+    <string name="camera_left_up">左侧朝上</string>
+    <string name="camera_hold_posture">保持姿势</string>
+    <string name="camera_hold_posture_have_face">保持姿势有%d个人脸</string>
+    <string name="camera_lower_left_hand">左手低一点</string>
+    <string name="camera_raise_left_hand">左手高一点</string>
+    <string name="camera_top_up">顶部朝上</string>
+    <string name="camera_bottom_up">底部朝上</string>
+    <string name="camera_screen_up">屏幕朝上</string>
+    <string name="camera_screen_down">屏幕朝下</string>
+    <string name="camera_move_left">左一点</string>
+    <string name="camera_move_right">右一点</string>
+    <string name="camera_move_up">高一点</string>
+    <string name="camera_move_down">低一点</string>
+    <string name="camera_top_move_far">上部远一点</string>
+    <string name="camera_top_move_near">上部近一点</string>
+
+    <string name="use_text_format_read_word_title">读出例词</string>
+    <string name="restore">恢复</string>
+    <string name="backup">备份</string>
+    <string name="directory_camera">相册</string>
+    <string name="game_mode_title">游戏模式</string>
+    <string name="game_mode_summary">进入游戏模式app自动暂停触摸浏览</string>
+    <string name="msg_backuped">已备份</string>
+    <string name="msg_items">%d个项目</string>
+    <string name="msg_recognition_results">识别结果</string>
+    <string name="edit_mode">编辑模式</string>
+    <string name="use_dpad_key_title">使用方向键移动焦点</string>
+    <string name="ocr_engine_title">OCR识别引擎</string>
+    <string name="manager_title">管理</string>
+    <string name="msg_battery_full">已充满</string>
+    <string name="invite_code">邀请码</string>
+    <string name="msg_supper_mode">强力模式可以获得更多焦点内容</string>
+    <string name="msg_enabled_supper_mode">开启强力模式</string>
+    <string name="msg_disabled_supper_mode">关闭强力模式</string>
+    <string name="msg_enabled_supper_mode_error">开启强力模式失败</string>
+    <string name="msg_disabled_supper_mode_error">关闭强力模式失败</string>
+    <string name="msg_backup_done">设置备份文件在/内置存储/解说/备份 文件夹，保存整个 /内置存储/解说 文件夹可以保存所有手势，工具，插件音效等。</string>
+    <string name="msg_restored">恢复完成</string>
+    <string name="backup_done">备份完成</string>
+    <string name="msg_gestures_empty">手势为空</string>
+    <string name="msg_sounds_empty">音效为空</string>
+    <string name="msg_clipboards_empty">剪切板为空</string>
+    <string name="msg_favorites_empty">收藏夹为空</string>
+    <string name="msg_timers_empty">没有计时记录</string>
+    <string name="msg_plugins_empty">插件为空</string>
+    <string name="msg_tools_empty">工具为空</string>
+    <string name="msg_labels_empty">标签为空</string>
+    <string name="msg_backups_empty">备份为空</string>
+    <string name="msg_cmds_empty">语音指令为空</string>
+    <string name="close">关闭</string>
+    <string name="multi_click">多次点击</string>
+    <string name="command_raw_tap">指点模式</string>
+    <string name="msg_enabled_raw_tap">已进入指点模式，触摸抬手后一秒内可以无触摸浏览直接点击屏幕</string>
+    <string name="msg_disabled_raw_tap">已退出指点模式</string>
+
+    <string name="system_tts_scale_summary">测试功能，对系统语音引擎加速，不保证支持所有语音引擎</string>
+    <string name="send_email_title">Email 946049229@qq.com</string>
+
+    <string name="voice_helper_use_blot_title">使用聊天机器人</string>
+
+    <string name="message_recognition_empty">我没听清你说什么</string>
+    <string name="voice_helper_exit">再见</string>
+    <string name="voice_input_mode">听写模式</string>
+    <string name="voice_helper_record_start">录制指令</string>
+    <string name="voice_helper_record_stop">结束录制</string>
+    <string name="voice_helper_record_message">开始录制，依次说出指令，最后说，</string>
+    <string name="voice_helper_record_done">录制完成</string>
+    <string name="msg_save_error">保存出错</string>
+    <string name="msg_has_vip_voice_cmd">非会员使用的语音指令不能超过十条</string>
+    <string name="cmd_create">新建指令</string>
+    <string name="cmd_manager">管理指令</string>
+    <string name="note_tile">云笔记</string>
+    <string name="message_count_out">数量超过限制</string>
+    <string name="cloud_backup_restore_settings_title">云备份</string>
+    <string name="cloud_backup_settings_title">备份设置</string>
+    <string name="cloud_restore_settings_title">恢复设置</string>
+    <string name="cloud_backup_clipboard_title">备份剪切板</string>
+    <string name="cloud_restore_clipboard_title">恢复剪切板</string>
+    <string name="cloud_backup_favorites_title">备份收藏夹</string>
+    <string name="cloud_restore_favorites_title">恢复收藏夹</string>
+    <string name="cloud_backup_timer_title">备份计时记录</string>
+    <string name="cloud_restore_timer_title">恢复计时记录</string>
+    <string name="cloud_backup_label_title">备份标签</string>
+    <string name="cloud_restore_label_title">恢复标签</string>
+    <string name="cloud_backup_gesture_title">备份手势</string>
+    <string name="cloud_restore_gesture_title">恢复手势</string>
+    <string name="cloud_backup_sound_title">备份音效</string>
+    <string name="cloud_restore_sound_title">恢复音效</string>
+    <string name="cloud_backup_cmd_title">备份指令</string>
+    <string name="cloud_restore_cmd_title">恢复指令</string>
+    <string name="ocr_baidu_secret_title">Secret key</string>
+    <string name="ocr_baidu_key_title">App key</string>
+    <string name="ocr_baidu_id_title">App id</string>
+    <string name="ocr_baidu_setting">Baidu OCR</string>
+    <string name="use_ocr_baidu_title">使用自己的百度OCR</string>
+    <string name="use_ocr_baidu_summary">使用自己的识别接口可以更加高效的识别文字，请到https://ai.baidu.com注册获取信息</string>
+    <string name="use_ocr_baidu_help">请到https://ai.baidu.com注册，并开通文字，图片标签，植物，动物，植物，果蔬，货币识别</string>
+    <string name="ocr_setting">文字识别设置</string>
+    <string name="ocr_lang_title">识别语言</string>
+    <string name="ocr_lang_summary">仅使用腾讯云接口时有效</string>
+    <string name="ocr_baidu_summary">仅使用百度OCR接口时有效</string>
+    <string name="add_from_focus_node">添加当前焦点</string>
+    <string name="add_from_virtual_screen">通过虚拟屏幕</string>
+    <string name="add_from_virtual_list">通过文字识别</string>
+    <string name="use_ocr_qq_title">腾讯云-无障碍研究会助力支持接口</string>
+    <string name="ocr_lang_enteries">中英文混合|自动识别|日语|韩语|西班牙语|法语|德语|葡萄牙语|越南语|马来语|俄语|意大利语|荷兰语|瑞典语|芬兰语|丹麦语|挪威语|匈牙利语|泰语|拉丁语系</string>
+
+
+</resources>
