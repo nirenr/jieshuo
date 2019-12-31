@@ -781,7 +781,7 @@
     <string name="hint_activated">Pritisnite dvaput za aktivaciju</string>
     <string name="hint_double_click_activated">Pritisnite dvaput za aktivaciju</string>
     <string name="hint_node_move">Povucite u lijevo za otvaranje podčinjenog čvora, povucite u desno za pomicanje na hijerarhijski viši čvor, povucite prema dolje za kretanje do sljedećeg čvora, i povucite prstom prema gore kako biste se vratili na prethodni čvor</string>
-    <string name="date_formater_min">mm\'je\'</string>
+    <string name="date_formater_min">m\'je\'</string>
     <string name="touch_mode_enabled">Pregledavanje dodirom je uključeno</string>
     <string name="custom">Prilagođeno</string>
 

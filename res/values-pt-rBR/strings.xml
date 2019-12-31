@@ -782,7 +782,7 @@
     <string name="hint_activated">para ativar</string>
     <string name="hint_double_click_activated">Toque duas vezes para ativar</string>
     <string name="hint_node_move">Varra para a esquerda para entrar no nó filho, Varra para a direita para voltar ao nó pai, varra para baixo para procurar o próximo nó e varra para cima para procurar o nó anterior</string>
-    <string name="date_formater_min">mm\'Minutos\'</string>
+    <string name="date_formater_min">m\'Minutos\'</string>
     <string name="touch_mode_enabled">A navegação por toque está ativada</string>
     <string name="custom">Personalização</string>
 

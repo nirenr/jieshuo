@@ -765,9 +765,9 @@
     <string name="node_info">There are %d child nodes.</string>
     <string name="node_info_none">No child nodes.，</string>
     <string name="rating_current_count">Оцена %d од %d звездица.</string>
-    <string name="date_format_sec">с\'секунди\'</string>
-    <string name="date_format_min_sec">м\'минута\'сс\'секунди\'</string>
-    <string name="date_format_hour_min">ХХ\'Сати\'мм\'минута\'</string>
+    <string name="date_format_sec">s\'секунди\'</string>
+    <string name="date_format_min_sec">m\'минута\'ss\'секунди\'</string>
+    <string name="date_format_hour_min">HH\'Сати\'mm\'минута\'</string>
     <string name="hint_move">Превлачите лево или десно за померање курсор\'позиције.</string>
     <string name="hint_edit">Двапут додирните за уређивање.</string>
     <string name="hint_change_seek">Превуците прстом у лево или у десно, како бисте променили позицију клизача.</string>

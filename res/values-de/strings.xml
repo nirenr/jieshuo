@@ -421,7 +421,7 @@
     <string name="runnimg_background">Screenreader im Hintergrund ausführen</string>
     <string name="description">Beschreibung</string>
     <string name="gestures_description_not_found">Hilfedatei für Gesten kann nicht gefunden werden</string>
-    <string name="timer_date_format">jjjj.M.t. HH:mm.</string>
+    <string name="timer_date_format">yyyy.M.d. HH:mm.</string>
     <string name="to_all">%s zu %s, gesamt %s.</string>
     <string name="try_again">Bitte versuchen Sie es erneut</string>
     <string name="timer_and_now_time">%s, jetzt istes %s</string>
@@ -768,7 +768,7 @@
     <string name="rating_current_count">Bewertung mit %d von %d Sternen.</string>
     <string name="date_format_sec">s\'Sekunden\'</string>
     <string name="date_format_min_sec">m\'Minute\'ss\'Sekunden\'</string>
-    <string name="date_format_hour_min">SS\'Stunden\'mm\'Minuten\'</string>
+    <string name="date_format_hour_min">HH\'Stunden\'mm\'Minuten\'</string>
     <string name="hint_move">zum Bewegen des Cursors nach links oder rechts wischen.</string>
     <string name="hint_edit">zum Bearbeiten Doppeltippen.</string>
     <string name="hint_change_seek">zum Einstellen des Schiebereglers nach links oder rechts wischen.</string>

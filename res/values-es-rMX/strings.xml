@@ -781,7 +781,7 @@
     <string name="hint_activated">Toque dos veces.</string>
     <string name="hint_double_click_activated">Para activarlo, toque dos veces.</string>
     <string name="hint_node_move">Deslizar a la izquierda: ir al nodo anterior. Deslizar a la derecha: ir al siguiente nodo. Deslizar hacia abajo: ir al siguiente elemento. Deslizar hacia arriba: ir al elemento anterior.</string>
-    <string name="date_formater_min">mm\'minutos\'</string>
+    <string name="date_formater_min">m\'minutos\'</string>
     <string name="touch_mode_enabled">Navegación táctil activada</string>
     <string name="custom">Personalizado</string>
 

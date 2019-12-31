@@ -781,7 +781,7 @@
     <string name="hint_activated">激活</string>
     <string name="hint_double_click_activated">双击激活</string>
     <string name="hint_node_move">向左滑动进入子节点，向右滑动返回父节点，向下滑动浏览下个节点，向上滑动浏览上个节点</string>
-    <string name="date_formater_min">mm\'分\'</string>
+    <string name="date_formater_min">m\'分\'</string>
     <string name="touch_mode_enabled">触摸浏览已启用</string>
     <string name="custom">Custom</string>
     <string name="create_gesture">新建通用手势</string>

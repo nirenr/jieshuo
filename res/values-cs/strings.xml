@@ -856,20 +856,20 @@
 		<string name="cloud_restore_sound_title">Obnovit zvuková témata z cloudu</string>
 		<string name="cloud_backup_cmd_title">Zálohovat hlasové příkazy do cloudu</string>
 		<string name="cloud_restore_cmd_title">Obnovit hlasové příkazy z cloudu</string>
-    <string name="ocr_baidu_secret_title">Secret key</string>
-    <string name="ocr_baidu_key_title">App key</string>
-    <string name="ocr_baidu_id_title">App id</string>
-	<string name="ocr_baidu_setting">Baidu OCR</string>
-	<string name="use_ocr_baidu_title">使用自己的百度OCR</string>
-    <string name="use_ocr_baidu_summary">使用自己的识别接口可以更加高效的识别文字，请到https://ai.baidu.com注册获取信息</string>
-    <string name="use_ocr_baidu_help">请到https://ai.baidu.com注册，并开通文字，图片标签，植物，动物，植物，果蔬，货币识别</string>
-    <string name="ocr_setting">文字识别设置</string>
-    <string name="ocr_lang_title">识别语言</string>
-    <string name="ocr_lang_summary">仅使用腾讯云接口时有效</string>
-    <string name="ocr_baidu_summary">仅使用百度OCR接口时有效</string>
-    <string name="add_from_focus_node">添加当前焦点</string>
-    <string name="add_from_virtual_screen">通过虚拟屏幕</string>
-    <string name="add_from_virtual_list">通过文字识别</string>
-    <string name="use_ocr_qq_title">腾讯云-无障碍研究会助力支持接口</string>
-    <string name="ocr_lang_enteries">中英文混合|自动识别|日语|韩语|西班牙语|法语|德语|葡萄牙语|越南语|马来语|俄语|意大利语|荷兰语|瑞典语|芬兰语|丹麦语|挪威语|匈牙利语|泰语|拉丁语系</string>
-</resources>
+		<string name="ocr_baidu_secret_title">Tajný klíč</string>
+		<string name="ocr_baidu_key_title">Aplikační klíč</string>
+		<string name="ocr_baidu_id_title">Aplikační ID</string>
+		<string name="ocr_baidu_setting">Baidu OCR</string>
+		<string name="use_ocr_baidu_title">Použít Baidu OCR</string>
+		<string name="use_ocr_baidu_summary">Baidu API se zpřístupní po registraci na https://ai.baidu.com</string>
+		<string name="use_ocr_baidu_help">Přejděte na adresu https://ai.baidu.com a získejte platná data API</string>
+		<string name="ocr_setting">Nastavení OCR</string>
+		<string name="ocr_lang_title">Jazyk rozpoznávání</string>
+		<string name="ocr_lang_summary">Platí jen v případě, kdy je vybrána možnost Tencent OCR</string>
+		<string name="ocr_baidu_summary">Platí jen v případě, kdy je vybrána možnost Baidu OCR</string>
+		<string name="add_from_focus_node">Přidat z aktuálně zaměřeného objektu</string>
+		<string name="add_from_virtual_screen">Přidat z virtuální obrazovky</string>
+		<string name="add_from_virtual_list">Přidat znaky rozpoznané funkcí OCR</string>
+		<string name="use_ocr_qq_title">Cloudové Tencent OCR</string>
+		<string name="ocr_lang_enteries">Větve angličtiny | Automatická identifikace | Japonština | Korejština | Španělština | Francouzština | Němčina | Portugalština | Vietnamština | Malayština | Ruština | Italština | Holandština | Švédština | Finština | Dánština | Norština | Maďarština | Thajština | Latina</string>
+	</resources>

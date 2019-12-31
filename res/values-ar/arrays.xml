@@ -173,26 +173,26 @@
         <item>@string/command_supper_mode</item>
         <item>@string/command_virtual_navigation</item>
     </string-array>
-    <string-array name="left_button">
-        <item>Hang up</item>
-        <item>رَفْضُ المكالمة</item>
-        <item>*إِسْحَبْ لِرَفْضِ المكالمة الواردة*</item>
-        <item>إِنْهَاءُ المكالمة</item>
-        <item>Hang up call</item>
-        <item>Hang up call</item>
-        <item>End QQ call</item>
-        <item>End QQ call</item>
-        <item>العنصرُ السابق</item>
-        <item>المَقْطَعُ السابق</item>
-        <item>الإِنْتِقَالُ للأعلى</item>
+<string-array name="left_button">
+        <item>*رفض*</item>
+        <item>*انهاء*</item>
+        <item>*إنهاء*</item>
+        <item>*قطع*</item>
+        <item>*غير مقروءتين*</item>
+        <item>*غير مقروءة*</item>
+        <item>حذف كل الإشعارات.</item>
+        <item>محو جميع الإشعارات</item>
+        <item>التراجع عن الرسالة الصوتية</item>
+        <item>إلغاء</item>
+        <item>إرجاع*</item>
     </string-array>
     <string-array name="right_button">
-        <item>الرَّدُّ على المكالمة</item>
-        <item>*إِسْحَبْ للرَّدِّ على المكالمة*</item>
-        <item>وَضْعُ حُرِّ اليدين</item>
-        <item>وَضْعُ السَّمَّاعَة</item>
-        <item>العنصرُ التالي</item>
-        <item>المَقطعُ التالي</item>
+        <item>رد*</item>
+        <item>*قبول*</item>
+        <item>*مكبر الصوت*</item>
+        <item>*إرسال*</item>
+        <item>*Wi-Fi*</item>
+        <item>تقديم*</item>
     </string-array>
 
     <string-array name="voice_recognizer_values">
@@ -203,9 +203,9 @@
     </string-array>
     <string-array name="voice_recognizer_entries">
         <item>النظام</item>
-        <item>المحرك 1</item>
-        <item>المحرك 2</item>
-        <item>المحرك 3</item>
+        <item>محرك 1</item>
+        <item>محرك 2</item>
+        <item>محرك 3</item>
     </string-array>
     <string-array name="tts_values">
         <item>0</item>
@@ -311,9 +311,9 @@
         <item>100</item>
     </string-array>
     <!--string-array name="tts_speaker_title">
-        <item>Female voice</item>
-        <item>male voice</item>
-        <item>Happy</item>
+        <item>صوت أنثى</item>
+        <item>صوت ذَكَر</item>
+        <item>سعيد</item>
         <item>Du ya ya</item>
     </string-array>
     <string-array name="tts_speaker">
@@ -326,7 +326,7 @@
         <item>خفيف</item>
         <item>متوسط</item>
         <item>شديد</item>
-        <item>الأكثر شدة</item>
+        <item>شديد جدا</item>
     </string-array>
     <string-array name="vibrate_intensity_values">
         <item>12</item>
@@ -348,7 +348,7 @@
         <item>صغير</item>
         <item>متوسط</item>
         <item>كبير</item>
-        <item>الحدُّ الأقصى</item>
+        <item>الحد الأقصى</item>
     </string-array>
     <string-array name="edge_gesture_width_values">
         <item>8</item>
@@ -365,47 +365,47 @@
         <item>xiaofeng</item>
     </string-array>
     <string-array name="advanced_menu_items">
-        <item>ترجمة</item>
-        <item>التَّعَرُّفُ على المشهد</item>
-        <item>التَّعَرُّفُ على النص</item>
-        <item>التَّعَرُّفُ على الوجه</item>
-        <item>التَّعَرُّفُ على  رمزِ التَّحَقُّق: CAPTCHA</item>
-        <item>نتيجةُ التعرف</item>
-        <item>وَصْفُ الصورة</item>
+        <item>الترجمة</item>
+        <item>التعرف على المشهد</item>
+        <item>التعرف على النص</item>
+        <item>التعرف على الوجه</item>
+        <item>التعرف على رمز التحقق</item>
+        <item>نتيجة التعرف</item>
+        <item>وصف الصورة</item>
     </string-array>
     <string-array name="lang_entries">
-        <item>أوتوماتيكي</item>
-        <item>الكُورِيَّة</item>
-        <item>الصينيةُ المبسطة</item>
-        <item>الصينيةُ التقليدية</item>
-        <item>الهُولَنْدِيَّة</item>
-        <item>التَّايْلَانْدِيَّة</item>
+        <item>تلقائي</item>
+        <item>الكورية</item>
+        <item>الصينية المبسطة</item>
+        <item>الصينية التقليدية</item>
+        <item>الهولندية</item>
+        <item>التايلاندية</item>
         <item>اليونانية</item>
         <item>الإيطالية</item>
         <item>السلوفينية</item>
-        <item>اليَابَانِيَّة</item>
+        <item>اليابانية</item>
         <item>الإنجليزية</item>
         <item>العربية</item>
-        <item>Cantonais</item>
-        <item>الهُنْغَارِيَّة</item>
+        <item>الكانتونية</item>
+        <item>الهنغارية</item>
         <item>الإستونية</item>
-        <item>الرُّومَانِيَّة</item>
+        <item>الرومانية</item>
         <item>الصينية</item>
         <item>التشيكية</item>
-        <item>الأَلْمَانِيَّة</item>
+        <item>الألمانية</item>
         <item>الفرنسية</item>
-        <item>الفِنْلَّنْدِيَّة</item>
-        <item>البُرْتُغَالِيَّة</item>
-        <item>الدَّانِمَارْكِيَّة</item>
-        <item>الرُّوسِيَّة</item>
-        <item>البُلْغَارِيَّة</item>
+        <item>الفنلندية</item>
+        <item>البرتغالية</item>
+        <item>الدنماركية</item>
+        <item>الروسية</item>
+        <item>البلغارية</item>
         <item>الإسبانية</item>
-        <item>السُّوَيْدِيَّة</item>
-        <item>البُولَنْدِيَّة</item>
-        <item>الفِيتْنَامِيَّة</item>
+        <item>السويدية</item>
+        <item>البولندية</item>
+        <item>الفيتنامية</item>
     </string-array>
     <string-array name="lang_values">
-        <item>auto</item>
+        <item>تلقائي</item>
         <item>kor</item>
         <item>wyw</item>
         <item>cht</item>
@@ -436,22 +436,22 @@
         <item>vie</item>
     </string-array>
     <string-array name="tts_engine_values">
-        <item>system</item>
+        <item>النظام</item>
         <item>unisound</item>
     </string-array>
     <string-array name="tts_engine_entries">
         <item>مُحَرِّكُ النظام</item>
-        <item>Yunzhisheng TTS</item>
+        <item>محرك Yunzhisheng</item>
     </string-array>
     <string-array name="tts_engine_vip_values">
-        <item>system</item>
+        <item>النظام</item>
         <item>iflytek</item>
         <item>unisound</item>
     </string-array>
     <string-array name="tts_engine_vip_entries">
         <item>مُحَرِّكُ النظام</item>
-        <item>Xunfei TTS</item>
-        <item>Yunzhisheng TTS</item>
+        <item>محرك Xunfei</item>
+        <item>محرك Yunzhisheng</item>
     </string-array>
     <string-array name="alarm_interval_values">
         <item>5</item>
@@ -461,11 +461,11 @@
         <item>60</item>
     </string-array>
     <string-array name="alarm_interval_entries">
-        <item>كلَّ خَمْسِ دقائق</item>
-        <item>كلَّ عَشْرِ دقائق</item>
-        <item>كلَّ رُبْعِ ساعة</item>
-        <item>كلَّ نِصْفِ ساعة</item>
-        <item>كلَّ ساعة</item>
+        <item>كل 5 دقائق</item>
+        <item>كل 10 دقائق</item>
+        <item>كل 15 دقيقة</item>
+        <item>كل 30 دقيقة</item>
+        <item>كل 60 دقيقة</item>
     </string-array>
     <string-array name="timer_interval_values">
         <item>1</item>
@@ -474,10 +474,10 @@
         <item>15</item>
     </string-array>
     <string-array name="timer_interval_entries">
-        <item>كلَّ دقيقة</item>
-        <item>كلَّ خَمْسِ دقائق</item>
-        <item>كلَّ عَشْرِ دقائق</item>
-        <item>كلَّ رُبْعِ ساعة</item>
+        <item>كل دقيقة</item>
+        <item>كل 5 دقائق</item>
+        <item>كل 10 دقائق</item>
+        <item>كل 15 دقيقة</item>
     </string-array>
     <string-array name="alarm_hour_values">
         <item>0</item>
@@ -507,9 +507,9 @@
         <item>24</item>
     </string-array>
     <string-array name="recognizer_lang_entries">
-        <item>الصينيةُ المبسطة</item>
-        <item>الصينيةُ التقليدية</item>
-        <item>الإننجليزية</item>
+        <item>الصينية المبسطة</item>
+        <item>الصينية التقليدية</item>
+        <item>الإنجليزية</item>
     </string-array>
     <string-array name="recognizer_lang_values">
         <item>zh_CN</item>
@@ -531,12 +531,12 @@
         <item>5</item>
     </string-array>
     <string-array name="web_type_title">
-        <item>الإِفْتِرَاضِي</item>
-        <item>العناوين</item>
-        <item>الروابط</item>
-        <item>الأزرار</item>
-        <item>التمرير</item>
-        <item>الْكُل</item>
+        <item>افتراضي</item>
+        <item>عنوان</item>
+        <item>رابط</item>
+        <item>زر</item>
+        <item>تمرير</item>
+        <item>عرض</item>
     </string-array>
 
 </resources>

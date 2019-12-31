@@ -174,25 +174,25 @@
         <item>@string/command_virtual_navigation</item>
     </string-array>
     <string-array name="left_button">
-        <item>Hang up</item>
-        <item>Rejeter</item>
-        <item>*balayer pour rejeter un appel entrant*</item>
-        <item>Fin d\'appel</item>
-        <item>Hang up call</item>
-        <item>Hang up call</item>
-        <item>Mettre fin à l\'appel QQ</item>
-        <item>Mettre fin à l\'appel QQ</item>
-        <item>Passer à l\'élément précédent</item>
-        <item>Piste précédente</item>
-        <item>Naviguer vers le haut</item>
+        <item>Fin*</item>
+        <item>Raccrocher</item>
+        <item>Terminer*</item>
+        <item>ANNULER</item>
+        <item>Abandonner le message vocal</item>
+        <item>Effacer toutes les notifications.</item>
+        <item>*NON LUS*</item>
+        <item>*NON LU*</item>
+        <item>*Wi-Fi*</item>
+        <item>Revenir en arrière de*</item>
+        <item>Retour arrière</item>
     </string-array>
     <string-array name="right_button">
-        <item>Répondre à un appel</item>
-        <item>*balayer pour répondre à un appel*</item>
-        <item>Mode mains libres</item>
-        <item>Mode haut-parleur</item>
-        <item>Passer à l\'élément suivant</item>
-        <item>Piste suivante</item>
+        <item>RÉPONDRE</item>
+        <item>Accepter*</item>
+        <item>Envoyer</item>
+        <item>*le haut-parleur*</item>
+        <item>Avance*</item>
+        <item>Avancer*	</item>
     </string-array>
 
     <string-array name="voice_recognizer_values">
@@ -365,13 +365,13 @@
         <item>xiaofeng</item>
     </string-array>
     <string-array name="advanced_menu_items">
-        <item>Traduction</item>
+        <item>Traduire</item>
         <item>Reconnaissance de scène</item>
-        <item>Reconnaissance de texte</item>
-        <item>Reconnaissance de visage</item>
+        <item>Reconnaissance du texte</item>
+        <item>Reconnaissance du visage</item>
         <item>Reconnaissance CAPTCHA</item>
         <item>Résultat de reconnaissance</item>
-        <item>description de l\'image</item>
+        <item>description de l'image</item>
     </string-array>
     <string-array name="lang_entries">
         <item>auto</item>
@@ -381,13 +381,13 @@
         <item>Néerlandais</item>
         <item>Thai</item>
         <item>Greek</item>
-        <item>Italienne</item>
+        <item>Italien</item>
         <item>Slovenian</item>
-        <item>Japonaise</item>
+        <item>Japonais</item>
         <item>Anglais</item>
         <item>arabe</item>
         <item>Cantonais</item>
-        <item>Hongroise</item>
+        <item>Hongrois</item>
         <item>estonien</item>
         <item>Roumaine</item>
         <item>Chinoise</item>
@@ -397,12 +397,12 @@
         <item>Finlandais</item>
         <item>Portugais</item>
         <item>Danois</item>
-        <item>Russian</item>
+        <item>Russe</item>
         <item>Bulgarian</item>
         <item>Espanol</item>
         <item>Suédois</item>
         <item>polonais</item>
-        <item>Vietnamese</item>
+        <item>Vietnamien</item>
     </string-array>
     <string-array name="lang_values">
         <item>auto</item>
@@ -536,7 +536,7 @@
         <item>Lien</item>
         <item>Bouton</item>
         <item>défilement</item>
-        <item>Tous</item>
+        <item>Tous les types du contenu</item>
     </string-array>
 
 </resources>
