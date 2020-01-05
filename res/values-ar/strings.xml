@@ -183,14 +183,14 @@
     <string name="directory_temp">TMP</string>
     <string name="directory_plugins">Plugins</string>
     <string name="message_recognition">جاري التَّعَرُّف…</string>
-    <string name="message_recognition_error">حدث خطأ في التَّعَرُّف. يُرجى المحاولة مرةً أخرى.</string>
+    <string name="message_recognition_error">خطأ في التَّعَرُّف. يُرجى المحاولة مرةً أخرى.</string>
     <string name="directory_sounds">Sounds</string>
     <string name="directory_resources">Resources</string>
     <string name="file_name_letter">dict.json</string>
     <string name="file_name_symbol">symbols.json</string>
     <string name="directory_labels">Labels</string>
     <string name="directory_backup">Backups</string>
-    <string name="message_load_sound_error">حدث خطأ أثناء تحميل الحُزمة الصوتية.</string>
+    <string name="message_load_sound_error">خطأ أثناء تحميل الحُزمة الصوتية.</string>
     <string name="message_load_done">تَمَّ استيراد المورد بنجاح.</string>
     <string name="tool_title">الأدوات</string>
     <string name="directory_tools">Tools</string>
@@ -219,8 +219,8 @@
     <string name="use_wake_lock_summary">  ٕ </string>
     <string name="audio_focus_summary">خَفْضُ مُسْتَوى الصوت الآخَر أثناءَ التَّحَدُّث.</string>
     <string name="message_done">تَمَّ حِفْظُ التَّغْييرات.</string>
-    <string name="app_gesture_package_title">حُزَمُ إِيماءاتِ التَّطْبيقات: </string>
-    <string name="app_gesture_package_summary">تَشْغِيلُ أو إيقافُ حُزَم الإِيماءاتِ الخاصةِ بالتَّطْبيقات.</string>
+    <string name="app_gesture_package_title">حُزَمُ إِيماءاتِ التطبيقات: </string>
+    <string name="app_gesture_package_summary">تَشْغِيلُ أو إيقافُ حُزَم الإِيماءاتِ الخاصةِ بالتَّطْبيقات. </string>
     <string name="char_mode_gesture_title">لا تَستَخدِم الإِيماءاتِ المخصصة في وَضْعِ التَّنَقُّل بِدِقّات القِراءة: </string>
     <string name="char_mode_gesture_summary">استَخدِم الإِيماءاتِ الافتراضية في وَضْعِ التَّنَقُّل بِدِقّات القِراءة.</string>
     <string name="notification_summary_title">ملخص الإشعارات</string>
@@ -288,7 +288,7 @@
     <string name="up_volume_key_title">إِضْغَط مُطَوَّلاً على مفتاح رَفْعِ مُسْتَوى الصوت</string>
     <string name="up_volume_key_summary">يمكنُكَ تخصيص إجراء الضغط المُطَوَّل على مفتاح رَفْعِ مُسْتَوى الصوت</string>
     <string name="up_volume_key_value_default">"رَفْعُ الإِصْبَع للتَّفْعيل"</string>
-    <string name="use_speak_call_phone_summary">يَتِمُّ نُطْق اسم ورقم المتصل عِنْدَ الاتِّصال: </string>
+    <string name="use_speak_call_phone_summary">يَتِمُّ نُطْق اسم ورقم المتصل عِنْد الإتِّصال: </string>
     <string name="use_speak_call_phone_title">نُطْق معلوماتِ المتصل: </string>
     <string name="use_speak_changed_volume_summary">يَتِمُّ نُطْق التَّغْييرات عند ضبط مُسْتَوى الصوت.</string>
     <string name="use_speak_changed_volume_title">نُطْق تغييرات مُسْتَوى الصوت: </string>
@@ -321,8 +321,8 @@
     <string name="use_foreground_summary">يوصى بالتَّحَقُّق مِن هذا الخِيار إذا كانت الشاشةُ تَدْخُل في وَضْعِ السكون بشكل متكرر.</string>
     <string name="use_speak_qq_changed_title">نُطْق رسائل الدردشة في QQ تلقائياً</string>
     <string name="use_speak_qq_changed_summary">يَتِمُّ نُطْق رسائل QQ الواردة تلقائياً.</string>
-    <string name="left_button_default_value">|*رفض*|*انهاء*|*إنهاء*|*قطع*|*غير مقروءتين*|*غير مقروءة*|حذف كل الإشعارات.|محو جميع الإشعارات|التراجع عن الرسالة الصوتية|إلغاء|إرجاع*</string>
-    <string name="right_button_default_value">رد*|*قبول|*مكبر الصوت*|*إرسال*|*Wi-Fi*|تقديم*</string>
+    <string name="left_button_default_value">|*رفض*|*انهاء*|*إنهاء*|*قطع*|الحذف لدى الجميع|إغلاق*|حذف جميع الإشعارات|مسح| إلغاء*|ترجيع*|إرجاع*</string>
+    <string name="right_button_default_value">رد*|Send|*مكبر الصوت*| إرسال*|إرسال تعليق|تقديم*</string>
     <string name="edge_gesture_title">إعداداتُ إِيماءاتِ الحافَّتَيْن</string>
     <string name="left_button_title">إجراءات اخْتصار التَّمْرير لل يسار </string>
     <string name="right_button_title">إجراءات اخْتصار التَّمْرير لليمين </string>
@@ -363,7 +363,7 @@
     <string name="use_screen_on_speak_title">التَّنْبيهُ بفتح الشاشة</string>
     <string name="use_screen_off_speak_title">التَّنْبيهُ بِقَفْلِ الشاشة</string>
     <string name="use_accessibility_volume_title">استخدام مُسْتَوى صوت إمكانية الوصول               </string>
-    <string name="use_accessibility_volume_summary">يَتِمُّ التَّحَكُّمُ بِمُسْتَوى صوت Commentary Screen Reader مِن خِلالِِ مُسْتَوى صوتِ إمكانيةِ الوصول بدلا مِن مُسْتَوى صوتِ الوسائط. ملاحظة!: هذا يدعم فقط مُحَرِّك النظام </string>
+    <string name="use_accessibility_volume_summary">يَتِمُّ التَّحَكُّمُ بِمُسْتَوى صوت Commentary Screen Reader مِن خِلالِِ مُسْتَوى صوت إمكانية الوصول بدلا مِن مُسْتَوى صوت الوسائط. </string>
     <string name="value_stream_accessibility">إمكانيةُ الوصول</string>
     <string name="left_right_gesture_title">إعداداتُ الإِيماءاتِ البديلة</string>
     <string name="use_move_list_view_item_title">التَّمْرير للأعلى و لل أَسْفَلِ للتَنَقُّل سريعاً بين عناصر القائمة.</string>
@@ -407,13 +407,13 @@
     <string name="message_has_vip">هذه الوظيفةُ متاحةٌ فقط في النسخة المدفوعة.</string>
     <string name="has_vip_summary2">وظيفة %s محدودة في النسخة المجانية</string>
     <string name="voice_helper_capability_setting">إعداداتُ قُدُراتِ المساعِدِ الصوتي</string>
-    <string name="use_wake_lock_pro_title">الإبقاءُ على الشاشة مفتوحةً: </string>
+    <string name="use_wake_lock_pro_title">الإبقاءُ على الشاشة مفتوحةً أثناء القِراءة: </string>
     <string name="use_wake_lock_pro_summary">يُنْصَحُ بتحديد هذا الخيار إذا لم يعمل الإعدادُ السابق.</string>
     <string name="more_setting">المزيدُ مِنَ الإعدادات, </string>
     <string name="kayword">بحث</string>
     <string name="notification_black_list_summary">لن يَتِمُّ نُطْق إشعارات المحتوى المُدْرَج في القائمة السَوْداء.</string>
     <string name="notification_while_list_summary">يَتِمُّ دائما نُطْق إشعارات المحتوى المُدْرَج في القائمة البيضاء.</string>
-    <string name="system_tts_volume_title">مُسْتَوى صوتِ مُحَرِّكِ النظام </string>
+    <string name="system_tts_volume_title">مُسْتَوى صوت مُحَرِّكِ النظام </string>
 			<string name="notification_select_title">إعداداتُ نُطْقِ الإشعارات</string>
 
     <string name="message_disable_dim_screen">يُرجى إلغاء تعتيمِ الشاشة أولاً</string>
@@ -525,7 +525,7 @@
     <string name="error_try_again">حدث خطأ. يُرجى المحاولة مرة أخرى</string>
     <string name="swipe_right">التَّمْرير لليمين, </string>
     <string name="swipe_left">التَّمْرير لل يسار, </string>
-    <string name="long_clicked"> ٕ </string>
+    <string name="long_clicked">تَمَّ إجراء الضغط المُطَوَّل, </string>
     <string name="notification_from">إشعار جديد مِن %s</string>
     <string name="progress">مُسْتَوى شريط التَّقَدُّم: %d بالمئة.</string>
     <string name="item_current_count">%d مِن %d</string>
@@ -555,7 +555,7 @@
     <string name="message_read_mode_enabled">الدخولُ إلى وَضْعِ القِراءة,</string>
     <string name="message_timer_mode_enabled">تَمَّ تشغيلُ المُؤَقِّت</string>
     <string name="message_clean">تَمَّ مَحْوُ النص</string>
-    <string name="message_clean_error">حدث خطأ في مَحْوِ النص</string>
+    <string name="message_clean_error">خطأ في مَحْوِ النص</string>
     <string name="message_edit_text_not_found">مربع التَّعْديل غير متوفر</string>
 
 
@@ -698,7 +698,7 @@
     <string name="command_to_previous_control">عنصر التَّحَكُّم السابق</string>
     <string name="command_to_next_control">عنصر التَّحَكُّم التالي</string>
     <string name="system_tts_engine_title">مُحَرِّكُ تحويلِ النص إلى كلام</string>
-    <string name="cancel">إلغاء, </string>
+    <string name="cancel">إغلاق, </string>
     <string name="timer_interval_title">الفاصل الزمني لنُطْق مدة المُؤَقِّت</string>
     <string name="gesture_help_title">تعليماتُ الإِيماءات</string>
     <string name="show_volume_ui_title">عرض عناصر التَّحَكُّم في مُسْتَوى الصوت عند التَّعْديل عَلَيْهِ.</string>
@@ -711,7 +711,7 @@
     <string name="fingerprint_down_gesture_value_default">العنصرُ التالي</string>
     <string name="command_supper_mode">التَّنَقُّل المُفَصَّل.</string>
     <string name="command_ocr_focus">المسح الضَّوْئي للعنصر المُرَكَّز عَلَيْهِ.</string>
-    <string name="navi">التَّنَقُّل</string>
+    <string name="navi">navigation</string>
     <string name="unknown_index_title">نُطْق رقم عنصر التَّحَكُّم غير المُسمى: </string>
     <string name="unknown_index_summary">يَتِمُّ نُطْق رقمِ العنصر المُرَكَّز عَلَيْهِ، حتى إذا لم يكن للعنصر تَسْمِيَةٌ أو مُعَرِّف.</string>
     <string name="alarm_start_hour_title">وقت بدء التَّنْبيه</string>
@@ -769,17 +769,17 @@
     <string name="date_format_min_sec">m\'مِنَ الدقائق و\'s\'مِنَ الثواني\'</string>
     <string name="date_format_hour_min">H\'مِنَ الساعات و\'m\'مِنَ الدقائق\'</string>
     <string name="hint_move">, التَّمْرير للأعلى أو لل أَسْفَلِ لتغيير موضع المؤشر.</string>
-    <string name="hint_edit">, النَّقْرُ مرتين للتعديل.</string>
+    <string name="hint_edit">, النَّقْر مَرَّتَيْن للتعديل.</string>
     <string name="hint_change_seek">, التَّمْرير للأعلى أو لل أَسْفَلِ لتغيير مُسْتَوى شريط التَّمْرير.</string>
     <string name="hint_change_rating">, التَّمْرير للأعلى أو لل أَسْفَلِ لتغيير موضع مؤشر التَّقْييم.</string>
-    <string name="hint_checked">, النَّقْرُ مرتين للتحديد.</string>
-    <string name="hint_uncheck">, النَّقْرُ مرتين لإلغاء التَّحْديد.</string>
-    <string name="hint_closed">, النََقْرُ مرتين للإغلاق.</string>
-    <string name="hint_opened">, النَّقْرُ مرتين للفتح.</string>
-    <string name="hint_changed">, النَّقْرُ مرتين للتبديل.</string>
-    <string name="hint_double_click">, النَّقْرُ مرتين</string>
+    <string name="hint_checked">, النَّقْر مَرَّتَيْن للتحديد.</string>
+    <string name="hint_uncheck">, النَّقْر مَرَّتَيْن لإلغاء التَّحْديد.</string>
+    <string name="hint_closed">, النََقْر مَرَّتَيْن للإغلاق.</string>
+    <string name="hint_opened">, النَّقْر مَرَّتَيْن للفتح.</string>
+    <string name="hint_changed">, النَّقْر مَرَّتَيْن للتبديل.</string>
+    <string name="hint_double_click">, النَّقْر مَرَّتَيْن</string>
     <string name="hint_activated">للتَّفعيل.</string>
-    <string name="hint_double_click_activated">, النَّقْرُ مرتين للتَّفْعيل.</string>
+    <string name="hint_double_click_activated">, النَّقْر مَرَّتَيْن للتَّفْعيل.</string>
     <string name="hint_node_move">, التَّمْرير لل يسار: العُقْدة السابقة. التَّمْرير لليمين: العُقْدة التالية. التَّمْرير لل أَسْفَل: العُقْدة الفرعية. التَّمْرير للأعلى: العُقْدة الرئيسية.</string>
     <string name="date_formater_min">m\'مِنَ الدقائق\'</string>
     <string name="touch_mode_enabled">تَمَّ تفعيل الإستكشاف باللمس.</string>
@@ -848,7 +848,7 @@
     <string name="split_line">الأَسْطُر</string>
     <string name="split_paragraph">الفِقْرات</string>
     <string name="auto_click_create">إنشاءُ وظيفةِ النَّقْرِ التَّلْقائي</string>
-    <string name="msg_text_changed">تَمَّ تغيير النص</string>
+    <string name="msg_text_changed">تَمَّ تعديل النص</string>
     <string name="no_save">إلغاء الحفظ</string>
 
     <string name="use_web_type_move_title">التَّصَفُّح بعناصر التَّنَقُّل على صفحات الويب.</string>
@@ -934,7 +934,7 @@
     <string name="voice_helper_record_stop">أوقِف التَّسْجيل</string>
     <string name="voice_helper_record_message">إبدأ التَّسْجيل، تَحَدَّث بالأمر، ثُمَّ تَوَقَّف عن ذلك.</string>
     <string name="voice_helper_record_done">اكْتَمَلَ التَّسْجيل.</string>
-    <string name="msg_save_error">حدث خطأ أثناء الحفظ.</string>
+    <string name="msg_save_error">خطأ أثناء الحفظ.</string>
     <string name="msg_has_vip_voice_cmd">لا يمكنُ استخدامُ الأوامر الصوتية في الإصدار المجاني!</string>
     <string name="cmd_create">إنشاء أمر صوتي</string>
     <string name="cmd_manager">إدارة الأوامر الصوتية</string>

@@ -178,20 +178,20 @@
         <item>*انهاء*</item>
         <item>*إنهاء*</item>
         <item>*قطع*</item>
-        <item>*غير مقروءتين*</item>
-        <item>*غير مقروءة*</item>
-        <item>حذف كل الإشعارات.</item>
-        <item>محو جميع الإشعارات</item>
-        <item>التراجع عن الرسالة الصوتية</item>
-        <item>إلغاء</item>
+        <item>الحذف لدى الجميع</item>
+        <item>إغلاق*</item>
+        <item>حذف جميع الإشعارات.</item>
+        <item>مسح</item>
+        <item> إلغاء*</item>
+        <item>ترجيع*</item>
         <item>إرجاع*</item>
     </string-array>
     <string-array name="right_button">
         <item>رد*</item>
-        <item>*قبول*</item>
+        <item>Send</item>
         <item>*مكبر الصوت*</item>
-        <item>*إرسال*</item>
-        <item>*Wi-Fi*</item>
+        <item> إرسال*</item>
+        <item>إرسال تعليق</item>
         <item>تقديم*</item>
     </string-array>
 

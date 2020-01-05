@@ -90,7 +90,7 @@
     <string name="value_stream_dtmf">"DTMF"</string>
     <string name="value_googletv_screen_saver">"d\'économiseur d\'écran"</string>
 
-    <string name="template_charging">Le chargeur %1$.s niveau de la batterie est, %2$s Pourcent."</string>
+    <string name="template_charging">Le chargeur %1$s. niveau de la batterie est, %2$s Pourcent."</string>
     <string name="notification_type_status_started">"est branché". </string>
     <string name="notification_type_status_stopped">"est débranché". </string>
     <string name="acc_settings_title">accessibilité</string>
@@ -129,7 +129,7 @@
     <string name="use_up_tap_summary">Lever le doigt activera un élément en dessou. Si le doigt reste plus longtemps sur l\'élément, il ne sera pas activé.</string>
     <string name="use_tap_mode_title">Cliquez pour déplacer le focus: </string>
     <string name="vibrate_intensity_title">Intensité des vibrations: </string>
-    <string name="use_progress_title">Lire automatiquement des barres de progression: </string>
+    <string name="use_progress_title">Lire automatiquement les barres de progression: </string>
     <string name="use_scroll_list_index_title">Lire le nombre des éléments de menu à l\'écran actuel: </string>
     <string name="use_content_changed_title">Signaler les changements de contenu dynamiques: </string>
     <string name="use_double_fling_title">utiliser les gestes en deux étapes: </string>
@@ -259,7 +259,7 @@
     <string name="use_old_previous_summary">De manière traditionnelle, l’accent est mis sur le simple retour du focus suivant.Après l’annulation, le nouveau mode de focus précédent sera utilisé et le focus sera renvoyé en fonction du niveau de focus.Il est plus facile de saisir la propriété du contenu lors de la navigation en permanence.</string>
     <string name="use_headset_key_summary">Appuyez sur la touche du casque pour passer à l\'élément suivant, appuyez longuement sur la touche pour activer l\'assistant vocal..</string>
     <string name="list_view_settings_title">lectur des infos  de la liste</string>
-    <string name="view_label_settings_title">lectur les étiquettes</string>
+    <string name="view_label_settings_title">lectur des étiquettes</string>
     <string name="view_changed_settings_title">lectur des contenus dynamiques</string>
     <string name="content_filter_settings_title">Filtrage du contenu</string>
     <string name="hints_list_settings_title">lectur des Informations d\'utilisation</string>
@@ -359,7 +359,7 @@
     <string name="pass_text">Mot de passe: 6 à 15 caractères latins.</string>
     <string name="current_text">%d caractères sur %d entrés</string>
     <string name="user_id_text">Identifiant d\'utilisateur</string>
-    <string name="screen_on_off_settings_title">lectur l\'état de l\'écran</string>
+    <string name="screen_on_off_settings_title">lectur d\'état de l\'écran</string>
     <string name="use_screen_on_speak_title">Lire le message du déverrouillage de l\'écran</string>
     <string name="use_screen_off_speak_title">Lire le message du verrouillage de l\'écran</string>
     <string name="use_accessibility_volume_title">Utiliser le volume d\'accessibilité: </string>

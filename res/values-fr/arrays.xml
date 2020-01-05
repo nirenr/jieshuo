@@ -371,7 +371,7 @@
         <item>Reconnaissance du visage</item>
         <item>Reconnaissance CAPTCHA</item>
         <item>Résultat de reconnaissance</item>
-        <item>description de l'image</item>
+        <item>description de l\'image</item>
     </string-array>
     <string-array name="lang_entries">
         <item>auto</item>
