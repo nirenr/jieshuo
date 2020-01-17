@@ -352,4 +352,6 @@
     <string name="ocr_baidu_id">ocr_baidu_id</string>
     <string name="use_ocr_baidu">use_ocr_baidu</string>
     <string name="ocr_lang">ocr_lang</string>
+    <string name="timer_run">timer_run</string>
+    <string name="use_web_view_name">use_web_view_name</string>
 </resources>

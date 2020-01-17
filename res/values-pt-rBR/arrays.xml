@@ -509,13 +509,11 @@
         <item>Chinês Simp</item>
         <item>Chinês Trad</item>
         <item>Inglês</item>
-        <item>Português</item>
-    </string-array>
+     </string-array>
     <string-array name="recognizer_lang_values">
         <item>zh_CN</item>
         <item>zh_GD</item>
         <item>en_GB</item>
-        <item>pt_br</item>
     </string-array>
     <string-array name="tts_scale_values">
         <item>1</item>

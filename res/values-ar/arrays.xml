@@ -177,12 +177,12 @@
         <item>*رفض*</item>
         <item>*انهاء*</item>
         <item>*إنهاء*</item>
-        <item>*قطع*</item>
-        <item>الحذف لدى الجميع</item>
+        <item>محو*</item>
+        <item>تخطي الإعلان</item>
         <item>إغلاق*</item>
         <item>حذف جميع الإشعارات.</item>
-        <item>مسح</item>
-        <item> إلغاء*</item>
+        <item>مسح*</item>
+        <item>حذف كل الإشعارات.</item>
         <item>ترجيع*</item>
         <item>إرجاع*</item>
     </string-array>
@@ -190,7 +190,7 @@
         <item>رد*</item>
         <item>Send</item>
         <item>*مكبر الصوت*</item>
-        <item> إرسال*</item>
+        <item>الحذف لدى الجميع</item>
         <item>إرسال تعليق</item>
         <item>تقديم*</item>
     </string-array>
