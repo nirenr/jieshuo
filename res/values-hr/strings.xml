@@ -971,21 +971,21 @@
     <string name="add_from_virtual_list">dodja prepoznate znakove u tekst</string>
     <string name="use_ocr_qq_title">Tencent oblačni OCR.</string>
     <string name="ocr_lang_enteries">Miješani engleski|automatsko otkrivanje|japanski|korejski|španjolski|francuski|njemački|portugalski|vijetnamski|malajski|ruski|talijanski|nizozemski|švedski|finski|danski|norveški|mađarski|tajski|latinski</string>
-    <string name="cmd_description">说明(15字以上)</string>
-    <string name="timer_run_title">定时运行任务</string>
-    <string name="msg_has_vip_timer_run">非会员仅支持添加一个定时任务</string>
-    <string name="use_web_view_name_title">读出网页元素类型</string>
-    <string name="use_web_view_name_summary">打开后读出全部网页元素名称，关闭后仍会读出链接按钮等</string>
-    <string name="hour">时</string>
-    <string name="min">分</string>
-    <string name="msg_result_empty">我没听清你说什么</string>
-    <string name="msg_calling">正在呼叫</string>
-    <string name="msg_sended">已发送</string>
-    <string name="msg_add_error_has_lable">该节点有文字说明，不需要添加标签</string>
-    <string name="msg_label_added">已添加标签</string>
-    <string name="msg_clicked">点击了</string>
-    <string name="msg_search_on_net">在网络搜索</string>
-    <string name="msg_send_not_found">未找到发送按钮</string>
-    <string name="msg_search_on_store">在应用市场搜索</string>
+    <string name="cmd_description">Opis (15 riječi ili više)</string>
+    <string name="timer_run_title">Planirani zadaci</string>
+    <string name="msg_has_vip_timer_run">Korisnici besplatne verzije mogu dodati samo jedan planiran zadatak</string>
+    <string name="use_web_view_name_title">koristi web pregled</string>
+    <string name="use_web_view_name_summary">Linkovi će biti čitani poslije zatvaranja, čita poslije zatvaranja</string>
+    <string name="hour">sat</string>
+    <string name="min">minuta</string>
+    <string name="msg_result_empty">Nisam razumio što si rekao</string>
+    <string name="msg_calling">zovem</string>
+    <string name="msg_sended">poslano</string>
+    <string name="msg_add_error_has_lable">Ovaj čvor ima tekstualni opis, stoga ne treba dodavati oznaku</string>
+    <string name="msg_label_added">opisano</string>
+    <string name="msg_clicked">kliknuto</string>
+    <string name="msg_search_on_net">pretraga na internetu</string>
+    <string name="msg_send_not_found">Nije pronađen gumb pošalji</string>
+    <string name="msg_search_on_store">pretraži u trgovini play</string>
 
 </resources>
