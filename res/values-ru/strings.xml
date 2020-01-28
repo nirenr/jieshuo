@@ -10,7 +10,7 @@
         Расширения: установите расширения для улучшения функционала.\n
         Просмотр по символам, словам, абзацам... Всегда есть подходящий режим просмотра для ваших нужд.\n
         Быстрая и отзывчивая программа.\n
-        Установите звуковые темы, которые всегда будут радовать ваши уши.\n
+        Установите звуковые темы, которые всегда будут радовать ваш слух.\n
         Расширенные функции копирования, позволяют копировать именно то, что вам нужно.\n
         Контекстные жесты, обеспечивают гибкость.\n
         Переназначаемые жесты.\n
@@ -447,7 +447,7 @@
     <string name="lower_case_format_number2">%s，%d Буквы</string>
     <string name="upper_case_format_number2">Есть %s верхний регистр %d буквы</string>
 
-    <string name="use_slow_speed_title">Замедлять речь в режиме просмотра слов</string>
+    <string name="use_slow_speed_title">Замедлять речь в режиме редактирования текста.</string>
     <string name="has_vip_summary_gesture">Эти жесты нельзя настроить в бесплатной версии программы</string>
     <string name="message_has_vip_loop_click">Задержка кликов не поддерживается в бесплатной версии.</string>
 
@@ -882,12 +882,12 @@
     <string name="camera_top_move_near">Приблизить</string>
     <string name="camera_bottom_up">Вниз</string>
 
-    <string name="use_text_format_read_word_title">Прочитать примеры</string>
+    <string name="use_text_format_read_word_title">Произносить примеры слов.</string>
     <string name="restore">Восстановить</string>
     <string name="backup">резервное копирование</string>
     <string name="directory_camera">камера</string>
     <string name="game_mode_title">Игровой режим: </string>
-    <string name="game_mode_summary">Выберете приложения, при запуске которых, режим изучения касанием будет приостановлен).</string>
+    <string name="game_mode_summary">Выберете приложения, при запуске которых, режим "изучения касанием" будет приостановлен).</string>
     <string name="msg_backuped">Резервное копирование...</string>
     <string name="msg_items"> %d элементов.</string>
     <string name="msg_recognition_results">Результаты</string>
@@ -897,11 +897,11 @@
     <string name="manager_title">Управление</string>
     <string name="msg_battery_full">Аккумулятор заряжен.</string>
     <string name="invite_code">Код приглашения: </string>
-    <string name="msg_supper_mode">强力模式可以获得更多焦点内容</string>
-    <string name="msg_enabled_supper_mode">开启强力模式</string>
-    <string name="msg_disabled_supper_mode">关闭强力模式</string>
-    <string name="msg_enabled_supper_mode_error">Не удалось включить режим детальной навигации.</string>
-    <string name="msg_disabled_supper_mode_error">Не удалось отключить режим детальной навигации.</string>
+    <string name="msg_supper_mode">При включенном режиме больше контента может быть передано для чтения.</string>
+    <string name="msg_enabled_supper_mode">Режим усиленной фокусировки включен.</string>
+    <string name="msg_disabled_supper_mode">Режим усиленной фокусировки отключен.</string>
+    <string name="msg_enabled_supper_mode_error">Не удалось включить режим усиленной фокусировки.</string>
+    <string name="msg_disabled_supper_mode_error">Не удалось отключить режим усиленной фокусировки.</string>
     <string name="msg_backup_done">Резервная копия будет сохранена в папке "Резервные копии".</string>
     <string name="msg_restored">Восстановление завершено.</string>
     <string name="backup_done">Резервное копирование завершено</string>
