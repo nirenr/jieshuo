@@ -959,10 +959,10 @@
     <string name="ocr_baidu_secret_title">Секретный ключ</string>
     <string name="ocr_baidu_key_title">Ключ приложения</string>
     <string name="ocr_baidu_id_title">Идентификатор приложения</string>
-    <string name="ocr_baidu_setting">Распознавание "Baidu"</string>
+    <string name="ocr_baidu_setting">Настройки распознавания "Baidu"</string>
     <string name="use_ocr_baidu_title">Использовать "Baidu OCR".</string>
     <string name="use_ocr_baidu_summary">Вам нужно зарегистрироваться на "Baidu" по адресу: https://ai.baidu.com для получения API.</string>
-    <string name="use_ocr_baidu_help">Перейдите на https://ai.baidu.com и откройте API.</string>
+    <string name="use_ocr_baidu_help">Перейдите на https://ai.baidu.com и получите API-ключ.</string>
     <string name="ocr_setting">Настройки распознавания.</string>
     <string name="ocr_lang_title">Язык распознавания: </string>
     <string name="ocr_lang_summary">Работает только при использовании распознавания "Tencent".</string>
