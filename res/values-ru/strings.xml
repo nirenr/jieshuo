@@ -316,7 +316,7 @@
     <string name="async_tts_engine_title">Второй движок TTS</string>
     <string name="async_tts_engine_summary">Второй движок используется для чтения уведомлений или дополнительной информации. Выбор того же движка, что и основной, приведет к использованию только одного движка.</string>
     <string name="tts_engine_summary">Движок TTS используется для чтения контента. Если выбранный движок не работает, то будет использоваться первый доступный.</string>
-    <string name="timer_manager_title">Управление секундомером</string>
+    <string name="timer_manager_title">Сохраненные результаты замеров.</string>
     <string name="use_foreground_title">Использовать высокий приоритет запуска:</string>
     <string name="use_foreground_summary">Если screen reader часто замолкает, то рекомендуется установить этот флажок</string>
     <string name="use_speak_qq_changed_title">Автоматически читать сообщения чата QQ</string>
@@ -331,8 +331,8 @@
     <string name="questions_answers_title">Часто задаваемые вопросы</string>
     <string name="orientation_landscape">Пейзаж</string>
     <string name="orientation_portrait">Портрет</string>
-    <string name="use_alarm_title">Объявлять время: </string>
-    <string name="use_alarm_summary">Объявлять время в заданный интервал.</string>
+    <string name="use_alarm_title">Использовать говорящие часы.</string>
+    <string name="use_alarm_summary">Объявлять время через заданный интервал.</string>
     <string name="alarm_settings_title">Настройки часов</string>
     <string name="url_menu_title">Встроенные объекты</string>
     <string name="use_long_click_voice_input_title">Использовать голосовой ввод при длительном нажатии на текстовый редактор.</string>
@@ -380,9 +380,9 @@
     <string name="use_cloud_label_summary">Делитесь и загружайте пользовательские метки с сервера</string>
     <string name="directory_helper">Помощник</string>
     <string name="helper_manager_title">Расширенные настройки голосового помощника</string>
-    <string name="alarm_interval_title">Интервал</string>
-    <string name="use_timer_speak_title">Речевая подсказка секундомера</string>
-    <string name="use_timer_vibrate_title">Вибро подсказка секундомера</string>
+    <string name="alarm_interval_title">Интервал оповещений говорящих часов.</string>
+    <string name="use_timer_speak_title">Речевое оповещение секундомера о прошедшем времени.</string>
+    <string name="use_timer_vibrate_title">Вибро оповещение секундомера о прошедшем времени.</string>
     <string name="use_double_edge_gesture_title">Вызывать краевые меню смахиванием двумя пальцами.</string>
     <string name="use_raw_click_title">Использовать прямой клик вместо клика специальных возможностей</string>
     <string name="use_raw_click_summary">В Android 7 и выше эта функция может решить проблемы некоторых приложений, не реагирующих на ввод.</string>
@@ -390,7 +390,7 @@
     <string name="vip_qq_kefu_title">служба поддержки "Commentary screenreader"</string>
     <string name="vip_qq_kefu_summary">Консультирование, покупка, передача. Просим пройти сертификацию обслуживания клиентов.</string>
     <string name="use_speak_changed_window_title">Прочитать все содержимое окна при смене окна: </string>
-    <string name="use_timer_sound_title">Звуковая подсказка секундомера: </string>
+    <string name="use_timer_sound_title">Звуковое оповещение секундомера о прошедшем времени.: </string>
     <string name="timer_setting_title">Настройки говорящих часов и секундомера.</string>
     <string name="voice_cmd_setting_title">Настройки голосовых команд</string>
     <string name="directory_cmd">Пользовательские голосовые команды</string>
@@ -699,7 +699,7 @@
     <string name="command_to_next_control">Перейти к следующему элементу управления</string>
     <string name="system_tts_engine_title">Движок TTS</string>
     <string name="cancel">отменить</string>
-    <string name="timer_interval_title">Интервал напоминания</string>
+    <string name="timer_interval_title">Интервал оповещений секундомера.</string>
     <string name="gesture_help_title">Помощь по жестам</string>
     <string name="show_volume_ui_title">Отображение панели громкости системы при регулировании громкости</string>
     <string name="fingerprint_gesture_setting">Настройки жестов сканера отпечатков пальцев</string>
@@ -714,8 +714,8 @@
     <string name="navi">навигация</string>
     <string name="unknown_index_title">Прочитать номер немаркированного элемента управления: </string>
     <string name="unknown_index_summary">Прочитать порядковый номер выделенного элемента, даже если элемент не имеет метки или идентификатора.</string>
-    <string name="alarm_start_hour_title">Время начала объявления</string>
-    <string name="alarm_end_hour_title">Время окончания объявления</string>
+    <string name="alarm_start_hour_title">Время начала оповещений.</string>
+    <string name="alarm_end_hour_title">Время окончания оповещений.</string>
     <string name="command_virtual_navigation">Виртуальная навигация</string>
     <string name="voice_helper_use_click_title">Прямая активация упомянутого элемента.</string>
     <string name="voice_helper_use_app_title">Прямое открытие упомянутой программы</string>
