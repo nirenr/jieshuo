@@ -9,7 +9,7 @@
         Голосовой помощник: пользуйтесь телефоном, используя наш голосовой помощник.\n
         Расширения: установите расширения для улучшения функционала.\n
         Просмотр по символам, словам, абзацам... Всегда есть подходящий режим просмотра для ваших нужд.\n
-        Быстрая и отзывчивая программа.\n
+        Программа имеет быстрый отклик.\n
         Установите звуковые темы, которые всегда будут радовать ваш слух.\n
         Расширенные функции копирования, позволяют копировать именно то, что вам нужно.\n
         Контекстные жесты, обеспечивают гибкость.\n
@@ -22,7 +22,7 @@
         Молниеносное распознавание кода с картинки на основе искусственного интеллекта.\n
         Определяйте все, что перед вами: Люди, картины и предметы.\n
         Фильтрация веб-страниц: читайте веб-страницы с легкостью, без изображений и нарушения качества содержимого.\n
-        Скопируйте целый экран с легкостью.\n
+        Копируйте целый экран с легкостью.\n
         Режим чтения статей: автоматическое перелистывание страниц, фильтрация контента… \n
         Настраиваемые жесты для каждого приложения.
         Список избранного: доступ к любимому контенту в любом месте и в любое время.\n
@@ -110,7 +110,7 @@
     <string name="all_text_title">Полнотекстовый просмотр</string>
     <string name="use_touch_mode_title">Использовать режим изучения касанием (не отключайте, если у Вас полностью отсутствует зрение): </string>
     <string name="unknown_lable_title">Попробовать определить метку не подписанного элемента: </string>
-    <string name="action_setting_title">Настройка действий</string>
+    <string name="action_setting_title">Настройки действий.</string>
     <string name="use_single_tap_title">Использовать одно касание для активации: </string>
     <string name="use_up_tap_title">Поднять палец от объекта, чтобы активировать: </string>
     <string name="sound_volume_title">Громкость звуковой темы: </string>
@@ -132,7 +132,7 @@
     <string name="use_progress_title">Автоматическое чтение индикаторов выполнения: </string>
     <string name="use_scroll_list_index_title">Читать диапазон прокручиваемого списка: </string>
     <string name="use_content_changed_title">Сообщать о динамических изменениях содержимого: </string>
-    <string name="use_double_fling_title">Использовать комбинированные жесты: </string>
+    <string name="use_double_fling_title">Использовать составные жесты: </string>
     <string name="use_view_name_title">Читать текущее название элемента управления: </string>
     <string name="permissions_settings_title">Исправить разрешения</string>
     <string name="use_node_info_title">Читать информацию о текущем узле: </string>
@@ -247,7 +247,7 @@
     <string name="change_log_title">Журнал изменений</string>
     <string name="use_up_long_quick_menu_title">Отображать меню действий при длительном касании: </string>
     <string name="use_show_dis_enabled_quick_menu_title">отображать недоступные действия в быстром меню: </string>
-    <string name="voice_helper_setting_title">Настройка голосового помощника</string>
+    <string name="voice_helper_setting_title">Настройки голосового помощника.</string>
     <string name="voice_helper_copy_title">Автоматически копировать результаты перевода в буфер обмена: </string>
     <string name="trans_lang_from_title">Исходный язык: </string>
     <string name="use_pager_scroll_summary">Автоматическая прокрутка до следующей страницы, когда вы достигнете конца текущей</string>
@@ -274,14 +274,14 @@
     <string name="content_blacklist_summary">Фильтрация содержимого в черном списке для устранения неполадок с ошибками в фокусе</string>
     <string name="use_image_filter_summary">Фильтр изображений при просмотре веб-страниц</string>
     <string name="use_supper_filter_summary">Фильтровать не китайский контент.</string>
-    <string name="use_edge_gesture_title">Использовать постукивание по краям экрана: </string>
-    <string name="left_edge_gesture_title">Настройки левого края</string>
-    <string name="right_edge_gesture_title">Настройки правого края</string>
+    <string name="use_edge_gesture_title">Использовать краевые жесты: </string>
+    <string name="left_edge_gesture_title">Настройки левого края.</string>
+    <string name="right_edge_gesture_title">Настройки правого края.</string>
     <string name="right_edge_gesture_value_default">Недавние приложения</string>
     <string name="left_edge_gesture_value_default">Вернуться назад</string>
-    <string name="use_edge_gesture_summary">При постукивании по краю экрана, выполняется определенное действие. </string>
-    <string name="left_edge_gesture_summary">Настройка постукивания по левому краю.</string>
-    <string name="right_edge_gesture_summary">Настройка постукивания по правому краю.</string>
+    <string name="use_edge_gesture_summary">При горизонтальном смахивании, выполняемом от края экрана, будут выполняться определенные действия.</string>
+    <string name="left_edge_gesture_summary">Настройки быстрого смахивания от левого края.</string>
+    <string name="right_edge_gesture_summary">Настройки быстрого смахивания от правого края.</string>
     <string name="down_volume_key_value_default">голосовой помощник</string>
     <string name="down_volume_key_title">Зажмите и удерживайте клавишу уменьшения громкости</string>
     <string name="down_volume_key_summary">Настройка клавиши уменьшения громкости при длительном нажатии.</string>
@@ -296,8 +296,8 @@
     <string name="qq_group2_title">Официальная группа "Commentary Screenreader" в QQ.</string>
     <string name="right_long_edge_gesture_value_default">Панель уведомлений</string>
     <string name="left_long_edge_gesture_value_default">Домашний экран</string>
-    <string name="right_long_edge_gesture_title">Настройки смахивания по правому краю</string>
-    <string name="left_long_edge_gesture_title">Настройки смахивания по левому краю</string>
+    <string name="right_long_edge_gesture_title">Настройки смахивания от правого края.</string>
+    <string name="left_long_edge_gesture_title">Настройки смахивания от левого края.</string>
     <string name="left_long_edge_gesture_summary">Проведите вправо от левого края экрана</string>
     <string name="right_long_edge_gesture_summary">Проведите влево от правого края экрана.</string>
     <string name="use_up_long_quick_menu_summary">Использовать отображение меню ярлыков при длительном нажатии на выделенный элемент.</string>
@@ -316,14 +316,14 @@
     <string name="async_tts_engine_title">Второй движок TTS</string>
     <string name="async_tts_engine_summary">Второй движок используется для чтения уведомлений или дополнительной информации. Выбор того же движка, что и основной, приведет к использованию только одного движка.</string>
     <string name="tts_engine_summary">Движок TTS используется для чтения контента. Если выбранный движок не работает, то будет использоваться первый доступный.</string>
-    <string name="timer_manager_title">Управление таймером</string>
+    <string name="timer_manager_title">Управление секундомером</string>
     <string name="use_foreground_title">Использовать высокий приоритет запуска:</string>
     <string name="use_foreground_summary">Если screen reader часто замолкает, то рекомендуется установить этот флажок</string>
     <string name="use_speak_qq_changed_title">Автоматически читать сообщения чата QQ</string>
     <string name="use_speak_qq_changed_summary">Автоматически читать сообщения чата QQ.</string>
     <string name="left_button_default_value">Повесить трубку | отклонить | * смахните, чтобы отклонить вызовы *| завершить вызовы | повесить трубку | повесить трубку | завершить QQ звонки | завершить QQ звонки | перейти к предыдущему | предыдущая песня | навигация вверх | отменить &amp; Руки свободны</string>
     <string name="right_button_default_value">Ответ | * Смахните для ответа на звонки * | Руки свободны | динамик | Перейти к следующему | Следующая песня</string>
-    <string name="edge_gesture_title">Настройки постукиваний по краям</string>
+    <string name="edge_gesture_title">Настройки краевых жестов.</string>
     <string name="left_button_title">Быстрые действия левая кнопка</string>
     <string name="right_button_title">Быстрые действия правая кнопка</string>
     <string name="use_add_async_tts_title">Очередь уведомлений для чтения: </string>
@@ -332,8 +332,8 @@
     <string name="orientation_landscape">Пейзаж</string>
     <string name="orientation_portrait">Портрет</string>
     <string name="use_alarm_title">Объявлять время: </string>
-    <string name="use_alarm_summary">Объявлять указанное время.</string>
-    <string name="alarm_settings_title">Настройки будильника</string>
+    <string name="use_alarm_summary">Объявлять время в заданный интервал.</string>
+    <string name="alarm_settings_title">Настройки часов</string>
     <string name="url_menu_title">Встроенные объекты</string>
     <string name="use_long_click_voice_input_title">Использовать голосовой ввод при длительном нажатии на текстовый редактор.</string>
     <string name="voice_input_append_mode_title">Добавить текст в конец текстового редактора при использовании голосового ввода</string>
@@ -380,18 +380,18 @@
     <string name="use_cloud_label_summary">Делитесь и загружайте пользовательские метки с сервера</string>
     <string name="directory_helper">Помощник</string>
     <string name="helper_manager_title">Расширенные настройки голосового помощника</string>
-    <string name="alarm_interval_title">Интервал будильника</string>
-    <string name="use_timer_speak_title">Речевая подсказка таймера</string>
-    <string name="use_timer_vibrate_title">Вибро подсказка таймера</string>
-    <string name="use_double_edge_gesture_title">Использовать крайнее меню двумя пальцами</string>
+    <string name="alarm_interval_title">Интервал</string>
+    <string name="use_timer_speak_title">Речевая подсказка секундомера</string>
+    <string name="use_timer_vibrate_title">Вибро подсказка секундомера</string>
+    <string name="use_double_edge_gesture_title">Вызывать краевые меню смахиванием двумя пальцами.</string>
     <string name="use_raw_click_title">Использовать прямой клик вместо клика специальных возможностей</string>
     <string name="use_raw_click_summary">В Android 7 и выше эта функция может решить проблемы некоторых приложений, не реагирующих на ввод.</string>
     <string name="has_vip_summary">%s это доступно только для премиум-пользователей.</string>
     <string name="vip_qq_kefu_title">служба поддержки "Commentary screenreader"</string>
-    <string name="vip_qq_kefu_summary">Консультирование, покупка, передача. Просим пройти сертификацию обслуживания клиентов</string>
+    <string name="vip_qq_kefu_summary">Консультирование, покупка, передача. Просим пройти сертификацию обслуживания клиентов.</string>
     <string name="use_speak_changed_window_title">Прочитать все содержимое окна при смене окна: </string>
-    <string name="use_timer_sound_title">Звуковая подсказка таймера: </string>
-    <string name="timer_setting_title">Настройки таймера и говорящих часов.</string>
+    <string name="use_timer_sound_title">Звуковая подсказка секундомера: </string>
+    <string name="timer_setting_title">Настройки говорящих часов и секундомера.</string>
     <string name="voice_cmd_setting_title">Настройки голосовых команд</string>
     <string name="directory_cmd">Пользовательские голосовые команды</string>
     <string name="use_move_list_view_item_summary">Позволяет быстро перемещаться в списках</string>
@@ -424,7 +424,7 @@
     <string name="timer_date_format">yyyy.M.d. HH:mm.</string>
     <string name="to_all">%s до %s, всего элементов %s.</string>
     <string name="try_again">Пожалуйста, попробуйте еще раз</string>
-    <string name="timer_and_now_time">%s,сейчас %s</string>
+    <string name="timer_and_now_time">%s, сейчас %s.</string>
     <string name="edit">редактировать</string>
     <string name="edit_text_not_found">Текстовый редактор не найден</string>
     <string name="char_mode">Режим чтения по словам.</string>
@@ -454,8 +454,8 @@
     <string name="command_click">Нажатие</string>
     <string name="command_long_click">Долгое нажатие</string>
     <string name="command_unlock">Разблокировать</string>
-    <string name="command_start">Вверх</string>
-    <string name="command_end">Вниз</string>
+    <string name="command_start">Перейти к первому элементу на экране.</string>
+    <string name="command_end">Перейти к последнему элементу на экране.</string>
     <string name="command_nothing">Нет команды</string>
     <string name="command_sleep">Режим сна</string>
     <string name="command_send_log">Отправить логи</string>
@@ -469,24 +469,24 @@
     <string name="command_left_shortcut">Левый ярлык</string>
     <string name="command_right_shortcut">Правый ярлык</string>
     <string name="command_long_copy">Расширенное копирование текста</string>
-    <string name="command_my_location">моя позиция</string>
+    <string name="command_my_location">мое место положения.</string>
     <string name="command_where_i">Где я?</string>
-    <string name="command_current_location">текущая позиция</string>
+    <string name="command_current_location">Текущее местоположение.</string>
     <string name="command_verification">Код с картинки</string>
     <string name="command_verification2">Код с картинки</string>
     <string name="command_verification3">Код с картинки</string>
     <string name="feed_back_disabled">Голосовая обратная связь приостановлена</string>
     <string name="command_gesture_help">Описание жестов</string>
     <string name="command_gesture_help2">Помощь по жестам</string>
-    <string name="command_virtual_screen">Виртуальный экран</string>
+    <string name="command_virtual_screen">Виртуальный экран.</string>
     <string name="command_play_control">Управление воспроизведением</string>
     <string name="command_read_mode">Режим чтения</string>
-    <string name="command_verbatim_speak">Режим чтения по словам</string>
+    <string name="command_verbatim_speak">Произнести последнюю фразу по буквам.</string>
     <string name="command_verbatim_speak2">Режим чтения по словам</string>
-    <string name="command_to_previous_focus">Предыдущий элемент</string>
-    <string name="command_to_next_focus">Следующий элемент</string>
-    <string name="command_to_previous_page">Предыдущая страница</string>
-    <string name="command_to_next_page">Следующая страница</string>
+    <string name="command_to_previous_focus">Перейти к предыдущему элементу.</string>
+    <string name="command_to_next_focus">Перейти к следующему элементу.</string>
+    <string name="command_to_previous_page">Перейти к предыдущей странице.</string>
+    <string name="command_to_next_page">Перейти к следующей странице.</string>
     <string name="command_to_previous_scroll">Прокрутить вверх</string>
     <string name="command_to_next_scroll">Прокрутить вниз</string>
     <string name="command_to_previous_progress">Ползунок уменьшения</string>
@@ -494,8 +494,8 @@
     <string name="command_lower_volume">Уменьшить громкость</string>
     <string name="command_raise_volume">Увеличить громкость</string>
     <string name="command_now_time">Текущее время</string>
-    <string name="command_timer_mode">таймер</string>
-    <string name="command_timer_start">запустить таймер</string>
+    <string name="command_timer_mode">секундомер</string>
+    <string name="command_timer_start">запустить секундомер</string>
     <string name="command_quick_mode">Быстрый просмотр</string>
     <string name="command_auto_next">Автоматический просмотр</string>
     <string name="command_auto_speak">Автоматическое чтение</string>
@@ -513,7 +513,7 @@
 
     <string name="click_to_enabled">Исследование экрана возобновлено.</string>
     <string name="touch_mode_disabled">Изучение касанием было приостановлено.</string>
-    <string name="node_mode">Обзор узла</string>
+    <string name="node_mode">Режим узла</string>
     <string name="ignore_battery">Пожалуйста, разрешите приложению игнорировать настройки оптимизации батареи.</string>
     <string name="overlay_window">Пожалуйста, включите картинку в картинке.</string>
     <string name="opened"> Включено</string>
@@ -553,7 +553,7 @@
     <string name="message_enabled_read_mode">Выход из режима чтения</string>
     <string name="message_long_copyed">Скопировано всего %d элементов.</string>
     <string name="message_read_mode_enabled">Вход в режим чтения</string>
-     <string name="message_timer_mode_enabled">Таймер запущен</string>
+     <string name="message_timer_mode_enabled">Секундомер запущен</string>
     <string name="message_clean">Текстовый редактор очищен</string>
     <string name="message_clean_error">Ошибка очистки</string>
     <string name="message_edit_text_not_found">Текстовое поле не найдено</string>
@@ -572,7 +572,7 @@
     <string name="shake_action_sens_title">Чувствительность встряхивания: </string>
     <string name="shake_action_call_title">Встряхнуть, чтобы ответить на звонок: </string>
     <string name="message_no_thing">Нет контента</string>
-    <string name="double_fling_setting">Настройки жестов из нескольких частей</string>
+    <string name="double_fling_setting">Настройки составных жестов.</string>
 
     <string name="command_off_screen">Экран блокировки</string>
     <string name="command_lock">Экран блокировки</string>
@@ -585,9 +585,9 @@
     <string name="command_clean">Очистить текущее текстовое поле</string>
     <string name="command_select">Меню выбора</string>
     <string name="command_notification_box">Окно уведомлений</string>
-    <string name="command_up_tap">Коснитесь "поднимите вверх, чтобы активировать"</string>
+    <string name="command_up_tap">Активация элементов по отрыву пальца.</string>
     <string name="command_tap_mode">Коснитесь, чтобы переключить фокус...</string>
-    <string name="command_node_mode">Переключение режима просмотра узлов</string>
+    <string name="command_node_mode">Режим просмотра узлов.</string>
     <string name="command_to_home">Домашний экран</string>
     <string name="command_to_back">Вернуться назад</string>
     <string name="command_long_edit">Расширенное редактирование текста</string>
@@ -595,7 +595,7 @@
     <string name="command_all_speak2">Читать все</string>
     <string name="command_all_select">Выбрать все</string>
     <string name="command_voice_helper">голосовой помощник</string>
-    <string name="command_voice_input">Диктовка голосом</string>
+    <string name="command_voice_input">Голосовой ввод.</string>
     <string name="command_ocr">Распознать изображение</string>
     <string name="command_ocr_text">Распознать текст</string>
     <string name="camera_title">Jieshuo камера</string>
@@ -610,7 +610,7 @@
 
     <string name="clipboard">буфер обмена</string>
     <string name="favorites">Избранные</string>
-    <string name="input_method">Метод ввода</string>
+    <string name="input_method">Открыть панель поиска.</string>
     <string name="main_menu">Главное меню</string>
     <string name="auto_read">Автоматическое чтение</string>
     <string name="list_mode_title">Просмотр списка</string>
@@ -714,21 +714,21 @@
     <string name="navi">навигация</string>
     <string name="unknown_index_title">Прочитать номер немаркированного элемента управления: </string>
     <string name="unknown_index_summary">Прочитать порядковый номер выделенного элемента, даже если элемент не имеет метки или идентификатора.</string>
-    <string name="alarm_start_hour_title">Время начала будильника</string>
-    <string name="alarm_end_hour_title">Время окончания будильника</string>
+    <string name="alarm_start_hour_title">Время начала объявления</string>
+    <string name="alarm_end_hour_title">Время окончания объявления</string>
     <string name="command_virtual_navigation">Виртуальная навигация</string>
     <string name="voice_helper_use_click_title">Прямая активация упомянутого элемента.</string>
     <string name="voice_helper_use_app_title">Прямое открытие упомянутой программы</string>
     <string name="voice_helper_use_app_summary">Вы можете открыть данную программу, просто сказав ее название. Если эта опция отключена, скажите «Открыть название программы», чтобы открыть ее.</string>
     <string name="voice_helper_use_click_summary">Вы можете использовать название элемента, чтобы активировать его. Если эта опция отключена, скажите «активировать название элемента», чтобы активировать данный элемент.</string>
-    <string name="edge_gesture_width_title">Диапазон триггеров жестов: </string>
-    <string name="use_double_edge_gesture_summary">Пользовательские функции, которые используются краевыми жестами, недоступны в крайнем меню.</string>
+    <string name="edge_gesture_width_title">Размер области активации краевых жестов: </string>
+    <string name="use_double_edge_gesture_summary">Пользовательские функции, которые используются краевыми жестами, недоступны в этом меню.</string>
     <string name="left_edge_gesture_items_title">Настроить левое меню</string>
     <string name="right_edge_gesture_items_title">Настроить правое меню</string>
     <string name="multi_menu_items_title">Настроить меню из нескольких столбцов</string>
     <string name="main_menu_items_title">Настроить главное меню</string>
     <string name="use_edge_gesture_menu_title">Использовать экранное меню: </string>
-    <string name="use_left_edge_gesture_quick_menu_title">Использовать контекстное меню одного приложения в левом меню</string>
+    <string name="use_left_edge_gesture_quick_menu_title">Использовать контекстное левое краевое меню. Доступные действия зависят от открытого приложения.</string>
     <string name="use_small_filter_title">Фильтровать ненужные элементы: </string>
     <string name="jieshuo_bbs_summary">Поделитесь своим мнением о Commentary Screenreader на нашем форуме</string>
     <string name="voice_recognizer_title">Движок распознавания: </string>
@@ -747,8 +747,8 @@
     <string name="error">ошибка</string>
     <string name="login_done">Авторизация выполнена</string>
     <string name="sign_done">Регистрация выполнена</string>
-    <string name="directory_timer">таймер</string>
-    <string name="timer_tags_items_title">Управление метками таймера</string>
+    <string name="directory_timer">секундомер</string>
+    <string name="timer_tags_items_title">Управление метками секундомера</string>
     <string name="value_none">Ничего</string>
     <string name="msg_deleted">%s удалено</string>
     <string name="tts_echo_voice_settings_title">Настройки эхо TTS</string>
@@ -863,7 +863,7 @@
     <string name="no_vip">Вы пользуетесь бесплатной версией программы.</string>
     <string name="need_vip">Если у вас есть желание купить программу, то пожалуйста, свяжитесь со службой поддержки.</string>
     <string name="check_read_phone_state_permission">проверить разрешение на чтение состояния телефона</string>
-    <string name="message_timer_mode_disabled">Таймер остановлен, %s, сейчас %s</string>
+    <string name="message_timer_mode_disabled">Секундомер остановлен, %s, сейчас %s</string>
 
     <string name="camera_right_up">Вправо вверх</string>
     <string name="camera_left_up">Влево вверх</string>
@@ -909,7 +909,7 @@
     <string name="msg_sounds_empty">Звуковые темы отсутствуют.</string>
     <string name="msg_clipboards_empty">Буфер обмена пуст.</string>
     <string name="msg_favorites_empty">Список избранного пуст.</string>
-    <string name="msg_timers_empty">Таймер пуст.</string>
+    <string name="msg_timers_empty">Секундомер пуст.</string>
     <string name="msg_plugins_empty">Плагины отсутствуют.</string>
     <string name="msg_tools_empty">Инструменты отсутствуют.</string>
     <string name="msg_labels_empty">Метки отсутствуют.</string>
@@ -946,8 +946,8 @@
     <string name="cloud_restore_clipboard_title">Восстановление истории буфера обмена из резервной копии на облачном хранилище.</string>
     <string name="cloud_backup_favorites_title">Резервное копирование избранного на облачное хранилище.</string>
     <string name="cloud_restore_favorites_title">Восстановление избранного из резервной копии на облачном хранилище.</string>
-    <string name="cloud_backup_timer_title">Резервное копирование таймеров на облачное хранилище.</string>
-    <string name="cloud_restore_timer_title">Восстановление таймера из резервной копии на облачном хранилище.</string>
+    <string name="cloud_backup_timer_title">Резервное копирование меток секундомера на облачное хранилище.</string>
+    <string name="cloud_restore_timer_title">Восстановление меток секундомера из резервной копии на облачном хранилище.</string>
     <string name="cloud_backup_label_title">Резервное копирование пользовательских меток на облачное хранилище.</string>
     <string name="cloud_restore_label_title">Восстановление пользовательских меток из резервной копии на облачном хранилище.</string>
     <string name="cloud_backup_gesture_title">Резервное копирование пользовательских жестов на облачное хранилище.</string>
