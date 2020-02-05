@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Commentary Screenreader</string>
-    <string name="accessibility_service_description">Commentary Screenreader je revolučný odčítač obrazovky, ktorý pomáha nevidiacim efektívne používať mobilné telefóny. Vytvorili sme niekoľko zásadných inovácií. Pre viac informácií prejdite na nastavenia \\ sekcia pomocník. \ N Niektoré funkcie niesú dostupné, pokiaľ si nezakúpite plnú verziu odčítača. Podrobné informácie o zakúpení licencie získate prostredníctvom technickej podpory v oficiálnej skupine QQ. \ N \ n Funkcie: \ n Hlasový asistent: používajte telefón bez toho, aby ste sa ho museli dotýkať.\ N Rozšírenia (pluginy): inštalácia rozšírení na dodatočné funkcie odčítača, ktoré možnosti použitelnosti ďalej rozširujú. \ N Text je možné prechádzať po znakoch, slovách prípadne odstavcoch. ... Vždy si môžete vybrať režim prehľadania, ktorý priamo vyhovuje vašim potrebám. \ n Program je rýchly a má bleskovú odozvu. \ n Nainštalujte si zvukové schémy, ktoré vždy ulahodia vašim ušiam. \ n Pokročilé funkcie kopírovania, ktoré umožňujú kopírovať presne to, čo v danom momente požadujete. \ n definovatelné gestá umožňujúce extrémnu flexibilitu. \ n Používateľské gestá. \ n Flexibilné nastavenia oznámení. Nikdy vám nebudú prichádzať upozornenia, o ktoré momentálne nemáte záujem.\ N \ n Prvotriedne funkcie: \ n Virtuálna obrazovka slúži na pohyb v bežne neprístupných aplikáciách, ktorá vám otvára nový svět. \ N Automatické rozpoznávanie OCR: identifikácia obrázkov, čítanie textu jednoducho a rýchlo. \ n Bleskové rozpoznávanie CAPTCHA založené na umelej inteligencii. \ n Identifikujte všetko, čo je pred vami. Ľudí, scény a objekty. \ N Filtrovanie obsahu webových stránok: plynulé čítanie webových stránok bez obrázkov a ďalšieho rušivého obsahu. \ N Jednoduché kopírovanie celých obrazoviek. \ N Režim čítania článkov: automatické rolovanie stránok, filtrovanie obsahu ... \ n Upravitelné gestá v rámci konkrétnych aplikácií. Zoznam obľubených: máte prístup k svojmu obľúbenému obsahu kdekoľvek a kedykoľvek. \ N Rýchle úpravy: jednoducho nájdete větu, slovo, alebo odstavec, ktorý chcete upraviť. \ N Pokročilý výber textu: podľa slova, vety, odstavca. Vyberte presne požadovaný text. \ N Vykonávajte rozličné operácie pomocou definovateľných hlasových pokynov. \ N Automatické spúšťanie pluginov máte okamžitý prístup k vašim obľúbeným rozšíreniam. \ N Commentary je váš takmer neobmedzene konfigurovatelný a flexibilní odčítač obrazovky!</string>
+    <string name="accessibility_service_description">Commentary Screenreader je revolučný čítač obrazovky, ktorý pomáha nevidiacim efektívne používať mobilné telefóny. Vytvorili sme niekoľko zásadných inovácií. Pre viac informácií prejdite na nastavenia \\ sekcia pomocník.\n Niektoré funkcie niesú dostupné, pokiaľ si nezakúpite plnú verziu programu. Podrobné informácie o zakúpení licencie získate prostredníctvom technickej podpory v oficiálnej skupine QQ. \n \n Funkcie: \n Hlasový asistent: používajte telefón bez toho, aby ste sa ho museli dotýkať.\n Rozšírenia (pluginy): inštalácia rozšírení na dodatočné funkcie čítača, ktoré možnosti použitelnosti ďalej rozširujú.\n Text je možné prechádzať po znakoch, slovách prípadne odstavcoch. ... Vždy si môžete vybrať režim prehľadania, ktorý priamo vyhovuje vašim potrebám.\n Program je rýchly a má bleskovú odozvu.\n Nainštalujte si zvukové schémy, ktoré vždy ulahodia vašim ušiam.\n Pokročilé funkcie kopírovania, ktoré umožňujú kopírovať presne to, čo v danom momente požadujete.\n definovatelné gestá umožňujúce extrémnu flexibilitu.\n Používateľské gestá.\n Flexibilné nastavenia oznámení. Nikdy vám nebudú prichádzať upozornenia, o ktoré momentálne nemáte záujem.\n\n Prvotriedne funkcie:\n Virtuálna obrazovka slúži na pohyb v bežne neprístupných aplikáciách, ktorá vám otvára nový svět. \n Automatické rozpoznávanie OCR: identifikácia obrázkov, čítanie textu jednoducho a rýchlo.\n Bleskové rozpoznávanie CAPTCHA založené na umelej inteligencii.\n Identifikujte všetko, čo je pred vami. Ľudí, scény a objekty.\n Filtrovanie obsahu webových stránok: plynulé čítanie webových stránok bez obrázkov a ďalšieho rušivého obsahu.\n Jednoduché kopírovanie celých obrazoviek.\n Režim čítania článkov: automatické rolovanie stránok, filtrovanie obsahu ...\n Upravitelné gestá v rámci konkrétnych aplikácií. Zoznam obľubených: máte prístup k svojmu obľúbenému obsahu kdekoľvek a kedykoľvek.\n Rýchle úpravy: jednoducho nájdete větu, slovo, alebo odstavec, ktorý chcete upraviť.\n Pokročilý výber textu: podľa slova, vety, odstavca. Vyberte presne požadovaný text.\n Vykonávajte rozličné operácie pomocou definovateľných hlasových pokynov.\n Automatické spúšťanie pluginov máte okamžitý prístup k vašim obľúbeným rozšíreniam.\n Commentary je váš takmer neobmedzene konfigurovatelný a flexibilní čítač obrazovky!</string>
     <string name="about_title">Hebei Biyou Technology Co., Ltd.</string>
     <string name="help_feed_summary">Commentary Screenreader využíva niektoré technológie tretích strán: Tencent AI, Baidu AI, Baidu TTS, Baidu Translator, Baidu MTS, Andro LUA Plus a mnohé ďalšie.</string>
     <string name="menu_title">Menu</string>
@@ -10,7 +10,7 @@
     <string name="usage_hints_title">Vyslovovať tipy na použitie</string>
     <string name="usage_hints_summary">Počas používania konkrétnej aplikácie budete počuť tipy na použitie</string>
     <string name="vibrate_title">Vybračná odozva</string>
-    <string name="vibrate_summary">Používať vibračnú odozvu pri práci s odčítačom</string>
+    <string name="vibrate_summary">Používať vibračnú odozvu pri práci s čítačom</string>
     <string name="use_proixmity_sensor_title">Použiť snímač priblíženia</string>
     <string name="use_proixmity_sensor_summary">Zastaviť čítanie, akonáhle sa dotknete snímača priblíženia</string>
     <string name="screen_off_speak_title">Vyslovovať oznámenia na zamknutej obrazovke</string>
@@ -66,9 +66,9 @@
     <string name="use_single_tap_title">Aktivácia jedným kliknutím</string>
     <string name="use_up_tap_title">Zdvyhnite prst na aktiváciu</string>
     <string name="sound_volume_title">Hlasitosť zvuku</string>
-    <string name="notification_bar_speak_title">Ohlasovať oznámenia z notifikačného panelu</string>
+    <string name="notification_bar_speak_title">Ohlasovať oznámenia z notifikačného panela</string>
     <string name="notification_toast_speak_title">Čítať vyskakovacie notifikácie</string>
-    <string name="notification_announcement_speak_title">Ohlasovať notifikácie odčítača</string>
+    <string name="notification_announcement_speak_title">Ohlasovať notifikácie čítača</string>
     <string name="notification_settings_title">Nastavenia oznámení</string>
     <string name="help_feed_title">Pomocník a zpätná väzba</string>
     <string name="advanced_setting_title">Pokročilé nastavenia</string>
@@ -84,7 +84,7 @@
     <string name="use_progress_title">Automatické oznamovanie indikátoru priebehu:</string>
     <string name="use_scroll_list_index_title">Hlásiť počet položiek aktuálne rolovaného zoznamu</string>
     <string name="use_content_changed_title">Hlásiť dynamicky menený obsah</string>
-    <string name="use_double_fling_title">Používať viacdielne gestá</string>
+    <string name="use_double_fling_title">Používať zložené gestá</string>
     <string name="use_view_name_title">Vyslovovať názov aktuálně zameraného ovládacieho prvku</string>
     <string name="permissions_settings_title">Editovať oprávnenia</string>
     <string name="use_node_info_title">Hlásiť informácie o aktuálnom objekte</string>
@@ -99,7 +99,7 @@
     <string name="menu_manager_title">Spravovať hlavné menu</string>
     <string name="menu_up_tap_title">Aktivovať položky ponuky zdvyhnutím prstu</string>
     <string name="navigation_up_tap_title">Aktivovať navigačné tlačidlá zdvyhnutím prstu</string>
-    <string name="only_notification_title">Povoliť obnovenie funkčnosti odčítača iba cez panel oznámení</string>
+    <string name="only_notification_title">Povoliť obnovenie funkčnosti čítača iba cez panel oznámení</string>
     <string name="send_log_title">Odoslať logovacie záznamy</string>
     <string name="long_click_title">Časové oneskorenie dotyku a pridržania</string>
     <string name="long_click_summary">Časový úsek, po ktorom je aktivovaná funkcia dlhého kliknutia</string>
@@ -150,7 +150,7 @@
     <string name="tool_manager_title">Spravovať nástroje</string>
     <string name="message_load_error">Počas importovania nastala chyba.</string>
     <string name="manager_activity_title">Spravovať zdroje</string>
-    <string name="use_headset_key_title">Používať tlačidlá náhlavnej súpravy na ovládanie odčítača</string>
+    <string name="use_headset_key_title">Používať tlačidlá náhlavnej súpravy na ovládanie čítača</string>
     <string name="use_wake_lock_title">Udržovať obrazovku rozsvietenú</string>
     <string name="user_settings_title">Používateľské centrum</string>
     <string name="user_name_title">Používateľské meno</string>
@@ -218,8 +218,8 @@
     <string name="use_node_info_summary">Hlásiť doplňujúce informácie o aktuálne zameranom objekte v režime prechádzania</string>
     <string name="use_list_item_index_summary">Hlásiť index aktuálne zameranej položky zoznamu</string>
     <string name="use_scroll_list_index_summary">Počas rolovania hlásiť rozsah položiek zoznamu</string>
-    <string name="use_view_name_index_summary">Hlásiť typ a názov aktuálneho prvku, pokiaľ názov nie je  k dispozícií, odčítač obrazovky sa ho pokúsi odhadnúť.</string>
-    <string name="unknown_lable_summary">Pokiaľ sa názov prvku nedá získať, odčítač vysloví jeho ID.</string>
+    <string name="use_view_name_index_summary">Hlásiť typ a názov aktuálneho prvku, pokiaľ názov nie je  k dispozícií, čítač obrazovky sa ho pokúsi odhadnúť.</string>
+    <string name="unknown_lable_summary">Pokiaľ sa názov prvku nedá získať, čítač vysloví jeho ID.</string>
     <string name="use_progress_summary">Automaticky oznamovať indikátor priebehu, ak získa fokus</string>
     <string name="use_content_changed_summary">Automaticky oznamovať aktuálne zameranú položku</string>
     <string name="use_content_tree_changed_summary">Automaticky hlásiť zmeny v aktuálnom okne</string>
@@ -308,13 +308,13 @@
     <string name="use_volume_key_move_text_title">Používať tlačidlá hlasitosti na pohyb kurzoru v režime úprav</string>
     <string name="user_text">používateľské meno: 5 až 15 latinských znakov</string>
     <string name="pass_text">Heslo: 6 až 15 latinských znakov.</string>
-    <string name="current_text">%d z%d zadaných znakov</string>
+    <string name="current_text" formatted="false">%d z %d zadaných znakov</string>
     <string name="user_id_text">Identifikátor používateľa</string>
     <string name="screen_on_off_settings_title">Oznamovať stav obrazovky</string>
     <string name="use_screen_on_speak_title">Oznámenie odomknutia obrazovky</string>
     <string name="use_screen_off_speak_title">Oznámenie uzamknutia obrazovky</string>
     <string name="use_accessibility_volume_title">Použiť hlasitosť zjednodušenia</string>
-    <string name="use_accessibility_volume_summary">Hlasitosť odčítača obrazovky bude ovládaná hlasitosťou zjednodušenia ovládania, nie hlasitosťou médií. Upozornenie! Podporovaný je iba systémový hlasový výstup.</string>
+    <string name="use_accessibility_volume_summary">Hlasitosť čítača obrazovky bude ovládaná hlasitosťou zjednodušenia ovládania, nie hlasitosťou médií. Upozornenie! Podporovaný je iba systémový hlasový výstup.</string>
     <string name="value_stream_accessibility">Zjednodušenie</string>
     <string name="left_right_gesture_title">Nastavenie alternatívných gest</string>
     <string name="use_move_list_view_item_title">Rýchle švihanie vľavo/vpravo umožňuje rýchly pohyb medzi položkami zoznamu</string>
@@ -368,13 +368,13 @@
     <string name="notification_select_title">Nastavenia oznamovania notifikácií</string>
     <string name="message_disable_dim_screen">Najprv prosím zakážte stlmenie obrazovky</string>
     <string name="start_long_copy">Pokročilé kopírovanie začalo</string>
-    <string name="runnimg_background">Spustiť odčítač na pozadí</string>
+    <string name="runnimg_background">Spustiť čítač na pozadí</string>
     <string name="description">Popis</string>
     <string name="gestures_description_not_found">Súbor s pomocníkom pre gestá nebol nájdený</string>
     <string name="timer_date_format">yyyy.M.d. HH:mm.</string>
-    <string name="to_all">%s až%s, celkom%s.</string>
+    <string name="to_all" formatted="false">%s až %s, celkom %s.</string>
     <string name="try_again">Prosím skúste to znovu</string>
-    <string name="timer_and_now_time">%s, je aktuálne%s</string>
+    <string name="timer_and_now_time" formatted="false">%s, je aktuálne %s</string>
     <string name="edit">Upraviť</string>
     <string name="edit_text_not_found">Textové pole nebolo nájdené</string>
     <string name="char_mode">Režim úprav</string>
@@ -385,15 +385,15 @@
     <string name="text_format_settings_title">Nastavenie slovníka</string>
     <string name="use_text_format_first_title">Najskôr prečítať text v režime pomocníka</string>
     <string name="use_text_format_char_number_title">Oznamovať reťazce znakov jednotlivo</string>
-    <string name="lower_case_format">%s malé%s</string>
-    <string name="upper_case_format">%s veľké%s</string>
-    <string name="lower_case_format_number">%s ， malé písmená%s ，%d písmená</string>
-    <string name="upper_case_format_number">%s ， veľké písmená%s ，%d písmená</string>
-    <string name="lower_case_format2">%s</string>
-    <string name="upper_case_format2">Veľké %s</string>
-    <string name="upper_case_format3">%s Veľké</string>
-    <string name="lower_case_format_number2">%s ，%d písmená</string>
-    <string name="upper_case_format_number2">Existujú%s veľké písmená%d</string>
+    <string name="lower_case_format" formatted="false">%s malé %s</string>
+    <string name="upper_case_format" formatted="false">%s veľké %s</string>
+    <string name="lower_case_format_number" formatted="false">%s ， malé písmená %s ， %d písmená</string>
+    <string name="upper_case_format_number" formatted="false">%s ， veľké písmená %s ， %d písmená</string>
+    <string name="lower_case_format2" formatted="false">%s</string>
+    <string name="upper_case_format2" formatted="false">Veľké %s</string>
+    <string name="upper_case_format3" formatted="false">%s Veľké</string>
+    <string name="lower_case_format_number2" formatted="false">%s ， %d písmená</string>
+    <string name="upper_case_format_number2" formatted="false">Existujú %s veľké písmená %d</string>
     <string name="use_slow_speed_title">Zpomaliť reč v režime úprav</string>
     <string name="has_vip_summary_gesture">V bezplatnej verzií nemôžu byť tieto gestá upravované</string>
     <string name="message_has_vip_loop_click">V bezplatnej verzií niesu podporované oneskorené kliknutia.</string>
@@ -463,7 +463,7 @@
     <string name="closed">Vypnuté</string>
     <string name="checked">Zaškrtnuté</string>
     <string name="unchecked">Nezaškrtnuté</string>
-    <string name="page_from_to">Strana %d of %d</string>
+    <string name="page_from_to" formatted="false">Strana %d z %d</string>
     <string name="done">Operácia dokončená</string>
     <string name="error_try_again">Vyskytla sa chyba. Prosím, skúste opakovať neskôr.</string>
     <string name="swipe_right">Švihnite vpravo</string>
@@ -471,8 +471,8 @@
     <string name="long_clicked">Dlhé stlačenie</string>
     <string name="notification_from">Nové oznámenie od %s</string>
     <string name="progress">Priebeh: %d</string>
-    <string name="item_current_count">%d z %d</string>
-    <string name="item_from_to_count">Zobrazujem položky %d až %d z %d</string>
+    <string name="item_current_count" formatted="false">%d z %d</string>
+    <string name="item_from_to_count" formatted="false">Zobrazujem položky %d až %d z %d</string>
     <string name="point">Odrážka</string>
     <string name="selected">Vybraté</string>
     <string name="disabled">Nedostupné</string>
@@ -555,46 +555,46 @@
     <string name="double_fling_up_gesture_title">Nastavenie pre švihnutie nahor</string>
     <string name="double_fling_right_gesture_title">Nastavenie pre švihnutie vpravo</string>
     <string name="double_fling_down_gesture_title">Nastavenie pre švihnutie dole</string>
-    <string name="down_right_double_fling_setting">Nastavenie pre viacdielne gesto dole a vpravo</string>
+    <string name="down_right_double_fling_setting">Nastavenie pre zložené gesto dole a vpravo</string>
     <string name="down_right_double_fling_left_gesture_value_default">späť</string>
     <string name="down_right_double_fling_up_gesture_value_default">Domovská obrazovka</string>
     <string name="down_right_double_fling_right_gesture_value_default">Kliknutie</string>
     <string name="down_right_double_fling_down_gesture_value_default">Panel upozornení</string>
-    <string name="down_left_double_fling_setting">Nastavenie pre viacdielne gesto dole a vľavo</string>
+    <string name="down_left_double_fling_setting">Nastavenie pre zložené gesto dole a vľavo</string>
     <string name="down_left_double_fling_left_gesture_value_default">@string/command_copy</string>
     <string name="down_left_double_fling_up_gesture_value_default">@string/command_paste</string>
     <string name="down_left_double_fling_right_gesture_value_default">@string/command_append_copy</string>
     <string name="down_left_double_fling_down_gesture_value_default">@string/command_long_copy</string>
-    <string name="use_down_right_double_fling_gesture_title">Použiť viacdielne gesto dole a vpravo</string>
-    <string name="use_down_left_double_fling_gesture_title">Použiť viacdielne gesto dole a vľavo</string>
-    <string name="right_double_fling_setting">Nastavenie pre dvojité viacdielne pravé gesto</string>
-    <string name="use_right_double_fling_gesture_title">Použiť dvojité pravé viacdielne gesto</string>
-    <string name="left_double_fling_setting">Nastavenie pre ľavé dvojité viacdielne gesto</string>
-    <string name="use_left_double_fling_gesture_title">Použiť dvojité ľavé viacdielne gesto</string>
-    <string name="up_double_fling_setting">Nastavenie pre dvojité horné viacdielne gesto</string>
-    <string name="use_up_double_fling_gesture_title">Použiť dvojité horné viacdielne gesto</string>
-    <string name="down_double_fling_setting">Nastavenie pre dvojité dolné viacdielne gesto</string>
-    <string name="use_down_double_fling_gesture_title">Použiť dvojité dolné viacdielne gesto</string>
-    <string name="up_left_double_fling_setting">Nastavenie pre dvojité viacdielne gesto hore a vľavo</string>
-    <string name="use_up_left_double_fling_gesture_title">Použiť dvojité viacdielne gesto hore a vľavo</string>
-    <string name="up_right_double_fling_setting">Nastavenie pre dvojité viacdielne gesto hore a vpravo</string>
-    <string name="use_up_right_double_fling_gesture_title">Použiť dvojité viacdielne gesto hore a vpravo</string>
-    <string name="right_left_double_fling_setting">Nastavenie pre dvojité viacdielne gesto vpravo a vľavo</string>
-    <string name="use_right_left_double_fling_gesture_title">Použiť dvojité viacdielne gesto vpravo a vľavo</string>
-    <string name="left_right_double_fling_setting">Nastavenie pre dvojité viacdielne gesto vľavo a vpravo</string>
-    <string name="use_left_right_double_fling_gesture_title">Použiť dvojité viacdielne gesto vľavo a vpravo</string>
-    <string name="up_down_double_fling_setting">Nastavenie pre dvojité viacdielne gesto hore a dole</string>
-    <string name="use_up_down_double_fling_gesture_title">Použiť dvojité viacdielne gesto hore a dole</string>
-    <string name="down_up_double_fling_setting">Nastavenie pre dvojité viacdielne gesto dole a hore</string>
-    <string name="use_down_up_double_fling_gesture_title">Použiť dvojité viacdielne gesto dole a hore</string>
-    <string name="left_down_double_fling_setting">Nastavenie pre dvojité viacdielne gesto vľavo a dole</string>
-    <string name="use_left_down_double_fling_gesture_title">Použiť dvojité viacdielne gesto vľavo a dole</string>
-    <string name="left_up_double_fling_setting">Nastavenie pre dvojité viacdielne gesto vľavo a hore</string>
-    <string name="use_left_up_double_fling_gesture_title">Použiť dvojité viacdielne gesto vľavo a hore</string>
-    <string name="right_down_double_fling_setting">Nastavenie pre dvojité viacdielne gesto vpravo a dole</string>
-    <string name="use_right_down_double_fling_gesture_title">Použiť dvojité viacdielne gesto vpravo a dole</string>
-    <string name="right_up_double_fling_setting">nastavenie pre Dvojité švihnutie vpravo a hore</string>
-    <string name="use_right_up_double_fling_gesture_title">Použiť dvojité viacdielne gesto vpravo a hore</string>
+    <string name="use_down_right_double_fling_gesture_title">Použiť zložené gesto dole a vpravo</string>
+    <string name="use_down_left_double_fling_gesture_title">Použiť zložené gesto dole a vľavo</string>
+    <string name="right_double_fling_setting">Nastavenie pre zložené pravé gesto</string>
+    <string name="use_right_double_fling_gesture_title">Použiť pravé zložené gesto</string>
+    <string name="left_double_fling_setting">Nastavenie pre ľavé zložené gesto</string>
+    <string name="use_left_double_fling_gesture_title">Použiť ľavé zložené gesto</string>
+    <string name="up_double_fling_setting">Nastavenie pre horné zložené gesto</string>
+    <string name="use_up_double_fling_gesture_title">Použiť horné zložené gesto</string>
+    <string name="down_double_fling_setting">Nastavenie pre dolné zložené gesto</string>
+    <string name="use_down_double_fling_gesture_title">Použiť dolné zložené gesto</string>
+    <string name="up_left_double_fling_setting">Nastavenie pre zložené gesto hore a vľavo</string>
+    <string name="use_up_left_double_fling_gesture_title">Použiť zložené gesto hore a vľavo</string>
+    <string name="up_right_double_fling_setting">Nastavenie pre zložené gesto hore a vpravo</string>
+    <string name="use_up_right_double_fling_gesture_title">Použiť zložené gesto hore a vpravo</string>
+    <string name="right_left_double_fling_setting">Nastavenie pre zložené gesto vpravo a vľavo</string>
+    <string name="use_right_left_double_fling_gesture_title">Použiť zložené gesto vpravo a vľavo</string>
+    <string name="left_right_double_fling_setting">Nastavenie pre zložené gesto vľavo a vpravo</string>
+    <string name="use_left_right_double_fling_gesture_title">Použiť zložené gesto vľavo a vpravo</string>
+    <string name="up_down_double_fling_setting">Nastavenie pre zložené gesto hore a dole</string>
+    <string name="use_up_down_double_fling_gesture_title">Použiť zložené gesto hore a dole</string>
+    <string name="down_up_double_fling_setting">Nastavenie pre zložené gesto dole a hore</string>
+    <string name="use_down_up_double_fling_gesture_title">Použiť zložené gesto dole a hore</string>
+    <string name="left_down_double_fling_setting">Nastavenie pre zložené gesto vľavo a dole</string>
+    <string name="use_left_down_double_fling_gesture_title">Použiť zložené gesto vľavo a dole</string>
+    <string name="left_up_double_fling_setting">Nastavenie pre zložené gesto vľavo a hore</string>
+    <string name="use_left_up_double_fling_gesture_title">Použiť zložené gesto vľavo a hore</string>
+    <string name="right_down_double_fling_setting">Nastavenie pre zložené gesto vpravo a dole</string>
+    <string name="use_right_down_double_fling_gesture_title">Použiť zložené gesto vpravo a dole</string>
+    <string name="right_up_double_fling_setting">nastavenie pre švihnutie vpravo a hore</string>
+    <string name="use_right_up_double_fling_gesture_title">Použiť zložené gesto vpravo a hore</string>
     <string name="command_speak">Čítať</string>
     <string name="command_intput">Vstup</string>
     <string name="app">Otvoriť aplikáciu</string>
@@ -637,7 +637,7 @@
     <string name="use_edge_gesture_menu_title">Použite ponuku na okraji obrazovky</string>
     <string name="use_left_edge_gesture_quick_menu_title">Jednoduchá miestna ponuka na ľavom okraji obrazovky</string>
     <string name="use_small_filter_title">Filtrovať nežiadúce položky</string>
-    <string name="jieshuo_bbs_summary">Zpätnú väzbu súvisiacu s odčítačom sdieľajte prosím na našom fóre</string>
+    <string name="jieshuo_bbs_summary">Zpätnú väzbu súvisiacu s čítačom sdieľajte prosím na našom fóre</string>
     <string name="voice_recognizer_title">Rozpoznávací nástroj</string>
     <string name="use_text_format_char_upper_title">Oznamovať veľké písmená</string>
     <string name="voice_helper_media_mute_mode_title">Stlmiť hlasitosť médií, keď je  aktívny hlasový asistent</string>
@@ -667,11 +667,11 @@
     <string name="date_format0">HH:00</string>
     <string name="more">Viac</string>
     <string name="add_label">Pridať štítok</string>
-    <string name="grid_item_current">Riadok %d, stĺpec %d.</string>
-    <string name="node_info_root">Koreňový objekt obsahuje%d vnorené objekty.</string>
-    <string name="node_info">Existujú%d vnorené objekty.</string>
+    <string name="grid_item_current" formatted="false">Riadok %d, stĺpec %d.</string>
+    <string name="node_info_root">Koreňový objekt obsahuje %d vnorených objektov.</string>
+    <string name="node_info">Existuje %d vnorených objektov.</string>
     <string name="node_info_none">Žiadne vnorené objekty.</string>
-    <string name="rating_current_count">Hodnotenie%d z%d hviezd.</string>
+    <string name="rating_current_count" formatted="false">Hodnotenie %d z %d hviezd.</string>
     <string name="date_format_sec">s\'sekúnd\'</string>
     <string name="date_format_min_sec">m\'minúty\'ss\'sekundy\'</string>
     <string name="date_format_hour_min">HH\'hodiny\'mm\'minúty\'</string>
@@ -729,7 +729,7 @@
     <string name="edit_button">Zadajte zoznam tlačidiel v rámci jedného riadku</string>
     <string name="use_upper_speak_title">Oznamovať veľké písmená počas navigácie pomocou klávesnice</string>
     <string name="system_voice_recognizer_title">Systém jspeech na rozpoznávanie reči</string>
-    <string name="system_voice_recognizer_summary">Nastavenie je platné iba v prípade, keď je rozpoznávanie reči prepnuté na systémový engine.</string>
+    <string name="system_voice_recognizer_summary">Nastavenie je platné iba v prípade, ak je rozpoznávanie reči prepnuté na systémový engine.</string>
     <string name="msg_no_found">Nenájdené</string>
     <string name="msg_canceled">Zrušené</string>
     <string name="voice_cmd_phone_to">Telefón na</string>
@@ -757,8 +757,8 @@
     <string name="msg_text_changed">Text zmenený</string>
     <string name="no_save">Nič na uloženie</string>
     <string name="use_web_type_move_title">Prechádzať web po jednotlivých ovládacích prvkoch</string>
-    <string name="pref_donate_alipay">Pošlite finančný dar prostredníctvom služby Alipay na podporu vývoja odčítača obrazovky</string>
-    <string name="pref_donate_paypal">Pošlite finančný dar prostredníctvom služby Paypal na podporu vývoja odčítača obrazovky</string>
+    <string name="pref_donate_alipay">Pošlite finančný dar prostredníctvom služby Alipay na podporu vývoja čítača obrazovky</string>
+    <string name="pref_donate_paypal">Pošlite finančný dar prostredníctvom služby Paypal na podporu vývoja čítača obrazovky</string>
     <string name="menu_settings_title">Nastavenia ponuky</string>
     <string name="directory_download">Download</string>
     <string name="msg_has_vip_split_edit">Bezplatná verzia neumožňuje upravovať viac ako sto znakov</string>
@@ -768,7 +768,7 @@
     <string name="no_vip">Doposiaľ ste si nezakúpili plnú verziu programu!</string>
     <string name="need_vip">Pokiaľ si chcete zakúpiť plnú verziu, kontaktujte prosím zákaznícku podporu.</string>
     <string name="check_read_phone_state_permission">Skontrolujte platnosť povolení</string>
-    <string name="message_timer_mode_disabled">Časovač zastavený,%s,aktuálne je %s</string>
+    <string name="message_timer_mode_disabled" formatted="false">Časovač zastavený, %s, aktuálne je %s</string>
     <string name="camera_right_up">Vpravo a hore</string>
     <string name="camera_left_up">Vľavo a hore</string>
     <string name="camera_hold_posture">zastabilizujte svoje aktuálne držanie tela</string>
@@ -812,7 +812,7 @@
     <string name="msg_sounds_empty">Priečinok zvukových schém je prázdny</string>
     <string name="msg_clipboards_empty">Priečinok schránky je prázdny</string>
     <string name="msg_favorites_empty">Priečinok obľúbené je prázdny</string>
-    <string name="msg_timers_empty">Priečinok časovače je prázdny</string>
+    <string name="msg_timers_empty">Priečinok časovača je prázdny</string>
     <string name="msg_plugins_empty">Priečinok pluginov je prázdny</string>
     <string name="msg_tools_empty">Priečinok nástrojov je prázdny</string>
     <string name="msg_labels_empty">Priečinok štítkov je prázdny</string>
@@ -865,8 +865,8 @@
     <string name="use_ocr_baidu_help">Prejdite na adresu https://ai.baidu.com a získajte platné dáta API</string>
     <string name="ocr_setting">Nastavenia OCR</string>
     <string name="ocr_lang_title">Jazyk rozpoznávania</string>
-    <string name="ocr_lang_summary">Platí len v prípade, keď je vybraná možnosť Tencent OCR</string>
-    <string name="ocr_baidu_summary">Platí len v prípade, keď je vybraná možnosť Baidu OCR</string>
+    <string name="ocr_lang_summary">Platí len v prípade, keď je vybratá možnosť Tencent OCR</string>
+    <string name="ocr_baidu_summary">Platí len v prípade, keď je vybratá možnosť Baidu OCR</string>
     <string name="add_from_focus_node">Pridať z aktuálne zameraného objektu</string>
     <string name="add_from_virtual_screen">Pridať z virtuálnej obrazovky</string>
     <string name="add_from_virtual_list">Pridať znaky rozpoznané funkciou OCR</string>
