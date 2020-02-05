@@ -235,9 +235,9 @@
     <string name="left_edge_gesture_summary">Nadefinovat příkaz pro levé okrajové gesto</string>
     <string name="right_edge_gesture_summary">Nadefinovat příkaz pro pravé okrajové gesto.</string>
     <string name="down_volume_key_value_default">Hlasový asistent</string>
-    <string name="down_volume_key_title">Dlouze stiskněte dolní tlačítko ovládání hlasitosti</string>
+    <string name="down_volume_key_title">Dlouhý stisk tlačítka volume mínus</string>
     <string name="down_volume_key_summary">Přizpůsobte si funkci dolního tlačítka ovládání hlasitosti</string>
-    <string name="up_volume_key_title">Dlouze stiskněte horní tlačítko ovládání hlasitosti</string>
+    <string name="up_volume_key_title">Dlouhý stisk tlačítka volume plus</string>
     <string name="up_volume_key_summary">Přizpůsobte si funkci horního tlačítka ovládání hlasitosti</string>
     <string name="up_volume_key_value_default">Přepněte aktivaci zvednutím prstu</string>
     <string name="use_speak_call_phone_summary">Ohlašovat jméno a číslo volajícího při příchozím hovoru</string>
@@ -308,7 +308,7 @@
     <string name="use_volume_key_move_text_title">Používat tlačítka hlasitosti pro pohyb kurzoru v režimu editace</string>
     <string name="user_text">Uživatelské jméno: 5 až 15 latinských znaků</string>
     <string name="pass_text">Heslo: 6 až 15 latinských znaků.</string>
-    <string name="current_text">%d z%d zadaných znaků</string>
+    <string name="current_text" formatted="false">%d z%d zadaných znaků</string>
     <string name="user_id_text">Identifikátor uživatele</string>
     <string name="screen_on_off_settings_title">Ohlašovat stav obrazovky</string>
     <string name="use_screen_on_speak_title">Hlásit odemknutí obrazovky</string>
@@ -372,9 +372,9 @@
     <string name="description">Popis</string>
     <string name="gestures_description_not_found">Soubor s nápovědou pro gesta nebyl nalezen</string>
     <string name="timer_date_format">yyyy.M.d. HH:mm.</string>
-    <string name="to_all">%s až%s, celkem%s.</string>
+    <string name="to_all" formatted="false">%s až%s, celkem%s.</string>
     <string name="try_again">Prosím zkuste to znovu</string>
-    <string name="timer_and_now_time">%s, je právě%s</string>
+    <string name="timer_and_now_time" formatted="false">%s, je právě%s</string>
     <string name="edit">Upravit</string>
     <string name="edit_text_not_found">Textové pole nebylo nalezeno</string>
     <string name="char_mode">Režim editace</string>
@@ -385,15 +385,15 @@
     <string name="text_format_settings_title">Nastavení slovníku</string>
     <string name="use_text_format_first_title">Nejprve přečíst text v režimu nápovědy</string>
     <string name="use_text_format_char_number_title">Hlásit řetězce znaků jednotlivě</string>
-    <string name="lower_case_format">%s malé%s</string>
-    <string name="upper_case_format">%s velké%s</string>
-    <string name="lower_case_format_number">%s ， malá písmena%s ，%d písmena</string>
-    <string name="upper_case_format_number">%s ， velká písmena%s ，%d písmena</string>
-    <string name="lower_case_format2">%s</string>
-    <string name="upper_case_format2">Velká %s</string>
-    <string name="upper_case_format3">%s Velké</string>
-    <string name="lower_case_format_number2">%s ，%d písmena</string>
-    <string name="upper_case_format_number2">Existují%s velká písmena%d</string>
+    <string name="lower_case_format" formatted="false">%s malé%s</string>
+    <string name="upper_case_format" formatted="false">%s velké%s</string>
+    <string name="lower_case_format_number" formatted="false">%s ， malá písmena%s ，%d písmena</string>
+    <string name="upper_case_format_number" formatted="false">%s ， velká písmena%s ，%d písmena</string>
+    <string name="lower_case_format2" formatted="false">%s</string>
+    <string name="upper_case_format2" formatted="false">Velká %s</string>
+    <string name="upper_case_format3" formatted="false">%s Velké</string>
+    <string name="lower_case_format_number2" formatted="false">%s ，%d písmena</string>
+    <string name="upper_case_format_number2" formatted="false">Existují%s velká písmena%d</string>
     <string name="use_slow_speed_title">Zpomalit řeč v režimu editace</string>
     <string name="has_vip_summary_gesture">V bezplatné verzi nemohou být tato gesta upravována</string>
     <string name="message_has_vip_loop_click">V bezplatné verzi nejsou podporována zpožděná kliknutí.</string>
@@ -463,7 +463,7 @@
     <string name="closed">Vypnuto</string>
     <string name="checked">Zaškrtnuto</string>
     <string name="unchecked">Nezaškrtnuto</string>
-    <string name="page_from_to">Strana %d of %d</string>
+    <string name="page_from_to" formatted="false">Strana %d of %d</string>
     <string name="done">Operace dokončena</string>
     <string name="error_try_again">Vyskytla se chyba. Prosím, opakujte akci později.</string>
     <string name="swipe_right">Švihněte vpravo</string>
@@ -471,8 +471,8 @@
     <string name="long_clicked">Dlouhý stisk</string>
     <string name="notification_from">Nové oznámení od %s</string>
     <string name="progress">Průběh: %d</string>
-    <string name="item_current_count">%d z %d</string>
-    <string name="item_from_to_count">Zobrazuji položky %d až %d z %d</string>
+    <string name="item_current_count" formatted="false">%d z %d</string>
+    <string name="item_from_to_count" formatted="false">Zobrazuji položky %d až %d z %d</string>
     <string name="point">Odrážka</string>
     <string name="selected">Vybráno</string>
     <string name="disabled">Nedostupné</string>
@@ -567,34 +567,34 @@
     <string name="down_left_double_fling_down_gesture_value_default">@string/command_long_copy</string>
     <string name="use_down_right_double_fling_gesture_title">Použít vícedílné gesto dolů a vpravo</string>
     <string name="use_down_left_double_fling_gesture_title">Použít vícedílné gesto dolů a vlevo</string>
-    <string name="right_double_fling_setting">Nastavení pro dvojité vícedílné pravé gesto</string>
-    <string name="use_right_double_fling_gesture_title">Použít dvojité pravé vícedílné gesto</string>
-    <string name="left_double_fling_setting">Nastavení pro levé dvojité vícedílné gesto</string>
-    <string name="use_left_double_fling_gesture_title">Použít dvojité levé vícedílné gesto</string>
-    <string name="up_double_fling_setting">Nastavení pro dvojité horní vícedílné gesto</string>
-    <string name="use_up_double_fling_gesture_title">Použít dvojité horní vícedílné gesto</string>
-    <string name="down_double_fling_setting">Nastavení pro dvojité dolní vícedílné gesto</string>
-    <string name="use_down_double_fling_gesture_title">Použít dvojité dolní vícedílné gesto</string>
-    <string name="up_left_double_fling_setting">Nastavení pro dvojité vícedílné gesto nahoru a vlevo</string>
-    <string name="use_up_left_double_fling_gesture_title">Použít dvojité vícedílné gesto nahoru a vlevo</string>
-    <string name="up_right_double_fling_setting">Nastavení pro dvojité vícedílné gesto nahoru a vpravo</string>
-    <string name="use_up_right_double_fling_gesture_title">Použít dvojité vícedílné gesto nahoru a vpravo</string>
-    <string name="right_left_double_fling_setting">Nastavení pro dvojité vícedílné gesto vpravo a vlevo</string>
-    <string name="use_right_left_double_fling_gesture_title">Použít dvojité vícedílné gesto vpravo a vlevo</string>
-    <string name="left_right_double_fling_setting">Nastavení pro dvojité vícedílné gesto vlevo a vpravo</string>
-    <string name="use_left_right_double_fling_gesture_title">Použít dvojité vícedílné gesto vlevo a vpravo</string>
-    <string name="up_down_double_fling_setting">Nastavení pro dvojité vícedílné gesto nahoru a dolů</string>
-    <string name="use_up_down_double_fling_gesture_title">Použít dvojité vícedílné gesto nahoru a dolů</string>
-    <string name="down_up_double_fling_setting">Nastavení pro dvojité vícedílné gesto dolů a nahoru</string>
-    <string name="use_down_up_double_fling_gesture_title">Použít dvojité vícedílné gesto dolů a nahoru</string>
-    <string name="left_down_double_fling_setting">Nastavení pro dvojité vícedílné gesto vlevo a dolů</string>
-    <string name="use_left_down_double_fling_gesture_title">Použít dvojité vícedílné gesto vlevo a dolů</string>
-    <string name="left_up_double_fling_setting">Nastavení pro dvojité vícedílné gesto vlevo a nahoru</string>
-    <string name="use_left_up_double_fling_gesture_title">Použít dvojité vícedílné gesto vlevo a nahoru</string>
-    <string name="right_down_double_fling_setting">Nastavení pro dvojité vícedílné gesto vpravo a dolů</string>
-    <string name="use_right_down_double_fling_gesture_title">Použít dvojité vícedílné gesto vpravo a dolů</string>
-    <string name="right_up_double_fling_setting">Dvojité švihnutí vpravo a nahoru</string>
-    <string name="use_right_up_double_fling_gesture_title">Použít dvojité vícedílné gesto vpravo a nahoru</string>
+    <string name="right_double_fling_setting">Nastavení pro pravé vícedílné gesto</string>
+    <string name="use_right_double_fling_gesture_title">Použít pravé vícedílné gesto</string>
+    <string name="left_double_fling_setting">Nastavení pro levé vícedílné gesto</string>
+    <string name="use_left_double_fling_gesture_title">Použít levé vícedílné gesto</string>
+    <string name="up_double_fling_setting">Nastavení pro horní vícedílné gesto</string>
+    <string name="use_up_double_fling_gesture_title">Použít horní vícedílné gesto</string>
+    <string name="down_double_fling_setting">Nastavení pro dolní vícedílné gesto</string>
+    <string name="use_down_double_fling_gesture_title">Použít dolní vícedílné gesto</string>
+    <string name="up_left_double_fling_setting">Nastavení pro vícedílné gesto nahoru a vlevo</string>
+    <string name="use_up_left_double_fling_gesture_title">Použít vícedílné gesto nahoru a vlevo</string>
+    <string name="up_right_double_fling_setting">Nastavení pro vícedílné gesto nahoru a vpravo</string>
+    <string name="use_up_right_double_fling_gesture_title">Použít vícedílné gesto nahoru a vpravo</string>
+    <string name="right_left_double_fling_setting">Nastavení pro vícedílné gesto vpravo a vlevo</string>
+    <string name="use_right_left_double_fling_gesture_title">Použít vícedílné gesto vpravo a vlevo</string>
+    <string name="left_right_double_fling_setting">Nastavení pro vícedílné gesto vlevo a vpravo</string>
+    <string name="use_left_right_double_fling_gesture_title">Použít vícedílné gesto vlevo a vpravo</string>
+    <string name="up_down_double_fling_setting">Nastavení pro vícedílné gesto nahoru a dolů</string>
+    <string name="use_up_down_double_fling_gesture_title">Použít vícedílné gesto nahoru a dolů</string>
+    <string name="down_up_double_fling_setting">Nastavení pro vícedílné gesto dolů a nahoru</string>
+    <string name="use_down_up_double_fling_gesture_title">Použít vícedílné gesto dolů a nahoru</string>
+    <string name="left_down_double_fling_setting">Nastavení pro vícedílné gesto vlevo a dolů</string>
+    <string name="use_left_down_double_fling_gesture_title">Použít vícedílné gesto vlevo a dolů</string>
+    <string name="left_up_double_fling_setting">Nastavení pro vícedílné gesto vlevo a nahoru</string>
+    <string name="use_left_up_double_fling_gesture_title">Použít vícedílné gesto vlevo a nahoru</string>
+    <string name="right_down_double_fling_setting">Nastavení pro vícedílné gesto vpravo a dolů</string>
+    <string name="use_right_down_double_fling_gesture_title">Použít vícedílné gesto vpravo a dolů</string>
+    <string name="right_up_double_fling_setting">Švihnutí vpravo a nahoru</string>
+    <string name="use_right_up_double_fling_gesture_title">Použít vícedílné gesto vpravo a nahoru</string>
     <string name="command_speak">Číst</string>
     <string name="command_intput">Vstup</string>
     <string name="app">Otevřít aplikaci</string>
@@ -667,11 +667,11 @@
     <string name="date_format0">HH:00</string>
     <string name="more">Více</string>
     <string name="add_label">Přidat štítek</string>
-    <string name="grid_item_current">řádek %d, sloupec %d.</string>
+    <string name="grid_item_current" formatted="false">řádek %d, sloupec %d.</string>
     <string name="node_info_root">Kořenový objekt obsahuje%d podřízené objekty.</string>
     <string name="node_info">Existují%d podřízené objekty.</string>
     <string name="node_info_none">Žádné podřízené objekty.</string>
-    <string name="rating_current_count">Hodnocení%d z%d hvězd.</string>
+    <string name="rating_current_count" formatted="false">Hodnocení%d z%d hvězd.</string>
     <string name="date_format_sec">s\'vteřin\'</string>
     <string name="date_format_min_sec">m\'minuty\'ss\'vteřiny\'</string>
     <string name="date_format_hour_min">HH\'hodiny\'mm\'minuty\'</string>
@@ -768,7 +768,7 @@
     <string name="no_vip">Dosud jste nezakoupili plnou verzi programu!</string>
     <string name="need_vip">Jestliže si chcete zakoupit plnou verzi, kontaktujte prosím zákaznickou podporu.</string>
     <string name="check_read_phone_state_permission">Překontrolujte platnost oprávnění</string>
-    <string name="message_timer_mode_disabled">Časovač zastaven,%s,nyní je %s</string>
+    <string name="message_timer_mode_disabled" formatted="false">Časovač zastaven,%s,nyní je %s</string>
     <string name="camera_right_up">Vpravo a nahoru</string>
     <string name="camera_left_up">Vlevo a nahoru</string>
     <string name="camera_hold_posture">Zafixujte své aktuální držení těla</string>
@@ -801,8 +801,8 @@
     <string name="msg_battery_full">Baterie je plně nabitá</string>
     <string name="invite_code">Kód pozvánky</string>
     <string name="msg_supper_mode">Výkonný režim pro silné získávání fokusu</string>
-    <string name="msg_enabled_supper_mode">Zapnout výkonný režim</string>
-    <string name="msg_disabled_supper_mode">Vypnout výkonný režim</string>
+    <string name="msg_enabled_supper_mode">Výkonný režim aktivován</string>
+    <string name="msg_disabled_supper_mode">Výkonný režim deaktivován</string>
     <string name="msg_enabled_supper_mode_error">Nepodařilo se povolit výkonný režim</string>
     <string name="msg_disabled_supper_mode_error">Nepodařilo se vypnout režim detailní navigace!</string>
     <string name="msg_backup_done">Záloha bude uložena do složky Backups</string>
@@ -872,20 +872,20 @@
     <string name="add_from_virtual_list">Přidat znaky rozpoznané funkcí OCR</string>
     <string name="use_ocr_qq_title">Cloudové Tencent OCR</string>
     <string name="ocr_lang_enteries">Větve angličtiny | Automatická identifikace | Japonština | Korejština | Španělština | Francouzština | Němčina | Portugalština | Vietnamština | Malayština | Ruština | Italština | Holandština | Švédština | Finština | Dánština | Norština | Maďarština | Thajština | Latina</string>
-    <string name="cmd_description">说明(15字以上)</string>
-    <string name="timer_run_title">定时运行任务</string>
-    <string name="msg_has_vip_timer_run">非会员仅支持添加一个定时任务</string>
-    <string name="use_web_view_name_title">读出网页元素类型</string>
-    <string name="use_web_view_name_summary">打开后读出全部网页元素名称，关闭后仍会读出链接按钮等</string>
-    <string name="hour">时</string>
-    <string name="min">分</string>
-    <string name="msg_result_empty">我没听清你说什么</string>
-    <string name="msg_calling">正在呼叫</string>
-    <string name="msg_sended">已发送</string>
-    <string name="msg_add_error_has_lable">该节点有文字说明，不需要添加标签</string>
-    <string name="msg_label_added">已添加标签</string>
-    <string name="msg_clicked">点击了</string>
-    <string name="msg_search_on_net">在网络搜索</string>
-    <string name="msg_send_not_found">未找到发送按钮</string>
-    <string name="msg_search_on_store">在应用市场搜索</string>
+    <string name="cmd_description">Popis úlohy (maximálně 15 slov)</string>
+    <string name="timer_run_title">Plánovač úloh</string>
+    <string name="msg_has_vip_timer_run">V bezplatné verzi aplikace je podporováno vytvoření pouze jedné úlohy.</string>
+    <string name="use_web_view_name_title">Přečíst typ webového prvku</string>
+    <string name="use_web_view_name_summary">Po otevření budou přečteny všechny prvky webové stránky, odkazy, tlačítka, atd.</string>
+    <string name="hour">hodin</string>
+    <string name="min">minut</string>
+    <string name="msg_result_empty">Nerozumím zadanému hlasovému příkazu.</string>
+    <string name="msg_calling">volám</string>
+    <string name="msg_sended">odesláno</string>
+    <string name="msg_add_error_has_lable">Tento objekt má textový popisek, přidání štítku není nutné.</string>
+    <string name="msg_label_added">štítek přidán</string>
+    <string name="msg_clicked">kliknuto</string>
+    <string name="msg_search_on_net">Vyhledat na webu</string>
+    <string name="msg_send_not_found">Tlačítko odeslat nebylo nalezeno</string>
+    <string name="msg_search_on_store">Vyhledat v obchodě s aplikacemi</string>
 </resources>
