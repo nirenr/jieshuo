@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="action_menu_items">
+        <item>@string/command_clean</item>
+        <item>@string/command_select</item>
+        <item>@string/command_copy</item>
+        <item>@string/command_append_copy</item>
+        <item>@string/command_paste</item>
+        <item>@string/clipboard_menu_title</item>
+        <item>@string/favorites_menu_title</item>
+        <item>@string/split_edit_title</item>
+        <item>@string/command_long_copy</item>
+    </string-array>
+    <string-array name="advanced_menu_items">
+        <item>Preklad</item>
+        <item>Rozpoznávanie scén</item>
+        <item>Rozpoznávanie textu</item>
+        <item>Rozpoznávanie tvárí</item>
+        <item>Rozpoznávanie captcha</item>
+        <item>Výsledok rozpoznávania</item>
+        <item>Popisovanie obrázkov</item>
+    </string-array>
+    <string-array name="alarm_hour_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="alarm_interval_entries">
+        <item>Každých 5 minút</item>
+        <item>Každých 10 minút</item>
+        <item>Každých 15 minút</item>
+        <item>Každých 30 minút</item>
+        <item>Každých 60 minút</item>
+    </string-array>
+    <string-array name="alarm_interval_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="code_help_items" formatted="false">
+        <item>"解说多功能手势和插件以lua语法配合解说专有API实现一个手势多个功能。
+ 如果对lua和androlua比较熟悉，还可以实现更多功能，本文档只讲述专有API部分。"</item>
+        <item>"基本概念，
+ service，辅助功能服务，是这个读屏服务的核心，各个功能都是以这个服务为核心。"</item>
+        <item>"参数类型说明，
+ node，当前焦点，也就是当前获得辅助功能焦点的节点，一般操作都是针对这个焦点的。
+ bool，布尔值，true或者false。
+ text，文字内容。"</item>
+        <item>"return，返回，通知读屏你是否希望读屏执行该手势的默认操作。
+ 返回true则拦截该手势，false返回上一层执行，如在单程序手势返回false，则由全局手势接管处理，全局手势返回false，由默认手势处理。"</item>
+        <item>"常用命令，
+ service.execute(命令,node)
+ 这个命令就是解说为了简化开发内置的一些指令，如果执行成功返回true，失败返回false。"</item>
+        <item>"service.postExecute(时间,命令,node)
+ 延时执行命令，"</item>
+        <item>"text=service.getText(node)
+ 获取指定节点的文字信息。"</item>
+        <item>"service.setText(node,text)
+ 设置指定焦点输入框文字内容。"</item>
+        <item>"service.setText(text)
+ 设置当前界面焦点输入框文字内容。"</item>
+        <item>"service.copy()
+ 复制当前焦点的文字内容到剪切板。"</item>
+        <item>"service.appendCopy()
+ 追加复制当前焦点的文字内容到剪切板。"</item>
+        <item>"service.copy(text)
+ 复制指定的文字内容到剪切板。"</item>
+        <item>"service.appendCopy(text)
+ 追加复制指定的文字内容到剪切板。"</item>
+        <item>"service.paste()
+ 将剪切板内容粘贴到当前界面的输入框。"</item>
+        <item>"service.paste(node)
+ 将剪切板内容粘贴到指定的输入框。"</item>
+        <item>"service.toNext()
+ 下一个焦点。"</item>
+        <item>"service.toNext(node,bool)
+ 指定节点下一个焦点，bool为true查找子节点，为false不查找子节点。"</item>
+        <item>"service.toPrevious()
+ 上一个焦点。"</item>
+        <item>"service.toPrevious(node,bool)
+ 指定节点上一个焦点，bool为true查找子节点，为false不查找子节点。"</item>
+        <item>"service.toNextChar()
+ 下一个字符。"</item>
+        <item>"service.toPreviousChar()
+ 上一个字符。"</item>
+        <item>"service.toNextLine()
+ 下一行。"</item>
+        <item>"service.toPreviousLine()
+ 上一行。"</item>
+        <item>"service.toTextStart()
+ 到文字开头。"</item>
+        <item>"service.toTextEnd()
+ 到文字结尾。"</item>
+        <item>"service.toListViewStart()
+ 到列表开头。"</item>
+        <item>"service.toListViewEnd()
+ 到列表结尾。"</item>
+        <item>"service.getRootNodeInfo()
+ 获取根节点。"</item>
+        <item>"service.ocr(node)
+ 文字识别指定节点，仅会员可用。"</item>
+        <item>"service.setTimerMode(bool)
+ 开启或关闭计时器模式，bool为true开启，false为关闭。"</item>
+        <item>"service.setAutoReadEnabled(bool)
+ 开启或关闭阅读模式，bool为true开启，false为关闭。"</item>
+        <item>"service.setAutoNext(bool)
+ 开启或关闭自动浏览模式，bool为true开启，false为关闭。"</item>
+        <item>"bool=service.isEditView(node)
+ 判断当前节点是否为编辑框。"</item>
+        <item>"bool=service.isSeekBar(node)
+ 判断当前节点是否为进度滑块。"</item>
+        <item>"bool=service.isListView(node)
+ 判断当前节点是否为列表。"</item>
+        <item>"bool=service.isInListView(node)
+ 判断当前节点是否在列表中。"</item>
+        <item>"bool=service.isInWebView(node)
+ 判断当前节点是否在网页中。"</item>
+        <item>"bool=service.isClick(node)
+ 判断当前节点是否可以点击。"</item>
+        <item>"service.toClick()
+ 点击当前焦点，在安卓7以上优先使用模拟手点击焦点。"</item>
+        <item>"service.toClick(node)
+ 点击指定节点。"</item>
+        <item>"service.toLongClick()
+ 长当前焦点。"</item>
+        <item>"service.toLongClick(node)
+ 长按指定节点。"</item>
+        <item>"service.toBack()
+ 返回。"</item>
+        <item>"service.toHome()
+ 返回主屏幕。"</item>
+        <item>"service.toNotification()
+ 打开通知栏。"</item>
+        <item>"service.toParent()
+ 打开最近任务列表。"</item>
+        <item>"service.scrollBackward(node)
+ 向后滚动。"</item>
+        <item>"service.scrollForward(node)
+ 向前滚动。"</item>
+        <item>"service.loadGesturePackage(name)
+ 载入手势方案。"</item>
+        <item>"service.click(x,y)
+ 模拟人手点击屏幕指定位置，仅安卓7以上可用。"</item>
+        <item>"service.longClick(x,y)
+ 模拟人手长按屏幕指定位置，仅安卓7以上可用。"</item>
+        <item>"service.press(x,y,t)
+ 模拟人手在屏幕指定位置按住指定时间，仅安卓7以上可用。"</item>
+        <item>"service.swipe(x1,y1,x2,y2,t)
+ 模式人手从一个位置用指定时间滑动到另一个位置，仅安卓7以上可用。"</item>
+        <item>代码控制语句。</item>
+        <item>"if 条件 then 要执行的代码
+ end
+ 满足指定条件执行中间的代码。
+ 如，
+ if service.isEditView(node) then service.execute(拆分编辑,node)
+ return true
+ end
+ 这句代码意思是，当焦点为编辑框时打开拆分编辑。"</item>
+        <item>"for n=1,重复次数 do
+ 要执行代码
+ end
+ 重复指定代码一定次数
+ 如，
+ for n=1,10 do
+ service.toBack()
+ end
+ 重复返回10次。"</item>
+        <item>"定义函数，
+ function 函数名称(参数)
+ 函数代码
+ end"</item>
+        <item>"函数是代码的功能块，可以有效的重复利用代码。
+ 如，下边是一个向列表添加数据的函数，在手势代码中，可以用于向一个列表添加重复的代码。
+ function append(t1,t2)
+ for k,v in ipairs(t2) do
+ table.insert(t1,v)
+ end 
+ end 
+ 点击列表={}
+ 按钮列表={%点击,%返回}
+ for n=1,10 do
+ append(点击列表,按钮列表)
+ end
+ 向点击列表重复添加10次按钮列表的内容。"</item>
+        <item>"function 滑动()
+ service.swipe(500,300,500,1000,1000)
+ return true
+ end
+ 模拟手在屏幕上滑动，可以在手势代码中使用，
+ service.click({{>微信,%滑动}})
+ 打开微信模拟在屏幕从上向下滑动。"</item>
+        <item>"自动点击，
+ service.click({按钮列表})
+ 自动依次查找点击按钮列表的按钮，
+ 按钮名称支持一些符号进行通配，
+ 如前面加#(井号)，表示搜索的是自定义标签，
+ 前边或后边加*(星号)表示前边或后边还有其他字符，
+ 后边加#(井号)表示按钮次序，
+ 后边加@(圈a)表示只在某一个程序查找，
+ 加$(美元)表示执行完成后延时。
+ 参数支持多个表，按顺序查找，
+ 如果查找成功返回true，失败返回false。
+ 完整说明见后边，"</item>
+        <item>"延时点击，
+ service.postClick(时间,{按钮列表})
+ 延时一定时间执行点击，时间单位为毫秒，按钮列表定义与click相同，
+ 没有返回值。"</item>
+        <item>"service.plugin(插件名称,node)
+ 执行一个插件，
+ 返回插件自定义返回的值。"</item>
+        <item>解说手势以自动点击最为灵活，基础形式是</item>
+        <item>"按钮列表={}
+ service.click(按钮列表)
+ return true"</item>
+        <item>"下边两行是固定的，自己只需要修改按钮列表即可，
+ 按钮列表格式是用英文花括号或者叫大括号括起来的一些按钮名称和符号组成，"</item>
+        <item>最简单的例子，</item>
+        <item>"按钮列表={确定}
+ service.click(按钮列表)
+ return true"</item>
+        <item>这个代码就能点击屏幕上的确定按钮，</item>
+        <item>"按钮列表={
+ 确定,
+ 完成
+ } service.click(按钮列表)
+ return true"</item>
+        <item>这是第一级花括号，这个是如果有确定点击确定，没有确定就点击完成，如果没有确定，就继续找完成，依次类推</item>
+        <item>有时候我们需要连续点击一系列按钮实现一些功能，这也是自动点击的优势，</item>
+        <item>"按钮列表={
+ {群资料卡,文件}
+ } service.click(按钮列表)
+ return true"</item>
+        <item>这是二级花括号，在二级花括号中的按钮会被依次点击，直到某一个按钮不存在停止，</item>
+        <item>在花括号中嵌套括号可以实现连续点击，</item>
+        <item>在按钮列表中我们用一些符号来增强功能，</item>
+        <item>最常用的是 * 星号，英文星号，这个符号在按钮文字的前后，表示可以有其它内容</item>
+        <item>比如，在QQ主界面要点击，解说读屏交流群，而这个列表内容有时候后面会有99条未读之类内容，这时候就要写成，</item>
+        <item>解说读屏交流群*</item>
+        <item>\# 井号，表示第几个结果，有时候一个界面有很多个名字一样的按钮，这时候需要用井号来说明点击第几个，</item>
+        <item>如，确定#1，表示第一个，也可以是负数，如确定#-1，表示最后一个。</item>
+        <item>这个井号在文字开头表示要查找的是按钮的标签，而不是按钮的名字，比如有的按钮没有名字，可以自己添加标签，并使用标签查找，</item>
+        <item>"符号中英文竖线|，表示或，也就是如果有竖线前边的点击前边的，没有就点击后边的，
+ 就拿刚才确定和完成的例子，可以简写为，
+ 确定|完成
+ 点击 确定 或者 完成，"</item>
+        <item>&amp; 表示和，也就是只有有&amp;符号后边内容的界面，才点击前边内容的按钮，</item>
+        <item>"确定&amp;*退出*
+ 表示，只有这个界面有退出字样，比如确定退出吗，才点击确定，而没有退出两个字就不执行，"</item>
+        <item>"&amp;后边加叹号加关键字表示不包含后边内容时执行，
+ 确定&amp;!*退出*
+ 表示，只有这个界面没有退出字样时，才点击确定，而有退出两个字就不执行,和上一个情况相反，"</item>
+        <item>"&amp;符号在前表示检查当前焦点类型，
+ &amp;可编辑
+ &amp;可点击
+ &amp;列表
+ &amp;列表项目
+ &amp;编辑框
+ 这个编辑框是弹出输入法的编辑框，"</item>
+        <item>$美元符号，这个符号在文字后边表示点击该按钮后等待多长时间，执行下一步操作，</item>
+        <item>"群资料卡$2000,文件
+ 表示点击群资料卡卡后2秒点击文件，"</item>
+        <item>"&lt; 小于号，在后边表示重复执行，重复点击按钮多少次，
+ 如 下一曲&lt;10
+ 就重复点击下一曲十次，"</item>
+        <item>"小于号在前边表示只定位，不点击。
+ &lt;确定
+ 找到确定但是不点击。"</item>
+        <item>"> 大于号，大于号在后边表示，等待次数符，
+ 群资料卡,文件>10
+ 手机反应有快有慢，用这个符号可以等待一定时间，这个代码表示，点击群资料卡后等待十秒，十秒以内以内如果出现文件就立即点击，如果超时就停止执行，"</item>
+        <item>"在开头的大于号可以打开程序，
+ >微信
+ 打开微信，
+ >QQ
+ 打开QQ，"</item>
+        <item>"还有一些扩展符号，可以执行其它功能，
+ % 可以执行一些常用指令，
+ 比如，
+ %复制
+ 可以复制，
+ %全文朗读
+ 可以全屏朗读，"</item>
+        <item>%还可以执行脚本中指定的函数，函数返回true表示继续执行，false停止继续执行，</item>
+        <item>"[]方括号包括的内容表示模拟直接点击，和使用辅助功能点击不同，直接点击可以解决一部分焦点不能点击的问题，
+ [播放]
+ 模拟直接点击播放按钮，
+ [%点击]
+ 模拟直接点击当前焦点"</item>
+        <item>"[x,y]方括号包含两个数字表示模拟点击指定位置，可以用整数表示绝对位置，或者用小数表示相对位置，
+ [300,500]
+ 模拟点击从左算300像素，从上算500像素的位置，
+ [0.3,0.5]
+ 模拟点击从左算 0.3 个屏幕宽度，从上算 0.5 个屏幕高度的位置，"</item>
+        <item>"[x,y,t]方括号包含三个数字表示模拟点击指定位置指定时间，前两个意思和上一个相同，第三个是以毫秒为单位的时间，
+ [300,500,1000]
+ 模拟点击从左算 300 像素，从上算 500 像素的位置，持续 1000 毫秒"</item>
+        <item>"[x1,y1,x2,y2,t]方括号包含五个数字表示用指定时间模拟从x1，y1滑动到x2,y2位置，可以用整数表示绝对位置，或者用小数表示相对位置，
+ [300,500,300,800,1000]
+ 模拟从左算 300 像素，从上算 500 像素的位置，用 1000 毫秒时间滑动到 300,800 的位置，"</item>
+        <item>"模拟滑动还可以指定滑动次数
+ [300,500,300,800,1000,10]
+ 模拟从左算 300 像素，从上算 500 像素的位置，用 1000 毫秒时间滑动到 300,800 的位置，10 次,"</item>
+        <item>"在手势执行中有时会有一些不同情况出现，比如打开QQ，点击解说读屏交流群，点击群资料卡，点击文件，
+ 如果有群公告，会在点击群资料卡那一步卡住，不能执行，
+ 这时需要分支代码来执行这些突发情况，
+ 我只是手写例子，可能会有错字导致不能执行，理解意思就可以了，"</item>
+        <item>"按钮列表={
+ { >QQ,
+ 解说读屏交流群*,
+ { 我已阅读群公告|我知道了
+ },
+ 群资料卡,
+ 文件
+ } }"</item>
+        <item>"因为QQ版本不同，确定群公告按钮也不一样，
+ 可以看到，在点击解说读屏交流群后，多了一对花括号括起来按钮，这个括号中的按钮，有则执行，没有则跳过，不影响后边按钮的执行，
+ 如果分支中有复杂操作，或者多种场景，我们还可以套入多个括号，"</item>
+        <item>"按钮列表={
+ { >QQ,
+ 解说读屏交流群*,
+ { { 我已阅读群公告,确定},
+ { 我知道了,确定},
+ },
+ 群资料卡,
+ 文件
+ } }"</item>
+    </string-array>
+    <string-array name="edge_gesture_width_entries">
+        <item>Nízka</item>
+        <item>Stredná</item>
+        <item>Veľká</item>
+        <item>Najväčšia</item>
+    </string-array>
+    <string-array name="edge_gesture_width_values">
+        <item>8</item>
+        <item>12</item>
+        <item>16</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="execute_command">
+        <item>@string/command_nothing</item>
+        <item>@string/directory_plugins</item>
+        <item>@string/directory_cmd</item>
+        <item>@string/directory_tools</item>
+        <item>@string/app</item>
+        <item>@string/command_to_previous_focus</item>
+        <item>@string/command_to_next_focus</item>
+        <item>@string/command_start</item>
+        <item>@string/command_end</item>
+        <item>@string/command_left_shortcut</item>
+        <item>@string/command_right_shortcut</item>
+        <item>@string/command_to_previous_scroll</item>
+        <item>@string/command_to_next_scroll</item>
+        <item>@string/command_to_previous_progress</item>
+        <item>@string/command_to_next_progress</item>
+        <item>@string/command_to_previous_section</item>
+        <item>@string/command_to_next_section</item>
+        <item>@string/command_to_previous_link</item>
+        <item>@string/command_to_next_link</item>
+        <item>@string/command_to_previous_control</item>
+        <item>@string/command_to_next_control</item>
+        <item>@string/command_lower_volume</item>
+        <item>@string/command_raise_volume</item>
+        <item>@string/command_now_time</item>
+        <item>@string/command_timer_mode</item>
+        <item>@string/command_current_location</item>
+        <item>@string/command_virtual_screen</item>
+        <item>@string/command_verification</item>
+        <item>@string/command_gesture_help</item>
+        <item>@string/command_trans</item>
+        <item>@string/command_enable_dim_screen</item>
+        <item>@string/clipboard_menu_title</item>
+        <item>@string/favorites_menu_title</item>
+        <item>@string/input_method</item>
+        <item>@string/command_paste</item>
+        <item>@string/command_copy</item>
+        <item>@string/command_long_copy</item>
+        <item>@string/command_append_copy</item>
+        <item>@string/command_clean</item>
+        <item>@string/command_notification_box</item>
+        <item>@string/command_up_tap</item>
+        <item>@string/command_supper_mode</item>
+        <item>@string/command_tap_mode</item>
+        <item>@string/command_node_mode</item>
+        <item>@string/command_to_recents</item>
+        <item>@string/command_to_home</item>
+        <item>@string/command_to_back</item>
+        <item>@string/command_click</item>
+        <item>@string/command_long_click</item>
+        <item>@string/command_long_edit</item>
+        <item>@string/advanced_menu_title</item>
+        <item>@string/quick_menu_title</item>
+        <item>@string/action_menu_title</item>
+        <item>@string/main_menu</item>
+        <item>@string/command_read_mode</item>
+        <item>@string/command_verbatim_speak2</item>
+        <item>@string/char_mode</item>
+        <item>@string/command_auto_next</item>
+        <item>@string/auto_previous</item>
+        <item>@string/split_menu_title</item>
+        <item>@string/split_edit_title</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/all_text_title</item>
+        <item>@string/command_all_select</item>
+        <item>@string/command_voice_helper</item>
+        <item>@string/command_voice_input</item>
+        <item>@string/plugin_title</item>
+        <item>@string/tool_title</item>
+        <item>@string/command_ocr_text</item>
+        <item>@string/command_ocr_focus</item>
+        <item>@string/camera_title</item>
+        <item>@string/main_setting</item>
+        <item>@string/command_disable_touch</item>
+        <item>@string/command_disable_feedback</item>
+        <item>@string/command_to_notifications</item>
+        <item>@string/command_gestures_edit</item>
+        <item>@string/command_virtual_navigation</item>
+        <item>@string/url_menu_title</item>
+        <item>@string/actions</item>
+        <item>@string/raw_click</item>
+        <item>@string/raw_long_click</item>
+        <item>@string/raw_swipe_left</item>
+        <item>@string/raw_swipe_right</item>
+        <item>@string/raw_swipe_up</item>
+        <item>@string/raw_swipe_down</item>
+    </string-array>
+    <string-array name="gesture_help_items">
+        <item>"Gesture operation essentials:
+ Single gestures should be straight, and movements should be fast
+ The first part of the combined gesture should be longer than half the length of the screen, and the second part can be oriented as long as it is right."</item>
+        <item>"Combination gesture:
+ First up, down, last focus
+ First down, first, first focus
+ First left and right task switching
+ Right, then left, back
+ First up and then right operation menu
+ First right and then right function menu
+ First, then left, extension
+ First, then left, voice assistant
+ First left, then left, word by word
+ Right first, then upper, automatically read aloud
+ First left and then open the notification bar
+ First right, then bottom, browse the list
+ Up twice click to browse
+ Twice swipe down"</item>
+        <item>"Click on the browse mode gesture:
+ Click to switch focus
+ Browse up mode
+ Browse down mode"</item>
+        <item>"Focus browsing mode gestures:
+ Up one focus
+ Down next focus"</item>
+        <item>"QQ WeChat call
+ Reject with left swipe
+ Answer with right swipe"</item>
+        <item>"Phone QQ WeChat call
+ Hang up left
+ Answer right"</item>
+        <item>"List
+ Page up to the left
+ Flip right to the bottom"</item>
+        <item>"Dialog
+ Cancel left
+ OK right"</item>
+        <item>"Progress slider
+ Swipe left to decrease slider
+ Swipe right to increase slider"</item>
+        <item>"Edit box
+ Move the cursor forward
+ Move the cursor backward"</item>
+        <item>"Word-by-word browse mode gestures:
+ Click to explain the current character
+ Up one line up
+ Down one line
+ Left previous character
+ Right next character
+ First left, last, last paragraph
+ First right, then next, next paragraph
+ First, then right, select text
+ Left first, then left, exit literally"</item>
+        <item>"Text selection gestures: 
+ Single tap: read the current character.
+ Up swipe: Go to the previous line.
+ Down swipe: Go to the next line.
+ Left swipe: Go to the previous character.
+ Right swipe: Go to the next character.
+ Left up swipe: Go to the previous paragraph.
+ Right up swipe: Go to the next paragraph.
+ Up right swipe: Deselect all.
+ Down right swipe: Copy selection.
+ Up left swipe: Append copy.
+ Right down swipe: copy the whole text."</item>
+        <item>"Node browsing mode gestures Up swipe: go to the previous node.
+ Down swipe: Go to the next node.
+ Left swipe: go to the parent node.
+ Right swipe: Go to the child node.
+ Down left swipe: exit the node."</item>
+        <item>"Voice assistant manual: 
+ Open AppName: Opens the given app Send Content: allows direct sending to QQ and Wechat Search for content: performs the online search for the given phrase Voice assistant is extensible thanks to the editing menus and plugins."</item>
+    </string-array>
+    <string-array name="help_items">
+        <item>"Basic browsing operations:
+ By default, swiping up navigates to the previous item. Swiping down navigates to the next item.
+ However you can change this behavior in the action settings."</item>
+        <item>"Main Menu: 
+ By default, use the down right swipe to open the menu, swipe right to expand more options.
+ You can display all menu items at once by customizing it in the settings."</item>
+        <item>"voice assistant:
+ By default, the voice assistant is activated with the down left swipe gesture and the command is spoken after the sound. Tapping the screen will force the immediate recognition
+ The voice assistant can be customized in advanced settings, voice assistant settings, voice assistant capabilities settings.
+"</item>
+        <item>"Actions menu: 
+ By default, up right swipe opens the action menu, right swipe expands the menu and double tap activates the focused menu option."</item>
+        <item>"Extensions:
+ By default, the first and last left gestures are used to open the extension list, and then right-slide to open the voice command list, and double-click to execute the corresponding function.
+ You can find more plugins in the resource download.
+ Advanced settings, voice assistant settings, voice command settings, new, modified or downloaded"</item>
+        <item>"Copy, append copy, clipboard and favorites:
+ These functions can be found in the operation menu.
+ Copy, copy the focus to the clipboard
+ Append copy to append the focus content to the last item of the clipboard,
+ Clipboard, record the most recently copied content, click to enter the edit box, long press to add content to favorites
+ Favorites, click to enter the edit box, long press to edit,
+ In advanced settings, resource management can delete or backup clipboard and favorites"</item>
+        <item>"Long copy (premium users only):
+ Long copy can copy long list content.
+ After the long copy is activated in the operation menu, you need to wait for different time according to the length of the list. When the copy is completed, you will be prompted to complete the long copy.
+ During long copying, you can force abort by swiping any gesture."</item>
+        <item>"Full text selection (Premium users only):
+ Full-text selection is mainly suitable for copying some content from web pages or longer content. The full text selection can split the content by word, sentence, and segment form, select the required content through the check box form, and finally copy,
+ In the content list, you can long press an item as the starting point, and then long press the end of the selection to quickly select multiple consecutive items."</item>
+        <item>"Advanced editing (member function):
+ You can edit the focus content according to words, sentences, paragraphs or full text in the edit box or non-edit box to facilitate quick positioning and modification.
+ Click on the split edit list to edit it, long press to make the entry more detailed split.
+ Edit box can be clicked to enter the edit box, and the non-edit box can only be saved to the clipboard by copying."</item>
+        <item>"List browsing:
+ Display all the focus as a list, click to activate the corresponding focus, especially suitable for use on web pages."</item>
+        <item>"Reading mode (member function):
+ You can read webpage articles opened by the browser, filter unwanted content, and turn pages automatically."</item>
+        <item>"Virtual screen (member function):
+ The OCR recognizes the content on the screen, displays the result according to the text position, clicks the result text to activate the corresponding focus, long presses the word to split the focus, and clicks the word to activate the position of the corresponding word.
+ Android 7 or above double-click to activate, Android 6 below three times to activate."</item>
+        <item>"Text recognition (member function):
+ The content on the screen is recognized by the OCR, and the result is displayed in a list form, and the result list is clicked to activate the corresponding focus, the long press is followed by the word display result, and the single word is activated to activate the position of the corresponding word.
+ Clicking is not supported under Android 6 and only results can be viewed."</item>
+        <item>"Captcha identification (member function):
+ Touch the verification code focus, use advanced menu, verification code identification, or voice assistant, verification code identification, can recognize English or digital verification code, and the recognition result is automatically copied to the clipboard."</item>
+        <item>"Jieshuo camera (member function):
+ The camera can recognize text, scenes, animals, plants, or for camera guidance. The camera currently supports only the rear camera, using volume plus shooting, volume minus switching mode."</item>
+        <item>"Quickly navigate between list items:
+ In the operation settings, left and right shortcut gesture settings enable the left and right gestures to move quickly in the list, you can use the left or right gesture to quickly browse the message in the list of QQ messages, for example."</item>
+        <item>"Notification black/whitelist:
+ The notification blacklist can filter out notifications containing the specified content, and input an asterisk to filter all notifications of the application.
+ The notification whitelist can allow reading of notifications containing the specified content, even if the notification has been closed, entering an asterisk indicates that all notifications for the program are allowed.
+ Keywords support regular expressions."</item>
+        <item>"Content blacklist:
+ You can filter the focus content of the specified content, usually used to filter some non-standard accessibility instructions.
+ Regular expressions are not supported based on efficiency considerations."</item>
+        <item>"Web content filtering (member function):
+ Filters the useless image annotations on the page to filter out the lengthy and useless instructions on the page.
+ Stronger filtering can further filter out unnecessary non-essential content."</item>
+        <item>"Powerful mode (member function):
+ Powerful mode gives you more operational focus,
+ It is known to bring better experiences in software such as WeChat Sports, WeChat Friends Circle, Taobao Footprint, Huawei Router and so on."</item>
+        <item>"Virtual navigation (member function):
+ Virtual navigation can add the location of content that cannot be directly clicked to the navigation list.
+ Please add only the focus of the immutable position, click on the recognized focus input name in the recognition click to add,
+ Only supports Android 7 or above."</item>
+        <item>"Custom gestures:
+ You can customize any built-in or extended features as gestures.
+ Quickly change gestures by importing a gesture pack.
+ After the gesture is imported, it needs to be set in the operation, and the gesture scheme switching can take effect.
+ If you are not familiar with the operation suggestions in the common settings, customize the gesture to modify the gesture."</item>
+        <item>"Two-step gestures (member function):
+ A two-step gesture is an operation that quickly operates a second gesture after a traditional gesture operation is completed.
+ It can be turned on or customized in the action settings, two-step gestures,
+ After the two-step gesture is turned on, there is a half-second delay after the first gesture operation is completed, waiting for the second step.
+ Don't set gestures that require efficiency, such as moving focus gestures, using two-step gestures."</item>
+        <item>"Record voice commands:
+ Start the voice assistant to say the recording command, say the program to be opened in turn or click the key of the focus to realize the rapid voice command production. When all the instructions are finished, say to end the recording, after the prompt to enter the name of the command, say the name of the command, and finally say determine.
+ If there is an unrecognized instruction during the recording process, you can re-speak it. Recorded commands can be changed in Advanced Settings, Voice Assistant Settings, Voice Command Settings."</item>
+    </string-array>
+    <string-array name="lang_entries">
+        <item>auto</item>
+        <item>Kórejčina</item>
+        <item>Zjednodušená čínština</item>
+        <item>Tradičná čínština</item>
+        <item>Holandčina</item>
+        <item>Thaičina</item>
+        <item>Gréčtina</item>
+        <item>Taliančina</item>
+        <item>Slovínčina</item>
+        <item>Japončina</item>
+        <item>Angličtina</item>
+        <item>Arabčina</item>
+        <item>Kantónčina</item>
+        <item>Maďarčina</item>
+        <item>Estónčina</item>
+        <item>Rumunčina</item>
+        <item>Čínština</item>
+        <item>Čeština</item>
+        <item>Nemčina</item>
+        <item>Francúzština</item>
+        <item>Fínčina</item>
+        <item>Portugalčina</item>
+        <item>Dánčina</item>
+        <item>Ruština</item>
+        <item>Bulharčina</item>
+        <item>Španielčina</item>
+        <item>Švédština</item>
+        <item>Poľština</item>
+        <item>Vietnamčina</item>
+    </string-array>
+    <string-array name="lang_values">
+        <item>auto</item>
+        <item>kor</item>
+        <item>wyw</item>
+        <item>cht</item>
+        <item>nl</item>
+        <item>th</item>
+        <item>el</item>
+        <item>it</item>
+        <item>slo</item>
+        <item>jp</item>
+        <item>en</item>
+        <item>ara</item>
+        <item>yue</item>
+        <item>hu</item>
+        <item>est</item>
+        <item>rom</item>
+        <item>zh</item>
+        <item>cs</item>
+        <item>de</item>
+        <item>fra</item>
+        <item>fin</item>
+        <item>pt</item>
+        <item>dan</item>
+        <item>ru</item>
+        <item>bul</item>
+        <item>spa</item>
+        <item>swe</item>
+        <item>pl</item>
+        <item>vie</item>
+    </string-array>
+    <string-array name="left_button">
+        <item>Zavesiť</item>
+        <item>Odmietnuť</item>
+        <item>Ukončiť hovor</item>
+        <item>Hang up</item>
+        <item>Reject</item>
+        <item>*Swipe to reject incoming call*</item>
+        <item>End call</item>
+        <item>Hang up call</item>
+        <item>Hang up call</item>
+        <item>End QQ call</item>
+        <item>End QQ call</item>
+        <item>Switch to the previous element</item>
+        <item>Previous track</item>
+        <item>Navigate up</item>
+    </string-array>
+    <string-array name="left_menu_items">
+        <item>@string/command_auto_next</item>
+        <item>@string/command_read_mode</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/split_menu_title</item>
+        <item>@string/command_verbatim_speak2</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/command_all_select</item>
+        <item>@string/command_ocr_text</item>
+        <item>@string/plugin_title</item>
+        <item>@string/command_notification_box</item>
+        <item>@string/command_to_notifications</item>
+        <item>@string/command_long_edit</item>
+        <item>@string/command_gestures_edit</item>
+        <item>@string/command_virtual_screen</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="long_click_entries">
+        <item>Krátke</item>
+        <item>Stredné</item>
+        <item>Dlhé</item>
+    </string-array>
+    <string-array name="long_click_values">
+        <item>500</item>
+        <item>750</item>
+        <item>1000</item>
+    </string-array>
+    <string-array name="menu_def_items">
+        <item>@string/split_menu_title</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/command_voice_helper</item>
+        <item>@string/plugin_title</item>
+        <item>@string/main_setting</item>
+        <item>@string/command_disable_feedback</item>
+    </string-array>
+    <string-array name="menu_items">
+        <item>@string/action_menu_title</item>
+        <item>@string/advanced_menu_title</item>
+        <item>@string/command_auto_next</item>
+        <item>@string/command_read_mode</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/command_node_mode</item>
+        <item>@string/split_menu_title</item>
+        <item>@string/command_verbatim_speak2</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/all_text_title</item>
+        <item>@string/command_all_select</item>
+        <item>@string/command_voice_helper</item>
+        <item>@string/command_ocr_text</item>
+        <item>@string/camera_title</item>
+        <item>@string/plugin_title</item>
+        <item>@string/tool_title</item>
+        <item>@string/main_setting</item>
+        <item>@string/command_disable_touch</item>
+        <item>@string/command_disable_feedback</item>
+        <item>@string/command_notification_box</item>
+        <item>@string/command_to_notifications</item>
+        <item>@string/command_long_edit</item>
+        <item>@string/command_gestures_edit</item>
+        <item>@string/command_enable_dim_screen</item>
+        <item>@string/command_virtual_screen</item>
+        <item>@string/command_quick_mode</item>
+        <item>@string/command_supper_mode</item>
+        <item>@string/command_virtual_navigation</item>
+    </string-array>
+    <string-array name="recognizer_lang_entries">
+        <item>Zjednodušená čínština</item>
+        <item>Tradičná čínština</item>
+        <item>Angličtina</item>
+    </string-array>
+    <string-array name="recognizer_lang_values">
+        <item>zh_CN</item>
+        <item>zh_GD</item>
+        <item>en_GB</item>
+    </string-array>
+    <string-array name="right_button">
+        <item>Prijať hovor</item>
+        <item>Answer call</item>
+        <item>*Swipe to answer the call*</item>
+        <item>Handsfree mode</item>
+        <item>Speaker mode</item>
+        <item>Switch to the next element</item>
+        <item>Next track</item>
+    </string-array>
+    <string-array name="right_menu_items">
+        <item>@string/command_click</item>
+        <item>@string/command_long_click</item>
+        <item>@string/command_start</item>
+        <item>@string/command_end</item>
+        <item>@string/command_copy</item>
+        <item>@string/command_append_copy</item>
+        <item>@string/command_paste</item>
+        <item>@string/clipboard_menu_title</item>
+        <item>@string/favorites_menu_title</item>
+        <item>@string/split_edit_title</item>
+        <item>@string/command_long_copy</item>
+        <item>@string/command_trans</item>
+        <item>@string/command_verification2</item>
+        <item>@string/command_timer_mode</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="timer_interval_entries">
+        <item>1 minúta</item>
+        <item>5 minút</item>
+        <item>10 minút</item>
+        <item>15 minút</item>
+    </string-array>
+    <string-array name="timer_interval_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+    </string-array>
+    <string-array name="tts_engine_entries">
+        <item>TTS systému</item>
+        <item>Yunzhisheng TTS</item>
+    </string-array>
+    <string-array name="tts_engine_values">
+        <item>systém</item>
+        <item>unisound</item>
+    </string-array>
+    <string-array name="tts_engine_vip_entries">
+        <item>TTS systému</item>
+        <item>Xunfei TTS</item>
+        <item>Yunzhisheng TTS</item>
+    </string-array>
+    <string-array name="tts_engine_vip_values">
+        <item>systém</item>
+        <item>iflytek</item>
+        <item>unisound</item>
+    </string-array>
+    <string-array name="tts_scale_entries">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="tts_scale_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="tts_speaker_entries">
+        <item>Xiaoyan</item>
+        <item>Xiaofeng</item>
+    </string-array>
+    <string-array name="tts_speaker_values">
+        <item>xiaoyan</item>
+        <item>xiaofeng</item>
+    </string-array>
+    <string-array name="tts_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+        <item>64</item>
+        <item>65</item>
+        <item>66</item>
+        <item>67</item>
+        <item>68</item>
+        <item>69</item>
+        <item>70</item>
+        <item>71</item>
+        <item>72</item>
+        <item>73</item>
+        <item>74</item>
+        <item>75</item>
+        <item>76</item>
+        <item>77</item>
+        <item>78</item>
+        <item>79</item>
+        <item>80</item>
+        <item>81</item>
+        <item>82</item>
+        <item>83</item>
+        <item>84</item>
+        <item>85</item>
+        <item>86</item>
+        <item>87</item>
+        <item>88</item>
+        <item>89</item>
+        <item>90</item>
+        <item>91</item>
+        <item>92</item>
+        <item>93</item>
+        <item>94</item>
+        <item>95</item>
+        <item>96</item>
+        <item>97</item>
+        <item>98</item>
+        <item>99</item>
+        <item>100</item>
+    </string-array>
+    <string-array name="vibrate_intensity_entries">
+        <item>Nízka</item>
+        <item>Stredná</item>
+        <item>Vysoká</item>
+        <item>Veľmi vysoká</item>
+    </string-array>
+    <string-array name="vibrate_intensity_values">
+        <item>12</item>
+        <item>32</item>
+        <item>48</item>
+        <item>64</item>
+    </string-array>
+    <string-array name="voice_helper_help_items">
+        <item>Open the given program: Open application name</item>
+        <item>Install the given program: install Application Name</item>
+        <item>Uninstall the given program: uninstall Application Name</item>
+        <item>Read Everything: Read the whole screen</item>
+        <item>Read aloud: read aloud and follow the cursor</item>
+        <item>"Current Brightness: read the environment's brightness."</item>
+        <item>Click: activate the focused element.</item>
+        <item>Activate specified item: activate item with the specified name</item>
+        <item>Copy currently focused item: Copy the currently focused item to the clipboard</item>
+        <item>Translate: Translate the currently focused text.</item>
+        <item>Translate LanguageName: Translate the currently focused text to a given language</item>
+        <item>Select: Selects the given text</item>
+        <item>Send a message in the qq WeChat chat window: Hello send</item>
+        <item>ENter Text: Enters the spoken text in the text box</item>
+        <item>Long Input: Long dictation mode</item>
+        <item>Check weather: checks the weather</item>
+        <item>Check the ticket: checks the train tickets.</item>
+        <item>Tell the recipe: check the recipe for a given food.</item>
+        <item>Tell a joke: tells a random joke</item>
+        <item>Copy the response: copies the response of a given command.</item>
+        <item>There are more features waiting for being discovered.</item>
+    </string-array>
+    <string-array name="voice_recognizer_entries">
+        <item>Systém</item>
+        <item>Engine 1</item>
+        <item>Engine 2</item>
+        <item>Engine 3</item>
+    </string-array>
+    <string-array name="voice_recognizer_values">
+        <item>3</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="web_type_title">
+        <item>Predvolené</item>
+        <item>Nadpisy</item>
+        <item>Odkazy</item>
+        <item>Tlačidlá</item>
+        <item>Posúvanie</item>
+        <item>Zobrazenie</item>
+    </string-array>
+</resources>
