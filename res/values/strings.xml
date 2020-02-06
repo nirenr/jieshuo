@@ -973,23 +973,23 @@
     <string name="add_from_virtual_list">Add characters recognized by OCR</string>
     <string name="use_ocr_qq_title">Tencent cloud OCR.</string>
     <string name="ocr_lang_enteries">Mixed english|Automatically identify|Japanese|Korean|Spanish|French|German|Portuguese|Vietnamese|malay|Russian|Italian|Dutch|Swedish|Finnish|Danish|Norvegian|Hungarian|Thai|Latin</string>
-    <string name="cmd_description">说明(15字以上)</string>
-    <string name="timer_run_title">定时运行任务</string>
-    <string name="msg_has_vip_timer_run">非会员仅支持添加一个定时任务</string>
-    <string name="use_web_view_name_title">读出网页元素类型</string>
-    <string name="use_web_view_name_summary">打开后读出全部网页元素名称，关闭后仍会读出链接按钮等</string>
-    <string name="hour">时</string>
-    <string name="min">分</string>
-    <string name="msg_result_empty">我没听清你说什么</string>
-    <string name="msg_calling">正在呼叫</string>
-    <string name="msg_sended">已发送</string>
-    <string name="msg_add_error_has_lable">该节点有文字说明，不需要添加标签</string>
-    <string name="msg_label_added">已添加标签</string>
-    <string name="msg_lable_add_error">添加标签失败</string>
-    <string name="msg_clicked">点击了</string>
-    <string name="msg_search_on_net">在网络搜索</string>
-    <string name="msg_send_not_found">未找到发送按钮</string>
-    <string name="msg_search_on_store">在应用市场搜索</string>
+    <string name="cmd_description">Description (maximum 15 words).</string>
+    <string name="timer_run_title">Scheduled tasks</string>
+    <string name="msg_has_vip_timer_run">Free users cannot add scheduled tasks! Please purchase the full version to continue.</string>
+    <string name="use_web_view_name_title">Read type of the page element.</string>
+    <string name="use_web_view_name_summary">If switched on, all elements types will be read, otherwise only the necessary information will be spoken.</string>
+    <string name="hour">Hour</string>
+    <string name="min">Minute</string>
+    <string name="msg_result_empty">I didn't understand what you say.</string>
+    <string name="msg_calling">Calling.</string>
+    <string name="msg_sended">Successfully sent.</string>
+    <string name="msg_add_error_has_lable">The current node already has the label!</string>
+    <string name="msg_label_added">Label added.</string>
+    <string name="msg_lable_add_error">Error while adding label.</string>
+    <string name="msg_clicked">Clicked</string>
+    <string name="msg_search_on_net">Search on the internet</string>
+    <string name="msg_send_not_found">Send button not found.</string>
+    <string name="msg_search_on_store">Search in the application market</string>
 
 
 </resources>
