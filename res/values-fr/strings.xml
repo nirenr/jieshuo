@@ -405,7 +405,7 @@
     <string name="voice_helper_use_plugin_title">Utiliser des  plugins dans l\'assistant vocal: </string>
     <string name="voice_helper_use_tool_title">Utiliser des outils  dans l\'assistant vocal: </string>
     <string name="message_has_vip">Cette fonction est uniquement disponible Dans la version payante.</string>
-    <string name="has_vip_summary2">La fonction% s est limitée dans la version gratuite</string>
+    <string name="has_vip_summary2">La fonction %s est limitée dans la version gratuite</string>
     <string name="voice_helper_capability_setting">capabilités de l\'assistant vocal</string>
     <string name="use_wake_lock_pro_title">Gardez l\'écran  allumé avec une technologie améliorée</string>
     <string name="use_wake_lock_pro_summary">Si l\'option ci-dessus ne fonctionne pas, veuillez utiliser celle-ci..</string>
@@ -436,10 +436,10 @@
     <string name="use_text_format_first_title">Lire le texte en premier en mode expliquer: </string>
     <string name="use_text_format_char_number_title">Lire  l\'index de lettre: </string>
 
-    <string name="lower_case_format">%s Minuscule. </string>
-    <string name="upper_case_format">%s majuscule. </string>
-    <string name="lower_case_format_number">%s，Minuscule. Indexé %d</string>
-    <string name="upper_case_format_number">%s， majuscule， Indexé %d</string>
+    <string name="lower_case_format">%s Minuscule.%s </string>
+    <string name="upper_case_format">%s majuscule.%s </string>
+    <string name="lower_case_format_number">%s，Minuscule %s. Indexé %d</string>
+    <string name="upper_case_format_number">%s， majuscule %s， Indexé %d</string>
 
     <string name="lower_case_format2">%s</string>
     <string name="upper_case_format2">%s majuscule. </string>
@@ -989,6 +989,7 @@
     <string name="msg_search_on_net">在网络搜索</string>
     <string name="msg_send_not_found">未找到发送按钮</string>
     <string name="msg_search_on_store">在应用市场搜索</string>
+    <string name="msg_lable_add_error">添加标签出错</string>
 
 
 </resources>

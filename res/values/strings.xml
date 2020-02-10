@@ -980,7 +980,7 @@
     <string name="use_web_view_name_summary">If switched on, all elements types will be read, otherwise only the necessary information will be spoken.</string>
     <string name="hour">Hour</string>
     <string name="min">Minute</string>
-    <string name="msg_result_empty">I didn't understand what you say.</string>
+    <string name="msg_result_empty">I didn\'t understand what you say.</string>
     <string name="msg_calling">Calling.</string>
     <string name="msg_sended">Successfully sent.</string>
     <string name="msg_add_error_has_lable">The current node already has the label!</string>

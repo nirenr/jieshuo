@@ -344,7 +344,7 @@
     <string name="use_custom_gesture_title">Benutzerdefinierte Gesten verwenden</string>
     <string name="custom_gesture_settings_title">Benutzerdefinierte Gesten</string>
     <string name="use_foreground_pro_title">Andere Methode zum aktiv lassen des Bildschirms</string>
-    <string name="use_foreground_pro_summary"></string>
+    <string name="use_foreground_pro_summary">如果手机关屏休眠严重，可以尝试该选项，他在关屏时将解说设置为前台窗口</string>
     <string name="use_power_save_title">Energiesparmodus: </string>
     <string name="use_power_save_summary">Verringert den Akkuverbrauch</string>
     <string name="power_settings_title">Energie Einstellungen</string>
@@ -987,5 +987,6 @@
     <string name="msg_search_on_net">在网络搜索</string>
     <string name="msg_send_not_found">未找到发送按钮</string>
     <string name="msg_search_on_store">在应用市场搜索</string>
+    <string name="msg_lable_add_error">添加标签出错</string>
 
 </resources>

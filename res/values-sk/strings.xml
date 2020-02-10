@@ -308,7 +308,7 @@
     <string name="use_volume_key_move_text_title">Používať tlačidlá hlasitosti na pohyb kurzoru v režime úprav</string>
     <string name="user_text">používateľské meno: 5 až 15 latinských znakov</string>
     <string name="pass_text">Heslo: 6 až 15 latinských znakov.</string>
-    <string name="current_text" formatted="false">%d z %d zadaných znakov</string>
+    <string name="current_text">%d z %d zadaných znakov</string>
     <string name="user_id_text">Identifikátor používateľa</string>
     <string name="screen_on_off_settings_title">Oznamovať stav obrazovky</string>
     <string name="use_screen_on_speak_title">Oznámenie odomknutia obrazovky</string>
@@ -372,9 +372,9 @@
     <string name="description">Popis</string>
     <string name="gestures_description_not_found">Súbor s pomocníkom pre gestá nebol nájdený</string>
     <string name="timer_date_format">yyyy.M.d. HH:mm.</string>
-    <string name="to_all" formatted="false">%s až %s, celkom %s.</string>
+    <string name="to_all">%s až %s, celkom %s.</string>
     <string name="try_again">Prosím skúste to znovu</string>
-    <string name="timer_and_now_time" formatted="false">%s, je aktuálne %s</string>
+    <string name="timer_and_now_time">%s, je aktuálne %s</string>
     <string name="edit">Upraviť</string>
     <string name="edit_text_not_found">Textové pole nebolo nájdené</string>
     <string name="char_mode">Režim úprav</string>
@@ -385,15 +385,15 @@
     <string name="text_format_settings_title">Nastavenie slovníka</string>
     <string name="use_text_format_first_title">Najskôr prečítať text v režime pomocníka</string>
     <string name="use_text_format_char_number_title">Oznamovať reťazce znakov jednotlivo</string>
-    <string name="lower_case_format" formatted="false">%s malé %s</string>
-    <string name="upper_case_format" formatted="false">%s veľké %s</string>
-    <string name="lower_case_format_number" formatted="false">%s ， malé písmená %s ， %d písmená</string>
-    <string name="upper_case_format_number" formatted="false">%s ， veľké písmená %s ， %d písmená</string>
-    <string name="lower_case_format2" formatted="false">%s</string>
-    <string name="upper_case_format2" formatted="false">Veľké %s</string>
-    <string name="upper_case_format3" formatted="false">%s Veľké</string>
-    <string name="lower_case_format_number2" formatted="false">%s ， %d písmená</string>
-    <string name="upper_case_format_number2" formatted="false">Existujú %s veľké písmená %d</string>
+    <string name="lower_case_format">%s malé %s</string>
+    <string name="upper_case_format">%s veľké %s</string>
+    <string name="lower_case_format_number">%s ， malé písmená %s ， %d písmená</string>
+    <string name="upper_case_format_number">%s ， veľké písmená %s ， %d písmená</string>
+    <string name="lower_case_format2">%s</string>
+    <string name="upper_case_format2">Veľké %s</string>
+    <string name="upper_case_format3">%s Veľké</string>
+    <string name="lower_case_format_number2">%s ， %d písmená</string>
+    <string name="upper_case_format_number2">Existujú %s veľké písmená %d</string>
     <string name="use_slow_speed_title">Zpomaliť reč v režime úprav</string>
     <string name="has_vip_summary_gesture">V bezplatnej verzií nemôžu byť tieto gestá upravované</string>
     <string name="message_has_vip_loop_click">V bezplatnej verzií niesu podporované oneskorené kliknutia.</string>
@@ -463,7 +463,7 @@
     <string name="closed">Vypnuté</string>
     <string name="checked">Zaškrtnuté</string>
     <string name="unchecked">Nezaškrtnuté</string>
-    <string name="page_from_to" formatted="false">Strana %d z %d</string>
+    <string name="page_from_to">Strana %d z %d</string>
     <string name="done">Operácia dokončená</string>
     <string name="error_try_again">Vyskytla sa chyba. Prosím, skúste opakovať neskôr.</string>
     <string name="swipe_right">Švihnite vpravo</string>
@@ -471,8 +471,8 @@
     <string name="long_clicked">Dlhé stlačenie</string>
     <string name="notification_from">Nové oznámenie od %s</string>
     <string name="progress">Priebeh: %d</string>
-    <string name="item_current_count" formatted="false">%d z %d</string>
-    <string name="item_from_to_count" formatted="false">Zobrazujem položky %d až %d z %d</string>
+    <string name="item_current_count">%d z %d</string>
+    <string name="item_from_to_count">Zobrazujem položky %d až %d z %d</string>
     <string name="point">Odrážka</string>
     <string name="selected">Vybraté</string>
     <string name="disabled">Nedostupné</string>
@@ -667,11 +667,11 @@
     <string name="date_format0">HH:00</string>
     <string name="more">Viac</string>
     <string name="add_label">Pridať štítok</string>
-    <string name="grid_item_current" formatted="false">Riadok %d, stĺpec %d.</string>
+    <string name="grid_item_current">Riadok %d, stĺpec %d.</string>
     <string name="node_info_root">Koreňový objekt obsahuje %d vnorených objektov.</string>
     <string name="node_info">Existuje %d vnorených objektov.</string>
     <string name="node_info_none">Žiadne vnorené objekty.</string>
-    <string name="rating_current_count" formatted="false">Hodnotenie %d z %d hviezd.</string>
+    <string name="rating_current_count">Hodnotenie %d z %d hviezd.</string>
     <string name="date_format_sec">s\'sekúnd\'</string>
     <string name="date_format_min_sec">m\'minúty\'ss\'sekundy\'</string>
     <string name="date_format_hour_min">HH\'hodiny\'mm\'minúty\'</string>
@@ -768,7 +768,7 @@
     <string name="no_vip">Doposiaľ ste si nezakúpili plnú verziu programu!</string>
     <string name="need_vip">Pokiaľ si chcete zakúpiť plnú verziu, kontaktujte prosím zákaznícku podporu.</string>
     <string name="check_read_phone_state_permission">Skontrolujte platnosť povolení</string>
-    <string name="message_timer_mode_disabled" formatted="false">Časovač zastavený, %s, aktuálne je %s</string>
+    <string name="message_timer_mode_disabled">Časovač zastavený, %s, aktuálne je %s</string>
     <string name="camera_right_up">Vpravo a hore</string>
     <string name="camera_left_up">Vľavo a hore</string>
     <string name="camera_hold_posture">zastabilizujte svoje aktuálne držanie tela</string>

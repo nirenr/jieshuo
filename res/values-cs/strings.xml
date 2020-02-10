@@ -308,7 +308,7 @@
     <string name="use_volume_key_move_text_title">Používat tlačítka hlasitosti pro pohyb kurzoru v režimu editace</string>
     <string name="user_text">Uživatelské jméno: 5 až 15 latinských znaků</string>
     <string name="pass_text">Heslo: 6 až 15 latinských znaků.</string>
-    <string name="current_text" formatted="false">%d z%d zadaných znaků</string>
+    <string name="current_text">%d z%d zadaných znaků</string>
     <string name="user_id_text">Identifikátor uživatele</string>
     <string name="screen_on_off_settings_title">Ohlašovat stav obrazovky</string>
     <string name="use_screen_on_speak_title">Hlásit odemknutí obrazovky</string>
@@ -372,9 +372,9 @@
     <string name="description">Popis</string>
     <string name="gestures_description_not_found">Soubor s nápovědou pro gesta nebyl nalezen</string>
     <string name="timer_date_format">yyyy.M.d. HH:mm.</string>
-    <string name="to_all" formatted="false">%s až%s, celkem%s.</string>
+    <string name="to_all">%s až%s, celkem%s.</string>
     <string name="try_again">Prosím zkuste to znovu</string>
-    <string name="timer_and_now_time" formatted="false">%s, je právě%s</string>
+    <string name="timer_and_now_time">%s, je právě%s</string>
     <string name="edit">Upravit</string>
     <string name="edit_text_not_found">Textové pole nebylo nalezeno</string>
     <string name="char_mode">Režim editace</string>
@@ -385,15 +385,15 @@
     <string name="text_format_settings_title">Nastavení slovníku</string>
     <string name="use_text_format_first_title">Nejprve přečíst text v režimu nápovědy</string>
     <string name="use_text_format_char_number_title">Hlásit řetězce znaků jednotlivě</string>
-    <string name="lower_case_format" formatted="false">%s malé%s</string>
-    <string name="upper_case_format" formatted="false">%s velké%s</string>
-    <string name="lower_case_format_number" formatted="false">%s ， malá písmena%s ，%d písmena</string>
-    <string name="upper_case_format_number" formatted="false">%s ， velká písmena%s ，%d písmena</string>
-    <string name="lower_case_format2" formatted="false">%s</string>
-    <string name="upper_case_format2" formatted="false">Velká %s</string>
-    <string name="upper_case_format3" formatted="false">%s Velké</string>
-    <string name="lower_case_format_number2" formatted="false">%s ，%d písmena</string>
-    <string name="upper_case_format_number2" formatted="false">Existují%s velká písmena%d</string>
+    <string name="lower_case_format">%s malé%s</string>
+    <string name="upper_case_format">%s velké%s</string>
+    <string name="lower_case_format_number">%s ， malá písmena%s ，%d písmena</string>
+    <string name="upper_case_format_number">%s ， velká písmena%s ，%d písmena</string>
+    <string name="lower_case_format2">%s</string>
+    <string name="upper_case_format2">Velká %s</string>
+    <string name="upper_case_format3">%s Velké</string>
+    <string name="lower_case_format_number2">%s ，%d písmena</string>
+    <string name="upper_case_format_number2">Existují%s velká písmena%d</string>
     <string name="use_slow_speed_title">Zpomalit řeč v režimu editace</string>
     <string name="has_vip_summary_gesture">V bezplatné verzi nemohou být tato gesta upravována</string>
     <string name="message_has_vip_loop_click">V bezplatné verzi nejsou podporována zpožděná kliknutí.</string>
@@ -463,7 +463,7 @@
     <string name="closed">Vypnuto</string>
     <string name="checked">Zaškrtnuto</string>
     <string name="unchecked">Nezaškrtnuto</string>
-    <string name="page_from_to" formatted="false">Strana %d of %d</string>
+    <string name="page_from_to">Strana %d of %d</string>
     <string name="done">Operace dokončena</string>
     <string name="error_try_again">Vyskytla se chyba. Prosím, opakujte akci později.</string>
     <string name="swipe_right">Švihněte vpravo</string>
@@ -471,8 +471,8 @@
     <string name="long_clicked">Dlouhý stisk</string>
     <string name="notification_from">Nové oznámení od %s</string>
     <string name="progress">Průběh: %d</string>
-    <string name="item_current_count" formatted="false">%d z %d</string>
-    <string name="item_from_to_count" formatted="false">Zobrazuji položky %d až %d z %d</string>
+    <string name="item_current_count">%d z %d</string>
+    <string name="item_from_to_count">Zobrazuji položky %d až %d z %d</string>
     <string name="point">Odrážka</string>
     <string name="selected">Vybráno</string>
     <string name="disabled">Nedostupné</string>
@@ -667,11 +667,11 @@
     <string name="date_format0">HH:00</string>
     <string name="more">Více</string>
     <string name="add_label">Přidat štítek</string>
-    <string name="grid_item_current" formatted="false">řádek %d, sloupec %d.</string>
+    <string name="grid_item_current">řádek %d, sloupec %d.</string>
     <string name="node_info_root">Kořenový objekt obsahuje%d podřízené objekty.</string>
     <string name="node_info">Existují%d podřízené objekty.</string>
     <string name="node_info_none">Žádné podřízené objekty.</string>
-    <string name="rating_current_count" formatted="false">Hodnocení%d z%d hvězd.</string>
+    <string name="rating_current_count">Hodnocení%d z%d hvězd.</string>
     <string name="date_format_sec">s\'vteřin\'</string>
     <string name="date_format_min_sec">m\'minuty\'ss\'vteřiny\'</string>
     <string name="date_format_hour_min">HH\'hodiny\'mm\'minuty\'</string>
@@ -768,7 +768,7 @@
     <string name="no_vip">Dosud jste nezakoupili plnou verzi programu!</string>
     <string name="need_vip">Jestliže si chcete zakoupit plnou verzi, kontaktujte prosím zákaznickou podporu.</string>
     <string name="check_read_phone_state_permission">Překontrolujte platnost oprávnění</string>
-    <string name="message_timer_mode_disabled" formatted="false">Časovač zastaven,%s,nyní je %s</string>
+    <string name="message_timer_mode_disabled">Časovač zastaven,%s,nyní je %s</string>
     <string name="camera_right_up">Vpravo a nahoru</string>
     <string name="camera_left_up">Vlevo a nahoru</string>
     <string name="camera_hold_posture">Zafixujte své aktuální držení těla</string>
@@ -888,4 +888,5 @@
     <string name="msg_search_on_net">Vyhledat na webu</string>
     <string name="msg_send_not_found">Tlačítko odeslat nebylo nalezeno</string>
     <string name="msg_search_on_store">Vyhledat v obchodě s aplikacemi</string>
+    <string name="msg_lable_add_error">添加标签出错</string>
 </resources>

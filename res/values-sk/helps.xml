@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="help_items">
+        <item>Basic browsing operations:
+ By default, swiping up navigates to the previous item. Swiping down navigates to the next item.
+ However you can change this behavior in the action settings.</item>
+        <item>Main Menu:
+ By default, use the down right swipe to open the menu, swipe right to expand more options.
+ You can display all menu items at once by customizing it in the settings.</item>
+        <item>voice assistant:
+ By default, the voice assistant is activated with the down left swipe gesture and the command is spoken after the sound. Tapping the screen will force the immediate recognition
+ The voice assistant can be customized in advanced settings, voice assistant settings, voice assistant capabilities settings.
+</item>
+        <item>Actions menu:
+ By default, up right swipe opens the action menu, right swipe expands the menu and double tap activates the focused menu option.</item>
+        <item>Extensions:
+ By default, the first and last left gestures are used to open the extension list, and then right-slide to open the voice command list, and double-click to execute the corresponding function.
+ You can find more plugins in the resource download.
+ Advanced settings, voice assistant settings, voice command settings, new, modified or downloaded</item>
+        <item>Copy, append copy, clipboard and favorites:
+ These functions can be found in the operation menu.
+ Copy, copy the focus to the clipboard
+ Append copy to append the focus content to the last item of the clipboard,
+ Clipboard, record the most recently copied content, click to enter the edit box, long press to add content to favorites
+ Favorites, click to enter the edit box, long press to edit,
+ In advanced settings, resource management can delete or backup clipboard and favorites</item>
+        <item>Long copy (premium users only):
+ Long copy can copy long list content.
+ After the long copy is activated in the operation menu, you need to wait for different time according to the length of the list. When the copy is completed, you will be prompted to complete the long copy.
+ During long copying, you can force abort by swiping any gesture.</item>
+        <item>Full text selection (Premium users only):
+ Full-text selection is mainly suitable for copying some content from web pages or longer content. The full text selection can split the content by word, sentence, and segment form, select the required content through the check box form, and finally copy,
+ In the content list, you can long press an item as the starting point, and then long press the end of the selection to quickly select multiple consecutive items.</item>
+        <item>Advanced editing (member function):
+ You can edit the focus content according to words, sentences, paragraphs or full text in the edit box or non-edit box to facilitate quick positioning and modification.
+ Click on the split edit list to edit it, long press to make the entry more detailed split.
+ Edit box can be clicked to enter the edit box, and the non-edit box can only be saved to the clipboard by copying.</item>
+        <item>List browsing:
+ Display all the focus as a list, click to activate the corresponding focus, especially suitable for use on web pages.</item>
+        <item>Reading mode (member function):
+ You can read webpage articles opened by the browser, filter unwanted content, and turn pages automatically.</item>
+        <item>Virtual screen (member function):
+ The OCR recognizes the content on the screen, displays the result according to the text position, clicks the result text to activate the corresponding focus, long presses the word to split the focus, and clicks the word to activate the position of the corresponding word.
+ Android 7 or above double-click to activate, Android 6 below three times to activate.</item>
+        <item>Text recognition (member function):
+ The content on the screen is recognized by the OCR, and the result is displayed in a list form, and the result list is clicked to activate the corresponding focus, the long press is followed by the word display result, and the single word is activated to activate the position of the corresponding word.
+ Clicking is not supported under Android 6 and only results can be viewed.</item>
+        <item>Captcha identification (member function):
+ Touch the verification code focus, use advanced menu, verification code identification, or voice assistant, verification code identification, can recognize English or digital verification code, and the recognition result is automatically copied to the clipboard.</item>
+        <item>Jieshuo camera (member function):
+ The camera can recognize text, scenes, animals, plants, or for camera guidance. The camera currently supports only the rear camera, using volume plus shooting, volume minus switching mode.</item>
+        <item>Quickly navigate between list items:
+ In the operation settings, left and right shortcut gesture settings enable the left and right gestures to move quickly in the list, you can use the left or right gesture to quickly browse the message in the list of QQ messages, for example.</item>
+        <item>Notification black/whitelist:
+ The notification blacklist can filter out notifications containing the specified content, and input an asterisk to filter all notifications of the application.
+ The notification whitelist can allow reading of notifications containing the specified content, even if the notification has been closed, entering an asterisk indicates that all notifications for the program are allowed.
+ Keywords support regular expressions.</item>
+        <item>Content blacklist:
+ You can filter the focus content of the specified content, usually used to filter some non-standard accessibility instructions.
+ Regular expressions are not supported based on efficiency considerations.</item>
+        <item>Web content filtering (member function):
+ Filters the useless image annotations on the page to filter out the lengthy and useless instructions on the page.
+ Stronger filtering can further filter out unnecessary non-essential content.</item>
+        <item>Powerful mode (member function):
+ Powerful mode gives you more operational focus,
+ It is known to bring better experiences in software such as WeChat Sports, WeChat Friends Circle, Taobao Footprint, Huawei Router and so on.</item>
+        <item>Virtual navigation (member function):
+ Virtual navigation can add the location of content that cannot be directly clicked to the navigation list.
+ Please add only the focus of the immutable position, click on the recognized focus input name in the recognition click to add,
+ Only supports Android 7 or above.</item>
+        <item>Custom gestures:
+ You can customize any built-in or extended features as gestures.
+ Quickly change gestures by importing a gesture pack.
+ After the gesture is imported, it needs to be set in the operation, and the gesture scheme switching can take effect.
+ If you are not familiar with the operation suggestions in the common settings, customize the gesture to modify the gesture.</item>
+        <item>Two-step gestures (member function):
+ A two-step gesture is an operation that quickly operates a second gesture after a traditional gesture operation is completed.
+ It can be turned on or customized in the action settings, two-step gestures,
+ After the two-step gesture is turned on, there is a half-second delay after the first gesture operation is completed, waiting for the second step.
+ Don\'t set gestures that require efficiency, such as moving focus gestures, using two-step gestures.</item>
+        <item>Record voice commands:
+ Start the voice assistant to say the recording command, say the program to be opened in turn or click the key of the focus to realize the rapid voice command production. When all the instructions are finished, say to end the recording, after the prompt to enter the name of the command, say the name of the command, and finally say determine.
+ If there is an unrecognized instruction during the recording process, you can re-speak it. Recorded commands can be changed in Advanced Settings, Voice Assistant Settings, Voice Command Settings.</item>
+    </string-array>
+
+
+    <string-array name="gesture_help_items">
+        <item>Gesture operation essentials:
+ Single gestures should be straight, and movements should be fast
+ The first part of the combined gesture should be longer than half the length of the screen, and the second part can be oriented as long as it is right.</item>
+        <item>Combination gesture:
+ First up, down, last focus
+ First down, first, first focus
+ First left and right task switching
+ Right, then left, back
+ First up and then right operation menu
+ First right and then right function menu
+ First, then left, extension
+ First, then left, voice assistant
+ First left, then left, word by word
+ Right first, then upper, automatically read aloud
+ First left and then open the notification bar
+ First right, then bottom, browse the list
+ Up twice click to browse
+ Twice swipe down</item>
+        <item>Click on the browse mode gesture:
+ Click to switch focus
+ Browse up mode
+ Browse down mode</item>
+        <item>Focus browsing mode gestures:
+ Up one focus
+ Down next focus</item>
+        <item>QQ WeChat call
+ Reject with left swipe
+ Answer with right swipe</item>
+        <item>Phone QQ WeChat call
+ Hang up left
+ Answer right</item>
+        <item>List
+ Page up to the left
+ Flip right to the bottom</item>
+        <item>Dialog
+ Cancel left
+ OK right</item>
+        <item>Progress slider
+ Swipe left to decrease slider
+ Swipe right to increase slider</item>
+        <item>Edit box
+ Move the cursor forward
+ Move the cursor backward</item>
+        <item>Word-by-word browse mode gestures:
+ Click to explain the current character
+ Up one line up
+ Down one line
+ Left previous character
+ Right next character
+ First left, last, last paragraph
+ First right, then next, next paragraph
+ First, then right, select text
+ Left first, then left, exit literally</item>
+        <item>Text selection gestures:
+ Single tap: read the current character.
+ Up swipe: Go to the previous line.
+ Down swipe: Go to the next line.
+ Left swipe: Go to the previous character.
+ Right swipe: Go to the next character.
+ Left up swipe: Go to the previous paragraph.
+ Right up swipe: Go to the next paragraph.
+ Up right swipe: Deselect all.
+ Down right swipe: Copy selection.
+ Up left swipe: Append copy.
+ Right down swipe: copy the whole text.</item>
+        <item>Node browsing mode gestures Up swipe: go to the previous node.
+ Down swipe: Go to the next node.
+ Left swipe: go to the parent node.
+ Right swipe: Go to the child node.
+ Down left swipe: exit the node.</item>
+        <item>Voice assistant manual:
+ Open AppName: Opens the given app Send Content: allows direct sending to QQ and Wechat Search for content: performs the online search for the given phrase Voice assistant is extensible thanks to the editing menus and plugins.</item>
+    </string-array>
+
+
+    <string-array name="voice_helper_help_items">
+        <item>Open the given program: Open application name</item>
+        <item>Install the given program: install Application Name</item>
+        <item>Uninstall the given program: uninstall Application Name</item>
+        <item>Read Everything: Read the whole screen</item>
+        <item>Read aloud: read aloud and follow the cursor</item>
+        <item>Current Brightness: read the environment\'s brightness.</item>
+        <item>Click: activate the focused element.</item>
+        <item>Activate specified item: activate item with the specified name</item>
+        <item>Copy currently focused item: Copy the currently focused item to the clipboard</item>
+        <item>Translate: Translate the currently focused text.</item>
+        <item>Translate LanguageName: Translate the currently focused text to a given language</item>
+        <item>Select: Selects the given text</item>
+        <item>Send a message in the qq WeChat chat window: Hello send</item>
+        <item>ENter Text: Enters the spoken text in the text box</item>
+        <item>Long Input: Long dictation mode</item>
+        <item>Check weather: checks the weather</item>
+        <item>Check the ticket: checks the train tickets.</item>
+        <item>Tell the recipe: check the recipe for a given food.</item>
+        <item>Tell a joke: tells a random joke</item>
+        <item>Copy the response: copies the response of a given command.</item>
+        <item>There are more features waiting for being discovered.</item>
+    </string-array>
+
+</resources>
