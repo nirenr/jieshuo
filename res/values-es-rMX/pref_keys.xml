@@ -354,4 +354,12 @@
     <string name="ocr_lang">ocr_lang</string>
     <string name="timer_run">timer_run</string>
     <string name="use_web_view_name">use_web_view_name</string>
+    <string name="check_permissions">check_permissions</string>
+    <string name="check_overlay_permissions">check_overlay_permissions</string>
+    <string name="check_battery_permissions">check_battery_permissions</string>
+    <string name="open_application_info">open_application_info</string>
+    <string name="open_setup_setting">open_setup_setting</string>
+    <string name="check_notification_permissions">check_notification_permissions</string>
+    <string name="welcome">welcome</string>
+    <string name="setup_setting">setup_setting</string>
 </resources>

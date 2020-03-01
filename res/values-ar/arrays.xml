@@ -177,8 +177,8 @@
         <item>*رفض*</item>
         <item>*انهاء*</item>
         <item>*إنهاء*</item>
+        <item>*قطع*</item>
         <item>محو*</item>
-        <item>تخطي الإعلان</item>
         <item>إغلاق*</item>
         <item>حذف جميع الإشعارات.</item>
         <item>مسح*</item>
@@ -190,7 +190,7 @@
         <item>رد*</item>
         <item>Send</item>
         <item>*مكبر الصوت*</item>
-        <item>الحذف لدى الجميع</item>
+        <item>تخطي الإعلان</item>
         <item>إرسال تعليق</item>
         <item>تقديم*</item>
     </string-array>
