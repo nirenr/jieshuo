@@ -90,6 +90,7 @@
         <item>@string/raw_swipe_right</item>
         <item>@string/raw_swipe_up</item>
         <item>@string/raw_swipe_down</item>
+        <item>朗读字幕</item>
     </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>

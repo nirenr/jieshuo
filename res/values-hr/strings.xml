@@ -1033,4 +1033,29 @@
     <string name="setup_setting_has_overlay_permission">Pravo plutajućih prozora je dato.</string>
     <string name="copy_username_and_userid">Kopiraj korisničko ime i identifikator.</string>
     <string name="username_and_userid_format">Korisničko ime: %s Korisnički identifikator: %s</string>
+    <string name="refresh">刷新</string>
+    <string name="file_name_dict">词典.json</string>
+    <string name="msg_filter">共找到%d个结果</string>
+    <string name="use_custom_symbol_speak_title">朗读自定义符号</string>
+    <string name="custom_symbol_title">自定义符号设置</string>
+    <string name="use_custom_dict_speak_title">使用自定义词典</string>
+    <string name="custom_dict_title">用户词典设置</string>
+
+    <string name="msg_has_vip_dict">非会员仅支持添加5条</string>
+    <string name="undo">撤消</string>
+    <string name="redo">重做</string>
+    <string name="last_open">最近</string>
+    <string name="create_file">新建文件</string>
+    <string name="open_project">打开工程</string>
+    <string name="create_project">新建工程</string>
+    <string name="format">格式化</string>
+    <string name="fix_import">导入分析</string>
+    <string name="run">运行</string>
+    <string name="use_emoji_speak_title">朗读Emoji表情</string>
+    <string name="install_shortcut">添加到桌面</string>
+    <string name="msg_select_end">选择结束</string>
+    <string name="msg_select_start">选择开始</string>
+    <string name="msg_plugin_run_error">先在辅助功能启动解说再运行插件</string>
+    <string name="input_file_name">输入文件名</string>
+    <string name="input_project_name">输入工程名</string>
 </resources>

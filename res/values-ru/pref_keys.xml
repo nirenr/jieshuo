@@ -363,6 +363,14 @@
     <string name="check_notification_permissions">check_notification_permissions</string>
     <string name="welcome">welcome</string>
     <string name="setup_setting">setup_setting</string>
+    <string name="plugin">plugin</string>
+    <string name="use_custom_symbol_speak">use_custom_symbol_speak</string>
+    <string name="custom_symbol">custom_symbol</string>
+    <string name="use_custom_dict_speak">use_custom_dict_speak</string>
+    <string name="custom_dict">custom_dict</string>
+    <string name="use_emoji_speak">use_emoji_speak</string>
+    <string name="custom_dict_data">custom_dict_data</string>
+    <string name="custom_symbol_data">custom_symbol_data</string>
 
 
 </resources>

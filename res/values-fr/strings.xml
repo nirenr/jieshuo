@@ -405,7 +405,7 @@
     <string name="voice_helper_use_plugin_title">Utiliser des  plugins dans l\'assistant vocal: </string>
     <string name="voice_helper_use_tool_title">Utiliser des outils  dans l\'assistant vocal: </string>
     <string name="message_has_vip">Cette fonction est uniquement disponible Dans la version payante.</string>
-    <string name="has_vip_summary2">La fonction% s est limitée dans la version gratuite</string>
+    <string name="has_vip_summary2">La fonction %s est limitée dans la version gratuite</string>
     <string name="voice_helper_capability_setting">capabilités de l\'assistant vocal</string>
     <string name="use_wake_lock_pro_title">Gardez l\'écran  allumé avec une technologie améliorée</string>
     <string name="use_wake_lock_pro_summary">Si l\'option ci-dessus ne fonctionne pas, veuillez utiliser celle-ci..</string>
@@ -414,7 +414,7 @@
     <string name="notification_black_list_summary">Les notifications ajoutées à la liste noire  ne seront pas prononcées.</string>
     <string name="notification_while_list_summary"> Les notifications ajoutées à la liste blanche   seront toujours prononcées, Même si la lecture des notifications  est désactivée</string>
     <string name="system_tts_volume_title">volume de synthèse vocale du système</string>
-			<string name="notification_select_title">Types des notifications</string>
+    <string name="notification_select_title">Types des notifications</string>
 
     <string name="message_disable_dim_screen">S\'il vous plaît désactiver le rideau en premier</string>
     <string name="start_long_copy">La copie avancée a commencé</string>
@@ -432,14 +432,14 @@
     <string name="auto_next">Navigation automatique</string>
     <string name="message_copy">Texte copié</string>
     <string name="message_append">Texte ajouté</string>
-     <string name="text_format_settings_title">Paramètres du dictionnaire</string>
+    <string name="text_format_settings_title">Paramètres du dictionnaire</string>
     <string name="use_text_format_first_title">Lire le texte en premier en mode expliquer: </string>
     <string name="use_text_format_char_number_title">Lire  l\'index de lettre: </string>
 
-    <string name="lower_case_format">%s Minuscule. </string>
-    <string name="upper_case_format">%s majuscule. </string>
-    <string name="lower_case_format_number">%s，Minuscule. Indexé %d</string>
-    <string name="upper_case_format_number">%s， majuscule， Indexé %d</string>
+    <string name="lower_case_format">%s Minuscule.%s </string>
+    <string name="upper_case_format">%s majuscule.%s </string>
+    <string name="lower_case_format_number">%s，Minuscule %s. Indexé %d</string>
+    <string name="upper_case_format_number">%s， majuscule %s， Indexé %d</string>
 
     <string name="lower_case_format2">%s</string>
     <string name="upper_case_format2">%s majuscule. </string>
@@ -509,7 +509,7 @@
     <string name="raw_swipe_right">Déplacer l\'élément vers la droite</string>
     <string name="raw_swipe_left"> Déplacer l\'élément vers la gauche</string>
     <string name="raw_long_click">Pression prolongée directe</string>
-    <string name="raw_click">Clic direct</string>
+    <string name="raw_click">clique direct</string>
 
     <string name="click_to_enabled">L\'exploration par toucher a été repris.</string>
     <string name="touch_mode_disabled">L\'exploration par toucher a été suspendu..</string>
@@ -626,7 +626,7 @@
     <string name="down_right_double_fling_setting">paramètres de balayage vers le bas PUIS vers la droite</string>
     <string name="down_right_double_fling_left_gesture_value_default">retour</string>
     <string name="down_right_double_fling_up_gesture_value_default">Écran d\'accueil</string>
-    <string name="down_right_double_fling_right_gesture_value_default">Clic direct</string>
+    <string name="down_right_double_fling_right_gesture_value_default">clique direct</string>
     <string name="down_right_double_fling_down_gesture_value_default">Ouvrir le panneau de notification</string>
 
     <string name="down_left_double_fling_setting">paramètres de balayage vers le bas PUIS vers la gauche</string>
@@ -826,14 +826,14 @@
     <string name="system_voice_recognizer_summary">Le paramètre est valide uniquement lorsque le moteur de reconnaissance est défini sur Système..</string>
     <string name="msg_no_found">Pas trouvé.</string>
     <string name="msg_canceled">Annulé.</string>
-    <string name="voice_cmd_phone_to">Phone to</string>
-    <string name="voice_cmd_call">Call</string>
-    <string name="voice_cmd_send">Send</string>
-    <string name="open">open</string>
-    <string name="voice_cmd_uninstall">Uninstall</string>
-    <string name="voice_cmd_install">Install</string>
-    <string name="voice_cmd_input">Input</string>
-    <string name="voice_cmd_search">Search</string>
+    <string name="voice_cmd_phone_to">Composer le</string>
+    <string name="voice_cmd_call">Appeler</string>
+    <string name="voice_cmd_send">Envoyer</string>
+    <string name="open">Ouvrez</string>
+    <string name="voice_cmd_uninstall">désinstaller</string>
+    <string name="voice_cmd_install">Installer</string>
+    <string name="voice_cmd_input">écrire</string>
+    <string name="voice_cmd_search">Chercher</string>
     <string name="camera_guide">Mode de reconnaissance en temps réel.</string>
     <string name="camera_tag">Reconnaître les paysages.</string>
     <string name="camera_ocr">Reconnaître le texte.</string>
@@ -931,7 +931,7 @@
     <string name="voice_helper_exit">Au revoir</string>
     <string name="voice_input_mode">Mode dictée vocale</string>
     <string name="voice_helper_record_start">Commencer l\'enregistrement</string>
-    <string name="voice_helper_record_stop">Arrêter l\'enregistrement.</string>
+    <string name="voice_helper_record_stop">terminer</string>
     <string name="voice_helper_record_message">Commencez à enregistrer, prononcez la commande, puis arrêtez-la</string>
     <string name="voice_helper_record_done">Enregistrement terminé.</string>
     <string name="msg_save_error">Erreur lors de la sauvegarde.</string>
@@ -973,23 +973,25 @@
     <string name="add_from_virtual_list">Ajouter via le texte reconnu</string>
     <string name="use_ocr_qq_title">Moteur Tencent Cloud</string>
     <string name="ocr_lang_enteries">Mixte chinois et anglais|Identification automatique|Japonais|Coréen|Espagnol|français|Allemand|Portugais|Vietnamien|Malais|Russe|Italien|Néerlandais|Suédois|Finnois|Danois|Norvégien|Hongrois|Thaï|Latin</string>
-    <string name="cmd_description">说明(15字以上)</string>
-    <string name="timer_run_title">定时运行任务</string>
-    <string name="msg_has_vip_timer_run">非会员仅支持添加一个定时任务</string>
-    <string name="use_web_view_name_title">读出网页元素类型</string>
-    <string name="use_web_view_name_summary">打开后读出全部网页元素名称，关闭后仍会读出链接按钮等</string>
-    <string name="hour">时</string>
-    <string name="min">分</string>
-    <string name="msg_result_empty">我没听清你说什么</string>
-    <string name="msg_calling">正在呼叫</string>
-    <string name="msg_sended">已发送</string>
-    <string name="msg_add_error_has_lable">该节点有文字说明，不需要添加标签</string>
-    <string name="msg_label_added">已添加标签</string>
-    <string name="msg_clicked">点击了</string>
-    <string name="msg_search_on_net">在网络搜索</string>
-    <string name="msg_send_not_found">未找到发送按钮</string>
-    <string name="msg_search_on_store">在应用市场搜索</string>
-    <string name="msg_lable_add_error">添加标签失败</string>
+    <string name="cmd_description">description (De 15 à 500 caractères).</string>
+    <string name="timer_run_title">Tâches planifiées</string>
+    <string name="msg_has_vip_timer_run">Il n\'est pas possible d\'ajouter plus d\'une tâche dans la version gratuite! Veuillez acheter la version complète pour continuer.</string>
+    <string name="use_web_view_name_title">lire le type d\'élément sur la page Web.</string>
+    <string name="use_web_view_name_summary">S\'il est activé, tous les types d\'éléments seront lus, sinon seules les informations nécessaires seront prononcées.</string>
+    <string name="hour">Heure</string>
+    <string name="min">Minute</string>
+    <string name="msg_result_empty">Je n\'ai pas compris ce que tu dis.</string>
+    <string name="msg_calling">Appel.</string>
+    <string name="msg_sended">Envoyé avec succès.</string>
+    <string name="msg_add_error_has_lable">Le nœud actuel a déjà l\'étiquette!</string>
+    <string name="msg_label_added">Étiquette ajoutée.</string>
+    <string name="msg_clicked">Cliqué</string>
+    <string name="msg_search_on_net">Recherche sur internet</string>
+    <string name="msg_send_not_found">Bouton d\'envoi introuvable.</string>
+    <string name="msg_search_on_store">Rechercher dans le Play Store</string>
+    <string name="msg_lable_add_error">Erreur lors de l\'ajout d\'une étiquette.</string>
+
+
     <string name="check_permissions_title">检查权限</string>
     <string name="setup_setting_title">设置向导</string>
     <string name="check_overlay_permissions_title">检查悬浮窗权限</string>
@@ -1035,6 +1037,31 @@
     <string name="setup_setting_has_overlay_permission">已获得悬浮窗权限</string>
     <string name="copy_username_and_userid">复制用户名和用户ID</string>
     <string name="username_and_userid_format">用户名 %s 用户ID %s</string>
+    <string name="file_name_dict">词典.json</string>
+    <string name="refresh">刷新</string>
+    <string name="msg_filter">共找到%d个结果</string>
+    <string name="use_custom_symbol_speak_title">朗读自定义符号</string>
+    <string name="custom_symbol_title">自定义符号设置</string>
+    <string name="use_custom_dict_speak_title">使用自定义词典</string>
+    <string name="custom_dict_title">用户词典设置</string>
+
+    <string name="msg_has_vip_dict">非会员仅支持添加5条</string>
+    <string name="undo">撤消</string>
+    <string name="redo">重做</string>
+    <string name="last_open">最近</string>
+    <string name="create_file">新建文件</string>
+    <string name="open_project">打开工程</string>
+    <string name="create_project">新建工程</string>
+    <string name="format">格式化</string>
+    <string name="fix_import">导入分析</string>
+    <string name="run">运行</string>
+    <string name="use_emoji_speak_title">朗读Emoji表情</string>
+    <string name="install_shortcut">添加到桌面</string>
+    <string name="msg_select_end">选择结束</string>
+    <string name="msg_select_start">选择开始</string>
+    <string name="msg_plugin_run_error">先在辅助功能启动解说再运行插件</string>
+    <string name="input_file_name">输入文件名</string>
+    <string name="input_project_name">输入工程名</string>
 
 
 </resources>

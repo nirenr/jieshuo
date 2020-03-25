@@ -3,7 +3,7 @@
     <string name="app_name"> Commentary Screen Reader</string>
     <string name="accessibility_service_description">
         Commentary Screen Reader هو تطبيقٌ يُساعِدُ المكفوفينَ على استخدامِ هواتفهِم المحمولة. لقد قمنا ببعض المحاولات للابتكار. لمزيدٍ مِنَ التفاصيل، افتح الإعدادات ثُمَّ المساعَدة.\n
-        بعضُ الوظائفِ مُقَيَّدةٌ حتى تقومَ بِشِراءِ الإصدار الكامل. لمزيدٍ مِنَ التفاصيل، يُرجى التواصُلُ مع مُمَثِّلي خِدْمةِ العُمَلاء على مجموعة QQ الرسمية.\n
+        بعضُ الوظائفِ مُقَيَّدةٌ حتى تقومَ بالإشتراك في النسخة المدفوعة. لمزيدٍ مِنَ التفاصيل، يُرجى التواصُلُ مع مُمَثِّلي خِدْمةِ العُمَلاء على مجموعة QQ الرسمية.\n
         \n
         المزايا: \n
         المساعِدُ الصوتي: استَخدِم هاتفَك مِن دونِ لَمْسِهِ مع مساعِدِنا الصوتي.\n
@@ -230,14 +230,14 @@
     <string name="advanced_menu_title">قائمة التَّعَرُّف, </string>
     <string name="quick_menu_title">القائمةُ السريعة, </string>
     <string name="check_update_title">البحث عن تحديثات</string>
-    <string name="qq_group_summary">يمكنُكَ التَّحَدُّث عن Commentary Screen Reader أو شِراؤه</string>
+    <string name="qq_group_summary">يمكنُكَ التَّحَدُّث عن Commentary Screen Reader</string>
     <string name="favorites_menu_title">المُفَضَّلة, </string>
     <string name="favorites_manager_title">إدارةُ العناصر المفضلة لديك</string>
     <string name="use_multi_menu_title">استخدام قائمة متعددة الأعمدة: </string>
     <string name="use_multi_menu_summary">القائمةُ المتعددةُ الأعمدة لا تدعم المحتوى المخصَّص</string>
-    <string name="use_left_right_title">استخدامُ التمرير لليمين و لل يسار للتَّنَقُّل: </string>
+    <string name="use_left_right_title">استخدام إيماءات التمرير  لليسار و لليمين   للتَنَقُّل: </string>
     <string name="use_list_item_index_title">نُطْق رقم العنصر في القائمة: </string>
-    <string name="use_left_right_summary">عند تحديد هذا الخيار، يَتِمُّ تغييرُ التركيز باستخدامِ التَّمْرير لليمين و لل يسار، وتنفيذ الوظائف الإضافية باستخدامِ التَّمْرير للأعلى و لل أَسْفَل.</string>
+    <string name="use_left_right_summary">  ٕ </string>
     <string name="use_old_previous_title">استخدامُ الطريقة القديمة لتغيير التَّرْكيز: </string>
     <string name="baidu_tieba_title">موسوعة Baidu</string>
     <string name="use_single_tts_title">استخدام مُحَرِّكٍ واحدٍ لتحويلِ النص إلى كلام: </string>
@@ -322,7 +322,7 @@
     <string name="use_speak_qq_changed_title">نُطْق رسائل الدردشة في QQ تلقائياً</string>
     <string name="use_speak_qq_changed_summary">يَتِمُّ نُطْق رسائل QQ الواردة تلقائياً.</string>
     <string name="left_button_default_value">|*رفض*|*انهاء*|*إنهاء*|*قطع*|محو*|إغلاق*|حذف جميع الإشعارات|مسح*|حذف كل الإشعارات.|ترجيع*|إرجاع*</string>
-    <string name="right_button_default_value">رد*|Send|*مكبر الصوت*|تخطي الإعلان|إرسال تعليق|تقديم*</string>
+    <string name="right_button_default_value">رد*|قبول|*مكبر الصوت*|تخطي الإعلان|إرسال تعليق|تقديم*</string>
     <string name="edge_gesture_title">إعداداتُ إِيماءاتِ الحافَّتَيْن</string>
     <string name="left_button_title">إجراءات اخْتصار التَّمْرير لل يسار </string>
     <string name="right_button_title">إجراءات اخْتصار التَّمْرير لليمين </string>
@@ -366,7 +366,7 @@
     <string name="use_accessibility_volume_summary">يَتِمُّ التَّحَكُّمُ بِمُسْتَوى صوت Commentary Screen Reader مِن خِلالِِ مُسْتَوى صوت إمكانية الوصول بدلا مِن مُسْتَوى صوت الوسائط. </string>
     <string name="value_stream_accessibility">إمكانيةُ الوصول</string>
     <string name="left_right_gesture_title">إعداداتُ الإِيماءاتِ البديلة</string>
-    <string name="use_move_list_view_item_title">التَّمْرير للأعلى و لل أَسْفَلِ للتَنَقُّل سريعاً بين عناصر القائمة.</string>
+    <string name="use_move_list_view_item_title">استخدام إيماءات التمرير  لأعلى و لأسفل للتَنَقُّل سريعا بين عناصر القائمة: .</string>
     <string name="no_support">يتطلب ذلك Android %d وما فوق.</string>
     <string name="use_pinyin_speak_title">استَخدِم مُحَرِّك Pinyin عندما تكون في وَضْعِ التَّعْديل</string>
     <string name="backup_restore_settings_title">إدارةُ النَّسْخِ الاحتياطي والاستعادة</string>
@@ -394,7 +394,7 @@
     <string name="timer_setting_title">إعداداتُ الساعةِ الناطِقةِ والمُؤَقِّت</string>
     <string name="voice_cmd_setting_title">إعداداتُ الأوامِرِ الصوتية</string>
     <string name="directory_cmd">Custom voice commands</string>
-    <string name="use_move_list_view_item_summary">يسمح بالحركة السريعة في القوائم. </string>
+    <string name="use_move_list_view_item_summary">  ٕ </string>
     <string name="add">إضافة</string>
     <string name="re_def_msg">سيؤدي الضَغْطُ على موافِق إلى إِستعادةِ الإعداداتِ الافتراضية</string>
     <string name="use_double_fling_summary">快速向上滑动两步打开点击浏览模式，下滑两步自动浏览</string>
@@ -451,8 +451,8 @@
     <string name="has_vip_summary_gesture">إِيماءاتُ التَّمْرير لليمين، و لل يسار، و للأعلى، و لِل أَسْفَل لا يمكن تخصيصها في النسخة المجانية.</string>
     <string name="message_has_vip_loop_click">النَّقَراتُ المتأخرةُ غيرُ متاحةٍ في النُسْخةِ المجانية.</string>
 
-    <string name="command_click">النَّقْر</string>
-    <string name="command_long_click">الضغطُ المُطَوَّل</string>
+    <string name="command_click">النقر</string>
+    <string name="command_long_click">الضغط المطول</string>
     <string name="command_unlock">إلغاءُ القفل</string>
     <string name="command_start">العنصرُ الأول</string>
     <string name="command_end">العنصرُ الأخير</string>
@@ -471,7 +471,7 @@
     <string name="command_long_copy">النَسْخُ المتقدم</string>
     <string name="command_my_location">موقعي</string>
     <string name="command_where_i">أين أنا؟</string>
-    <string name="command_current_location">المَوْقِعُ الحالي</string>
+    <string name="command_current_location">الموقع الحالي</string>
     <string name="command_verification">رمزُ التَّحَقُّق Captcha</string>
     <string name="command_verification2">رمزُ التَّحَقُّق Captcha</string>
     <string name="command_verification3">رمزُ التَّحَقُّق Captcha</string>
@@ -489,26 +489,26 @@
     <string name="command_to_next_page">الصفحةُ التالية</string>
     <string name="command_to_previous_scroll">التَّمْرير للخَلْف</string>
     <string name="command_to_next_scroll">التَّمْرير للأمام</string>
-    <string name="command_to_previous_progress">خَفْضُ مُسْتَوى شريط التَّمْرير</string>
-    <string name="command_to_next_progress">رَفْعُ مُسْتَوى شريط التَّمْرير</string>
-    <string name="command_lower_volume">خَفْضُ مُسْتَوى الصوت</string>
-    <string name="command_raise_volume">رَفْعُ مُسْتَوى الصوت</string>
-    <string name="command_now_time">نُطْق الوقت الحالي</string>
+    <string name="command_to_previous_progress">خفض مستوى شريط التمرير</string>
+    <string name="command_to_next_progress">رفع مستوى شريط التمرير</string>
+    <string name="command_lower_volume">خفض مستوى الصوت</string>
+    <string name="command_raise_volume">رفع مستوى الصوت</string>
+    <string name="command_now_time">الوقت الحالي</string>
     <string name="command_timer_mode">المُؤَقِّت</string>
     <string name="command_timer_start">تشغيلُ المُؤَقِّت</string>
     <string name="command_quick_mode">التَّصَفُّح السريع</string>
     <string name="command_auto_next">التَّصَفُّح التَّلْقائي</string>
     <string name="command_auto_speak">القِراءة التَّلْقائية</string>
 
-    <string name="command_copy">نَسْخ</string>
-    <string name="command_append_copy">نَسْخ إضافي</string>
-    <string name="command_paste">لَصْق</string>
+    <string name="command_copy">نسخ</string>
+    <string name="command_append_copy">نسخ إضافي</string>
+    <string name="command_paste">لصق</string>
 
     <string name="raw_swipe_down">الإزاحةُ إلى الْأَسْفَل</string>
     <string name="raw_swipe_up">الإزاحةُ إلى الأعلى</string>
     <string name="raw_swipe_right">الإزاحةُ إلى اليَمِين</string>
     <string name="raw_swipe_left">الإزاحةُ إلى اليسار</string>
-    <string name="raw_long_click">[الضغطُ المُطَوَّل المباشر]</string>
+    <string name="raw_long_click">[الضغط المطول المباشر]</string>
     <string name="raw_click">[النقر المباشر]</string>
 
     <string name="click_to_enabled">تَمَّ استئنافُ الإستكشاف باللمس.</string>
@@ -581,19 +581,19 @@
     <string name="command_disable_dim_screen">إلغاء تعتيم الشاشة</string>
     <string name="command_enable_dim_screen">تعتيم الشاشة</string>
     <string name="command_enable_dim_screen2">تعتيم الشاشة</string>
-    <string name="command_to_recents">التَّطْبيقاتُ الحديثة</string>
-    <string name="command_clean">مَحْوُ النص</string>
+    <string name="command_to_recents">التطبيقات الحديثة</string>
+    <string name="command_clean">محو النص</string>
     <string name="command_select">قائمةُ التَّحْديد, </string>
     <string name="command_notification_box">صندوقُ الإشعارات</string>
     <string name="command_up_tap">"رَفْعُ الإِصْبَع للتَّفْعيل"</string>
     <string name="command_tap_mode">النَّقْرُ لِنَقْلِ التَّرْكيز</string>
     <string name="command_node_mode">تَصَفُّح العُقْدة</string>
-    <string name="command_to_home">الشاشةُ الرئيسية</string>
+    <string name="command_to_home">الشاشة الرئيسية</string>
     <string name="command_to_back">رجوع</string>
     <string name="command_long_edit">التَّعْديلُ المُتَقَدِّم للنص</string>
     <string name="command_all_speak">قِراءة الشاشة كامِلَةً </string>
     <string name="command_all_speak2">قِراءة كل شيء</string>
-    <string name="command_all_select">تحديدُ الكل</string>
+    <string name="command_all_select">تحديد الكل</string>
     <string name="command_voice_helper">المساعِدُ الصوتي</string>
     <string name="command_voice_input">الإملاءُ الصوتي</string>
     <string name="command_ocr">التَّعَرُّف على الصورة</string>
@@ -730,7 +730,7 @@
     <string name="use_edge_gesture_menu_title">استخدامُ قائمةِ الحافَّة: </string>
     <string name="use_left_edge_gesture_quick_menu_title">استخدامُ الإِيماءاتِ الخاصةِ بالتَّطْبيقات في القائمة الْيُسْرى.</string>
     <string name="use_small_filter_title">تصفيةُ العناصرِ غَيْرِ المرغوبِ فيها: </string>
-    <string name="jieshuo_bbs_summary">يمكنُكَ مشاركةُ تعليقاتك حول Commentary Screen Reader.</string>
+    <string name="jieshuo_bbs_summary">يمكنُكَ التَّحَدُّث حول Commentary Screen Reader.</string>
     <string name="voice_recognizer_title">مُحَرِّكُ التَّعَرُّف: </string>
     <string name="use_text_format_char_upper_title">نُطْق الأحرُف الكبيرة: </string>
     <string name="voice_helper_media_mute_mode_title">كَتْمُ صوت الوسائط عند تفعيل المساعِدِ الصوتي: </string>
@@ -852,8 +852,8 @@
     <string name="no_save">إلغاء الحفظ</string>
 
     <string name="use_web_type_move_title">التَّصَفُّح بعناصر التَّنَقُّل على صفحات الويب.</string>
-    <string name="pref_donate_alipay">التَّبَرُّع بواسطة Alipay لدعم تطوير Commentary Screen Reader.</string>
-    <string name="pref_donate_paypal">التَّبَرُّع بواسطة PayPal لدعم تطوير Commentary Screen Reader.</string>
+    <string name="pref_donate_alipay">يمكنك الإشتراك في النسخة المدفوعة بواسطة Alipay لدعم تطوير Commentary Screen Reader.</string>
+    <string name="pref_donate_paypal">يمكنك الإشتراك في النسخة المدفوعة بواسطة PayPal لدعم تطوير Commentary Screen Reader.</string>
     <string name="menu_settings_title">إعداداتُ قوائم Commentary</string>
     <string name="directory_download">Download</string>
     <string name="msg_has_vip_split_edit">النسخةُ المجانيةُ مِنَ التَّطْبيق لا تدعم تعديل نَص يتجاوز 100 حرف.</string>
@@ -861,8 +861,8 @@
     <string name="media_doc_title">دروس صوتية</string>
     <string name="downloaded">التَّنْزيلات</string>
     <string name="no_login">أنت لم تقم بتسجيل الدخول.</string>
-    <string name="no_vip">أنت لم تقم بِشِراء النسخة الكامِلة مِن Commentary Screen Reader!</string>
-    <string name="need_vip">إذا كنتَ ترغب في شِراء النسخة الكامِلة، يُرجى التَّواصُل مع مُمَثِّلي خدمة العُمَلاء.</string>
+    <string name="no_vip">أنت لم تقم بالإشتراك في النسخة المدفوعة مِن Commentary Screen Reader!</string>
+    <string name="need_vip">إذا كنتَ ترغب بالإشتراك في النسخة المدفوعة، يُرجى التَّواصُل مع مُمَثِّلي خدمة العُمَلاء.</string>
     <string name="check_read_phone_state_permission">التَّحَقُّق مِن صلاحية الأُذونات.</string>
 
     <string name="message_timer_mode_disabled">تَمَّ إيقاف المُؤَقِّت، المدة: %s, الساعةُ الآن %s</string>
@@ -976,8 +976,8 @@
     <string name="cmd_description">الوصف (يجب أن لا يَقِلّ عن 15 حرفاً)</string>
     <string name="timer_run_title">جَدْوَلة المهام</string>
     <string name="msg_has_vip_timer_run">النسخة المجانية من Commentary Screen Reader تدعم فقط إضافة مهمة مُجَدْوَلة واحدة</string>
-    <string name="use_web_view_name_title">读出网页元素类型</string>
-    <string name="use_web_view_name_summary">打开后读出全部网页元素名称，关闭后仍会读出链接按钮等</string>
+    <string name="use_web_view_name_title">نُطْق نوع العنصر في الصفحة: </string>
+    <string name="use_web_view_name_summary">يتم نُطْق جميع أنواع العناصر عند التفعيل، وعند إلغاء التفعيل سيتم نُطْق المعلومات الضرورية فقط.</string>
     <string name="hour">الساعة</string>
     <string name="min">الدقيقة</string>
     <string name="msg_result_empty">لم أفهم ما قلت</string>
@@ -990,51 +990,76 @@
     <string name="msg_send_not_found">زر الإرسال غير متوفر</string>
     <string name="msg_search_on_store">ابحث في متجر التطبيقات</string>
     <string name="msg_lable_add_error">添加标签失败</string>
-    <string name="check_permissions_title">检查权限</string>
-    <string name="setup_setting_title">设置向导</string>
-    <string name="check_overlay_permissions_title">检查悬浮窗权限</string>
-    <string name="check_battery_permissions_title">检查忽略电池优化</string>
-    <string name="open_application_info_title">打开解说应用信息</string>
-    <string name="open_setup_setting_title">打开开机启动设置</string>
-    <string name="check_notification_permissions_title">检查通知显示权限</string>
-    <string name="denied_permissions_title">未获得的权限</string>
-    <string name="welcome_msg">解说是一个盲人辅助软件，他能帮助你更加高效的使用手机，点击设置向导可以帮助你进行基本的读屏设置，点击权限说明查看软件对使用隐私权限目的的说明，点击退出退出向导。</string>
-    <string name="use_left_right_msg">解说默认使用上滑向前移动焦点，下滑向后移动焦点，左滑和右滑执行快捷功能，如果你习惯使用左滑和右滑移动焦点请点击使用左右，如果使用上滑和下滑请点击使用上下，需要注意，在使用左滑右滑移动焦点时将使用上滑执行原左滑的快捷功能，下滑使用原右滑的快捷功能</string>
-    <string name="usage_hints_msg">操作提示可以告诉你当前焦点的一些操作提示信息，如果你是新手建议点击开启提示获取必要的操作提示，如果你已经熟悉读屏操作，点击关闭提示获得更清爽体验。</string>
-    <string name="use_list_index_msg">列表提示可以读出当前显示的列表范围和当前项目的索引，点击打开提示读出这些信息，点击关闭提示将不读出提示。</string>
-    <string name="notification_speak_msg">朗读通知可以及时了解信息，如果需要这些信息请点击朗读通知，点击关闭通知可以避免打扰，通知还可以在通知盒子查看。</string>
-    <string name="use_single_tts_msg">使用双音库可以在朗读内容同时朗读通知，喜欢这种朗读模式请点击使用双音库，如果你不习惯这种朗读方式点击使用单音库。</string>
-    <string name="use_left_right_ok">使用左右滑动</string>
-    <string name="use_left_right_no">使用上下滑动</string>
-    <string name="usage_hints_ok">读出提示</string>
-    <string name="usage_hints_no">关闭提示</string>
-    <string name="notification_speak_ok">读出通知</string>
-    <string name="notification_speak_no">关闭通知</string>
-    <string name="use_single_tts_ok">使用单音库</string>
-    <string name="use_single_tts_no">使用双音库</string>
-    <string name="permission_title">权限说明</string>
-    <string name="permission_msg">读取电话状态 用于确定身份的唯一性提供个性化服务与账户认证， 用于监听电话状态为快速接听/拒绝电话等功能提供状态信息， 用于来电报号。\n  接听电话 在安卓8及更高系统提供快速接听/拒绝电话等功能。\n  拨打电话 在提取号码和语音报号中提供直接拨打功能。\n  位置信息 用于提供基于位置的个性化服务，如当地天气，当前位置及以后可能扩展的地图与导航服务。\n  相机 用于拍照和各种识别功能。\n  麦克风 语音助手，语音输入的录制音频。\n  通讯录 语音拨打电话和来电报号时基于人名的服务。\n  悬浮窗 显示菜单和黑屏模式的对话框和窗体。\n  创建桌面快捷方式 为扩展工具（轻应用）提供添加到桌面方便启动的功能。\n  应用内安装 用于自动升级。\n  网络访问，用户验证，图片识别，云端标签，语音识别 。\n  开机启动 为在重启后能第一时间提供服务。\n  防止手机休眠 在语音播报时阻止屏幕关闭。\n  禁用部分权限可能导致部分功能不能正常运行</string>
-    <string name="check_permissions_msg">解说需要一些基本权限才能工作，如使用存储权限读取音效存储照片等，点击下一步授予这些权限，这是软件的基本权限点击取消将退出软件。</string>
-    <string name="next">下一步</string>
-    <string name="setup_setting_done">设置完成</string>
-    <string name="setup_setting_done_msg"><![CDATA[你可以在常用设置>设置向导重新运行]]></string>
-    <string name="setup_setting_continue">继续设置</string>
-    <string name="setup_setting_not_permission">尚未授予基本权限</string>
-    <string name="setup_setting_not_permission_msg">未授予基本的权限读屏将不能正常工作，点击继续设置继续进行向导，点击授予权限将仅获取权限后退出向导，点击退出将导致部分功能不能正常工作。</string>
-    <string name="setup_setting_set_permission_and_exit">授予权限并退出向导</string>
-    <string name="setup_setting_not_notification_permission">未获取通知权限</string>
-    <string name="setup_setting_notification_permission_msg">读屏使用通知权限显示暂停反馈通知和后台保护通知，显示通知可增强读屏稳定性</string>
-    <string name="setup_setting_get_permission">获取权限</string>
-    <string name="setup_setting_has_notification_permission">已获取通知权限</string>
-    <string name="changed">更改</string>
-    <string name="setup_setting_not_battery_permission">未忽略电池优化</string>
-    <string name="setup_setting_battery_permission_msg">电池优化可以延长电池使用时间，但可能导致读屏意外关闭或休眠，忽略电池优化可增强读屏稳定性</string>
-    <string name="setup_setting_has_battery_permission">已忽略电池优化</string>
-    <string name="setup_setting_not_overlay_permission">未获得悬浮窗权限</string>
-    <string name="setup_setting_overlay_permission_msg">读屏使用悬浮窗显示菜单和黑屏模式等内容</string>
-    <string name="setup_setting_has_overlay_permission">已获得悬浮窗权限</string>
-    <string name="copy_username_and_userid">复制用户名和用户ID</string>
-    <string name="username_and_userid_format">用户名 %s 用户ID %s</string>
+    <string name="check_permissions_title">التحقق من الأُذونات.</string>
+    <string name="setup_setting_title">مساعد الإعداد.</string>
+    <string name="check_overlay_permissions_title">التحقق مِن أُذونات النوافذ العائمة.</string>
+    <string name="check_battery_permissions_title">التحقق مِن أُذونات تحسين البطارية لضمان إستمرار عمل التطبيق.</string>
+    <string name="open_application_info_title">فتح معلومات Commentary Screen Reader.</string>`
+    <string name="open_setup_setting_title">التحقق من بدء التشغيل التلقائي. </string>
+    <string name="check_notification_permissions_title">التحقق مِن أُذونات الإشعارات. </string>
+    <string name="denied_permissions_title">تَمَّ رفض الإذن. </string>
+    <string name="welcome_msg">اختَر أحد الخيارات الثلاثة: مساعد الإعداد: يتيح لك ضبط بعض الإعدادات الأساسية لمساعدتك في بدء التشغيل بشكل سريع. انقِر فوق عَرْض الأُذونات للاطلاع على الأُذونات المختلفة. أو الخروج لمغادرة المساعد. </string>
+    <string name="use_left_right_msg">يدعم Commentary Screen Reader وضعين مختلفَين للتَّنَقُّل. الافتراضي هو استخدام إيماءات التمرير  لأعلى و لأسفل كإيماءات افتراضية للتَنَقُّل. والبديل هو استخدام إيماءات التمرير لليسار و لليمين كإيماءات بديلة للتَنَقُّل.</string>
+    <string name="usage_hints_msg">تساعد تلميحات الإستخدام المستخدم المبتدئ في التَّعَرُّف على إستخدام Commentary Screen Reader. إذا كانت هذه هي المرة الأولى التي تستخدم فيها هاتفك المحمول، فإننا نوصي بتفعيل هذا الخيار للحصول على تجربة سلسة. وإذا كنت من ذوي الخبرة، فإننا نوصي بإلغاء تفعيل هذا الخيار للحصول على تجربة أكثر إيجازا.</string>
+    <string name="use_list_index_msg">يساعد نُطْق العنصر المُرَكَّز عليه في القائمة على معرفة مدى القائمة وموقع العنصر فيها. إلّا أنّ هذا يجعل نُطْق المعلومات أكثر، الأمر الذي قد يُشَكِّل إزعاجا للبعض.</string>
+    <string name="notification_speak_msg">يتيح نُطْق الإشعارات لقارئ الشاشة Commentary Screen Reader قِراءة الإشعارات الواردة. قم بتفعيل هذا الخيار مِن أجل قراءة كافة الإشعارات. وإن لم ترغب في الإزعاج، نوصي بإلغاء تفعيل هذا الخيار.</string>
+    <string name="use_single_tts_msg">حدد ما إذا كنت تريد استخدام اثنين من محركات تحويل النص إلى كلام للقراءة. سيتم إستخدام المحرك الأول لقراءة المعلومات الرئيسية مثل التركيز الحالي وأشياء أخرى مهمة. وسيتم إستخدام المحرك الثاني لقراءة الإشعارات وأية رسائل مهمة أخرى مثل الرسائل المنبثقة. </string>
+    <string name="use_left_right_ok">إستخدام إيماءات التمرير لليسار و لليمين للتَنَقُّل.</string>
+    <string name="use_left_right_no">إستخدام إيماءات التمرير لأعلى و لأسفل للتَنَقُّل.</string>
+    <string name="usage_hints_ok">سيتم نُطْق تلميحات الإستخدام.</string>
+    <string name="usage_hints_no">لن يتم نُطْق تلميحات الإستخدام.</string>
+    <string name="notification_speak_ok">سيتم نُطْق الإشعارات.</string>
+    <string name="notification_speak_no">لن يتم نُطْق الإشعارات.</string>
+    <string name="use_single_tts_ok">سيتم استخدام محرك واحد.</string>
+    <string name="use_single_tts_no">سيتم استخدام مُحَرِّكَين اثنين.</string>
+    <string name="permission_title">وصف الأُذونات: </string>
+    <string name="permission_msg">راجع دليل المستخدم لمزيد من التفاصيل.</string>
+    <string name="check_permissions_msg">انقِر على التالي لمنح الأُذونات الأساسية، أو قم بالنَّقْر على إغلاق للخروج. </string>
+    <string name="next">التالي</string>
+    <string name="setup_setting_done">اكتمل الإعداد.</string>
+    <string name="setup_setting_done_msg">ويمكنك إعادة تشغيل هذا المساعد مِن الإعدادات العامة، >مساعد الإعداد.</string>
+    <string name="setup_setting_continue">متابعة الإعداد.</string>
+    <string name="setup_setting_not_permission">لم يتم منح الأُذونات الأساسية.</string>
+    <string name="setup_setting_not_permission_msg">لم يتم منح كافة الأُذونات.</string>
+    <string name="setup_setting_set_permission_and_exit">قم بمنح الأُذونات وإِنْهاء المساعد.</string>
+    <string name="setup_setting_not_notification_permission">تَمَّ رفض منح إذن الإشعارات.</string>
+    <string name="setup_setting_notification_permission_msg">يسمح إستخدام إذن الإشعارات لقارئ الشاشة Commentary Screen Reader بالاحتفاظ برمزه في شريط الإشعارات ما يؤدي إلى تعزيز الاستقرار.</string>
+    <string name="setup_setting_get_permission">الحصول على الأُذونات</string>
+    <string name="setup_setting_has_notification_permission">تَمَّ الحصول على إذن لقراءة الإشعارات.</string>
+    <string name="changed">تغيير.</string>
+    <string name="setup_setting_not_battery_permission">تَمَّ رفض منح إذن تجاهل تحسين البطارية.</string>
+    <string name="setup_setting_battery_permission_msg">يساعد تجاهل تحسين البطارية Commentary Screen Reader على العمل بشكل أفضل.</string>
+    <string name="setup_setting_has_battery_permission">تَمَّ منح إذن تجاهل تحسين البطارية.</string>
+    <string name="setup_setting_not_overlay_permission">تَمَّ رفض منح إذن النوافذ العائمة.</string>
+    <string name="setup_setting_overlay_permission_msg">يساعد منح إذن النوافذ العائمة في وظائف مثل تعتيم الشاشة.</string>
+    <string name="setup_setting_has_overlay_permission">تَمَّ منح إذن النوافذ العائمة.</string>
+    <string name="copy_username_and_userid">إنسخ اسم المستخدم ورقم المُعَرِّف.</string>
+    <string name="username_and_userid_format">اسم المستخدم: %s رقم المُعَرِّف: %s</string>
+    <string name="refresh">刷新</string>
+    <string name="file_name_dict">词典.json</string>
+    <string name="msg_filter">共找到%d个结果</string>
+    <string name="use_custom_symbol_speak_title">朗读自定义符号</string>
+    <string name="custom_symbol_title">自定义符号设置</string>
+    <string name="use_custom_dict_speak_title">使用自定义词典</string>
+    <string name="custom_dict_title">用户词典设置</string>
+
+    <string name="msg_has_vip_dict">非会员仅支持添加5条</string>
+    <string name="undo">撤消</string>
+    <string name="redo">重做</string>
+    <string name="last_open">最近</string>
+    <string name="create_file">新建文件</string>
+    <string name="open_project">打开工程</string>
+    <string name="create_project">新建工程</string>
+    <string name="format">格式化</string>
+    <string name="fix_import">导入分析</string>
+    <string name="run">运行</string>
+    <string name="use_emoji_speak_title">朗读Emoji表情</string>
+    <string name="install_shortcut">添加到桌面</string>
+    <string name="msg_select_end">选择结束</string>
+    <string name="msg_select_start">选择开始</string>
+    <string name="msg_plugin_run_error">先在辅助功能启动解说再运行插件</string>
+    <string name="input_file_name">输入文件名</string>
+    <string name="input_project_name">输入工程名</string>
 
 
 </resources>

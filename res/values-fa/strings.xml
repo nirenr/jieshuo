@@ -920,11 +920,11 @@
     <string name="msg_disabled_raw_tap">حالت اشاره‌ای غیر‌فعال شد. </string>
     <string name="system_tts_scale_summary">سرعت موتور گفتار را بیش از حد ممکن افزایش میدهد. این قابلیت ممکن است با موتور گفتار شما سازگار نباشد.</string>
     <string name="send_email_title">ارسال ایمیل به  946049229@qq.com</string>
-name="voice_helper_use_blot_title">استفاده از ربات گفتگو</string>
+    <string name="voice_helper_use_blot_title">استفاده از ربات گفتگو</string>
 
     <string name="message_recognition_empty">متوجه نشدم چی گفتی</string>
     <string name="voice_helper_exit">خدا حافظ</string>
-    <string name="حالت ورودی گفتار">听写模式</string>
+    <string name="voice_input_mode">حالت ورودی گفتار</string>
     <string name="voice_helper_record_start">شروع ضبط</string>
     <string name="voice_helper_record_stop">توقف ضبط</string>
     <string name="voice_helper_record_message">پس از شروعع ضبط، فرمان خود را بگویید و ضبط را متوقف کنید. </string>
@@ -984,7 +984,7 @@ name="voice_helper_use_blot_title">استفاده از ربات گفتگو</stri
     <string name="msg_clicked">کلیک شد</string>
     <string name="msg_search_on_net">جستجو در وب</string>
     <string name="msg_send_not_found">دگمه ارسال پیدا نشد. </string>
-    <string name="msg_search_on_store">جستجو در مارکت برنامه</string>name="msg_lable_add_error">添加标签失败</string>
+    <string name="msg_search_on_store">جستجو در مارکت برنامه</string>
     <string name="check_permissions_title">بررسی مجوز‌ها</string>
     <string name="setup_setting_title">راه‌اندازی سریع </string>
     <string name="check_overlay_permissions_title">بررسی دسترسی همپوشانی صفحه</string>
@@ -995,10 +995,10 @@ name="voice_helper_use_blot_title">استفاده از ربات گفتگو</stri
     <string name="denied_permissions_title">مجوز‌های تایید نشده</string>
     <string name="welcome_msg">صفحه‌خوان commentary برنامه ای برای نابینایان است که به استفاده هرچه آسان‌تر از تلفن همراه کمک می‌کند. برای پیکربندی سریع تنظیمات ابتدایی، روی دگمه راه‌اندازی سریع ضربه بزنید. برای کسب اطلاع درباره نحوه استفاده از مجوز‌ها، روی دگمه توضیحات مجوز‌ها ضربه بزنید. می‌توانید با استفاده از دگمه خروج، از این صفحه خارج شوید. </string>
     <string name="use_left_right_msg">صفحه‌خوان commentary در حالت پیشفرض، از ژست‌های حرکتی بالا و پایین برای ناوبری و از ژست‌های حرکتی چپ و راست برای فعال کردن میانبر‌ها استفاده می‌کند. اگر به استفاده از ژست‌های حرکتی چپ و راست برای ناوبری عادت کرده اید، این گزینه را فعال کنید. در نظر داشته باشید که با فعال کردن این گزینه، برای فعال کردن میانبر های چپ از ژست حرکتی بالا و برای فعال کردن میانبر‌های راست از ژست حرکتی پایین استفاده خواهید کرد</string>
-    <string name="usage_hints_msg">نکات استفاده توضیحاتی درباره نحوه تعامل با مورد فوکوس شده به شما می‌دهند. اگر به تازگی از صفحه‌خوان commentary استفاده می‌کنید، این گزینه را فعال کنید تا از شیوه‌ی تعامل با عناصر آگاه شوید. اگر با نحوه تعامل با صفحه‌خوان آشنایی دارید، میتوانید این گزینه را خاموش کنید تا تجربه بهتری داشته باشید.
+    <string name="usage_hints_msg">نکات استفاده توضیحاتی درباره نحوه تعامل با مورد فوکوس شده به شما می‌دهند. اگر به تازگی از صفحه‌خوان commentary استفاده می‌کنید، این گزینه را فعال کنید تا از شیوه‌ی تعامل با عناصر آگاه شوید. اگر با نحوه تعامل با صفحه‌خوان آشنایی دارید، میتوانید این گزینه را خاموش کنید تا تجربه بهتری داشته باشید.</string>
     <string name="use_list_index_msg">صفحه‌خوان می‌تواند تعداد موارد موجود در لیست و رتبه هر مورد را به شما اعلام کند. برای شنیدن این اطلاعات، این گزینه را روشن کنید.</string>
-    <string name="notification_speak_msg">با روشن بودن این گزینه، اعلانات به محض دریافت توسط صفحه‌خوان خوانده می‌شوند. برای جلوگیری از وقفه‌های ناشی از دریافت اعلانات، می‌توانید این گزینه را خاموش کنید. در نظر داشته باشید که با خاموش کردن این گزینه، هیچ اعلانی برای شما خوانده نمی‌شود؛ و برای مشاهده اعلانات باید از پنل اعلان استفاده کنید. /string>
-    <string name="use_single_tts_msg">در صورت فعال بودن این گزینه، می‌توانید همزمان از دو صدای مجزا برای شنیدن محتوای صفحه و اعلانات استفاده کنید. اگر به این شیوه عادت ندارید، این گزینه را خاموش کنید. /string>
+    <string name="notification_speak_msg">با روشن بودن این گزینه، اعلانات به محض دریافت توسط صفحه‌خوان خوانده می‌شوند. برای جلوگیری از وقفه‌های ناشی از دریافت اعلانات، می‌توانید این گزینه را خاموش کنید. در نظر داشته باشید که با خاموش کردن این گزینه، هیچ اعلانی برای شما خوانده نمی‌شود؛ و برای مشاهده اعلانات باید از پنل اعلان استفاده کنید. /string></string>
+    <string name="use_single_tts_msg">در صورت فعال بودن این گزینه، می‌توانید همزمان از دو صدای مجزا برای شنیدن محتوای صفحه و اعلانات استفاده کنید. اگر به این شیوه عادت ندارید، این گزینه را خاموش کنید. /string></string>
     <string name="use_left_right_ok">استفاده از حالت ناوبری جایگزین(چپ و راست)</string>
     <string name="use_left_right_no">استفاده از  حالت ناوبری پیشفرض (بالا و پایین)</string>
     <string name="usage_hints_ok">نکات استفاده خوانده شوند. </string>
@@ -1018,7 +1018,7 @@ name="voice_helper_use_blot_title">استفاده از ربات گفتگو</stri
     <string name="setup_setting_not_permission_msg">تمامی مجوز‌ها تایید نشده اند. برای اعطای مجوز‌ها،  روی ادامه دو بار ضربه بزنید و برای رد کردن این صفحه ، خروج را انتخاب کنید. </string>
     <string name="setup_setting_set_permission_and_exit">اعطای مجوز‌ها و خروج از راه‌اندازی سریع</string>
     <string name="setup_setting_not_notification_permission">مجوز نمایش اعلانات اعطا نشده است. </string>
-    <string name="setup_setting_notification_permission_msg"این مجوز  نمایش  آیکن صفحه‌خوان در پنل اعلانات را ممکن می‌سازد. نمایش آیکن صفحه‌خوان در پنل اعلانات به  پایداری برنامه کمک می‌کند.> </string>
+    <string name="setup_setting_notification_permission_msg">این مجوز  نمایش  آیکن صفحه‌خوان در پنل اعلانات را ممکن می‌سازد. نمایش آیکن صفحه‌خوان در پنل اعلانات به  پایداری برنامه کمک می‌کند.> </string>
     <string name="setup_setting_get_permission">اخذ مجوز. </string>
     <string name="setup_setting_has_notification_permission">مجوز‌های مربوط به اعلانات  اعطا شده اند.</string>
     <string name="changed">تغییر وضعیت</string>
@@ -1030,6 +1030,31 @@ name="voice_helper_use_blot_title">استفاده از ربات گفتگو</stri
     <string name="setup_setting_has_overlay_permission">مجوز همپوشانی صفحه اعطا شده است.</string>
     <string name="copy_username_and_userid">کپی کردن نام و شناسه کاربری</string>
     <string name="username_and_userid_format">نام کاربری: %s شناسه کاربری: %s</string>
+    <string name="refresh">刷新</string>
+    <string name="file_name_dict">词典.json</string>
+    <string name="msg_filter">共找到%d个结果</string>
+    <string name="use_custom_symbol_speak_title">朗读自定义符号</string>
+    <string name="custom_symbol_title">自定义符号设置</string>
+    <string name="use_custom_dict_speak_title">使用自定义词典</string>
+    <string name="custom_dict_title">用户词典设置</string>
+
+    <string name="msg_has_vip_dict">非会员仅支持添加5条</string>
+    <string name="undo">撤消</string>
+    <string name="redo">重做</string>
+    <string name="last_open">最近</string>
+    <string name="create_file">新建文件</string>
+    <string name="open_project">打开工程</string>
+    <string name="create_project">新建工程</string>
+    <string name="format">格式化</string>
+    <string name="fix_import">导入分析</string>
+    <string name="run">运行</string>
+    <string name="use_emoji_speak_title">朗读Emoji表情</string>
+    <string name="install_shortcut">添加到桌面</string>
+    <string name="msg_select_end">选择结束</string>
+    <string name="msg_select_start">选择开始</string>
+    <string name="msg_plugin_run_error">先在辅助功能启动解说再运行插件</string>
+    <string name="input_file_name">输入文件名</string>
+    <string name="input_project_name">输入工程名</string>
 
 
 </resources>

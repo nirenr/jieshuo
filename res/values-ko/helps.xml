@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="help_items">
+        <item>
+        기본 탐색방법:\n
+        기본적으로 이전 요소 탐색은 위로 쓸기 동작. 다음 요소는 아래로 쓸기 동작으로 사용하실 수 있습니다.\n
+        그러나 이 탐색 동작은 동작 설정에서 제스처를 수정할 수 있습니다.</item>
+        <item>
+		주 메뉴: \n
+        주 메뉴는 기본적으로 아래 오른쪽 순으로 쓸기 동작을 통해 열 수 있습니다. 주 메뉴는 오른쪽으로 쓸기 동작으로 더 많은 옵션을 볼 수 있습니다.\n
+        메뉴 모든 항목은 설정 화면에서 사용자 기호에 맞게 커스터마이징할 수 있습니다.</item>
+        <item>
+        음성비서:\n
+		음성비서 기능은 기본적으로 아래 왼쪽 순으로 쓸기 동작을 통해 활성화되며, 명령 효과음이 재생된 후 음성으로 명령할 수 있습니다. 음성명령 도중 화면을 터치하면 명령을 즉시 비서에게 전달합니다.\n
+        음성비서 기능은 고급설정, 음성비서 설정, 음성비서 보조기능 설정에서 사용자 기호에 맞게 커스터마이징할 수 있습니다.\n</item>
+        <item>
+		동작 메뉴: \n
+        동작 메뉴는 기본적으로 위 오른쪽 순으로 쓸기 동작으로 열 수 있으며, 오른쪽 쓸기 동작으로 더 많은 메뉴를 확장하여 탐색하고, 초점을 받은 요소를 두번 탭하여 선택할 수 있습니다.</item>
+        <item>
+        확장기능:\n
+        학장기능 메뉴는 기본적으로 위 왼쪽 순으로 쓸기 동작으로 열 수 있습니다. 오른쪽 쓸기 동작으로 사용자지정 음성명령 메뉴를 열 수 있습니다. 두 번 터치하여 기능을 실행할 수 있습니다.\n
+        리소스 내려받기에서 더 많은 플러그인을 찾고 설치할 수 있습니다.\n
+        고급 설정, 음성 보조 설정, 음성 명령 설정, 새 설정, 수정 또는 다운로드</item>
+        <item>
+        복사, 복사 및 추가, 클립보드와 즐겨찾기:\n
+        이러한 기능은 조작 메뉴에서 확인할 수 있다.\n
+        복사: 접근성 초점을 받은 요소를 클립보드에 복사할 수 있습니다.\n
+        클립보드 삽입하기: 수정 창 끝에 클립보드 내용을 빠르게 추가할 수 있습니다.
+        클립보드: 가장 최근에 복사한 콘텐츠를 기록합니다, 두 번 터치하여 수정 창을 활성화하고, 길게 누르기 동작으로 즐겨찾기에 콘텐츠를 추가할 수 있습니다.\n
+        즐겨찾기: 두 번 터치하여 수정 창을 활성화하고, 길 게 눌러 수정할 수 있습니다.\n
+        고급 설정에서 리소스 관리로 클립보드와 즐겨찾기를 지우거나 백업할 수 있습니다.</item>
+        <item>
+        긴 콘텐츠 복사 (프리미엄 사용자 전용):\n
+		긴 콘텐츠 복사는 긴 목록의 콘텐츠를 복사할 수 있는 기능입니다.\n
+        작업 메뉴에서 긴 사본이 활성화된 후에는 콘텐츠 복사 시, 콘텐츠의 길이에 비례하는 시간이 소요되며. 복사가 완료되면 긴 콘텐츠 복사가 완료되었음이 음성으로 출력됩니다.\n
+        긴 콘텐츠 복사 진행중에 제스처로 스마트폰 조작 시 강제로 복사를 중단할 수 있습니다.</item>
+        <item>
+        텍스트 전체 선택 (프리미엄 사용자 전용):\n
+        텍스트 전체선택은 웹페이지 또는 긴 콘텐츠에서 복사하기 적합한 콘텐츠 전체를 복사합니다.
+        전체 텍스트 선택으로 단어, 문장, 부분 양식으로 내용을 나누고, 확인란 양식을 통해 필요한 내용을 선택한 후 복사할 수 있습니다.\n
+        목록 콘텐츠에서는 항목을 시작점을 길게 누른 다음, 종료 지점까지 길게 눌러 여러 개의 연속 항목을 빠르게 선택할 수 있습니다.</item>
+        <item>
+        Advanced editing (회원 기능):\n
+        You can edit the focus 콘텐츠 according to words, sentences, paragraphs or full 텍스트 in the edit box or non-edit box to facilitate quick positioning and modification.\n
+        Click on the split edit list to edit it, long press to make the entry more detailed split.\n
+        Edit box can be clicked to enter the edit box, and the non-edit box can only be saved to the clipboard by copying.</item>
+        <item>
+        목록 탐색:\n
+        모든 초점 요소를 목록으로 표시하고 해당 초점 요소를 클릭하여 활성화할 수 있습니다(특히 웹 페이지에서 사용하기에 적합).</item>
+        <item>
+        읽기 모드 (회원 기능):\n
+        브라우저에서 연 웹페이지 기사에서 원하지 않는 내용을 필터링하여 읽고, 페이지를 자동으로 넘깁니다.</item>
+        <item>
+        가상 화면 (회원 기능):\n
+        화면 위에 표시된 콘텐츠를 OCR로 인식하여 읽습니다. 텍스트 위치에 따라 .OCR 결과 텍스트를 표시하고, 결과 텍스트에 초점을 보낸 다음 두번 터치하여 활성화하고, 단어를 길게 눌러 초점을 분할하고, 단어를 눌러 해당 단어의 위치를 활성화할 수 있습니다.\n
+        안드로이드 7 이상에서만 정상적으로 두 번 터치하여 활성화할 수 있으며, 안드로이드 7 이하(안드로이드 6)의 경우, 세 번 터치하여 활성화할 수 있습니다.</item>
+        <item>
+        텍스트 인식(회원 기능):\n
+        화면 위의 콘텐츠를 OCR 인식을 통해 스캔하고 스크린리더가 읽을 수 있는 목록 형태로 표시합니다.
+		결과 목록의 요소를 두번 터치하여 활성화할 수 있습니다.
+		또한 길게 누르기 동작 시 단어 표시 결과를 표시하며, 단일 단어가 활성화되어 해당 단어의 위치를 활성화합니다\n
+        텍스트 인식 중 누르기 동작은 안드로이드 6 이하에서 지원하지 않습니다.</item>
+        <item>
+        캡차(보안문자) 인식 (회원 기능):\n
+		확인 코드에 초점을 보내어 터치하거나, 고급 메뉴의 검증 코드 식별을 사용하거나, 음성 비서의 검증 코드 식별을 통해 영어 또는 디지털 검증 코드를 인식할 수 있습니다. 인식 결과는 자동으로 클립보드에 복사됩니다.</item>
+        <item>
+        Commentary 카메라 (회원 기능):\n
+        장면, 동물, 식물 등 카메라에 비춰진 물체의 사물을 인식할 수 있습니다.
+		현재 후면 카메라만 사용할 수 있으며, 음량 키우기 버튼으로 사진을 찍고, 음량 줄이기 버튼으로 카메라 모드를 변경할 수 있습니다.</item>
+        <item>
+        빠른 목록 단위 이동\n
+        조작 설정, 왼쪽 및 오른쪽 바로 가기 제스처 설정에서 왼쪽 및 오른쪽 제스처를 통해 목록 단위로 빠르게 이동할 수 있도록 설정할 수 있습니다. 예를 들어 왼쪽 또는 오른쪽 제스처를 사용하여 QQ 메시지 목록에서 메시지를 빠르게 찾아볼 수 있습니다.</item>
+        <item>
+        알림 허용/거부 목록:\n
+        알림 거부 목록은 지정된 내용이 포함된 알림을 거부하도록 필터링할 수 있습니다. 응용 프로그램의 모든 알림에서 필터링을 적용하려면 *을 입력하십시오.
+		알림 허용 목록은 지정된 내용이 포함된 알림을 받을 수 있도록 필터링할 수 있습니다. 알림이 닫혀 있더라도 별표를 입력하면 프로그램에 대한 모든 알림이 허용되도록\n
+        아릶 허용/거부 필터링은 정규식을 지원합니다.</item>
+        <item>
+        콘텐츠 차단:\n
+        초점을 받은 특정 콘텐츠를 사용자가 지정하여 차단할 수 있습니다. 일반적으로 일부 비표준 접근성 지침을 필터링하는 데 사용됩니다.\n
+        정규식은 효율성을 고려하여 지원하지 않습니다.</item>
+        <item>
+        웹 콘텐츠 필터링 (회원 기능):\n
+        페이지의 불필요한 이미지 주석을 필터링하여 장황하고 쓸모없는 콘텐츠를 줄입니다.\n
+        필터링의 강화는 불필요한 불필요 콘텐츠을 걸러낼 수 있다.</item>
+        <item>
+        파 (회원 기능):\n
+        파워풀한 모드는 작동 강화에 초점을 맞추고,
+		위챗스포츠, 위챗프렌즈서클, 타오바오풋프린트, 화웨이루터 등 소프트웨어 분야에서 더 좋은 경험을 제공합니다.</item>
+        <item>
+        가상 네비게이션 (회원 기능):\n
+        가상 네비게이션은 네비게이션 목록에 직접 접근할 수 없는 콘텐츠의 위치를 추가할 수 있습니다.\n
+		변경 불가능한 위치의 초점을 추가합니다. 만들어진 초점 요소에 초점을 보내어 두 번 터치하여 레이블을 지정할 수 있습니다.\n
+		Android 7 이상만 지원.</item>
+        <item>
+        사용자지정 제스처:\n
+        Commentary의 기본 기능 제스처 및 확장기능 제스처를 사용자화할 수 있습니다.\n
+        제스처 팩을 추가하여 빠르게 제스처를 사용자지정화 할 수 있습니다.\n
+        제스처가 추가된 후, 동작 설정에서 설정되어야 하며, 제스처 구성 전환이 적용될 수 있습니다.\n
+		공통 설정의 작업 제안 사항을 잘 모르는 경우 제스처를 사용자 정의하여 제스처를 수정하십시오.</item>
+        <item>
+        Two-step gestures (회원 기능):\n
+        A two-step gesture is an operation that quickly operates a second gesture after a traditional gesture operation is completed.\n
+        It can be turned on or customized in the action settings, two-step gestures,\n
+        After the two-step gesture is turned on, there is a half-second delay after the first gesture operation is completed, waiting for the second step.\n
+        Don\'t set gestures that require efficiency, such as moving focus gestures, using two-step gestures.</item>
+        <item>
+        Record voice commands:\n
+        Start the voice assistant to say the recording command, say the program to be opened in turn or click the key of the focus to realize the rapid voice command production. When all the instructions are finished, say to end the recording, after the prompt to enter the name of the command, say the name of the command, and finally say determine.\n
+        If there is an unrecognized instruction during the recording process, you can re-speak it.
+        Recorded commands can be changed in Advanced Settings, Voice Assistant Settings, Voice Command Settings.</item>
+
+    </string-array>
+
+    <string-array name="code_help_items">
+        <item>
+        解说多功能手势和插件以lua语法配合解说专有API实现一个手势多个功能。\n
+        如果对lua和androlua比较熟悉，还可以实现更多功能，本文档只讲述专有API部分。
+        </item>
+        <item>
+        基本概念，\n
+        service，辅助功能服务，是这个读屏服务的核心，各个功能都是以这个服务为核心。
+        </item>
+        <item>
+        参数类型说明，\n
+        node，当前焦点，也就是当前获得辅助功能焦点的节点，一般操作都是针对这个焦点的。\n
+        bool，布尔值，true或者false。\n
+        텍스트，文字内容。
+        </item>
+        <item>
+        return，返回，通知读屏你是否希望读屏执行该手势的默认操作。\n
+        返回true则拦截该手势，false返回上一层执行，如在单程序手势返回false，则由全局手势接管处理，全局手势返回false，由默认手势处理。
+        </item>
+        <item>
+        常用命令，\n
+        service.execute("命令",node)\n
+        这个命令就是解说为了简化开发内置的一些指令，如果执行成功返回true，失败返回false。
+        </item>
+        <item>
+        service.postExecute(时间,"命令",node)\n
+        延时执行命令，
+        </item>
+        <item>
+        텍스트=service.get텍스트(node)\n
+        获取指定节点的文字信息。
+        </item>
+        <item>
+        service.set텍스트(node,텍스트)\n
+        设置指定焦点输入框文字内容。
+        </item>
+        <item>
+        service.set텍스트(텍스트)\n
+        设置当前界面焦点输入框文字内容。
+        </item>
+        <item>
+        service.copy()\n
+        复制当前焦点的文字内容到剪切板。
+        </item>
+        <item>
+        service.appendCopy()\n
+        追加复制当前焦点的文字内容到剪切板。
+        </item>
+        <item>
+        service.copy(텍스트)\n
+        复制指定的文字内容到剪切板。
+        </item>
+        <item>
+        service.appendCopy(텍스트)\n
+        追加复制指定的文字内容到剪切板。
+        </item>
+        <item>
+        service.paste()\n
+        将剪切板内容粘贴到当前界面的输入框。
+        </item>
+        <item>
+        service.paste(node)\n
+        将剪切板内容粘贴到指定的输入框。
+        </item>
+        <item>
+        service.toNext()\n
+        下一个焦点。
+        </item>
+        <item>
+        service.toNext(node,bool)\n
+        指定节点下一个焦点，bool为true查找子节点，为false不查找子节点。
+        </item>
+        <item>
+        service.toPrevious()\n
+        上一个焦点。
+        </item>
+        <item>
+        service.toPrevious(node,bool)\n
+        指定节点上一个焦点，bool为true查找子节点，为false不查找子节点。
+        </item>
+        <item>
+        service.toNextChar()\n
+        下一个字符。
+        </item>
+        <item>
+        service.toPreviousChar()\n
+        上一个字符。
+        </item>
+        <item>
+        service.toNextLine()\n
+        下一行。
+        </item>
+        <item>
+        service.toPreviousLine()\n
+        上一行。
+        </item>
+        <item>
+        service.to텍스트Start()\n
+        到文字开头。
+        </item>
+        <item>
+        service.to텍스트End()\n
+        到文字结尾。
+        </item>
+        <item>
+        service.toListViewStart()\n
+        到列表开头。
+        </item>
+        <item>
+        service.toListViewEnd()\n
+        到列表结尾。
+        </item>
+        <item>
+        service.getRootNodeInfo()\n
+        获取根节点。
+        </item>
+        <item>
+        service.ocr(node)\n
+        文字识别指定节点，仅会员可用。
+        </item>
+        <item>
+        service.setTimerMode(bool)\n
+        开启或关闭计时器模式，bool为true开启，false为关闭。
+        </item>
+        <item>
+        service.setAutoReadEnabled(bool)\n
+        开启或关闭阅读模式，bool为true开启，false为关闭。
+        </item>
+        <item>
+        service.setAutoNext(bool)\n
+        开启或关闭自动浏览模式，bool为true开启，false为关闭。
+        </item>
+        <item>
+        bool=service.isEditView(node)\n
+        判断当前节点是否为编辑框。
+        </item>
+        <item>
+        bool=service.isSeekBar(node)\n
+        判断当前节点是否为进度滑块。
+        </item>
+        <item>
+        bool=service.isListView(node)\n
+        判断当前节点是否为列表。
+        </item>
+        <item>
+        bool=service.isInListView(node)\n
+        判断当前节点是否在列表中。
+        </item>
+        <item>
+        bool=service.isIn웹View(node)\n
+        判断当前节点是否在网页中。
+        </item>
+        <item>
+        bool=service.isClick(node)\n
+        判断当前节点是否可以点击。
+        </item>
+        <item>
+        service.toClick()\n
+        点击当前焦点，在安卓7以上优先使用模拟手点击焦点。
+        </item>
+        <item>
+        service.toClick(node)\n
+        点击指定节点。
+        </item>
+        <item>
+        service.toLongClick()\n
+        长当前焦点。
+        </item>
+        <item>
+        service.toLongClick(node)\n
+        长按指定节点。
+        </item>
+        <item>
+        service.toBack()\n
+        返回。
+        </item>
+        <item>
+        service.toHome()\n
+        返回主屏幕。
+        </item>
+        <item>
+        service.toNotification()\n
+        打开通知栏。
+        </item>
+        <item>
+        service.toParent()\n
+        打开最近任务列表。
+        </item>
+        <item>
+        service.scrollBackward(node)\n
+        向后滚动。
+        </item>
+        <item>
+        service.scrollForward(node)\n
+        向前滚动。
+        </item>
+        <item>
+        service.loadGesturePackage(name)\n
+        载入手势方案。
+        </item>
+        <item>
+        service.click(x,y)\n
+        模拟人手点击屏幕指定位置，仅安卓7以上可用。
+        </item>
+        <item>
+        service.longClick(x,y)\n
+        模拟人手长按屏幕指定位置，仅安卓7以上可用。
+        </item>
+        <item>
+        service.press(x,y,t)\n
+        模拟人手在屏幕指定位置按住指定时间，仅安卓7以上可用。
+        </item>
+        <item>
+        service.swipe(x1,y1,x2,y2,t)\n
+        模式人手从一个位置用指定时间滑动到另一个位置，仅安卓7以上可用。
+        </item>
+        <item>
+        代码控制语句。
+        </item>
+        <item>
+        if 条件 then
+        要执行的代码\n
+        end\n
+        满足指定条件执行中间的代码。\n
+        如，\n
+        if service.isEditView(node) then
+          service.execute("拆分编辑",node)\n
+        return true\n
+        end\n
+        这句代码意思是，当焦点为编辑框时打开拆分编辑。
+        </item>
+        <item>
+        for n=1,重复次数 do\n
+        要执行代码\n
+        end\n
+        重复指定代码一定次数\n
+        如，\n
+        for n=1,10 do\n
+        service.toBack()\n
+        end\n
+        重复返回10次。
+        </item>
+        <item>
+        定义函数，\n
+        function 函数名称(参数)\n
+        函数代码\n
+        end
+        </item>
+        <item>
+        函数是代码的功能块，可以有效的重复利用代码。\n
+        如，下边是一个向列表添加数据的函数，在手势代码中，可以用于向一个列表添加重复的代码。\n
+        function append(t1,t2)\n
+        for k,v in ipairs(t2) do\n
+        table.insert(t1,v)\n
+        end \n
+        end \n
+        点击列表={}\n
+        按钮列表={"%点击","%返回"}\n
+        for n=1,10 do\n
+        append(点击列表,按钮列表)\n
+        end\n
+        向点击列表重复添加10次按钮列表的内容。
+        </item>
+        <item>
+        function 滑动()\n
+        service.swipe(500,300,500,1000,1000)\n
+        return true\n
+        end\n
+        模拟手在屏幕上滑动，可以在手势代码中使用，\n
+        service.click({{">微信","%滑动"}})\n
+        打开微信模拟在屏幕从上向下滑动。
+        </item>
+        <item>
+        自动点击，\n
+        service.click({按钮列表})\n
+        自动依次查找点击按钮列表的按钮，\n
+        按钮名称支持一些符号进行通配，\n
+        如前面加#(井号)，表示搜索的是自定义标签，\n
+        前边或后边加*(星号)表示前边或后边还有其他字符，\n
+        后边加#(井号)表示按钮次序，\n
+        后边加@(圈a)表示只在某一个程序查找，\n
+        加$(美元)表示执行完成后延时。\n
+        参数支持多个表，按顺序查找，\n
+        如果查找成功返回true，失败返回false。\n
+        完整说明见后边，
+        </item>
+        <item>
+        延时点击，\n
+        service.postClick(时间,{按钮列表})\n
+        延时一定时间执行点击，时间单位为毫秒，按钮列表定义与click相同，\n
+        没有返回值。
+        </item>
+        <item>
+        service.plugin("插件名称",node)\n
+        执行一个插件，\n
+        返回插件自定义返回的值。
+        </item>
+        <item>
+        解说手势以自动点击最为灵活，基础形式是
+        </item>
+        <item>
+        按钮列表={}\n
+        service.click(按钮列表)\n
+        return true
+        </item>
+        <item>
+        下边两行是固定的，自己只需要修改按钮列表即可，\n
+        按钮列表格式是用英文花括号或者叫大括号括起来的一些按钮名称和符号组成，
+        </item>
+        <item>
+        最简单的例子，
+        </item>
+        <item>
+        按钮列表={"确定"}\n
+        service.click(按钮列表)\n
+        return true
+        </item>
+        <item>
+        这个代码就能点击屏幕上的确定按钮，
+        </item>
+        <item>
+        按钮列表={\n
+        "确定",\n
+        "完成"\n
+        }
+        service.click(按钮列表)\n
+        return true
+        </item>
+        <item>
+        这是第一级花括号，这个是如果有确定点击确定，没有确定就点击完成，如果没有确定，就继续找完成，依次类推
+        </item>
+        <item>
+        有时候我们需要连续点击一系列按钮实现一些功能，这也是自动点击的优势，
+        </item>
+        <item>
+        按钮列表={\n
+        {"群资料卡","文件"}\n
+        }
+        service.click(按钮列表)\n
+        return true
+        </item>
+        <item>
+        这是二级花括号，在二级花括号中的按钮会被依次点击，直到某一个按钮不存在停止，
+        </item>
+        <item>
+        在花括号中嵌套括号可以实现连续点击，
+        </item>
+        <item>
+        在按钮列表中我们用一些符号来增强功能，
+        </item>
+        <item>
+        最常用的是 * 星号，英文星号，这个符号在按钮文字的前后，表示可以有其它内容
+        </item>
+        <item>
+        比如，在QQ主界面要点击，解说读屏交流群，而这个列表内容有时候后面会有99条未读之类内容，这时候就要写成，
+        </item>
+        <item>
+        解说读屏交流群*
+        </item>
+        <item>
+        # 井号，表示第几个结果，有时候一个界面有很多个名字一样的按钮，这时候需要用井号来说明点击第几个，
+        </item>
+        <item>
+        如，确定#1，表示第一个，也可以是负数，如确定#-1，表示最后一个。
+        </item>
+        <item>
+        这个井号在文字开头表示要查找的是按钮的标签，而不是按钮的名字，比如有的按钮没有名字，可以自己添加标签，并使用标签查找，
+        </item>
+        <item>
+        符号中英文竖线|，表示或，也就是如果有竖线前边的点击前边的，没有就点击后边的，\n
+        就拿刚才确定和完成的例子，可以简写为，\n
+        确定|完成\n
+        点击 确定 或者 完成，
+        </item>
+        <item>
+        &amp; 表示和，也就是只有有&amp;符号后边内容的界面，才点击前边内容的按钮，
+        </item>
+        <item>
+        确定&amp;*退出*\n
+        表示，只有这个界面有退出字样，比如确定退出吗，才点击确定，而没有退出两个字就不执行，
+        </item>
+        <item>
+        &amp;后边加叹号加关键字表示不包含后边内容时执行，\n
+        确定&amp;!*退出*\n
+        表示，只有这个界面没有退出字样时，才点击确定，而有退出两个字就不执行,和上一个情况相反，
+        </item>
+        <item>
+        &amp;符号在前表示检查当前焦点类型，\n
+        &amp;可编辑\n
+        &amp;可点击\n
+        &amp;列表\n
+        &amp;列表项目\n
+        &amp;编辑框\n
+        这个编辑框是弹出输入法的编辑框，
+        </item>
+        <item>
+        $美元符号，这个符号在文字后边表示点击该按钮后等待多长时间，执行下一步操作，
+        </item>
+        <item>
+        "群资料卡$2000","文件"\n
+        表示点击群资料卡卡后2秒点击文件，
+        </item>
+        <item>
+        &lt; 小于号，在后边表示重复执行，重复点击按钮多少次，\n
+        如
+        下一曲&lt;10\n
+        就重复点击下一曲十次，
+        </item>
+        <item>
+        小于号在前边表示只定位，不点击。\n
+        &lt;确定\n
+        找到确定但是不点击。
+        </item>
+        <item>
+        > 大于号，大于号在后边表示，等待次数符，\n
+        "群资料卡","文件>10"\n
+        手机反应有快有慢，用这个符号可以等待一定时间，这个代码表示，点击群资料卡后等待十秒，十秒以内以内如果出现文件就立即点击，如果超时就停止执行，
+        </item>
+        <item>
+        在开头的大于号可以打开程序，\n
+        >微信\n
+        打开微信，\n
+        >QQ\n
+        打开QQ，
+        </item>
+        <item>
+        还有一些扩展符号，可以执行其它功能，\n
+        % 可以执行一些常用指令，\n
+        比如，\n
+        %复制\n
+        可以复制，\n
+        %全文朗读\n
+        可以全屏朗读，
+        </item>
+        <item>
+        %还可以执行脚本中指定的函数，函数返回true表示继续执行，false停止继续执行，
+        </item>
+        <item>
+        []方括号包括的内容表示模拟直接点击，和使用辅助功能点击不同，直接点击可以解决一部分焦点不能点击的问题，\n
+        [播放]\n
+        模拟直接点击播放按钮，\n
+        [%点击]\n
+        模拟直接点击当前焦点
+        </item>
+        <item>
+        [x,y]方括号包含两个数字表示模拟点击指定位置，可以用整数表示绝对位置，或者用小数表示相对位置，\n
+        [300,500]\n
+        模拟点击从左算300像素，从上算500像素的位置，\n
+        [0.3,0.5]\n
+        模拟点击从左算 0.3 个屏幕宽度，从上算 0.5 个屏幕高度的位置，
+        </item>
+        <item>
+        [x,y,t]方括号包含三个数字表示模拟点击指定位置指定时间，前两个意思和上一个相同，第三个是以毫秒为单位的时间，\n
+        [300,500,1000]\n
+        模拟点击从左算 300 像素，从上算 500 像素的位置，持续 1000 毫秒
+        </item>
+        <item>
+        [x1,y1,x2,y2,t]方括号包含五个数字表示用指定时间模拟从x1，y1滑动到x2,y2位置，可以用整数表示绝对位置，或者用小数表示相对位置，\n
+        [300,500,300,800,1000]\n
+        模拟从左算 300 像素，从上算 500 像素的位置，用 1000 毫秒时间滑动到 300,800 的位置，
+        </item>
+        <item>
+        模拟滑动还可以指定滑动次数\n
+        [300,500,300,800,1000,10]\n
+        模拟从左算 300 像素，从上算 500 像素的位置，用 1000 毫秒时间滑动到 300,800 的位置，10 次,
+        </item>
+        <item>
+        在手势执行中有时会有一些不同情况出现，比如打开QQ，点击解说读屏交流群，点击群资料卡，点击文件，\n
+        如果有群公告，会在点击群资料卡那一步卡住，不能执行，\n
+        这时需要分支代码来执行这些突发情况，\n
+        我只是手写例子，可能会有错字导致不能执行，理解意思就可以了，
+        </item>
+        <item>
+        按钮列表={\n
+        {
+            ">QQ",\n
+        "解说读屏交流群*",\n
+        {
+              "我已阅读群公告|我知道了"\n
+        },\n
+        "群资料卡",\n
+        "文件"\n
+        }
+        }
+        </item>
+        <item>
+        因为QQ版本不同，确定群公告按钮也不一样，\n
+        可以看到，在点击解说读屏交流群后，多了一对花括号括起来按钮，这个括号中的按钮，有则执行，没有则跳过，不影响后边按钮的执行，\n
+        如果分支中有复杂操作，或者多种场景，我们还可以套入多个括号，
+        </item>
+        <item>
+        按钮列表={\n
+        {
+            ">QQ",\n
+        "解说读屏交流群*",\n
+        {
+             { "我已阅读群公告","确定"},\n
+        { "我知道了","确定"},\n
+        },\n
+        "群资料卡",\n
+        "文件"\n
+        }
+        }
+        </item>502
+    </string-array>
+
+    <string-array name="gesture_help_items">
+        <item>
+        Gesture operation essentials:\n
+        Single gestures should be straight, and movements should be fast\n
+        The first part of the combined gesture should be longer than half the length of the screen, and the second part can be oriented as long as it is right.</item>
+        <item>
+        Combination gesture:\n
+        First up, down, last focus\n
+        First down, first, first focus\n
+        First left and right task switching\n
+        Right, then left, back\n
+        First up and then right operation menu\n
+        First right and then right function menu\n
+        First, then left, extension\n
+        First, then left, voice assistant\n
+        First left, then left, word by word\n
+        Right first, then upper, automatically read aloud\n
+        First left and then open the notification bar\n
+        First right, then bottom, browse the list\n
+        Up twice click to browse\n
+        Twice swipe down
+        </item>
+        <item>
+        Click on the browse mode gesture:\n
+        Click to switch focus\n
+        Browse up mode\n
+        Browse down mode
+        </item>
+        <item>
+        Focus browsing mode gestures:\n
+        Up one focus\n
+        Down next focus
+        </item>
+        <item>
+        QQ WeChat call\n
+        Reject with left swipe\n
+        Answer with right swipe
+        </item>
+        <item>
+        Phone QQ WeChat call\n
+        Hang up left\n
+        Answer right
+        </item>
+        <item>
+        List\n
+        Page up to the left\n
+        Flip right to the bottom
+        </item>
+        <item>
+        Dialog\n
+        Cancel left\n
+        OK right
+        </item>
+        <item>
+        Progress slider\n
+		Swipe left to decrease slider\n
+        Swipe right to increase slider
+        </item>
+        <item>
+        Edit box\n
+        Move the cursor forward\n
+        Move the cursor backward
+        </item>
+        <item>
+        Word-by-word browse mode gestures:\n
+        Click to explain the current character\n
+        Up one line up\n
+        Down one line\n
+        Left previous character\n
+        Right next character\n
+        First left, last, last paragraph\n
+        First right, then next, next paragraph\n
+        First, then right, select 텍스트\n
+        Left first, then left, exit literally
+        </item>
+        <item>
+        텍스트 selection gestures: \n
+        Single tap: read the current character.\n
+        Up swipe: Go to the previous line.\n
+        Down swipe: Go to the next line.\n
+        Left swipe: Go to the previous character.\n
+        Right swipe: Go to the next character.\n
+        Left up swipe: Go to the previous paragraph.\n
+        Right up swipe: Go to the next paragraph.\n
+        Up right swipe: Deselect all.\n
+        Down right swipe: Copy selection.\n
+        Up left swipe: Append copy.\n
+        Right down swipe: copy the whole 텍스트.
+        </item>
+        <item>
+        Node browsing mode gestures
+        Up swipe: go to the previous node.\n
+        Down swipe: Go to the next node.\n
+        Left swipe: go to the parent node.\n
+        Right swipe: Go to the child node.\n
+        Down left swipe: exit the node.
+        </item>
+        <item>
+        Voice assistant manual: \n
+        Open AppName: Opens the given app
+        Send Content: allows direct sending to QQ and Wechat
+        Search for 콘텐츠: performs the online search for the given phrase
+        Voice assistant is extensible thanks to the editing menus and plugins.
+        </item>
+    </string-array>
+    <string-array name="voice_helper_help_items">
+        <item>Open the given program: Open application name</item>
+        <item>Install the given program: install Application Name</item>
+        <item>Uninstall the given program: uninstall Application Name</item>
+        <item>Read Everything: Read the whole screen</item>
+        <item>Read aloud: read aloud and follow the cursor</item>
+        <item>Current Brightness: read the environment\'s brightness.</item>
+        <item>Click: activate the focused element.</item>
+        <item>Activate specified item: activate item with the specified name</item>
+        <item>Copy currently focused item: Copy the currently focused item to the clipboard</item>
+        <item>Translate: Translate the currently focused 텍스트.</item>
+        <item>Translate LanguageName: Translate the currently focused 텍스트 to a given language</item>
+        <item>Select: Selects the given 텍스트</item>
+        <item>Send a message in the qq WeChat chat window: Hello send</item>
+        <item>텍스트 입력: 음성인식으로 수정 창에 텍스트 입력</item>
+        <item>Long Input: Long dictation mode</item>
+        <item>Check weather: checks the weather</item>
+        <item>Check the ticket: checks the train tickets.</item>
+        <item>Tell the recipe: check the recipe for a given food.</item>
+        <item>Tell a joke: tells a random joke</item>
+        <item>Copy the response: copies the response of a given command.</item>
+        <item>There are more features waiting for being discovered.</item>
+
+    </string-array>
+
+</resources>
