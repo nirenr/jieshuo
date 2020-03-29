@@ -356,7 +356,7 @@
     <string name="voice_helper_use_plugin_title">Používať rozšírenia hlasového asistenta</string>
     <string name="voice_helper_use_tool_title">Povoliť používanie rozšírení hlasového asistenta</string>
     <string name="message_has_vip">Táto funkcia je dostupná iba pre prémiových používateľov</string>
-    <string name="has_vip_summary2">Funkcia%s je v bezplatnej verzií programu obmedzená</string>
+    <string name="has_vip_summary2">Funkcia%s je v bezplatnej verzii programu obmedzená</string>
     <string name="voice_helper_capability_setting">Nastavenia funkcií hlasového asistenta</string>
     <string name="use_wake_lock_pro_title">Rozšírená funkcia aktívnej obrazovky</string>
     <string name="use_wake_lock_pro_summary">Pokiaľ možnosť uvedená vyššie nefunguje korektne, použite prosím túto.</string>
@@ -395,8 +395,8 @@
     <string name="lower_case_format_number2">%s ， %d písmená</string>
     <string name="upper_case_format_number2">Existujú %s veľké písmená %d</string>
     <string name="use_slow_speed_title">Zpomaliť reč v režime úprav</string>
-    <string name="has_vip_summary_gesture">V bezplatnej verzií nemôžu byť tieto gestá upravované</string>
-    <string name="message_has_vip_loop_click">V bezplatnej verzií niesu podporované oneskorené kliknutia.</string>
+    <string name="has_vip_summary_gesture">V bezplatnej verzii nie je možné upravovať tieto gestá</string>
+    <string name="message_has_vip_loop_click">V bezplatnej verzii niesu podporované oneskorené kliknutia.</string>
     <string name="command_click">Kliknutie</string>
     <string name="command_long_click">Dlhé stlačenie</string>
     <string name="command_unlock">Odomknúť</string>
@@ -491,7 +491,7 @@
     <string name="view_name_rating_bar">Indikátor hodnotenia</string>
     <string name="view_name_image_button">Tlačidlo s obrázkom</string>
     <string name="view_name_image">Obrázok</string>
-    <string name="message_has_vip_read_mode">Režim čítania článkov nie je v bezplatnej verzií podporovaný</string>
+    <string name="message_has_vip_read_mode">Režim čítania článkov nie je podporovaný v bezplatnej verzii</string>
     <string name="message_enabled_read_mode">Ukončujem režim čítania</string>
     <string name="message_long_copyed">Zkopírované a celkom z %d položiek.</string>
     <string name="message_read_mode_enabled">Vstupujem do režimu čítania</string>
@@ -934,4 +934,30 @@
     <string name="setup_setting_has_overlay_permission">Oprávnenie zobrazovať cez iné aplikácie je udelené.</string>
     <string name="copy_username_and_userid">Skopírovať meno používateľa a ID.</string>
     <string name="username_and_userid_format">Meno používateľa: %s Používateľské ID: %s</string>
+    <string name="file_name_dict">词典.json</string>
+    <string name="refresh">Obnoviť</string>
+    <string name="msg_filter">%d nájdených výsledkov</string>
+    <string name="use_custom_symbol_speak_title">Použiť vlastné definície symbolov</string>
+    <string name="custom_symbol_title">Nastavenia vlastných symbolov</string>
+    <string name="use_custom_dict_speak_title">Použiť vlastný slovník</string>
+    <string name="custom_dict_title">Nastavenia vlastného slovníka</string>
+
+    <string name="msg_has_vip_dict">V bezplatnej verzii je možné mať v slovníku maximálne 5 položiek.</string>
+    <string name="undo">Vrátiť späť</string>
+    <string name="redo">Zopakovať</string>
+    <string name="last_open">Naposledy otvorené súbory</string>
+    <string name="create_file">Vytvoriť nový súbor</string>
+    <string name="open_project">Otvoriť projekt</string>
+    <string name="create_project">Vytvoriť projekt</string>
+    <string name="format">Formát</string>
+    <string name="fix_import">Opraviť asociácie súborov</string>
+    <string name="run">Spustiť</string>
+    <string name="use_emoji_speak_title">Čítať Emoji: </string>
+    <string name="install_shortcut">Pridať odkaz na domovskú obrazovku</string>
+    <string name="msg_select_end">Koniec</string>
+    <string name="msg_select_start">Začiatok</string>
+    <string name="msg_plugin_run_error">Prosím, najprv spustite službu dostupnosti Commentary!</string>
+    <string name="input_file_name">Zadajte názov súboru: </string>
+    <string name="input_project_name">Zadajte názov projektu: </string>
+
 </resources>
