@@ -1030,31 +1030,31 @@
     <string name="setup_setting_has_overlay_permission">مجوز همپوشانی صفحه اعطا شده است.</string>
     <string name="copy_username_and_userid">کپی کردن نام و شناسه کاربری</string>
     <string name="username_and_userid_format">نام کاربری: %s شناسه کاربری: %s</string>
-    <string name="refresh">刷新</string>
+    <string name="refresh">تازه‌سازی</string>
     <string name="file_name_dict">词典.json</string>
-    <string name="msg_filter">共找到%d个结果</string>
-    <string name="use_custom_symbol_speak_title">朗读自定义符号</string>
-    <string name="custom_symbol_title">自定义符号设置</string>
-    <string name="use_custom_dict_speak_title">使用自定义词典</string>
-    <string name="custom_dict_title">用户词典设置</string>
+    <string name="msg_filter">%d نتیجه پیدا شد. </string>
+    <string name="use_custom_symbol_speak_title">علائم سفارشی خوانده شوند. </string>
+    <string name="custom_symbol_title">تنظیمات علائم سفارشی</string>
+    <string name="use_custom_dict_speak_title">از واژه‌نامه سفارشی استفاده شود. </string>
+    <string name="custom_dict_title">تنظیمات واژه‌نامه سفارشی</string>
 
-    <string name="msg_has_vip_dict">非会员仅支持添加5条</string>
-    <string name="undo">撤消</string>
-    <string name="redo">重做</string>
-    <string name="last_open">最近</string>
-    <string name="create_file">新建文件</string>
-    <string name="open_project">打开工程</string>
-    <string name="create_project">新建工程</string>
-    <string name="format">格式化</string>
-    <string name="fix_import">导入分析</string>
-    <string name="run">运行</string>
-    <string name="use_emoji_speak_title">朗读Emoji表情</string>
-    <string name="install_shortcut">添加到桌面</string>
-    <string name="msg_select_end">选择结束</string>
-    <string name="msg_select_start">选择开始</string>
-    <string name="msg_plugin_run_error">先在辅助功能启动解说再运行插件</string>
-    <string name="input_file_name">输入文件名</string>
-    <string name="input_project_name">输入工程名</string>
+    <string name="msg_has_vip_dict">نسخه رایگان تنها از 5 مورد پشتیبانی می‌کند. </string>
+    <string name="undo">خنثی سازی آخرین عملیات</string>
+    <string name="redo">انجام مجدد آخرین عملیات</string>
+    <string name="last_open">موارد اخیر</string>
+    <string name="create_file">ایجاد فایل   جدید</string>
+    <string name="open_project">باز کردن پروژه</string>
+    <string name="create_project">ایجاد پروژه جدید</string>
+    <string name="format">فرمت</string>
+    <string name="fix_import">اختصاص مجدد پسوند فایل‌ها</string>
+    <string name="run">اجرا</string>
+    <string name="use_emoji_speak_title">ایموجی ها خوانده شوند. </string>
+    <string name="install_shortcut">افزودن به صفحه اصلی</string>
+    <string name="msg_select_end">پایان</string>
+    <string name="msg_select_start">شروع</string>
+    <string name="msg_plugin_run_error">ابتدا سرویس آزمایش پلاگین های commentary را از تنظیمات دسترس‌پذیری روشن کنید. </string>
+    <string name="input_file_name">نام فایل را وارد کنید. </string>
+    <string name="input_project_name">نام پروژه را وارد کنید. </string>
 
 
 </resources>
