@@ -355,4 +355,32 @@
     <string name="ocr_lang">ocr_lang</string>
     <string name="timer_run">timer_run</string>
     <string name="use_web_view_name">use_web_view_name</string>
+    <string name="check_permissions">check_permissions</string>
+    <string name="check_overlay_permissions">check_overlay_permissions</string>
+    <string name="check_battery_permissions">check_battery_permissions</string>
+    <string name="open_application_info">open_application_info</string>
+    <string name="open_setup_setting">open_setup_setting</string>
+    <string name="check_notification_permissions">check_notification_permissions</string>
+    <string name="welcome">welcome</string>
+    <string name="setup_setting">setup_setting</string>
+    <string name="plugin">plugin</string>
+    <string name="use_custom_symbol_speak">use_custom_symbol_speak</string>
+    <string name="custom_symbol">custom_symbol</string>
+    <string name="use_custom_dict_speak">use_custom_dict_speak</string>
+    <string name="custom_dict">custom_dict</string>
+    <string name="use_emoji_speak">use_emoji_speak</string>
+    <string name="custom_dict_data">custom_dict_data</string>
+    <string name="custom_symbol_data">custom_symbol_data</string>
+    <string name="note">note</string>
+    <string name="use_loop_move">use_loop_move</string>
+    <string name="custom_sound_settings">custom_sound_settings</string>
+    <string name="read_mode">read_mode</string>
+    <string name="use_bottom_menu_edge_gesture">use_bottom_menu_edge_gesture</string>
+    <string name="lang">sk</string>
+    <string name="hot_key_package">hot_key_package</string>
+    <string name="custom_hot_key_settings">custom_hot_key_settings</string>
+    <string name="hot_key_description">hot_key_description</string>
+    <string name="hot_key_settings">hot_key_settings</string>
+    <string name="app_hot_key_package">app_hot_key_package</string>
+
 </resources>

@@ -177,20 +177,20 @@
         <item>Fin*</item>
         <item>Raccrocher</item>
         <item>Terminer*</item>
-        <item>ANNULER</item>
-        <item>Abandonner le message vocal</item>
-        <item>Effacer toutes les notifications.</item>
-        <item>*NON LUS*</item>
-        <item>*NON LU*</item>
+        <item>Fermer*</item>
+        <item>Abandonner*</item>
+        <item>Effacer*</item>
         <item>*Wi-Fi*</item>
-        <item>Revenir en arrière de*</item>
+        <item>Refuser</item>
+        <item>Désinstaller</item>
+        <item>Revenir en*</item>
         <item>Retour arrière</item>
     </string-array>
     <string-array name="right_button">
         <item>RÉPONDRE</item>
         <item>Accepter*</item>
-        <item>Envoyer</item>
-        <item>*le haut-parleur*</item>
+        <item>Envoyer*</item>
+        <item>*haut-parleur*</item>
         <item>Avance*</item>
         <item>Avancer*	</item>
     </string-array>
@@ -537,6 +537,30 @@
         <item>Bouton</item>
         <item>défilement</item>
         <item>Tous les types du contenu</item>
+    </string-array>
+
+    <string-array name="hot_key_help_items" >
+        <item>CTRL+DPAD_UP: 上个焦点</item>
+        <item>CTRL+DPAD_DOWN: 下个焦点</item>
+        <item>CTRL+DPAD_LEFT: 左快捷功能</item>
+        <item>CTRL+DPAD_RIGHT: 右快捷功能</item>
+        <item>CTRL+PAGE_DOWN: 向下滚动</item>
+        <item>CTRL+PAGE_DOWN: 向上滚动</item>
+        <item>CTRL+H: 主屏幕</item>
+        <item>CTRL+N: 通知栏</item>
+        <item>CTRL+P: 最近任务</item>
+        <item>CTRL+SPACE: 点击</item>
+        <item>CTRL+L: 长按</item>
+        <item>CTRL+Q: 快速设置</item>
+
+        <item>ALT+M: 主菜单</item>
+        <item>ALT+A: 操作菜单</item>
+        <item>ALT+P: 扩展插件</item>
+        <item>ALT+T: 扩展工具</item>
+        <item>ALT+V: 语音助手</item>
+        <item>ALT+S: 拆分编辑</item>
+        <item>ALT+L: 列表浏览</item>
+
     </string-array>
 
 </resources>

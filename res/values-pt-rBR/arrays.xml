@@ -538,4 +538,28 @@
         <item>Visualizar</item>
     </string-array>
 
+    <string-array name="hot_key_help_items" >
+        <item>CTRL+DPAD_UP: 上个焦点</item>
+        <item>CTRL+DPAD_DOWN: 下个焦点</item>
+        <item>CTRL+DPAD_LEFT: 左快捷功能</item>
+        <item>CTRL+DPAD_RIGHT: 右快捷功能</item>
+        <item>CTRL+PAGE_DOWN: 向下滚动</item>
+        <item>CTRL+PAGE_DOWN: 向上滚动</item>
+        <item>CTRL+H: 主屏幕</item>
+        <item>CTRL+N: 通知栏</item>
+        <item>CTRL+P: 最近任务</item>
+        <item>CTRL+SPACE: 点击</item>
+        <item>CTRL+L: 长按</item>
+        <item>CTRL+Q: 快速设置</item>
+
+        <item>ALT+M: 主菜单</item>
+        <item>ALT+A: 操作菜单</item>
+        <item>ALT+P: 扩展插件</item>
+        <item>ALT+T: 扩展工具</item>
+        <item>ALT+V: 语音助手</item>
+        <item>ALT+S: 拆分编辑</item>
+        <item>ALT+L: 列表浏览</item>
+
+    </string-array>
+
 </resources>

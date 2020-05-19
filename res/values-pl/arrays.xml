@@ -174,20 +174,25 @@
         <item>@string/command_virtual_navigation</item>
     </string-array>
     <string-array name="left_button">
-        <item>odrzuć</item>
-        <item>*Przesuń by odrzucić połączenie*</item>
-        <item>End call</item>
-        <item>Poprzedni element</item>
-        <item>poprzedni plik</item>
-        <item>Do góry</item>
+        <item>Odrzuć</item>
+        <item>Rozłącz</item>
+        <item>*Przesuń by odrzucić*</item>
+        <item>Zakończ</item>
+        <item>Rozłącz połączenie</item>
+        <item>Hang up call</item>
+        <item>End QQ call</item>
+        <item>End QQ call</item>
+        <item>Poprzedni*</item>
+        <item>poprzedni utwór</item>
+        <item>Nawiguj w górę</item>
     </string-array>
     <string-array name="right_button">
-        <item>Odbierz połączenie</item>
-        <item>odpowiedz</item>
+        <item>Odpowiedz</item>
+        <item>*Przesuń by odebrać*</item>
+        <item>*głośnik*</item>
         <item>Tryb głośnomówiący</item>
-        <item>Głośnik</item>
-        <item>Przesuń do następnego elementu</item>
-        <item>Next track</item>
+        <item>Przełącz do następnego*</item>
+        <item>Następny utwór</item>
     </string-array>
 
     <string-array name="voice_recognizer_values">
@@ -318,10 +323,10 @@
         <item>4</item>
     </string-array-->
     <string-array name="vibrate_intensity_entries">
-        <item>Słaba</item>
+        <item>Lekka</item>
         <item>Średnia</item>
-        <item>Silna</item>
-        <item>Bardzo silna</item>
+        <item>Intensywna</item>
+        <item>Bardzo intensywna</item>
     </string-array>
     <string-array name="vibrate_intensity_values">
         <item>12</item>
@@ -330,9 +335,9 @@
         <item>64</item>
     </string-array>
     <string-array name="long_click_entries">
-        <item>Krótkie</item>
-        <item>Średnie</item>
-        <item>Długie</item>
+        <item>Short</item>
+        <item>Medium</item>
+        <item>Long</item>
     </string-array>
     <string-array name="long_click_values">
         <item>500</item>
@@ -340,9 +345,9 @@
         <item>1000</item>
     </string-array>
     <string-array name="edge_gesture_width_entries">
-        <item>Mała</item>
-        <item>Średnia</item>
-        <item>Duża</item>
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Big</item>
         <item>Maximum</item>
     </string-array>
     <string-array name="edge_gesture_width_values">
@@ -363,9 +368,9 @@
         <item>Tłumacz</item>
         <item>Rozpoznawanie scen</item>
         <item>Rozpoznawanie tekstu</item>
-        <item>Rozpoznawanie Twarzy</item>
-        <item>CAPTCHA </item>
-        <item>Wynik rozpoznawania</item>
+        <item>Rozpoznawanie twarzy</item>
+        <item>Rozpoznawanie CAPTCHA</item>
+        <item>Wyniki rozpoznawania</item>
         <item>Opis obrazu</item>
     </string-array>
     <string-array name="lang_entries">
@@ -456,11 +461,11 @@
         <item>60</item>
     </string-array>
     <string-array name="alarm_interval_entries">
-        <item>Co 5 Minut</item>
+        <item>Co 5 minut</item>
         <item>Co 10 minut</item>
         <item>Co 15 minut</item>
-        <item>co 30 minut</item>
-        <item>co 60 minut</item>
+        <item>Co 30 minut</item>
+        <item>Co 60 minut</item>
     </string-array>
     <string-array name="timer_interval_values">
         <item>1</item>
@@ -469,7 +474,7 @@
         <item>15</item>
     </string-array>
     <string-array name="timer_interval_entries">
-        <item>1 minuta</item>
+        <item>minuta</item>
         <item>5 minut</item>
         <item>10 minut</item>
         <item>15 minut</item>
@@ -527,11 +532,35 @@
     </string-array>
     <string-array name="web_type_title">
         <item>Domyślne</item>
-        <item>Nagłówek</item>
-        <item>Link</item>
-        <item>Przycisk</item>
+        <item>Nagłówki</item>
+        <item>Linki</item>
+        <item>Przyciski</item>
         <item>Scroll</item>
-        <item>Widok</item>
+        <item>Ramki</item>
+    </string-array>
+
+    <string-array name="hot_key_help_items" >
+        <item>CTRL+DPAD_UP: 上个焦点</item>
+        <item>CTRL+DPAD_DOWN: 下个焦点</item>
+        <item>CTRL+DPAD_LEFT: 左快捷功能</item>
+        <item>CTRL+DPAD_RIGHT: 右快捷功能</item>
+        <item>CTRL+PAGE_DOWN: 向下滚动</item>
+        <item>CTRL+PAGE_DOWN: 向上滚动</item>
+        <item>CTRL+H: 主屏幕</item>
+        <item>CTRL+N: 通知栏</item>
+        <item>CTRL+P: 最近任务</item>
+        <item>CTRL+SPACE: 点击</item>
+        <item>CTRL+L: 长按</item>
+        <item>CTRL+Q: 快速设置</item>
+
+        <item>ALT+M: 主菜单</item>
+        <item>ALT+A: 操作菜单</item>
+        <item>ALT+P: 扩展插件</item>
+        <item>ALT+T: 扩展工具</item>
+        <item>ALT+V: 语音助手</item>
+        <item>ALT+S: 拆分编辑</item>
+        <item>ALT+L: 列表浏览</item>
+
     </string-array>
 
 </resources>

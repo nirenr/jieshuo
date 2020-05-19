@@ -3,34 +3,34 @@
     <string name="app_name"> Jieshuo</string>
     <string name="accessibility_service_description">
         Jieshuo es un programa lector de pantalla que ayudará a las personas ciegas a usar sus teléfonos móviles. Hicimos algunos intentos de innovación. Para más detalles abrir configuración \\ ayuda.\n
-        Algunas funciones están restringidas hasta que compre la versión premium. Para más detalles, póngase en contacto con el servicio al cliente en los grupos oficiales de qq, whatsapp y telegram, en ayuda y comentarios.\n
+        Algunas funciones están restringidas hasta que compres la versión premium. Para más detalles, contacta con el servicio al cliente en los grupos oficiales de qq, Whatsapp y Telegram, en ayuda y comentarios.\n
         \n
         Funciones: \n
-        Asistente de voz: Usa su teléfono sin tocarlo con nuestro asistente de voz.\n
-        Extenciones: Instale extenciones para mejorar tu experiencia.\n
-        Busque por carácter, palabra, párrafo … Siempre hay un modo de navegación adecuado para sus necesidades.\n
+        Asistente de voz: Usa tu teléfono sin tocarlo con nuestro asistente de voz.\n
+        Extenciones: Instala extenciones para mejorar tu experiencia.\n
+        Busca por carácter, palabra, párrafo … Siempre hay un modo de navegación adecuado para tus necesidades.\n
         El programa es rápido y sensible.\n
         Instala temas de sonido que siempre complacerán a tus oídos.\n
-        Funciones de copiado avanzadas que le permiten copiar exactamente lo que necesita.\n
+        Funciones de copiado avanzadas que te permiten copiar exactamente lo que necesitas.\n
         Gestos contextuales que permiten la flexibilidad extrema.\n
         Gestos remapeables.\n
         Configuración flexible de notificaciones. Nunca serás interrumpido por algo que no te interesa en este momento.\n
         \n
         Funciones Premium:\n
         Pantalla virtual para aplicaciones inaccesibles para abrir un nuevo mundo para ti.\n
-        Identificación automática de OCR: identifique las imágenes y lea el texto de ellas con facilidad.\n
+        Identificación automática de OCR: identifica las imágenes y lee el texto de ellas con facilidad.\n
         Reconocimiento de CAPTCHA a la velocidad de un rayo impulsado por la inteligencia artificial.\n
         Identifica todo lo que está frente a ti. Personas, escenas y objetos.\n
-        Filtrado de páginas web: leer las páginas web con facilidad, sin imágenes y sin interrumpir el contenido.\n
+        Filtrado de páginas web: lee las páginas web con facilidad, sin imágenes y sin interrumpir el contenido.\n
         Copia las pantallas completas con facilidad.\n
         Modo de lectura novedoso: torneado automático de páginas, filtrado de contenido… \n
         Gestos personalizables por aplicación.
-        Lista de favoritos: tenga acceso a su contenido favorito, en cualquier lugar y en cualquier momento.\n
-        Edición rápida: encuentre rápidamente la frase, la palabra o el párrafo que desea editar.\n
-        Selección avanzada de texto: por palabra, frase, párrafo. Seleccione exactamente el texto que necesita.\n
+        Lista de favoritos: ten acceso a tu contenido favorito, en cualquier lugar y en cualquier momento.\n
+        Edición rápida: encuentra rápidamente la frase, la palabra o el párrafo que deseas editar.\n
+        Selección avanzada de texto: por palabra, frase, párrafo. Selecciona exactamente el texto que necesitas.\n
         Varias operaciones facilitadas por comandos de voz adicionales.\n
         Ejecución de plugins de manera automática, Tendrás tus plugins accesibles por ti.\n
-        Jieshuo es su lector de pantallas configurable e infinitamente flexible!
+        ¡Jieshuo es tu lector de pantallas configurable e infinitamente flexible!
     </string>
 
     <string name="about_title">Hebei Biyou Technology Co., Ltd.</string>
@@ -46,37 +46,37 @@
     <string name="usage_hints_summary">Lee sugerencias de interacción basadas en la aplicación con la que interactúas..</string>
 
     <string name="vibrate_title">Vibración: </string>
-    <string name="vibrate_summary">obtenga respuesta de vibración al utilizar jieshuo.</string>
+    <string name="vibrate_summary">obtén respuesta de vibración al utilizar jieshuo.</string>
 
     <string name="use_proixmity_sensor_title">Usar sensor de proximidad: </string>
     <string name="use_proixmity_sensor_summary">Detiene la lectura al tocar el sensor de proximidad.</string>
 
     <string name="screen_off_speak_title">Leer notificaciones con pantalla apagada: </string>
-    <string name="screen_off_speak_summary">Leer notificaciones cuando la pantalla esté apagada.</string>
+    <string name="screen_off_speak_summary">Lee notificaciones cuando la pantalla está apagada.</string>
 
     <string name="use_sound_title">Sonido: </string>
     <string name="use_sound_summary">Usa el tema de sonido seleccionado actualmente.</string>
 
     <string name="use_list_index_title">Leer el rango de lista: </string>
-    <string name="use_list_index_summary">Lea la información sobre el rango de visualización de la lista al desplazarse.</string>
+    <string name="use_list_index_summary">Lee la información sobre el rango de visualización de la lista al desplazarse.</string>
 
     <string name="use_node_title">Utilizar el modo de navegación de nodo (solo para usuarios avanzados):</string>
-    <string name="use_node_summary">Utilice el modo de navegación de nodo</string>
+    <string name="use_node_summary">Utiliza el modo de navegación de nodo</string>
 
     <string name="tts_volume_title">Volumen de la síntesis de voz: </string>
     <string name="tts_volume_summary">El volumen de la voz es igual al volumen multimedia.</string>
 
     <string name="use_key_shortcut_title">Utilizar botones de volumen como atajos de teclado: </string>
-    <string name="use_key_shortcut_summary">Mantenga pulsados los botones de volumen para ejecutar diversas operaciones.</string>
+    <string name="use_key_shortcut_summary">Mantén pulsados los botones de volumen para ejecutar diversas operaciones.</string>
     <string name="tts_speaker_title">Voz del sintetizador: </string>
     <string name="tts_speaker_summary">La voz del sintetizador incorporado.</string>
 
     <string name="tts_settings_title">Ajustes de síntesis de voz</string>
     <string name="feed_setting_title">Ajustes de sonido y vibración</string>
-    <string name="content_setting_title">Presentación de contenido</string>
+    <string name="content_setting_title">Ajustes de contenido</string>
     <string name="other_setting">Otros ajustes</string>
 
-    <string name="tts_system_settings_title">Abrir ajustes de síntesis de voz del sistema</string>
+    <string name="tts_system_settings_title">Abrir ajustes de texto a voz del sistema</string>
 
     <string name="template_stream_volume">El volumen %1$s es %2$d</string>
     <string name="template_stream_volume_set">el volumen de %1$s está al %2$d porcién.</string>
@@ -111,10 +111,10 @@
     <string name="use_touch_mode_title">Habilitar exploración táctil (no deshabilitar si eres totalmente ciego)</string>
     <string name="unknown_lable_title">Intenta adivinar la etiqueta de un elemento sin etiqueta: </string>
     <string name="action_setting_title">Ajustes de acción</string>
-    <string name="use_single_tap_title">Toque para activar: </string>
-    <string name="use_up_tap_title">Levante el dedo de un elemento para activar.: </string>
+    <string name="use_single_tap_title">Tocar para activar: </string>
+    <string name="use_up_tap_title">Levantar el dedo de un elemento para activar.: </string>
     <string name="sound_volume_title">Volumen del tema de sonido</string>
-    <string name="notification_bar_speak_title">Leer notificaciones desde el panel de notificaciones: </string>
+    <string name="notification_bar_speak_title">Leer notificaciones desde la pantalla de notificaciones: </string>
     <string name="notification_toast_speak_title">Leer notificaciones emergentes: </string>
     <string name="notification_announcement_speak_title">Leer las notificaciones del lector de pantalla: </string>
     <string name="notification_settings_title">Ajustes de notificaciones</string>
@@ -127,13 +127,13 @@
     <string name="value_default">Predeterminado</string>
     <string name="notification_app_name_speak_title">Leer fuente de la notificación: </string>
     <string name="use_up_tap_summary">Levantando el dedo se activará un elemento debajo de él. Si el dedo permanece más tiempo en el elemento, no se activará.</string>
-    <string name="use_tap_mode_title">Toque en la pantalla para cambiar el enfoque: </string>
+    <string name="use_tap_mode_title">Tocar en la pantalla para cambiar el foco: </string>
     <string name="vibrate_intensity_title">Intencidad de vibración</string>
     <string name="use_progress_title">Lectura automática de las barras de progreso: </string>
-    <string name="use_scroll_list_index_title">Lea el rango de visualización de la lista actualmente desplazada: </string>
+    <string name="use_scroll_list_index_title">Leer el rango de visualización de la lista actualmente desplazada: </string>
     <string name="use_content_changed_title">Anunciar cambios en el contenido dinámico: </string>
     <string name="use_double_fling_title">Usar gestos multiparte: </string>
-    <string name="use_view_name_title">Lee el nombre del control enfocado actualmente: </string>
+    <string name="use_view_name_title">Leer el nombre del control enfocado actualmente: </string>
     <string name="permissions_settings_title">Permisos fijos</string>
     <string name="use_node_info_title">Leer la información del nodo</string>
     <string name="use_content_tree_changed_title">Leer automaticamente el contenido de la ventana actual: </string>
@@ -145,33 +145,33 @@
     <string name="clipboard_manager_title">Administrar el portapapeles</string>
     <string name="label_manager_title">Administrar etiquetas personalizadas</string>
     <string name="menu_manager_title">Administrar el menú principal</string>
-    <string name="menu_up_tap_title">Levante el dedo para activar la opción de menú: </string>
-    <string name="navigation_up_tap_title">Levante el dedo para activar las teclas de navegación del software: </string>
-    <string name="only_notification_title">Permite reactivar el lector de pantalla solo desde la barra de notificaciones.</string>
+    <string name="menu_up_tap_title">Levantar el dedo para activar la opción de menú: </string>
+    <string name="navigation_up_tap_title">Levantar el dedo para activar las teclas de navegación del software: </string>
+    <string name="only_notification_title">Reanudar el lector de pantalla solo desde la barra de notificaciones.</string>
     <string name="send_log_title">Enviar logs</string>
     <string name="long_click_title">Tocar y mantener pulsado</string>
     <string name="long_click_summary">Latencia después de la cual se activa la acción de click largo </string>
     <string name="split_select_title">Seleccionando</string>
-    <string name="use_up_long_click_title">Haga clic y levante el dedo para activar la acción de clic largo: </string>
+    <string name="use_up_long_click_title">Hacer clic y levantar el dedo para activar la acción de clic largo: </string>
     <string name="use_up_long_click_summary">Simular una pulsación larga con un clic y levantar el gesto</string>
     <string name="backup_manager_title">Administrar copias de seguridad</string>
     <string name="user_letter_map_title">Diccionario personalizado (se requiere reiniciar para aplicar)</string>
     <string name="tts_use_offline_title">Usar síntesis de voz sin conexión: </string>
-    <string name="tts_use_offline_summary">Si Wi-Fi no está disponible, se le cambiará automáticamente al sintetizador de voz predeterminado.</string>
+    <string name="tts_use_offline_summary">Si Wi-Fi no está disponible, se cambiará automáticamente al sintetizador de voz predeterminado.</string>
     <string name="gesture_package_title">Temas de gestos</string>
     <string name="long_text_title">Edición avanzada de texto</string>
     <string name="gesture_manager_title">Administrar gestos</string>
-    <string name="use_ocr_title">Uso automático de reconocimiento de OCR: </string>
-    <string name="use_ocr_summary">Identifique automáticamente la imagen enfocada o el control sin etiquetar. Consumirá más tráfico de red y batería</string>
+    <string name="use_ocr_title">Usar reconocimiento de OCR automático: </string>
+    <string name="use_ocr_summary">Identifica automáticamente la imagen enfocada o el control sin etiquetar. Consumirá más tráfico de red y batería</string>
     <string name="content_blacklist_title">Contenido de la lista negra</string>
     <string name="no_phone_permission">Sin permisos.</string>
     <string name="message_time_out">denegado</string>
-    <string name="message_welcome">Bienvenido a Jieshuo!</string>
+    <string name="message_welcome">¡Bienvenido a Jieshuo!</string>
     <string name="message_in_dim_screen">Se activó la pantalla atenuada</string>
     <string name="message_out_dim_screen">Se desactivó la pantalla atenuada</string>
     <string name="message_only_android5_last">Solamente se soporta Android 5 y posterior!</string>
     <string name="notification_box">Cuadro de notificaciones</string>
-    <string name="clear">Eliminar</string>
+    <string name="clear">Borrar</string>
     <string name="message_disabled_up_tap">Se desactivó "Levantar para activar"</string>
     <string name="message_enabled_up_tap">Se activó "Levantar para activar"</string>
     <string name="message_no_found_edit_text">Cuadro de edición no encontrado.</string>
@@ -186,7 +186,7 @@
     <string name="message_recognition_error">Error de reconocimiento. Por favor, intenta de nuevo.</string>
     <string name="directory_sounds">Sonidos</string>
     <string name="directory_resources">Recursos</string>
-    <string name="file_name_letter">dict.json</string>
+    <string name="file_name_letter">letters.json</string>
     <string name="file_name_symbol">symbols.json</string>
     <string name="directory_labels">Etiquetas</string>
     <string name="directory_backup">Copias</string>
@@ -198,7 +198,7 @@
     <string name="tool_manager_title">Administrar herramientas</string>
     <string name="message_load_error">Importe fallido</string>
     <string name="manager_activity_title">Administrar recursos</string>
-    <string name="use_headset_key_title">Utilice el botón del auricular para controlar el lector de pantalla: </string>
+    <string name="use_headset_key_title">Utilizar el botón del auricular para controlar el lector de pantalla: </string>
     <string name="use_wake_lock_title">Utilizar bloqueo de activación: </string>
     <string name="user_settings_title">Centro de usuario</string>
     <string name="user_name_title">Nombre de usuario</string>
@@ -221,8 +221,8 @@
     <string name="message_done">Realizado</string>
     <string name="app_gesture_package_title">Tema de gestos por aplicación.</string>
     <string name="app_gesture_package_summary">Configura los temas de gestos por aplicación.</string>
-    <string name="char_mode_gesture_title">No utilice gestos personalizados en el modo de navegación palabra por palabra: </string>
-    <string name="char_mode_gesture_summary">Use gestos predeterminados en el modo de navegación palabra por palabra</string>
+    <string name="char_mode_gesture_title">No utilizar gestos personalizados en el modo de navegación palabra por palabra: </string>
+    <string name="char_mode_gesture_summary">Usa gestos predeterminados en el modo de navegación palabra por palabra</string>
     <string name="notification_summary_title">Resumen de notificaciones</string>
     <string name="use_image_filter_title">Filtrar imágenes al navegar en páginas web</string>
     <string name="gesture_settings_title">Ajustes de gestos</string>
@@ -235,12 +235,12 @@
     <string name="favorites_manager_title">Administrar tus elementos favoritos</string>
     <string name="use_multi_menu_title">Usar menú multicolumna: </string>
     <string name="use_multi_menu_summary">El menú multicolumna no soporta contenido personalizado</string>
-    <string name="use_left_right_title">Use los deslizamientos de izquierda a derecha para navegar: </string>
+    <string name="use_left_right_title">Usar los deslizamientos de izquierda a derecha para navegar: </string>
     <string name="use_list_item_index_title">Leer el índice del elemento enfocado: </string>
-    <string name="use_left_right_summary">Cuando no utilice el tema de gestos predeterminado, cambie el enfoque con deslizamientos de izquierda a derecha y ejecute funciones de acceso directo con deslizamientos de arriba hacia abajo.</string>
+    <string name="use_left_right_summary">Cuando no utilices el tema de gestos predeterminado, cambia el enfoque con deslizamientos de izquierda a derecha y ejecuta funciones de acceso directo con deslizamientos de arriba hacia abajo.</string>
     <string name="use_old_previous_title">Utilizar el método de cambio de enfoque heredado: </string>
     <string name="baidu_tieba_title">Enciclopedia de Baidu</string>
-    <string name="use_single_tts_title">Utilizar una sola síntesis de voz: </string>
+    <string name="use_single_tts_title">Utilizar una síntesis de voz: </string>
     <string name="use_auto_update_title">Habilitar actualizaciones automáticas: </string>
     <string name="use_pager_scroll_title">Deslizar páginas automáticamente: </string>
     <string name="use_supper_filter_title">Filtrado de contenido web más fuerte</string>
@@ -250,30 +250,30 @@
     <string name="voice_helper_setting_title">Ajustes del asistente de voz</string>
     <string name="voice_helper_copy_title">Copiar automáticamente los resultados de la traducción al portapapeles: </string>
     <string name="trans_lang_from_title">Idioma de origen: </string>
-    <string name="use_pager_scroll_summary">Desplácese automáticamente a la página siguiente cuando llegue al final de esta</string>
+    <string name="use_pager_scroll_summary">Desplazarse automáticamente a la página siguiente cuando llegue al final de esta</string>
     <string name="scroll_gesture_settings_title">Ajustes de desplazamiento</string>
     <string name="click_settings_title">Ajustes de click</string>
     <string name="key_shortcut_setting_title">Ajustes de atajos de teclado</string>
     <string name="gesture_title">Gestos</string>
-    <string name="use_single_tap_summary">Toque una vez para activar el elemento enfocado</string>
+    <string name="use_single_tap_summary">Toca una vez para activar el elemento enfocado</string>
     <string name="use_old_previous_summary">El enfoque tradicional es un simple retorno del siguiente enfoque. Después de cancelar, se usará el nuevo modo de enfoque y se devolverá de acuerdo con el nivel de enfoque. Es más fácil captar la propiedad del contenido al navegar continuamente</string>
-    <string name="use_headset_key_summary">Presione el botón del auricular para ir al siguiente elemento, mantenga presionado el botón para ejecutar el asistente de voz.</string>
+    <string name="use_headset_key_summary">Presiona el botón del auricular para ir al siguiente elemento, mantén presionado el botón para ejecutar el asistente de voz.</string>
     <string name="list_view_settings_title">Ajustes de lista</string>
     <string name="view_label_settings_title">Ajustes de etiquetas</string>
     <string name="view_changed_settings_title">Ajustes de contenido dinámico</string>
     <string name="content_filter_settings_title">Ajustes de filtrado de contenido</string>
     <string name="hints_list_settings_title">Ajustes de sugerencias</string>
-    <string name="use_node_info_summary">Lea información adicional sobre el nodo actual en el modo de exploración de nodo</string>
-    <string name="use_list_item_index_summary">Lea el índice del elemento de lista enfocado actualmente.</string>
-    <string name="use_scroll_list_index_summary">Lea el rango de lista actual al desplazarse</string>
-    <string name="use_view_name_index_summary">Lea el tipo y nombre del elemento actual. Si no hay nombre, el lector de pantalla intentará adivinarlo.</string>
+    <string name="use_node_info_summary">Lee información adicional sobre el nodo actual en el modo de navegación de nodo</string>
+    <string name="use_list_item_index_summary">Lee el índice del elemento de lista enfocado actualmente.</string>
+    <string name="use_scroll_list_index_summary">Lee el rango de lista actual al desplazarse</string>
+    <string name="use_view_name_index_summary">Lee el tipo y nombre del elemento actual. Si no hay nombre, el lector de pantalla intentará adivinarlo.</string>
     <string name="unknown_lable_summary">La ID del elemento enfocado actualmente se lee cuando el elemento no tiene nombre.</string>
-    <string name="use_progress_summary">Leer automáticamente los cambios en la barra de progreso cuando se enfocan</string>
+    <string name="use_progress_summary">Lee automáticamente los cambios en la barra de progreso cuando se enfocan</string>
     <string name="use_content_changed_summary">Lee automáticamente el elemento enfocado</string>
-    <string name="use_content_tree_changed_summary">Leer automáticamente los cambios en la ventana actual</string>
-    <string name="content_blacklist_summary">Filtre el contenido en la lista negra para resolver algo del enfoque. Hay un error que indica que no se puede agregar la etiqueta.</string>
+    <string name="use_content_tree_changed_summary">Lee automáticamente los cambios en la ventana actual</string>
+    <string name="content_blacklist_summary">Filtra el contenido en la lista negra para resolver algo del enfoque. Hay un error que indica que no se puede agregar la etiqueta.</string>
     <string name="use_image_filter_summary">Filtra imágenes cuando se navega por la web</string>
-    <string name="use_supper_filter_summary">Filtre más contenido web no adecuado que pueda ser información inútil</string>
+    <string name="use_supper_filter_summary">Filtra más contenido web no adecuado que pueda ser información inútil</string>
     <string name="use_edge_gesture_title">Usar gestos de borde</string>
     <string name="left_edge_gesture_title">Ajuste de deslizamiento a la derecha y a la izquierda</string>
     <string name="right_edge_gesture_title">Ajuste de deslizamiento a la izquierda y a la derecha</string>
@@ -288,9 +288,9 @@
     <string name="up_volume_key_title">pulsación larga en el botón subir volúmen</string>
     <string name="up_volume_key_summary">Personaliza la pulsación larga del botón subir volumen</string>
     <string name="up_volume_key_value_default">Conmuta "Levantar para activar"</string>
-    <string name="use_speak_call_phone_summary">Enuncia el número y el nombre del llamante: </string>
+    <string name="use_speak_call_phone_summary">Anuncia el número y el nombre del llamante: </string>
     <string name="use_speak_call_phone_title">Información del llamante: </string>
-    <string name="use_speak_changed_volume_summary">Lea el aviso al ajustar el volumen</string>
+    <string name="use_speak_changed_volume_summary">Lee el aviso al ajustar el volumen</string>
     <string name="use_speak_changed_volume_title">Aviso de volumen: </string>
     <string name="vip_qq_group_title">Grupo QQ VIP de Jieshuo</string>
     <string name="qq_group2_title">Grupo QQ secundario de Jieshuo</string>
@@ -298,20 +298,20 @@
     <string name="left_long_edge_gesture_value_default">Pantalla de inicio</string>
     <string name="right_long_edge_gesture_title">Ajuste de deslizamiento hacia el lado derechho.</string>
     <string name="left_long_edge_gesture_title">Ajuste de deslizamiento hacia el lado izquierdo.</string>
-    <string name="left_long_edge_gesture_summary">Personalice los gestos de deslizarse desde la izquierda y permanecer durante un segundo</string>
-    <string name="right_long_edge_gesture_summary">Personalice los gestos de deslizarse desde el lado derecho y permanecer durante un segundo</string>
-    <string name="use_up_long_quick_menu_summary">Mostrar el menú de accesos directos al presionar prolongadamente el elemento enfocado.</string>
+    <string name="left_long_edge_gesture_summary">Personaliza los gestos de deslizarse desde la izquierda y permanecer durante un segundo</string>
+    <string name="right_long_edge_gesture_summary">Personaliza los gestos de deslizarse desde el lado derecho y permanecer durante un segundo</string>
+    <string name="use_up_long_quick_menu_summary">Muestra el menú de accesos directos al presionar prolongadamente el elemento enfocado.</string>
     <string name="up_volume_short_key_value_default">Subir volumen</string>
     <string name="up_volume_short_key_title">Pulsación en botón subir volumen</string>
-    <string name="up_volume_short_key_summary">Personalizar la pulsación del botón subir volúmen, aumente el volumen de la voz cuando se toca la pantalla</string>
+    <string name="up_volume_short_key_summary">Personaliza la pulsación del botón subir volúmen, aumenta el volumen de la voz cuando se toca la pantalla</string>
     <string name="down_volume_short_key_value_default">Bajar volumen</string>
     <string name="down_volume_short_key_title">Pulsación en botón bajar volumen</string>
-    <string name="down_volume_short_key_summary">Personalizar la pulsación del botón bajar volumen, disminuye el volumen de la voz cuando se toca la pantalla</string>
+    <string name="down_volume_short_key_summary">Personaliza la pulsación del botón bajar volumen, disminuye el volumen de la voz cuando se toca la pantalla</string>
     <string name="use_ringtone_volume_title">Usar volumen del tono de llamada: </string>
-    <string name="use_ringtone_volume_summary">Use el volumen del tono de llamada para determinar el volumen de la información de la persona que llama</string>
+    <string name="use_ringtone_volume_summary">Usa el volumen del tono de llamada para determinar el volumen de la información de la persona que llama</string>
     <string name="up_down_volume_short_key_value_default">Suspender exploración táctil</string>
-    <string name="up_down_volume_short_key_summary">Suspender o reanudar la exploración táctil</string>
-    <string name="up_down_volume_short_key_title">Presión simultánea de las teclas de volumen.</string>
+    <string name="up_down_volume_short_key_summary">Suspende o reanuda la exploración táctil</string>
+    <string name="up_down_volume_short_key_title">Pulsación simultánea de las teclas de volumen.</string>
     <string name="tts_engine_title">Síntesis de voz primaria</string>
     <string name="async_tts_engine_title">Síntesis de voz secundaria</string>
     <string name="async_tts_engine_summary">La síntesis de voz utilizada para leer notificaciones o información adicional. Seleccionar la misma síntesis que la principal resultará en usar solo una síntesis de voz.</string>
@@ -320,7 +320,7 @@
     <string name="use_foreground_title">Protección en segundo plano</string>
     <string name="use_foreground_summary">Si la pantalla suele estar inactiva, se recomienda marcar esta opción.</string>
     <string name="use_speak_qq_changed_title">Leer automáticamente los mensajes de chat de QQ</string>
-    <string name="use_speak_qq_changed_summary">Leer automáticamente los mensajes entrantes de QQ.</string>
+    <string name="use_speak_qq_changed_summary">Lee automáticamente los mensajes entrantes de QQ.</string>
     <string name="left_button_default_value">colgar|rechazar|*deslizar para rechazar la llamada entrante*|finalizar llamada|colgar llamada|colgar llamada|finalizar llamada de QQ|rechazar llamada de QQ|pista anterior|navegación anterior|cancelar|&amp;manos libres</string>
     <string name="right_button_default_value">aceptar|*contestar llamada*|manos libres|altavoz|cambiar|siguiente pista</string>
     <string name="edge_gesture_title">Ajuste de gesto de borde</string>
@@ -336,7 +336,7 @@
     <string name="alarm_settings_title">Ajustes de tiempo</string>
     <string name="url_menu_title">URL</string>
     <string name="use_long_click_voice_input_title">Utilizar dictado por voz al mantener pulsado un cuadro de edición.</string>
-    <string name="voice_input_append_mode_title">Agregar texto al final del cuadro de texto cuando use el dictado por voz</string>
+    <string name="voice_input_append_mode_title">Agregar texto al final del cuadro de texto cuando uses el dictado por voz</string>
 
     <string name="general_usage_hints_title">Sugerencias de uso general</string>
     <string name="general_speak_list_title">Leer información de lista</string>
@@ -344,7 +344,7 @@
     <string name="use_custom_gesture_title">Usar gestos personalizados</string>
     <string name="custom_gesture_settings_title">Ajustes de gestos personalizados</string>
     <string name="use_foreground_pro_title">Pantalla antibloqueo mejorada</string>
-    <string name="use_foreground_pro_summary">Si el teléfono está apagado y la hibernación es profunda, puede probar esta opción. Cuando apague la pantalla, establezca la ventana de jieshuo en primer plano.</string>
+    <string name="use_foreground_pro_summary">Si el teléfono está apagado y la hibernación es profunda, puedes probar esta opción. Cuando apagues la pantalla, establece la ventana de jieshuo en primer plano.</string>
     <string name="use_power_save_title">Modo ahorro de energía</string>
     <string name="use_power_save_summary">Reduce el consumo de batería</string>
     <string name="power_settings_title">Ajustes de energía</string>
@@ -352,14 +352,14 @@
     <string name="keep_focus_position_title">Recordar la posición enfocada</string>
     <string name="download_activity_title">Descargar recursos adicionales</string>
     <string name="use_number_speak_title">Verbalizar números por dígito</string>
-    <string name="use_input_method_gesture_title">Usar gestos para seleccionar palabras cuando esté en modo edición</string>
+    <string name="use_input_method_gesture_title">Usar gestos para seleccionar palabras en el modo edición</string>
     <string name="use_input_method_gesture_summary">Los deslizamientos cambian la palabra corregida.</string>
-    <string name="use_volume_key_move_text_title">Usar teclas de volumen para mover el cursor cuando esté en modo edición</string>
+    <string name="use_volume_key_move_text_title">Usar teclas de volumen para mover el cursor en el modo edición</string>
     <string name="user_text">Nombre de usuario: 5 a 15 caracteres latinos</string>
     <string name="pass_text">Contraseña: 6 a 15 caracteres latinos.</string>
     <string name="current_text">%d de %d caracteres ingresados</string>
     <string name="user_id_text">ID de usuario</string>
-    <string name="screen_on_off_settings_title">Anuncio del estado de la pantalla</string>
+    <string name="screen_on_off_settings_title">Anunciar el estado de la pantalla</string>
     <string name="use_screen_on_speak_title">Decir pantalla encendida</string>
     <string name="use_screen_off_speak_title">Decir pantalla apagada</string>
     <string name="use_accessibility_volume_title">Usar volumen de accesibilidad</string>
@@ -368,7 +368,7 @@
     <string name="left_right_gesture_title">Ajustes de gestos alternativos a la izquierda y derecha (válido cuando los gestos izquierdo y derecho son predeterminados)</string>
     <string name="use_move_list_view_item_title">Los gestos izquierdo y derecho se mueven rápidamente entre los elementos de la lista</string>
     <string name="no_support">Se requiere Android versión %d o superior.</string>
-    <string name="use_pinyin_speak_title">Use Pinyin TTS cuando esté en modo edición</string>
+    <string name="use_pinyin_speak_title">Usar Pinyin TTS en el modo edición</string>
     <string name="backup_restore_settings_title">Copia de seguridad y restauración</string>
     <string name="backup_settings_title">Hacer copia de seguridad</string>
     <string name="restore_settings_title">Restaurar copia de seguridad</string>
@@ -383,23 +383,23 @@
     <string name="alarm_interval_title">Intervalo de tiempo</string>
     <string name="use_timer_speak_title">Aviso de temporizador</string>
     <string name="use_timer_vibrate_title">Aviso de vibración del temporizador</string>
-    <string name="use_double_edge_gesture_title">Usa el menú de borde de dos dedos.</string>
+    <string name="use_double_edge_gesture_title">Usar el menú de borde de dos dedos.</string>
     <string name="use_raw_click_title">Usar toque directo en lugar de toque de accesibilidad</string>
     <string name="use_raw_click_summary">En Android 7 y superior, esta función puede resolver problemas con algunas aplicaciones que no reaccionan a la entrada.</string>
     <string name="has_vip_summary">%s solo está disponible para usuarios premium</string>
     <string name="vip_qq_kefu_title">Soporte de Jieshuo</string>
-    <string name="vip_qq_kefu_summary">Consulta, compra, transferencia, transferencia, pase la certificación de servicio al cliente</string>
+    <string name="vip_qq_kefu_summary">Consulta, compra, transferencia, transferencia, pasa la certificación de servicio al cliente</string>
     <string name="use_speak_changed_window_title">Leer todo el contenido de la ventana al cambiar</string>
     <string name="use_timer_sound_title">Indicador de sonido del temporizador</string>
     <string name="timer_setting_title">Ajustes del temporizador</string>
     <string name="voice_cmd_setting_title">Ajustes de los comandos de voz</string>
-    <string name="directory_cmd">Comandos de voz personalizados</string>
+    <string name="directory_cmd">Comandos</string>
     <string name="use_move_list_view_item_summary">Permite moverse rápidamente en las listas</string>
     <string name="add">Agregar</string>
-    <string name="re_def_msg">Tocando en Aceptar restaurará los ajustes</string>
-    <string name="use_double_fling_summary">Deslice rápidamente dos pasos para abrir, haga clic para navegar en el modo, deslice hacia abajo dos pasos para navegar automáticamente</string>
-    <string name="voice_helper_use_gestures_title">Permite cambiar los temas de gestos con el asistente de voz.</string>
-    <string name="voice_helper_use_app_gestures_title">Permite cambiar temas de gestos por aplicación con el asistente de voz</string>
+    <string name="re_def_msg">Tocando en Aceptar se restaurarán los ajustes</string>
+    <string name="use_double_fling_summary">Desliza rápidamente dos pasos para abrir, haz clic para navegar en el modo, desliza hacia abajo dos pasos para navegar automáticamente</string>
+    <string name="voice_helper_use_gestures_title">Cambiar los temas de gestos con el asistente de voz.</string>
+    <string name="voice_helper_use_app_gestures_title">Cambiar temas de gestos por aplicación con el asistente de voz</string>
     <string name="voice_helper_use_cmd_title">Usar comandos de voz en el asistente de voz.</string>
     <string name="voice_helper_use_supper_cmd_title">Usa el comando de súper voz en el asistente de voz</string>
     <string name="voice_helper_use_plugin_title">Usar extensiones en el asistente de voz.</string>
@@ -408,15 +408,15 @@
     <string name="has_vip_summary2">La función %s está restringida en la versión gratuita del programa</string>
     <string name="voice_helper_capability_setting">Ajustes de la capacidad del asistente de voz</string>
     <string name="use_wake_lock_pro_title">Bloqueo de activación mejorado</string>
-    <string name="use_wake_lock_pro_summary">Si la opción anterior no funciona, intente marcar esta</string>
+    <string name="use_wake_lock_pro_summary">Si la opción anterior no funciona, intenta marcar esta</string>
     <string name="more_setting">Más ajustes</string>
-    <string name="kayword">Introducir palabra clave</string>
+    <string name="kayword">Introducir término de búsqueda</string>
     <string name="notification_black_list_summary">No se emitirán notificaciones que contengan elementos de la lista negra.</string>
     <string name="notification_while_list_summary">Las notificaciones que contengan contenido en la lista blanca siempre serán dichas.</string>
     <string name="system_tts_volume_title">Volumen de la síntesis de voz del sistema</string>
     <string name="notification_select_title">Ajustes de lectura de notificaciones</string>
 
-    <string name="message_disable_dim_screen">Primero desactive la atenuación de pantalla</string>
+    <string name="message_disable_dim_screen">Primero desactiva la atenuación de pantalla</string>
     <string name="start_long_copy">Se ha iniciado el copiado avanzado</string>
     <string name="runnimg_background">Ejecutar el lector de pantalla en segundo plano.</string>
     <string name="description">Descripción</string>
@@ -433,8 +433,8 @@
     <string name="message_copy">Mensaje copiado</string>
     <string name="message_append">Mensaje agregado</string>
     <string name="text_format_settings_title">Ajustes de diccionario</string>
-    <string name="use_text_format_first_title">Lee el texto primero en el modo explicación</string>
-    <string name="use_text_format_char_number_title">Lee letras concatenadas como una sola</string>
+    <string name="use_text_format_first_title">Leer el texto primero en el modo explicación</string>
+    <string name="use_text_format_char_number_title">Leer letras concatenadas como una sola</string>
 
     <string name="lower_case_format">%s Minúscula %s</string>
     <string name="upper_case_format">%s Mayúscula %s</string>
@@ -447,7 +447,7 @@
     <string name="lower_case_format_number2">%s, %d letras</string>
     <string name="upper_case_format_number2">Hay %s mayúsculas %d letras</string>
 
-    <string name="use_slow_speed_title">Bajar la velocidad en el modo navegación por palabra</string>
+    <string name="use_slow_speed_title">Bajar la velocidad en el modo de navegación palabra por palabra</string>
     <string name="has_vip_summary_gesture">Estos gestos no se pueden personalizar en la versión gratuita del programa</string>
     <string name="message_has_vip_loop_click">Sólo los usuarios premium admiten clics de bucle temporizado</string>
 
@@ -489,8 +489,8 @@
     <string name="command_to_next_page">Página siguiente</string>
     <string name="command_to_previous_scroll">Desplazarse hacia arriba</string>
     <string name="command_to_next_scroll">Desplazarse hacia abajo</string>
-    <string name="command_to_previous_progress">Retroceder en el control deslizante</string>
-    <string name="command_to_next_progress">Avanzar en el control deslizante</string>
+    <string name="command_to_previous_progress">Retroceder control deslizante</string>
+    <string name="command_to_next_progress">Avanzar control deslizante</string>
     <string name="command_lower_volume">Bajar volumen</string>
     <string name="command_raise_volume">Subir volumen</string>
     <string name="command_now_time">Hora actual</string>
@@ -504,18 +504,18 @@
     <string name="command_append_copy">Copiar adicional</string>
     <string name="command_paste">Pegar</string>
 
-    <string name="raw_swipe_down">[Deslizar abajo toque directo]</string>
-    <string name="raw_swipe_up">[Deslizar arriba toque directo]</string>
-    <string name="raw_swipe_right">[Deslizar a la derecha toque directo]</string>
-    <string name="raw_swipe_left">[Deslizar a la izquierda toque directo]</string>
-    <string name="raw_long_click">[Pulsación larga toque directo]</string>
-    <string name="raw_click">[Hacer click toque directo]</string>
+    <string name="raw_swipe_down">[Deslizar abajo (toque directo)]</string>
+    <string name="raw_swipe_up">[Deslizar arriba (toque directo)]</string>
+    <string name="raw_swipe_right">[Deslizar a la derecha (toque directo)]</string>
+    <string name="raw_swipe_left">[Deslizar a la izquierda (toque directo)]</string>
+    <string name="raw_long_click">[Pulsación larga (toque directo)]</string>
+    <string name="raw_click">[Hacer click (toque directo)]</string>
 
     <string name="click_to_enabled">Exploración táctil reanudada</string>
     <string name="touch_mode_disabled">Exploración táctil suspendida.</string>
     <string name="node_mode">Navegación de nodos</string>
-    <string name="ignore_battery">Por favor, permita que la aplicación ignore la configuración de optimización de la batería.</string>
-    <string name="overlay_window">Por favor habilite imagen en imagen.</string>
+    <string name="ignore_battery">Por favor, permite que la aplicación ignore la configuración de optimización de la batería.</string>
+    <string name="overlay_window">Por favor, habilita imagen en imagen.</string>
     <string name="opened">Activado</string>
     <string name="closed">Desactivado</string>
     <string name="checked">Marcada</string>
@@ -552,24 +552,24 @@
     <string name="message_has_vip_read_mode">El modo de lectura novedoso no es compatible con la versión gratuita del programa</string>
     <string name="message_enabled_read_mode">Saliendo del modo lectura</string>
     <string name="message_long_copyed">Se han copiado un total de %d letras en el contenido</string>
-    <string name="message_read_mode_enabled">Entrando en el modo lectura,</string>
+    <string name="message_read_mode_enabled">Entrando en el modo lectura</string>
     <string name="message_timer_mode_enabled">Temporizador iniciado</string>
     <string name="message_clean">Cuadro de edición limpiado</string>
     <string name="message_clean_error">Error de limpiado</string>
     <string name="message_edit_text_not_found">No se encontró el cuadro de edición</string>
 
 
-    <string name="rap_action_settings_title">Toque en la parte trasera del teléfono</string>
+    <string name="rap_action_settings_title">Tocar en la parte trasera del teléfono</string>
     <string name="back_rap_action_value_default">@string/command_now_time</string>
-    <string name="back_rap_action_title">Doble click en la espalda.</string>
-    <string name="back_rap_action_summary">Haga doble clic en el acceso directo operado por la parte posterior del teléfono.</string>
+    <string name="back_rap_action_title">Hacer doble click en la espalda.</string>
+    <string name="back_rap_action_summary">Haz doble clic en el acceso directo operado por la parte posterior del teléfono.</string>
 
     <string name="shake_action_value_default">@string/command_nothing</string>
     <string name="shake_action_title">Agitar</string>
     <string name="shake_action_summary">Agita tu dispositivo horizontalmente</string>
 
 
-    <string name="shake_action_sens_title">Sensivilidad de sacudida</string>
+    <string name="shake_action_sens_title">Sensibilidad de sacudida</string>
     <string name="shake_action_call_title">Agitar para responder la llamada</string>
     <string name="message_no_thing">Sin contenido</string>
     <string name="double_fling_setting">Ajustes de gestos multiparte</string>
@@ -601,7 +601,7 @@
     <string name="camera_title">Cámara de Jieshuo</string>
     <string name="command_disable_touch">Suspender exploración táctil</string>
     <string name="command_disable_feedback">Suspender respuesta de voz</string>
-    <string name="command_to_notifications">Panel de notificaciones</string>
+    <string name="command_to_notifications">Pantalla de notificaciones</string>
     <string name="command_notifications">Leer notificaciones</string>
     <string name="command_battery_level">Anuncia el nivel de batería</string>
     <string name="command_battery">Nivel de batería</string>
@@ -713,14 +713,14 @@
     <string name="command_ocr_focus">Reconocer objeto enfocado con OCR.</string>
     <string name="navi">navegación</string>
     <string name="unknown_index_title">Leer el índice de un control sin etiqueta</string>
-    <string name="unknown_index_summary">Lea el número de índice del elemento enfocado, incluso si el elemento no tiene etiqueta o ID.</string>
+    <string name="unknown_index_summary">Lee el número de índice del elemento enfocado, incluso si el elemento no tiene etiqueta o ID.</string>
     <string name="alarm_start_hour_title">Hora de empezar</string>
     <string name="alarm_end_hour_title">Hora de finalizar</string>
     <string name="command_virtual_navigation">Navegación virtual</string>
-    <string name="voice_helper_use_click_title">Activa directamente el elemento mencionado</string>
-    <string name="voice_helper_use_app_title">Abra directamente la aplicación mencionada</string>
-    <string name="voice_helper_use_app_summary">Puede abrir una aplicación diciendo directamente su nombre. Después de desactivar esta opción, abra una aplicación con el comando abrir nombre de la aplicación.</string>
-    <string name="voice_helper_use_click_summary">Puede usar el nombre de un elemento para activarlo. Si esta opción está desactivada, los elementos pueden activarse diciendo "activar nombre del elemento".</string>
+    <string name="voice_helper_use_click_title">Activar directamente el elemento mencionado</string>
+    <string name="voice_helper_use_app_title">Abrir directamente la aplicación mencionada</string>
+    <string name="voice_helper_use_app_summary">Puedes abrir una aplicación diciendo directamente su nombre. Después de desactivar esta opción, abre una aplicación con el comando abrir nombre de la aplicación.</string>
+    <string name="voice_helper_use_click_summary">Puedes usar el nombre de un elemento para activarlo. Si esta opción está desactivada, los elementos pueden activarse diciendo "activar nombre del elemento".</string>
     <string name="edge_gesture_width_title">Rango de activación del gesto de borde</string>
     <string name="use_double_edge_gesture_summary">Las funciones personalizadas configuradas para ser usadas por los gestos de borde no están disponibles en el menú</string>
     <string name="left_edge_gesture_items_title">Personalizar el menú del borde izquierdo</string>
@@ -730,7 +730,7 @@
     <string name="use_edge_gesture_menu_title">Usar el menú de borde</string>
     <string name="use_left_edge_gesture_quick_menu_title">Usar el menú de acceso directo de una sola aplicación en el borde izquierdo</string>
     <string name="use_small_filter_title">Filtrar elementos no deseados</string>
-    <string name="jieshuo_bbs_summary">Comparta retroalimentación de Jieshuo en nuestro foro</string>
+    <string name="jieshuo_bbs_summary">Comparte retroalimentación de Jieshuo en nuestro foro</string>
     <string name="voice_recognizer_title">Motor de reconocimiento: </string>
     <string name="use_text_format_char_upper_title">Avisar en mayúsculas</string>
     <string name="voice_helper_media_mute_mode_title">Bloquear el sonido de los medios cuando el asistente de voz está en ejecución</string>
@@ -768,18 +768,18 @@
     <string name="date_format_sec">s\'segundos\'</string>
     <string name="date_format_min_sec">m\'minutos\'ss\'segundos\'</string>
     <string name="date_format_hour_min">HH\'hora\'mm\'minutos\'</string>
-    <string name="hint_move">Deslice a la izquierda o derecha para cambiar la posición del cursor.</string>
-    <string name="hint_edit">Toque dos veces para editar.</string>
-    <string name="hint_change_seek">Deslice a la izquierda o derecha para cambiar la posición del deslizador.</string>
-    <string name="hint_change_rating">Deslice a la izquierda o derecha para cambiar la calificación.</string>
+    <string name="hint_move">Desliza a la izquierda o derecha para cambiar la posición del cursor.</string>
+    <string name="hint_edit">Toca dos veces para editar.</string>
+    <string name="hint_change_seek">Desliza a la izquierda o derecha para cambiar la posición del deslizador.</string>
+    <string name="hint_change_rating">Desliza a la izquierda o derecha para cambiar la calificación.</string>
     <string name="hint_checked">Toca dos veces para verificar.</string>
     <string name="hint_uncheck">Toca dos veces para desverificar.</string>
     <string name="hint_closed">Haz doble toque para cerrar.</string>
     <string name="hint_opened">Haz doble toque para abrir.</string>
     <string name="hint_changed">Tocar dos veces para cambiar.</string>
     <string name="hint_double_click">Haz doble click</string>
-    <string name="hint_activated">Activado</string>
-    <string name="hint_double_click_activated">Tocar dos veces para activar.</string>
+    <string name="hint_activated">Toca para activar</string>
+    <string name="hint_double_click_activated">Toca dos veces para activar.</string>
     <string name="hint_node_move">Deslizar a la izquierda: ir al nodo anterior. Deslizar a la derecha: ir al siguiente nodo. Deslizar hacia abajo: ir al siguiente elemento. Deslizar hacia arriba: ir al elemento anterior.</string>
     <string name="date_formater_min">mm\'minutos\'</string>
     <string name="touch_mode_enabled">Exploración táctil activada</string>
@@ -788,9 +788,9 @@
     <string name="create_gesture">Crear Gesto</string>
     <string name="create_app_gesture">Crear gestos por aplicación</string>
     <string name="func">Función</string>
-    <string name="swipe_up_right">desliza arriba y derecha</string>
-    <string name="swipe_up_down">Desliza arriba y abajo</string>
-    <string name="swipe_up_left">deslice arriba e izquierda</string>
+    <string name="swipe_up_right">deslizar arriba y a la derecha</string>
+    <string name="swipe_up_down">Deslizar arriba y abajo</string>
+    <string name="swipe_up_left">deslizar arriba y a la izquierda</string>
     <string name="swipe_down">deslizar abajo</string>
     <string name="swipe_down_right">Deslizar abajo y a la derecha</string>
     <string name="swipe_down_up">Deslizar abajo y arriba</string>
@@ -817,11 +817,11 @@
     <string name="func_manager">Administrar funciones</string>
     <string name="func_create">Crear función</string>
     <string name="waiting">Esperando</string>
-    <string name="gestures_description_default">Gestos predeterminados: Consulte La descripción de los gestos en ayuda y comentarios</string>
+    <string name="gestures_description_default">Gestos predeterminados: Consulta La descripción de los gestos en ayuda y comentarios</string>
     <string name="auto_click">Auto click</string>
     <string name="insert">Insertar %s</string>
-    <string name="edit_button">Introduzca una lista de botones (uno por línea)</string>
-    <string name="use_upper_speak_title">Indica letras mayúsculas al escribir en el teclado</string>
+    <string name="edit_button">Introducir una lista de botones (uno por línea)</string>
+    <string name="use_upper_speak_title">Indicar letras mayúsculas al escribir en el teclado</string>
     <string name="system_voice_recognizer_title">Motor de reconocimiento de voz del sistema jieshuo.</string>
     <string name="system_voice_recognizer_summary">Sólo es válido cuando el motor de reconocimiento está configurado como sistema</string>
 
@@ -855,16 +855,16 @@
     <string name="use_web_type_move_title">Navegar por tipo en páginas web</string>
 
     <string name="pref_donate_alipay">Donar uzando Alipay para apoyar el desarrollo del lector</string>
-    <string name="pref_donate_paypal">Donar uzando PayPal para apoyar el desarrollo del lector</string>
-    <string name="menu_settings_title">Opciones del menú</string>
+    <string name="pref_donate_paypal">Donar uzando Paypal para apoyar el desarrollo del lector</string>
+    <string name="menu_settings_title">Ajustes del menú</string>
     <string name="directory_download">Descargas</string>
     <string name="msg_has_vip_split_edit">Solo los usuarios premium pueden editar más de 100 caracteres.</string>
     <string name="media_doc_title">Audio tutoriales</string>
     <string name="downloaded">Descargado</string>
     <string name="no_login">No has iniciado sesión.</string>
     <string name="no_vip">No eres un usuario Premium</string>
-    <string name="need_vip">Si necesita ponerse en contacto con nuestro soporte, utilice la lista de servicio al cliente.</string>
-    <string name="check_read_phone_state_permission">Verifique la validez de los permisos</string>
+    <string name="need_vip">Si necesitas contactar con nuestro soporte, utiliza la lista de servicio al cliente.</string>
+    <string name="check_read_phone_state_permission">Verifica la validez de los permisos</string>
     <string name="message_timer_mode_disabled">Temporizador detenido,%s, en la hora, %s en lo actual</string>
     <string name="camera_right_up">superior a la derecha</string>
     <string name="camera_left_up">inferior a la izquierda</string>
@@ -896,7 +896,7 @@
     <string name="use_dpad_key_title">Utilizar flechas para mover el foco</string>
     <string name="ocr_engine_title">Motor de OCR</string>
     <string name="manager_title">Administrador</string>
-    <string name="msg_battery_full">La batería está completamente cargada. (Desconecte el teléfono del cable enerjético.)</string>
+    <string name="msg_battery_full">La batería está completamente cargada. Desconecta el teléfono del cable energético.</string>
     <string name="invite_code">Código de invitación</string>
     <string name="msg_supper_mode">Modo de navegación detallada, (puede consumir mucha energía y datos).</string>
     <string name="msg_enabled_supper_mode">El modo de navegación detallada ha sido activado</string>
@@ -931,17 +931,17 @@
     <string name="voice_input_mode">Modo de dictado</string>
     <string name="voice_helper_record_start">Iniciar la grabación</string>
     <string name="voice_helper_record_stop">Finalizar la grabación</string>
-    <string name="voice_helper_record_message">Comience a grabar, diga los comandos por turno, y finalmente diga</string>
+    <string name="voice_helper_record_message">Comienza a grabar, di los comandos por turno, y finalmente di</string>
     <string name="voice_helper_record_done">Grabación completada</string>
     <string name="msg_save_error">Error al guardar</string>
-    <string name="msg_has_vip_voice_cmd">En la versión gratuita no se permiten mas de diez voces</string>
+    <string name="msg_has_vip_voice_cmd">En la versión gratuita no se permiten mas de 10 comandos de voz</string>
     <string name="cmd_create">Nuevo comando</string>
     <string name="cmd_manager">Gestionar comandos</string>
     <string name="note_tile">Notas en la nube</string>
     <string name="message_count_out">El número excede el límite</string>
     <string name="cloud_backup_restore_settings_title">Copia de seguridad y restauración en la nube</string>
-    <string name="cloud_backup_settings_title">Hacer copia de seguridad</string>
-    <string name="cloud_restore_settings_title">Restaurar copia de seguridad</string>
+    <string name="cloud_backup_settings_title">Hacer copia de seguridad en la nube</string>
+    <string name="cloud_restore_settings_title">Restaurar copia de seguridad de la nube</string>
     <string name="cloud_backup_clipboard_title">Copia de seguridad del portapapeles</string>
     <string name="cloud_restore_clipboard_title">Restaurar el portapapeles</string>
     <string name="cloud_backup_favorites_title">Copia de seguridad de favoritos</string>
@@ -961,7 +961,7 @@
     <string name="ocr_baidu_id_title">ID de la app</string>
     <string name="ocr_baidu_setting">Baidu OCR</string>
     <string name="use_ocr_baidu_title">Utilizar el reconocimiento óptico de caracteres (OCR) de Baidu</string>
-    <string name="use_ocr_baidu_summary">El uso de su propia interfaz de identificación puede ser más eficiente para identificar el texto, por favor regístrese para obtener información https://ai.baidu.com</string>
+    <string name="use_ocr_baidu_summary">El uso de su propia interfaz de identificación puede ser más eficiente para identificar el texto, por favor registrarse para obtener información https://ai.baidu.com</string>
     <string name="use_ocr_baidu_help">Ir al registro https://ai.baidu.com y texto abierto, etiqueta de imagen, plantas, animales, plantas, frutas y verduras, el reconocimiento monetario</string>
     <string name="ocr_setting">Ajustes de OCR</string>
     <string name="ocr_lang_title">Idioma de OCR</string>
@@ -973,10 +973,10 @@
     <string name="use_ocr_qq_title">OCR de Tencent en la nube</string>
     <string name="ocr_lang_enteries">Inglés Internacional|Auto|Japonés|Coreano|Español|Francés|Alemán|Portugués|Vietnamita|Malayo|Ruso|Italiano|Holandés|Sueco|Finés|Danés|Noruego|Húngaro|Tailandés|Latín</string>
     <string name="cmd_description">Descripción (15 palabras o más</string>
-    <string name="timer_run_title">Ejecución programada de tareas</string>
+    <string name="timer_run_title">Tareas programadas</string>
     <string name="msg_has_vip_timer_run">Los usuarios gratuitos solo pueden añadir una tarea programada</string>
     <string name="use_web_view_name_title">Leer el tipo de elemento web</string>
-    <string name="use_web_view_name_summary">Lea todos los nombres de elementos de la página web. Después de abrir, los botones, enlaces, ETC. aún se leerán después de cerrar</string>
+    <string name="use_web_view_name_summary">Lee todos los nombres de elementos de la página web. Después de abrir, los botones, enlaces, ETC. aún se leerán después de cerrar</string>
     <string name="hour">hora</string>
     <string name="min">minuto</string>
     <string name="msg_result_empty">No escuché lo que dijiste</string>
@@ -1034,30 +1034,77 @@
     <string name="setup_setting_has_overlay_permission">Obtenido el permiso de ventana flotante.</string>
     <string name="copy_username_and_userid">Copiar nombre de usuario e ID de usuario.</string>
     <string name="username_and_userid_format">Nombre de usuario: %s ID de usuario: %s</string>
-    <string name="file_name_dict">词典.json</string>
-    <string name="refresh">刷新</string>
-    <string name="msg_filter">共找到%d个结果</string>
-    <string name="use_custom_symbol_speak_title">朗读自定义符号</string>
-    <string name="custom_symbol_title">自定义符号设置</string>
-    <string name="use_custom_dict_speak_title">使用自定义词典</string>
-    <string name="custom_dict_title">用户词典设置</string>
+    <string name="file_name_dict">dict.json</string>
+    <string name="refresh">Actualizar</string>
+    <string name="msg_filter">Total encontrado %d e resultados</string>
+    <string name="use_custom_symbol_speak_title">Leer símbolos personalizados</string>
+    <string name="custom_symbol_title">Ajustes de símbolos personalizados</string>
+    <string name="use_custom_dict_speak_title">Usar diccionario personalizado</string>
+    <string name="custom_dict_title">Ajustes de diccionario de usuario</string>
 
-    <string name="msg_has_vip_dict">非会员仅支持添加5条</string>
-    <string name="undo">撤消</string>
-    <string name="redo">重做</string>
-    <string name="last_open">最近</string>
-    <string name="create_file">新建文件</string>
-    <string name="open_project">打开工程</string>
-    <string name="create_project">新建工程</string>
-    <string name="format">格式化</string>
-    <string name="fix_import">导入分析</string>
-    <string name="run">运行</string>
-    <string name="use_emoji_speak_title">朗读Emoji表情</string>
-    <string name="install_shortcut">添加到桌面</string>
-    <string name="msg_select_end">选择结束</string>
-    <string name="msg_select_start">选择开始</string>
-    <string name="msg_plugin_run_error">先在辅助功能启动解说再运行插件</string>
-    <string name="input_file_name">输入文件名</string>
-    <string name="input_project_name">输入工程名</string>
+    <string name="msg_has_vip_dict">Se pueden agregar 5 elementos en la versión gratuita del programa</string>
+    <string name="undo">Deshacer</string>
+    <string name="redo">Rehacer</string>
+    <string name="last_open">Más reciente</string>
+    <string name="create_file">Nuevo archivo</string>
+    <string name="open_project">Abrir proyecto</string>
+    <string name="create_project">Crear proyecto</string>
+    <string name="format">Formato</string>
+    <string name="fix_import">Análisis de importación</string>
+    <string name="run">Ejecutar</string>
+    <string name="use_emoji_speak_title">Leer Emojis</string>
+    <string name="install_shortcut">Añadir al escritorio</string>
+    <string name="msg_select_end">Seleccionar final</string>
+    <string name="msg_select_start">Seleccionar inicio</string>
+    <string name="msg_plugin_run_error">Activa Jieshuo en accesibilidad antes de ejecutar el plugin</string>
+    <string name="input_file_name">Ingresa el nombre de archivo</string>
+    <string name="input_project_name">Ingresa el nombre del proyecto</string>
+    <string name="use_loop_move_title">循环滚动焦点</string>
+    <string name="message_cut">已剪切</string>
+    <string name="choice_mode_multiple">多选模式</string>
+    <string name="add_from_grid">通过网格添加</string>
+<string name="sound_settings_title">音效方案设置</string>
+    <string name="sound_focus1">可点击焦点</string>
+    <string name="sound_focus2">可聚焦焦点</string>
+    <string name="sound_focus3">键盘焦点</string>
+    <string name="sound_focus4">不可聚焦焦点</string>
+    <string name="sound_focus0">列表焦点</string>
+    <string name="sound_click">点击</string>
+    <string name="sound_long_click">长按</string>
+<string name="sound_scroll_up">向上滚动</string>
+    <string name="sound_scroll_down">向下滚动</string>
+    <string name="sound_beep">警告</string>
+    <string name="sound_tick">计时</string>
+    <string name="sound_clock">整点</string>
+    <string name="sound_screen_off">关屏</string>
+    <string name="sound_screen_on">开屏</string>
+    <string name="sound_window_state">窗口改变</string>
+    <string name="sound_dialog">对话框</string>
+    <string name="sound_gesture_start">手势开始</string>
+    <string name="sound_gesture_end">手势结束</string>
+    <string name="recognition_start">识别开始</string>
+    <string name="recognition_end">识别结束</string>
+    <string name="recognition_success">识别成功</string>
+    <string name="recognition_error">识别出错</string>
+    <string name="recognition_cancel">识别取消</string>
+    <string name="command_quick_settings">快速设置</string>
+    <string name="command_take_screenshot">截屏</string>
+    <string name="command_off_screen2">关屏</string>
+    <string name="command_power_dialog">关机菜单</string>
+    <string name="use_bottom_menu_edge_gesture_summary">底部边缘手势可以执行返回，主屏幕，打开通知栏，打开最近任务等功能。</string>
+    <string name="use_bottom_menu_edge_gesture_title">底部边缘手势</string>
+    <string name="all">全部</string>
+    <string name="create_hot_key">创建快捷键方案</string>
+    <string name="create_app_hot_key">创建单应用快捷键方案</string>
+    <string name="hot_key">快捷键</string>
+    <string name="hot_key_package_title">快捷键方案</string>
+    <string name="hot_key_description_title">快捷键方案说明</string>
+    <string name="hot_key_settings_title">快捷键方案设置</string>
+    <string name="custom_hot_key_settings_title">自定义快捷键方案设置</string>
+    <string name="app_hot_key_package_title">单应用快捷键方案设置</string>
+    <string name="app_hot_key_package_summary">为单个应用配置快捷键方案</string>
+    <string name="directory_hot_key">热键</string>
+    <string name="hot_key_summary">按下需要设置的按键，不支持单独的字母键和数字键</string>
+
 
 </resources>

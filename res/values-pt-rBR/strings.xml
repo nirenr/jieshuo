@@ -2,14 +2,14 @@
 <resources>
     <string name="app_name">Leitor de Tela Jieshuo</string>
     <string name="accessibility_service_description">
-        O Jieshuo é um programa leitor de tela que ajudará as pessoas com deficiência visual usarem seus dispositivos  móveis. Fizemos algumas tentativas de inovações. Para mais informações, vá para Configurações do programa, Ajuda e Feedback.\n
+        O Jieshuo é um aplicativo leitor de tela que ajuda as pessoas com deficiência visual usarem seus dispositivos  móveis. Fizemos algumas tentativas de inovações. Para mais informações, vá para Configurações do Jieshuo, Ajuda e Feedback.\n
         Algumas funcionalidades ficarão restritas até que você adquira a versão Premium. Para mais informações, por favor contacte o serviço de suporte ao cliente no grupo oficial em português no Whatsapp.\n\n
 
         Funções:\n
         Assistente de voz: Use o seu telefone sem tocá-lo com o nosso assistente de voz.\n
         Extensões: Instale extensões para aprimorar sua experiência.\n
         Busque por caractere, palavra, ou parágrafos. sempre haverá um modo de navegação adequado para suas necessidades.\n
-        O programa é rápido e responsivo.\n
+        O aplicativo é rápido e responsivo.\n
         Instale temas de som que sempre agradarão seus ouvidos.\n
         Funções avançadas de cópia que lhe permitirá copiar apenas o necessário.\n
         Gestos contextuais que permitem total flexibilidade.\n
@@ -186,7 +186,7 @@
     <string name="message_recognition_error">Erro no reconhecimento. Por favor, tente novamente.</string>
     <string name="directory_sounds">sounds</string>
     <string name="directory_resources">Resources</string>
-    <string name="file_name_letter">dict.json</string>
+    <string name="file_name_letter">letters.json</string>
     <string name="file_name_symbol">symbols.json</string>
     <string name="directory_labels">Labels</string>
     <string name="directory_backup">backups</string>
@@ -405,7 +405,7 @@
     <string name="voice_helper_use_plugin_title">Usar extensões no Assistente de Voz.</string>
     <string name="voice_helper_use_tool_title">Usar ferramentas de extensão no Assistente de Voz.</string>
     <string name="message_has_vip">Esta função só está disponível para Usuários Premium.</string>
-    <string name="has_vip_summary2">A função não está disponível na versão gratuíta do programa %s</string>
+    <string name="has_vip_summary2">A função não está disponível na versão gratuíta do %s</string>
     <string name="voice_helper_capability_setting">Configurações de recursos do assistente de voz</string>
     <string name="use_wake_lock_pro_title">Manter a tela ativa durante leitura de textos</string>
     <string name="use_wake_lock_pro_summary">Se a opção acima não funcionar, por favor use esta</string>
@@ -448,7 +448,7 @@
     <string name="upper_case_format_number2"> maiúsculas %s, %d letras</string>
 
     <string name="use_slow_speed_title">Diminuir a velocidade da fala no modo de navegação por palavras</string>
-    <string name="has_vip_summary_gesture">Alguns gestos não podem ser personalizados na versão gratuíta do programa</string>
+    <string name="has_vip_summary_gesture">Alguns gestos não podem ser personalizados na versão gratuíta</string>
     <string name="message_has_vip_loop_click">O ajuste do intervalo entre toques não são suportados na versão gratuíta</string>
 
     <string name="command_click">Toque</string>
@@ -482,7 +482,7 @@
     <string name="command_play_control">Controle de reprodução</string>
     <string name="command_read_mode">Modo leitura</string>
     <string name="command_verbatim_speak">Verbosidade</string>
-    <string name="command_verbatim_speak2">Caractere</string>
+    <string name="command_verbatim_speak2">Soletrar</string>
     <string name="command_to_previous_focus">Item anterior</string>
     <string name="command_to_next_focus">Próximo item</string>
     <string name="command_to_previous_page">Página anterior</string>
@@ -549,7 +549,7 @@
     <string name="view_name_image_button">Botão com imagem</string>
     <string name="view_name_image">Imagem</string>
 
-    <string name="message_has_vip_read_mode">O novo modo de leitura não é suportado na versão gratuita do programa</string>
+    <string name="message_has_vip_read_mode">O novo modo de leitura não é suportado na versão gratuita</string>
     <string name="message_enabled_read_mode">Saindo do modo de leitura</string>
     <string name="message_long_copyed">Cópia concluída, o conteúdo possui %d caracteres</string>
     <string name="message_read_mode_enabled">Entrando no modo de leitura,</string>
@@ -614,7 +614,7 @@
     <string name="main_menu">Menu principal</string>
     <string name="auto_read">Leitura automática</string>
     <string name="list_mode_title">Navegação em listas</string>
-    <string name="main_setting">Configurações do Programa</string>
+    <string name="main_setting">Configurações do Jieshuo</string>
     <string name="battery_level">Nível de bateria: %d</string>
 
 
@@ -719,8 +719,8 @@
     <string name="command_virtual_navigation">Navegação Virtual</string>
     <string name="voice_helper_use_click_title">Ativa diretamente o item falado</string>
     <string name="voice_helper_use_app_title">Abre o software falado</string>
-    <string name="voice_helper_use_app_summary">Você pode abrir o programa apenas falando seu nome . Caso esta opção esteja ativada, fale "abrir nome do programa" para  abri-lo".</string>
-    <string name="voice_helper_use_click_summary">Você pode usar o nome do item para ativá-lo. Se esta opção estiver ativada, fale "abrir nome itemelemento" para abri-lo.</string>
+    <string name="voice_helper_use_app_summary">Você pode abrir um aplicativo apenas falando seu nome . Caso esta opção esteja ativada, fale "abrir nome do aplicativo" para  abri-lo".</string>
+    <string name="voice_helper_use_click_summary">Você pode usar o nome do item para ativá-lo. Se esta opção estiver ativada, fale "abrir nome item" para abri-lo.</string>
     <string name="edge_gesture_width_title">Intervalo para ativação do gesto de borda</string>
     <string name="use_double_edge_gesture_summary">Funções personalizadas definidas para serem usadas por gestos de borda não estão disponíveis no menu de borda</string>
     <string name="left_edge_gesture_items_title">Personalizar o menu da borda esquerda</string>
@@ -763,7 +763,7 @@
     <string name="add_label">Adicionar etiqueta</string>
     <string name="grid_item_current">%d linha %d Coluna</string>
     <string name="node_info_root">Nó raíz possui %dNós filhos</string>
-    <string name="node_info">Possui %d Nós filhos，</string>
+    <string name="node_info">Possui %d Nós filhos?</string>
     <string name="node_info_none">Nenhum nó filho</string>
     <string name="rating_current_count">Classificação %d de %d estrelas</string>
     <string name="date_format_sec">s\'segundos\'</string>
@@ -865,7 +865,7 @@
     <string name="need_vip">Se você precisar entrar em contato com o nosso suporte, por favor use a lista  de atendimento ao cliente</string>
     <string name="check_read_phone_state_permission">Verificar as permissões do telefone</string>
 
-    <string name="message_timer_mode_disabled">Cronômetro parado,%s,现在是 %s</string>
+    <string name="message_timer_mode_disabled">Cronômetro parado,%s,??? %s</string>
     <string name="camera_right_up">Superior direito</string>
     <string name="camera_left_up">Inferior esquerdo</string>
     <string name="camera_hold_posture">Mantenha sua postura</string>
@@ -903,7 +903,7 @@
     <string name="msg_disabled_supper_mode">Modo Super Usuário desativado</string>
     <string name="msg_enabled_supper_mode_error">Erro ao ativar o Modo Super Usuário</string>
     <string name="msg_disabled_supper_mode_error">Erro ao desativar o Modo Super Usuário</string>
-    <string name="msg_backup_done">Salve os arquivos de backup na pasta / armazenamento interno/内置存储/backup, salve todos os temas tais como gestos, ferramentas, efeitos sonoros de plug-in e muito mais na pasta /armazenamento interno/内置存储.</string>
+    <string name="msg_backup_done">Salve os arquivos de backup na pasta / armazenamento interno/????/backup, salve todos os temas tais como gestos, ferramentas, efeitos sonoros de plug-in e muito mais na pasta /armazenamento interno/????.</string>
     <string name="msg_restored">Restauração concluída</string>
     <string name="backup_done">Backup Concluído</string>
     <string name="msg_gestures_empty">Não há gestos</string>
@@ -983,82 +983,127 @@
     <string name="msg_sended">Enviado</string>
     <string name="msg_add_error_has_lable">Não é necessário adicionar tags em texto de nós.</string>
     <string name="msg_label_added">etiquetas adicionadas</string>
-    <string name="msg_lable_add_error">添加标签出错</string>
-    <string name="msg_clicked">Clicado em </string>
+    <string name="msg_lable_add_error">Erro ao adicionar etiquetas</string>
+    <string name="msg_clicked">Clicando em </string>
     <string name="msg_search_on_net">Pesquisando na internet</string>
     <string name="msg_send_not_found">O botão enviar não foi encontrado</string>
     <string name="msg_search_on_store">Pesquisando na loja de aplicativos</string>
-
-    <string name="check_permissions_title">Verifique as permissões</string>
+    <string name="check_permissions_title">Verificar as permissões</string>
     <string name="setup_setting_title">Assistente de Configuração</string>
-    <string name="check_overlay_permissions_title">Verifique as permissões de janelas popup</string>
-    <string name="check_battery_permissions_title">Verifique ignorar a otimização da bateria</string>
-    <string name="open_application_info_title">Exibe as informações sobre o aplicativo</string>
-    <string name="open_setup_setting_title">Abra as configurações de inicialização</string>
-    <string name="check_notification_permissions_title">Verifique o alerta de permissão de exibição</string>
-    <string name="denied_permissions_title">Não foi obtida a permissão</string>
-    <string name="welcome_msg">O Jieshuo é um aplicativo leitor de tela, que lhe auxilia na utilização de seu dispositivo.\nToque no Assistente de Configuração para iniciar as configurações básicas.\nToque em Obter Permissões de uso e ler notas de privacidade.\nToque em sair para finalizar o Assistente de Configuração.</string>
+    <string name="check_overlay_permissions_title">Verificar as permissões de janelas popup</string>
+    <string name="check_battery_permissions_title">Verificar ignorar a otimização da bateria</string>
+    <string name="open_application_info_title">Exibir as informações sobre o aplicativo</string>
+    <string name="open_setup_setting_title">Abrir  as configurações de inicialização</string>
+    <string name="check_notification_permissions_title">Verificar permissões de notificações</string>
+    <string name="denied_permissions_title">Permissão negada</string>
+    <string name="welcome_msg">Bem vindo ao Jieshuo, o melhor leitor de tela para Android!\nSelecione uma das três opções abaixo: \nAssistente de Configuração: definir as configurações básicas do Aplicativo.\nVerificar Permissões: Para visualizar e autorizar as várias permissões necessárias.\nToque em sair para finalizar o Assistente de Configuração.</string>
     <string name="use_left_right_msg">Selecione o modo de navegação pelos itens, o padrão é navegar varrendo de cima para baixo, mas se você está acostumado a navegar varrendo da esquerda para a direita, poderá optar por este modo.</string>
     <string name="usage_hints_msg">Dicas de uso: Informa como interagir com o item atualmente focado, se você for novo na utilização de dispositivos sensíveis ao toque, toque para ativar e ouvir as dicas de uso. Caso seja um usuário experiente, toque em desativar.</string>
     <string name="use_list_index_msg">O índice de lista informa a posição de um item na lista, toque em ativar para ouvir a posição, ou em desativar para ignorar esta informação. </string>
     <string name="notification_speak_msg">Ler notificações: Para ouvir as notificações automaticamente, ative esta opção, caso não queira, toque em desativar. (As notificações também podem ser acessadas através da barra de notificações.)</string>
     <string name="use_single_tts_msg">Usar apenas um sintetizador: Lê as notificações com um sintetizador diferente do de leitura contínua. Toque em usar apenas um sintetizador para tudo ser lido apenas com uma voz.</string>
-    <string name="use_left_right_ok">Varrendo</string>
+    <string name="use_left_right_ok">Navegar varrendo para a esquerda e para a direita</string>
     <string name="use_left_right_no">Navegar varrendo para cima e para baixo</string>
     <string name="usage_hints_ok">Ler dicas de Uso</string>
     <string name="usage_hints_no">Não ler Dicas de uso</string>
-    <string name="notification_speak_ok">Ler notificações</string>
-    <string name="notification_speak_no">Desativar leitura de notificações</string>
-    <string name="use_single_tts_ok">Múltiplos sintetizadores</string>
-    <string name="use_single_tts_no">Usar apenas um sintetizador</string>
+    <string name="notification_speak_ok">Ler notificações automaticamente</string>
+    <string name="notification_speak_no">Não ler notificações automaticamente</string>
+    <string name="use_single_tts_ok">Usar apenas um Sintetizador</string>
+    <string name="use_single_tts_no">Usár múltiplos Sintetizadores</string>
     <string name="permission_title">Descrições das Permissões</string>
     <string name="permission_msg">Status do telefone: usado para determinar o nível de sinal da rede e quais serviços estão disponíveis.\NEfetuar chamadas: Necessário para atender ou recusar chamadas rapidamente com um gesto, além de efetivar ligações através do assistente de voz.\nHistórico de Chamadas: para fornecer informações sobre as chamadas efetuadas, recebidas e não atendidas.\NInformações de localização: para fornecer serviços personalizados baseados em localização GPS,  tais como clima local, posição atual e possíveis futuras extensões de mapas e serviços de navegação.\NCâmera: para capturar imagens para efetivar uma variedade de reconhecimentos.\NAssistente de Voz: Utiliza o microfone para executar diversos comandos de voz.\Contatos Para identificar informações de quem está ligando, além telefonar para a pessoa apenas dizendo seu nome.\nJanelas popup exibe menus em diálogos e formulários ocultos além de Atualizações automáticas, acesso a rede, autenticação do Usuário, sincronizar etiquetas em nuvem, e reconhecimento de voz.\nSe alguma permissão for negada, funcionalidades não poderão funcionar.</string>
     <string name="check_permissions_msg">O Jieshuo requer algumas permissões básicas para seu bom funcionamento, tais como acesso ao microfone, câmera, armazenamento, etc.\nToque em Avançar para conceder estas permissões.\nToque em Cancelar para sair do Assistente.</string>
-    <string name="next">Próximo</string>
+    <string name="next">Avançar</string>
     <string name="setup_setting_done">A configuração está concluída</string>
-    <string name="setup_setting_done_msg"><![CDATA[Configurações básicas>Volte a executar o Assistente de Configuração]]></string>
-    <string name="setup_setting_continue">continuar configuração</string>
-    <string name="setup_setting_not_permission">Não foram obtidas permissões básicas</string>
-    <string name="setup_setting_not_permission_msg">Se não forem consedidas permissões básicas o Jieshuo não funcionará.\nToque em continuar para  prosseguir com as configurações do assistente\nToque em obter permissões (Apenas saia do Assistente somente após a obtenção das permissões.\nSe você tocar em sair antes de obter as permissões,  isto irá resultar no não funcionamento de alguns recursos.</string>
+    <string name="setup_setting_done_msg">Você pode redefinir estas opções executando o Assistente de Configuração novamente.</string>
+    <string name="setup_setting_continue">continuar a configuração</string>
+    <string name="setup_setting_not_permission">Não foram obtidas as permissões básicas</string>
+    <string name="setup_setting_not_permission_msg">Nem todas as permissões básicas foram obtidas.\nToque em continuar para  continuar obtendo as permissões,  ou em Sair para abandonar a configuração.</string>
     <string name="setup_setting_set_permission_and_exit">Obtêm permissões e sai do Assistente</string>
     <string name="setup_setting_not_notification_permission">Não foi possível obter a permissão para notificações</string>
-    <string name="setup_setting_notification_permission_msg">Permitir a utilização de notificações  de suspenção e retomada da resposta por voz. Esta notificação melhorará a estabilidade do Jieshuo.</string>
+    <string name="setup_setting_notification_permission_msg">Permitir a suspenção e retomada da resposta por voz a partir da barra de notificações. Esta permissão melhorará a estabilidade do Jieshuo.</string>
     <string name="setup_setting_get_permission">Obter permissões</string>
-    <string name="setup_setting_has_notification_permission">Obitidas permissões de notificações</string>
+    <string name="setup_setting_has_notification_permission">Obitidas permissões para leitura de notificações</string>
     <string name="changed">Alterado</string>
     <string name="setup_setting_not_battery_permission">Não será ignorada a otimização da bateria</string>
     <string name="setup_setting_battery_permission_msg">a otimização pode estender a vida útil da bateria, mas pode levar ao encerramento inesperado do Jieshuo durante a hibernação. Ignorando a otimização da bateria, a estabilidade do Jieshuo melhorará</string>
-    <string name="setup_setting_has_battery_permission">a otimização de bateria será ignorada</string>
+    <string name="setup_setting_has_battery_permission">a permissão para ignorar a otimização de bateria foi obtida</string>
     <string name="setup_setting_not_overlay_permission">Não foi possível obter permissões em janelas popup</string>
-    <string name="setup_setting_overlay_permission_msg">O Jieshuo usará menus popup nas janelas flutuantes no modo escuro</string>
+    <string name="setup_setting_overlay_permission_msg">A permissão em Janelas popup é necessária em funções tais como usar a cortina de tela.</string>
     <string name="setup_setting_has_overlay_permission">Obitida a permissão para janelas popup</string>
     <string name="copy_username_and_userid">Copiar o nome e a identificação do Usuário</string>
     <string name="username_and_userid_format">Nome do Usuário %s Indentificação do Usuário %s</string>
-    <string name="file_name_dict">词典.json</string>
-    <string name="refresh">刷新</string>
-    <string name="msg_filter">共找到%d个结果</string>
-    <string name="use_custom_symbol_speak_title">朗读自定义符号</string>
-    <string name="custom_symbol_title">自定义符号设置</string>
-    <string name="use_custom_dict_speak_title">使用自定义词典</string>
-    <string name="custom_dict_title">用户词典设置</string>
+    <string name="file_name_dict">dict.json</string>
+    <string name="refresh">Atualizar</string>
+    <string name="msg_filter">foram encontradas %d correspondências</string>
+    <string name="use_custom_symbol_speak_title">Ler símbolos personalizados</string>
+    <string name="custom_symbol_title">Configurações de símbolos personalizados</string>
+    <string name="use_custom_dict_speak_title">Usar o dicionário Personalizado</string>
+    <string name="custom_dict_title">Configurações do Dicionário do Usuário</string>
 
-    <string name="msg_has_vip_dict">非会员仅支持添加5条</string>
-    <string name="undo">撤消</string>
-    <string name="redo">重做</string>
-    <string name="last_open">最近</string>
-    <string name="create_file">新建文件</string>
-    <string name="open_project">打开工程</string>
-    <string name="create_project">新建工程</string>
-    <string name="format">格式化</string>
-    <string name="fix_import">导入分析</string>
-    <string name="run">运行</string>
-    <string name="use_emoji_speak_title">朗读Emoji表情</string>
-    <string name="install_shortcut">添加到桌面</string>
-    <string name="msg_select_end">选择结束</string>
-    <string name="msg_select_start">选择开始</string>
-    <string name="msg_plugin_run_error">先在辅助功能启动解说再运行插件</string>
-    <string name="input_file_name">输入文件名</string>
-    <string name="input_project_name">输入工程名</string>
+    <string name="msg_has_vip_dict">Apenas usuários Premium podem adicionar mais de 5 expressões</string>
+    <string name="undo">Desfazer</string>
+    <string name="redo">Refazer</string>
+    <string name="last_open">Recentes</string>
+    <string name="create_file">Novo arquivo</string>
+    <string name="open_project">Abrir Projeto</string>
+    <string name="create_project">Abrir Projeto</string>
+    <string name="format">Formato</string>
+    <string name="fix_import">Analisar importação</string>
+    <string name="run">Executar</string>
+    <string name="use_emoji_speak_title">Ler Emoji</string>
+    <string name="install_shortcut">Criar atalho</string>
+    <string name="msg_select_end">Selecionar final</string>
+    <string name="msg_select_start">Selecionar início</string>
+    <string name="msg_plugin_run_error">Primeira execução do Jieshuo plug-in funcionalidade de acessibilidade</string>
+    <string name="input_file_name">Informe o nome do arquivo</string>
+    <string name="input_project_name">Informe o nome do projeto</string>
+    <string name="use_loop_move_title">循环滚动焦点</string>
+    <string name="message_cut">已剪切</string>
+    <string name="choice_mode_multiple">多选模式</string>
+    <string name="add_from_grid">通过网格添加</string>
+<string name="sound_settings_title">音效方案设置</string>
+    <string name="sound_focus1">可点击焦点</string>
+    <string name="sound_focus2">可聚焦焦点</string>
+    <string name="sound_focus3">键盘焦点</string>
+    <string name="sound_focus4">不可聚焦焦点</string>
+    <string name="sound_focus0">列表焦点</string>
+    <string name="sound_click">点击</string>
+    <string name="sound_long_click">长按</string>
+<string name="sound_scroll_up">向上滚动</string>
+    <string name="sound_scroll_down">向下滚动</string>
+    <string name="sound_beep">警告</string>
+    <string name="sound_tick">计时</string>
+    <string name="sound_clock">整点</string>
+    <string name="sound_screen_off">关屏</string>
+    <string name="sound_screen_on">开屏</string>
+    <string name="sound_window_state">窗口改变</string>
+    <string name="sound_dialog">对话框</string>
+    <string name="sound_gesture_start">手势开始</string>
+    <string name="sound_gesture_end">手势结束</string>
+    <string name="recognition_start">识别开始</string>
+    <string name="recognition_end">识别结束</string>
+    <string name="recognition_success">识别成功</string>
+    <string name="recognition_error">识别出错</string>
+    <string name="recognition_cancel">识别取消</string>
+    <string name="command_quick_settings">快速设置</string>
+    <string name="command_take_screenshot">截屏</string>
+    <string name="command_off_screen2">关屏</string>
+    <string name="command_power_dialog">关机菜单</string>
+    <string name="use_bottom_menu_edge_gesture_summary">底部边缘手势可以执行返回，主屏幕，打开通知栏，打开最近任务等功能。</string>
+    <string name="use_bottom_menu_edge_gesture_title">底部边缘手势</string>
+    <string name="all">全部</string>
+    <string name="create_hot_key">创建快捷键方案</string>
+    <string name="create_app_hot_key">创建单应用快捷键方案</string>
+    <string name="hot_key">快捷键</string>
+    <string name="hot_key_package_title">快捷键方案</string>
+    <string name="hot_key_description_title">快捷键方案说明</string>
+    <string name="hot_key_settings_title">快捷键方案设置</string>
+    <string name="custom_hot_key_settings_title">自定义快捷键方案设置</string>
+    <string name="app_hot_key_package_title">单应用快捷键方案设置</string>
+    <string name="app_hot_key_package_summary">为单个应用配置快捷键方案</string>
+    <string name="directory_hot_key">热键</string>
+    <string name="hot_key_summary">按下需要设置的按键，不支持单独的字母键和数字键</string>
 
 
 </resources>

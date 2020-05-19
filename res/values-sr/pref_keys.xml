@@ -371,4 +371,15 @@
     <string name="use_emoji_speak">use_emoji_speak</string>
     <string name="custom_dict_data">custom_dict_data</string>
     <string name="custom_symbol_data">custom_symbol_data</string>
+    <string name="note">note</string>
+    <string name="use_loop_move">use_loop_move</string>
+    <string name="custom_sound_settings">custom_sound_settings</string>
+    <string name="read_mode">read_mode</string>
+    <string name="use_bottom_menu_edge_gesture">use_bottom_menu_edge_gesture</string>
+    <string name="lang">sr</string>
+    <string name="hot_key_package">hot_key_package</string>
+    <string name="custom_hot_key_settings">custom_hot_key_settings</string>
+    <string name="hot_key_description">hot_key_description</string>
+    <string name="hot_key_settings">hot_key_settings</string>
+    <string name="app_hot_key_package">app_hot_key_package</string>
 </resources>
