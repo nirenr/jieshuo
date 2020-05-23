@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name"> Commentary Screenreader</string>
+    <string name="app_name"> Jieshuo Screenreader</string>
     <string name="accessibility_service_description">
-        Commentary Screenreader это программа, которая поможет слепым людям пользоваться своими мобильными телефонами. Мы сделали несколько инновационных попыток. Для более подробной информации откройте настройки \ Помощь.\n
+        Jieshuo Screenreader это программа, которая поможет слепым людям пользоваться своими мобильными телефонами. Мы сделали несколько инновационных попыток. Для более подробной информации откройте настройки \ Помощь.\n
         Некоторые функции ограничены, пока вы не приобретете полную версию. Для получения дополнительной информации, пожалуйста, свяжитесь со службой поддержки в официальной группе QQ.\n
         \n
         Возможности: \n
@@ -10,7 +10,7 @@
         Расширения: установите расширения для улучшения функционала.\n
         Просмотр по символам, словам, абзацам... Всегда есть подходящий режим просмотра для ваших нужд.\n
         Быстрая и отзывчивая программа.\n
-        Установите звуковые темы, которые всегда будут радовать ваши уши.\n
+        Установите звуковые темы, которые всегда будут радовать ваш слух.\n
         Расширенные функции копирования, позволяют копировать именно то, что вам нужно.\n
         Контекстные жесты, обеспечивают гибкость.\n
         Переназначаемые жесты.\n
@@ -18,7 +18,7 @@
         \n
         Премиум-функции:\n
         Виртуальный экран откроет новый мир для Вас в приложениях, которые не доступны.\n
-        Автоматическое распознование OCR: распознавайте изображения и читайте текст с них с легкостью.\n
+        Автоматическое распознавание OCR: распознавайте изображения и читайте текст с них с легкостью.\n
         Молниеносное распознавание кода с картинки на основе искусственного интеллекта.\n
         Определяйте все, что перед вами: Люди, картины и предметы.\n
         Фильтрация веб-страниц: читайте веб-страницы с легкостью, без изображений и нарушения качества содержимого.\n
@@ -30,11 +30,11 @@
         Расширенный выбор текста: по слову, предложению, абзацу. Выберите именно тот режим, который вам нужен.\n
         Различные операции упрощаются с помощью дополнительных голосовых команд.\n
         Автоматический запуск плагинов,  ваши любимые Плагины доступны сразу.\n
-        Commentary Screenreader - это бесконечно настраиваемая и гибкая программа!!!
+        Jieshuo Screenreader - это бесконечно настраиваемая и гибкая программа!!!
     </string>
 
     <string name="about_title">Hebei Biyou Technology Co., Ltd.</string>
-    <string name="help_feed_summary">Commentary Screenreader использует некоторые сторонние технологии: Tencent AI, Baidu AI, Baidu TTS, Baidu Translator, Baidu MTS, Andro LUA Plus. </string>
+    <string name="help_feed_summary">Jieshuo Screenreader использует некоторые сторонние технологии: Tencent AI, Baidu AI, Baidu TTS, Baidu Translator, Baidu MTS, Andro LUA Plus. </string>
 
     <string name="menu_title">Меню</string>
 
@@ -94,7 +94,7 @@
     <string name="notification_type_status_started">" начата"</string>
     <string name="notification_type_status_stopped">" остановлена"</string>
     <string name="acc_settings_title">Настройки специальных возможностей</string>
-    <string name="qq_group_title">Commentary Screenreader официальная группа в QQ</string>
+    <string name="qq_group_title">Jieshuo Screenreader официальная группа в QQ</string>
     <string name="audio_focus_title">Приглушение аудио: </string>
 
     <string name="voice_app_name">Голосовой помощник</string>
@@ -162,11 +162,11 @@
     <string name="long_text_title">Расширенное редактирование текста</string>
     <string name="gesture_manager_title">Управление жестами</string>
     <string name="use_ocr_title">Использовать автоматическое распознавание OCR: </string>
-    <string name="use_ocr_summary">Автоматическое распознование выделенного изображения или не подписанного элемента управления. Это будет потреблять больше интернет-трафика и заряда аккумулятора.</string>
+    <string name="use_ocr_summary">Автоматическое распознавание выделенного изображения или не подписанного элемента управления. Это будет потреблять больше интернет-трафика и заряда аккумулятора.</string>
     <string name="content_blacklist_title">Содержимое черного списка</string>
     <string name="no_phone_permission">Нет разрешений.</string>
     <string name="message_time_out">неразрешенный</string>
-    <string name="message_welcome">Добро пожаловать в Commentary Screenreader!</string>
+    <string name="message_welcome">Добро пожаловать в Jieshuo Screenreader!</string>
     <string name="message_in_dim_screen">Затемнение экрана включено.</string>
     <string name="message_out_dim_screen">Затемнение экрана отключено</string>
     <string name="message_only_android5_last">Поддерживается только Android 5 и выше!</string>
@@ -182,7 +182,7 @@
     <string name="directory_gestures">жесты</string>
     <string name="directory_temp">TMP</string>
     <string name="directory_plugins">Плагины</string>
-    <string name="message_recognition">Распознование…</string>
+    <string name="message_recognition">Распознавание…</string>
     <string name="message_recognition_error">Ошибка распознавания. Пожалуйста, попробуйте еще раз.</string>
     <string name="directory_sounds">Звуки</string>
     <string name="directory_resources">Ресурсы</string>
@@ -274,14 +274,14 @@
     <string name="content_blacklist_summary">Фильтрация содержимого в черном списке для устранения неполадок с ошибками в фокусе</string>
     <string name="use_image_filter_summary">Фильтр изображений при просмотре веб-страниц</string>
     <string name="use_supper_filter_summary">Фильтровать не китайский контент.</string>
-    <string name="use_edge_gesture_title">Использовать постукивание по краям экрана: </string>
+    <string name="use_edge_gesture_title">Использовать краевые жесты: </string>
     <string name="left_edge_gesture_title">Настройки левого края</string>
     <string name="right_edge_gesture_title">Настройки правого края</string>
     <string name="right_edge_gesture_value_default">Недавние приложения</string>
     <string name="left_edge_gesture_value_default">Вернуться назад</string>
-    <string name="use_edge_gesture_summary">При постукивании по краю экрана, выполняется определенное действие. </string>
-    <string name="left_edge_gesture_summary">Настройка постукивания по левому краю.</string>
-    <string name="right_edge_gesture_summary">Настройка постукивания по правому краю.</string>
+    <string name="use_edge_gesture_summary">При горизонтальном смахивании, выполняемом от края экрана, будут выполняться определенные действия.</string>
+    <string name="left_edge_gesture_summary">настройки быстрого смахивания от левого края.</string>
+    <string name="right_edge_gesture_summary">настройки быстрого смахивания от правого края.</string>
     <string name="down_volume_key_value_default">голосовой помощник</string>
     <string name="down_volume_key_title">Зажмите и удерживайте клавишу уменьшения громкости</string>
     <string name="down_volume_key_summary">Настройка клавиши уменьшения громкости при длительном нажатии.</string>
@@ -292,12 +292,12 @@
     <string name="use_speak_call_phone_title">Информация о звонящем: </string>
     <string name="use_speak_changed_volume_summary">Читать подсказку при изменении громкости: </string>
     <string name="use_speak_changed_volume_title">Использовать чтение изменения громкости: </string>
-    <string name="vip_qq_group_title">Commentary Screenreader - группа для VIP в QQ</string>
-    <string name="qq_group2_title">Официальная группа "Commentary Screenreader" в QQ.</string>
+    <string name="vip_qq_group_title">Jieshuo Screenreader - группа для VIP в QQ</string>
+    <string name="qq_group2_title">Официальная группа "Jieshuo Screenreader" в QQ.</string>
     <string name="right_long_edge_gesture_value_default">Панель уведомлений</string>
     <string name="left_long_edge_gesture_value_default">Домашний экран</string>
-    <string name="right_long_edge_gesture_title">Настройки смахивания по правому краю</string>
-    <string name="left_long_edge_gesture_title">Настройки смахивания по левому краю</string>
+    <string name="right_long_edge_gesture_title">Настройки смахивания от правого края.</string>
+    <string name="left_long_edge_gesture_title">Настройки смахивания от левого края.</string>
     <string name="left_long_edge_gesture_summary">Проведите вправо от левого края экрана</string>
     <string name="right_long_edge_gesture_summary">Проведите влево от правого края экрана.</string>
     <string name="use_up_long_quick_menu_summary">Использовать отображение меню ярлыков при длительном нажатии на выделенный элемент.</string>
@@ -316,7 +316,7 @@
     <string name="async_tts_engine_title">Второй движок TTS</string>
     <string name="async_tts_engine_summary">Второй движок используется для чтения уведомлений или дополнительной информации. Выбор того же движка, что и основной, приведет к использованию только одного движка.</string>
     <string name="tts_engine_summary">Движок TTS используется для чтения контента. Если выбранный движок не работает, то будет использоваться первый доступный.</string>
-    <string name="timer_manager_title">Управление таймером</string>
+    <string name="timer_manager_title">Сохраненные результаты замеров.</string>
     <string name="use_foreground_title">Использовать высокий приоритет запуска:</string>
     <string name="use_foreground_summary">Если screen reader часто замолкает, то рекомендуется установить этот флажок</string>
     <string name="use_speak_qq_changed_title">Автоматически читать сообщения чата QQ</string>
@@ -331,9 +331,9 @@
     <string name="questions_answers_title">Часто задаваемые вопросы</string>
     <string name="orientation_landscape">Пейзаж</string>
     <string name="orientation_portrait">Портрет</string>
-    <string name="use_alarm_title">Объявлять время: </string>
-    <string name="use_alarm_summary">Объявлять указанное время.</string>
-    <string name="alarm_settings_title">Настройки будильника</string>
+    <string name="use_alarm_title">Использовать говорящие часы: </string>
+    <string name="use_alarm_summary">Объявлять время через заданные интервалы.</string>
+    <string name="alarm_settings_title">Настройки говорящих часов.</string>
     <string name="url_menu_title">Встроенные объекты</string>
     <string name="use_long_click_voice_input_title">Использовать голосовой ввод при длительном нажатии на текстовый редактор.</string>
     <string name="voice_input_append_mode_title">Добавить текст в конец текстового редактора при использовании голосового ввода</string>
@@ -344,9 +344,9 @@
     <string name="use_custom_gesture_title">Использовать пользовательские жесты</string>
     <string name="custom_gesture_settings_title">Настройки пользовательских жестов</string>
     <string name="use_foreground_pro_title">Усиление препятствует тому, чтобы экран блокировки спал</string>
-    <string name="use_foreground_pro_summary">Если экран гаснет, то вы можете попробовать эту опцию. Когда экран выключается, он устанавливает Commentary screen reader на передний план.</string>
+    <string name="use_foreground_pro_summary">Если экран гаснет, то вы можете попробовать эту опцию. Когда экран выключается, он устанавливает Jieshuo screen reader на передний план.</string>
     <string name="use_power_save_title">Использовать режим энергосбережения: </string>
-    <string name="use_power_save_summary">"Commentary screen reader" попробует уменьшить расход батареи.</string>
+    <string name="use_power_save_summary">"Jieshuo screen reader" попробует уменьшить расход батареи.</string>
     <string name="power_settings_title">Настройки питания</string>
     <string name="action_settings_title">Настройки действий</string>
     <string name="keep_focus_position_title">Запоминать положение фокуса</string>
@@ -374,20 +374,20 @@
     <string name="restore_settings_title">Восстановить настройки</string>
     <string name="restore_settings_summary">Восстановление настроек переопределит текущие настройки</string>
     <string name="backup_settings_summary">Настройки резервного копирования переопределят последнюю резервную копию</string>
-    <string name="jieshuo_bbs_title">Форум "Commentary Screenreader"</string>
+    <string name="jieshuo_bbs_title">Форум "Jieshuo Screenreader"</string>
     <string name="use_symbol_speak_title">Читать пунктуацию</string>
     <string name="use_cloud_label_title">Обмен метками: </string>
     <string name="use_cloud_label_summary">Делитесь и загружайте пользовательские метки с сервера</string>
     <string name="directory_helper">Помощник</string>
     <string name="helper_manager_title">Расширенные настройки голосового помощника</string>
-    <string name="alarm_interval_title">Интервал будильника</string>
+    <string name="alarm_interval_title">Интервал оповещений говорящих часов.</string>
     <string name="use_timer_speak_title">Речевая подсказка таймера</string>
     <string name="use_timer_vibrate_title">Вибро подсказка таймера</string>
-    <string name="use_double_edge_gesture_title">Использовать крайнее меню двумя пальцами</string>
+    <string name="use_double_edge_gesture_title">Вызывать краевые меню смахиванием двумя пальцами.</string>
     <string name="use_raw_click_title">Использовать прямой клик вместо клика специальных возможностей</string>
     <string name="use_raw_click_summary">В Android 7 и выше эта функция может решить проблемы некоторых приложений, не реагирующих на ввод.</string>
     <string name="has_vip_summary">%s это доступно только для премиум-пользователей</string>
-    <string name="vip_qq_kefu_title">служба поддержки "Commentary screenreader"</string>
+    <string name="vip_qq_kefu_title">служба поддержки "Jieshuo screenreader"</string>
     <string name="vip_qq_kefu_summary">Консультирование, покупка, передача. Просим пройти сертификацию обслуживания клиентов</string>
     <string name="use_speak_changed_window_title">Прочитать все содержимое окна при смене окна: </string>
     <string name="use_timer_sound_title">Звуковая подсказка таймера: </string>
@@ -418,7 +418,7 @@
 
     <string name="message_disable_dim_screen">Пожалуйста, сначала отключите затемнение</string>
     <string name="start_long_copy">Расширенное копирование запущено...</string>
-    <string name="runnimg_background">Запуск программы "Commentary screenreader" в фоновом режиме</string>
+    <string name="runnimg_background">Запуск программы "Jieshuo screenreader" в фоновом режиме</string>
     <string name="description">Описание</string>
     <string name="gestures_description_not_found">Файл справки по жестам не найден</string>
     <string name="timer_date_format">yyyy.M.d. HH:mm.</string>
@@ -454,8 +454,8 @@
     <string name="command_click">Нажатие</string>
     <string name="command_long_click">Долгое нажатие</string>
     <string name="command_unlock">Разблокировать</string>
-    <string name="command_start">Вверх</string>
-    <string name="command_end">Вниз</string>
+    <string name="command_start">Перейти к первому элементу на экране.</string>
+    <string name="command_end">Перейти к последнему элементу на экране</string>
     <string name="command_nothing">Нет команды</string>
     <string name="command_sleep">Режим сна</string>
     <string name="command_send_log">Отправить логи</string>
@@ -471,38 +471,38 @@
     <string name="command_long_copy">Расширенное копирование текста</string>
     <string name="command_my_location">моя позиция</string>
     <string name="command_where_i">Где я?</string>
-    <string name="command_current_location">текущая позиция</string>
-    <string name="command_verification">Код с картинки</string>
-    <string name="command_verification2">Код с картинки</string>
-    <string name="command_verification3">Код с картинки</string>
+    <string name="command_current_location">Текущее местоположение.</string>
+    <string name="command_verification">Код с картинки.</string>
+    <string name="command_verification2">Код с картинки.</string>
+    <string name="command_verification3">Код с картинки.</string>
     <string name="feed_back_disabled">Голосовая обратная связь приостановлена</string>
-    <string name="command_gesture_help">Описание жестов</string>
-    <string name="command_gesture_help2">Помощь по жестам</string>
+    <string name="command_gesture_help">Описание жестов.</string>
+    <string name="command_gesture_help2">Помощь по жестам.</string>
     <string name="command_virtual_screen">Виртуальный экран</string>
     <string name="command_play_control">Управление воспроизведением</string>
     <string name="command_read_mode">Режим чтения</string>
-    <string name="command_verbatim_speak">Режим чтения по словам</string>
+    <string name="command_verbatim_speak">"Произнести последнюю фразу по буквам.</string>
     <string name="command_verbatim_speak2">Режим чтения по словам</string>
-    <string name="command_to_previous_focus">Предыдущий элемент</string>
-    <string name="command_to_next_focus">Следующий элемент</string>
-    <string name="command_to_previous_page">Предыдущая страница</string>
-    <string name="command_to_next_page">Следующая страница</string>
-    <string name="command_to_previous_scroll">Прокрутить вверх</string>
-    <string name="command_to_next_scroll">Прокрутить вниз</string>
-    <string name="command_to_previous_progress">Ползунок уменьшения</string>
-    <string name="command_to_next_progress">Ползунок увеличения</string>
-    <string name="command_lower_volume">Уменьшить громкость</string>
-    <string name="command_raise_volume">Увеличить громкость</string>
-    <string name="command_now_time">Текущее время</string>
-    <string name="command_timer_mode">таймер</string>
-    <string name="command_timer_start">запустить таймер</string>
-    <string name="command_quick_mode">Быстрый просмотр</string>
-    <string name="command_auto_next">Автоматический просмотр</string>
-    <string name="command_auto_speak">Автоматическое чтение</string>
+    <string name="command_to_previous_focus">Перейти к предыдущему элементу.</string>
+    <string name="command_to_next_focus">Перейти к следующему элементу.</string>
+    <string name="command_to_previous_page">Перейти к предыдущей странице.</string>
+    <string name="command_to_next_page">Перейти к следующей странице.</string>
+    <string name="command_to_previous_scroll">Прокрутить вверх.</string>
+    <string name="command_to_next_scroll">Прокрутить вниз.</string>
+    <string name="command_to_previous_progress">Ползунок уменьшения.</string>
+    <string name="command_to_next_progress">Ползунок увеличения.</string>
+    <string name="command_lower_volume">Уменьшить громкость.</string>
+    <string name="command_raise_volume">Увеличить громкость.</string>
+    <string name="command_now_time">Текущее время.</string>
+    <string name="command_timer_mode">таймер.</string>
+    <string name="command_timer_start">запустить таймер.</string>
+    <string name="command_quick_mode">Быстрый просмотр.</string>
+    <string name="command_auto_next">Автоматический просмотр.</string>
+    <string name="command_auto_speak">Автоматическое чтение.</string>
 
-    <string name="command_copy">Копировать</string>
-    <string name="command_append_copy">Добавить копию</string>
-    <string name="command_paste">Вставить</string>
+    <string name="command_copy">Копировать.</string>
+    <string name="command_append_copy">Добавить копию.</string>
+    <string name="command_paste">Вставить.</string>
 
     <string name="raw_swipe_down">[Проведите вниз]</string>
     <string name="raw_swipe_up">[Проведите вверх]</string>
@@ -585,17 +585,17 @@
     <string name="command_clean">Очистить текущее текстовое поле</string>
     <string name="command_select">Меню выбора</string>
     <string name="command_notification_box">Окно уведомлений</string>
-    <string name="command_up_tap">Коснитесь "поднимите вверх, чтобы активировать"</string>
+    <string name="command_up_tap">Активация элементов по отрыву пальца."</string>
     <string name="command_tap_mode">Коснитесь, чтобы переключить фокус...</string>
-    <string name="command_node_mode">Переключение режима просмотра узлов</string>
-    <string name="command_to_home">Домашний экран</string>
+    <string name="command_node_mode">Режим просмотра узлов.</string>
+    <string name="command_to_home">Перейти к домашнему экрану.</string>
     <string name="command_to_back">Вернуться назад</string>
     <string name="command_long_edit">Расширенное редактирование текста</string>
     <string name="command_all_speak">Читать весь экран</string>
     <string name="command_all_speak2">Читать все</string>
     <string name="command_all_select">Выбрать все</string>
     <string name="command_voice_helper">голосовой помощник</string>
-    <string name="command_voice_input">Диктовка голосом</string>
+    <string name="command_voice_input">Голосовой ввод.</string>
     <string name="command_ocr">Распознать изображение</string>
     <string name="command_ocr_text">Распознать текст</string>
     <string name="camera_title">Jieshuo камера</string>
@@ -610,7 +610,7 @@
 
     <string name="clipboard">буфер обмена</string>
     <string name="favorites">Избранные</string>
-    <string name="input_method">Метод ввода</string>
+    <string name="input_method">Открыть панель поиска.</string>
     <string name="main_menu">Главное меню</string>
     <string name="auto_read">Автоматическое чтение</string>
     <string name="list_mode_title">Просмотр списка</string>
@@ -699,7 +699,7 @@
     <string name="command_to_next_control">Перейти к следующему элементу управления</string>
     <string name="system_tts_engine_title">Движок TTS</string>
     <string name="cancel">отменить</string>
-    <string name="timer_interval_title">Интервал напоминания</string>
+    <string name="timer_interval_title">Интервал оповещений таймера</string>
     <string name="gesture_help_title">Помощь по жестам</string>
     <string name="show_volume_ui_title">Отображение панели громкости системы при регулировании громкости</string>
     <string name="fingerprint_gesture_setting">Настройки жестов сканера отпечатков пальцев</string>
@@ -714,23 +714,23 @@
     <string name="navi">навигация</string>
     <string name="unknown_index_title">Прочитать номер немаркированного элемента управления: </string>
     <string name="unknown_index_summary">Прочитать порядковый номер выделенного элемента, даже если элемент не имеет метки или идентификатора.</string>
-    <string name="alarm_start_hour_title">Время начала будильника</string>
-    <string name="alarm_end_hour_title">Время окончания будильника</string>
+    <string name="alarm_start_hour_title">Время начала оповещений.</string>
+    <string name="alarm_end_hour_title">Время окончания оповещений.</string>
     <string name="command_virtual_navigation">Виртуальная навигация</string>
     <string name="voice_helper_use_click_title">Прямая активация упомянутого элемента.</string>
     <string name="voice_helper_use_app_title">Прямое открытие упомянутой программы</string>
     <string name="voice_helper_use_app_summary">Вы можете открыть данную программу, просто сказав ее название. Если эта опция отключена, скажите «Открыть название программы», чтобы открыть ее.</string>
     <string name="voice_helper_use_click_summary">Вы можете использовать название элемента, чтобы активировать его. Если эта опция отключена, скажите «активировать название элемента», чтобы активировать данный элемент.</string>
-    <string name="edge_gesture_width_title">Диапазон триггеров жестов: </string>
-    <string name="use_double_edge_gesture_summary">Пользовательские функции, которые используются краевыми жестами, недоступны в крайнем меню.</string>
+    <string name="edge_gesture_width_title">Размер области активации краевых жестов: </string>
+    <string name="use_double_edge_gesture_summary">Пользовательские функции, которые используются краевыми жестами, недоступны в этом меню.</string>
     <string name="left_edge_gesture_items_title">Настроить левое меню</string>
     <string name="right_edge_gesture_items_title">Настроить правое меню</string>
     <string name="multi_menu_items_title">Настроить меню из нескольких столбцов</string>
     <string name="main_menu_items_title">Настроить главное меню</string>
     <string name="use_edge_gesture_menu_title">Использовать экранное меню: </string>
-    <string name="use_left_edge_gesture_quick_menu_title">Использовать контекстное меню одного приложения в левом меню</string>
+    <string name="use_left_edge_gesture_quick_menu_title">Использовать контекстное левое краевое меню.</string>
     <string name="use_small_filter_title">Фильтровать ненужные элементы: </string>
-    <string name="jieshuo_bbs_summary">Поделитесь своим мнением о Commentary Screenreader на нашем форуме</string>
+    <string name="jieshuo_bbs_summary">Поделитесь своим мнением о Jieshuo Screenreader на нашем форуме</string>
     <string name="voice_recognizer_title">Движок распознавания: </string>
     <string name="use_text_format_char_upper_title">Говорить "большая" перед заглавными буквами: </string>
     <string name="voice_helper_media_mute_mode_title">Приглушить звук мультимедиа при активном голосовом помощнике: </string>
@@ -852,8 +852,8 @@
     <string name="no_save">Не сохранено</string>
     <string name="use_web_type_move_title">Навигация по элементам веб-страниц.</string>
 
-    <string name="pref_donate_alipay">Поддержать развитие "Commentary screenreader" через Alipay.</string>
-    <string name="pref_donate_paypal">Поддержать развитие "Commentary screenreader" через Paypal.</string>
+    <string name="pref_donate_alipay">Поддержать развитие "Jieshuo screenreader" через Alipay.</string>
+    <string name="pref_donate_paypal">Поддержать развитие "Jieshuo screenreader" через Paypal.</string>
     <string name="menu_settings_title">Настройки меню</string>
     <string name="directory_download">Загрузки</string>
     <string name="msg_has_vip_split_edit">Продвинутое редактирование текста в бесплатной версии ограничено до 100 символов</string>
@@ -993,12 +993,12 @@
     <string name="setup_setting_title">Мастер настройки.</string>
     <string name="check_overlay_permissions_title">Проверка прав на плавающее окно.</string>
     <string name="check_battery_permissions_title">Проверка игнорирования оптимизации батареи.</string>
-    <string name="open_application_info_title">Открыть информацию о приложении "Commentary"</string>
+    <string name="open_application_info_title">Открыть информацию о приложении "Jieshuo"</string>
     <string name="open_setup_setting_title">Открыть настройки загрузки.</string>
     <string name="check_notification_permissions_title">Проверка разрешений на отображение уведомлений.</string>
     <string name="denied_permissions_title">Разрешения, которые не были получены: </string>
-    <string name="welcome_msg">Commentary является вспомогательным программным обеспечением для слепых, эта программа может помочь вам более эффективно использовать ваш телефон, нажмите на "мастер настройки", чтобы помочь вам сделать основные настройки скринридера, нажмите на "Разрешения", чтобы ознакомиться с информацией о том, какие разрешения и для чего используются в программном обеспечение. Нажмите на "Выход", чтобы выйти из Мастера настроек.</string>
-    <string name="use_left_right_msg">Commentary по умолчанию использует смахивание вниз для перемещения фокуса вперед, смахивание вверх для перемещения фокуса назад, смахивание влево и вправо для выполнения функции быстрого доступа, если вы привыкли использовать смахивание влево и вправо для перемещения фокуса, пожалуйста, нажмите, "Использовать жесты влево и вправо", если вы используете свайп вверх и вниз, то пожалуйста, нажмите, "Использовать жесты вверх и вниз".</string>
+    <string name="welcome_msg">Jieshuo является вспомогательным программным обеспечением для слепых, эта программа может помочь вам более эффективно использовать ваш телефон, нажмите на "мастер настройки", чтобы помочь вам сделать основные настройки скринридера, нажмите на "Разрешения", чтобы ознакомиться с информацией о том, какие разрешения и для чего используются в программном обеспечение. Нажмите на "Выход", чтобы выйти из Мастера настроек.</string>
+    <string name="use_left_right_msg">Jieshuo по умолчанию использует смахивание вниз для перемещения фокуса вперед, смахивание вверх для перемещения фокуса назад, смахивание влево и вправо для выполнения функции быстрого доступа, если вы привыкли использовать смахивание влево и вправо для перемещения фокуса, пожалуйста, нажмите, "Использовать жесты влево и вправо", если вы используете свайпы вверх и вниз, то пожалуйста, нажмите, "Использовать жесты вверх и вниз".</string>
     <string name="usage_hints_msg">советы по использованию могут помочь начинающему пользователю ознакомиться со скринридером. Если вы впервые пользуетесь мобильным телефоном, мы рекомендуем включить эту опцию для удобной работы. Однако, если вы опытный пользователь, то мы рекомендуем отключить эту опцию для того, что бы не получать лишнюю информацию.</string>
     <string name="use_list_index_msg">Подсказка списка озвучивает отображаемый в данный момент диапазон списка и номер текущего элемента, нажатие кнопки "Включить подсказку" озвучивает эту информацию, а нажатие кнопки "Отключить подсказку" не озвучивает подсказок.</string>
     <string name="notification_speak_msg">чтение уведомлений позволит скринридеру озвучивать входящие уведомления. Включите эту опцию, чтобы вам прочитывались все уведомления. Если вы не хотите, чтобы вас беспокоили, рекомендуем отключить эту опцию.</string>
@@ -1013,7 +1013,7 @@
     <string name="use_single_tts_no">Будут использоваться два синтезатора речи.</string>
     <string name="permission_title">Описание разрешений</string>
     <string name="permission_msg">Считывание состояния телефона используется для определения уникальности личности, предоставления персонализированных услуг и аутентификации учетной записи , мониторинга состояния телефона для быстрого ответа / отклонения вызовов и других функций, предоставления информации о состоянии для входящих вызовов.\n  Ответ на вызов в Android 8 и выше система обеспечивает быстрый ответ / отклонение вызовов и других функций.\n  Вызов обеспечивает функцию прямого вызова как в номере извлечения, так и в номере голосового сообщения.\n  Информация о местоположении используется для предоставления персонализированных услуг на основе местоположения, таких как местная погода, текущее местоположение и, возможно, расширенные карты и навигационная информация.\n  Камера используется для съемки фотографий и различных функций распознавания.\n  Микрофон использует голосовой помощник, голосовой ввод для записи звука.\n  Адресная книга голосовые вызовы и звонки на основе имени службы.\n  Плавающее окно отображает меню, диалоговые окна и формы в режиме затемнённого экрана.\n  Создание ярлыков на рабочем столе предоставляет расширенные инструменты (легкие приложения), добавленные на рабочий стол для удобного запуска.\n  Установка в приложении используется для автоматического обновления.\n  Доступ к сети, аутентификация пользователей,распознавание изображений, облачные метки, распознавание голоса .\n  Загрузочный запуск для обслуживания в первый раз после перезагрузки.\n  Предотвращает спящий режим телефона предотвращает выключение экрана во время передачи голоса.\n  Отключение некоторых разрешений может привести к неправильной работе некоторых функций.</string>
-    <string name="check_permissions_msg">Для работы "Commentary" требуются некоторые базовые разрешения, такие, как: хранение и чтения звуковых эффектов, хранение фотографий и Т. Д. Нажмите "Далее", чтобы предоставить эти разрешения. Это основные разрешения программы. Нажмите "Отмена" для выхода из программы.</string>
+    <string name="check_permissions_msg">Для работы "Jieshuo" требуются некоторые базовые разрешения, такие, как: хранение и чтения звуковых эффектов, хранение фотографий и Т. Д. Нажмите "Далее", чтобы предоставить эти разрешения. Это основные разрешения программы. Нажмите "Отмена" для выхода из программы.</string>
     <string name="next">Далее.</string>
     <string name="setup_setting_done">Настройка завершена.</string>
     <string name="setup_setting_done_msg"><![CDATA[Вы можете повторно запустить мастер настройки в разделе Общие настройки>Мастер настройки]]></string>
@@ -1056,55 +1056,55 @@
     <string name="install_shortcut">Добавить на рабочий стол.</string>
     <string name="msg_select_end">Выберите "завершить".</string>
     <string name="msg_select_start">Выберите "начать".</string>
-    <string name="msg_plugin_run_error">Сначала запустите Commentary в специальных возможностях, а затем запустите плагин.</string>
+    <string name="msg_plugin_run_error">Сначала запустите Jieshuo в специальных возможностях, а затем запустите плагин.</string>
     <string name="input_file_name">Введите имя файла.</string>
     <string name="input_project_name">Введите имя проекта.</string>
-    <string name="use_loop_move_title">循环滚动焦点</string>
-    <string name="message_cut">已剪切</string>
-    <string name="choice_mode_multiple">多选模式</string>
-    <string name="add_from_grid">通过网格添加</string>
-<string name="sound_settings_title">音效方案设置</string>
-    <string name="sound_focus1">可点击焦点</string>
+    <string name="use_loop_move_title">Цикл прокрутки</string>
+    <string name="message_cut">Вырезано...</string>
+    <string name="choice_mode_multiple">Режим мультивыбора</string>
+    <string name="add_from_grid">Добавить из сетки</string>
+<string name="sound_settings_title">Настройки звуковой схемы.</string>
+    <string name="sound_focus1">Звук кликабельного элемента в фокусе</string>
     <string name="sound_focus2">可聚焦焦点</string>
-    <string name="sound_focus3">键盘焦点</string>
-    <string name="sound_focus4">不可聚焦焦点</string>
-    <string name="sound_focus0">列表焦点</string>
-    <string name="sound_click">点击</string>
-    <string name="sound_long_click">长按</string>
-<string name="sound_scroll_up">向上滚动</string>
-    <string name="sound_scroll_down">向下滚动</string>
-    <string name="sound_beep">警告</string>
-    <string name="sound_tick">计时</string>
-    <string name="sound_clock">整点</string>
-    <string name="sound_screen_off">关屏</string>
-    <string name="sound_screen_on">开屏</string>
-    <string name="sound_window_state">窗口改变</string>
-    <string name="sound_dialog">对话框</string>
-    <string name="sound_gesture_start">手势开始</string>
-    <string name="sound_gesture_end">手势结束</string>
-    <string name="recognition_start">识别开始</string>
-    <string name="recognition_end">识别结束</string>
-    <string name="recognition_success">识别成功</string>
-    <string name="recognition_error">识别出错</string>
-    <string name="recognition_cancel">识别取消</string>
-    <string name="command_quick_settings">快速设置</string>
-    <string name="command_take_screenshot">截屏</string>
-    <string name="command_off_screen2">关屏</string>
-    <string name="command_power_dialog">关机菜单</string>
-    <string name="use_bottom_menu_edge_gesture_summary">底部边缘手势可以执行返回，主屏幕，打开通知栏，打开最近任务等功能。</string>
-    <string name="use_bottom_menu_edge_gesture_title">底部边缘手势</string>
-    <string name="all">全部</string>
-    <string name="create_hot_key">创建快捷键方案</string>
-    <string name="create_app_hot_key">创建单应用快捷键方案</string>
-    <string name="hot_key">快捷键</string>
-    <string name="hot_key_package_title">快捷键方案</string>
-    <string name="hot_key_description_title">快捷键方案说明</string>
-    <string name="hot_key_settings_title">快捷键方案设置</string>
-    <string name="custom_hot_key_settings_title">自定义快捷键方案设置</string>
-    <string name="app_hot_key_package_title">单应用快捷键方案设置</string>
-    <string name="app_hot_key_package_summary">为单个应用配置快捷键方案</string>
-    <string name="directory_hot_key">热键</string>
-    <string name="hot_key_summary">按下需要设置的按键，不支持单独的字母键和数字键</string>
+    <string name="sound_focus3">Звук фокуса клавиатуры</string>
+    <string name="sound_focus4">Звук вне фокуса</string>
+    <string name="sound_focus0">звук фокуса в списке</string>
+    <string name="sound_click">Звук нажатия</string>
+    <string name="sound_long_click">Звук длительного нажатия</string>
+<string name="sound_scroll_up">Звук прокрутки вверх</string>
+    <string name="sound_scroll_down">Звук прокрутки вниз</string>
+    <string name="sound_beep">Звук предупреждения</string>
+    <string name="sound_tick">Звук таймера</string>
+    <string name="sound_clock">Звук часов</string>
+    <string name="sound_screen_off">Звук выключения экрана</string>
+    <string name="sound_screen_on">Звук включения экрана</string>
+    <string name="sound_window_state">Звук изменения окна</string>
+    <string name="sound_dialog">Звук диалогового окна</string>
+    <string name="sound_gesture_start">Звук начала жеста</string>
+    <string name="sound_gesture_end">Звук завершения жеста</string>
+    <string name="recognition_start">Начало распознавания</string>
+    <string name="recognition_end">Завершение распознавания</string>
+    <string name="recognition_success">Успешно распознано</string></string>
+    <string name="recognition_error">Ошибка распознавания</string>
+    <string name="recognition_cancel">Отмена распознавания</string>
+    <string name="command_quick_settings">Быстрая настройка</string>
+    <string name="command_take_screenshot">Скриншот</string>
+    <string name="command_off_screen2">Выключить экран</string>
+    <string name="command_power_dialog">Меню выключения</string>
+    <string name="use_bottom_menu_edge_gesture_summary">Жесты нижнего края могут выполнять такие функции, как: возврат, главный экран, открытие панели уведомлений, открытие последних задач и т. д.</string>
+    <string name="use_bottom_menu_edge_gesture_title">Жесты нижнего края</string>
+    <string name="all">Все</string>
+    <string name="create_hot_key">Создать схему сочитания клавиш</string>
+    <string name="create_app_hot_key">Создать схему сочитания клавиш для приложения</string>
+    <string name="hot_key">Горячая клавиша</string>
+    <string name="hot_key_package_title">Схемы сочетаний клавиш</string>
+    <string name="hot_key_description_title">Описание схемы сочетаний клавиш</string>
+    <string name="hot_key_settings_title">Настройки схемы сочетаний клавиш</string>
+    <string name="custom_hot_key_settings_title">Пользовательские настройки схемы сочетания клавиш</string>
+    <string name="app_hot_key_package_title">Настройка схемы сочетаний клавиш для приложения</string>
+    <string name="app_hot_key_package_summary">Настройка сочетаний клавиш для отдельных приложений</string>
+    <string name="directory_hot_key">Горячие клавиши</string>
+    <string name="hot_key_summary">Нажмите кнопку, которую хотите установить, не поддерживает отдельные буквенные клавиши и цифровые клавиши</string>
 
 
 </resources>
