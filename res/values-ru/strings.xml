@@ -427,7 +427,7 @@
     <string name="timer_and_now_time">%s,сейчас %s</string>
     <string name="edit">редактировать</string>
     <string name="edit_text_not_found">Текстовый редактор не найден</string>
-    <string name="char_mode">Режим чтения по словам.</string>
+    <string name="char_mode">Режим чтения по символам.</string>
     <string name="focus_mode">Режим фокуса.</string>
     <string name="auto_next">Автоматическое чтение элементов</string>
     <string name="message_copy">Сообщение скопировано...</string>
