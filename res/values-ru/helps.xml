@@ -19,14 +19,14 @@
         <item>
         расширения: \n
         По умолчанию, жест вверх-влево открывает список расширений, чтобы открыть список голосовых команд, смахните вправо, а двойным касанием активируйте один из выделенных пунктов.\n
-        Вы можете найти больше плагинов в загрузках ресурсов.\n
+        Вы можете найти больше плагинов в загрузке ресурсов.\n
         Расширенные настройки, Настройки голосового помощника, настройки голосовых команд, новые, измененные или загруженные </item>
         <item>
         Копировать, добавить копию, буфер обмена и избранное:\n
         Эти функции можно найти в меню действий.\n
         Копировать, скопировать выделенное в буфер обмена\n
         Добавить копию, добавить выделенное к последнему элементу в буфере обмена,\n
-        Буфер обмена, запись самого последнего скопированного контента, нажмите, чтобы войти в окно редактирования, нажмите и удерживайте, чтобы добавить контент в избранное\n
+        Clipboard, record the most recently copied content, click to enter the edit box, long press to add content to favorites\n
         Избранное, коснитесь, чтобы войти в поле редактирования, коснитесь и удерживайте, чтобы изменить,\n
         В дополнительных настройках, управление ресурсами, можно удалять или создавать резервные копии буфера обмена и избранного</item>
         <item>
@@ -41,12 +41,12 @@
         В списке содержимого можно долгим касанием на элементе отметить начальную точку, а затем долгим касанием на последним элементе, конечную, чтобы быстро выбрать несколько последовательных элементов.</item>
         <item>
         Дополнительное редактирование (премиальная функция):\n
-        Вы можете редактировать выделенное содержимое по словам, предложениям, абзацам или весь текст. В поле редактирования или в поле без правки, чтобы облегчить быстрое перемещение и изменение.\n
+        You can edit the focus content according to words, sentences, paragraphs or full text in the edit box or non-edit box to facilitate quick positioning and modification.\n
         Click on the split edit list to edit it, long press to make the entry more detailed split.\n
-        Редактор можно активировать, чтобы войти в поле редактирования, а поле без правки можно сохранить только в буфер обмена путем копирования.</item>
+        Edit box can be clicked to enter the edit box, and the non-edit box can only be saved to the clipboard by copying.</item>
         <item>
-        Просмотр списка:\n
-        Показать все выделенное в виде списка, нажмите, чтобы активировать выделенный объект, эта возможность особенно подходит для использования на веб-страницах.</item>
+        List browsing:\n
+        Display all the focus as a list, click to activate the corresponding focus, especially suitable for use on web pages.</item>
         <item>
         Режим чтения (премиальная функция):\n
         Вы можете читать статьи на веб-страницах, открытые в браузере, фильтровать нежелательный контент и автоматически перелистывать страницы.</item>
@@ -56,44 +56,44 @@
         Если у Вас Android 7 или выше, то коснитесь дважды для активации, если Android 6 или ниже то коснитесь три раза для активации.</item>
         <item>
         Распознавание текста (премиальная функция):\n
-        Распознанное содержимое отображается ввиде списка, нажатием на который активируется выделенный объект, долгим нажатием можно активировать возможность выбора отдельных элементов, нажатие на отдельный элемент активирует соответствующий элемент.\n
+        Распознанное содержимое отображается ввиде списка, нажатием на который активируется соответствующий фокус, долгим нажатием можно активировать возможность выбора отдельных элементов, нажатие на отдельный элемент активирует соответствующий элемент.\n
         Нажатие не поддерживается в Android 6, можно просматривать только результаты.</item>
         <item>
         Распознавания кода с картинки (премиальная функция):\n
         Касанием выделите картинку с кодом. Используйте дополнительное меню, распознавание кода с картинки. Распознать можно английский или цифровой код. Результат распознавания автоматически скопируется в буфер обмена.</item>
         <item>
         Jieshuo камера (премиальная функция):\n
-        Камера может распознавать текст, сцены, животных, растения, или можно наводить камеру на другие объекты. Камера в настоящее время поддерживает только заднюю камеру, используйте качельку громкости вверх для фотографирования, а качельку громкости вниз для переключения режимов.</item>
+        The camera can recognize text, scenes, animals, plants, or for camera guidance. The camera currently supports only the rear camera, using volume plus shooting, volume minus switching mode.</item>
         <item>
-        Быстро перемещайтесь между элементами списка:\n
-        В настройках действий/ Альтернативные настройки жестов, отметьте флаг "влево и вправо быстрое пролистование между элементами списка". Вы можете использовать жест влево или вправо для быстрого просмотра сообщения в списке сообщений QQ, например.</item>
+        Quickly navigate between list items:\n
+        In the operation settings, left and right shortcut gesture settings enable the left and right gestures to move quickly in the list, you can use the left or right gesture to quickly browse the message in the list of QQ messages, for example.</item>
         <item>
-        Уведомление черный / белый список:\n
-        В черный список уведомлений можно добавить определённый текст, который не будет прочитываться, а так же можно ввести символ звездочки, чтобы игнорировать все уведомления от приложения.\n
-        Белый список уведомлений разрешает чтение уведомлений, содержащих указанный текст, даже если уведомление было закрыто. Ввод звездочки означает, что все уведомления от приложения разрешены.\n
-        Ключевые слова поддерживают регулярные выражения.</item>
+        Notification black/whitelist:\n
+        The notification blacklist can filter out notifications containing the specified content, and input an asterisk to filter all notifications of the application.\n
+        The notification whitelist can allow reading of notifications containing the specified content, even if the notification has been closed, entering an asterisk indicates that all notifications for the program are allowed.\n
+        Keywords support regular expressions.</item>
         <item>
         Content blacklist:\n
         You can filter the focus content of the specified content, usually used to filter some non-standard accessibility instructions.\n
         Regular expressions are not supported based on efficiency considerations.</item>
         <item>
-        Фильтрация веб-контента (премиальная функция):\n
-        Фильтрует бесполезные аннотации изображений на странице, чтобы избавить Вас от не нужной информации.\n
-        Более сильная фильтрация может дополнительно отфильтровать несущественный контент.</item>
+        Web content filtering (member function):\n
+        Filters the useless image annotations on the page to filter out the lengthy and useless instructions on the page.\n
+        Stronger filtering can further filter out unnecessary non-essential content.</item>
         <item>
-        Мощный режим (премиальная функция):\n
-        Мощный режим дает вам больше оперативной концентрации,\n
-        Известно, что он улучшает опыт в использование приложений, таких как WeChat Sports, WeChat Friends Circle, Taobao Footprint, Huawei Router и так далее.</item>
+        Powerful mode (member function):\n
+        Powerful mode gives you more operational focus,\n
+        It is known to bring better experiences in software such as WeChat Sports, WeChat Friends Circle, Taobao Footprint, Huawei Router and so on.</item>
         <item>
-        Виртуальная навигация (премиальная функция):\n
-        Виртуальная навигация может добавить расположение содержимого, которое не может быть напрямую активировано в списке навигации.\n
-        Пожалуйста, добавьте только выделенную позицию, нажмите на выделенное распознанное имя, затем нажмите добавить,\n
-        Поддерживает только Android 7 или выше.</item>
+        Virtual navigation (member function):\n
+        Virtual navigation can add the location of content that cannot be directly clicked to the navigation list.\n
+        Please add only the focus of the immutable position, click on the recognized focus input name in the recognition click to add,\n
+        Only supports Android 7 or above.</item>
         <item>
-        Пользовательские жесты:\n
-        Вы можете назначить жесты на любые встроенные или расширенные функции.\n
-        Быстро меняйте жесты, импортируя набор различных жестов.\n
-        После импорта жестов их необходимо установить в настройках действий и схема жестов изменится.\n
+        Custom gestures:\n
+        You can customize any built-in or extended features as gestures.\n
+        Quickly change gestures by importing a gesture pack.\n
+        After the gesture is imported, it needs to be set in the operation, and the gesture scheme switching can take effect.\n
         If you are not familiar with the operation suggestions in the common settings, customize the gesture to modify the gesture.</item>
         <item>
         Two-step gestures (member function):\n
@@ -102,10 +102,10 @@
         After the two-step gesture is turned on, there is a half-second delay after the first gesture operation is completed, waiting for the second step.\n
         Don\'t set gestures that require efficiency, such as moving focus gestures, using two-step gestures.</item>
         <item>
-        Запись голосовых команд:\n
-        Запустите голосовой помощник, чтобы начать запись команды, произнесите программу, которую надо открыть. Когда все инструкции будут выполнены, скажите "end", что бы завершить запись. После Вам будет предложено ввести имя команды, произнесите название команды, и, наконец, скажите "determine".\n
-        Если в процессе записи будет нераспознанная инструкция, вы можете повторить ее.
-        Записанные команды можно изменить в дополнительных настройках, настройки Голосового помощника, настройки голосовых команд.</item>
+        Record voice commands:\n
+        Start the voice assistant to say the recording command, say the program to be opened in turn or click the key of the focus to realize the rapid voice command production. When all the instructions are finished, say to end the recording, after the prompt to enter the name of the command, say the name of the command, and finally say determine.\n
+        If there is an unrecognized instruction during the recording process, you can re-speak it.
+        Recorded commands can be changed in Advanced Settings, Voice Assistant Settings, Voice Command Settings.</item>
 
     </string-array>
 
@@ -617,11 +617,11 @@
 
     <string-array name="gesture_help_items">
         <item>
-        Основы работы с жестами:\n
-        Одиночные жесты должны быть точными, а движения - быстрыми\n
-        Первая часть комбинированного жеста должна быть длиннее половины экрана, и вторая часть может быть ориентирована до тех пор, пока правильно.</item>
+        Gesture operation essentials:\n
+        Single gestures should be straight, and movements should be fast\n
+        The first part of the combined gesture should be longer than half the length of the screen, and the second part can be oriented as long as it is right.</item>
         <item>
-        Комбинированный жест:\n
+        Combination gesture:\n
         First up, down, last focus\n
         First down, first, first focus\n
         First left and right task switching\n
@@ -691,57 +691,57 @@
         Left first, then left, exit literally
         </item>
         <item>
-        Жесты выделения текста:\n
-        Одно нажатие: прочитать текущий символ.\n
-        Проведите вверх: переход к предыдущей строке.\n
-        Проведите вниз: переход к следующей строке.\n
-        Проведите влево: переход к предыдущему символу.\n
-        Проведите вправо: переход к следующему символу.\n
-        Проведите влево вверх: переход к предыдущему абзацу.\n
-        Проведите вправо вверх: перейдите к следующему абзацу.\n
-        Проведите пальцем вверх вправо: отменить все выделение.\n
-        Проведите вниз вправо: скопировать выделенное.\n
-        Проведите пальцем вверх влево: добавить копию.\n
-        Проведите вправо вниз: скопировать весь текст.
+        Text selection gestures: \n
+        Single tap: read the current character.\n
+        Up swipe: Go to the previous line.\n
+        Down swipe: Go to the next line.\n
+        Left swipe: Go to the previous character.\n
+        Right swipe: Go to the next character.\n
+        Left up swipe: Go to the previous paragraph.\n
+        Right up swipe: Go to the next paragraph.\n
+        Up right swipe: Deselect all.\n
+        Down right swipe: Copy selection.\n
+        Up left swipe: Append copy.\n
+        Right down swipe: copy the whole text.
         </item>
         <item>
-        Жесты режима просмотра узла: 
-        Проведите вверх: перейти к предыдущему узлу.\n
-        Проведите вниз: перейти к следующему узлу.\n
-        Проведите влево: перейти к родительскому узлу.\n
-        Проведите вправо: перейти к дочернему узлу.\n
-        Проведите вниз влево: выйти из узла.
+        Node browsing mode gestures
+        Up swipe: go to the previous node.\n
+        Down swipe: Go to the next node.\n
+        Left swipe: go to the parent node.\n
+        Right swipe: Go to the child node.\n
+        Down left swipe: exit the node.
         </item>
         <item>
-        Руководство голосового помощника:\n
-        Открыть (Название приложения): Открывает названное приложение.
-        Отправить (содержимое): позволяет прямую отправку в QQ и Wechat.
-        Поиск (содержимое): выполняет онлайн-поиск по заданной фразе.
-        Голосовой помощник расширяем, благодаря редактированию меню и плагинов.
+        Voice assistant manual: \n
+        Open AppName: Opens the given app
+        Send Content: allows direct sending to QQ and Wechat
+        Search for content: performs the online search for the given phrase
+        Voice assistant is extensible thanks to the editing menus and plugins.
         </item>
     </string-array>
     <string-array name="voice_helper_help_items">
-        <item>Открыть НазваниеПриложения: открыть нужную программу.</item>
-        <item>Установить ИмяПриложения: установить нужную программу.</item>
-        <item>Удалить ИмяПриложения: удалить нужную программу.</item>
-        <item>Читать всё: Читать весь экран.</item>
-        <item>Читать вслух: читать вслух и следовать за курсором.</item>
-        <item>Текущая Яркость: читать яркость окружающей среды.</item>
-        <item>Клик: активировать выделенный элемент.</item>
-        <item>Активировать НазваниеЭлемента: Активировать указанный элемент</item>
-        <item>Copy currently focused item: Скопировать выделенный элемент в буфер обмена</item>
-        <item>Перевести: Перевести выделенный текст.</item>
-        <item>Перевести НазваниеЯзыка: Перевести выделенный текст на нужный язык.</item>
-        <item>Выбрать: выделяет данный текст.</item>
-        <item>Send a message in the qq, WeChat, chat window: Привет отправить.</item>
-        <item>Ввести Текст: Вводит устный текст в текстовое поле.</item>
-        <item>Long Input: Режим продолжительной диктовки.</item>
-        <item>Проверить погоду: проверяет погоду.</item>
-        <item>Проверить билет: проверяет билеты на поезд.</item>
-        <item>Сказать рецепт: проверить рецепт еды.</item>
-        <item>Рассказать шутку: рассказывает случайную шутку.</item>
-        <item>Скопировать ответ: копирует ответ.</item>
-        <item>Есть еще больше возможностей, ожидайте обновления.</item>
+        <item>Open the given program: Open application name</item>
+        <item>Install the given program: install Application Name</item>
+        <item>Uninstall the given program: uninstall Application Name</item>
+        <item>Read Everything: Read the whole screen</item>
+        <item>Read aloud: read aloud and follow the cursor</item>
+        <item>Current Brightness: read the environment\'s brightness.</item>
+        <item>Click: activate the focused element.</item>
+        <item>Activate specified item: activate item with the specified name</item>
+        <item>Copy currently focused item: Copy the currently focused item to the clipboard</item>
+        <item>Translate: Translate the currently focused text.</item>
+        <item>Translate LanguageName: Translate the currently focused text to a given language</item>
+        <item>Select: Selects the given text</item>
+        <item>Send a message in the qq WeChat chat window: Hello send</item>
+        <item>ENter Text: Enters the spoken text in the text box</item>
+        <item>Long Input: Long dictation mode</item>
+        <item>Check weather: checks the weather</item>
+        <item>Check the ticket: checks the train tickets.</item>
+        <item>Tell the recipe: check the recipe for a given food.</item>
+        <item>Tell a joke: tells a random joke</item>
+        <item>Copy the response: copies the response of a given command.</item>
+        <item>There are more features waiting for being discovered.</item>
 
     </string-array>
 

@@ -367,6 +367,13 @@
         <item>@string/directory_cmd</item>
         <item>@string/directory_tools</item>
         <item>@string/app</item>
+        <item>@string/select_granularity_mode</item>
+        <item>@string/to_previous_granularity</item>
+        <item>@string/to_next_granularity</item>
+        <item>@string/to_previous_granularity_item</item>
+        <item>@string/to_next_granularity_item</item>
+
+        <item>@string/command_raw_tap</item>
         <item>@string/command_to_previous_focus</item>
         <item>@string/command_to_next_focus</item>
         <item>@string/command_start</item>
@@ -442,12 +449,18 @@
         <item>@string/command_virtual_navigation</item>
         <item>@string/url_menu_title</item>
         <item>@string/actions</item>
+
         <item>@string/raw_click</item>
         <item>@string/raw_long_click</item>
         <item>@string/raw_swipe_left</item>
         <item>@string/raw_swipe_right</item>
         <item>@string/raw_swipe_up</item>
         <item>@string/raw_swipe_down</item>
+        <item>@string/command_quick_settings</item>
+        <item>@string/command_take_screenshot</item>
+        <item>@string/command_off_screen2</item>
+        <item>@string/command_power_dialog</item>
+        <item>@string/command_raw_double_tap</item>
     </string-array>
 
     <string-array name="lang_entries">
@@ -515,7 +528,10 @@
     <string-array name="left_button">
         <item>Zavesiť</item>
         <item>Odmietnuť</item>
+        <item>Ukončiť</item>
+        <item>Skončiť</item>
         <item>Ukončiť hovor</item>
+        <item>Prejsť na</item>
         <item>Hang up</item>
         <item>Reject</item>
         <item>*Swipe to reject incoming call*</item>
@@ -527,6 +543,7 @@
         <item>Switch to the previous element</item>
         <item>Previous track</item>
         <item>Navigate up</item>
+        <item>Decline</item>
     </string-array>
     <string-array name="left_menu_items">
         <item>@string/command_auto_next</item>
@@ -606,12 +623,14 @@
     </string-array>
     <string-array name="right_button">
         <item>Prijať hovor</item>
+        <item>Prijať</item>
         <item>Answer call</item>
         <item>*Swipe to answer the call*</item>
         <item>Handsfree mode</item>
         <item>Speaker mode</item>
         <item>Switch to the next element</item>
         <item>Next track</item>
+        <item>Accept</item>
     </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
@@ -814,31 +833,77 @@
         <item>Nadpisy</item>
         <item>Odkazy</item>
         <item>Tlačidlá</item>
-        <item>Posúvanie</item>
+        <item>Tabuľky</item>
+        <item>Textové vstupy</item>
+        <item>Zamerateľné</item>
+        <item>Ovládacie prvky</item>
+        <item>Obrázky</item>
+        <item>Zaškrtávacie polia</item>
+        <item>Kombinované polia</item>
+        <item>Formuláre</item>
+        <item>Zoznamy</item>
+        <item>Položky zoznamu</item>
+        <item>Posuvníky</item>
         <item>Zobrazenie</item>
+        <item>Znaky</item>
+        <item>Slová</item>
+        <item>Riadky</item>
+        <item>Odseky</item>
+        <item>Strany</item>
+        <item>Kopírovať a pripojiť</item>
+        <item>Hlasitosť médií</item>
+        <item>Tempo reči</item>
+        <item>Rozpoznať a preložiť</item>
     </string-array>
 
     <string-array name="hot_key_help_items" >
-        <item>CTRL+DPAD_UP: 上个焦点</item>
-        <item>CTRL+DPAD_DOWN: 下个焦点</item>
-        <item>CTRL+DPAD_LEFT: 左快捷功能</item>
-        <item>CTRL+DPAD_RIGHT: 右快捷功能</item>
-        <item>CTRL+PAGE_DOWN: 向下滚动</item>
-        <item>CTRL+PAGE_DOWN: 向上滚动</item>
-        <item>CTRL+H: 主屏幕</item>
-        <item>CTRL+N: 通知栏</item>
-        <item>CTRL+P: 最近任务</item>
-        <item>CTRL+SPACE: 点击</item>
-        <item>CTRL+L: 长按</item>
-        <item>CTRL+Q: 快速设置</item>
+        <item>CTRL+šípka hore: Prejsť na položku vyššie</item>
+        <item>CTRL+Šípka dolu: Prejsť na položku nižšie</item>
+        <item>CTRL+Šípka vľavo: Prejsť na predchádzajúcu položku</item>
+        <item>CTRL+Šípka vpravo: Prejsť na nasledujúcu položku</item>
+        <item>CTRL+PAGE_DOWN: Prejsť na ďalšiu stranu</item>
+        <item>CTRL+PAGE_UP: Prejsť na predchádzajúcu stranu</item>
+        <item>CTRL+H: Domovská obrazovka</item>
+        <item>CTRL+N: Oznámenia</item>
+        <item>CTRL+P: Nedávne aplikácie</item>
+        <item>CTRL+MEDZERA: Kklepnutie</item>
+        <item>CTRL+L: Dlhé klepnutie</item>
+        <item>CTRL+Q: Rýchle nastavenia</item>
 
-        <item>ALT+M: 主菜单</item>
-        <item>ALT+A: 操作菜单</item>
-        <item>ALT+P: 扩展插件</item>
-        <item>ALT+T: 扩展工具</item>
-        <item>ALT+V: 语音助手</item>
-        <item>ALT+S: 拆分编辑</item>
-        <item>ALT+L: 列表浏览</item>
+        <item>ALT+M: Hlavná ponuka</item>
+        <item>ALT+A: Ponuka akcií</item>
+        <item>ALT+P: Doplnky a rozšírenia</item>
+        <item>ALT+T: Nástroje</item>
+        <item>ALT+V: Hlasový asistent</item>
+        <item>ALT+S: Delená úprava textu</item>
+        <item>ALT+L: Prechádzanie zoznamu</item>
+
+    </string-array>
+    <string-array name="view_type_title">
+        <item>Predvolené</item>
+        <item>Text</item>
+        <item>Tlačidlá</item>
+        <item>Textové vstupy</item>
+        <item>Obrázky</item>
+        <item>Zaškrtávacie polia</item>
+        <item>Indikátory priebehu</item>
+        <item>Zoznamy</item>
+        <item>Položky zoznamu</item>
+        <item>Zamerateľné</item>
+        <item>Kliknuteľné</item>
+        <item>Objekty</item>
+        <item>posuvníky</item>
+        <item>Vertikálna navigácia</item>
+
+        <item>Znaky</item>
+        <item>Slová</item>
+        <item>Riadky</item>
+        <item>Odseky</item>
+        <item>Strany</item>
+        <item>Kopírovať a pripojiť</item>
+        <item>Hlasitosť médií</item>
+        <item>Tempo reči</item>
+        <item>Rozpoznať a preložiť</item>
 
     </string-array>
 </resources>

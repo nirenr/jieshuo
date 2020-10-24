@@ -6,6 +6,13 @@
         <item>@string/directory_cmd</item>
         <item>@string/directory_tools</item>
         <item>@string/app</item>
+        <item>@string/select_granularity_mode</item>
+        <item>@string/to_previous_granularity</item>
+        <item>@string/to_next_granularity</item>
+        <item>@string/to_previous_granularity_item</item>
+        <item>@string/to_next_granularity_item</item>
+
+        <item>@string/command_raw_tap</item>
         <item>@string/command_to_previous_focus</item>
         <item>@string/command_to_next_focus</item>
         <item>@string/command_start</item>
@@ -88,6 +95,11 @@
         <item>@string/raw_swipe_right</item>
         <item>@string/raw_swipe_up</item>
         <item>@string/raw_swipe_down</item>
+        <item>@string/command_quick_settings</item>
+        <item>@string/command_take_screenshot</item>
+        <item>@string/command_off_screen2</item>
+        <item>@string/command_power_dialog</item>
+        <item>@string/command_raw_double_tap</item>
     </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
@@ -535,32 +547,85 @@
         <item>Nagłówki</item>
         <item>Linki</item>
         <item>Przyciski</item>
+
+        <item>Grafika</item>
+        <item>Pole edycji</item>
+        <item>Fokus</item>
+        <item>Kontrolki</item>
+        <item>Obrazek</item>
+        <item>Pole wyboru</item>
+        <item>Pole combo</item>
+        <item>Formularz</item>
+        <item>Lista</item>
+        <item>Element listy</item>
+
         <item>Scroll</item>
         <item>Ramki</item>
+
+        <item>Znaki</item>
+        <item>Słowa</item>
+        <item>Linie</item>
+        <item>Paragrafy</item>
+        <item>Strony</item>
+        <item>Kopiuj</item>
+        <item>Głośność</item>
+        <item>Szybkość mowy</item>
+        <item>Rozpoznawanie </item>
     </string-array>
 
     <string-array name="hot_key_help_items" >
-        <item>CTRL+DPAD_UP: 上个焦点</item>
-        <item>CTRL+DPAD_DOWN: 下个焦点</item>
-        <item>CTRL+DPAD_LEFT: 左快捷功能</item>
-        <item>CTRL+DPAD_RIGHT: 右快捷功能</item>
-        <item>CTRL+PAGE_DOWN: 向下滚动</item>
-        <item>CTRL+PAGE_DOWN: 向上滚动</item>
-        <item>CTRL+H: 主屏幕</item>
-        <item>CTRL+N: 通知栏</item>
-        <item>CTRL+P: 最近任务</item>
-        <item>CTRL+SPACE: 点击</item>
-        <item>CTRL+L: 长按</item>
-        <item>CTRL+Q: 快速设置</item>
+        <item>CTRL+DPAD_UP: Ostatni fokus</item>
+        <item>CTRL+DPAD_DOWN: Następny element</item>
+        <item>CTRL+DPAD_LEFT: Funkcja lewego skrótu</item>
+        <item>CTRL+DPAD_RIGHT: Funkcja prawego skrótu</item>
+        <item>CTRL+PAGE_UP: Przewiń do góry</item>
+        <item>CTRL+PAGE_DOWN: Przewiń w dół</item>
+        <item>CTRL+H: Ekran główny</item>
+        <item>CTRL+N: Panel powiadomień</item>
+        <item>CTRL+P: Ostatnio używane aplikacjie</item>
+        <item>CTRL+SPACE: Kliknij</item>
+        <item>CTRL+L: Długo kliknij</item>
+        <item>CTRL+Q: Szybkie ustawienia</item>
 
-        <item>ALT+M: 主菜单</item>
-        <item>ALT+A: 操作菜单</item>
-        <item>ALT+P: 扩展插件</item>
-        <item>ALT+T: 扩展工具</item>
-        <item>ALT+V: 语音助手</item>
-        <item>ALT+S: 拆分编辑</item>
-        <item>ALT+L: 列表浏览</item>
+        <item>ALT+M: Menu główne</item>
+        <item>ALT+A: Menu zasilania</item>
+        <item>ALT+P: Działania</item>
+        <item>ALT+T: Rozszerzenia</item>
+        <item>ALT+V: Asystent głosowy</item>
+        <item>ALT+S: Edycja</item>
+        <item>ALT+L: Przeglądanie listy</item>
 
     </string-array>
+      <string-array name="view_type_title" >
+        <item>Domyślne</item>
+        <item>Tekst</item>
+        <item>Przycisk</item>
+        <item>Pole edycji</item>
+
+        <item>Obrazek</item>
+        <item>Pole wyboru</item>
+        <item>Pasek postępu</item>
+        <item>Lista</item>
+        <item>Element listy</item>
+        <item>Fokusowalny</item>
+        <item>Klikalne</item>
+        <item>Węzeł</item>
+        <item>Suwak</item>
+        <item>Przesunięcie pionowe</item>
+
+
+
+        <item>Znaki</item>
+        <item>Słowa</item>
+        <item>Linie</item>
+        <item>Paragrafy</item>
+        <item>Strony</item>
+        <item>kopiuj</item>
+        <item>Głośność</item>
+        <item>Szybkość mowy</item>
+        <item>Rozpoznawani</item>
+
+    </string-array>
+
 
 </resources>

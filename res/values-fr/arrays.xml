@@ -6,6 +6,13 @@
         <item>@string/directory_cmd</item>
         <item>@string/directory_tools</item>
         <item>@string/app</item>
+        <item>@string/select_granularity_mode</item>
+        <item>@string/to_previous_granularity</item>
+        <item>@string/to_next_granularity</item>
+        <item>@string/to_previous_granularity_item</item>
+        <item>@string/to_next_granularity_item</item>
+
+        <item>@string/command_raw_tap</item>
         <item>@string/command_to_previous_focus</item>
         <item>@string/command_to_next_focus</item>
         <item>@string/command_start</item>
@@ -88,6 +95,11 @@
         <item>@string/raw_swipe_right</item>
         <item>@string/raw_swipe_up</item>
         <item>@string/raw_swipe_down</item>
+        <item>@string/command_quick_settings</item>
+        <item>@string/command_take_screenshot</item>
+        <item>@string/command_off_screen2</item>
+        <item>@string/command_power_dialog</item>
+        <item>@string/command_raw_double_tap</item>
     </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
@@ -180,10 +192,10 @@
         <item>Fermer*</item>
         <item>Abandonner*</item>
         <item>Effacer*</item>
-        <item>*Wi-Fi*</item>
+        <item>Wi-Fi*</item>
         <item>Refuser</item>
-        <item>Désinstaller</item>
-        <item>Revenir en*</item>
+        <item>RAM totale*</item>
+        <item>Revenir en arrière de*</item>
         <item>Retour arrière</item>
     </string-array>
     <string-array name="right_button">
@@ -194,7 +206,6 @@
         <item>Avance*</item>
         <item>Avancer*	</item>
     </string-array>
-
     <string-array name="voice_recognizer_values">
         <item>3</item>
         <item>0</item>
@@ -311,17 +322,17 @@
         <item>100</item>
     </string-array>
     <!--string-array name="tts_speaker_title">
-        <item>Female voice</item>
-        <item>male voice</item>
-        <item>Happy</item>
-        <item>Du ya ya</item>
-    </string-array>
-    <string-array name="tts_speaker">
-        <item>0</item>
-        <item>1</item>
-        <item>3</item>
-        <item>4</item>
-    </string-array-->
+          <item>Female voice</item>
+          <item>male voice</item>
+          <item>Happy</item>
+          <item>Du ya ya</item>
+      </string-array>
+      <string-array name="tts_speaker">
+          <item>0</item>
+          <item>1</item>
+          <item>3</item>
+          <item>4</item>
+      </string-array-->
     <string-array name="vibrate_intensity_entries">
         <item>Light</item>
         <item>Moyen</item>
@@ -535,32 +546,72 @@
         <item>Titre</item>
         <item>Lien</item>
         <item>Bouton</item>
+        <item>point de repère</item>
+        <item>Zone d\'édition</item>
+        <item>focus</item>
+        <item>Contrôles</item>
+        <item>image</item>
+        <item>Case à cocher</item>
+        <item>zone de liste</item>
+        <item>tableaux</item>
+        <item>liste</item>
+        <item>Élément de liste</item>
         <item>défilement</item>
-        <item>Tous les types du contenu</item>
+        <item>Tous les types</item>
+        <item>Caractères</item>
+        <item>Mots</item>
+        <item>Lignes</item>
+        <item>Paragraphe</item>
+        <item>Page</item>
+        <item>Copier</item>
+        <item>Volume</item>
+        <item>Vitesse</item>
+        <item>Traduction et reconnaissance</item>
     </string-array>
-
-    <string-array name="hot_key_help_items" >
-        <item>CTRL+DPAD_UP: 上个焦点</item>
-        <item>CTRL+DPAD_DOWN: 下个焦点</item>
-        <item>CTRL+DPAD_LEFT: 左快捷功能</item>
-        <item>CTRL+DPAD_RIGHT: 右快捷功能</item>
-        <item>CTRL+PAGE_DOWN: 向下滚动</item>
-        <item>CTRL+PAGE_DOWN: 向上滚动</item>
-        <item>CTRL+H: 主屏幕</item>
-        <item>CTRL+N: 通知栏</item>
-        <item>CTRL+P: 最近任务</item>
-        <item>CTRL+SPACE: 点击</item>
-        <item>CTRL+L: 长按</item>
-        <item>CTRL+Q: 快速设置</item>
-
-        <item>ALT+M: 主菜单</item>
-        <item>ALT+A: 操作菜单</item>
-        <item>ALT+P: 扩展插件</item>
-        <item>ALT+T: 扩展工具</item>
-        <item>ALT+V: 语音助手</item>
-        <item>ALT+S: 拆分编辑</item>
-        <item>ALT+L: 列表浏览</item>
-
+    <string-array name="hot_key_help_items">
+        <item>CTRL+DPAD_UP: éléments précédents</item>
+        <item>CTRL+DPAD_DOWN: éléments suivants</item>
+        <item>CTRL+DPAD_LEFT: balayage vers le haut</item>
+        <item>CTRL+DPAD_RIGHT: balayage vers le bas</item>
+        <item>CTRL+PAGE_UP: Faites défiler vers l\'arrière</item>
+        <item>CTRL+PAGE_DOWN: Faites défiler vers l\'avant</item>
+        <item>CTRL+H: Écran d\'accueil</item>
+        <item>CTRL+N: panneau de notification</item>
+        <item>CTRL+P: Applications ouvertes</item>
+        <item>CTRL+SPACE: Cliquez	</item>
+        <item>CTRL+L: pression prolongée</item>
+        <item>CTRL+Q: paramètres rapides</item>
+        <item>ALT+M: Menu principal</item>
+        <item>ALT+A: menu d\'actions</item>
+        <item>ALT+P: plugins</item>
+        <item>ALT+T: Outils</item>
+        <item>ALT+V: Assistant vocal</item>
+        <item>ALT+S: Fractionner et modifier le texte</item>
+        <item>ALT+L: Navigation dans la liste</item>
     </string-array>
-
+    <string-array name="view_type_title">
+        <item>par défaut</item>
+        <item>texte</item>
+        <item>Bouton</item>
+        <item>Zone d\'édition</item>
+        <item>image</item>
+        <item>Case à cocher</item>
+        <item>barre du défilement.</item>
+        <item>liste</item>
+        <item>Élément de liste</item>
+        <item>focus</item>
+        <item>Focus cliquable.</item>
+        <item>nœud</item>
+        <item>défilement</item>
+        <item>Navigation verticale</item>
+        <item>Caractères</item>
+        <item>Mots</item>
+        <item>Lignes</item>
+        <item>Paragraphe</item>
+        <item>page</item>
+        <item>Copier</item>
+        <item>Volume</item>
+        <item>Vitesse</item>
+        <item>Traduction et reconnaissance</item>
+    </string-array>
 </resources>

@@ -6,6 +6,13 @@
         <item>@string/directory_cmd</item>
         <item>@string/directory_tools</item>
         <item>@string/app</item>
+        <item>@string/select_granularity_mode</item>
+        <item>@string/to_previous_granularity</item>
+        <item>@string/to_next_granularity</item>
+        <item>@string/to_previous_granularity_item</item>
+        <item>@string/to_next_granularity_item</item>
+
+        <item>@string/command_raw_tap</item>
         <item>@string/command_to_previous_focus</item>
         <item>@string/command_to_next_focus</item>
         <item>@string/command_start</item>
@@ -59,6 +66,7 @@
         <item>@string/command_verbatim_speak2</item>
         <item>@string/char_mode</item>
         <item>@string/command_auto_next</item>
+        <item>@string/auto_previous</item>
         <item>@string/split_menu_title</item>
         <item>@string/split_edit_title</item>
         <item>@string/list_mode_title</item>
@@ -87,6 +95,11 @@
         <item>@string/raw_swipe_right</item>
         <item>@string/raw_swipe_up</item>
         <item>@string/raw_swipe_down</item>
+        <item>@string/command_quick_settings</item>
+        <item>@string/command_take_screenshot</item>
+        <item>@string/command_off_screen2</item>
+        <item>@string/command_power_dialog</item>
+        <item>@string/command_raw_double_tap</item>
     </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
@@ -534,32 +547,85 @@
         <item>Cabeçalho</item>
         <item>Link</item>
         <item>Botão</item>
+
+        <item>ponto de referência</item>
+        <item>Caixa de edição</item>
+        <item>foco</item>
+        <item>Controles</item>
+        <item>imagem</item>
+        <item>Caixa de verificação</item>
+        <item>Caixa combinada</item>
+        <item>Formulário</item>
+        <item>Lista</item>
+        <item>Item de lista</item>
+
         <item>Mudança de página</item>
         <item>Visualizar</item>
+
+        <item>Caractere</item>
+        <item>Palavra</item>
+        <item>Linha</item>
+        <item>Parágrafo</item>
+        <item>Página</item>
+        <item>Copiar / Adicionar</item>
+        <item>volume</item>
+        <item>Velocidade de fala</item>
+        <item>Traduzir</item>
     </string-array>
 
     <string-array name="hot_key_help_items" >
-        <item>CTRL+DPAD_UP: 上个焦点</item>
-        <item>CTRL+DPAD_DOWN: 下个焦点</item>
-        <item>CTRL+DPAD_LEFT: 左快捷功能</item>
-        <item>CTRL+DPAD_RIGHT: 右快捷功能</item>
-        <item>CTRL+PAGE_DOWN: 向下滚动</item>
-        <item>CTRL+PAGE_DOWN: 向上滚动</item>
-        <item>CTRL+H: 主屏幕</item>
-        <item>CTRL+N: 通知栏</item>
-        <item>CTRL+P: 最近任务</item>
-        <item>CTRL+SPACE: 点击</item>
-        <item>CTRL+L: 长按</item>
-        <item>CTRL+Q: 快速设置</item>
+        <item>CTRL+DPAD_UP: Foca o último item</item>
+        <item>CTRL+DPAD_DOWN: Foca o próximo item</item>
+        <item>CTRL+DPAD_LEFT: Aciona o atalho esquerdo</item>
+        <item>CTRL+DPAD_RIGHT: Aciona o atalho direito</item>
+        <item>CTRL+PAGE_UP: Rola para cima</item>
+        <item>CTRL+PAGE_DOWN: Rola para baixo</item>
+        <item>CTRL+H: Vai para a Home</item>
+        <item>CTRL+N: Vai para a barra de notificações</item>
+        <item>CTRL+P: Abre a lista de recentes</item>
+        <item>CTRL+SPACE: Clica em um item</item>
+        <item>CTRL+L: Mantêm pressionado</item>
+        <item>CTRL+Q: Abre a configuração rápida</item>
 
-        <item>ALT+M: 主菜单</item>
-        <item>ALT+A: 操作菜单</item>
-        <item>ALT+P: 扩展插件</item>
-        <item>ALT+T: 扩展工具</item>
-        <item>ALT+V: 语音助手</item>
-        <item>ALT+S: 拆分编辑</item>
-        <item>ALT+L: 列表浏览</item>
+        <item>ALT+M: Abre o menu principal</item>
+        <item>ALT+A: Abre o menu ações</item>
+        <item>ALT+P: Abre o menu de Extensões</item>
+        <item>ALT+T: Abre o menu de Ferramentas e plugins</item>
+        <item>ALT+V: Abre o Assistente de Voz</item>
+        <item>ALT+S: Abre o menu de Edição</item>
+        <item>ALT+L: Navega por listas</item>
 
     </string-array>
+      <string-array name="view_type_title" >
+        <item>padrão</item>
+        <item>texto</item>
+        <item>Botão</item>
+        <item>Caixa de edição</item>
+
+        <item>imagem</item>
+        <item>Caixa de verificação</item>
+        <item>Barra de progresso</item>
+        <item>Lista</item>
+        <item>Item de lista</item>
+        <item>Focável</item>
+        <item>Clicável</item>
+        <item>Nó </item>
+        <item>Barra de rolagem</item>
+        <item>Mover verticalmente</item>
+
+
+
+        <item>Caractere</item>
+        <item>Palavra</item>
+        <item>Linha</item>
+        <item>Parágrafo</item>
+        <item>Página </item>
+        <item>copiar / adicionar</item>
+        <item>volume</item>
+        <item>Velocidade de fala</item>
+        <item>Traduzir</item>
+
+    </string-array>
+
 
 </resources>

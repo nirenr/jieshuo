@@ -132,7 +132,7 @@
     <string name="use_progress_title">Ler automaticamente as barras de progresso: </string>
     <string name="use_scroll_list_index_title">Ler informações sobre o item na lista atual: </string>
     <string name="use_content_changed_title">Informar alterações em conteúdos dinâmicos: </string>
-    <string name="use_double_fling_title">Usar gestos multitoques: </string>
+    <string name="use_double_fling_title">Usar gestos duplos: </string>
     <string name="use_view_name_title">Lê o nome do controle focado: </string>
     <string name="permissions_settings_title">Configurações de Permissões</string>
     <string name="use_node_info_title">Ler informações do nó atual</string>
@@ -636,57 +636,57 @@
     <string name="down_left_double_fling_down_gesture_value_default">@string/command_long_copy</string>
 
 
-    <string name="use_down_right_double_fling_gesture_title">Usar o gesto com dois dedos abaixo e a direita</string>
-    <string name="use_down_left_double_fling_gesture_title">Usar o gesto com dois dedos abaixo e a esquerda</string>
+    <string name="use_down_right_double_fling_gesture_title">Usar o gesto duplo abaixo e a direita</string>
+    <string name="use_down_left_double_fling_gesture_title">Usar o gesto duplo abaixo e a esquerda</string>
 
 
-    <string name="right_double_fling_setting">Configurações do gesto de varrer para a direita com dois dedos</string>
-    <string name="use_right_double_fling_gesture_title">Usar o gesto de varrer com dois dedos para a direita</string>
+    <string name="right_double_fling_setting">Configurações do gesto duplo para a direita </string>
+    <string name="use_right_double_fling_gesture_title">Usar o gesto duplo para a direita</string>
 
-    <string name="left_double_fling_setting">Configurações do gesto de varrer com dois dedos para a esquerda</string>
-    <string name="use_left_double_fling_gesture_title">Usar o gesto de varrer com dois dedos para a esquerda</string>
-
-
-    <string name="up_double_fling_setting">Configuração do gesto de varrer para cima com dois dedos</string>
-    <string name="use_up_double_fling_gesture_title">Usar o gesto de varrer com dois dedos para cima</string>
-
-    <string name="down_double_fling_setting">Configurações do gesto de varrer para baixo com dois dedos</string>
-    <string name="use_down_double_fling_gesture_title">Usar o gesto de varrer para baixo com dois dedos</string>
+    <string name="left_double_fling_setting">Configurações do gesto duplo para a esquerda</string>
+    <string name="use_left_double_fling_gesture_title">Usar o gesto duplo para a esquerda</string>
 
 
-    <string name="up_left_double_fling_setting">Configurações do gesto de varrer para cima e a esquerda com dois dedos</string>
-    <string name="use_up_left_double_fling_gesture_title">Usar o gesto de varrer para cima e para a esquerda com dois dedos</string>
+    <string name="up_double_fling_setting">Configuração do gesto duplo para cima com dois dedos</string>
+    <string name="use_up_double_fling_gesture_title">Usar o gesto duplo para cima</string>
 
-    <string name="up_right_double_fling_setting">Cnfigurações do gesto de varrer para cima e para a direita com dois dedos</string>
-    <string name="use_up_right_double_fling_gesture_title">Usar o gesto de varrer para cima e a direita com dois dedos</string>
-
-
-    <string name="right_left_double_fling_setting">Configurações do gesto de varrer da direita para a esquerda com dois dedos</string>
-    <string name="use_right_left_double_fling_gesture_title">Usar o Gesto de varrer para a direita e para a esquerda com dois dedos</string>
-
-    <string name="left_right_double_fling_setting">Configurações do gesto de varrer da esquerda para direita com dois dedos</string>
-    <string name="use_left_right_double_fling_gesture_title">Usar o gesto de varrer da esquerda para a direita com dois dedos.</string>
+    <string name="down_double_fling_setting">Configurações do gesto duplo para baixo com dois dedos</string>
+    <string name="use_down_double_fling_gesture_title">Usar o gesto duplo para baixo com dois dedos</string>
 
 
-    <string name="up_down_double_fling_setting">Configurações do gesto de varrer para cima e para baixo com dois dedos</string>
-    <string name="use_up_down_double_fling_gesture_title">Usar o gesto de varrer com dois dedos de cima para baixo</string>
+    <string name="up_left_double_fling_setting">Configurações do gesto duplo para cima e a esquerda</string>
+    <string name="use_up_left_double_fling_gesture_title">Usar o gesto duplo para cima e para a esquerda </string>
 
-    <string name="down_up_double_fling_setting">Configurações do gesto de varrer de baixo para cima com dois dedos</string>
-    <string name="use_down_up_double_fling_gesture_title">Usar o gesto de varrer com dois dedos de baixo para cima</string>
-
-
-    <string name="left_down_double_fling_setting">Configurações do gesto de varrer da esquerda e para baixo com dois dedos</string>
-    <string name="use_left_down_double_fling_gesture_title">Usar o gesto de varrer com dois dedos da esquerda e abaixo</string>
-
-    <string name="left_up_double_fling_setting">Configuração do gesto de varrer da esquerda e para cima com dois dedos</string>
-    <string name="use_left_up_double_fling_gesture_title">Usar o gesto de varrer com dois dedos da esquerda e para cima</string>
+    <string name="up_right_double_fling_setting">Cnfigurações do gesto duplo para cima e para a direita </string>
+    <string name="use_up_right_double_fling_gesture_title">Usar o gesto duplo para cima e a direita </string>
 
 
-    <string name="right_down_double_fling_setting">Configurações do gesto de varrer da direita e para baixo com dois dedos</string>
-    <string name="use_right_down_double_fling_gesture_title">Usar o gesto de varrer com dois dedos da direita e para baixo</string>
+    <string name="right_left_double_fling_setting">Configurações do gesto duplo da direita para a esquerda </string>
+    <string name="use_right_left_double_fling_gesture_title">Usar o Gesto duplo para a direita e para a esquerda </string>
 
-    <string name="right_up_double_fling_setting">Configurações do gesto para direita e para cima com dois dedos</string>
-    <string name="use_right_up_double_fling_gesture_title">Usar o gesto de varrer com dois dedos da direita e para cima</string>
+    <string name="left_right_double_fling_setting">Configurações do gesto duplo da esquerda para direita </string>
+    <string name="use_left_right_double_fling_gesture_title">Usar o gesto duplo da esquerda para a direita </string>
+
+
+    <string name="up_down_double_fling_setting">Configurações do gesto duplo para cima e para baixo </string>
+    <string name="use_up_down_double_fling_gesture_title">Usar o gesto duplo de cima para baixo</string>
+
+    <string name="down_up_double_fling_setting">Configurações do gesto duplo de baixo para cima </string>
+    <string name="use_down_up_double_fling_gesture_title">Usar o gesto duplo de baixo para cima</string>
+
+
+    <string name="left_down_double_fling_setting">Configurações do gesto duplo da esquerda e para baixo </string>
+    <string name="use_left_down_double_fling_gesture_title">Usar o gesto duplo da esquerda e abaixo</string>
+
+    <string name="left_up_double_fling_setting">Configuração do gesto duplo da esquerda e para cima </string>
+    <string name="use_left_up_double_fling_gesture_title">Usar o gesto duplo da esquerda e para cima</string>
+
+
+    <string name="right_down_double_fling_setting">Configurações do gesto duplo da direita e para baixo </string>
+    <string name="use_right_down_double_fling_gesture_title">Usar o gesto duplo da direita e para baixo</string>
+
+    <string name="right_up_double_fling_setting">Configurações do gesto duplo para direita e para cima </string>
+    <string name="use_right_up_double_fling_gesture_title">Usar o gesto duplo da direita e para cima</string>
 
     <string name="command_speak">Falar</string>
     <string name="command_intput">Entrada</string>
@@ -1058,52 +1058,113 @@
     <string name="msg_plugin_run_error">Primeira execução do Jieshuo plug-in funcionalidade de acessibilidade</string>
     <string name="input_file_name">Informe o nome do arquivo</string>
     <string name="input_project_name">Informe o nome do projeto</string>
-    <string name="use_loop_move_title">循环滚动焦点</string>
-    <string name="message_cut">已剪切</string>
-    <string name="choice_mode_multiple">多选模式</string>
-    <string name="add_from_grid">通过网格添加</string>
-<string name="sound_settings_title">音效方案设置</string>
-    <string name="sound_focus1">可点击焦点</string>
-    <string name="sound_focus2">可聚焦焦点</string>
-    <string name="sound_focus3">键盘焦点</string>
-    <string name="sound_focus4">不可聚焦焦点</string>
-    <string name="sound_focus0">列表焦点</string>
-    <string name="sound_click">点击</string>
-    <string name="sound_long_click">长按</string>
-<string name="sound_scroll_up">向上滚动</string>
-    <string name="sound_scroll_down">向下滚动</string>
-    <string name="sound_beep">警告</string>
-    <string name="sound_tick">计时</string>
-    <string name="sound_clock">整点</string>
-    <string name="sound_screen_off">关屏</string>
-    <string name="sound_screen_on">开屏</string>
-    <string name="sound_window_state">窗口改变</string>
-    <string name="sound_dialog">对话框</string>
-    <string name="sound_gesture_start">手势开始</string>
-    <string name="sound_gesture_end">手势结束</string>
-    <string name="recognition_start">识别开始</string>
-    <string name="recognition_end">识别结束</string>
-    <string name="recognition_success">识别成功</string>
-    <string name="recognition_error">识别出错</string>
-    <string name="recognition_cancel">识别取消</string>
-    <string name="command_quick_settings">快速设置</string>
-    <string name="command_take_screenshot">截屏</string>
-    <string name="command_off_screen2">关屏</string>
-    <string name="command_power_dialog">关机菜单</string>
-    <string name="use_bottom_menu_edge_gesture_summary">底部边缘手势可以执行返回，主屏幕，打开通知栏，打开最近任务等功能。</string>
-    <string name="use_bottom_menu_edge_gesture_title">底部边缘手势</string>
-    <string name="all">全部</string>
-    <string name="create_hot_key">创建快捷键方案</string>
-    <string name="create_app_hot_key">创建单应用快捷键方案</string>
-    <string name="hot_key">快捷键</string>
-    <string name="hot_key_package_title">快捷键方案</string>
-    <string name="hot_key_description_title">快捷键方案说明</string>
-    <string name="hot_key_settings_title">快捷键方案设置</string>
-    <string name="custom_hot_key_settings_title">自定义快捷键方案设置</string>
-    <string name="app_hot_key_package_title">单应用快捷键方案设置</string>
-    <string name="app_hot_key_package_summary">为单个应用配置快捷键方案</string>
-    <string name="directory_hot_key">热键</string>
-    <string name="hot_key_summary">按下需要设置的按键，不支持单独的字母键和数字键</string>
+    <string name="use_loop_move_title"> Ciclo de foco de rolagem</string>
+    <string name="message_cut">Recortar</string>
+    <string name="choice_mode_multiple">Modo de seleção múltipla</string>
+    <string name="add_from_grid">Adicionar através da grade</string>
+    <string name="sound_settings_title">Configurações do Tema de Som</string>
+    <string name="sound_focus1">Item clicável</string>
+    <string name="sound_focus2">Item focável</string>
+    <string name="sound_focus3">Foco via Teclado</string>
+    <string name="sound_focus4">Fora do foco</string>
+    <string name="sound_focus0">Foco em lista</string>
+    <string name="sound_click">Toque</string>
+    <string name="sound_long_click">Toque longo</string>
+    <string name="sound_scroll_up">Rolar para cima</string>
+    <string name="sound_scroll_down">Rolar para baixo</string>
+    <string name="sound_beep">警告Bip</string>
+    <string name="sound_tick">Cronômetro</string>
+    <string name="sound_clock">Hora</string>
+    <string name="sound_screen_off">Bloquear a tela</string>
+    <string name="sound_screen_on">Desbloquear a tela</string>
+    <string name="sound_window_state">Mudança de janela</string>
+    <string name="sound_dialog">Caixa de diálogo</string>
+    <string name="sound_gesture_start">Iniciando um gesto</string>
+    <string name="sound_gesture_end">Finalizando um gesto</string>
+    <string name="recognition_start">Iniciando reconhecimento</string>
+    <string name="recognition_end">Finalizando o reconhecimento</string>
+    <string name="recognition_success">Reconhecido com sucesso</string>
+    <string name="recognition_error">Erro no Reconhecimento</string>
+    <string name="recognition_cancel">Cancelamento do reconhecimento</string>
+    <string name="command_quick_settings">Configuração Rápida</string>
+    <string name="command_take_screenshot">Captura de tela</string>
+    <string name="command_off_screen2">Tela bloqueada</string>
+    <string name="command_power_dialog">Menu desligar</string>
+    <string name="use_bottom_menu_edge_gesture_summary">O gesto na borda inferior pode executar funções tais como Voltar, ir para a Home, abrir a barra de notificações, abrir tarefas recentes, etc.。</string>
+    <string name="use_bottom_menu_edge_gesture_title">Gesto na borda inferior</string>
+    <string name="all">Tudo</string>
+    <string name="create_hot_key">Criar esquema de teclas de atalho</string>
+    <string name="create_app_hot_key">Criar um esquema de teclas de atalho para um aplicativo</string>
+    <string name="hot_key">tecla de atalho</string>
+    <string name="hot_key_package_title">Esquema de teclas de atalho</string>
+    <string name="hot_key_description_title">Descrição da função das teclas de atalho</string>
+    <string name="hot_key_settings_title">Configurações do esquema de teclas de atalho</string>
+    <string name="custom_hot_key_settings_title">Personalizar as Configurações do esquema de teclas de atalho</string>
+    <string name="app_hot_key_package_title">Configuração do esquema de teclas de atalho para um aplicativo</string>
+    <string name="app_hot_key_package_summary">Configurar teclas de atalho para um aplicativo</string>
+    <string name="directory_hot_key">Tecla</string>
+    <string name="hot_key_summary">Pressione a tecla a ser definida. As teclas alfanuméricas não são suportadas</string>
+    <string name="sound_timer_end">Som de fim do cronômetro</string>
+    <string name="sound_timer_start">Som de início do cronômetro</string>
+    <string name="use_scroll_list_content_title">O gesto percorre a lista e lê tudo o que é visível</string>
+    <string name="use_view_type_move_title">Usar Granularidade do Jieshuo</string>
+    <string name="use_view_type_move_summary">Use a varredura para cima ou para baixo para selecionar uma opção, e depois para esquerda e direita para selecionar um valor. Estes gestos podem ser personalizados caso haja conflitos.</string>
+    <string name="command_raw_double_tap">Duplo toque</string>
+    <string name="to_previous_granularity_item">Último item de navegação</string>
+    <string name="to_next_granularity_item">Próximo item de navegação</string>
+    <string name="to_previous_granularity">Último tipo de navegação</string>
+    <string name="to_next_granularity">Próximo tipo de navegação</string>
+    <string name="select_granularity_mode">Selecione o tipo de navegação</string>
+    <string name="web_type_move_title">Modo navegação Web em uso</string>
+    <string name="view_type_move_title">Modo navegação em uso</string>
+    <string name="notification_in_touch_no_speak_title">Ativar não perturbe enquanto a tela estiver sendo pressionada</string>
+
+    <string name="use_keep_type_move_title">Continuar movendo o tipo ao mudar de janela</string>
+    <string name="hot_key_manager_title">Gerenciamento de teclas de atalho</string>
+    <string name="msg_hot_key_empty">Não foi atribuida nenhuma tecla de atalho</string>
+    <string name="cloud_backup_hot_key_title">Backup das Teclas de atalho</string>
+    <string name="cloud_restore_hot_key_title">Restaurar as Teclas de atalho</string>
+    <string name="use_multi_touch_mode_title">Usar gestos com vários dedos</string>
+    <string name="msg_added">adicionado</string>
+    <string name="msg_add_error">Erro ao adicionar, tente novamente</string>
+    <string name="select_move_type_">Selecione o tipo de navegação</string>
+    <string name="msg_cancel_select">cancelar seleção</string>
+    <string name="msg_start_select">Iniciar seleção</string>
+    <string name="msg_all_copyed">Tudo copiado</string>
+    <string name="scan_all_res">Analisar todos os recursos</string>
+    <string name="scanning">Analisando...</string>
+    <string name="scaned">Pesquisando resultados</string>
+    <string name="import_file">Importar arquivo</string>
+    <string name="overwrite_file">Substituir arquivo</string>
+    <string name="gesture_2_single_tap">Toque com dois dedos</string>
+    <string name="gesture_3_single_tap">Toque com três dedos</string>
+    <string name="gesture_4_single_tap">Toque com quatro dedos</string>
+    <string name="gesture_2_double_tap">Toque duplo com dois dedos</string>
+    <string name="gesture_3_double_tap">Toque duplo com três dedos</string>
+    <string name="gesture_4_double_tap">Toque duplo com quatro dedos</string>
+    <string name="gesture_2_triple_tap">Toque triplo com dois dedos</string>
+    <string name="gesture_3_triple_tap">Toque triplo com três dedos</string>
+    <string name="gesture_4_triple_tap">Toque triplo com quatro dedos</string>
+    <string name="gesture_2_double_tap_hold">Tocar e manter pressionado com dois dedos</string>
+    <string name="gesture_3_double_tap_hold">Tocar e manter pressionado com três dedos</string>
+    <string name="gesture_4_double_tap_hold">Tocar e manter pressionado com quatro dedos</string>
+    <string name="gesture_2_swipe_up">Varrer para cima com dois dedos</string>
+    <string name="gesture_3_swipe_up">Varrer para cima com três dedos</string>
+    <string name="gesture_4_swipe_up">Varrer para cima com quatro dedos</string>
+    <string name="gesture_2_swipe_down">Varrer com dois dedos para baixo</string>
+    <string name="gesture_3_swipe_down">Varrer com três dedos para baixo</string>
+    <string name="gesture_4_swipe_down">Varrer com quatro dedos para baixo</string>
+    <string name="gesture_2_swipe_left">Varrer para a esquerda com dois dedos</string>
+    <string name="gesture_3_swipe_left">Varrer com três dedos para a esquerda</string>
+    <string name="gesture_4_swipe_left">Varrer com quatro dedos para a esquerda</string>
+    <string name="gesture_2_swipe_right">Varrer com dois dedos para a direita</string>
+    <string name="gesture_3_swipe_right">Varrer com três dedos para a direita</string>
+    <string name="gesture_4_swipe_right">Varrer com quatro dedos para a direita</string>
+    <string name="msg_gesture_updated">Atualização de pacote de gestos concluida</string>
+    <string name="msg_favorite_added">Favorito adicionado</string>
+    <string name="msg_shared">Compartilhado com sucesso</string>
+    <string name="msg_share_error">Erro ao compartilhar</string>
+    <string name="select_progress">Progresso</string>
 
 
 </resources>

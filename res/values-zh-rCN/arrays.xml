@@ -6,9 +6,18 @@
         <item>@string/directory_cmd</item>
         <item>@string/directory_tools</item>
         <item>@string/app</item>
-        <item>@string/command_raw_tap</item>
+        <item>@string/select_granularity_mode</item>
+        <item>@string/to_previous_granularity</item>
+        <item>@string/to_next_granularity</item>
+        <item>@string/to_previous_granularity_item</item>
+        <item>@string/to_next_granularity_item</item>
+
         <item>自动翻译</item>
-        <item>@string/command_to_previous_focus</item>
+        <item>朗读字幕</item>
+        <item>焦点监控</item>
+        <item>焦点监控管理</item>
+        <item>@string/command_raw_tap</item>
+         <item>@string/command_to_previous_focus</item>
         <item>@string/command_to_next_focus</item>
         <item>@string/command_start</item>
         <item>@string/command_end</item>
@@ -90,11 +99,11 @@
         <item>@string/raw_swipe_right</item>
         <item>@string/raw_swipe_up</item>
         <item>@string/raw_swipe_down</item>
-        <item>朗读字幕</item>
         <item>@string/command_quick_settings</item>
         <item>@string/command_take_screenshot</item>
         <item>@string/command_off_screen2</item>
         <item>@string/command_power_dialog</item>
+        <item>@string/command_raw_double_tap</item>
         <!--item>极速浏览</item-->
     </string-array>
     <string-array name="right_menu_items">
@@ -383,6 +392,7 @@
         <item>识别结果</item>
         <item>图片描述</item>
         <item>滑块验证</item>
+        <item>试卷识别</item>
     </string-array>
     <string-array name="lang_entries">
         <item>自动</item>
@@ -550,16 +560,40 @@
         <item>标题</item>
         <item>链接</item>
         <item>按钮</item>
+
+        <item>地标</item>
+        <item>编辑框</item>
+        <item>焦点</item>
+        <item>控件</item>
+        <item>图片</item>
+        <item>复选框</item>
+        <item>组合框</item>
+        <item>表格</item>
+        <item>列表</item>
+        <item>列表项</item>
+
         <item>翻页</item>
         <item>视图</item>
+
+        <item>字</item>
+        <item>词</item>
+        <item>行</item>
+        <item>段</item>
+        <item>页</item>
+        <item>复制</item>
+        <item>音量</item>
+        <item>语速</item>
+        <item>识别翻译</item>
+
     </string-array>
+
     <string-array name="hot_key_help_items" >
         <item>CTRL+DPAD_UP: 上个焦点</item>
         <item>CTRL+DPAD_DOWN: 下个焦点</item>
         <item>CTRL+DPAD_LEFT: 左快捷功能</item>
         <item>CTRL+DPAD_RIGHT: 右快捷功能</item>
+        <item>CTRL+PAGE_UP: 向上滚动</item>
         <item>CTRL+PAGE_DOWN: 向下滚动</item>
-        <item>CTRL+PAGE_DOWN: 向上滚动</item>
         <item>CTRL+H: 主屏幕</item>
         <item>CTRL+N: 通知栏</item>
         <item>CTRL+P: 最近任务</item>
@@ -576,4 +610,35 @@
         <item>ALT+L: 列表浏览</item>
 
     </string-array>
+      <string-array name="view_type_title" >
+        <item>默认</item>
+        <item>文本</item>
+        <item>按钮</item>
+        <item>编辑框</item>
+
+        <item>图片</item>
+        <item>复选框</item>
+        <item>进度条</item>
+        <item>列表</item>
+        <item>列表项</item>
+        <item>可聚焦</item>
+        <item>可点击</item>
+        <item>节点</item>
+        <item>滚动</item>
+        <item>垂直移动</item>
+
+
+
+        <item>字</item>
+        <item>词</item>
+        <item>行</item>
+        <item>段</item>
+        <item>页</item>
+        <item>复制</item>
+        <item>音量</item>
+        <item>语速</item>
+        <item>识别翻译</item>
+
+    </string-array>
+
 </resources>

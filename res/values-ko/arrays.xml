@@ -6,6 +6,13 @@
         <item>@string/directory_cmd</item>
         <item>@string/directory_tools</item>
         <item>@string/app</item>
+        <item>@string/select_granularity_mode</item>
+        <item>@string/to_previous_granularity</item>
+        <item>@string/to_next_granularity</item>
+        <item>@string/to_previous_granularity_item</item>
+        <item>@string/to_next_granularity_item</item>
+
+        <item>@string/command_raw_tap</item>
         <item>@string/command_to_previous_focus</item>
         <item>@string/command_to_next_focus</item>
         <item>@string/command_start</item>
@@ -88,6 +95,11 @@
         <item>@string/raw_swipe_right</item>
         <item>@string/raw_swipe_up</item>
         <item>@string/raw_swipe_down</item>
+        <item>@string/command_quick_settings</item>
+        <item>@string/command_take_screenshot</item>
+        <item>@string/command_off_screen2</item>
+        <item>@string/command_power_dialog</item>
+        <item>@string/command_raw_double_tap</item>
     </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
@@ -174,27 +186,27 @@
         <item>@string/command_virtual_navigation</item>
     </string-array>
     <string-array name="left_button">
-        <item>Hang up</item>
-        <item>Reject</item>
-        <item>*Swipe to reject incoming call*</item>
-        <item>End call</item>
-        <item>Hang up call</item>
-        <item>Hang up call</item>
-        <item>End QQ call</item>
-        <item>End QQ call</item>
-        <item>Switch to the previous element</item>
-        <item>Previous track</item>
-        <item>Navigate up</item>
+        <item>끊기</item>
+        <item>받지 않기</item>
+        <item>*왼쪽으로 쓸어 전화 거부*</item>
+        <item>통화 종료</item>
+        <item>전화 끊기</item>
+        <item>전화 끊기</item>
+        <item>qq통화 종료</item>
+        <item>qq통화 종료</item>
+        <item>이전 요소로 전환</item>
+        <item>이전 트랙</item>
+        <item>위로 이동</item>
     </string-array>
     <string-array name="right_button">
-        <item>Answer call</item>
-        <item>*Swipe to answer the call*</item>
-        <item>Handsfree mode</item>
-        <item>Speaker mode</item>
-        <item>Switch to the next element</item>
-        <item>Next track</item>
+        <item>전화 받기</item>
+        <item>*오른쪽으로 쓸어 전화 받기*</item>
+        <item>핸즈프리 모드</item>
+        <item>스피커모드</item>
+        <item>다음 요소로 전환</item>
+        <item>다음 트랙</item>
+        <item>아래로 이동</item>
     </string-array>
-
     <string-array name="voice_recognizer_values">
         <item>3</item>
         <item>0</item>
@@ -202,7 +214,7 @@
         <item>2</item>
     </string-array>
     <string-array name="voice_recognizer_entries">
-        <item>System</item>
+        <item>시스템</item>
         <item>Engine 1</item>
         <item>Engine 2</item>
         <item>Engine 3</item>
@@ -311,10 +323,10 @@
         <item>100</item>
     </string-array>
     <!--string-array name="tts_speaker_title">
-        <item>Female voice</item>
-        <item>male voice</item>
-        <item>Happy</item>
-        <item>Du ya ya</item>
+        <item>여성 음성</item>
+        <item>남성 음성</item>
+        <item>행복한</item>
+        <item>나중에</item>
     </string-array>
     <string-array name="tts_speaker">
         <item>0</item>
@@ -323,10 +335,10 @@
         <item>4</item>
     </string-array-->
     <string-array name="vibrate_intensity_entries">
-        <item>Light</item>
-        <item>Medium</item>
-        <item>Intense</item>
-        <item>Most intense</item>
+        <item>약하게</item>
+        <item>중간</item>
+        <item>세게</item>
+        <item>매우 세게</item>
     </string-array>
     <string-array name="vibrate_intensity_values">
         <item>12</item>
@@ -335,9 +347,9 @@
         <item>64</item>
     </string-array>
     <string-array name="long_click_entries">
-        <item>Short</item>
-        <item>Medium</item>
-        <item>Long</item>
+        <item>짧은</item>
+        <item>중간</item>
+        <item>긴</item>
     </string-array>
     <string-array name="long_click_values">
         <item>500</item>
@@ -345,10 +357,10 @@
         <item>1000</item>
     </string-array>
     <string-array name="edge_gesture_width_entries">
-        <item>Small</item>
-        <item>Medium</item>
-        <item>Big</item>
-        <item>Maximum</item>
+        <item>작은 사이즈</item>
+        <item>중간 사이즈</item>
+        <item>큰 사이즈</item>
+        <item>매우 큰 사이즈</item>
     </string-array>
     <string-array name="edge_gesture_width_values">
         <item>8</item>
@@ -357,52 +369,52 @@
         <item>20</item>
     </string-array>
     <string-array name="tts_speaker_entries">
-        <item>Xiaoyan</item>
-        <item>Xiaofeng</item>
+        <item>샤오 얀</item>
+        <item>샤오 펑</item>
     </string-array>
     <string-array name="tts_speaker_values">
-        <item>xiaoyan</item>
-        <item>xiaofeng</item>
+        <item>샤오 얀</item>
+        <item>샤오 펑</item>
     </string-array>
     <string-array name="advanced_menu_items">
-        <item>translation</item>
-        <item>Scene recognition</item>
-        <item>Text recognition</item>
-        <item>Face recognition</item>
-        <item>CAPTCHA recognition</item>
-        <item>Recognition result</item>
-        <item>image description</item>
+        <item>번역</item>
+        <item>장면 인식</item>
+        <item>텍스트 인식</item>
+        <item>얼굴인식</item>
+        <item>보안문자 인식</item>
+        <item>인식 결과</item>
+        <item>이미지 설명</item>
     </string-array>
     <string-array name="lang_entries">
-        <item>auto</item>
-        <item>Korean</item>
-        <item>Chinese simplified</item>
-        <item>Chinese Traditional</item>
-        <item>Dutch</item>
-        <item>Thai</item>
-        <item>Greek</item>
-        <item>Italian</item>
-        <item>Slovenian</item>
-        <item>Japanese</item>
-        <item>English</item>
-        <item>Arabic</item>
-        <item>Cantonese</item>
-        <item>Hungarian</item>
-        <item>Estonian</item>
-        <item>Romanian</item>
-        <item>Chinese</item>
-        <item>Czech</item>
-        <item>German</item>
-        <item>French</item>
-        <item>Finnish</item>
-        <item>Portuguese</item>
-        <item>Danish</item>
-        <item>Russian</item>
-        <item>Bulgarian</item>
-        <item>Spanish</item>
-        <item>Swedish</item>
-        <item>Polish</item>
-        <item>Vietnamese</item>
+        <item>자동</item>
+        <item>한국어</item>
+        <item>중국어 간체</item>
+        <item>중국어 번체</item>
+        <item>네덜란드어</item>
+        <item>타이완어</item>
+        <item>그리스어</item>
+        <item>이탄리아어</item>
+        <item>슬로베니아어</item>
+        <item>일본어</item>
+        <item>영어</item>
+        <item>아라비아어</item>
+        <item>광동어</item>
+        <item>헝가리어</item>
+        <item>에스토니아어</item>
+        <item>루마니아어</item>
+        <item>중국어</item>
+        <item>체코어</item>
+        <item>독일어</item>
+        <item>프랑스어</item>
+        <item>핀란드어</item>
+        <item>포르투갈어</item>
+        <item>덴마크어</item>
+        <item>러시아어</item>
+        <item>불가리아어</item>
+        <item>스페인어</item>
+        <item>스웨덴어</item>
+        <item>폴란드어</item>
+        <item>베트남어</item>
     </string-array>
     <string-array name="lang_values">
         <item>auto</item>
@@ -436,22 +448,22 @@
         <item>vie</item>
     </string-array>
     <string-array name="tts_engine_values">
-        <item>system</item>
-        <item>unisound</item>
+        <item>시스템</item>
+        <item>유니사운드</item>
     </string-array>
     <string-array name="tts_engine_entries">
-        <item>System TTS</item>
-        <item>Yunzhisheng TTS</item>
+        <item>시스템 TTS</item>
+        <item>윤지성 TTS</item>
     </string-array>
     <string-array name="tts_engine_vip_values">
-        <item>system</item>
-        <item>iflytek</item>
-        <item>unisound</item>
+        <item>시스템</item>
+        <item>풀리탭</item>
+        <item>유니사운드</item>
     </string-array>
     <string-array name="tts_engine_vip_entries">
-        <item>System TTS</item>
-        <item>Xunfei TTS</item>
-        <item>Yunzhisheng TTS</item>
+        <item>시스템 TTS</item>
+        <item>쉰페이 TTS</item>
+        <item>윤지성 TTS</item>
     </string-array>
     <string-array name="alarm_interval_values">
         <item>5</item>
@@ -461,11 +473,11 @@
         <item>60</item>
     </string-array>
     <string-array name="alarm_interval_entries">
-        <item>Every 5 minutes</item>
-        <item>Every 10 minutes</item>
-        <item>Every 15 minutes</item>
-        <item>Every 30 minutes</item>
-        <item>Every 60 minutes</item>
+        <item>5분 마다</item>
+        <item>10분 마다</item>
+        <item>15분 마다</item>
+        <item>30분 마다</item>
+        <item> 60분 마다</item>
     </string-array>
     <string-array name="timer_interval_values">
         <item>1</item>
@@ -474,10 +486,10 @@
         <item>15</item>
     </string-array>
     <string-array name="timer_interval_entries">
-        <item>1 minute</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>15 minutes</item>
+        <item>1 분</item>
+        <item>5 분</item>
+        <item>10 분</item>
+        <item>15 분</item>
     </string-array>
     <string-array name="alarm_hour_values">
         <item>0</item>
@@ -507,9 +519,9 @@
         <item>24</item>
     </string-array>
     <string-array name="recognizer_lang_entries">
-        <item>Chinese simplified</item>
-        <item>Chinese traditional</item>
-        <item>English</item>
+        <item>중국어 간체</item>
+        <item>중국어 번체</item>
+        <item>영어</item>
     </string-array>
     <string-array name="recognizer_lang_values">
         <item>zh_CN</item>
@@ -531,36 +543,79 @@
         <item>5</item>
     </string-array>
     <string-array name="web_type_title">
-        <item>Default</item>
-        <item>Title</item>
-        <item>Link</item>
-        <item>Button</item>
-        <item>Scroll</item>
-        <item>View</item>
-    </string-array>
+        <item>기본</item>
+        <item>제목</item>
+        <item>링크</item>
+        <item>버튼</item>
 
+        <item>地标</item>
+        <item>编辑框</item>
+        <item>焦点</item>
+        <item>控件</item>
+        <item>图片</item>
+        <item>复选框</item>
+        <item>组合框</item>
+        <item>表格</item>
+        <item>列表</item>
+        <item>列表项</item>
+
+        <item>스크롤</item>
+        <item>보기</item>
+
+        <item>글자</item>
+        <item>단어</item>
+        <item>열</item>
+        <item>단락</item>
+        <item>페이지</item>
+        <item>복사</item>
+        <item>음량</item>
+        <item>음성속도</item>
+        <item>식별 번역</item>
+    </string-array>
     <string-array name="hot_key_help_items" >
-        <item>CTRL+DPAD_UP: 上个焦点</item>
-        <item>CTRL+DPAD_DOWN: 下个焦点</item>
-        <item>CTRL+DPAD_LEFT: 左快捷功能</item>
-        <item>CTRL+DPAD_RIGHT: 右快捷功能</item>
-        <item>CTRL+PAGE_DOWN: 向下滚动</item>
-        <item>CTRL+PAGE_DOWN: 向上滚动</item>
-        <item>CTRL+H: 主屏幕</item>
-        <item>CTRL+N: 通知栏</item>
-        <item>CTRL+P: 最近任务</item>
-        <item>CTRL+SPACE: 点击</item>
-        <item>CTRL+L: 长按</item>
-        <item>CTRL+Q: 快速设置</item>
-
-        <item>ALT+M: 主菜单</item>
-        <item>ALT+A: 操作菜单</item>
-        <item>ALT+P: 扩展插件</item>
-        <item>ALT+T: 扩展工具</item>
-        <item>ALT+V: 语音助手</item>
-        <item>ALT+S: 拆分编辑</item>
-        <item>ALT+L: 列表浏览</item>
-
+        <item>CTRL+DPAD_UP: 이전 초점으로 이동</item>
+        <item>CTRL+DPAD_DOWN: 다음 초점으로 이동</item>
+        <item>CTRL+DPAD_LEFT: 왼쪽으로 이동</item>
+        <item>CTRL+DPAD_RIGHT: 오른쪽으로 이동</item>
+        <item>CTRL+PAGE_UP: 위로 스크롤</item>
+        <item>CTRL+PAGE_DOWN: 아래로 스크롤</item>
+        <item>CTRL+H: 홈 화면</item>
+        <item>CTRL+N: 알림 표시줄</item>
+        <item>CTRL+P: 최근 앱</item>
+        <item>CTRL+SPACE: 클릭</item>
+        <item>CTRL+L: 롱 클릭</item>
+        <item>CTRL+Q: 빠른 설정</item>
+        <item>ALT+M: 메인메뉴</item>
+        <item>ALT+A: 조작메뉴</item>
+        <item>ALT+P: 확장 탭</item>
+        <item>ALT+T: 확장도구</item>
+        <item>ALT+V: 음성 비서</item>
+        <item>ALT+S: 분할 편집</item>
+        <item>ALT+L: 목록 탐색</item>
     </string-array>
-
+      <string-array name="view_type_title" >
+        <item>기본</item>
+        <item>텍스트</item>
+        <item>버튼</item>
+        <item>편집창</item>
+        <item>이미지</item>
+        <item>체크상자</item>
+        <item>진행율 표시줄</item>
+        <item>목록</item>
+        <item>목록 항목</item>
+        <item>집중 가능한 요소</item>
+        <item>클릭 가능한 요소</item>
+        <item>노드</item>
+        <item>슬라이더</item>
+        <item>수직 이동</item>
+        <item>글자</item>
+        <item>단어</item>
+        <item>줄</item>
+        <item>단락</item>
+        <item>페이지</item>
+        <item>복사</item>
+        <item>볼륨</item>
+        <item>음성속도</item>
+        <item>OCR 인식</item>
+    </string-array>
 </resources>

@@ -48,11 +48,11 @@
         <item>24</item>
     </string-array>
     <string-array name="alarm_interval_entries">
-        <item>Every 5 minutes</item>
-        <item>Every 10 minutes</item>
-        <item>Every 15 minutes</item>
-        <item>Every 30 minutes</item>
-        <item>Every 60 minutes</item>
+        <item>Her 5 dakika</item>
+        <item>Her 10 dakika</item>
+        <item>Her 15 dakika</item>
+        <item>Her 30 dakika</item>
+        <item>Her 60 dakika</item>
     </string-array>
     <string-array name="alarm_interval_values">
         <item>5</item>
@@ -64,8 +64,8 @@
     <string-array name="edge_gesture_width_entries">
         <item>Küçük</item>
         <item>Orta</item>
-        <item>Büyük</item>
-        <item>Asgari</item>
+        <item>Geniş</item>
+        <item>En geniş</item>
     </string-array>
     <string-array name="edge_gesture_width_values">
         <item>8</item>
@@ -79,6 +79,13 @@
         <item>@string/directory_cmd</item>
         <item>@string/directory_tools</item>
         <item>@string/app</item>
+        <item>@string/select_granularity_mode</item>
+        <item>@string/to_previous_granularity</item>
+        <item>@string/to_next_granularity</item>
+        <item>@string/to_previous_granularity_item</item>
+        <item>@string/to_next_granularity_item</item>
+
+        <item>@string/command_raw_tap</item>
         <item>@string/command_to_previous_focus</item>
         <item>@string/command_to_next_focus</item>
         <item>@string/command_start</item>
@@ -161,6 +168,11 @@
         <item>@string/raw_swipe_right</item>
         <item>@string/raw_swipe_up</item>
         <item>@string/raw_swipe_down</item>
+        <item>@string/command_quick_settings</item>
+        <item>@string/command_take_screenshot</item>
+        <item>@string/command_off_screen2</item>
+        <item>@string/command_power_dialog</item>
+        <item>@string/command_raw_double_tap</item>
     </string-array>
 
     <string-array name="lang_entries">
@@ -523,33 +535,86 @@
         <item>Varsayılan</item>
         <item>Başlıklar</item>
         <item>Bağlantılar</item>
+        <item>Düğmeler</item>
+
+        <item>Yer işaretleri</item>
+        <item>Yazma alanları</item>
+        <item>Odaklanılabilir öğeler</item>
         <item>Denetimler</item>
+        <item>Resimler</item>
+        <item>Seçim kutuları</item>
+        <item>Kombo kutuları</item>
+        <item>Form alanları</item>
+        <item>Listeler</item>
+        <item>Liste öğeleri</item>
+
         <item>Sayfa değiştir</item>
         <item>Görünümler</item>
+
+        <item>Karakterler</item>
+        <item>Sözcükler</item>
+        <item>Satırlar</item>
+        <item>Paragraflar</item>
+        <item>Sayfalar</item>
+        <item>Kopyala ve Ek kopyala</item>
+        <item>Ses seviyesi</item>
+        <item>Konuşma hızı</item>
+        <item>Metin Tanıma ve Çeviri</item>
     </string-array>
 
     <string-array name="hot_key_help_items" >
-        <item>CTRL+DPAD_UP: 上个焦点</item>
-        <item>CTRL+DPAD_DOWN: 下个焦点</item>
-        <item>CTRL+DPAD_LEFT: 左快捷功能</item>
-        <item>CTRL+DPAD_RIGHT: 右快捷功能</item>
-        <item>CTRL+PAGE_DOWN: 向下滚动</item>
-        <item>CTRL+PAGE_DOWN: 向上滚动</item>
-        <item>CTRL+H: 主屏幕</item>
-        <item>CTRL+N: 通知栏</item>
-        <item>CTRL+P: 最近任务</item>
-        <item>CTRL+SPACE: 点击</item>
-        <item>CTRL+L: 长按</item>
-        <item>CTRL+Q: 快速设置</item>
+        <item>CTRL+YUKARI_OK: Önceki odak</item>
+        <item>CTRL+AŞAĞI_OK: Sonraki odak</item>
+        <item>CTRL+SOL_OK: Sol kısayol işlevi</item>
+        <item>CTRL+SAĞ_OK: Sağ kısayol işlevi</item>
+        <item>CTRL+SAYFA_YUKARI: Yukarı kaydır</item>
+        <item>CTRL+SAYFA_AŞAĞI: Aşağı kaydır</item>
+        <item>CTRL+H: ana ekran</item>
+        <item>CTRL+N: Bildirim çubuğu</item>
+        <item>CTRL+P: Son uygulamalar</item>
+        <item>CTRL+Boşluk: Tıkla</item>
+        <item>CTRL+L: Uzun tıkla</item>
+        <item>CTRL+Q: Hızlı ayarlar</item>
 
-        <item>ALT+M: 主菜单</item>
-        <item>ALT+A: 操作菜单</item>
-        <item>ALT+P: 扩展插件</item>
-        <item>ALT+T: 扩展工具</item>
-        <item>ALT+V: 语音助手</item>
-        <item>ALT+S: 拆分编辑</item>
-        <item>ALT+L: 列表浏览</item>
+        <item>ALT+M: ana menü</item>
+        <item>ALT+A: Eylem menüsü</item>
+        <item>ALT+P: Eklentiler</item>
+        <item>ALT+T: Araçlar</item>
+        <item>ALT+V: Sesli yardımcı</item>
+        <item>ALT+S: Sözcük gezinme modu</item>
+        <item>ALT+L: Liste dolaşımı</item>
 
     </string-array>
+      <string-array name="view_type_title" >
+        <item>Varsayılan</item>
+        <item>Metinler</item>
+        <item>Düğmeler</item>
+        <item>Yazma alanları</item>
+
+        <item>Resimler</item>
+        <item>Seçim kutuları</item>
+        <item>Aşama çubukları</item>
+        <item>Listeler</item>
+        <item>Liste öğeleri</item>
+        <item>Odaklanılabilir öğeler</item>
+        <item>Tıklanabilir öğeler</item>
+        <item>Düğümler</item>
+        <item>Kaydırıcı değerini değiştir</item>
+        <item>Dikey kaydırma</item>
+
+
+
+        <item>Karakterler</item>
+        <item>Sözcükler</item>
+        <item>Satırlar</item>
+        <item>Paragraflar</item>
+        <item>Sayfalar</item>
+        <item>Kopyala ve Ek kopyala</item>
+        <item>Ses seviyesi</item>
+        <item>Konuşma hızı</item>
+        <item>Metin Tanıma ve Çeviri</item>
+
+    </string-array>
+
 
 </resources>

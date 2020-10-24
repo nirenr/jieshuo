@@ -6,6 +6,13 @@
         <item>@string/directory_cmd</item>
         <item>@string/directory_tools</item>
         <item>@string/app</item>
+        <item>@string/select_granularity_mode</item>
+        <item>@string/to_previous_granularity</item>
+        <item>@string/to_next_granularity</item>
+        <item>@string/to_previous_granularity_item</item>
+        <item>@string/to_next_granularity_item</item>
+
+        <item>@string/command_raw_tap</item>
         <item>@string/command_to_previous_focus</item>
         <item>@string/command_to_next_focus</item>
         <item>@string/command_start</item>
@@ -88,6 +95,11 @@
         <item>@string/raw_swipe_right</item>
         <item>@string/raw_swipe_up</item>
         <item>@string/raw_swipe_down</item>
+        <item>@string/command_quick_settings</item>
+        <item>@string/command_take_screenshot</item>
+        <item>@string/command_off_screen2</item>
+        <item>@string/command_power_dialog</item>
+        <item>@string/command_raw_double_tap</item>
     </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
@@ -323,10 +335,10 @@
         <item>4</item>
     </string-array-->
     <string-array name="vibrate_intensity_entries">
-        <item>Легкая</item>
+        <item>Слабая</item>
         <item>Средняя</item>
-        <item>интенсивная</item>
-        <item>Наиболее интенсивная</item>
+        <item>Сильная</item>
+        <item>Усиленная</item>
     </string-array>
     <string-array name="vibrate_intensity_values">
         <item>12</item>
@@ -535,17 +547,39 @@
         <item>Заголовки</item>
         <item>Ссылки</item>
         <item>Кнопки</item>
+
+        <item>Ориентир</item>
+        <item>Окно редактирования</item>
+        <item>Фокус</item>
+        <item>Элементы управления</item>
+        <item>картинка</item>
+        <item>Флажок</item>
+        <item>Поле со списком</item>
+        <item>форма</item>
+        <item>Список</item>
+        <item>Элементы списка</item>
+
         <item>Страницы</item>
         <item>Просмотр</item>
+
+        <item>Символ</item>
+        <item>Слова</item>
+        <item>Строка</item>
+        <item>Абзац</item>
+        <item>Страница</item>
+        <item>Копировать</item>
+        <item>Громкость</item>
+        <item>Скорость речи</item>
+        <item>Движок распознавания</item>
     </string-array>
 
-    <string-array name="hot_key_help_items" >
+    <string-array name="hot_key_help_items">
         <item>CTRL+DPAD_UP: Переместить фокус к предыдущему элементу.</item>
         <item>CTRL+DPAD_DOWN: Переместить фокус к следующему элементу.</item>
         <item>CTRL+DPAD_LEFT: Левая функция ярлыка</item>
         <item>CTRL+DPAD_RIGHT: Правая функция ярлыка</item>
+        <item>CTRL+PAGE_UP: Прокрутка вверх</item>
         <item>CTRL+PAGE_DOWN: Прокрутить вниз</item>
-        <item>CTRL+PAGE_DOWN: Прокрутка вверх</item>
         <item>CTRL+H: Перейти на главный экран</item>
         <item>CTRL+N: Перейти на панель уведомлений</item>
         <item>CTRL+P: Перейти к недавним приложениям</item>
@@ -562,5 +596,35 @@
         <item>ALT+L: Просмотр списка</item>
 
     </string-array>
+    <string-array name="view_type_title">
+        <item>По умолчанию</item>
+        <item>Текст</item>
+        <item>Кнопка</item>
+        <item>Окно редактирования</item>
+
+        <item>Картинка</item>
+        <item>Флаг</item>
+        <item>Индикатор выполнения</item>
+        <item>Список</item>
+        <item>Элемент списка</item>
+        <item>Фокусируемый элемент</item>
+        <item>Кликабельный элемент</item>
+        <item>Узел</item>
+        <item>Ползунок</item>
+        <item>Перемещение по вертикали</item>
+
+
+        <item>Символ</item>
+        <item>Слово</item>
+        <item>Строка</item>
+        <item>Абзац</item>
+        <item>Страница</item>
+        <item>Копировать</item>
+        <item>Громкость</item>
+        <item>Скорость речи</item>
+        <item>Движок распознавания</item>
+
+    </string-array>
+
 
 </resources>

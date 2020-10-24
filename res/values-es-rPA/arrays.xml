@@ -6,6 +6,13 @@
         <item>@string/directory_cmd</item>
         <item>@string/directory_tools</item>
         <item>@string/app</item>
+        <item>@string/select_granularity_mode</item>
+        <item>@string/to_previous_granularity</item>
+        <item>@string/to_next_granularity</item>
+        <item>@string/to_previous_granularity_item</item>
+        <item>@string/to_next_granularity_item</item>
+
+        <item>@string/command_raw_tap</item>
         <item>@string/command_to_previous_focus</item>
         <item>@string/command_to_next_focus</item>
         <item>@string/command_start</item>
@@ -88,6 +95,11 @@
         <item>@string/raw_swipe_right</item>
         <item>@string/raw_swipe_up</item>
         <item>@string/raw_swipe_down</item>
+        <item>@string/command_quick_settings</item>
+        <item>@string/command_take_screenshot</item>
+        <item>@string/command_off_screen2</item>
+        <item>@string/command_power_dialog</item>
+        <item>@string/command_raw_double_tap</item>
     </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
@@ -176,23 +188,23 @@
     <string-array name="left_button">
         <item>Colgar</item>
         <item>Rechazar</item>
-        <item>*Deslice para rechazar llamadas*</item>
+        <item>*Desliza para rechazar llamadas*</item>
         <item>Finalizar llamada</item>
         <item>Colgar llamada</item>
         <item>Responder llamada</item>
         <item>Finalizar llamada QQ</item>
         <item>Finalizar llamada QQ</item>
         <item>Anterior</item>
-        <item>Canción anterior</item>
+        <item>Pista anterior</item>
         <item>Navegar arriba</item>
     </string-array>
     <string-array name="right_button">
         <item>Responder llamada</item>
-        <item>*Deslice para aceptar la llamada*</item>
+        <item>*Desliza para aceptar la llamada*</item>
         <item>Manos libres</item>
-        <item>Ponente</item>
+        <item>Altavoz</item>
         <item>Cambia al siguiente</item>
-        <item>Siguiente canción</item>
+        <item>Siguiente pista</item>
     </string-array>
 
     <string-array name="voice_recognizer_values">
@@ -202,7 +214,7 @@
         <item>2</item>
     </string-array>
     <string-array name="voice_recognizer_entries">
-        <item>System</item>
+        <item>Sistema</item>
         <item>Motor 1</item>
         <item>Motor 2</item>
         <item>Motor 3</item>
@@ -311,10 +323,10 @@
         <item>100</item>
     </string-array>
     <!--string-array name="tts_speaker_title">
-        <item>女声</item>
-        <item>男声</item>
-        <item>度逍遥</item>
-        <item>度丫丫</item>
+        <item>Voz femenina</item>
+        <item>Voz masculina</item>
+        <item>Feliz</item>
+        <item>Du si si</item>
     </string-array>
     <string-array name="tts_speaker">
         <item>0</item>
@@ -323,10 +335,10 @@
         <item>4</item>
     </string-array-->
     <string-array name="vibrate_intensity_entries">
-        <item>Ligero</item>
-        <item>Medio</item>
-        <item>Intenso</item>
-        <item>Muy intenso</item>
+        <item>Muy suave</item>
+        <item>Suave</item>
+        <item>Fuerte</item>
+        <item>Muy fuerte</item>
     </string-array>
     <string-array name="vibrate_intensity_values">
         <item>12</item>
@@ -365,10 +377,10 @@
         <item>xiaofeng</item>
     </string-array>
     <string-array name="advanced_menu_items">
-        <item>traducción</item>
+        <item>traducir</item>
         <item>Reconocer Escenas</item>
         <item>Reconocimiento de texto</item>
-        <item>Reconocimiento facial</item>
+        <item>Reconocimiento de rostros</item>
         <item>Reconocimiento de captcha</item>
         <item>Resultado del reconocimiento</item>
         <item>Descripción de imagen</item>
@@ -532,35 +544,88 @@
     </string-array>
     <string-array name="web_type_title">
         <item>Predeterminado</item>
-        <item>Título</item>
+        <item>Encabezado</item>
         <item>Enlace</item>
         <item>Botón</item>
-        <item>Página</item>
+
+        <item>Punto de referencia</item>
+        <item>Cuadro de edición</item>
+        <item>enfoque</item>
+        <item>Control</item>
+        <item>Imagen</item>
+        <item>Casilla de verificación</item>
+        <item>Cuadro combinado</item>
+        <item>Tabla</item>
+        <item>Lista</item>
+        <item>Elemento de lista</item>
+
+        <item>Desplazamiento</item>
         <item>Visión</item>
+
+        <item>Caracter</item>
+        <item>Palabra</item>
+        <item>Línea</item>
+        <item>Párrafo</item>
+        <item>Página</item>
+        <item>Copiar y copiar adicional</item>
+        <item>Volumen</item>
+        <item>Velocidad de voz</item>
+        <item>Traducción y reconocimiento</item>
     </string-array>
 
     <string-array name="hot_key_help_items" >
-        <item>CTRL+DPAD_UP: 上个焦点</item>
-        <item>CTRL+DPAD_DOWN: 下个焦点</item>
-        <item>CTRL+DPAD_LEFT: 左快捷功能</item>
-        <item>CTRL+DPAD_RIGHT: 右快捷功能</item>
-        <item>CTRL+PAGE_DOWN: 向下滚动</item>
-        <item>CTRL+PAGE_DOWN: 向上滚动</item>
-        <item>CTRL+H: 主屏幕</item>
-        <item>CTRL+N: 通知栏</item>
-        <item>CTRL+P: 最近任务</item>
-        <item>CTRL+SPACE: 点击</item>
-        <item>CTRL+L: 长按</item>
-        <item>CTRL+Q: 快速设置</item>
+        <item>CTRL+DPAD_UP: Último elemento</item>
+        <item>CTRL+DPAD_DOWN: Foco siguiente</item>
+        <item>CTRL+DPAD_LEFT: Función de acceso directo a la izquierda</item>
+        <item>CTRL+DPAD_RIGHT: Función de acceso directo a la derecha</item>
+        <item>CTRL+PAGE_UP: Desplazarse hacia arriba</item>
+        <item>CTRL+PAGE_DOWN: Desplazarse hacia abajo</item>
+        <item>CTRL+H: Inicio</item>
+        <item>CTRL+N: Pantalla de notificaciones</item>
+        <item>CTRL+P: Recientes</item>
+        <item>CTRL+SPACE: Hacer click</item>
+        <item>CTRL+L: Pulsación larga</item>
+        <item>CTRL+Q: Configuración rápida</item>
 
-        <item>ALT+M: 主菜单</item>
-        <item>ALT+A: 操作菜单</item>
-        <item>ALT+P: 扩展插件</item>
-        <item>ALT+T: 扩展工具</item>
-        <item>ALT+V: 语音助手</item>
-        <item>ALT+S: 拆分编辑</item>
-        <item>ALT+L: 列表浏览</item>
+        <item>ALT+M: Menú principal</item>
+        <item>ALT+A: Menú de acciones</item>
+        <item>ALT+P: Extensiones</item>
+        <item>ALT+T: Herramientas y plugins</item>
+        <item>ALT+V: Asistente de voz</item>
+        <item>ALT+S: Edición dividida</item>
+        <item>ALT+L: Navegación en lista</item>
 
     </string-array>
+      <string-array name="view_type_title" >
+        <item>Por defecto</item>
+        <item>Textos</item>
+        <item>Botones</item>
+        <item>Cuadros de edición</item>
+
+        <item>Imágenes</item>
+        <item>Casillas de verificación</item>
+        <item>Barras de progreso</item>
+        <item>Listas</item>
+        <item>Elementos de lista</item>
+        <item>Enfoques</item>
+        <item>Clics</item>
+        <item>Nodos</item>
+        <item>Desplazamientos</item>
+        <item>Navegación vertical</item>
+
+
+
+        <item>Caracter</item>
+        <item>Palabra</item>
+        <item>Líneas</item>
+        <item>Párrafos</item>
+        <item>Páginas</item>
+        <item>Copiar y copiar adicional</item>
+        <item>Volumen</item>
+        <item>Velocidad de voz</item>
+        <item>Traducir y reconocer</item>
+
+    </string-array>
+
 
 </resources>

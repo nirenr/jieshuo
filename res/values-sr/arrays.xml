@@ -6,6 +6,13 @@
         <item>@string/directory_cmd</item>
         <item>@string/directory_tools</item>
         <item>@string/app</item>
+        <item>@string/select_granularity_mode</item>
+        <item>@string/to_previous_granularity</item>
+        <item>@string/to_next_granularity</item>
+        <item>@string/to_previous_granularity_item</item>
+        <item>@string/to_next_granularity_item</item>
+
+        <item>@string/command_raw_tap</item>
         <item>@string/command_to_previous_focus</item>
         <item>@string/command_to_next_focus</item>
         <item>@string/command_start</item>
@@ -88,6 +95,11 @@
         <item>@string/raw_swipe_right</item>
         <item>@string/raw_swipe_up</item>
         <item>@string/raw_swipe_down</item>
+        <item>@string/command_quick_settings</item>
+        <item>@string/command_take_screenshot</item>
+        <item>@string/command_off_screen2</item>
+        <item>@string/command_power_dialog</item>
+        <item>@string/command_raw_double_tap</item>
     </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
@@ -531,36 +543,87 @@
         <item>5</item>
     </string-array>
     <string-array name="web_type_title">
-        <item>подразумевано</item>
+        <item>Подразумевано</item>
         <item>заглавлје</item>
         <item>Линк</item>
-        <item>дугме</item>
-        <item>листање ставки</item>
-        <item>преглед</item>
+        <item>Дугме</item>
+
+        <item>Обележје</item>
+        <item>Оквир за уређивање</item>
+        <item>焦点</item>
+        <item>Контрола</item>
+        <item>Слика</item>
+        <item>Поље за потврду</item>
+        <item>Изборни оквир</item>
+        <item>表格</item>
+        <item>Листа</item>
+        <item>Ставка листе</item>
+
+        <item>Листање ставки</item>
+        <item>Преглед</item>
+
+        <item>Знак</item>
+        <item>Реч</item>
+        <item>Ред</item>
+        <item>Одломак</item>
+        <item>Страна</item>
+        <item>Копирај</item>
+        <item>Јачина</item>
+        <item>Брзина говора</item>
+        <item>Препознавање и превод</item>
     </string-array>
 
     <string-array name="hot_key_help_items" >
-        <item>CTRL+DPAD_UP: 上个焦点</item>
-        <item>CTRL+DPAD_DOWN: 下个焦点</item>
-        <item>CTRL+DPAD_LEFT: 左快捷功能</item>
-        <item>CTRL+DPAD_RIGHT: 右快捷功能</item>
-        <item>CTRL+PAGE_DOWN: 向下滚动</item>
-        <item>CTRL+PAGE_DOWN: 向上滚动</item>
-        <item>CTRL+H: 主屏幕</item>
-        <item>CTRL+N: 通知栏</item>
-        <item>CTRL+P: 最近任务</item>
-        <item>CTRL+SPACE: 点击</item>
-        <item>CTRL+L: 长按</item>
-        <item>CTRL+Q: 快速设置</item>
+        <item>CTRL+DPAD_UP: Претходна ставка</item>
+        <item>CTRL+DPAD_DOWN: Следећа ставка</item>
+        <item>CTRL+DPAD_LEFT: Лева пречица</item>
+        <item>CTRL+DPAD_RIGHT: Десна пречица</item>
+        <item>CTRL+PAGE_UP: Померање нагоре</item>
+        <item>CTRL+PAGE_DOWN: Померање надоле</item>
+        <item>CTRL+H: Почетни екран</item>
+        <item>CTRL+N: Центар са обавештењима</item>
+        <item>CTRL+P: Недавне апликације</item>
+        <item>CTRL+SPACE: Клик</item>
+        <item>CTRL+L: Притисни</item>
+        <item>CTRL+Q: Брза подешавања</item>
 
-        <item>ALT+M: 主菜单</item>
-        <item>ALT+A: 操作菜单</item>
-        <item>ALT+P: 扩展插件</item>
-        <item>ALT+T: 扩展工具</item>
-        <item>ALT+V: 语音助手</item>
-        <item>ALT+S: 拆分编辑</item>
-        <item>ALT+L: 列表浏览</item>
+        <item>ALT+M: Главни мени</item>
+        <item>ALT+A: Мени са радњама</item>
+        <item>ALT+P: Проширења (екстензије)</item>
+        <item>ALT+T: Алати</item>
+        <item>ALT+V: Гласовни асистент</item>
+        <item>ALT+S: Напредно уређивање</item>
+        <item>ALT+L: Прегледање листа</item>
 
     </string-array>
+      <string-array name="view_type_title" >
+        <item>Подразумевано</item>
+        <item>Текст</item>
+        <item>Дугме</item>
+        <item>поље за текст</item>
+
+        <item>Слика</item>
+        <item>Поље за потврду</item>
+        <item>Трака напредовања</item>
+        <item>Листа</item>
+        <item>Ставка листе</item>
+        <item>Ставка која може бити фокусирана</item>
+        <item>Клик</item>
+        <item>Чвор</item>
+        <item>Клизач</item>
+        <item>Померање вертикално</item>
+
+        <item>Знак</item>
+        <item>Реч</item>
+        <item>Ред</item>
+        <item>Одломак</item>
+        <item>Страна</item>
+        <item>Копирај</item>
+        <item>Јачина</item>
+        <item>Брзина говора</item>
+        <item>Препознавање и превод</item>
+
+    </string-array>
+
 
 </resources>

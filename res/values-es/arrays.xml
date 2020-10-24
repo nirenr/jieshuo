@@ -6,6 +6,13 @@
         <item>@string/directory_cmd</item>
         <item>@string/directory_tools</item>
         <item>@string/app</item>
+        <item>@string/select_granularity_mode</item>
+        <item>@string/to_previous_granularity</item>
+        <item>@string/to_next_granularity</item>
+        <item>@string/to_previous_granularity_item</item>
+        <item>@string/to_next_granularity_item</item>
+
+        <item>@string/command_raw_tap</item>
         <item>@string/command_to_previous_focus</item>
         <item>@string/command_to_next_focus</item>
         <item>@string/command_start</item>
@@ -88,6 +95,11 @@
         <item>@string/raw_swipe_right</item>
         <item>@string/raw_swipe_up</item>
         <item>@string/raw_swipe_down</item>
+        <item>@string/command_quick_settings</item>
+        <item>@string/command_take_screenshot</item>
+        <item>@string/command_off_screen2</item>
+        <item>@string/command_power_dialog</item>
+        <item>@string/command_raw_double_tap</item>
     </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
@@ -535,32 +547,85 @@
         <item>Encabezado</item>
         <item>Enlace</item>
         <item>Botón</item>
+
+        <item>Emfoque</item>
+        <item>Edición</item>
+        <item>Foco</item>
+        <item>Control</item>
+        <item>Enlace</item>
+        <item>Casilla de berificación</item>
+        <item>Título</item>
+        <item>Tabla</item>
+        <item>Lista de elementos</item>
+        <item>Lista de elementos</item>
+
         <item>Desplazamiento</item>
         <item>Visión</item>
+
+        <item>Carácter</item>
+        <item>Palabra</item>
+        <item>Linia</item>
+        <item>Párrafo</item>
+        <item>Página</item>
+        <item>Copiar</item>
+        <item>volumen de vos</item>
+        <item>Belocidad de vos</item>
+        <item>Reconosimiento de traducción</item>
     </string-array>
 
     <string-array name="hot_key_help_items" >
-        <item>CTRL+DPAD_UP: 上个焦点</item>
-        <item>CTRL+DPAD_DOWN: 下个焦点</item>
-        <item>CTRL+DPAD_LEFT: 左快捷功能</item>
-        <item>CTRL+DPAD_RIGHT: 右快捷功能</item>
-        <item>CTRL+PAGE_DOWN: 向下滚动</item>
-        <item>CTRL+PAGE_DOWN: 向上滚动</item>
-        <item>CTRL+H: 主屏幕</item>
-        <item>CTRL+N: 通知栏</item>
-        <item>CTRL+P: 最近任务</item>
-        <item>CTRL+SPACE: 点击</item>
-        <item>CTRL+L: 长按</item>
-        <item>CTRL+Q: 快速设置</item>
+        <item>CTRL+DPAD_UP: Último elemento</item>
+        <item>CTRL+DPAD_DOWN: Siguiente foco</item>
+        <item>CTRL+DPAD_LEFT: Función de axéso directo a la isquierda</item>
+        <item>CTRL+DPAD_RIGHT: función de axéso directo a la derecha</item>
+        <item>CTRL+PAGE_UP: Desplazarse hacia arriba</item>
+        <item>CTRL+PAGE_DOWN:Desplazarse hacia abajo</item>
+        <item>CTRL+H: Inicio</item>
+        <item>CTRL+N: Pantalla de notificaciones</item>
+        <item>CTRL+P: Recientes</item>
+        <item>CTRL+SPACE: Hacer click</item>
+        <item>CTRL+L: Pulsación prolongada</item>
+        <item>CTRL+Q: Ajustes rápidos</item>
 
-        <item>ALT+M: 主菜单</item>
-        <item>ALT+A: 操作菜单</item>
-        <item>ALT+P: 扩展插件</item>
-        <item>ALT+T: 扩展工具</item>
-        <item>ALT+V: 语音助手</item>
-        <item>ALT+S: 拆分编辑</item>
-        <item>ALT+L: 列表浏览</item>
+        <item>ALT+M: menú principal</item>
+        <item>ALT+A: Acciones</item>
+        <item>ALT+P: Extenciones</item>
+        <item>ALT+T: Herramientas y Plugins</item>
+        <item>ALT+V: Asistente de vos</item>
+        <item>ALT+S: Edición dividida</item>
+        <item>ALT+L: Nabegación en lista</item>
 
     </string-array>
+      <string-array name="view_type_title" >
+        <item>Predeterminado</item>
+        <item>Texto</item>
+        <item>Controles</item>
+        <item>Edición</item>
+
+        <item>Enlace</item>
+        <item>Casillas de verificación</item>
+        <item>Barras de progreso</item>
+        <item>Elementos de lista</item>
+        <item>Elementos de lista</item>
+        <item>Foco</item>
+        <item>Selección</item>
+        <item>Nodo</item>
+        <item>Desplazamiento</item>
+        <item>Deslizamiento vertical</item>
+
+
+
+        <item>Carácter</item>
+        <item>Palabra</item>
+        <item>Línea</item>
+        <item>Párrafo</item>
+        <item>Página</item>
+        <item>Copiar y copiado adicional</item>
+        <item>Volúmen multimedia</item>
+        <item>Velocidad de voz</item>
+        <item>Traducción y reconocimiento de texto</item>
+
+    </string-array>
+
 
 </resources>

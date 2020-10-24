@@ -381,4 +381,17 @@
     <string name="hot_key_description">hot_key_description</string>
     <string name="hot_key_settings">hot_key_settings</string>
     <string name="app_hot_key_package">app_hot_key_package</string>
+    <string name="use_scroll_list_content">use_scroll_list_content</string>
+    <string name="use_view_type_move">use_view_type_move</string>
+    <string name="web_type_move">web_type_move</string>
+    <string name="view_type_move">view_type_move</string>
+    <string name="notification_in_touch_no_speak">notification_in_touch_no_speak</string>
+    <string name="use_keep_type_move">use_keep_type_move</string>
+    <string name="hot_key_manager">hot_key_manager</string>
+    <string name="cloud_backup_hot_key">cloud_backup_hot_key</string>
+    <string name="cloud_restore_hot_key">cloud_restore_hot_key</string>
+    <string name="use_multi_touch_mode">use_multi_touch_mode</string>
+    <string name="timer_mode_pause">timer_mode_pause</string>
+    <string name="timer_mode_pause_start">timer_mode_pause_start</string>
+    <string name="timer_mode_pause_time">timer_mode_pause_time</string>
 </resources>

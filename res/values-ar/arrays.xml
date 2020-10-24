@@ -6,6 +6,13 @@
         <item>@string/directory_cmd</item>
         <item>@string/directory_tools</item>
         <item>@string/app</item>
+        <item>@string/select_granularity_mode</item>
+        <item>@string/to_previous_granularity</item>
+        <item>@string/to_next_granularity</item>
+        <item>@string/to_previous_granularity_item</item>
+        <item>@string/to_next_granularity_item</item>
+
+        <item>@string/command_raw_tap</item>
         <item>@string/command_to_previous_focus</item>
         <item>@string/command_to_next_focus</item>
         <item>@string/command_start</item>
@@ -88,6 +95,11 @@
         <item>@string/raw_swipe_right</item>
         <item>@string/raw_swipe_up</item>
         <item>@string/raw_swipe_down</item>
+        <item>@string/command_quick_settings</item>
+        <item>@string/command_take_screenshot</item>
+        <item>@string/command_off_screen2</item>
+        <item>@string/command_power_dialog</item>
+        <item>@string/command_raw_double_tap</item>
     </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
@@ -177,14 +189,14 @@
         <item>*رفض*</item>
         <item>*انهاء*</item>
         <item>*إنهاء*</item>
-        <item>*قطع*</item>
+        <item>طلب</item>
         <item>محو*</item>
         <item>إغلاق*</item>
         <item>حذف جميع الإشعارات.</item>
         <item>مسح*</item>
         <item>حذف كل الإشعارات.</item>
-        <item>ترجيع*</item>
-        <item>إرجاع*</item>
+        <item>إيقاف الفيديو مؤقتًا</item>
+        <item>*انقر مرتين للتنظيف.</item>
     </string-array>
     <string-array name="right_button">
         <item>رد*</item>
@@ -192,7 +204,7 @@
         <item>*مكبر الصوت*</item>
         <item>تخطي الإعلان</item>
         <item>إرسال تعليق</item>
-        <item>تقديم*</item>
+        <item>تشغيل الفيديو</item>
     </string-array>
 
     <string-array name="voice_recognizer_values">
@@ -531,36 +543,88 @@
         <item>5</item>
     </string-array>
     <string-array name="web_type_title">
-        <item>افتراضي</item>
-        <item>عنوان</item>
-        <item>رابط</item>
-        <item>زر</item>
-        <item>تمرير</item>
-        <item>عرض</item>
+        <item>الافتراضي</item>
+        <item>العناوين</item>
+        <item>الروابط</item>
+        <item>الأزرار</item>
+
+        <item>المَعالِم</item>
+        <item>مربع تعديل</item>
+        <item>التركيز</item>
+        <item>عناصر التحكم</item>
+        <item>الصور</item>
+        <item>مربع اختيار</item>
+        <item>قائمة منبثقة</item>
+        <item>الجداول</item>
+        <item>القوائم</item>
+        <item>عناصر القائمة الحالية</item>
+
+        <item>التمرير</item>
+        <item>كل الأنواع</item>
+
+        <item>الأحرُف</item>
+        <item>الكلمات</item>
+        <item>الأَسْطُر</item>
+        <item>الفِقْرات</item>
+        <item>الصفحات</item>
+        <item>نَسْخ، و نَسْخ إضافي</item>
+        <item>مستوى الصوت</item>
+        <item>سرعة الكلام</item>
+        <item>الترجمة، و التَّعَرُّف على النص</item>
     </string-array>
 
     <string-array name="hot_key_help_items" >
-        <item>CTRL+DPAD_UP: 上个焦点</item>
-        <item>CTRL+DPAD_DOWN: 下个焦点</item>
-        <item>CTRL+DPAD_LEFT: 左快捷功能</item>
-        <item>CTRL+DPAD_RIGHT: 右快捷功能</item>
-        <item>CTRL+PAGE_DOWN: 向下滚动</item>
-        <item>CTRL+PAGE_DOWN: 向上滚动</item>
-        <item>CTRL+H: 主屏幕</item>
-        <item>CTRL+N: 通知栏</item>
-        <item>CTRL+P: 最近任务</item>
-        <item>CTRL+SPACE: 点击</item>
-        <item>CTRL+L: 长按</item>
-        <item>CTRL+Q: 快速设置</item>
+        <item>CTRL+DPAD_UP: العنصرُ السابق</item>
+        <item>CTRL+DPAD_DOWN: العنصرُ التالي</item>
+        <item>CTRL+DPAD_LEFT: التَّمْرير للأعلى</item>
+        <item>CTRL+DPAD_RIGHT: التَّمْرير لل أَسْفَلْ</item>
+        <item>CTRL+PAGE_UP: التَّمْرير للخَلْف</item>
+        <item>CTRL+PAGE_DOWN: التَّمْرير للأمام</item>
+        <item>CTRL+H: الشاشة الرئيسية</item>
+        <item>CTRL+N: فتح شريط الاشعارات</item>
+        <item>CTRL+P: التطبيقات الحديثة</item>
+        <item>CTRL+SPACE: النقر	</item>
+        <item>CTRL+L: الضغط المطول</item>
+        <item>CTRL+Q: الإعدادات السريعة</item>
 
-        <item>ALT+M: 主菜单</item>
-        <item>ALT+A: 操作菜单</item>
-        <item>ALT+P: 扩展插件</item>
-        <item>ALT+T: 扩展工具</item>
-        <item>ALT+V: 语音助手</item>
-        <item>ALT+S: 拆分编辑</item>
-        <item>ALT+L: 列表浏览</item>
+        <item>ALT+M: القائمةُ العامة,</item>
+        <item>ALT+A: قائمةُ الإجراءات,</item>
+        <item>ALT+P: الإضافات</item>
+        <item>ALT+T: الأدوات</item>
+        <item>ALT+V: المساعد الصوتي</item>
+        <item>ALT+S: قائمةُ التَّعْديل,</item>
+        <item>ALT+L: تَصَفُّحُ القائمة</item>
 
     </string-array>
+      <string-array name="view_type_title" >
+        <item>الافتراضي</item>
+        <item>النصوص</item>
+        <item>الأزرار</item>
+        <item>مربع تعديل</item>
+
+        <item>الصور</item>
+        <item>مربع اختيار</item>
+        <item>شريط تَقَدُّم</item>
+        <item>القوائم</item>
+        <item>عناصر القائمة الحالية</item>
+        <item>التركيز</item>
+        <item>العناصر القابلة للنَقْر</item>
+        <item>العُقَد</item>
+        <item>التمرير</item>
+        <item>التَّصَفُّح العمودي</item>
+
+
+        <item>الأحرُف</item>
+        <item>الكلمات</item>
+        <item>الأَسْطُر</item>
+        <item>الفِقْرات</item>
+        <item>الصفحات</item>
+        <item>نَسْخ، و نَسْخ إضافي</item>
+        <item>مستوى الصوت</item>
+        <item>سرعة الكلام</item>
+        <item>الترجمة، و التَّعَرُّف على النص</item>
+
+    </string-array>
+
 
 </resources>

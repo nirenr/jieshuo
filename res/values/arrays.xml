@@ -6,6 +6,13 @@
         <item>@string/directory_cmd</item>
         <item>@string/directory_tools</item>
         <item>@string/app</item>
+        <item>@string/select_granularity_mode</item>
+        <item>@string/to_previous_granularity</item>
+        <item>@string/to_next_granularity</item>
+        <item>@string/to_previous_granularity_item</item>
+        <item>@string/to_next_granularity_item</item>
+
+        <item>@string/command_raw_tap</item>
         <item>@string/command_to_previous_focus</item>
         <item>@string/command_to_next_focus</item>
         <item>@string/command_start</item>
@@ -88,6 +95,11 @@
         <item>@string/raw_swipe_right</item>
         <item>@string/raw_swipe_up</item>
         <item>@string/raw_swipe_down</item>
+        <item>@string/command_quick_settings</item>
+        <item>@string/command_take_screenshot</item>
+        <item>@string/command_off_screen2</item>
+        <item>@string/command_power_dialog</item>
+        <item>@string/command_raw_double_tap</item>
     </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
@@ -535,32 +547,84 @@
         <item>Title</item>
         <item>Link</item>
         <item>Button</item>
+
+        <item>Landmark</item>
+        <item>Edit box</item>
+        <item>Focusable element</item>
+        <item>Control</item>
+        <item>Image</item>
+        <item>Check box</item>
+        <item>Combo box</item>
+        <item>Form filed</item>
+        <item>List</item>
+        <item>List item</item>
+
         <item>Scroll</item>
         <item>View</item>
+
+        <item>Character</item>
+        <item>Word</item>
+        <item>Line</item>
+        <item>Pagarpah</item>
+        <item>Page</item>
+        <item>Copy</item>
+        <item>Volume</item>
+        <item>Speech rate</item>
+        <item>Recognition engine</item>
     </string-array>
 
-    <string-array name="hot_key_help_items" >
-        <item>CTRL+DPAD_UP: 上个焦点</item>
-        <item>CTRL+DPAD_DOWN: 下个焦点</item>
-        <item>CTRL+DPAD_LEFT: 左快捷功能</item>
-        <item>CTRL+DPAD_RIGHT: 右快捷功能</item>
-        <item>CTRL+PAGE_DOWN: 向下滚动</item>
-        <item>CTRL+PAGE_DOWN: 向上滚动</item>
-        <item>CTRL+H: 主屏幕</item>
-        <item>CTRL+N: 通知栏</item>
-        <item>CTRL+P: 最近任务</item>
-        <item>CTRL+SPACE: 点击</item>
-        <item>CTRL+L: 长按</item>
-        <item>CTRL+Q: 快速设置</item>
+    <string-array name="hot_key_help_items">
+        <item>CTRL+DPAD_UP: Previous focusable element</item>
+        <item>CTRL+DPAD_DOWN: Next focusable element</item>
+        <item>CTRL+DPAD_LEFT: Left shortcut</item>
+        <item>CTRL+DPAD_RIGHT: Right shortcut</item>
+        <item>CTRL+PAGE_UP: Scroll up</item>
+        <item>CTRL+PAGE_DOWN: Scroll down</item>
+        <item>CTRL+H: Home screen</item>
+        <item>CTRL+N: Notification cneter</item>
+        <item>CTRL+P: Recent applications</item>
+        <item>CTRL+SPACE: Click</item>
+        <item>CTRL+L: Click</item>
+        <item>CTRL+Q: Quick settings</item>
 
-        <item>ALT+M: 主菜单</item>
-        <item>ALT+A: 操作菜单</item>
-        <item>ALT+P: 扩展插件</item>
-        <item>ALT+T: 扩展工具</item>
-        <item>ALT+V: 语音助手</item>
-        <item>ALT+S: 拆分编辑</item>
-        <item>ALT+L: 列表浏览</item>
+        <item>ALT+M: Global menu</item>
+        <item>ALT+A: Action menu</item>
+        <item>ALT+P: Extensions</item>
+        <item>ALT+T: Tools</item>
+        <item>ALT+V: Voice assistant</item>
+        <item>ALT+S: Split editing</item>
+        <item>ALT+L: List browsing</item>
 
     </string-array>
+    <string-array name="view_type_title">
+        <item>Default</item>
+        <item>Text</item>
+        <item>Button</item>
+        <item>Text box</item>
+
+        <item>Image</item>
+        <item>Checkbox</item>
+        <item>Progress bar</item>
+        <item>List</item>
+        <item>List item</item>
+        <item>Focusable element</item>
+        <item>Clickable element</item>
+        <item>Node</item>
+        <item>Slider</item>
+        <item>Move vertically</item>
+
+
+        <item>Character</item>
+        <item>Word</item>
+        <item>Line</item>
+        <item>Pagarpah</item>
+        <item>Page</item>
+        <item>Copy</item>
+        <item>Volume</item>
+        <item>Speech rate</item>
+        <item>Recognition engine</item>
+
+    </string-array>
+
 
 </resources>
