@@ -184,9 +184,9 @@
     <string name="directory_plugins">Plugins</string>
     <string name="message_recognition">Erkennung läuft</string>
     <string name="message_recognition_error">Erkennung fehlgeschlagen. Bitte versuchen Sie es erneut.</string>
-    <string name="directory_sounds">Sounds</string>
+    <string name="directory_Sounds">sounds</string>
     <string name="directory_resources">Resources</string>
-    <string name="file_name_letter">letters.json</string>
+    <string name="file_name_letter">dict.json</string>
     <string name="file_name_symbol">symbols.json</string>
     <string name="directory_labels">Labels</string>
     <string name="directory_backup">Backups</string>
@@ -299,7 +299,7 @@
     <string name="right_long_edge_gesture_title">Rechte Seite Wischgeste</string>
     <string name="left_long_edge_gesture_title">Linke Seite Wischgeste</string>
     <string name="left_long_edge_gesture_summary">Wischen Sie vom linken Rand des Bildschirms nach rechts</string>
-    <string name="right_long_edge_gesture_summary">Wischen Sie vom rechten Rand des Bildschirms nach links.</string>
+	    <string name="right_long_edge_gesture_summary">Wischen Sie vom rechten Rand des Bildschirms nach links.</string>
     <string name="use_up_long_quick_menu_summary">Beim langen Drücken auf ein Element Menü für Schnellzugriff anzeigen</string>
     <string name="up_volume_short_key_value_default">lauter</string>
     <string name="up_volume_short_key_title">Kurzes Drücken der lauter-Taste: </string>
@@ -392,7 +392,7 @@
     <string name="use_speak_changed_window_title">Liest den kompletten Text eines Fensters bei Änderung: </string>
     <string name="use_timer_sound_title">Timer Ton: </string>
     <string name="timer_setting_title">Timer Einstellungen</string>
-    <string name="voice_cmd_setting_title">Sprachbefehle Einstellungen</string>
+    <string name="voice_cmd_setting_title">Sprachbefehle</string>
     <string name="directory_cmd">Custom voice commands</string>
     <string name="use_move_list_view_item_summary">Ermöglicht schnelles Bewegen innerhalb von Listen</string>
     <string name="add">Hinzufügen</string>
@@ -414,7 +414,7 @@
     <string name="notification_black_list_summary">Benachrichtigungen von blockierten Apps werden nicht gesprochen.</string>
     <string name="notification_while_list_summary">Benachrichtigungen von erlaubten Apps werden immer gesprochen.</string>
     <string name="system_tts_volume_title">Lautstärke der System Sprachausgabe</string>
-    <string name="notification_select_title">Benachrichtigungseinstellungen</string>
+			<string name="notification_select_title">Benachrichtigungseinstellungen</string>
 
     <string name="message_disable_dim_screen">Bitte deaktivieren Sie zuerst den Bildschirmvorhang</string>
     <string name="start_long_copy">Erweiterter Kopiervorgang gestartet</string>
@@ -432,7 +432,7 @@
     <string name="auto_next">Automatisch vorlesen</string>
     <string name="message_copy">Text kopiert</string>
     <string name="message_append">Text angehängt</string>
-    <string name="text_format_settings_title">Wörterbuch Einstellungen</string>
+     <string name="text_format_settings_title">Wörterbuch Einstellungen</string>
     <string name="use_text_format_first_title">Im Erleuterungsmodus zuerst Text lesen: </string>
     <string name="use_text_format_char_number_title">Lese zusammenhängende Buchstaben als einzelnen Buchstaben: </string>
 
@@ -454,8 +454,8 @@
     <string name="command_click">Tippen</string>
     <string name="command_long_click">Langes tippen</string>
     <string name="command_unlock">Entsperren</string>
-    <string name="command_start">oben</string>
-    <string name="command_end">Unten</string>
+    <string name="command_start">Erstes Element</string>
+    <string name="command_end">Letztes Element</string>
     <string name="command_nothing">Kein Befehl</string>
     <string name="command_sleep">Schlafmodus</string>
     <string name="command_send_log">Log-Dateien senden</string>
@@ -466,8 +466,8 @@
     <string name="command_content_setting">@string/content_setting_title</string>
     <string name="command_notification_setting">@string/notification_settings_title</string>
     <string name="command_help_feed_setting">Hilfe und Feedback</string>
-    <string name="command_left_shortcut">Linke Seite Kurzbefehl</string>
-    <string name="command_right_shortcut">Rechte Seite Kurzbefehl</string>
+    <string name="command_left_shortcut">Fokus nach links bewegen</string>
+    <string name="command_right_shortcut">Fokus nach rechts bewegen</string>
     <string name="command_long_copy">Erweitertes kopieren von Text</string>
     <string name="command_my_location">meine Position</string>
     <string name="command_where_i">Wo bin ich</string>
@@ -487,8 +487,8 @@
     <string name="command_to_next_focus">Nächstes Element</string>
     <string name="command_to_previous_page">Vorherige Seite</string>
     <string name="command_to_next_page">Nächste Seite</string>
-    <string name="command_to_previous_scroll">Nach oben scrollen</string>
-    <string name="command_to_next_scroll">Nach unten scrollen</string>
+    <string name="command_to_previous_scroll">Vom aktuellen Element rückwärts lesen</string>
+    <string name="command_to_next_scroll">Vom aktuellen Element vorwärts lesen</string>
     <string name="command_to_previous_progress">Schieberegler, Wert verringern</string>
     <string name="command_to_next_progress">Schieberegler, Wert erhöhen</string>
     <string name="command_lower_volume">Lautstärke reduzieren</string>
@@ -757,7 +757,7 @@
     <string name="edit_box_no_found">Eingabefeld nicht gefunden</string>
     <string name="msg_speak_content">Inhalt sprechen</string>
     <string name="msg_bye">Tschüs</string>
-    <string name="date_format">HH:mm</string>
+<string name="date_format">HH:mm</string>
     <string name="date_format0">HH:00</string>
     <string name="more">Mehr</string>
     <string name="add_label">Beschriftung hinzufügen</string>
@@ -865,7 +865,7 @@
     <string name="need_vip">Falls Sie eine Lizenz kaufen möchten, wenden Sie sich bitte an den Support.</string>
     <string name="check_read_phone_state_permission">Berechtigung für sprechen der Anrufinfo prüfen</string>
     <string name="message_timer_mode_disabled">Timer gestoppt,%s ,现在是 %s</string>
-    <string name="camera_right_up">Nach rechts und höher</string>
+        <string name="camera_right_up">Nach rechts und höher</string>
     <string name="camera_left_up">Nach links und höher</string>
     <string name="camera_hold_posture">Hold your posture</string>
     <string name="camera_hold_posture_have_face">Hold posture, have %d faces</string>
@@ -920,6 +920,7 @@
     <string name="command_raw_tap">Aktivieren durch Tippen und Halten</string>
     <string name="msg_enabled_raw_tap">Aktivieren von Elementen durch Tippen und Halten eingeschaltet. Tippen Sie eine Sekunde auf den Bildschirm, um das Element unter Ihrem Finger zu aktivieren.</string>
     <string name="msg_disabled_raw_tap">Aktivieren durch Tippen und Halten ausgeschaltet.</string>
+    <string name="system_tts_scale">system_tts_scale</string>
     <string name="system_tts_scale_summary">Verdoppelt, verdreifacht oder vervierfacht die aktuell eingestellte Sprechgeschwindigkeit. Achtung, dieses Feature befindet sich noch in der Beta-Phase und funktioniert vielleicht nicht mit allen Sprachausgaben!</string>
     <string name="send_email_title">Email an Autor senden 946049229@qq.com</string>
 
@@ -971,7 +972,7 @@
     <string name="add_from_virtual_list">Von Texterkennung erkannte Zeichen hinzufügen</string>
     <string name="use_ocr_qq_title">Tencent cloud Texterkennung.</string>
     <string name="ocr_lang_enteries">Englisch gemischt|Automatische Erkennung von |Japanisch|Koreanisch|Spanisch|Französisch|Deutsch|Portugiesisch|Vietnamesisch|malayisch|Russisch|Italienisch|niederländisch|Schwedisch|Finnisch|Dänisch|Norwegisch|ungarisch|Thailändisch|Lateinisch</string>
-    <string name="cmd_description">Beschreibung (mind. 15 Zeichen)</string>
+string name="cmd_description">Beschreibung (mind. 15 Zeichen)</string>
     <string name="timer_run_title">Geplante Timer</string>
     <string name="msg_has_vip_timer_run">In der Demoversion können nur Timer hinzugefügt werden.</string>
     <string name="use_web_view_name_title">HTML-Elementtypen auf Webseiten ansagen</string>
@@ -1033,17 +1034,18 @@
     <string name="setup_setting_has_overlay_permission">Berechtigung zum Anzeigen über anderen Apps wurde erteilt.</string>
     <string name="copy_username_and_userid">Benutzername und ID kopieren.</string>
     <string name="username_and_userid_format">Benutzername: %s user ID: %s</string>
+<string name="file_name_dict">词典.json</string>
 
-    <string name="file_name_dict">dict.json</string>
     <string name="refresh">Aktualisieren</string>
     <string name="msg_filter">%d Ergebnisse gefunden</string>
     <string name="use_custom_symbol_speak_title">Benutzerwörterbuch verwenden</string>
     <string name="custom_symbol_title">Benutzerwörterbuch</string>
     <string name="use_custom_dict_speak_title">Benutzerwörterbuch verwenden</string>
     <string name="custom_dict_title">Benutzerwörterbuch Einstellungen</string>
+
     <string name="msg_has_vip_dict">Für Nutzer der kostenlosen Version ist das Wörterbuch auf 5 Einträge beschränkt.</string>
     <string name="undo">Rückgängig</string>
-    <string name="redo">Wiederholen</string>
+    <string name="Wiederholen">Redo</string>
     <string name="last_open">Zuletzt geöffnete Dateien</string>
     <string name="create_file">Neue Datei erstellen</string>
     <string name="open_project">Projekt öffnen</string>
@@ -1103,13 +1105,13 @@
     <string name="app_hot_key_package_title">Kurztastenschema auswählen</string>
     <string name="app_hot_key_package_summary">Kurztasten für Anwendungen konfigurieren</string>
     <string name="directory_hot_key">Kurztasten</string>
-    <string name="hot_key_summary">Drücken Sie die Taste, die Sie belegen möchten</string>
-    <string name="sound_timer_end">Timer ende</string>
+    <string name="hot_key_summary">Drücken Sie die Taste, die Sie belegen möchten<string>
+<string name="sound_timer_end">Timer ende</string>
     <string name="sound_timer_start">Timer starten</string>
     <string name="use_scroll_list_content_title">Inhalt beim Scrollen lesen</string>
     <string name="use_view_type_move_title">Navigation nach Element Typ</string>
     <string name="use_view_type_move_summary">Falls beim Belegen der Geste ein Konflikt auftritt, ändern Sie die Belegung der Geste.</string>
-    <string name="command_raw_double_tap">[Doppelt tippen]</string>
+<string name="command_raw_double_tap">[Doppelt tippen]</string>
     <string name="to_previous_granularity_item">Vorheriges Element in gewählter Navigationsebene</string>
     <string name="to_next_granularity_item">Nächstes element in gewählter Navigationsebene</string>
     <string name="to_previous_granularity">Vorherige Navigationsebene</string>
@@ -1119,7 +1121,7 @@
     <string name="view_type_move_title">Elementtypen für Standardansicht festlegen.</string>
     <string name="notification_in_touch_no_speak_title">Bei Verwendung des Touchscreens eingehende Benachrichtigungen unterdrücken.</string>
 
-    <string name="use_keep_type_move_title">Focus beim Fenster wechseln wiederherstellen</string>
+    <string name="use_keep_type_move_title">beim wechseln des Fensters Navigationsebene beibehalten</string>
     <string name="hot_key_manager_title">Kurztasten verwalten</string>
     <string name="msg_hot_key_empty">Keine Kurztasten erstellt.</string>
     <string name="cloud_backup_hot_key_title">Kurztasten sichern</string>
@@ -1137,12 +1139,12 @@
     <string name="import_file">Importieren</string>
     <string name="overwrite_file">Überschreiben</string>
     <string name="gesture_2_single_tap">Mit 2 Fingern ein mal tippen</string>
-    <string name="gesture_3_single_tap">Mit 4 Fingern 3 mal tippen</string>
+    <string name="gesture_3_single_tap">Mit 2 Fingern ein mal tippen</string>
     <string name="gesture_4_single_tap">Mit 4 Fingern ein mal tippen</string>
     <string name="gesture_2_double_tap">Mit 2 Fingern doppelt tippen</string>
     <string name="gesture_3_double_tap">Mit 3 Fingern doppelt tippen</string>
     <string name="gesture_4_double_tap">Mit 4 Fingern doppelt tippen</string>
-    <string name="gesture_2_triple_tap">Mit 2 Fingern doppelt tippen</string>
+    <string name="gesture_2_triple_tap">Mit 2 Fingern 3 malt tippen</string>
     <string name="gesture_3_triple_tap">Mit 3 Fingern 3 mal tippen.</string>
     <string name="gesture_4_triple_tap">Mit 4 Fingern 3 mal tippen</string>
     <string name="gesture_2_double_tap_hold">Mitt 2 Fingern doppelt tippen und halten</string>
@@ -1157,10 +1159,10 @@
     <string name="gesture_2_swipe_left">Mit 2 Fingern nach links wischen</string>
     <string name="gesture_3_swipe_left">Mit 3 Fingern nach links wischen.</string>
     <string name="gesture_4_swipe_left">Mit 4 Fingern nach links wischen.</string>
-    <string name="gesture_2_swipe_right">Mit 2 Fingern nach rechts wischen</string>
-    <string name="gesture_3_swipe_right">Mit 3 Fingern nach rechts wischen</string>
+				<string name="gesture_2_swipe_right">Mit 2 Fingern nach rechts wischen</string>
+				<string name="gesture_3_swipe_right">Mit 3 Fingern nach rechts wischen</string>
     <string name="gesture_4_swipe_right">Mit 4 Fingern nach rechts wischen</string>
-    <string name="msg_gesture_updated">Das Gestenschema wurde erfolgreich aktualisiert.</string>
+        <string name="msg_gesture_updated">Das Gestenschema wurde erfolgreich aktualisiert.</string>
     <string name="msg_favorite_added">Zu Favoriten hinzugefügt.</string>
     <string name="msg_shared">Teilen war erfolgreich.</string>
     <string name="msg_share_error">Beim Teilen ist ein Fehler aufgetreten.</string>
