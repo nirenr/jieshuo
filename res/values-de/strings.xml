@@ -186,7 +186,7 @@
     <string name="message_recognition_error">Erkennung fehlgeschlagen. Bitte versuchen Sie es erneut.</string>
     <string name="directory_sounds">Sounds</string>
     <string name="directory_resources">Resources</string>
-    <string name="file_name_letter">letters.json</string>
+    <string name="file_name_letter">dict.json</string>
     <string name="file_name_symbol">symbols.json</string>
     <string name="directory_labels">Labels</string>
     <string name="directory_backup">Backups</string>
@@ -299,7 +299,7 @@
     <string name="right_long_edge_gesture_title">Rechte Seite Wischgeste</string>
     <string name="left_long_edge_gesture_title">Linke Seite Wischgeste</string>
     <string name="left_long_edge_gesture_summary">Wischen Sie vom linken Rand des Bildschirms nach rechts</string>
-    <string name="right_long_edge_gesture_summary">Wischen Sie vom rechten Rand des Bildschirms nach links.</string>
+	    <string name="right_long_edge_gesture_summary">Wischen Sie vom rechten Rand des Bildschirms nach links.</string>
     <string name="use_up_long_quick_menu_summary">Beim langen Drücken auf ein Element Menü für Schnellzugriff anzeigen</string>
     <string name="up_volume_short_key_value_default">lauter</string>
     <string name="up_volume_short_key_title">Kurzes Drücken der lauter-Taste: </string>
@@ -392,7 +392,7 @@
     <string name="use_speak_changed_window_title">Liest den kompletten Text eines Fensters bei Änderung: </string>
     <string name="use_timer_sound_title">Timer Ton: </string>
     <string name="timer_setting_title">Timer Einstellungen</string>
-    <string name="voice_cmd_setting_title">Sprachbefehle Einstellungen</string>
+    <string name="voice_cmd_setting_title">Sprachbefehle</string>
     <string name="directory_cmd">Custom voice commands</string>
     <string name="use_move_list_view_item_summary">Ermöglicht schnelles Bewegen innerhalb von Listen</string>
     <string name="add">Hinzufügen</string>
@@ -414,7 +414,7 @@
     <string name="notification_black_list_summary">Benachrichtigungen von blockierten Apps werden nicht gesprochen.</string>
     <string name="notification_while_list_summary">Benachrichtigungen von erlaubten Apps werden immer gesprochen.</string>
     <string name="system_tts_volume_title">Lautstärke der System Sprachausgabe</string>
-    <string name="notification_select_title">Benachrichtigungseinstellungen</string>
+			<string name="notification_select_title">Benachrichtigungseinstellungen</string>
 
     <string name="message_disable_dim_screen">Bitte deaktivieren Sie zuerst den Bildschirmvorhang</string>
     <string name="start_long_copy">Erweiterter Kopiervorgang gestartet</string>
@@ -432,7 +432,7 @@
     <string name="auto_next">Automatisch vorlesen</string>
     <string name="message_copy">Text kopiert</string>
     <string name="message_append">Text angehängt</string>
-    <string name="text_format_settings_title">Wörterbuch Einstellungen</string>
+     <string name="text_format_settings_title">Wörterbuch Einstellungen</string>
     <string name="use_text_format_first_title">Im Erleuterungsmodus zuerst Text lesen: </string>
     <string name="use_text_format_char_number_title">Lese zusammenhängende Buchstaben als einzelnen Buchstaben: </string>
 
@@ -454,8 +454,8 @@
     <string name="command_click">Tippen</string>
     <string name="command_long_click">Langes tippen</string>
     <string name="command_unlock">Entsperren</string>
-    <string name="command_start">oben</string>
-    <string name="command_end">Unten</string>
+    <string name="command_start">Erstes Element</string>
+    <string name="command_end">Letztes Element</string>
     <string name="command_nothing">Kein Befehl</string>
     <string name="command_sleep">Schlafmodus</string>
     <string name="command_send_log">Log-Dateien senden</string>
@@ -466,8 +466,8 @@
     <string name="command_content_setting">@string/content_setting_title</string>
     <string name="command_notification_setting">@string/notification_settings_title</string>
     <string name="command_help_feed_setting">Hilfe und Feedback</string>
-    <string name="command_left_shortcut">Linke Seite Kurzbefehl</string>
-    <string name="command_right_shortcut">Rechte Seite Kurzbefehl</string>
+    <string name="command_left_shortcut">Fokus nach links bewegen</string>
+    <string name="command_right_shortcut">Fokus nach rechts bewegen</string>
     <string name="command_long_copy">Erweitertes kopieren von Text</string>
     <string name="command_my_location">meine Position</string>
     <string name="command_where_i">Wo bin ich</string>
@@ -487,8 +487,8 @@
     <string name="command_to_next_focus">Nächstes Element</string>
     <string name="command_to_previous_page">Vorherige Seite</string>
     <string name="command_to_next_page">Nächste Seite</string>
-    <string name="command_to_previous_scroll">Nach oben scrollen</string>
-    <string name="command_to_next_scroll">Nach unten scrollen</string>
+    <string name="command_to_previous_scroll">Vom aktuellen Element rückwärts lesen</string>
+    <string name="command_to_next_scroll">Vom aktuellen Element vorwärts lesen</string>
     <string name="command_to_previous_progress">Schieberegler, Wert verringern</string>
     <string name="command_to_next_progress">Schieberegler, Wert erhöhen</string>
     <string name="command_lower_volume">Lautstärke reduzieren</string>
@@ -757,7 +757,7 @@
     <string name="edit_box_no_found">Eingabefeld nicht gefunden</string>
     <string name="msg_speak_content">Inhalt sprechen</string>
     <string name="msg_bye">Tschüs</string>
-    <string name="date_format">HH:mm</string>
+<string name="date_format">HH:mm</string>
     <string name="date_format0">HH:00</string>
     <string name="more">Mehr</string>
     <string name="add_label">Beschriftung hinzufügen</string>
@@ -865,7 +865,7 @@
     <string name="need_vip">Falls Sie eine Lizenz kaufen möchten, wenden Sie sich bitte an den Support.</string>
     <string name="check_read_phone_state_permission">Berechtigung für sprechen der Anrufinfo prüfen</string>
     <string name="message_timer_mode_disabled">Timer gestoppt,%s ,现在是 %s</string>
-    <string name="camera_right_up">Nach rechts und höher</string>
+        <string name="camera_right_up">Nach rechts und höher</string>
     <string name="camera_left_up">Nach links und höher</string>
     <string name="camera_hold_posture">Hold your posture</string>
     <string name="camera_hold_posture_have_face">Hold posture, have %d faces</string>
@@ -1033,8 +1033,8 @@
     <string name="setup_setting_has_overlay_permission">Berechtigung zum Anzeigen über anderen Apps wurde erteilt.</string>
     <string name="copy_username_and_userid">Benutzername und ID kopieren.</string>
     <string name="username_and_userid_format">Benutzername: %s user ID: %s</string>
+<string name="file_name_dict">词典.json</string>
 
-    <string name="file_name_dict">dict.json</string>
     <string name="refresh">Aktualisieren</string>
     <string name="msg_filter">%d Ergebnisse gefunden</string>
     <string name="use_custom_symbol_speak_title">Benutzerwörterbuch verwenden</string>
@@ -1119,7 +1119,7 @@
     <string name="view_type_move_title">Elementtypen für Standardansicht festlegen.</string>
     <string name="notification_in_touch_no_speak_title">Bei Verwendung des Touchscreens eingehende Benachrichtigungen unterdrücken.</string>
 
-    <string name="use_keep_type_move_title">Focus beim Fenster wechseln wiederherstellen</string>
+    <string name="use_keep_type_move_title">beim wechseln des Fensters Navigationsebene beibehalten</string>
     <string name="hot_key_manager_title">Kurztasten verwalten</string>
     <string name="msg_hot_key_empty">Keine Kurztasten erstellt.</string>
     <string name="cloud_backup_hot_key_title">Kurztasten sichern</string>
@@ -1137,12 +1137,12 @@
     <string name="import_file">Importieren</string>
     <string name="overwrite_file">Überschreiben</string>
     <string name="gesture_2_single_tap">Mit 2 Fingern ein mal tippen</string>
-    <string name="gesture_3_single_tap">Mit 4 Fingern 3 mal tippen</string>
+    <string name="gesture_3_single_tap">Mit 2 Fingern ein mal tippen</string>
     <string name="gesture_4_single_tap">Mit 4 Fingern ein mal tippen</string>
     <string name="gesture_2_double_tap">Mit 2 Fingern doppelt tippen</string>
     <string name="gesture_3_double_tap">Mit 3 Fingern doppelt tippen</string>
     <string name="gesture_4_double_tap">Mit 4 Fingern doppelt tippen</string>
-    <string name="gesture_2_triple_tap">Mit 2 Fingern doppelt tippen</string>
+    <string name="gesture_2_triple_tap">Mit 2 Fingern 3 malt tippen</string>
     <string name="gesture_3_triple_tap">Mit 3 Fingern 3 mal tippen.</string>
     <string name="gesture_4_triple_tap">Mit 4 Fingern 3 mal tippen</string>
     <string name="gesture_2_double_tap_hold">Mitt 2 Fingern doppelt tippen und halten</string>
@@ -1160,10 +1160,34 @@
     <string name="gesture_2_swipe_right">Mit 2 Fingern nach rechts wischen</string>
     <string name="gesture_3_swipe_right">Mit 3 Fingern nach rechts wischen</string>
     <string name="gesture_4_swipe_right">Mit 4 Fingern nach rechts wischen</string>
-    <string name="msg_gesture_updated">Das Gestenschema wurde erfolgreich aktualisiert.</string>
+        <string name="msg_gesture_updated">Das Gestenschema wurde erfolgreich aktualisiert.</string>
     <string name="msg_favorite_added">Zu Favoriten hinzugefügt.</string>
     <string name="msg_shared">Teilen war erfolgreich.</string>
     <string name="msg_share_error">Beim Teilen ist ein Fehler aufgetreten.</string>
     <string name="select_progress">Fortschrittsanzeige lesen</string>
+    <string name="node_changed_list_manager">Fokus Überwachung anpassen</string>
+    <string name="add_node_changed_list">Fokus Überwachung</string>
+    <string name="switch_multi_finger_gestures">Enable multifinger gestyuresMehrfingergesten aktivieren</string>
+    <string name="msg_node_changed_list_added">Objekt zur Überwachung hinzugefügt.</string>
+    <string name="msg_node_changed_list_removed">Objekt aus Überwachung entfernt</string>
+    <string name="msg_in_game_mode">Spielemodus aktiviert.</string>
+    <string name="msg_exit_game_mode">Spielemodus deaktiviert.</string>
+    <string name="use_accessibility_volume_fix_title">Optimierung der Bedienungshilfen Lautstärke verwenden</string>
+    <string name="use_accessibility_volume_fix_summary">Aktivieren Sie diese Option, falls Sie die Lautstärke nicht verändern können oder die Einstellung nicht korrekt funktioniert.</string>
+    <string name="privacy">Privatsphäre und Datenschutz</string>
+    <string name="show_download_title">Jieshuo ScreenReader herunterladen</string>
+    <string name="version_msg">%s\nGröße:%s\nAnzahl Downloads:%s</string>
+    <string name="user_new_password">Neues Passwort (6 - 15 Zeichen): </string>
+    <string name="repassword_title">Passwort bestätigen: </string>
+    <string name="msg_not_empty">Das Feld darf nicht leer sein!</string>
+    <string name="msg_unknown_error">Ein unbekannter Fehler ist aufgetreten. Please try again later or contact the customer support.\n</string>
+    <string name="msg_timer_mode_pause">Der Timer wurde pausiert.</string>
+    <string name="msg_timer_mode_resume">Der Timer wird fortgesetzt.</string>
+    <string name="msg_multi_touch_mode_enabled">Mehrfingergesten wurden aktiviert.</string>
+    <string name="msg_multi_touch_mode_disenabled">Mehrfingergesten wurden deaktiviert.</string>
+    <string name="activation_code_text">Aktivierungs-Code: </string>
+    <string name="activate_title">Premium Version aktivieren</string>
+    <string name="select_app">App auswählen</string>
+    <string name="command_to_split_screen">Geteilter Bildschirm</string>
 
 </resources>

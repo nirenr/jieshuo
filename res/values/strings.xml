@@ -1168,6 +1168,30 @@
     <string name="msg_shared">Sharing successfull.</string>
     <string name="msg_share_error">An error occurred while sharing.</string>
     <string name="select_progress">Schedule</string>
+    <string name="node_changed_list_manager">Manage the focus monitoring</string>
+    <string name="add_node_changed_list">Focus monitoring</string>
+    <string name="switch_multi_finger_gestures">Enable multifinger gestyures</string>
+    <string name="msg_node_changed_list_added">Added a monitored object.</string>
+    <string name="msg_node_changed_list_removed">Remove a monitored object.</string>
+    <string name="msg_in_game_mode">Entered gamer mode.</string>
+    <string name="msg_exit_game_mode">Exited game mode.</string>
+    <string name="use_accessibility_volume_fix_title">Use accessibility volume optimization</string>
+    <string name="use_accessibility_volume_fix_summary">If you cannot change the volume or the volume changes are wrong, please turn on this option.</string>
+    <string name="privacy">Privacy policy</string>
+    <string name="show_download_title">Download Commentary Screenreader</string>
+    <string name="version_msg">%s\nSize:%s\nNumber of downloads:%s</string>
+    <string name="user_new_password">New password (6 to 15 latin characters): </string>
+    <string name="repassword_title">Confirm password: </string>
+    <string name="msg_not_empty">The field cannot be empty!</string>
+    <string name="msg_unknown_error">An unknown error has occured. Please try again later or contact the customer support.\n</string>
+    <string name="msg_timer_mode_pause">The timer has been paused.</string>
+    <string name="msg_timer_mode_resume">The timer has been resumed.</string>
+    <string name="msg_multi_touch_mode_enabled">Multifinger gestures have been enabled.</string>
+    <string name="msg_multi_touch_mode_disenabled">Multifinger gestures have been disabled.</string>
+    <string name="activation_code_text">Activation code: </string>
+    <string name="activate_title">Activate premium membership</string>
+    <string name="select_app">Select an app</string>
+    <string name="command_to_split_screen">Split screen view</string>
 
 
 </resources>

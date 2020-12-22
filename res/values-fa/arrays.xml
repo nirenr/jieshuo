@@ -12,6 +12,9 @@
         <item>@string/to_previous_granularity_item</item>
         <item>@string/to_next_granularity_item</item>
 
+        <item>@string/add_node_changed_list</item>
+        <item>@string/node_changed_list_manager</item>
+
         <item>@string/command_raw_tap</item>
         <item>@string/command_to_previous_focus</item>
         <item>@string/command_to_next_focus</item>
@@ -100,6 +103,7 @@
         <item>@string/command_off_screen2</item>
         <item>@string/command_power_dialog</item>
         <item>@string/command_raw_double_tap</item>
+        <item>@string/command_to_split_screen</item>
     </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
@@ -550,81 +554,81 @@
         <item>پیوند</item>
         <item>دگمه</item>
 
-        <item>地标</item>
-        <item>编辑框</item>
-        <item>焦点</item>
-        <item>控件</item>
-        <item>图片</item>
-        <item>复选框</item>
-        <item>组合框</item>
-        <item>表格</item>
-        <item>列表</item>
-        <item>列表项</item>
+        <item>بخش</item>
+        <item>کادر ویرایش</item>
+        <item>عنصر قابل کلیک</item>
+        <item>کنترل</item>
+        <item>گرافیک</item>
+        <item>کادر علامت‌زدنی</item>
+        <item>جعبه کشویی</item>
+        <item>فیلد</item>
+        <item>لیست</item>
+        <item>مورد</item>
 
         <item>پیمایش</item>
         <item>نما</item>
 
-        <item>字</item>
-        <item>词</item>
-        <item>行</item>
-        <item>段</item>
-        <item>页</item>
-        <item>复制</item>
-        <item>音量</item>
-        <item>语速</item>
-        <item>识别翻译</item>
+        <item>حرف</item>
+        <item>کلمه</item>
+        <item>خط</item>
+        <item>پاراگراف</item>
+        <item>صفحه</item>
+        <item>کپی</item>
+        <item>میزان صدا</item>
+        <item>سرعت گفتار</item>
+        <item>خواننده نوری</item>
     </string-array>
 
     <string-array name="hot_key_help_items">
-        <item>CTRL+DPAD_UP: 上个焦点</item>
-        <item>CTRL+DPAD_DOWN: 下个焦点</item>
-        <item>CTRL+DPAD_LEFT: 左快捷功能</item>
-        <item>CTRL+DPAD_RIGHT: 右快捷功能</item>
-        <item>CTRL+PAGE_UP: 向上滚动</item>
-        <item>CTRL+PAGE_DOWN: 向下滚动</item>
-        <item>CTRL+H: 主屏幕</item>
-        <item>CTRL+N: 通知栏</item>
-        <item>CTRL+P: 最近任务</item>
-        <item>CTRL+SPACE: 点击</item>
-        <item>CTRL+L: 长按</item>
-        <item>CTRL+Q: 快速设置</item>
+        <item>CTRL+DPAD_UP: عنصر قابل فوکوس قبلی</item>
+        <item>CTRL+DPAD_DOWN: عنصر قابل فوکوس بعدی</item>
+        <item>CTRL+DPAD_LEFT: میانبر  چپ</item>
+        <item>CTRL+DPAD_RIGHT: میانبر راست</item>
+        <item>CTRL+PAGE_UP: پیمایش به بالا</item>
+        <item>CTRL+PAGE_DOWN: پیمایش به پایین</item>
+        <item>CTRL+H: صفحه اصلی</item>
+        <item>CTRL+N: پنل اعلانات</item>
+        <item>CTRL+P: برنامه‌های اخیر</item>
+        <item>CTRL+SPACE: کلیک</item>
+        <item>CTRL+L: فشار طولانی</item>
+        <item>CTRL+Q: تنظیمات سریع</item>
 
-        <item>ALT+M: 主菜单</item>
-        <item>ALT+A: 操作菜单</item>
-        <item>ALT+P: 扩展插件</item>
-        <item>ALT+T: 扩展工具</item>
-        <item>ALT+V: 语音助手</item>
-        <item>ALT+S: 拆分编辑</item>
-        <item>ALT+L: 列表浏览</item>
+        <item>ALT+M: منوی اصلی</item>
+        <item>ALT+A: منوی عملیات</item>
+        <item>ALT+P: ابزارک‌ها</item>
+        <item>ALT+T: ابزار‌ها</item>
+        <item>ALT+V: دستیار صوتی</item>
+        <item>ALT+S: ویرایش تکه‌ای</item>
+        <item>ALT+L: حالت مرور لیستی</item>
 
     </string-array>
     <string-array name="view_type_title">
-        <item>默认</item>
-        <item>文本</item>
-        <item>按钮</item>
-        <item>编辑框</item>
+        <item>پیشفرض</item>
+        <item>متن</item>
+        <item>دگمه</item>
+        <item>کادر ویرایش</item>
 
-        <item>图片</item>
-        <item>复选框</item>
-        <item>进度条</item>
-        <item>列表</item>
-        <item>列表项</item>
-        <item>可聚焦</item>
-        <item>可点击</item>
-        <item>节点</item>
-        <item>滚动</item>
-        <item>垂直移动</item>
+        <item>عکس</item>
+        <item>کادر علامت‌زدنی</item>
+        <item>نوار پیشرفت</item>
+        <item>لیست</item>
+        <item>مورد</item>
+        <item>عنصر قابل فوکوس</item>
+        <item>عنصر قابل کلیک</item>
+        <item>گره</item>
+        <item>اِسلایدِر</item>
+        <item>حرکت عمودی</item>
 
 
-        <item>字</item>
-        <item>词</item>
-        <item>行</item>
-        <item>段</item>
-        <item>页</item>
-        <item>复制</item>
-        <item>音量</item>
-        <item>语速</item>
-        <item>识别翻译</item>
+        <item>حرف</item>
+        <item>کلمه</item>
+        <item>خط</item>
+        <item>پاراگراف</item>
+        <item>صفحه</item>
+        <item>کپی</item>
+        <item>میزان صدا</item>
+        <item>سرعت گفتار</item>
+        <item>خواننده نوری</item>
 
     </string-array>
 

@@ -1051,7 +1051,6 @@
     <string name="web_type_move_title">tipos de navegación web en uso</string>
     <string name="view_type_move_title">tipos de navegación en uso</string>
     <string name="notification_in_touch_no_speak_title">no leer notificaciones cuando se toca la pantalla</string>
-
     <string name="use_keep_type_move_title">Mantener el tipo de movimiento al cambiar de ventana</string>
     <string name="hot_key_manager_title">Administrar atajos de teclado</string>
     <string name="msg_hot_key_empty">Atajo vacío</string>
@@ -1097,4 +1096,29 @@
     <string name="msg_favorite_added">Agregado a favoritos</string>
     <string name="msg_shared">Compartido</string>
     <string name="msg_share_error">Error al compartir.</string>
-    <string name="select_progress">Progreso</string></resources>
+    <string name="select_progress">Progreso</string>
+    <string name="node_changed_list_manager">administración de monitoreo de objeto</string>
+    <string name="add_node_changed_list"> agregar monitoreo de objeto</string>
+    <string name="switch_multi_finger_gestures"> cambiar a los gestos con varios dedos</string>
+    <string name="msg_node_changed_list_added"> objeto monitoreado</string>
+    <string name="msg_node_changed_list_removed">monitoreo cancelado</string>
+    <string name="msg_in_game_mode">ha entrado en el modo de juego</string>
+    <string name="use_accessibility_volume_fix_title">optimización del volumen de accesibilidad</string>
+    <string name="use_accessibility_volume_fix_summary">si tiene problemas al utilizar el volumen de accesibilidad,  puede activar esta opción</string>
+    <string name="msg_exit_game_mode">ha salido del modo de juego</string>
+    <string name="privacy"> política de privacidad</string>
+    <string name="show_download_title">descargar Jieshuo</string>
+    <string name="version_msg">%s\ntamaño:%s\nNúmero de descargas:%s</string>
+    <string name="user_new_password">nueva contraseña,6a15 caracteres latinos</string>
+    <string name="repassword_title">cambiar contraseña</string>
+    <string name="msg_not_empty"> este campo no puede estar vacío</string>
+    <string name="msg_unknown_error">Error desconocido, vuelva a intentarlo más tarde o póngase en contacto con El servicio al cliente \n</string>
+    <string name="msg_timer_mode_pause">temporizador pausado</string>
+    <string name="msg_timer_mode_resume"> temporizador reanudado</string>
+    <string name="msg_multi_touch_mode_enabled">se activaron los gestos con varios dedos</string>
+    <string name="msg_multi_touch_mode_disenabled">se desactivaron los gestos con varios dedos</string>
+    <string name="activation_code_text">código de activación</string>
+    <string name="activate_title"> activar Premium</string>
+    <string name="select_app"> seleccione una app</string>
+    <string name="command_to_split_screen">pantalla dividida</string>
+</resources>

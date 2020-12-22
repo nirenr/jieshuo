@@ -395,5 +395,7 @@
     <string name="timer_mode_pause">timer_mode_pause</string>
     <string name="timer_mode_pause_start">timer_mode_pause_start</string>
     <string name="timer_mode_pause_time">timer_mode_pause_time</string>
+    <string name="use_accessibility_volume_fix">use_accessibility_volume_fix</string>
+    <string name="show_download">show_download</string>
 
 </resources>

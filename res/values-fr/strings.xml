@@ -233,7 +233,7 @@
     <string name="voice_helper_copy_title">Copier automatiquement les résultats de traduction: </string>
     <string name="trans_lang_from_title">Langue source: </string>
     <string name="use_pager_scroll_summary">Défiler automatiquement à la page suivante lorsque vous atteignez la fin de la page actuelle</string>
-    <string name="scroll_gesture_settings_title">paramètres du défilement.</string>
+    <string name="scroll_gesture_settings_title">Paramètres de navigation.</string>
     <string name="click_settings_title">paramètres du clic</string>
     <string name="key_shortcut_setting_title">paramètres des touches du raccourci</string>
     <string name="gesture_title">paramètres des gestes</string>
@@ -298,7 +298,7 @@
     <string name="async_tts_engine_title">Moteur secondaire. </string>
     <string name="async_tts_engine_summary">Le moteur utilisé pour lire les notifications ou des informations supplémentaires. La sélection du même moteur que le moteur principal entraînera l’utilisation d’un seul moteur..</string>
     <string name="tts_engine_summary">Le moteur utilisé pour la lecture de contenu. Si le moteur sélectionné ne fonctionne pas, le premier moteur disponible sera utilisé.</string>
-    <string name="timer_manager_title">Gérer le minute²ur</string>
+    <string name="timer_manager_title">Gérer le minuteur</string>
     <string name="use_foreground_title">Protection de fond: </string>
     <string name="use_foreground_summary">Si l\'écran est souvent en veille, il est recommandé de cocher cette option.</string>
     <string name="use_speak_qq_changed_title">Lire automatiquement les messages de discussion QQ: </string>
@@ -358,7 +358,7 @@
     <string name="backup_settings_summary">La sauvegarde des paramètres remplacera la dernière sauvegarde</string>
     <string name="jieshuo_bbs_title">Le forum</string>
     <string name="use_symbol_speak_title">Lire les ponctuations: </string>
-    <string name="use_cloud_label_title">: Partage des étiquettes: </string>
+    <string name="use_cloud_label_title">Partage des étiquettes: </string>
     <string name="use_cloud_label_summary">Partager et télécharger des étiquettes personnalisées à partir du serveur</string>
     <string name="directory_helper">Assistant</string>
     <string name="helper_manager_title">Paramètres étendus de l\'assistant vocal</string>
@@ -459,7 +459,7 @@
     <string name="command_play_control">Contrôle de la lecture</string>
     <string name="command_read_mode">Mode lecture</string>
     <string name="command_verbatim_speak">Mode mot par mot</string>
-    <string name="command_verbatim_speak2">Mode mot par mot</string>
+    <string name="command_verbatim_speak2">Épeler le focus actuel</string>
     <string name="command_to_previous_focus">éléments précédents</string>
     <string name="command_to_next_focus">éléments suivants</string>
     <string name="command_to_previous_page">Page précédente</string>
@@ -987,7 +987,7 @@
     <string name="use_emoji_speak_title">Lire les Emoji</string>
     <string name="install_shortcut">Créer un raccourci sur l\'écran d\'accueil</string>
     <string name="msg_select_end">sélection terminée</string>
-    <string name="msg_select_start">coommancez la sélection</string>
+    <string name="msg_select_start">commancez la sélection</string>
     <string name="msg_plugin_run_error">Lancez d\'abord jieshuo, puis exécutez cette extension</string>
     <string name="input_file_name">Entrez le nom du fichier</string>
     <string name="input_project_name">Entrez le nom du projet</string>
@@ -1096,6 +1096,31 @@
     <string name="msg_favorite_added">élément Ajouté aux Favoris</string>
     <string name="msg_shared">partage Réussit</string>
     <string name="msg_share_error">partage échoué</string>
-    <string name="select_progress">progression</string>
+    <string name="select_progress">Contrôle de la barre du défilement</string>
+    <string name="node_changed_list_manager">Liste des éléments surveillés</string>
+    <string name="add_node_changed_list">Surveiller le focus actuel</string>
+    <string name="switch_multi_finger_gestures">gestes avec plusieurs doigts</string>
+    <string name="msg_node_changed_list_added">Le focus est surveillé</string>
+    <string name="msg_node_changed_list_removed">Le focus n\'est pas surveillée</string>
+    <string name="msg_in_game_mode">mode jeu activé</string>
+    <string name="use_accessibility_volume_fix_title">Améliorez le volume d\'accessibilité,  </string>
+    <string name="use_accessibility_volume_fix_summary">Si le volume est soudainement Diminué  ou augmenté, sélectionnez cette option </string>
+    <string name="msg_exit_game_mode">mode jeu désactivé</string>
+    <string name="privacy">Privacy policy</string>
+    <string name="show_download_title">Télécharger Jieshuo</string>
+    <string name="version_msg">%s, \n taille de cette version: %s,\n Nombre de téléchargements: %s</string>
+    <string name="user_new_password">Nouveau  Mot de passe: 6 à 15 caractères latins</string>
+    <string name="repassword_title">changer le mot de passe</string>
+    <string name="msg_not_empty">Remplissez le champ vide</string>
+    <string name="msg_unknown_error">Erreur inconnue. Veuillez réessayer plus tard, ou contacter le service client\n</string>
+    <string name="msg_timer_mode_pause">minuteur en pause</string>
+    <string name="msg_timer_mode_resume">minuteur est repris</string>
+    <string name="msg_multi_touch_mode_enabled">les gestes avec plusieurs doigts sont activés </string>
+    <string name="msg_multi_touch_mode_disenabled">les gestes avec plusieurs doigts sont désactivés</string>
+    <string name="activation_code_text">Code d\'activation</string>
+    <string name="activate_title">Activez l\'application</string>
+    <string name="select_app">Choisissez l\'application</string>
+    <string name="command_to_split_screen">Fractionner l\'écran</string>
+ 
 </resources>
 

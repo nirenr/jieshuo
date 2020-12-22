@@ -12,6 +12,10 @@
         <item>@string/to_previous_granularity_item</item>
         <item>@string/to_next_granularity_item</item>
 
+        <item>自动翻译</item>
+        <item>朗读字幕</item>
+        <item>@string/add_node_changed_list</item>
+        <item>@string/node_changed_list_manager</item>
         <item>@string/command_raw_tap</item>
         <item>@string/command_to_previous_focus</item>
         <item>@string/command_to_next_focus</item>
@@ -100,6 +104,8 @@
         <item>@string/command_off_screen2</item>
         <item>@string/command_power_dialog</item>
         <item>@string/command_raw_double_tap</item>
+        <item>@string/command_to_split_screen</item>
+        <!--item>极速浏览</item-->
     </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
@@ -145,6 +151,8 @@
         <item>@string/favorites_menu_title</item>
         <item>@string/split_edit_title</item>
         <item>@string/command_long_copy</item>
+        <item>虚拟键盘</item>
+
     </string-array>
     <string-array name="menu_def_items">
         <item>@string/split_menu_title</item>
@@ -384,6 +392,8 @@
         <item>验证码识别</item>
         <item>识别结果</item>
         <item>图片描述</item>
+        <item>滑块验证</item>
+        <item>试卷识别</item>
     </string-array>
     <string-array name="lang_entries">
         <item>自动</item>
@@ -546,7 +556,7 @@
         <item>4</item>
         <item>5</item>
     </string-array>
-    <string-array name="web_type_title">
+    <string-array name="web_type_title" >
         <item>默认</item>
         <item>标题</item>
         <item>链接</item>
@@ -575,6 +585,7 @@
         <item>音量</item>
         <item>语速</item>
         <item>识别翻译</item>
+
     </string-array>
 
     <string-array name="hot_key_help_items" >
@@ -600,7 +611,7 @@
         <item>ALT+L: 列表浏览</item>
 
     </string-array>
-      <string-array name="view_type_title" >
+    <string-array name="view_type_title" >
         <item>默认</item>
         <item>文本</item>
         <item>按钮</item>

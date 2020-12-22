@@ -376,7 +376,7 @@
     <string name="custom_sound_settings">custom_sound_settings</string>
     <string name="read_mode">read_mode</string>
     <string name="use_bottom_menu_edge_gesture">use_bottom_menu_edge_gesture</string>
-    <string name="lang">es</string>
+    <string name="lang">zh</string>
     <string name="hot_key_package">hot_key_package</string>
     <string name="custom_hot_key_settings">custom_hot_key_settings</string>
     <string name="hot_key_description">hot_key_description</string>
@@ -395,4 +395,6 @@
     <string name="timer_mode_pause">timer_mode_pause</string>
     <string name="timer_mode_pause_start">timer_mode_pause_start</string>
     <string name="timer_mode_pause_time">timer_mode_pause_time</string>
+    <string name="use_accessibility_volume_fix">use_accessibility_volume_fix</string>
+    <string name="show_download">show_download</string>
 </resources>

@@ -1166,7 +1166,31 @@
     <string name="msg_favorite_added">Aggiunto ai preferiti.</string>
     <string name="msg_shared">Condivisione riuscita.</string>
     <string name="msg_share_error">Condivisione fallita.</string>
-    <string name="select_progress">Avanzamento</string>
+    <string name="select_progress">Pianifica operazioni</string>
+    <string name="node_changed_list_manager">Gestisci il controllo del focus</string>
+    <string name="add_node_changed_list">Controllo del focus</string>
+    <string name="switch_multi_finger_gestures">Abilita gesti a più dita</string>
+    <string name="msg_node_changed_list_added">Aggiunto un oggetto monitorato.</string>
+    <string name="msg_node_changed_list_removed">Eliminato un oggetto monitorato</string>
+    <string name="msg_in_game_mode">Modalità giocatore attivata.</string>
+    <string name="msg_exit_game_mode">Modalità giocatore disattivata.</string>
+    <string name="use_accessibility_volume_fix_title">Usa ottimizzazione volume accessibilità</string>
+    <string name="use_accessibility_volume_fix_summary">Attiva questa opzione se non riesci a modificare il volume o le modifiche non sono corrette.If you cannot change the volume or the volume changes are wrong, please turn on this option.</string>
+    <string name="privacy">Privacy policy</string>
+    <string name="show_download_title">Scarica Commentary Screenreader</string>
+    <string name="version_msg">%s\nSize:%s\nNumero di scaricamenti:%s</string>
+    <string name="user_new_password">Nuova password (6-15 caratteri latini): </string>
+    <string name="repassword_title">Confirma password: </string>
+    <string name="msg_not_empty">Il campo non può essere vuoto!</string>
+    <string name="msg_unknown_error">Si è verificato un errore sconosciuto. Riprova più tardi o contatta l\'assistenza.\n</string>
+    <string name="msg_timer_mode_pause">timer in pausa.</string>
+    <string name="msg_timer_mode_resume">Ttimer riavviato.</string>
+    <string name="msg_multi_touch_mode_enabled">Gesti multidita attivati.</string>
+    <string name="msg_multi_touch_mode_disenabled">Gesti multidita disattivati.</string>
+    <string name="activation_code_text">Codice attivazione: </string>
+    <string name="activate_title">Attiva licenza premium</string>
+    <string name="select_app">Seleziona un\'app</string>
+    <string name="command_to_split_screen">Schermo diviso</string>
 
 
 </resources>

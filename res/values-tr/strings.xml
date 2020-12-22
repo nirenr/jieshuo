@@ -1049,7 +1049,7 @@
     <string name="select_granularity_mode">Dolaşım türünü seçin</string>
     <string name="web_type_move_title">Web dolaşım öğelerini yönet</string>
     <string name="view_type_move_title">Ekranda dolaşım  öğe türlerini yönet</string>
-    <string name="notification_in_touch_no_speak_title">Ekrana dokunulduğunda konuşma yok</string>
+    <string name="notification_in_touch_no_speak_title">Konuşma etkinken gelen bildirimleri seslendirme</string>
 
     <string name="use_keep_type_move_title">Pencere değiştirilirken metni taşımaya devam et</string>
     <string name="hot_key_manager_title">Klavye kısayol yöneticisi</string>
@@ -1097,4 +1097,28 @@
     <string name="msg_shared">Başarıyla paylaşıldı</string>
     <string name="msg_share_error">Paylaşma başarısız oldu</string>
     <string name="select_progress">Program</string>
+    <string name="node_changed_list_manager">Odak izlemeyi yönet</string>
+    <string name="add_node_changed_list">Odak izleme</string>
+    <string name="switch_multi_finger_gestures">Çoklu parmak hareketlerini etkinleştir</string>
+    <string name="msg_node_changed_list_added">İzlenen öğe eklendi</string>
+    <string name="msg_node_changed_list_removed">İzlenen öğe kaldırıldı</string>
+    <string name="msg_in_game_mode">Oyuncu moduna girildi</string>
+    <string name="use_accessibility_volume_fix_title">Erişilebilirlik ses seviyesi iyileştirmeyi kullan</string>
+    <string name="use_accessibility_volume_fix_summary">Ses seviyesini değiştiremiyorsanız veya ses seviyesi hatalı olarak değişiyorsa, lütfen bu seçeneği işaretleyin</string>
+    <string name="msg_exit_game_mode">Oyuncu modundan çıkıldı</string>
+    <string name="privacy">Gizlilik Politikası</string>
+    <string name="show_download_title">Jieshuo Ekran Okuyucu\'yu indir</string>
+    <string name="version_msg">%s\nBoyut:%s\nİndirilme sayısı:%s</string>
+    <string name="user_new_password">Yeni şifre, (en az 6 en fazla 15 Latin karakterden oluşmalıdır):</string>
+    <string name="repassword_title">Şifreyi değiştir</string>
+    <string name="msg_not_empty">Bu alan boş bırakılamaz</string>
+    <string name="msg_unknown_error">Bilinmeyen bir hata oluştu, lütfen daha sonra tekrar deneyin veya destek personeliyle iletişime geçin.\n</string>
+    <string name="msg_timer_mode_pause">Zamanlayıcı duraklatıldı</string>
+    <string name="msg_timer_mode_resume">Zamanlayıcı devam ettiriliyor</string>
+    <string name="msg_multi_touch_mode_enabled">Çoklu parmak modu etkinleştirildi</string>
+    <string name="msg_multi_touch_mode_disenabled">Çoklu parmak modu devre dışı bırakıldı</string>
+    <string name="activation_code_text">Etkinleştirme kodu:</string>
+    <string name="activate_title">Premium üyeliği etkinleştir</string>
+    <string name="select_app">Bir uygulama seçin</string>
+    <string name="command_to_split_screen">Ayrılmış ekran görünümü</string>
 </resources>

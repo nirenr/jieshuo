@@ -10,7 +10,10 @@
         <item>@string/to_previous_granularity</item>
         <item>@string/to_next_granularity</item>
         <item>@string/to_previous_granularity_item</item>
-        <item>@string/to_next_granularity_item</item>
+       <item>@string/to_next_granularity_item</item>
+
+        <item>@string/add_node_changed_list</item>
+        <item>@string/node_changed_list_manager</item>
 
         <item>@string/command_raw_tap</item>
         <item>@string/command_to_previous_focus</item>
@@ -100,6 +103,7 @@
         <item>@string/command_off_screen2</item>
         <item>@string/command_power_dialog</item>
         <item>@string/command_raw_double_tap</item>
+        <item>@string/command_to_split_screen</item>
     </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
@@ -548,16 +552,16 @@
         <item>링크</item>
         <item>버튼</item>
 
-        <item>地标</item>
-        <item>编辑框</item>
-        <item>焦点</item>
-        <item>控件</item>
-        <item>图片</item>
-        <item>复选框</item>
-        <item>组合框</item>
-        <item>表格</item>
-        <item>列表</item>
-        <item>列表项</item>
+        <item>렌드마크</item>
+        <item>편집창</item>
+        <item>초점</item>
+        <item>컨트롤</item>
+        <item>사진</item>
+        <item>체크상자</item>
+        <item>콤보상자</item>
+        <item>표</item>
+        <item>목록</item>
+        <item>목록항목</item>
 
         <item>스크롤</item>
         <item>보기</item>
@@ -570,7 +574,7 @@
         <item>복사</item>
         <item>음량</item>
         <item>음성속도</item>
-        <item>식별 번역</item>
+        <item>번역</item>
     </string-array>
     <string-array name="hot_key_help_items" >
         <item>CTRL+DPAD_UP: 이전 초점으로 이동</item>
@@ -616,6 +620,6 @@
         <item>복사</item>
         <item>볼륨</item>
         <item>음성속도</item>
-        <item>OCR 인식</item>
+        <item>번역</item>
     </string-array>
 </resources>

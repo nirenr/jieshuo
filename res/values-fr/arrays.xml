@@ -12,6 +12,9 @@
         <item>@string/to_previous_granularity_item</item>
         <item>@string/to_next_granularity_item</item>
 
+        <item>@string/add_node_changed_list</item>
+        <item>@string/node_changed_list_manager</item>
+
         <item>@string/command_raw_tap</item>
         <item>@string/command_to_previous_focus</item>
         <item>@string/command_to_next_focus</item>
@@ -100,6 +103,7 @@
         <item>@string/command_off_screen2</item>
         <item>@string/command_power_dialog</item>
         <item>@string/command_raw_double_tap</item>
+        <item>@string/command_to_split_screen</item>
     </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
@@ -378,7 +382,7 @@
     <string-array name="advanced_menu_items">
         <item>Traduire</item>
         <item>Reconnaissance de scène</item>
-        <item>Reconnaissance du texte</item>
+        <item>Reconnaissance du texte ciblé</item>
         <item>Reconnaissance du visage</item>
         <item>Reconnaissance CAPTCHA</item>
         <item>Résultat de reconnaissance</item>
@@ -542,31 +546,31 @@
         <item>5</item>
     </string-array>
     <string-array name="web_type_title">
-        <item>par défaut</item>
-        <item>Titre</item>
-        <item>Lien</item>
-        <item>Bouton</item>
-        <item>point de repère</item>
-        <item>Zone d\'édition</item>
-        <item>focus</item>
-        <item>Contrôles</item>
-        <item>image</item>
-        <item>Case à cocher</item>
-        <item>zone de liste</item>
-        <item>tableaux</item>
-        <item>liste</item>
-        <item>Élément de liste</item>
-        <item>défilement</item>
-        <item>Tous les types</item>
-        <item>Caractères</item>
-        <item>Mots</item>
-        <item>Lignes</item>
-        <item>Paragraphe</item>
-        <item>Page</item>
-        <item>Copier</item>
-        <item>Volume</item>
-        <item>Vitesse</item>
-        <item>Traduction et reconnaissance</item>
+        <item>par défaut. </item>
+        <item>Titre. </item>
+        <item>Lien. </item>
+        <item>Bouton. </item>
+        <item>point de repère. </item>
+        <item>Zone d\'édition. </item>
+        <item>focus. </item>
+        <item>Contrôles. </item>
+        <item>image. </item>
+        <item>Case à cocher. </item>
+        <item>zone de liste. </item>
+        <item>tableaux. </item>
+        <item>liste. </item>
+        <item>Élément de liste. </item>
+        <item>défilement. </item>
+        <item>Tous les types. </item>
+        <item>Caractères. </item>
+        <item>Mots. </item>
+        <item>Lignes. </item>
+        <item>Paragraphe. </item>
+        <item>Page. </item>
+        <item>Copier. </item>
+        <item>Volume. </item>
+        <item>Vitesse. </item>
+        <item>Traduction et reconnaissance. </item>
     </string-array>
     <string-array name="hot_key_help_items">
         <item>CTRL+DPAD_UP: éléments précédents</item>
@@ -590,28 +594,28 @@
         <item>ALT+L: Navigation dans la liste</item>
     </string-array>
     <string-array name="view_type_title">
-        <item>par défaut</item>
-        <item>texte</item>
-        <item>Bouton</item>
-        <item>Zone d\'édition</item>
-        <item>image</item>
-        <item>Case à cocher</item>
-        <item>barre du défilement.</item>
-        <item>liste</item>
-        <item>Élément de liste</item>
-        <item>focus</item>
-        <item>Focus cliquable.</item>
-        <item>nœud</item>
-        <item>défilement</item>
-        <item>Navigation verticale</item>
-        <item>Caractères</item>
-        <item>Mots</item>
-        <item>Lignes</item>
-        <item>Paragraphe</item>
-        <item>page</item>
-        <item>Copier</item>
-        <item>Volume</item>
-        <item>Vitesse</item>
-        <item>Traduction et reconnaissance</item>
+        <item>par défaut. </item>
+        <item>texte. </item>
+        <item>Bouton. </item>
+        <item>Zone d\'édition. </item>
+        <item>image. </item>
+        <item>Case à cocher. </item>
+        <item>barre du défilement. </item>
+        <item>liste. </item>
+        <item>Élément de liste. </item>
+        <item>focus. </item>
+        <item>Focus cliquable. </item>
+        <item>nœud. </item>
+        <item>défilement. </item>
+        <item>Navigation verticale. </item>
+        <item>Caractères. </item>
+        <item>Mots. </item>
+        <item>Lignes. </item>
+        <item>Paragraphe. </item>
+        <item>page. </item>
+        <item>Copier. </item>
+        <item>Volume. </item>
+        <item>Vitesse. </item>
+        <item>Traduction et reconnaissance. </item>
     </string-array>
 </resources>

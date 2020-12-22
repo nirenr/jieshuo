@@ -1176,7 +1176,6 @@
     <string name="msg_exit_game_mode">Saindo do modo de jogo</string>
     <string name="use_accessibility_volume_fix_title">Otimização do volume de acessibilidade</string>
     <string name="use_accessibility_volume_fix_summary">Se o volume de acessibilidade aumentar ou diminuir  repentinamente, você deve habilitar esta opção</string>
-    <string name="use_accessibility_volume_fix">use_accessibility_volume_fix</string>
     <string name="privacy">Política de Privacidade</string>
     <string name="show_download_title">Download do Leitor de Tela Jieshuo</string>
     <string name="version_msg">%s\nTamanho: %s\nTempo estimado de download: %s</string>

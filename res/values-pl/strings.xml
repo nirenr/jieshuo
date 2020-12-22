@@ -93,7 +93,7 @@
     <string name="template_charging">"%1$s ładowanie, poziom baterii wynosi %2$s"</string>
     <string name="notification_type_status_started">"Rozpoczęto"</string>
     <string name="notification_type_status_stopped">"zatrzymano"</string>
-    <string name="acc_settings_title">Ustawienia dostępności...</string>
+    <string name="acc_settings_title">Ustawienia ułatwień dostępu...</string>
     <string name="qq_group_title">Oficjalna grupa QQ poświęcona Commentary Screenreader</string>
     <string name="audio_focus_title">Przyciszaj inne dźwięki podczas generowania mowy: </string>
 
@@ -436,14 +436,14 @@
     <string name="use_text_format_first_title">czytaj połączone litery ako jedną literę</string>
     <string name="use_text_format_char_number_title">odczytaj kilka pierwszych liter</string>
 
-    <string name="lower_case_format">%s，małe litery %s</string>
-    <string name="upper_case_format">%s，duże litery%s</string>
-    <string name="lower_case_format_number">%s，małe litery %s，po pierwsze %d</string>
-    <string name="upper_case_format_number">%s，duże litery %s，po pierwsze%d </string>
+    <string name="lower_case_format">%s，małe %s</string>
+    <string name="upper_case_format">%s，duże %s</string>
+    <string name="lower_case_format_number">%s，małe %s，po pierwsze %d</string>
+    <string name="upper_case_format_number">%s，duże %s，po pierwsze%d </string>
 
     <string name="lower_case_format2">%s</string>
-    <string name="upper_case_format2">duże litery%s</string>
-    <string name="upper_case_format3">%s duże litery</string>
+    <string name="upper_case_format2">duże %s</string>
+    <string name="upper_case_format3">%s duże</string>
     <string name="lower_case_format_number2">%s，pierwsze %d</string>
     <string name="upper_case_format_number2">Jest %s dużych liter i %d letters</string>
 
@@ -540,7 +540,7 @@
     <string name="view_name_web_view">Komponent wyświetlania w sieci web</string>
     <string name="view_name_list_view">Lista</string>
     <string name="view_name_spinner">Pole kombi</string>
-    <string name="view_name_switch">Pr	zełącznik</string>
+    <string name="view_name_switch">Przełącznik</string>
     <string name="view_name_radio_button">Przycisk opcji</string>
     <string name="view_name_check_box">Pole wyboru</string>
     <string name="view_name_seek_bar">Suwak</string>
@@ -1165,4 +1165,30 @@
     <string name="msg_shared">Udostępnianie zakończone.</string>
     <string name="msg_share_error">Wystąpił błąd podczas udostępniania.</string>
     <string name="select_progress">Dostosuj pasek postępu</string>
+    <string name="node_changed_list_manager">Zarządzaj monitorami</string>
+    <string name="add_node_changed_list">Nowy monitor</string>
+    <string name="switch_multi_finger_gestures">Włącz gesty wielopalczaste</string>
+    <string name="msg_node_changed_list_added">Dodano monitorowany obiekt.</string>
+    <string name="msg_node_changed_list_removed">Monitorowanie zostało zatrzymane</string>
+    <string name="msg_in_game_mode">Aktywowano tryb gracza.</string>
+    <string name="msg_exit_game_mode">Dezaktywowano tryb gracza.</string>
+    <string name="use_accessibility_volume_fix_title">Używaj optymalizacji głośności dostępności</string>
+    <string name="use_accessibility_volume_fix_summary">Jeśli nie da się zmienić głośności dostępności lub zmiana nie działa dobrze, użyj tej opcji.</string>
+    <string name="privacy">Polityka prywatności</string>
+    <string name="show_download_title">Pobierz Commentary Screenreader</string>
+    <string name="version_msg">%s\nRozmiar:%s\nLiczba pobrań:%s</string>
+    <string name="user_new_password">Nowe hasło (6 do 15 łacińskich znaków): </string>
+    <string name="repassword_title">Potwierdź hasło: </string>
+    <string name="msg_not_empty">Pole nie może być puste!</string>
+    <string name="msg_unknown_error">Wystąpił nieoczekiwany błąd. Spróbuj ponownie później lub skontaktuj się z obsługą klienta.\n</string>
+    <string name="msg_timer_mode_pause">Minutnik wstrzymany.</string>
+    <string name="msg_timer_mode_resume">Minutnik wznowiony.</string>
+    <string name="msg_multi_touch_mode_enabled">Gesty wielopalczaste włączone.</string>
+    <string name="msg_multi_touch_mode_disenabled">Gesty wielopalczaste wyłączone.</string>
+    <string name="activation_code_text">Kod aktywacyjny: </string>
+    <string name="activate_title">Aktywuj konto premium</string>
+    <string name="select_app">Wybierz aplikację</string>
+    <string name="command_to_split_screen">Tryb podzielonego ekranu</string>
+
+
 </resources>

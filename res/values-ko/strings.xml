@@ -7,7 +7,7 @@
         스크린리더를 처음 설치하여 실행한 경우 일부 기능만 사용할 수 있는 체험 버전으로 동작하며, 정식 버전으로 업그레이드 하면 모든 기능을 사용할 수 있습니다.\n
 		자세한 사항은 QQ 공식 고객지원 서비스 그룹에 문의해 주시기 바랍니다. \n\n
         기능 및 특징: \n
-        -  스크린을 만지지 않고 스마트폰을 조작할 수 있는 음성비서\n
+        -  화면을 만지지 않고 스마트폰을 조작할 수 있는 음성비서\n
         - 기능을 강화하고 새로운 기능을 추가하는 확장기능\n
         - 필요에 따라 언제든지 문자, 단어, 문단 단위로 탐색할 수 있는 탐색 모드 \n
         - 빠르고 쾌적한 접근성 환경 \n
@@ -26,7 +26,7 @@
         - 전체 화면 복사: 쉽고 간편하게 전체화면을 복사해 보세요.\n
         - 문서 읽기 모드: 페이지를 전환하여 필터링하고 필요한 정보만 제공받아 읽으세요.\n
         - 애플리케이션 개별 사용자지정 제스처: 모든 앱을 빠르고 편리하게 이용해보세요.\n
-        - 선호 콘텐츠 목록: 언제 어디서나 당신이 원하는 콘텐츠를 빠르게 사용하세요.\n
+        - 선호 콘텐츠 목록: 언제 어디서나 원하는 콘텐츠를 빠르게 사용하세요.\n
         - 빠른 편집: 문장을 빠르게 찾고, 단어와 문장을 원하는대로 편집\n
         - 고급 글자 선택기능: 단어, 문장, 단락별로 필요한 텍스트 만을 정확히 선택\n
         - 추가 음성 명령: 음성으로 휴대폰을 더 쉽게 조작해보세요.\n
@@ -93,7 +93,7 @@
     <string name="select_menu_title">텍스트 선택</string>
     <string name="all_text_title">텍스트 전체 보기</string>
     <string name="use_touch_mode_title">제스처 기능 활성화(전맨 사용자의 경우 이 기능을 절대 끄지 마십시오): </string>
-    <string name="unknown_lable_title">사용자 레이블 지정하기</string>
+    <string name="unknown_lable_title">사용자 레이블 지정</string>
     <string name="action_setting_title">동작 설정</string>
     <string name="use_single_tap_title">한 번 눌러 실행: </string>
     <string name="use_up_tap_title">손가락 때면 활성화: </string>
@@ -128,7 +128,7 @@
     <string name="sound_manager_title">사운드 테마 관리</string>
     <string name="clipboard_manager_title">클립보드 관리</string>
     <string name="label_manager_title">사용자 레이블 관리</string>
-    <string name="menu_manager_title">주 메뉴 관리</string>
+    <string name="menu_manager_title">메인메뉴 관리</string>
     <string name="menu_up_tap_title">손가락 때면 활성화 기능 설정</string>
     <string name="navigation_up_tap_title">손가락 때면 스크린 네비게이션 활성화</string>
     <string name="only_notification_title">알림 표시줄에서 스크린리더만 다시 사용하도록 설정 허용: </string>
@@ -219,9 +219,9 @@
     <string name="favorites_manager_title">선호하는 메뉴 목록을 관리하세요.</string>
     <string name="use_multi_menu_title">메뉴 여러줄로 보기: </string>
     <string name="use_multi_menu_summary">커스텀 콘텐츠에는 메뉴 여러줄로 보기가 적용되지 않습니다.</string>
-    <string name="use_left_right_title">왼쪽 또는 오른쪽 쓸기 동작으로 탐색 사용: </string>
+    <string name="use_left_right_title">왼쪽및 오른쪽 쓸기 동작으로 탐색 사용: </string>
     <string name="use_list_item_index_title">현재 항목 순서 읽기: </string>
-    <string name="use_left_right_summary">기본 제스처 테마를 사용할 때는 왼쪽 및 오른쪽으로 쓸어 포커스를 변경하고 위쪽으로 쓸어 바로 가기 기능을 실행하십시오.</string>
+    <string name="use_left_right_summary">기본 제스처 테마를 사용할 때는 왼쪽 및 오른쪽으로 쓸어 포커스를 변경하고 위쪽으로 쓸어 바로가기 기능을 실행하십시오.</string>
     <string name="use_old_previous_title">기존 포커스 변경 방법 사용:</string>
     <string name="baidu_tieba_title">Baidu encyclopedia</string>
     <string name="use_single_tts_title">음성 엔진 강제 설정: </string>
@@ -789,15 +789,15 @@
     <string name="msg_text_changed">텍스트 변경</string>
     <string name="no_save">저장할 수 없음</string>
     <string name="use_web_type_move_title">웹 페이지에 컨트롤 검색.</string>
-    <string name="pref_donate_alipay">스크린 리더의 개발을 지원하기 위해 Alipay를 사용하여 기부할 수 있습니다.</string>
-    <string name="pref_donate_paypal">스크린 리더의 개발을 지원하기 위해 페이팔을 사용하여 기부할 수 있습니다.</string>
+    <string name="pref_donate_alipay">Alipay를 사용한 기부</string>
+    <string name="pref_donate_paypal">페이팔을 사용한 기부</string>
     <string name="menu_settings_title">메뉴 설정</string>
     <string name="directory_download">다운로드</string>
     <string name="msg_has_vip_split_edit">프로그램의 무료버전은 \'t 100개 이상의 문자를 지원 및 편집할 수 없습니다.</string>
     <string name="media_doc_title">오디오 자습서</string>
     <string name="downloaded">다운로드</string>
     <string name="no_login">로그인하지 않은 상태입니다.</string>
-    <string name="no_vip">당신은 프로그램의 전체 버전을 구입하지 않았습니다!</string>
+    <string name="no_vip">당신은 프로그램의 정식 버전을 구입하지 않았습니다!</string>
     <string name="need_vip">정식 버전을 구입하려는 경우, 고객 센터로 연락 주시기 바랍니다.</string>
     <string name="check_read_phone_state_permission">권한의 유효성.</string>
     <string name="message_timer_mode_disabled">타이머 중지,%s,지금 %s</string>
@@ -1056,7 +1056,7 @@
     <string name="msg_hot_key_empty">단축키가 비어있습니다.</string>
     <string name="cloud_backup_hot_key_title">단축키 백업</string>
     <string name="cloud_restore_hot_key_title">단축키 복원</string>
-    <string name="use_multi_touch_mode_title">멀티핑거 제스처</string>
+    <string name="use_multi_touch_mode_title">여러손가락 제슻처</string>
     <string name="msg_added">추가 성공</string>
     <string name="msg_add_error">추가 실패</string>
     <string name="select_move_type_">탐색유형 선택</string>
@@ -1097,4 +1097,28 @@
     <string name="msg_shared">공유 성공</string>
     <string name="msg_share_error">공유 실패</string>
     <string name="select_progress">진행율</string>
+    <string name="node_changed_list_manager">초점 모니터링 관리</string>
+    <string name="add_node_changed_list">초점 모니터링</string>
+    <string name="switch_multi_finger_gestures">여러 손가락 제스처</string>
+    <string name="msg_node_changed_list_added">모니터링</string>
+    <string name="msg_node_changed_list_removed">모니터링이 취소되었습니다.</string>
+    <string name="msg_in_game_mode">게임 모드 시작</string>
+    <string name="use_accessibility_volume_fix_title">접근성 볼륨 최적화</string>
+    <string name="use_accessibility_volume_fix_summary">접근성 볼륨이 크거나 작다면 이 옵션을 활성화 하십시오.</string>
+    <string name="msg_exit_game_mode">게임 모드 종료</string>
+    <string name="privacy">개인 정보 정책</string>
+    <string name="show_download_title">Commentary Screen Reader 다운로드</string>
+    <string name="version_msg">%s\n크기:%s\n다운로드 시간:%s</string>
+    <string name="user_new_password">새 비밀번호, 6 ~ 15 자의 영문 또는 숫자</string>
+    <string name="repassword_title">비밀번호 변경</string>
+    <string name="msg_not_empty">비울 수 없습니다.</string>
+    <string name="msg_unknown_error">알 수없는 오류가 발생하였습니다. 나중에 다시 시도하거나 고객 서비스에 문의하십시오.\n</string>
+    <string name="msg_timer_mode_pause">타이머 일시 중지</string>
+    <string name="msg_timer_mode_resume">타이머 계속</string>
+    <string name="msg_multi_touch_mode_enabled">여러 손가락 제스처 켜기</string>
+    <string name="msg_multi_touch_mode_disenabled">여러 손가락 제스처 끄기</string>
+    <string name="activation_code_text">활성화 코드</string>
+    <string name="activate_title">회원 활성화</string>
+    <string name="select_app">앱 선택</string>
+    <string name="command_to_split_screen">분할 화면</string>
 </resources>

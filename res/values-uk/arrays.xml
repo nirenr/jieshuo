@@ -10,7 +10,7 @@
         <item>@string/to_previous_granularity</item>
         <item>@string/to_next_granularity</item>
         <item>@string/to_previous_granularity_item</item>
-       <item>@string/to_next_granularity_item</item>
+        <item>@string/to_next_granularity_item</item>
 
         <item>@string/add_node_changed_list</item>
         <item>@string/node_changed_list_manager</item>
@@ -190,25 +190,25 @@
         <item>@string/command_virtual_navigation</item>
     </string-array>
     <string-array name="left_button">
-        <item>Prekini</item>
-        <item>Odbij</item>
-        <item>*Povuci za odbijanje poziva*</item>
-        <item>Završi poziv</item>
-        <item>Prekini poziv</item>
-        <item>Prekini poziv</item>
-        <item>Prekini QQ poziv</item>
-        <item>Prekini QQ poziv</item>
-        <item>Idi na prethodnu stavku</item>
-        <item>Prethodna skladba</item>
-        <item>Kreni gore</item>
+        <item>Завершити</item>
+        <item>Відхилити</item>
+        <item>*Змахніть для відхилення вхідного виклику*</item>
+        <item>Завершити дзвінок</item>
+        <item>Завершити виклик</item>
+        <item>Завершити виклик</item>
+        <item>Завершити виклик в QQ</item>
+        <item>Завершити виклик в QQ</item>
+        <item>Перейти до попереднього елемента</item>
+        <item>Попередня композиція</item>
+        <item>Перейти вгору</item>
     </string-array>
     <string-array name="right_button">
-        <item>Odgovori na poziv</item>
-        <item>*Povuci za odgovaranje na poziv*</item>
-        <item>Handsfree način</item>
-        <item>Način zvučnika</item>
-        <item>Prebaci se na sljedeći element</item>
-        <item>Sljedeća pjesma</item>
+        <item>Відповісти на виклик</item>
+        <item>*Змахніть для відповіді на виклик*</item>
+        <item>Режим «вільні руки»</item>
+        <item>Режим динаміка</item>
+        <item>Перейти до наступного елемента</item>
+        <item>Наступна композиція</item>
     </string-array>
 
     <string-array name="voice_recognizer_values">
@@ -218,10 +218,10 @@
         <item>2</item>
     </string-array>
     <string-array name="voice_recognizer_entries">
-        <item>sustava</item>
-        <item>prepoznavač 1</item>
-        <item>prepoznavač 2</item>
-        <item>prepoznavač 3</item>
+        <item>Системний</item>
+        <item>Рушій 1</item>
+        <item>Рушій 2</item>
+        <item>Рушій 3</item>
     </string-array>
     <string-array name="tts_values">
         <item>0</item>
@@ -327,9 +327,9 @@
         <item>100</item>
     </string-array>
     <!--string-array name="tts_speaker_title">
-        <item>Ženski glas</item>
-        <item>Muški glas</item>
-        <item>Srečko</item>
+        <item>Жіночий голос</item>
+        <item>Чоловічий голос</item>
+        <item>Щасливий</item>
         <item>Du ya ya</item>
     </string-array>
     <string-array name="tts_speaker">
@@ -339,10 +339,10 @@
         <item>4</item>
     </string-array-->
     <string-array name="vibrate_intensity_entries">
-        <item>svijetlo</item>
-        <item>Srednje</item>
-        <item>Intenzivno</item>
-        <item>Jako intenzivno</item>
+        <item>Легка</item>
+        <item>Середня</item>
+        <item>Інтенсивна</item>
+        <item>Дуже інтенсивна</item>
     </string-array>
     <string-array name="vibrate_intensity_values">
         <item>12</item>
@@ -351,9 +351,9 @@
         <item>64</item>
     </string-array>
     <string-array name="long_click_entries">
-        <item>kratki</item>
-        <item>srednji</item>
-        <item>dugi</item>
+        <item>Коротка</item>
+        <item>Середня</item>
+        <item>Довга</item>
     </string-array>
     <string-array name="long_click_values">
         <item>500</item>
@@ -361,10 +361,10 @@
         <item>1000</item>
     </string-array>
     <string-array name="edge_gesture_width_entries">
-        <item>mala</item>
-        <item>srednja</item>
-        <item>velika</item>
-        <item>Divovska</item>
+        <item>Маленька</item>
+        <item>Середня</item>
+        <item>Велика</item>
+        <item>Максимальна</item>
     </string-array>
     <string-array name="edge_gesture_width_values">
         <item>8</item>
@@ -381,44 +381,44 @@
         <item>xiaofeng</item>
     </string-array>
     <string-array name="advanced_menu_items">
-        <item>prijevod</item>
-        <item>prepoznavanje scena</item>
-        <item>Prepoznavanje teksta</item>
-        <item>Prepoznavanje lica</item>
-        <item>Prepoznavanje koda sa slike</item>
-        <item>Rezultat prepoznavanja</item>
-        <item>Iops slike</item>
+        <item>Переклад</item>
+        <item>Розпізнавання подій</item>
+        <item>Розпізнавання тексту</item>
+        <item>Розпізнавання облич</item>
+        <item>Розпізнавання кодів з картинок</item>
+        <item>Результат розпізнавання</item>
+        <item>Опис зображень</item>
     </string-array>
     <string-array name="lang_entries">
-        <item>auto</item>
-        <item>korejski</item>
-        <item>Pojednostavljeni kineski</item>
-        <item>Tradicionalni kineski</item>
-        <item>Nizozemski</item>
-        <item>Tajski</item>
-        <item>Grčki</item>
-        <item>Talijanski</item>
-        <item>Slovenski</item>
-        <item>Japanski</item>
-        <item>Engleski</item>
-        <item>Arapski</item>
-        <item>Kantonski</item>
-        <item>Mađarski</item>
-        <item>Estonski</item>
-        <item>Rumunjski</item>
-        <item>Kineski</item>
-        <item>Češki</item>
-        <item>Njemački</item>
-        <item>Francuski</item>
-        <item>Finski</item>
-        <item>Portugalski</item>
-        <item>Daski</item>
-        <item>Ruski</item>
-        <item>Bugarski</item>
-        <item>Španjolski</item>
-        <item>švedski</item>
-        <item>Poljski</item>
-        <item>Vijetnamski</item>
+        <item>автоматично</item>
+        <item>Корейська</item>
+        <item>Китайська спрощена</item>
+        <item>Китайська традиційна</item>
+        <item>Нідерландська</item>
+        <item>Тайська</item>
+        <item>Грецька</item>
+        <item>Італійська</item>
+        <item>Словенська</item>
+        <item>Японська</item>
+        <item>Англійська</item>
+        <item>Арабська</item>
+        <item>Кантонська</item>
+        <item>Угорська</item>
+        <item>Естонська</item>
+        <item>Румунська</item>
+        <item>Китайська</item>
+        <item>Чеська</item>
+        <item>Німецька</item>
+        <item>Французька</item>
+        <item>Фінська</item>
+        <item>Португальська</item>
+        <item>Данська</item>
+        <item>Російська</item>
+        <item>Болгарська</item>
+        <item>Іспанська</item>
+        <item>Шведська</item>
+        <item>Польська</item>
+        <item>В’єтнамська</item>
     </string-array>
     <string-array name="lang_values">
         <item>auto</item>
@@ -452,20 +452,20 @@
         <item>vie</item>
     </string-array>
     <string-array name="tts_engine_values">
-        <item>system</item>
+        <item>системний</item>
         <item>unisound</item>
     </string-array>
     <string-array name="tts_engine_entries">
-        <item>Govorna jedinica sustava</item>
+        <item>Системний синтезатор</item>
         <item>Yunzhisheng TTS</item>
     </string-array>
     <string-array name="tts_engine_vip_values">
-        <item>system</item>
+        <item>системний</item>
         <item>iflytek</item>
         <item>unisound</item>
     </string-array>
     <string-array name="tts_engine_vip_entries">
-        <item>Govorna jedinica sustava</item>
+        <item>Системний синтезатор</item>
         <item>Xunfei TTS</item>
         <item>Yunzhisheng TTS</item>
     </string-array>
@@ -477,11 +477,11 @@
         <item>60</item>
     </string-array>
     <string-array name="alarm_interval_entries">
-        <item>svakih 5 minuta</item>
-        <item>svakih 10 minuta</item>
-        <item>svakih 15 minuta</item>
-        <item>svakih 30 minuta</item>
-        <item>svakih 60 minuta</item>
+        <item>Кожні 5 хвилин</item>
+        <item>Кожні 10 хвилин</item>
+        <item>Кожні 15 хвилин</item>
+        <item>Кожні 30 minutes</item>
+        <item>Кожні 60 хвилин</item>
     </string-array>
     <string-array name="timer_interval_values">
         <item>1</item>
@@ -490,10 +490,10 @@
         <item>15</item>
     </string-array>
     <string-array name="timer_interval_entries">
-        <item>1 minuta</item>
-        <item>5 minuta</item>
-        <item>10 minuta</item>
-        <item>15 minuta</item>
+        <item>1 хвилина</item>
+        <item>5 хвилин</item>
+        <item>10 хвилин</item>
+        <item>15 хвилин</item>
     </string-array>
     <string-array name="alarm_hour_values">
         <item>0</item>
@@ -523,9 +523,9 @@
         <item>24</item>
     </string-array>
     <string-array name="recognizer_lang_entries">
-        <item>Pojednostavljeni kineski</item>
-        <item>Tradicionalni kineski</item>
-        <item>Engleski</item>
+        <item>Китайська спрощена</item>
+        <item>Китайська традиційна</item>
+        <item>Англійська</item>
     </string-array>
     <string-array name="recognizer_lang_values">
         <item>zh_CN</item>
@@ -547,86 +547,86 @@
         <item>5</item>
     </string-array>
     <string-array name="web_type_title">
-        <item>podrazumjevano</item>
-        <item>naslov</item>
-        <item>Veza</item>
-        <item>gumb</item>
+        <item>Стандартно</item>
+        <item>Заголовок</item>
+        <item>Посилання</item>
+        <item>Кнопка</item>
 
-        <item>地标</item>
-        <item>编辑框</item>
-        <item>焦点</item>
-        <item>控件</item>
-        <item>图片</item>
-        <item>复选框</item>
-        <item>组合框</item>
-        <item>表格</item>
-        <item>列表</item>
-        <item>列表项</item>
+        <item>Орієнтир</item>
+        <item>Редактор</item>
+        <item>Елемент у фокусі</item>
+        <item>Елемент керування</item>
+        <item>Зображення</item>
+        <item>Прапорець</item>
+        <item>Комбінований список</item>
+        <item>Заповнення форми</item>
+        <item>Список</item>
+        <item>Елемент списку</item>
 
-        <item>listanje stavaka</item>
-        <item>pregled</item>
+        <item>Прокручування</item>
+        <item>Перегляд</item>
 
-        <item>Riječ</item>
-        <item>Znak</item>
-        <item>Rečenica</item>
-        <item>odlomak</item>
-        <item>Stranica</item>
-        <item>Kopiraj</item>
-        <item>Glasnoća</item>
-        <item>Brzina govora</item>
-        <item>Sustav za prepoznavanje</item>
+        <item>Символ</item>
+        <item>Слово</item>
+        <item>Рядок</item>
+        <item>Абзац</item>
+        <item>Сторінка</item>
+        <item>Копіювати</item>
+        <item>Гучність</item>
+        <item>Швидкість мовлення</item>
+        <item>Система розпізнавання</item>
     </string-array>
 
-    <string-array name="hot_key_help_items" >
-        <item>CTRL+DPAD_UP: prethodni fokusirani element</item>
-        <item>CTRL+DPAD_DOWN: sljedeći fokusirani element</item>
-        <item>CTRL+DPAD_LEFT: Prethodna riječ</item>
-        <item>CTRL+DPAD_RIGHT: Sljedeća riječ</item>
-        <item>CTRL+PAGE_UP: idi prema gore</item>
-        <item>CTRL+PAGE_DOWN: Idi na prema dole</item>
-        <item>CTRL+H: Početni zaslon</item>
-        <item>CTRL+N: Panel obavijesti</item>
-        <item>CTRL+P: Posljednej aplikacije</item>
-        <item>CTRL+SPACE: Klik</item>
-        <item>CTRL+L: Pritisni</item>
-        <item>CTRL+Q: Brzo povlačenje</item>
+    <string-array name="hot_key_help_items">
+        <item>CTRL+DPAD_UP: Попередній елемент у фокусі</item>
+        <item>CTRL+DPAD_DOWN: Наступний елемент у фокусі</item>
+        <item>CTRL+DPAD_LEFT: Лівий ярлик</item>
+        <item>CTRL+DPAD_RIGHT: Правий ярлик</item>
+        <item>CTRL+PAGE_UP: Прокрутити вгору</item>
+        <item>CTRL+PAGE_DOWN: Прокрутити вниз</item>
+        <item>CTRL+H: Головний екран</item>
+        <item>CTRL+N: Центр сповіщень</item>
+        <item>CTRL+P: Недавні додатки</item>
+        <item>CTRL+SPACE: Клік</item>
+        <item>CTRL+L: Клік</item>
+        <item>CTRL+Q: Швидкі налаштування</item>
 
-        <item>ALT+M: Glavni izbornik</item>
-        <item>ALT+A: Izbornik korištenja</item>
-        <item>ALT+P: Prošireni izbornik</item>
-        <item>ALT+T: Rašireni alati</item>
-        <item>ALT+V: Glasovni pomočnik</item>
-        <item>ALT+S: Napredno uređivanje</item>
-        <item>ALT+L: Pregled spiska</item>
+        <item>ALT+M: Головне меню</item>
+        <item>ALT+A: Меню дій</item>
+        <item>ALT+P: Розширення</item>
+        <item>ALT+T: Інструменти</item>
+        <item>ALT+V: Голосовий помічник</item>
+        <item>ALT+S: Редагування</item>
+        <item>ALT+L: Переглянути як список</item>
 
-        </string-array>
+    </string-array>
     <string-array name="view_type_title">
-        <item>Podrazumjevano</item>
-        <item>Tekst</item>
-        <item>gumb</item>
-        <item>Polje za uređivanje</item>
+        <item>Стандартно</item>
+        <item>Текст</item>
+        <item>Кнопка</item>
+        <item>Редактор</item>
 
-        <item>Slika</item>
-        <item>Potvrdni okvir</item>
-        <item>Traka napredka</item>
-        <item>Popis</item>
-        <item>Stavka popisa</item>
-        <item>Element koji može biti fokusiran</item>
-        <item>Klikabilni element</item>
-        <item>Čvor</item>
-        <item>Klizač</item>
-        <item>Vertikalno kretanje</item>
+        <item>Зображення</item>
+        <item>Прапорець</item>
+        <item>Панель перебігу</item>
+        <item>Список</item>
+        <item>Елемент списку</item>
+        <item>Елемент у фокусі</item>
+        <item>Клікабельний елемент</item>
+        <item>Вузол</item>
+        <item>Повзунок</item>
+        <item>Вертикальне переміщення</item>
 
 
-        <item>Riječ</item>
-        <item>Znak</item>
-        <item>Rečenica</item>
-        <item>odlomak</item>
-        <item>Stranica</item>
-        <item>Kopiraj</item>
-        <item>Glasnoća</item>
-        <item>Brzina govora</item>
-        <item>Sustav za prepoznavanje</item>
+        <item>Символ</item>
+        <item>Слово</item>
+        <item>Рядок</item>
+        <item>Параграф</item>
+        <item>Сторінка</item>
+        <item>Копіювати</item>
+        <item>Гучність</item>
+        <item>Швидкість мовлення</item>
+        <item>Система розпізнавання</item>
 
     </string-array>
 
