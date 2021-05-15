@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Leitor de Tela Jieshuo</string>
     <string name="accessibility_service_description">
@@ -972,7 +972,7 @@
     <string name="add_from_virtual_screen">Adicionar a partir da tela virtual</string>
     <string name="add_from_virtual_list">Adicionar a partir da lista virtual</string>
     <string name="use_ocr_qq_title">Enviar para a nuvem - caso queira colaborar com a melhoria dos recursos de acessibilidade</string>
-    <string name="ocr_lang_enteries">Inglês Padrão | Identificação Automática | Japonês | Coreano | Espanhol | Francês | Alemão | Português | Vietnamita | Malay | Russo | Italiano | Holandês | Sueco | Finlandês | Dinamarquês | Norueguês | Húngaro | Tailandês | Latim</string>
+    <string name="ocr_lang_enteries">Inglês Padrão | Identificação Automática | Japonês | Coreano | Espanhol | Francês | Alemão | Português | Vietnamita | Malay | Russo | Italiano | Holandês | Sueco | Finlandês | Dinamarquês | Norueguês | Húngaro | Tailandês | Latim |阿拉伯语</string>
     <string name="cmd_description">Descrição (Com até 15 palavras)</string>
     <string name="timer_run_title">Executar uma tarefa cronometrada</string>
     <string name="msg_has_vip_timer_run">Apenas Usuários Premium podem adicionar mais de uma tarefa cronometrada.</string>
@@ -1074,7 +1074,7 @@
     <string name="sound_long_click">Toque longo</string>
     <string name="sound_scroll_up">Rolar para cima</string>
     <string name="sound_scroll_down">Rolar para baixo</string>
-    <string name="sound_beep">警告Bip</string>
+    <string name="sound_beep">Bip</string>
     <string name="sound_tick">Cronômetro</string>
     <string name="sound_clock">Hora</string>
     <string name="sound_screen_off">Bloquear a tela</string>
@@ -1092,7 +1092,7 @@
     <string name="command_take_screenshot">Captura de tela</string>
     <string name="command_off_screen2">Tela bloqueada</string>
     <string name="command_power_dialog">Menu desligar</string>
-    <string name="use_bottom_menu_edge_gesture_summary">O gesto na borda inferior pode executar funções tais como Voltar, ir para a Home, abrir a barra de notificações, abrir tarefas recentes, etc.。</string>
+    <string name="use_bottom_menu_edge_gesture_summary">O gesto na borda inferior pode executar funções tais como Voltar, ir para a Home, abrir a barra de notificações, abrir tarefas recentes, etc.?</string>
     <string name="use_bottom_menu_edge_gesture_title">Gesto na borda inferior</string>
     <string name="all">Tudo</string>
     <string name="create_hot_key">Criar esquema de teclas de atalho</string>
@@ -1191,6 +1191,37 @@
     <string name="activate_title">Ativação de novo Membro</string>
     <string name="select_app">Selecione um aplicativo</string>
     <string name="command_to_split_screen">Tela dividida</string>
+    <string name="edit_activity">Editor do Jieshuo</string>
+    <string name="use_speak_key_title">Botão falar</string>
+    <string name="auto_speak_title">Configuração de leitura automática</string>
+    <string name="auto_speak_apps_title">Configuração de leitura automática</string>
+    <string name="auto_speak_apps_summary">Nem todos os aplicativos oferecem suporte à leitura automática de mensagens, o software de bate-papo exibido em uma lista tem maior probabilidade de oferecer suporte</string>
+    <string name="msg_has_vip_auto_speak">Na versão gratuita a leitura automática estará disponível apenas no QQ</string>
+    <string name="auto_speak_blacklist_title">Ler automaticamente o conteúdo da lista negra</string>
+    <string name="read_mode_setting">Configurações do modo de leitura</string>
+    <string name="next_chapter_title">Próximo capítulo</string>
+    <string name="previous_chapter_title">Capítulo anterior</string>
+    <string name="next_chapter_default_value">*Próxima página*|*Próximo Capítulo*|*próxima página*|*Próximo Capítulo*|*Próximo*</string>
+    <string name="previous_chapter_default_value">*Página anterior*|*Capítulo anterior*|*página Anterior*|*capítulo anterior*|*Anterior*</string>
+    <string name="msg_activated">Enviado, aguardando revisão, se não for ativado por um longo tempo, entre em contato com o atendimento ao cliente</string>
+    <string name="flash_light">Instantâneo</string>
+    <string name="cloud_multi_backup_title">c</string>
+    <string name="cloud_multi_restore_title">Restaurar da Nuvem</string>
+    <string name="search_engine_title">Mecanismo de busca</string>
+    <string name="directory_notes">Notas</string>
+    <string name="replace">Substituir</string>
+    <string name="export_file">Exportado</string>
+    <string name="replace_to">Substituir por</string>
+    <string name="replace_regex">O Arquivo foi substituido</string>
+    <string name="msg_replaced">Substituído</string>
+    <string name="use_touch_stop_title">Toque na tela para abortar a leitura</string>
+    <string name="continuous_recognition">Identificação contínua</string>
+    <string name="edit_dict">编辑词典</string>
+    <string name="up_volume_key_off_title">关屏状态长按音量增加键</string>
+    <string name="down_volume_key_off_title">关屏状态长按音量减小键</string>
+    <string name="use_loop_move_space_title">在焦点循环前增加空焦点提示</string>
+    <string name="use_view_type_move_mode_title">使用新的类型导航手势</string>
+    <string name="use_view_type_move_mode_summary">打开后按试图类型浏览，默认使用先上后下和先下后上切换类型，使用向左和向右切换项目，默认类型执行原快捷功能；\n关闭时使用向左或向右手势切换类型，使用向上或向下切换项目，默认类型移动焦点。</string>
 
 
 </resources>

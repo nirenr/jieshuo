@@ -89,6 +89,8 @@
         <item>@string/command_to_notifications</item>
         <item>@string/command_gestures_edit</item>
         <item>@string/command_virtual_navigation</item>
+        <item>@string/url_menu_title</item>
+        <item>@string/actions</item>
 
         <item>@string/raw_click</item>
         <item>@string/raw_long_click</item>
@@ -102,6 +104,7 @@
         <item>@string/command_power_dialog</item>
         <item>@string/command_raw_double_tap</item>
         <item>@string/command_to_split_screen</item>
+        <item>@string/switch_multi_finger_gestures</item>
     </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
@@ -548,32 +551,31 @@
         <item>Standard</item>
         <item>Überschriften</item>
         <item>Links</item>
-        <item>Steuerelemente</item>
+        <item>Schaltflächen</item>
+        <item>Regionen</item>
+        <item>Eingabefelder</item>
+        <item>Fokusierbare Elemente</item>
+        <item>Steuerelement</item>
+        <item>Bilder</item>
+        <item>Kontrollkästchen</item>
+        <item>Konbinationsfelder</item>
+        <item>Formularfelder</item>
+        <item>Listen</item>
+        <item>Listeneinträge</item>
 
-        <item>地标</item>
-        <item>编辑框</item>
-        <item>焦点</item>
-        <item>控件</item>
-        <item>图片</item>
-        <item>复选框</item>
-        <item>组合框</item>
-        <item>表格</item>
-        <item>列表</item>
-        <item>列表项</item>
+        <item>Scroll</item>
+        <item>View</item>
 
-        <item>Seiten</item>
-        <item>Ansicht</item>
-
-        <item>WorT</item>
         <item>Zeichen</item>
-        <item>行</item>
-        <item>Absatz</item>
-        <item>Seite</item>
+        <item>Wort</item>
+        <item>Zeilen</item>
+        <item>Pagarpah</item>
+        <item>Seiten</item>
         <item>Kopieren</item>
         <item>Lautstärke</item>
         <item>Sprechgeschwindigkeit</item>
-        <item>Erkennungsmodul</item>
-    </string-array>
+        <item>Texterkennung</item>
+        </string-array>
     <string-array name="hot_key_help_items" >
         <item>Strg+DPAD_hoch: Focus auf vorheriges Element setzen</item>
         <item>Strg+DPAD_Runter: Focus auf nächstes Element setzen</item>
@@ -614,15 +616,15 @@
         <item>Vertikal bewegen</item>
 
 
-        <item>Wort</item>
         <item>Zeichen</item>
+        <item>Wort</item>
         <item>Zeile</item>
         <item>Absatz</item>
         <item>Seite</item>
         <item>Kopieren</item>
         <item>Lautstärke</item>
         <item>Sprechgeschwindigkeit</item>
-        <item>Erkennungsmodul</item>
+        <item>Texterkennung</item>
 
     </string-array>
 

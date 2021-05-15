@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name"> Commentary Screenreader</string>
+    <string name="app_name"> Jieshuo CH</string>
     <string name="accessibility_service_description">
         Commentary Screenreader est un programme qui aidera les personnes aveugles à utiliser leur téléphone portable. Nous avons fait quelques tentatives d\'innovation. Pour plus de détails, ouvrez paramètres \\ Aide et commentaires.\n
         Certaines fonctionnalités sont limitées jusqu\'à l\'achat de la version complète. Pour plus de détails, veuillez contacter le service clientèle du groupe QQ officiel..\n
@@ -176,7 +176,7 @@
     <string name="message_load_done">La ressource a été importée avec succès.</string>
     <string name="tool_title">Outils</string>
     <string name="directory_tools">Tools</string>
-    <string name="ocr_title">Reconnaissance du texte</string>
+    <string name="ocr_title">Reconnaissance du texte à l\'écran actuell</string>
     <string name="tool_manager_title">Gérer les outils</string>
     <string name="message_load_error">Impossible d\'importer la ressource.</string>
     <string name="manager_activity_title">gestion des ressources</string>
@@ -285,10 +285,10 @@
     <string name="use_up_long_quick_menu_summary">Afficher  la liste des gestes de l\'application en cours lorsque vous appuyez longuement sur l\'élément sélectionné: </string>
     <string name="up_volume_short_key_value_default">Augmenter le volume</string>
     <string name="up_volume_short_key_title">Appuyez sur le bouton d\'augmentation du volume: </string>
-    <string name="up_volume_short_key_summary">自定义短按音量加键功能，在触摸屏幕状态为增大音量</string>
+    <string name="up_volume_short_key_summary">自定义短按音量增加键功能，在触摸屏幕状态为增大音量</string>
     <string name="down_volume_short_key_value_default">Diminuer le volume</string>
     <string name="down_volume_short_key_title">Appuyez sur le bouton de Diminution du volume: </string>
-    <string name="down_volume_short_key_summary">自定义短按音量减键功能，在触摸屏幕状态为减小音量</string>
+    <string name="down_volume_short_key_summary">自定义短按音量减小键功能，在触摸屏幕状态为减小音量</string>
     <string name="use_ringtone_volume_title">Utiliser le volume de la sonnerie: </string>
     <string name="use_ringtone_volume_summary">Utilisez le volume de la sonnerie pour déterminer LE Volume d\'informations sur les appels entrants</string>
     <string name="up_down_volume_short_key_value_default">Suspendre l\'exploration par toucher</string>
@@ -301,8 +301,8 @@
     <string name="timer_manager_title">Gérer le minuteur</string>
     <string name="use_foreground_title">Protection de fond: </string>
     <string name="use_foreground_summary">Si l\'écran est souvent en veille, il est recommandé de cocher cette option.</string>
-    <string name="use_speak_qq_changed_title">Lire automatiquement les messages de discussion QQ: </string>
-    <string name="use_speak_qq_changed_summary">Lire automatiquement les messages QQ entrants.</string>
+    <string name="use_speak_qq_changed_title">lire les messages automatiquement: </string>
+    <string name="use_speak_qq_changed_summary">lire les messages entrants et sortants du manière automatique</string>
     <string name="left_button_default_value">Fin*|Raccrocher|Terminer*|Fermer*|Abandonner*|Effacer*|Wi-Fi*|Refuser|RAM totale*|Revenir en arrière de*|Retour arrière*</string>
     <string name="right_button_default_value">RÉPONDRE|Accepter*|Envoyer*|*haut-parleur*|Avance*|Avancer*</string>
     <string name="edge_gesture_title">paramètres des gestes du bords</string>
@@ -336,7 +336,7 @@
     <string name="use_input_method_gesture_title">Choisissez des suggestions dans le clavier Google par des gestes. </string>
     <string name="use_input_method_gesture_summary">Passez d\'une suggestion à l\'autre, En balayant vers la droite ou vers la gauche. Choisissez une suggestion, en balayant vers le haut ou vers le bas</string>
     <string name="use_volume_key_move_text_title">Utilisez les touches du volume pour déplacer le curseur en mode d\'édition: </string>
-    ش
+
     <string name="user_text">Nom d\'utilisateur: 5 à 15 caractères latins</string>
     <string name="pass_text">Mot de passe: 6 à 15 caractères latins.</string>
     <string name="current_text">%d caractères sur %d entrés</string>
@@ -523,9 +523,9 @@
     <string name="view_name_image_button"> bouton avec image</string>
     <string name="view_name_image"> image</string>
     <string name="message_has_vip_read_mode">Le mode de lecture de roman n\'est pas pris en charge dans la version gratuite du programme</string>
-    <string name="message_enabled_read_mode">Exiting reading mode</string>
-    <string name="message_long_copyed">Copié un total de %d élément .</string>
-    <string name="message_read_mode_enabled">Entrer en mode de lecture,</string>
+    <string name="message_enabled_read_mode">mode lecture terminé. </string>
+    <string name="message_long_copyed">Copié un total de %d élément</string>
+    <string name="message_read_mode_enabled">mode lecture commancé. </string>
     <string name="message_timer_mode_enabled">le minuteur est démarré. </string>
     <string name="message_clean">texte effacée</string>
     <string name="message_clean_error">erreur d\'effacement</string>
@@ -557,14 +557,14 @@
     <string name="command_node_mode">mode de navigation de nœud</string>
     <string name="command_to_home">Écran d\'accueil</string>
     <string name="command_to_back">Retour</string>
-    <string name="command_long_edit">Edition du texte avancée</string>
+    <string name="command_long_edit">Edition du texte long</string>
     <string name="command_all_speak">Lire l\'écran complet</string>
     <string name="command_all_speak2">Tout lire</string>
     <string name="command_all_select">sélection du texte intégral</string>
     <string name="command_voice_helper">assistant vocal</string>
     <string name="command_voice_input">Dictée vocale</string>
     <string name="command_ocr">Reconnaissance d\'image</string>
-    <string name="command_ocr_text">Reconnaissance du texte</string>
+    <string name="command_ocr_text">Reconnaissance du texte à l\'écran actuell</string>
     <string name="camera_title">caméra de reconnaissance</string>
     <string name="command_disable_touch">Suspendre l\'exploration par toucher</string>
     <string name="command_disable_feedback">suspendre la parole et les gestes</string>
@@ -648,7 +648,7 @@
     <string name="fingerprint_up_gesture_value_default">éléments précédents</string>
     <string name="fingerprint_down_gesture_value_default">éléments suivants</string>
     <string name="command_supper_mode">Mode de navigation détaillé</string>
-    <string name="command_ocr_focus">Reconnaître l\'élément ciblé avec OCR.</string>
+    <string name="command_ocr_focus">Reconnaissance du texte ciblé .</string>
     <string name="navi">navigation</string>
     <string name="unknown_index_title">Lire l\'index d\'un contrôle non étiqueté: </string>
     <string name="unknown_index_summary">Lire le numéro d\'index de l\'élément sélectionné, même s\'il n\'a pas d\'étiquette ou d\'ID..</string>
@@ -748,12 +748,12 @@
     <string name="share">Partager</string>
     <string name="move_to_up">Monter</string>
     <string name="move_to_down">Descendre</string>
-    <string name="delete">Effacer</string>
+    <string name="delete">Supprimer</string>
     <string name="select">Sélectionner</string>
     <string name="rename">Renommer</string>
     <string name="func_manager">gérer les fonctions</string>
     <string name="func_create">Créer une fonction</string>
-    <string name="waiting">veuillez pationtez</string>
+    <string name="waiting">veuillez paciontez</string>
     <string name="gestures_description_default">Pour les gestes par défaut, veuillez consulter l\'écran d\'aide..</string>
     <string name="auto_click">Clic automatique</string>
     <string name="insert"> inséré %s.</string>
@@ -827,7 +827,7 @@
     <string name="msg_recognition_results">Résultats</string>
     <string name="edit_mode">Mode d\'édition</string>
     <string name="use_dpad_key_title">Utiliser les flèches du clavier externes, pour déplacer le focus: </string>
-    <string name="ocr_engine_title">Moteur  OCR: </string>
+    <string name="ocr_engine_title">Moteur  O C R: </string>
     <string name="manager_title">gérer</string>
     <string name="msg_battery_full">La batterie est plaine</string>
     <string name="invite_code">Code d\'invitation: </string>
@@ -850,7 +850,7 @@
     <string name="msg_backups_empty">Le répertoire de sauvegarde est vide</string>
     <string name="msg_cmds_empty">Le répertoire des commandes vocales est vide!</string>
     <string name="close">fermer</string>
-    <string name="multi_click">Mode multi-clic, </string>
+    <string name="multi_click">Reconnaissance continue. </string>
     <string name="command_raw_tap">Mode du pointage</string>
     <string name="msg_enabled_raw_tap">Mode du pointage activé. Toucher l\'écran, Après moins d\'une seconde, cliquez une fois sur n\'importe quel élément pour l\'activer</string>
     <string name="msg_disabled_raw_tap">Mode du pointage désactivé.</string>
@@ -1079,7 +1079,7 @@
     <string name="gesture_4_triple_tap">Triple clic Avec quatre doigts, </string>
     <string name="gesture_2_double_tap_hold">pression prolongée Avec deux doigts,  </string>
     <string name="gesture_3_double_tap_hold">pression prolongée Avec trois doigts, </string>
-    <string name="gesture_4_double_tap_hold">pression prolongéeAvec quatre doigts, </string>
+    <string name="gesture_4_double_tap_hold">pression prolongée Avec quatre doigts, </string>
     <string name="gesture_2_swipe_up">Balayage vers le haut Avec deux doigts,</string>
     <string name="gesture_3_swipe_up">Balayage vers le haut Avec trois doigts,</string>
     <string name="gesture_4_swipe_up">Balayage vers le haut Avec quatre doigts,</string>
@@ -1121,6 +1121,37 @@
     <string name="activate_title">Activez l\'application</string>
     <string name="select_app">Choisissez l\'application</string>
     <string name="command_to_split_screen">Fractionner l\'écran</string>
- 
+    <string name="edit_activity">éditeur Jieshuo</string>
+    <string name="use_speak_key_title">écho du clavier externe</string>
+    <string name="auto_speak_title">lecture automatique des messages</string>
+    <string name="auto_speak_apps_title">liste des applications</string>
+    <string name="auto_speak_apps_summary">cette fonctionnalité ne se porte que les applications du discussion qui s\'affiche sous forme de liste</string>
+    <string name="msg_has_vip_auto_speak">elle supporte seulement l\'application qq dans la version gratuite</string>
+    <string name="auto_speak_blacklist_title">liste noire des messages</string>
+    <string name="read_mode_setting">paramètres du mode lecture</string>
+    <string name="next_chapter_title">Liste des bouttons pour aller on avant</string>
+    <string name="previous_chapter_title">Liste des bouttons pour revenir on arrière</string>
+    <string name="next_chapter_default_value">*suivant*|*suivante*|*Plus de résultats*|*Plus d\'articles*|*下一个*</string>
+    <string name="previous_chapter_default_value">*précédent*|*précédente*|*上页*|*上章*|*上一个*</string>
+    <string name="msg_activated">emande envoyée. en attente de vérification. Si l\'activation ne prand pas effetdurant une longue période, veuillez contactez le service client</string>
+    <string name="flash_light">flash. </string>
+    <string name="cloud_multi_backup_title">Sauvegarder les ressources sur le cloud</string>
+    <string name="cloud_multi_restore_title">Restaurer les ressources depuis le cloud</string>
+    <string name="search_engine_title">Moteur de recherche</string>
+    <string name="directory_notes">Notes</string>
+    <string name="replace">Remplacer</string>
+    <string name="export_file">Exporter le fichier</string>
+    <string name="replace_to">Remplacer par</string>
+    <string name="replace_regex">Remplacement régulier</string>
+    <string name="msg_replaced">texte remplacé</string>
+    <string name="use_touch_stop_title">suspendre ou Reprendre la parole au toucher. </string>
+    <string name="continuous_recognition">Reconnaissance continue</string>
+    <string name="edit_dict">编辑词典</string>
+    <string name="up_volume_key_off_title">关屏状态长按音量增加键</string>
+    <string name="down_volume_key_off_title">关屏状态长按音量减小键</string>
+    <string name="use_loop_move_space_title">在焦点循环前增加空焦点提示</string>
+    <string name="use_view_type_move_mode_title">使用新的类型导航手势</string>
+    <string name="use_view_type_move_mode_summary">打开后按试图类型浏览，默认使用先上后下和先下后上切换类型，使用向左和向右切换项目，默认类型执行原快捷功能；\n关闭时使用向左或向右手势切换类型，使用向上或向下切换项目，默认类型移动焦点。</string>
+
 </resources>
 

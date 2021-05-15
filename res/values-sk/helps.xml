@@ -84,6 +84,294 @@
  If there is an unrecognized instruction during the recording process, you can re-speak it. Recorded commands can be changed in Advanced Settings, Voice Assistant Settings, Voice Command Settings.</item>
     </string-array>
 
+    <string-array name="code_help_items">
+        <item>解说多功能手势和插件以lua语法配合解说专有API实现一个手势多个功能。
+ 如果对lua和androlua比较熟悉，还可以实现更多功能，本文档只讲述专有API部分。</item>
+        <item>基本概念，
+ service，辅助功能服务，是这个读屏服务的核心，各个功能都是以这个服务为核心。</item>
+        <item>参数类型说明，
+ node，当前焦点，也就是当前获得辅助功能焦点的节点，一般操作都是针对这个焦点的。
+ bool，布尔值，true或者false。
+ text，文字内容。</item>
+        <item>return，返回，通知读屏你是否希望读屏执行该手势的默认操作。
+ 返回true则拦截该手势，false返回上一层执行，如在单程序手势返回false，则由全局手势接管处理，全局手势返回false，由默认手势处理。</item>
+        <item>常用命令，
+ service.execute(命令,node)
+ 这个命令就是解说为了简化开发内置的一些指令，如果执行成功返回true，失败返回false。</item>
+        <item>service.postExecute(时间,命令,node)
+ 延时执行命令，</item>
+        <item>text=service.getText(node)
+ 获取指定节点的文字信息。</item>
+        <item>service.setText(node,text)
+ 设置指定焦点输入框文字内容。</item>
+        <item>service.setText(text)
+ 设置当前界面焦点输入框文字内容。</item>
+        <item>service.copy()
+ 复制当前焦点的文字内容到剪切板。</item>
+        <item>service.appendCopy()
+ 追加复制当前焦点的文字内容到剪切板。</item>
+        <item>service.copy(text)
+ 复制指定的文字内容到剪切板。</item>
+        <item>service.appendCopy(text)
+ 追加复制指定的文字内容到剪切板。</item>
+        <item>service.paste()
+ 将剪切板内容粘贴到当前界面的输入框。</item>
+        <item>service.paste(node)
+ 将剪切板内容粘贴到指定的输入框。</item>
+        <item>service.toNext()
+ 下一个焦点。</item>
+        <item>service.toNext(node,bool)
+ 指定节点下一个焦点，bool为true查找子节点，为false不查找子节点。</item>
+        <item>service.toPrevious()
+ 上一个焦点。</item>
+        <item>service.toPrevious(node,bool)
+ 指定节点上一个焦点，bool为true查找子节点，为false不查找子节点。</item>
+        <item>service.toNextChar()
+ 下一个字符。</item>
+        <item>service.toPreviousChar()
+ 上一个字符。</item>
+        <item>service.toNextLine()
+ 下一行。</item>
+        <item>service.toPreviousLine()
+ 上一行。</item>
+        <item>service.toTextStart()
+ 到文字开头。</item>
+        <item>service.toTextEnd()
+ 到文字结尾。</item>
+        <item>service.toListViewStart()
+ 到列表开头。</item>
+        <item>service.toListViewEnd()
+ 到列表结尾。</item>
+        <item>service.getRootNodeInfo()
+ 获取根节点。</item>
+        <item>service.ocr(node)
+ 文字识别指定节点，仅会员可用。</item>
+        <item>service.setTimerMode(bool)
+ 开启或关闭计时器模式，bool为true开启，false为关闭。</item>
+        <item>service.setAutoReadEnabled(bool)
+ 开启或关闭阅读模式，bool为true开启，false为关闭。</item>
+        <item>service.setAutoNext(bool)
+ 开启或关闭自动浏览模式，bool为true开启，false为关闭。</item>
+        <item>bool=service.isEditView(node)
+ 判断当前节点是否为编辑框。</item>
+        <item>bool=service.isSeekBar(node)
+ 判断当前节点是否为进度滑块。</item>
+        <item>bool=service.isListView(node)
+ 判断当前节点是否为列表。</item>
+        <item>bool=service.isInListView(node)
+ 判断当前节点是否在列表中。</item>
+        <item>bool=service.isInWebView(node)
+ 判断当前节点是否在网页中。</item>
+        <item>bool=service.isClick(node)
+ 判断当前节点是否可以点击。</item>
+        <item>service.toClick()
+ 点击当前焦点，在安卓7以上优先使用模拟手点击焦点。</item>
+        <item>service.toClick(node)
+ 点击指定节点。</item>
+        <item>service.toLongClick()
+ 长当前焦点。</item>
+        <item>service.toLongClick(node)
+ 长按指定节点。</item>
+        <item>service.toBack()
+ 返回。</item>
+        <item>service.toHome()
+ 返回主屏幕。</item>
+        <item>service.toNotification()
+ 打开通知栏。</item>
+        <item>service.toParent()
+ 打开最近任务列表。</item>
+        <item>service.scrollBackward(node)
+ 向后滚动。</item>
+        <item>service.scrollForward(node)
+ 向前滚动。</item>
+        <item>service.loadGesturePackage(name)
+ 载入手势方案。</item>
+        <item>service.click(x,y)
+ 模拟人手点击屏幕指定位置，仅安卓7以上可用。</item>
+        <item>service.longClick(x,y)
+ 模拟人手长按屏幕指定位置，仅安卓7以上可用。</item>
+        <item>service.press(x,y,t)
+ 模拟人手在屏幕指定位置按住指定时间，仅安卓7以上可用。</item>
+        <item>service.swipe(x1,y1,x2,y2,t)
+ 模式人手从一个位置用指定时间滑动到另一个位置，仅安卓7以上可用。</item>
+        <item>代码控制语句。</item>
+        <item>if 条件 then 要执行的代码
+ end
+ 满足指定条件执行中间的代码。
+ 如，
+ if service.isEditView(node) then service.execute(拆分编辑,node)
+ return true
+ end
+ 这句代码意思是，当焦点为编辑框时打开拆分编辑。</item>
+        <item>for n=1,重复次数 do
+ 要执行代码
+ end
+ 重复指定代码一定次数
+ 如，
+ for n=1,10 do
+ service.toBack()
+ end
+ 重复返回10次。</item>
+        <item>定义函数，
+ function 函数名称(参数)
+ 函数代码
+ end</item>
+        <item>函数是代码的功能块，可以有效的重复利用代码。
+ 如，下边是一个向列表添加数据的函数，在手势代码中，可以用于向一个列表添加重复的代码。
+ function append(t1,t2)
+ for k,v in ipairs(t2) do
+ table.insert(t1,v)
+ end
+ end
+ 点击列表={}
+ 按钮列表={%点击,%返回}
+ for n=1,10 do
+ append(点击列表,按钮列表)
+ end
+ 向点击列表重复添加10次按钮列表的内容。</item>
+        <item>function 滑动()
+ service.swipe(500,300,500,1000,1000)
+ return true
+ end
+ 模拟手在屏幕上滑动，可以在手势代码中使用，
+ service.click({{>微信,%滑动}})
+ 打开微信模拟在屏幕从上向下滑动。</item>
+        <item>自动点击，
+ service.click({按钮列表})
+ 自动依次查找点击按钮列表的按钮，
+ 按钮名称支持一些符号进行通配，
+ 如前面加#(井号)，表示搜索的是自定义标签，
+ 前边或后边加*(星号)表示前边或后边还有其他字符，
+ 后边加#(井号)表示按钮次序，
+ 后边加@(圈a)表示只在某一个程序查找，
+ 加$(美元)表示执行完成后延时。
+ 参数支持多个表，按顺序查找，
+ 如果查找成功返回true，失败返回false。
+ 完整说明见后边，</item>
+        <item>延时点击，
+ service.postClick(时间,{按钮列表})
+ 延时一定时间执行点击，时间单位为毫秒，按钮列表定义与click相同，
+ 没有返回值。</item>
+        <item>service.plugin(插件名称,node)
+ 执行一个插件，
+ 返回插件自定义返回的值。</item>
+        <item>解说手势以自动点击最为灵活，基础形式是</item>
+        <item>按钮列表={}
+ service.click(按钮列表)
+ return true</item>
+        <item>下边两行是固定的，自己只需要修改按钮列表即可，
+ 按钮列表格式是用英文花括号或者叫大括号括起来的一些按钮名称和符号组成，</item>
+        <item>最简单的例子，</item>
+        <item>按钮列表={确定}
+ service.click(按钮列表)
+ return true</item>
+        <item>这个代码就能点击屏幕上的确定按钮，</item>
+        <item>按钮列表={
+ 确定,
+ 完成
+ } service.click(按钮列表)
+ return true</item>
+        <item>这是第一级花括号，这个是如果有确定点击确定，没有确定就点击完成，如果没有确定，就继续找完成，依次类推</item>
+        <item>有时候我们需要连续点击一系列按钮实现一些功能，这也是自动点击的优势，</item>
+        <item>按钮列表={
+ {群资料卡,文件}
+ } service.click(按钮列表)
+ return true</item>
+        <item>这是二级花括号，在二级花括号中的按钮会被依次点击，直到某一个按钮不存在停止，</item>
+        <item>在花括号中嵌套括号可以实现连续点击，</item>
+        <item>在按钮列表中我们用一些符号来增强功能，</item>
+        <item>最常用的是 * 星号，英文星号，这个符号在按钮文字的前后，表示可以有其它内容</item>
+        <item>比如，在QQ主界面要点击，解说读屏交流群，而这个列表内容有时候后面会有99条未读之类内容，这时候就要写成，</item>
+        <item>解说读屏交流群*</item>
+        <item>\# 井号，表示第几个结果，有时候一个界面有很多个名字一样的按钮，这时候需要用井号来说明点击第几个，</item>
+        <item>如，确定#1，表示第一个，也可以是负数，如确定#-1，表示最后一个。</item>
+        <item>这个井号在文字开头表示要查找的是按钮的标签，而不是按钮的名字，比如有的按钮没有名字，可以自己添加标签，并使用标签查找，</item>
+        <item>符号中英文竖线|，表示或，也就是如果有竖线前边的点击前边的，没有就点击后边的，
+ 就拿刚才确定和完成的例子，可以简写为，
+ 确定|完成
+ 点击 确定 或者 完成，</item>
+        <item>&amp; 表示和，也就是只有有&amp;符号后边内容的界面，才点击前边内容的按钮，</item>
+        <item>确定&amp;*退出*
+ 表示，只有这个界面有退出字样，比如确定退出吗，才点击确定，而没有退出两个字就不执行，</item>
+        <item>&amp;后边加叹号加关键字表示不包含后边内容时执行，
+ 确定&amp;!*退出*
+ 表示，只有这个界面没有退出字样时，才点击确定，而有退出两个字就不执行,和上一个情况相反，</item>
+        <item>&amp;符号在前表示检查当前焦点类型，
+ &amp;可编辑
+ &amp;可点击
+ &amp;列表
+ &amp;列表项目
+ &amp;编辑框
+ 这个编辑框是弹出输入法的编辑框，</item>
+        <item>$美元符号，这个符号在文字后边表示点击该按钮后等待多长时间，执行下一步操作，</item>
+        <item>群资料卡$2000,文件
+ 表示点击群资料卡卡后2秒点击文件，</item>
+        <item>&lt; 小于号，在后边表示重复执行，重复点击按钮多少次，
+ 如 下一曲&lt;10
+ 就重复点击下一曲十次，</item>
+        <item>小于号在前边表示只定位，不点击。
+ &lt;确定
+ 找到确定但是不点击。</item>
+        <item>> 大于号，大于号在后边表示，等待次数符，
+ 群资料卡,文件>10
+ 手机反应有快有慢，用这个符号可以等待一定时间，这个代码表示，点击群资料卡后等待十秒，十秒以内以内如果出现文件就立即点击，如果超时就停止执行，</item>
+        <item>在开头的大于号可以打开程序，
+ >微信
+ 打开微信，
+ >QQ
+ 打开QQ，</item>
+        <item>还有一些扩展符号，可以执行其它功能，
+ % 可以执行一些常用指令，
+ 比如，
+ %复制
+ 可以复制，
+ %全文朗读
+ 可以全屏朗读，</item>
+        <item>%还可以执行脚本中指定的函数，函数返回true表示继续执行，false停止继续执行，</item>
+        <item>[]方括号包括的内容表示模拟直接点击，和使用辅助功能点击不同，直接点击可以解决一部分焦点不能点击的问题，
+ [播放]
+ 模拟直接点击播放按钮，
+ [%点击]
+ 模拟直接点击当前焦点</item>
+        <item>[x,y]方括号包含两个数字表示模拟点击指定位置，可以用整数表示绝对位置，或者用小数表示相对位置，
+ [300,500]
+ 模拟点击从左算300像素，从上算500像素的位置，
+ [0.3,0.5]
+ 模拟点击从左算 0.3 个屏幕宽度，从上算 0.5 个屏幕高度的位置，</item>
+        <item>[x,y,t]方括号包含三个数字表示模拟点击指定位置指定时间，前两个意思和上一个相同，第三个是以毫秒为单位的时间，
+ [300,500,1000]
+ 模拟点击从左算 300 像素，从上算 500 像素的位置，持续 1000 毫秒</item>
+        <item>[x1,y1,x2,y2,t]方括号包含五个数字表示用指定时间模拟从x1，y1滑动到x2,y2位置，可以用整数表示绝对位置，或者用小数表示相对位置，
+ [300,500,300,800,1000]
+ 模拟从左算 300 像素，从上算 500 像素的位置，用 1000 毫秒时间滑动到 300,800 的位置，</item>
+        <item>模拟滑动还可以指定滑动次数
+ [300,500,300,800,1000,10]
+ 模拟从左算 300 像素，从上算 500 像素的位置，用 1000 毫秒时间滑动到 300,800 的位置，10 次,</item>
+        <item>在手势执行中有时会有一些不同情况出现，比如打开QQ，点击解说读屏交流群，点击群资料卡，点击文件，
+ 如果有群公告，会在点击群资料卡那一步卡住，不能执行，
+ 这时需要分支代码来执行这些突发情况，
+ 我只是手写例子，可能会有错字导致不能执行，理解意思就可以了，</item>
+        <item>按钮列表={
+ { >QQ,
+ 解说读屏交流群*,
+ { 我已阅读群公告|我知道了
+ },
+ 群资料卡,
+ 文件
+ } }</item>
+        <item>因为QQ版本不同，确定群公告按钮也不一样，
+ 可以看到，在点击解说读屏交流群后，多了一对花括号括起来按钮，这个括号中的按钮，有则执行，没有则跳过，不影响后边按钮的执行，
+ 如果分支中有复杂操作，或者多种场景，我们还可以套入多个括号，</item>
+        <item>按钮列表={
+ { >QQ,
+ 解说读屏交流群*,
+ { { 我已阅读群公告,确定},
+ { 我知道了,确定},
+ },
+ 群资料卡,
+ 文件
+ } }</item>
+    </string-array>
 
     <string-array name="gesture_help_items">
         <item>Gesture operation essentials:

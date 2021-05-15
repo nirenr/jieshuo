@@ -972,7 +972,7 @@
     <string name="add_from_virtual_screen">Aggiungi da schermo virtuale.</string>
     <string name="add_from_virtual_list">Aggiungi caratteri riconosciuti dall\'OCR</string>
     <string name="use_ocr_qq_title">OCR sul cloud di Tencent.</string>
-    <string name="ocr_lang_enteries">Misto inglese|Identifica automaticamente|Giapponese|Coreano|Spagnolo|Francese|Tedesco|Portoghese|Vietnamita|Malese|Russo|Italiano|Olandese|Svedese|Finlandese|Danese|Norvegese|Ungherese|Thai|Latino</string>
+    <string name="ocr_lang_enteries">Misto inglese|Identifica automaticamente|Giapponese|Coreano|Spagnolo|Francese|Tedesco|Portoghese|Vietnamita|Malese|Russo|Italiano|Olandese|Svedese|Finlandese|Danese|Norvegese|Ungherese|Thai|Latino|阿拉伯语</string>
     <string name="cmd_description">Descrizione (massimo 15 parole).</string>
     <string name="timer_run_title">Operazioni programmate</string>
     <string name="msg_has_vip_timer_run">La versione gratuita non permette di aggiungere operazioni programmate! Acquista la versione completa per continuare.</string>
@@ -1180,7 +1180,7 @@
     <string name="show_download_title">Scarica Commentary Screenreader</string>
     <string name="version_msg">%s\nSize:%s\nNumero di scaricamenti:%s</string>
     <string name="user_new_password">Nuova password (6-15 caratteri latini): </string>
-    <string name="repassword_title">Confirma password: </string>
+    <string name="repassword_title">Conferma password: </string>
     <string name="msg_not_empty">Il campo non può essere vuoto!</string>
     <string name="msg_unknown_error">Si è verificato un errore sconosciuto. Riprova più tardi o contatta l\'assistenza.\n</string>
     <string name="msg_timer_mode_pause">timer in pausa.</string>
@@ -1191,6 +1191,36 @@
     <string name="activate_title">Attiva licenza premium</string>
     <string name="select_app">Seleziona un\'app</string>
     <string name="command_to_split_screen">Schermo diviso</string>
-
+    <string name="edit_activity">Editor attività</string>
+    <string name="use_speak_key_title">Eco tasti: </string>
+    <string name="auto_speak_title">Impostazioni lettura automatica</string>
+    <string name="auto_speak_apps_title">Selezione programmi lettura automatica</string>
+    <string name="auto_speak_apps_summary">Si noti che non tutte le applicazioni supportano questa funzione. Programmi che visualizzano il contenuto sottoforma di elenco hanno maggiori probabilità di essere supportati.</string>
+    <string name="msg_has_vip_auto_speak">Gli utenti della versione gratuita possono leggere automaticamente solo i messaggi di QQ.</string>
+    <string name="auto_speak_blacklist_title">Lista nera lettura automatica</string>
+    <string name="read_mode_setting">Impostazioni modalità lettura</string>
+    <string name="next_chapter_title">Comandi capitolo successivo</string>
+    <string name="previous_chapter_title">Comandi capitolo precedente</string>
+    <string name="next_chapter_default_value">*Capitolo successivo*|*Vai al capitolo successivo*|*Capitolo successivo*|*Avanti*|*Avanti di un capitolo*</string>
+    <string name="previous_chapter_default_value">*Capitolo precedente*|*Vai al capitolo precedente*|*Capitolo precedente*|*Indietro*|*Indietro di un capitolo*</string>
+    <string name="msg_activated">Inoltro completato. Attendere l\attivazione. Se non avverrà entro un tempo ragionevole, contattare l\'Assistenza Clienti.</string>
+    <string name="flash_light">Torcia</string>
+    <string name="cloud_multi_backup_title">Backup to the cloud</string>
+    <string name="cloud_multi_restore_title">Recupera dal cloud</string>
+    <string name="search_engine_title">Motori di ricerca</string>
+    <string name="directory_notes">Note</string>
+    <string name="replace">Sostituzione</string>
+    <string name="export_file">Esporta</string>
+    <string name="replace_to">Sostituisci con</string>
+    <string name="replace_regex">Usa espressioni regolari</string>
+    <string name="msg_replaced">Sostituzione avvenuta con successo.</string>
+    <string name="use_touch_stop_title">Sospendi la voce toccando lo schermo</string>
+    <string name="continuous_recognition">Riconoscimento continuo</string>
+    <string name="edit_dict">编辑词典</string>
+    <string name="up_volume_key_off_title">关屏状态长按音量增加键</string>
+    <string name="down_volume_key_off_title">关屏状态长按音量减小键</string>
+    <string name="use_loop_move_space_title">在焦点循环前增加空焦点提示</string>
+    <string name="use_view_type_move_mode_title">使用新的类型导航手势</string>
+    <string name="use_view_type_move_mode_summary">打开后按试图类型浏览，默认使用先上后下和先下后上切换类型，使用向左和向右切换项目，默认类型执行原快捷功能；\n关闭时使用向左或向右手势切换类型，使用向上或向下切换项目，默认类型移动焦点。</string>
 
 </resources>

@@ -42,7 +42,7 @@
     <string name="tts_speed_summary">Брзина говорне јединице.</string>
 
 
-    <string name="usage_hints_title">Читај савете о коришћењу: </string>
+    <string name="usage_hints_title">Читање савета о коришћењу: </string>
     <string name="usage_hints_summary">Чита интерактивне савете базиране на апликацији коју користите.</string>
 
     <string name="vibrate_title">Вибрација: </string>
@@ -95,7 +95,7 @@
     <string name="notification_type_status_stopped">"заустављено"</string>
     <string name="acc_settings_title">Подешавања приступачности</string>
     <string name="qq_group_title">Званична QQ група Јиесхуо читача екрана</string>
-    <string name="audio_focus_title">Утишавање звука када раде друге апликације: </string>
+    <string name="audio_focus_title">Утишавање звука у позадини када раде друге апликације: </string>
 
     <string name="voice_app_name">Гласовни асистент</string>
     <string name="voice_helper_service_description">Користите ваш телефон уз помоћ гласовних наредби.</string>
@@ -167,8 +167,8 @@
     <string name="no_phone_permission">Нема дозвола.</string>
     <string name="message_time_out">неауторизовано</string>
     <string name="message_welcome">Јиесхуо Читач екрана је укључен.</string>
-    <string name="message_in_dim_screen">Таман екран омогућен.</string>
-    <string name="message_out_dim_screen">Таман екран онемогућен</string>
+    <string name="message_in_dim_screen">Таман екран је омогућен.</string>
+    <string name="message_out_dim_screen">Таман екран је онемогућен</string>
     <string name="message_only_android5_last">Подржан је андроид 5 или новији!</string>
     <string name="notification_box">Оквир обавештења</string>
     <string name="clear">Очисти</string>
@@ -217,7 +217,7 @@
     <string name="tts_speed_double_title">Додатно убрзање синтезе говора: </string>
     <string name="tts_unisound_settings_title">Подешавања Унисоунд Говорне Јединице</string>
     <string name="use_wake_lock_summary">Оставите екран укључен када се чита текст.</string>
-    <string name="audio_focus_summary">Утишај друге звукове у току изговарања.</string>
+    <string name="audio_focus_summary">Утишавање других звукова приликом изговора.</string>
     <string name="message_done">Завршено</string>
     <string name="app_gesture_package_title">Тема покрета за апликације.</string>
     <string name="app_gesture_package_summary">Конфигуриши тему покрета за апликације.</string>
@@ -248,8 +248,8 @@
     <string name="use_up_long_quick_menu_title">Прикажи мени са радњама приликом дугог притиска: </string>
     <string name="use_show_dis_enabled_quick_menu_title">Прикажи недоступне радње у менију са радњама: </string>
     <string name="voice_helper_setting_title">Подешавања Гласовног асистента</string>
-    <string name="voice_helper_copy_title">Аутоматски копирај резултате превода у међуспремник: </string>
-    <string name="trans_lang_from_title">Изворни језик: </string>
+    <string name="voice_helper_copy_title">Аутоматско копирање резултата превода у међуспремник: </string>
+    <string name="trans_lang_from_title">Језик са којег се преводи: </string>
     <string name="use_pager_scroll_summary">Аутоматски се пребацујте на следећу страницу када дођете до краја тренутне</string>
     <string name="scroll_gesture_settings_title">Подешавања померања</string>
     <string name="click_settings_title">Подешавања кликабилних акција</string>
@@ -282,16 +282,16 @@
     <string name="use_edge_gesture_summary">Покрети који се изводе на крајњој ивици екрана.</string>
     <string name="left_edge_gesture_summary">Прилагодите леву ивичну пречицу.</string>
     <string name="right_edge_gesture_summary">Прилагодите десну ивичну пречицу</string>
-    <string name="down_volume_key_value_default">гласовни асистент</string>
-    <string name="down_volume_key_title">Дуго притисните дугме за смањивање јачине</string>
+    <string name="down_volume_key_value_default">Гласовни асистент</string>
+    <string name="down_volume_key_title">Дуги притисак дугмета за смањивање јачине звука</string>
     <string name="down_volume_key_summary">Прилагодите функцију дугог притиска дугмета за смањивање јачине.</string>
-    <string name="up_volume_key_title">Дуго притисните дугме за појачавање</string>
+    <string name="up_volume_key_title">Дуги притисак дугмета за појачавање јачине звука</string>
     <string name="up_volume_key_summary">Прилагодите функцију дугог притиска дугмета за појачавање</string>
     <string name="up_volume_key_value_default">Укључите или искључите "Отпуштање прста за активацију"</string>
     <string name="use_speak_call_phone_summary">Изговарај број и име позиваоца: </string>
     <string name="use_speak_call_phone_title">Информација о позиваоцу: </string>
     <string name="use_speak_changed_volume_summary">Читај поруку при подешавању јачине звука</string>
-    <string name="use_speak_changed_volume_title">Читај поруку о промени јачине: </string>
+    <string name="use_speak_changed_volume_title">Читање поруке о промени јачине звука: </string>
     <string name="vip_qq_group_title">Јиесхуо VIP QQ група</string>
     <string name="qq_group2_title">Јиесхуо Читач екрана званична QQ група</string>
     <string name="right_long_edge_gesture_value_default">Трака обавештења</string>
@@ -303,10 +303,10 @@
     <string name="use_up_long_quick_menu_summary">Прикажите мени пречица приликом дугог притиска на фокусирану ставку.</string>
     <string name="up_volume_short_key_value_default">Појачавање јачине звука</string>
     <string name="up_volume_short_key_title">Кратак притисак дугмета за појачавање јачине звука: </string>
-    <string name="up_volume_short_key_summary">Изабери радњу коју желиш да буде извршена приликом кратког притиска на дугме за повећавање јачине звука. Ако желиш променити јачину, користи дугмад за јачину држећи прст на екрану</string>
+    <string name="up_volume_short_key_summary">Изабери радњу коју желиш да буде извршена приликом кратког притиска  дугмета за повећавање јачине звука. Ако желиш променити јачину, користи дугмад за јачину држећи прст на екрану</string>
     <string name="down_volume_short_key_value_default">Смањивање јачине звука</string>
     <string name="down_volume_short_key_title">Кратак притисак дугмета за смањивање јачине звука: </string>
-    <string name="down_volume_short_key_summary">Изабери радњу коју желиш да буде извршена приликом кратког притиска на дугме за смањивање јачине звука. Ако желиш променити јачину, користи дугмад за јачину држећи прст на екрану</string>
+    <string name="down_volume_short_key_summary">Изабери радњу коју желиш да буде извршена приликом кратког притиска дугмета за смањивање јачине звука. Ако желиш променити јачину, користи дугмад за јачину држећи прст на екрану</string>
     <string name="use_ringtone_volume_title">Користи јачину звука звона: </string>
     <string name="use_ringtone_volume_summary">Користите јачину звука звона за одређивање јачине информација о позиваоцу</string>
     <string name="up_down_volume_short_key_value_default">Привремено онемогући истраживање додиром</string>
@@ -314,7 +314,7 @@
     <string name="up_down_volume_short_key_title">Истовремени притисак оба дугмета за јачину звука</string>
     <string name="tts_engine_title">Главна говорна јединица</string>
     <string name="async_tts_engine_title">Друга говорна јединица</string>
-    <string name="async_tts_engine_summary">Говорна јединица која се користи за читање обавештења и других додатних информација. Одабир исте говорне јединице попут главне резултираће коришћењем само једне говорне јединице.</string>
+    <string name="async_tts_engine_summary">Говорна јединица која се користи за читање обавештења и других додатних информација. Одабир исте говорне јединице попут главне резултоваће коришћењем само једне говорне јединице.</string>
     <string name="tts_engine_summary">Говорна јединица која се користи за читање садржаја. Ако изабрана јединица не ради, прва доступна јединица ће бити коришћена.</string>
     <string name="timer_manager_title">Управљај тајмером</string>
     <string name="use_foreground_title">Користи чувар екрана</string>
@@ -509,7 +509,7 @@
     <string name="raw_swipe_right">[Повуци десно]</string>
     <string name="raw_swipe_left">[Повуци лево]</string>
     <string name="raw_long_click">[Дуги притисак]</string>
-    <string name="raw_click">[Клик]</string>
+    <string name="raw_click">[Директан клик]</string>
 
     <string name="click_to_enabled">Истраживање додиром је поново омогућено.</string>
     <string name="touch_mode_disabled">Истраживање додиром је онемогућено.</string>
@@ -579,7 +579,7 @@
     <string name="command_accessibility_service_setting">Подешавања приступачности</string>
     <string name="command_trans">Преведи</string>
     <string name="command_disable_dim_screen">Онемогући затамњење екрана</string>
-    <string name="command_enable_dim_screen">Затамњење</string>
+    <string name="command_enable_dim_screen">Омогући затамњење екрана</string>
     <string name="command_enable_dim_screen2">Омогући затамњење екрана</string>
     <string name="command_to_recents">Екран са недавним апликацијама</string>
     <string name="command_clean">Очисти тренутно фокусирано поље за уређивање</string>
@@ -907,7 +907,7 @@
     <string name="msg_restored">Сигурносна копија враћена.</string>
     <string name="backup_done">Сигурносна копија завршена.</string>
     <string name="msg_gestures_empty">Директоријум покрети је празан.</string>
-    <string name="msg_sounds_empty">ДиректоријумЗвучних тема је празан</string>
+    <string name="msg_sounds_empty">Директоријум Звучних тема је празан</string>
     <string name="msg_clipboards_empty">Директоријум међуспремника је празан</string>
     <string name="msg_favorites_empty">Директоријум омиљено је празан</string>
     <string name="msg_timers_empty">Директоријум тајмера је празан</string>
@@ -972,7 +972,7 @@
     <string name="add_from_virtual_screen">Додај из виртуелног екрана.</string>
     <string name="add_from_virtual_list">Додајте карактере препознате од стране ОЦР-А</string>
     <string name="use_ocr_qq_title">Тенцент ОЦР у облаку.</string>
-    <string name="ocr_lang_enteries">Мешовити енглески|Аутоматско препознавање|Јапански|Корејски|Шпански|Француски|Немачки|Португалски|Вијетнамски|Малајски|Руски|Италијански|Холандски|Шведски|Фински|Дански|Норвешки|Мађарски|Тајландски|Латински</string>
+    <string name="ocr_lang_enteries">Мешовити енглески|Аутоматско препознавање|Јапански|Корејски|Шпански|Француски|Немачки|Португалски|Вијетнамски|Малајски|Руски|Италијански|Холандски|Шведски|Фински|Дански|Норвешки|Мађарски|Тајландски|Латински|阿拉伯语</string>
     <string name="cmd_description">Опис (максимално 15 речи).</string>
     <string name="timer_run_title">Заказани задаци</string>
     <string name="msg_has_vip_timer_run">Демо корисници не могу додавати заказане задатке! Молимо вас да купите пуну верзију да бисте наставили.</string>
@@ -997,18 +997,18 @@
     <string name="open_application_info_title">Отворите страницу о Јиесхуо Читачу екрана</string>
     <string name="open_setup_setting_title">Отворите Подешавања покретања.</string>
     <string name="check_notification_permissions_title">Проверите дозволе за обавештења.</string>
-    <string name="denied_permissions_title">未获得的权限</string>
-    <string name="welcome_msg">Добродошли у Јиесхуо Читач екрана. Најбољи читач екрана за Андроид. Изаберите једну од три опције: Чаробњак за подешавање: омогућава вам да подесите основна подешавања која ће вам помоћи да брзо започнете са коришћењем. Кликните на Прикажи Дозволе Да бисте прочитали информације о различитим дозволама а изађите да напустите чаробњака.</string>
-    <string name="use_left_right_msg">Јиесхуо Читач екрана подржава различите начине кретања. Према подешавањима, превлачење прстом горе или доле се користи као подразумевани начин кретања. Међутим, ако сте навикли да вам покрети лево и десно буду начин кретања, то можете подесити овде. Превуците прстом лево сада да бисте користили подразумеване покрете, или превуците прстом у десно да бисте користили заменски сет покрета.</string>
+    <string name="denied_permissions_title">Неприбављена дозвола</string>
+    <string name="welcome_msg">Добродошли у Јиесхуо Читач екрана, Најбољи читач екрана за Андроид. Изаберите једну од три опције: Чаробњак за подешавање: омогућава вам да подесите основна подешавања која ће вам помоћи да брзо започнете са коришћењем. Кликните на Прикажи Дозволе Да бисте прочитали информације о различитим дозволама а изађите да напустите чаробњака.</string>
+    <string name="use_left_right_msg">Јиесхуо Читач екрана подржава различите начине кретања. Према подразумеваним подешавањима, превлачење прстом горе или доле се користи као подразумевани начин кретања. Међутим, ако сте навикли да вам покрети лево и десно буду начин кретања, то можете подесити овде. Превуците прстом лево сада да бисте користили подразумеване покрете, или превуците прстом у десно да бисте користили заменски сет покрета.</string>
     <string name="usage_hints_msg">Савети за употребу могу помоћи почетнику да се упозна са коришћењем читача екрана. Ако је ово први пут да користите свој мобилни телефон, препоручујемо да омогућите ову опцију за беспрекорно искуство. Међутим, ако сте искусан корисник мобилног телефона, препоручујемо да ову опцију искључите ради бољег доживљаја.</string>
     <string name="use_list_index_msg">Читање индекса тренутно фокусиране ставке на листи може вам помоћи да се боље оријентишете по дужини и вашем тренутном положају на листи, међутим упутства за читање ће бити дужа и неки људи ће то можда сматрати тешким или  досадним.</string>
     <string name="notification_speak_msg">обавештење о читању ће омогућити читачу екрана да чита долазна обавештења. Укључите ову опцију како би вам сва обавештења била прочитана. Ако не желите да будете узнемиравани, препоручујемо да искључите ову опцију.</string>
     <string name="use_single_tts_msg">Изаберите уколико желите да користите две говорне јединице за читање. Прва ће се користити за читање главних информација попут тренутног фокуса и осталих веома важних ствари. Друга јединица ће се користити за читање обавештења и било чега другог, на пример балончића. </string>
     <string name="use_left_right_ok">користи се заменска тема покрета.</string>
     <string name="use_left_right_no">Користи се подразумевана тема покрета.</string>
-    <string name="usage_hints_ok">Савети о употреби биће прочитани.</string>
-    <string name="usage_hints_no">Савети за употребу се неће читати.</string>
-    <string name="notification_speak_ok">Обавештења ће бити прочитана.</string>
+    <string name="usage_hints_ok">Савети о коришћењу ће бити читани.</string>
+    <string name="usage_hints_no">Савети о коришћењу неће бити читани.</string>
+    <string name="notification_speak_ok">Обавештења ће бити читана.</string>
     <string name="notification_speak_no">Обавештења неће бити читана.</string>
     <string name="use_single_tts_ok">Користиће се једна  говорна јединица.</string>
     <string name="use_single_tts_no">Користиће се две говорне јединице.</string>
@@ -1017,12 +1017,12 @@
     <string name="check_permissions_msg">Кликните даље да бисте доделили основна одобрења или откажи да бисте изашли.。</string>
     <string name="next">Следећи корак</string>
     <string name="setup_setting_done">Подешавање је завршено.</string>
-    <string name="setup_setting_done_msg"><![CDATA[你可以在常用设置>设置向导重新运行]]></string>
+    <string name="setup_setting_done_msg"><![CDATA[Чаробњаку поново можете приступити одласком у Општа подешавања>Чаробњак за подешавања]]></string>
     <string name="setup_setting_continue">Наставите са подешавањем.</string>
     <string name="setup_setting_not_permission">Основна одобрења нису дата.</string>
     <string name="setup_setting_not_permission_msg">Нису дата сва одобрења. Изаберите настави да их одобрите или изађи да напустите.</string>
     <string name="setup_setting_set_permission_and_exit">Одобрите дозволе и изађите из чаробњака.</string>
-    <string name="setup_setting_not_notification_permission">Дозволе за обавештења су одбијене.</string>
+    <string name="setup_setting_not_notification_permission">Дозволе за читање обавештења су одбијене.</string>
     <string name="setup_setting_notification_permission_msg">Употреба дозволе за обавештења омогућава читачу екрана да задржи своју икону у панелу са обавештењима што доводи до побољшане стабилности.</string>
     <string name="setup_setting_get_permission">Дозволите</string>
     <string name="setup_setting_has_notification_permission">Дозволе за читање обавештења су добијене.</string>
@@ -1033,8 +1033,8 @@
     <string name="setup_setting_not_overlay_permission">Дозвола за плутајуће прозоре је одбијена.</string>
     <string name="setup_setting_overlay_permission_msg">Дозвола с плутајућим прозорима помаже у функцијама попут затамњивања екрана.</string>
     <string name="setup_setting_has_overlay_permission">Добијене су дозволе за плутајући прозор.</string>
-    <string name="copy_username_and_userid">Копирајте корисничко име и ИД.</string>
-    <string name="username_and_userid_format">корисничко име: %s ИД: %s</string>
+    <string name="copy_username_and_userid">Копирајте корисничко име и ИД корисника.</string>
+    <string name="username_and_userid_format">корисничко име: %s ИД корисника: %s</string>
     <string name="file_name_dict">dict.json</string>
     <string name="refresh">Освежи</string>
     <string name="msg_filter">%d пронађених резултата</string>
@@ -1053,7 +1053,7 @@
     <string name="format">Формат</string>
     <string name="fix_import">Поновно повежите екстензије датотека</string>
     <string name="run">Покрените</string>
-    <string name="use_emoji_speak_title">Читај Емоџије: </string>
+    <string name="use_emoji_speak_title">Читање Емоџија: </string>
     <string name="install_shortcut">Додајте пречицу на радну површину</string>
     <string name="msg_select_end">Крај</string>
     <string name="msg_select_start">Почетак</string>
@@ -1067,7 +1067,7 @@
     <string name="sound_settings_title">Прилагођавање звучне теме</string>
     <string name="sound_focus1">Ставка која се може кликнути</string>
     <string name="sound_focus2">Ставка фокуса</string>
-    <string name="sound_focus3">Ставка тастаттуре</string>
+    <string name="sound_focus3">Ставка тастатуре</string>
     <string name="sound_focus4">Недоступна ставка</string>
     <string name="sound_focus0">Ставка листе</string>
     <string name="sound_click">Кликабилна ставка</string>
@@ -1142,7 +1142,7 @@
     <string name="gesture_3_single_tap">Троструки додир једним прстом</string>
     <string name="gesture_4_single_tap">Четвороструки додир једним прстом</string>
     <string name="gesture_2_double_tap">Двоструки додир са два прста</string>
-    <string name="gesture_3_double_tap">Двоструки додир са три прста</string>
+    <string name="gesture_3_double_tap">Троструки додир са два прста</string>
     <string name="gesture_4_double_tap">Двоструки додир са четири прста</string>
     <string name="gesture_2_triple_tap">Двоструки додир са три прста</string>
     <string name="gesture_3_triple_tap">Троструки додир са три прста</string>
@@ -1158,7 +1158,7 @@
     <string name="gesture_4_swipe_down">Превлачење на доле са четири прста</string>
     <string name="gesture_2_swipe_left">Превлачење улево са два прста</string>
     <string name="gesture_3_swipe_left">Превлачење улево са три прста</string>
-    <string name="gesture_4_swipe_left">Превлачење улево са три прста</string>
+    <string name="gesture_4_swipe_left">Превлачење улево са четири прста</string>
     <string name="gesture_2_swipe_right">Превлачење удесно са два прста</string>
     <string name="gesture_3_swipe_right">Превлачење удесно са три прста</string>
     <string name="gesture_4_swipe_right">Превлачење удесно са четири прста</string>
@@ -1173,8 +1173,8 @@
     <string name="msg_node_changed_list_added">已监控</string>
     <string name="msg_node_changed_list_removed">已取消监控</string>
     <string name="msg_in_game_mode">Ушлисте у режим игре.</string>
-    <string name="use_accessibility_volume_fix_title">Use accessibility volume optimization</string>
-    <string name="use_accessibility_volume_fix_summary">If you cannot change the volume or the volume changes are wrong, please turn on this option.</string>
+    <string name="use_accessibility_volume_fix_title">Коришћење оптимизације звука приступачности</string>
+    <string name="use_accessibility_volume_fix_summary">Уколико нисте у могућности да мењате јачину звука или је јачина приликом мењања погрешна, молимо уљкучите ову могућност.</string>
     <string name="msg_exit_game_mode">Изашли сте из режима игре.</string>
     <string name="privacy">Правила о приватности</string>
     <string name="show_download_title">Преузимање Јиесхуо Читача екрана</string>
@@ -1191,4 +1191,36 @@
     <string name="activate_title">Активирај премиум чланство</string>
     <string name="select_app">Изаберите апликацију</string>
     <string name="command_to_split_screen">Режим подељеног екрана</string>
+    <string name="edit_activity">Уређивач активности</string>
+    <string name="use_speak_key_title">朗读按键</string>
+    <string name="auto_speak_title">Подешавања аутоматског читача</string>
+    <string name="auto_speak_apps_title">Избор програма за аутоматско читање</string>
+    <string name="auto_speak_apps_summary">Не подржавају све апликације аутоматско читање порука, вероватније ће ово подржати софтвер за ћаскање који се приказује у облику листе</string>
+    <string name="msg_has_vip_auto_speak">корисници бесплатне верзије програма могу аутоматски читати само QQ поруке</string>
+    <string name="auto_speak_blacklist_title">Црна листа аутоматског читања</string>
+    <string name="read_mode_setting">Подешавања режима читања</string>
+    <string name="next_chapter_title">Команде наредног поглавља</string>
+    <string name="previous_chapter_title">Команде претходног поглавља</string>
+    <string name="next_chapter_default_value">*Следећа страна*|*Следеће поглавље*|*Следећа страна*|*Следеће поглавље*|*Следећи*</string>
+    <string name="previous_chapter_default_value">*上一页*|*上一章*|*上页*|*上章*|*上一个*</string>
+    <string name="msg_activated">Подношење завршено. Сачекајте активацију. Ако се то не догоди у разумном року, обратите се служби за подршку.</string>
+    <string name="flash_light">Блиц</string>
+    <string name="cloud_multi_backup_title">备份到云</string>
+    <string name="cloud_multi_restore_title">从云恢复</string>
+    <string name="search_engine_title">搜索引擎</string>
+    <string name="directory_notes">Notes</string>
+    <string name="replace">替换</string>
+    <string name="export_file">导出</string>
+    <string name="replace_to">替换为</string>
+    <string name="replace_regex">正则替换</string>
+    <string name="msg_replaced">已替换</string>
+    <string name="use_touch_stop_title">触摸屏幕中止朗读</string>
+    <string name="continuous_recognition">连续识别</string>
+    <string name="edit_dict">编辑词典</string>
+    <string name="up_volume_key_off_title">关屏状态长按音量增加键</string>
+    <string name="down_volume_key_off_title">关屏状态长按音量减小键</string>
+    <string name="use_loop_move_space_title">在焦点循环前增加空焦点提示</string>
+    <string name="use_view_type_move_mode_title">使用新的类型导航手势</string>
+    <string name="use_view_type_move_mode_summary">打开后按试图类型浏览，默认使用先上后下和先下后上切换类型，使用向左和向右切换项目，默认类型执行原快捷功能；\n关闭时使用向左或向右手势切换类型，使用向上或向下切换项目，默认类型移动焦点。</string>
+
 </resources>

@@ -1,749 +1,174 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <string-array name="help_items">
-        <item>
-        Basic browsing operations:\n
-        By default, swiping up navigates to the previous item. Swiping down navigates to the next item.\n
-        However you can change this behavior in the action settings.</item>
-        <item>
-Main Menu: \n
-        By default, use the down right swipe to open the menu, swipe right to expand more options.\n
-        You can display all menu items at once by customizing it in the settings.</item>
-        <item>
-        voice assistant:\n
-        By default, the voice assistant is activated with the down left swipe gesture and the command is spoken after the sound. Tapping the screen will force the immediate recognition\n
-        The voice assistant can be customized in advanced settings, voice assistant settings, voice assistant capabilities settings.\n</item>
-        <item>
-Actions menu: \n
-        By default, up right swipe opens the action menu, right swipe expands the menu and double tap activates the focused menu option.</item>
-        <item>
-        Extensions:\n
-        By default, the first and last left gestures are used to open the extension list, and then right-slide to open the voice command list, and double-click to execute the corresponding function.\n
-        You can find more plugins in the resource download.\n
-        Advanced settings, voice assistant settings, voice command settings, new, modified or downloaded </item>
-        <item>
-        Copy, append copy, clipboard and favorites:\n
-        These functions can be found in the operation menu.\n
-        Copy, copy the focus to the clipboard\n
-        Append copy to append the focus content to the last item of the clipboard,\n
-        Clipboard, record the most recently copied content, click to enter the edit box, long press to add content to favorites\n
-        Favorites, click to enter the edit box, long press to edit,\n
-        In advanced settings, resource management can delete or backup clipboard and favorites</item>
-        <item>
-        Long copy (premium users only):\n
-        Long copy can copy long list content.\n
-        After the long copy is activated in the operation menu, you need to wait for different time according to the length of the list. When the copy is completed, you will be prompted to complete the long copy.\n
-        During long copying, you can force abort by swiping any gesture.</item>
-        <item>
-        Full text selection (Premium users only):\n
-        Full-text selection is mainly suitable for copying some content from web pages or longer content.
-        The full text selection can split the content by word, sentence, and segment form, select the required content through the check box form, and finally copy,\n
-        In the content list, you can long press an item as the starting point, and then long press the end of the selection to quickly select multiple consecutive items.</item>
-        <item>
-        Advanced editing (member function):\n
-        You can edit the focus content according to words, sentences, paragraphs or full text in the edit box or non-edit box to facilitate quick positioning and modification.\n
-        Click on the split edit list to edit it, long press to make the entry more detailed split.\n
-        Edit box can be clicked to enter the edit box, and the non-edit box can only be saved to the clipboard by copying.</item>
-        <item>
-        List browsing:\n
-        Display all the focus as a list, click to activate the corresponding focus, especially suitable for use on web pages.</item>
-        <item>
-        Reading mode (member function):\n
-        You can read webpage articles opened by the browser, filter unwanted content, and turn pages automatically.</item>
-        <item>
-        Virtual screen (member function):\n
-        The OCR recognizes the content on the screen, displays the result according to the text position, clicks the result text to activate the corresponding focus, long presses the word to split the focus, and clicks the word to activate the position of the corresponding word.\n
-        Android 7 or above double-click to activate, Android 6 below three times to activate.</item>
-        <item>
-        Text recognition (member function):\n
-        The content on the screen is recognized by the OCR, and the result is displayed in a list form, and the result list is clicked to activate the corresponding focus, the long press is followed by the word display result, and the single word is activated to activate the position of the corresponding word.\n
-        Clicking is not supported under Android 6 and only results can be viewed.</item>
-        <item>
-        Captcha identification (member function):\n
-        Touch the verification code focus, use advanced menu, verification code identification, or voice assistant, verification code identification, can recognize English or digital verification code, and the recognition result is automatically copied to the clipboard.</item>
-        <item>
-        Jieshuo camera (member function):\n
-        The camera can recognize text, scenes, animals, plants, or for camera guidance. The camera currently supports only the rear camera, using volume plus shooting, volume minus switching mode.</item>
-        <item>
-        Quickly navigate between list items:\n
-        In the operation settings, left and right shortcut gesture settings enable the left and right gestures to move quickly in the list, you can use the left or right gesture to quickly browse the message in the list of QQ messages, for example.</item>
-        <item>
-        Notification black/whitelist:\n
-        The notification blacklist can filter out notifications containing the specified content, and input an asterisk to filter all notifications of the application.\n
-        The notification whitelist can allow reading of notifications containing the specified content, even if the notification has been closed, entering an asterisk indicates that all notifications for the program are allowed.\n
-        Keywords support regular expressions.</item>
-        <item>
-        Content blacklist:\n
-        You can filter the focus content of the specified content, usually used to filter some non-standard accessibility instructions.\n
-        Regular expressions are not supported based on efficiency considerations.</item>
-        <item>
-        Web content filtering (member function):\n
-        Filters the useless image annotations on the page to filter out the lengthy and useless instructions on the page.\n
-        Stronger filtering can further filter out unnecessary non-essential content.</item>
-        <item>
-        Powerful mode (member function):\n
-        Powerful mode gives you more operational focus,\n
-        It is known to bring better experiences in software such as WeChat Sports, WeChat Friends Circle, Taobao Footprint, Huawei Router and so on.</item>
-        <item>
-        Virtual navigation (member function):\n
-        Virtual navigation can add the location of content that cannot be directly clicked to the navigation list.\n
-        Please add only the focus of the immutable position, click on the recognized focus input name in the recognition click to add,\n
-        Only supports Android 7 or above.</item>
-        <item>
-        Custom gestures:\n
-        You can customize any built-in or extended features as gestures.\n
-        Quickly change gestures by importing a gesture pack.\n
-        After the gesture is imported, it needs to be set in the operation, and the gesture scheme switching can take effect.\n
-        If you are not familiar with the operation suggestions in the common settings, customize the gesture to modify the gesture.</item>
-        <item>
-        Two-step gestures (member function):\n
-        A two-step gesture is an operation that quickly operates a second gesture after a traditional gesture operation is completed.\n
-        It can be turned on or customized in the action settings, two-step gestures,\n
-        After the two-step gesture is turned on, there is a half-second delay after the first gesture operation is completed, waiting for the second step.\n
-        Don\'t set gestures that require efficiency, such as moving focus gestures, using two-step gestures.</item>
-        <item>
-        Record voice commands:\n
-        Start the voice assistant to say the recording command, say the program to be opened in turn or click the key of the focus to realize the rapid voice command production. When all the instructions are finished, say to end the recording, after the prompt to enter the name of the command, say the name of the command, and finally say determine.\n
-        If there is an unrecognized instruction during the recording process, you can re-speak it.
-        Recorded commands can be changed in Advanced Settings, Voice Assistant Settings, Voice Command Settings.</item>
-
-    </string-array>
-
-    <string-array name="code_help_items">
-        <item>
-        解说多功能手势和插件以lua语法配合解说专有API实现一个手势多个功能。\n
-        如果对lua和androlua比较熟悉，还可以实现更多功能，本文档只讲述专有API部分。
-        </item>
-        <item>
-        基本概念，\n
-        service，辅助功能服务，是这个读屏服务的核心，各个功能都是以这个服务为核心。
-        </item>
-        <item>
-        参数类型说明，\n
-        node，当前焦点，也就是当前获得辅助功能焦点的节点，一般操作都是针对这个焦点的。\n
-        bool，布尔值，true或者false。\n
-        text，文字内容。
-        </item>
-        <item>
-        return，返回，通知读屏你是否希望读屏执行该手势的默认操作。\n
-        返回true则拦截该手势，false返回上一层执行，如在单程序手势返回false，则由全局手势接管处理，全局手势返回false，由默认手势处理。
-        </item>
-        <item>
-        常用命令，\n
-        service.execute("命令",node)\n
-        这个命令就是解说为了简化开发内置的一些指令，如果执行成功返回true，失败返回false。
-        </item>
-        <item>
-        service.postExecute(时间,"命令",node)\n
-        延时执行命令，
-        </item>
-        <item>
-        text=service.getText(node)\n
-        获取指定节点的文字信息。
-        </item>
-        <item>
-        service.setText(node,text)\n
-        设置指定焦点输入框文字内容。
-        </item>
-        <item>
-        service.setText(text)\n
-        设置当前界面焦点输入框文字内容。
-        </item>
-        <item>
-        service.copy()\n
-        复制当前焦点的文字内容到剪切板。
-        </item>
-        <item>
-        service.appendCopy()\n
-        追加复制当前焦点的文字内容到剪切板。
-        </item>
-        <item>
-        service.copy(text)\n
-        复制指定的文字内容到剪切板。
-        </item>
-        <item>
-        service.appendCopy(text)\n
-        追加复制指定的文字内容到剪切板。
-        </item>
-        <item>
-        service.paste()\n
-        将剪切板内容粘贴到当前界面的输入框。
-        </item>
-        <item>
-        service.paste(node)\n
-        将剪切板内容粘贴到指定的输入框。
-        </item>
-        <item>
-        service.toNext()\n
-        下一个焦点。
-        </item>
-        <item>
-        service.toNext(node,bool)\n
-        指定节点下一个焦点，bool为true查找子节点，为false不查找子节点。
-        </item>
-        <item>
-        service.toPrevious()\n
-        上一个焦点。
-        </item>
-        <item>
-        service.toPrevious(node,bool)\n
-        指定节点上一个焦点，bool为true查找子节点，为false不查找子节点。
-        </item>
-        <item>
-        service.toNextChar()\n
-        下一个字符。
-        </item>
-        <item>
-        service.toPreviousChar()\n
-        上一个字符。
-        </item>
-        <item>
-        service.toNextLine()\n
-        下一行。
-        </item>
-        <item>
-        service.toPreviousLine()\n
-        上一行。
-        </item>
-        <item>
-        service.toTextStart()\n
-        到文字开头。
-        </item>
-        <item>
-        service.toTextEnd()\n
-        到文字结尾。
-        </item>
-        <item>
-        service.toListViewStart()\n
-        到列表开头。
-        </item>
-        <item>
-        service.toListViewEnd()\n
-        到列表结尾。
-        </item>
-        <item>
-        service.getRootNodeInfo()\n
-        获取根节点。
-        </item>
-        <item>
-        service.ocr(node)\n
-        文字识别指定节点，仅会员可用。
-        </item>
-        <item>
-        service.setTimerMode(bool)\n
-        开启或关闭计时器模式，bool为true开启，false为关闭。
-        </item>
-        <item>
-        service.setAutoReadEnabled(bool)\n
-        开启或关闭阅读模式，bool为true开启，false为关闭。
-        </item>
-        <item>
-        service.setAutoNext(bool)\n
-        开启或关闭自动浏览模式，bool为true开启，false为关闭。
-        </item>
-        <item>
-        bool=service.isEditView(node)\n
-        判断当前节点是否为编辑框。
-        </item>
-        <item>
-        bool=service.isSeekBar(node)\n
-        判断当前节点是否为进度滑块。
-        </item>
-        <item>
-        bool=service.isListView(node)\n
-        判断当前节点是否为列表。
-        </item>
-        <item>
-        bool=service.isInListView(node)\n
-        判断当前节点是否在列表中。
-        </item>
-        <item>
-        bool=service.isInWebView(node)\n
-        判断当前节点是否在网页中。
-        </item>
-        <item>
-        bool=service.isClick(node)\n
-        判断当前节点是否可以点击。
-        </item>
-        <item>
-        service.toClick()\n
-        点击当前焦点，在安卓7以上优先使用模拟手点击焦点。
-        </item>
-        <item>
-        service.toClick(node)\n
-        点击指定节点。
-        </item>
-        <item>
-        service.toLongClick()\n
-        长当前焦点。
-        </item>
-        <item>
-        service.toLongClick(node)\n
-        长按指定节点。
-        </item>
-        <item>
-        service.toBack()\n
-        返回。
-        </item>
-        <item>
-        service.toHome()\n
-        返回主屏幕。
-        </item>
-        <item>
-        service.toNotification()\n
-        打开通知栏。
-        </item>
-        <item>
-        service.toParent()\n
-        打开最近任务列表。
-        </item>
-        <item>
-        service.scrollBackward(node)\n
-        向后滚动。
-        </item>
-        <item>
-        service.scrollForward(node)\n
-        向前滚动。
-        </item>
-        <item>
-        service.loadGesturePackage(name)\n
-        载入手势方案。
-        </item>
-        <item>
-        service.click(x,y)\n
-        模拟人手点击屏幕指定位置，仅安卓7以上可用。
-        </item>
-        <item>
-        service.longClick(x,y)\n
-        模拟人手长按屏幕指定位置，仅安卓7以上可用。
-        </item>
-        <item>
-        service.press(x,y,t)\n
-        模拟人手在屏幕指定位置按住指定时间，仅安卓7以上可用。
-        </item>
-        <item>
-        service.swipe(x1,y1,x2,y2,t)\n
-        模式人手从一个位置用指定时间滑动到另一个位置，仅安卓7以上可用。
-        </item>
-        <item>
-        代码控制语句。
-        </item>
-        <item>
-        if 条件 then
-        要执行的代码\n
-        end\n
-        满足指定条件执行中间的代码。\n
-        如，\n
-        if service.isEditView(node) then
-          service.execute("拆分编辑",node)\n
-        return true\n
-        end\n
-        这句代码意思是，当焦点为编辑框时打开拆分编辑。
-        </item>
-        <item>
-        for n=1,重复次数 do\n
-        要执行代码\n
-        end\n
-        重复指定代码一定次数\n
-        如，\n
-        for n=1,10 do\n
-        service.toBack()\n
-        end\n
-        重复返回10次。
-        </item>
-        <item>
-        定义函数，\n
-        function 函数名称(参数)\n
-        函数代码\n
-        end
-        </item>
-        <item>
-        函数是代码的功能块，可以有效的重复利用代码。\n
-        如，下边是一个向列表添加数据的函数，在手势代码中，可以用于向一个列表添加重复的代码。\n
-        function append(t1,t2)\n
-        for k,v in ipairs(t2) do\n
-        table.insert(t1,v)\n
-        end \n
-        end \n
-        点击列表={}\n
-        按钮列表={"%点击","%返回"}\n
-        for n=1,10 do\n
-        append(点击列表,按钮列表)\n
-        end\n
-        向点击列表重复添加10次按钮列表的内容。
-        </item>
-        <item>
-        function 滑动()\n
-        service.swipe(500,300,500,1000,1000)\n
-        return true\n
-        end\n
-        模拟手在屏幕上滑动，可以在手势代码中使用，\n
-        service.click({{">微信","%滑动"}})\n
-        打开微信模拟在屏幕从上向下滑动。
-        </item>
-        <item>
-        自动点击，\n
-        service.click({按钮列表})\n
-        自动依次查找点击按钮列表的按钮，\n
-        按钮名称支持一些符号进行通配，\n
-        如前面加#(井号)，表示搜索的是自定义标签，\n
-        前边或后边加*(星号)表示前边或后边还有其他字符，\n
-        后边加#(井号)表示按钮次序，\n
-        后边加@(圈a)表示只在某一个程序查找，\n
-        加$(美元)表示执行完成后延时。\n
-        参数支持多个表，按顺序查找，\n
-        如果查找成功返回true，失败返回false。\n
-        完整说明见后边，
-        </item>
-        <item>
-        延时点击，\n
-        service.postClick(时间,{按钮列表})\n
-        延时一定时间执行点击，时间单位为毫秒，按钮列表定义与click相同，\n
-        没有返回值。
-        </item>
-        <item>
-        service.plugin("插件名称",node)\n
-        执行一个插件，\n
-        返回插件自定义返回的值。
-        </item>
-        <item>
-        解说手势以自动点击最为灵活，基础形式是
-        </item>
-        <item>
-        按钮列表={}\n
-        service.click(按钮列表)\n
-        return true
-        </item>
-        <item>
-        下边两行是固定的，自己只需要修改按钮列表即可，\n
-        按钮列表格式是用英文花括号或者叫大括号括起来的一些按钮名称和符号组成，
-        </item>
-        <item>
-        最简单的例子，
-        </item>
-        <item>
-        按钮列表={"确定"}\n
-        service.click(按钮列表)\n
-        return true
-        </item>
-        <item>
-        这个代码就能点击屏幕上的确定按钮，
-        </item>
-        <item>
-        按钮列表={\n
-        "确定",\n
-        "完成"\n
-        }
-        service.click(按钮列表)\n
-        return true
-        </item>
-        <item>
-        这是第一级花括号，这个是如果有确定点击确定，没有确定就点击完成，如果没有确定，就继续找完成，依次类推
-        </item>
-        <item>
-        有时候我们需要连续点击一系列按钮实现一些功能，这也是自动点击的优势，
-        </item>
-        <item>
-        按钮列表={\n
-        {"群资料卡","文件"}\n
-        }
-        service.click(按钮列表)\n
-        return true
-        </item>
-        <item>
-        这是二级花括号，在二级花括号中的按钮会被依次点击，直到某一个按钮不存在停止，
-        </item>
-        <item>
-        在花括号中嵌套括号可以实现连续点击，
-        </item>
-        <item>
-        在按钮列表中我们用一些符号来增强功能，
-        </item>
-        <item>
-        最常用的是 * 星号，英文星号，这个符号在按钮文字的前后，表示可以有其它内容
-        </item>
-        <item>
-        比如，在QQ主界面要点击，解说读屏交流群，而这个列表内容有时候后面会有99条未读之类内容，这时候就要写成，
-        </item>
-        <item>
-        解说读屏交流群*
-        </item>
-        <item>
-        # 井号，表示第几个结果，有时候一个界面有很多个名字一样的按钮，这时候需要用井号来说明点击第几个，
-        </item>
-        <item>
-        如，确定#1，表示第一个，也可以是负数，如确定#-1，表示最后一个。
-        </item>
-        <item>
-        这个井号在文字开头表示要查找的是按钮的标签，而不是按钮的名字，比如有的按钮没有名字，可以自己添加标签，并使用标签查找，
-        </item>
-        <item>
-        符号中英文竖线|，表示或，也就是如果有竖线前边的点击前边的，没有就点击后边的，\n
-        就拿刚才确定和完成的例子，可以简写为，\n
-        确定|完成\n
-        点击 确定 或者 完成，
-        </item>
-        <item>
-        &amp; 表示和，也就是只有有&amp;符号后边内容的界面，才点击前边内容的按钮，
-        </item>
-        <item>
-        确定&amp;*退出*\n
-        表示，只有这个界面有退出字样，比如确定退出吗，才点击确定，而没有退出两个字就不执行，
-        </item>
-        <item>
-        &amp;后边加叹号加关键字表示不包含后边内容时执行，\n
-        确定&amp;!*退出*\n
-        表示，只有这个界面没有退出字样时，才点击确定，而有退出两个字就不执行,和上一个情况相反，
-        </item>
-        <item>
-        &amp;符号在前表示检查当前焦点类型，\n
-        &amp;可编辑\n
-        &amp;可点击\n
-        &amp;列表\n
-        &amp;列表项目\n
-        &amp;编辑框\n
-        这个编辑框是弹出输入法的编辑框，
-        </item>
-        <item>
-        $美元符号，这个符号在文字后边表示点击该按钮后等待多长时间，执行下一步操作，
-        </item>
-        <item>
-        "群资料卡$2000","文件"\n
-        表示点击群资料卡卡后2秒点击文件，
-        </item>
-        <item>
-        &lt; 小于号，在后边表示重复执行，重复点击按钮多少次，\n
-        如
-        下一曲&lt;10\n
-        就重复点击下一曲十次，
-        </item>
-        <item>
-        小于号在前边表示只定位，不点击。\n
-        &lt;确定\n
-        找到确定但是不点击。
-        </item>
-        <item>
-        > 大于号，大于号在后边表示，等待次数符，\n
-        "群资料卡","文件>10"\n
-        手机反应有快有慢，用这个符号可以等待一定时间，这个代码表示，点击群资料卡后等待十秒，十秒以内以内如果出现文件就立即点击，如果超时就停止执行，
-        </item>
-        <item>
-        在开头的大于号可以打开程序，\n
-        >微信\n
-        打开微信，\n
-        >QQ\n
-        打开QQ，
-        </item>
-        <item>
-        还有一些扩展符号，可以执行其它功能，\n
-        % 可以执行一些常用指令，\n
-        比如，\n
-        %复制\n
-        可以复制，\n
-        %全文朗读\n
-        可以全屏朗读，
-        </item>
-        <item>
-        %还可以执行脚本中指定的函数，函数返回true表示继续执行，false停止继续执行，
-        </item>
-        <item>
-        []方括号包括的内容表示模拟直接点击，和使用辅助功能点击不同，直接点击可以解决一部分焦点不能点击的问题，\n
-        [播放]\n
-        模拟直接点击播放按钮，\n
-        [%点击]\n
-        模拟直接点击当前焦点
-        </item>
-        <item>
-        [x,y]方括号包含两个数字表示模拟点击指定位置，可以用整数表示绝对位置，或者用小数表示相对位置，\n
-        [300,500]\n
-        模拟点击从左算300像素，从上算500像素的位置，\n
-        [0.3,0.5]\n
-        模拟点击从左算 0.3 个屏幕宽度，从上算 0.5 个屏幕高度的位置，
-        </item>
-        <item>
-        [x,y,t]方括号包含三个数字表示模拟点击指定位置指定时间，前两个意思和上一个相同，第三个是以毫秒为单位的时间，\n
-        [300,500,1000]\n
-        模拟点击从左算 300 像素，从上算 500 像素的位置，持续 1000 毫秒
-        </item>
-        <item>
-        [x1,y1,x2,y2,t]方括号包含五个数字表示用指定时间模拟从x1，y1滑动到x2,y2位置，可以用整数表示绝对位置，或者用小数表示相对位置，\n
-        [300,500,300,800,1000]\n
-        模拟从左算 300 像素，从上算 500 像素的位置，用 1000 毫秒时间滑动到 300,800 的位置，
-        </item>
-        <item>
-        模拟滑动还可以指定滑动次数\n
-        [300,500,300,800,1000,10]\n
-        模拟从左算 300 像素，从上算 500 像素的位置，用 1000 毫秒时间滑动到 300,800 的位置，10 次,
-        </item>
-        <item>
-        在手势执行中有时会有一些不同情况出现，比如打开QQ，点击解说读屏交流群，点击群资料卡，点击文件，\n
-        如果有群公告，会在点击群资料卡那一步卡住，不能执行，\n
-        这时需要分支代码来执行这些突发情况，\n
-        我只是手写例子，可能会有错字导致不能执行，理解意思就可以了，
-        </item>
-        <item>
-        按钮列表={\n
-        {
-            ">QQ",\n
-        "解说读屏交流群*",\n
-        {
-              "我已阅读群公告|我知道了"\n
-        },\n
-        "群资料卡",\n
-        "文件"\n
-        }
-        }
-        </item>
-        <item>
-        因为QQ版本不同，确定群公告按钮也不一样，\n
-        可以看到，在点击解说读屏交流群后，多了一对花括号括起来按钮，这个括号中的按钮，有则执行，没有则跳过，不影响后边按钮的执行，\n
-        如果分支中有复杂操作，或者多种场景，我们还可以套入多个括号，
-        </item>
-        <item>
-        按钮列表={\n
-        {
-            ">QQ",\n
-        "解说读屏交流群*",\n
-        {
-             { "我已阅读群公告","确定"},\n
-        { "我知道了","确定"},\n
-        },\n
-        "群资料卡",\n
-        "文件"\n
-        }
-        }
-        </item>502
-    </string-array>
-
-    <string-array name="gesture_help_items">
-        <item>
-        Gesture operation essentials:\n
-        Single gestures should be straight, and movements should be fast\n
-        The first part of the combined gesture should be longer than half the length of the screen, and the second part can be oriented as long as it is right.</item>
-        <item>
-        Combination gesture:\n
-        First up, down, last focus\n
-        First down, first, first focus\n
-        First left and right task switching\n
-        Right, then left, back\n
-        First up and then right operation menu\n
-        First right and then right function menu\n
-        First, then left, extension\n
-        First, then left, voice assistant\n
-        First left, then left, word by word\n
-        Right first, then upper, automatically read aloud\n
-        First left and then open the notification bar\n
-        First right, then bottom, browse the list\n
-        Up twice click to browse\n
-        Twice swipe down
-        </item>
-        <item>
-        Click on the browse mode gesture:\n
-        Click to switch focus\n
-        Browse up mode\n
-        Browse down mode
-        </item>
-        <item>
-        Focus browsing mode gestures:\n
-        Up one focus\n
-        Down next focus
-        </item>
-        <item>
-        QQ WeChat call\n
-        Reject with left swipe\n
-        Answer with right swipe
-        </item>
-        <item>
-        Phone QQ WeChat call\n
-        Hang up left\n
-        Answer right
-        </item>
-        <item>
-        List\n
-        Page up to the left\n
-        Flip right to the bottom
-        </item>
-        <item>
-        Dialog\n
-        Cancel left\n
-        OK right
-        </item>
-        <item>
-        Progress slider\n
-		Swipe left to decrease slider\n
-        Swipe right to increase slider
-        </item>
-        <item>
-        Edit box\n
-        Move the cursor forward\n
-        Move the cursor backward
-        </item>
-        <item>
-        Word-by-word browse mode gestures:\n
-        Click to explain the current character\n
-        Up one line up\n
-        Down one line\n
-        Left previous character\n
-        Right next character\n
-        First left, last, last paragraph\n
-        First right, then next, next paragraph\n
-        First, then right, select text\n
-        Left first, then left, exit literally
-        </item>
-        <item>
-        Text selection gestures: \n
-        Single tap: read the current character.\n
-        Up swipe: Go to the previous line.\n
-        Down swipe: Go to the next line.\n
-        Left swipe: Go to the previous character.\n
-        Right swipe: Go to the next character.\n
-        Left up swipe: Go to the previous paragraph.\n
-        Right up swipe: Go to the next paragraph.\n
-        Up right swipe: Deselect all.\n
-        Down right swipe: Copy selection.\n
-        Up left swipe: Append copy.\n
-        Right down swipe: copy the whole text.
-        </item>
-        <item>
-        Node browsing mode gestures
-        Up swipe: go to the previous node.\n
-        Down swipe: Go to the next node.\n
-        Left swipe: go to the parent node.\n
-        Right swipe: Go to the child node.\n
-        Down left swipe: exit the node.
-        </item>
-        <item>
-        Voice assistant manual: \n
-        Open AppName: Opens the given app
-        Send Content: allows direct sending to QQ and Wechat
-        Search for content: performs the online search for the given phrase
-        Voice assistant is extensible thanks to the editing menus and plugins.
-        </item>
-    </string-array>
-    <string-array name="voice_helper_help_items">
-        <item>Open the given program: Open application name</item>
-        <item>Install the given program: install Application Name</item>
-        <item>Uninstall the given program: uninstall Application Name</item>
-        <item>Read Everything: Read the whole screen</item>
-        <item>Read aloud: read aloud and follow the cursor</item>
-        <item>Current Brightness: read the environment\'s brightness.</item>
-        <item>Click: activate the focused element.</item>
-        <item>Activate specified item: activate item with the specified name</item>
-        <item>Copy currently focused item: Copy the currently focused item to the clipboard</item>
-        <item>Translate: Translate the currently focused text.</item>
-        <item>Translate LanguageName: Translate the currently focused text to a given language</item>
-        <item>Select: Selects the given text</item>
-        <item>Send a message in the qq WeChat chat window: Hello send</item>
-        <item>ENter Text: Enters the spoken text in the text box</item>
-        <item>Long Input: Long dictation mode</item>
-        <item>Check weather: checks the weather</item>
-        <item>Check the ticket: checks the train tickets.</item>
-        <item>Tell the recipe: check the recipe for a given food.</item>
-        <item>Tell a joke: tells a random joke</item>
-        <item>Copy the response: copies the response of a given command.</item>
-        <item>There are more features waiting for being discovered.</item>
-
-    </string-array>
-
-</resources>
+	<resources>
+		<string-array name="help_items">
+			<item>Стандартні налаштування основних навігаційних операцій:\n Проведення вгору - перехід до попереднього елемента. Проведення вниз - перехід до наступного елемента.\n Ви можете змінити цю поведінку в налаштуваннях дій.</item>
+			<item>Головне меню: \n Проведіть вниз і вправо, щоб відкрити меню, проведіть вправо, щоб переглянути більше параметрів.\n Ви можете змінити вигляд та вміст меню в розширених налаштуваннях додатка.</item>
+			<item>Голосовий помічник:\n Голосовий помічник активовується проведенням вниз і вліво, а команду потрібно промовити після звукового сигналу. Натискання екрана активує миттєве розпізнавання\n Для налаштування голосового помічника увійдіть до меню програми, оберіть розширені налаштування, налаштування голосового помічника, налаштування можливостей голосового помічника.\n</item>
+			<item>Меню дій: \n Проведення вгору і вправо відкриває меню дій, проведення вправо розгортає меню, а подвійний дотик активовує елемент меню, на якому ви зупинилися.</item>
+			<item>Плагіни:\n Жест вгору і вліво використовується для відкриття списку плагінів, для відкриття списку голосових команд проведіть вправо, а для вибору відповідного пункту двічі його торкніться.\n Ви можете знайти більше плагінів у розділі завантаження додаткових ресурсів.\n Розширені налаштування, налаштування голосового помічника, налаштування голосових команд, нові, змінені чи завантажені</item>
+			<item>Копіювати, додати вміст до буфера обміну, буфер обміну й обране:\n Ці функції розміщені в меню дій.\n Копіювати — копіює виділений вміст до буфера обміну\n Додати до вмісту буфера обміну — додає поточний вміст до останнього елемента до буфера обміну,\n Меню буфера обміну містить увесь нещодавно скопійований вміст, натисніть, щоб увійти у поле редагування, натисніть і утримуйте, щоб додати вміст в обране \n Обране, натисніть, щоб увійти в поле редагування, натисніть і утримуйте для редагування,\n У Розширених налаштуваннях, Керуванні ресурсами можна видаляти або резервувати вміст буфера обміну і обране</item>
+			<item>Розширене копіювання тексту (преміум-функція):\n Розширене копіювання дозволяє копіювати довгі списки елементів.\n Після активації розширеного копіювання в Меню дій, вам потрібно трохи зачекати, в залежності від довжини списку. Коли копіювання буде завершено, Ви отримаєте повідомлення про це.\n Ви можете примусово перервати розширене копіювання, скориставшись будь-яким жестом.</item>
+			<item>Виділити все (преміум-функція):\n Функція виділити все зручна для копіювання великих фрагментів тексту, наприклад, на веб-сторінках. При її використанні вміст екрана може бути розділено на символи, слова та абзаци, Необхідний вміст вибирається прапорцями і копіюється відповідною кнопкою.\n Швидко виділити декілька послідовних фрагментів можна натиснувши з утриманням спочатку на першому, а потім на останньому фрагменті.</item>
+			<item>Розширене редагування (преміум-функція):\n Для полегшення навігації по тексту у полях редагування та поза ними за допомогою цієї функції ви можете розділити вміст на символи або слова.\n Натисніть на фрагменті для редагування, натисніть з утриманням, щоб прослухати його вміст по літерах або видалити. Натисніть Більше налаштувань - Режим множинного вибору, щоб видалити, копіювати або вирізати відразу декілька фрагментів.\n Якщо ви скористаєтесь цією функцією поза полем редагування, то зможете скопіювати  відредагований текст до буфера обміну.</item>
+			<item>Переглянути як список:\n Для відображення всього вмісту у вигляді списку, натисніть на відповідний пункт, це особливо підходить для веб-сторінок.</item>
+			<item>Режим читання (преміум-функція):\n Ви можете читати статті на відкритих у браузері веб-сторінках, пропускаючи небажаний вміст і автоматично прокручувати сторінки.</item>
+			<item>Віртуальний екран (преміум-функція):\n Система розпізнавання вмісту розпізнає вміст на екрані, показує результат згідно з позицією елемента, активовує відповідний елемент натисканням на нього, довге натискання на мітку встановлює фокус, а натискання на мітку активовує відповідний елемент.\n В Android 7 чи новіших двічі торкніться для активації, в Android 6 і старіших — тричі.</item>
+			<item>Розпізнавання тексту (преміум-функція):\n Розпізнавання вмісту на екрані системою розпізнавання тексту. Результат відображається у вигляді списку, натиснувши на текст, ви можете активувати відповідний йому елемент. Довге натискання дозволяє перейти в режим перегляду по словах,  натискання на слово активує відповідну йому позицію на екрані.\n Натискання не підтримуються в Android 6 і старіших версіях, там доступний лише перегляд.</item>
+			<item>Розпізнавання кодів з картинок (преміум-функція):\n Торкніться перевірочного коду, увійдіть до Меню дій, натисніть Розширені налаштування, Розпізнавання кодів з картинок, або скажіть голосовому помічнику «Розпізнати код з картинки», підтримується розпізнавання англійських слів або цифр , результат розпізнавання автоматично копіюється до буфера обміну.</item>
+			<item>Jieshuo камера (преміум-функція):\n Наразі камера розпізнає текст, події, тварини, рослини, або надає вказівки для камери. Підтримується лише задня камера, використовуйте клавішу збільшення гучності для зйомки або зменшення гучності для перемикання режиму.</item>
+			<item>Швидкий перехід по елементах списку:\n Відкрийте Налаштування програми - Налаштування дій - Додаткові налаштування жестів та позначте прапорець Вліво та вправо швидке гортання між елементами списків. Ви можете використовувати цю функцію, наприклад, для швидкого переміщення по списку роликів у додатку YouTube.</item>
+			<item>Чорний та білий списки сповіщень:\n Чорний список сповіщень дозволяє відфільтрувати сповіщення з вказаним вами вмістом, введіть зірочку, щоб відфільтрувати всі сповіщення програми.\n Білий список сповіщень дозволяє читання сповіщень із зазначеним вмістом, навіть якщо читання сповіщень вимкнено в налаштуваннях, введення зірочки означає дозвіл на читання усіх сповіщень від програми.\n Ключові слова підтримують регулярні вирази.</item>
+			<item>Чорний список вмісту:\n Ви можете фільтрувати вказаний вами вміст, зазвичай стосується для фільтрації елементів, які не відповідають стандартам доступності.\n Регулярні вирази не підтримуються з міркувань ефективності.</item>
+			<item>Фільтрація веб-вмісту (преміум-функція):\n Фільтрує непотрібні зображення на сторінці, щоб усунути зайву й непотрібну багатослівність.\n Сувора фільтрація може фільтрувати непотрібний або несуттєвий вміст.</item>
+			<item>Режим детальної навігації (преміум-функція):\n Цей режим дозволяє збільшити рівень деталізації при керуванні фокусом.\n Відомо, що у цьому режимі покращується доступність таких додатків як WeChat Sports, WeChat Friends Circle, Taobao Footprint, Huawei Router та інші.</item>
+			<item>Віртуальна навігація (преміум-функція):\n Дозволяє створити список елементів у додатку, які не вдається активувати безпосередньо (наприклад, кнопка, на яку неможливо встановити фокус).\n Зверніть увагу, додавати можна тільки елементи з постійною позицією. Визначити позицію елемента на екрані можна або за допомогою розпізнавання тексту, або вказавши його координати,\n Підтримується тільки Android 7 та новіші.</item>
+			<item>Персоналізація жестів:\n За бажанням ви можете змінити  початкове призначення будь-якого жесту, а також швидко змінювати налаштування, імпортувавши тему жестів.\n Після імпорту тему жестів необхідно активувати в налаштуваннях дій.\n Якщо вас не влаштовує призначення окремих жестів, то ви можете змінити його в загальних налаштуваннях додатка.</item>
+			<item>Комбіновані жести (преміум-функція):\n Ця функція дозволяє значно розширити можливості персоналізації жестів. Якщо її увімкнено, то після виконання одного з 16 стандартних жестів, програма екранного доступу буде впродовж 0.5 секунди очікувати на виконання ще одного жесту (проведення вгору, вниз, вліво або вправо). Таким чином на один стандартний жест можна призначити виконання до 5 різних дій. Увімкнути та змінити параметри функції можна через Налаштування програми - Налаштування дій - Комбіновані жести.\n Не рекомендується використовувати в якості комбінованих жести, що вимагають швидкої реакції, наприклад, жести переміщення фокусу.</item>
+			<item>Запис голосових команд:\n Запустіть голосовий помічник і дайте команду для початку запису, послідовно промовте дії, які повинна виконувати створювана команда. Після цього дайте команду завершити запис та задайте і\'я створеної команди, і наостанок підтвердіть створення.\n Якщо під час створення якісь інструкції будуть не розпізнані, ви можете їх повторити. Записані команди можна редагувати у Розширені налаштування - Налаштування голосового помічника - Налаштування голосових команд.</item>
+			<item>Автоматичне читання повідомлень:\n Користувачі безкоштовної версії можуть користуватися цією функцією тільки в додатках для обміну повідомленнями.\n Преміум-користувачі можуть також автоматично читати новини в додатках з трансляціями наживо. Зараз підтримуються Douyin, Volcano, Now тощо.\n Ви можете налаштувати цю функцію в Налаштування подання вмісту - Налаштування автоматичного читання.</item>
+		</string-array>
+		<string-array name="code_help_items">
+			<item>Використання синтаксису Lua та власного API Jieshuo Screenreader дозволяє виконувати декілька дій одним жестом та створювати багатофункціональні плагіни.\nЯкщо ви знайомі з lua та androlua, ви зможете створювати доволі складні функції. У цьому розділі описано лише власний API Jieshuo Screenreader.</item>
+			<item>Загальні відомості\n service:  служба спеціальних можливостей service є основою роботи програми екранного доступу, всі інші дії базуються на ній.</item>
+			<item>Опис параметрів\n node - елемент, на якому встановлено фокус, дія функції застосувується саме до цього елемента.\n bool - булеве значення, може бути true або false.\n text - текстовий вміст.</item><item>return: return,визначає, чи має програма екранного доступу виконати стандартну дію жесту.\n Return true для перехоплення жесту, false для повернення на попередній рівень. Якщо жест для окремого додатка повертає false, то буде виконано дію глобального жесту, якщо глобальний жест повертає false, то буде виконано стандартну дію жесту.</item>
+			<item>Поширені команди\n service.execute("command",node)\n Ця команда використовується для пояснення роботи деяких вбудованих команд з метою спрощення процесу розробки. Якщо команда виконана успішно, то вона повертає true, якщо виконання невдале, то повертається false.</item>
+			<item>service.postExecute(time,"command",node)\n Затримка виконання команди</item>
+			<item>text=service.getText(node)\n Отримати текстовий вміст вказаного елемента.</item>
+			<item>service.setText(node,text)\n Встановити текстовий вміст вказаного поля редагування.</item>
+			<item>service.setText(text)\n Встановити текстовий вміст поля редагування, на якому знаходиться фокус.</item>
+			<item>service.copy()\n Копіювати до буфера обміну текстовий вміст елемента, на якому знаходиться фокус.</item>
+			<item>service.appendCopy()\n Додати до вмісту буфера обміну текстовий вміст елемента, на якому знаходиться фокус.</item>
+			<item>service.copy(text)\n Копіювати вказаний текст до буфера обміну.</item>
+			<item>service.appendCopy(text)\n Додати вказаний текст до вмісту буфера обміну.</item>
+			<item>service.paste()\n Вставити вміст буфера обміну до поля редагування на поточному екрані.</item>
+			<item>service.paste(node)\n Вставити вміст буфера обміну у вказане поле редагування.</item>
+			<item>service.toNext()\n Перейти до наступного елемента.</item>
+			<item>service.toNext(node,bool)\n Перейти до вказаного елемента вузла, якщо bool є  true, то будуть шукатися дочірні вузли,якщо false - то ні.</item>
+			<item>service.toPrevious()\n Перейти до попереднього елемента.</item>
+			<item>service.toPrevious(node,bool)\n Перехід до вказаного елемента вузла, якщо bool є true, то будуть шукатися дочірні вузли, якщо false - то ні.</item>
+			<item>service.toNextChar()\n Перехід до наступного символа.</item>
+			<item>service.toPreviousChar()\n Перехід до попереднього символа.</item>
+			<item>service.toNextLine()\n Перехід до наступного рядка.</item>
+			<item>service.toPreviousLine()\n Перехід до попереднього рядка.</item>
+			<item>service.toTextStart()\n Перехід на початок тексту.</item>
+			<item>service.toTextEnd()\n Перехід у кінець тексту.</item>
+			<item>service.toListViewStart()\n Перехід на початок списку.</item>
+			<item>service.toListViewEnd()\n Перехід у кінець списку.</item>
+			<item>service.getRootNodeInfo()\n Отримати інформацію про вузол.</item>
+			<item>service.ocr(node)\n Розпізнавання тексту вказаного елемента (преміум-функція).</item>
+			<item>service.setTimerMode(bool)\n Вмикання або вимикання таймера, якщо bool є true, то увімкнути, якщо false - вимкнути.</item>
+			<item>service.setAutoReadEnabled(bool)\n Вмикання або вимикання режиму читання, якщо bool є true, то увімкнути, якщо false - вимкнути.</item>
+			<item>service.setAutoNext(bool)\n Вмикання або вимикання режиму автоматичного читання, якщо bool є true, то увімкнути, якщо false - вимкнути.</item>
+			<item>bool=service.isEditView(node)\n Визначити, чи є вказаний елемент полем редагування.</item>
+			<item>bool=service.isSeekBar(node)\n Визначити, чи є вказаний елемент повзунком.</item>
+			<item>bool=service.isListView(node)\n Визначити, чи є вказаний елемент списком.</item>
+			<item>bool=service.isInListView(node)\n Визначити, чи є вказаний вузол елементом списку.</item>
+			<item>bool=service.isInWebView(node)\n Визначити, чи є вказаний елемент веб-сторінкою.</item>
+			<item>bool=service.isClick(node)\n Визначити, чи можна натиснути на вказаний елемент.</item>
+			<item>service.toClick()\n Натиснути на поточний елемент, на Android 7 використовуйте імітацію прямого дотику.</item>
+			<item>service.toClick(node)\n Натиснути на вказаний елемент.</item>
+			<item>service.toLongClick()\n Натиснути з утриманням на поточний елемент.</item>
+			<item>service.toLongClick(node)\n Натиснути з утриманням на вказаний елемент.</item>
+			<item>service.toBack()\n Повернутися назад.</item>
+			<item>service.toHome()\n Перейти на головний екран.</item>
+			<item>service.toNotification()\n Відкрити панель сповіщень.</item>
+			<item>service.toParent()\n Відкрити екран нещодавніх додатків.</item>
+			<item>service.scrollBackward(node)\n Прокрутити вниз.</item>
+			<item>service.scrollForward(node)\n Прокрутити вгору.</item>
+			<item>service.loadGesturePackage(name)\n Активувати тему жестів.</item>
+			<item>service.click(x,y)\n Імітація прямого дотику у вказаному місці екрана, доступно лише в Android 7 та вище.</item>
+			<item>service.longClick(x,y)\n Імітація прямого дотику з утриманням у вказаному місці екрана, доступно тільки в Android 7 та вище.</item>
+			<item>service.press(x,y,t)\n Імітація прямого дотику у вказаному місці екрана впродовж вказаного часу, доступно тільки в Android 7 та вище.</item>
+			<item>service.swipe(x1,y1,x2,y2,t)\n Імітація змахування від одного місця екрана до іншого, що виконується за вказаний час. Доступно тільки в Android 7 та вище.</item>
+			<item>Керування порядком виконання операцій.</item>
+			<item>if умова then дії\n end\n Дії виконуються, якщо вказана умова істинна.  \n Наприклад,\n if service.isEditView(node) then service.execute("Split Edit",node)\n return true\n end\n Цей код означає: активувати режим розширеного редагування, якщо фокус знаходиться на полі редагування.</item>
+			<item>for n=1, кількість повторень do\n дії\n end\n Повторити дії визначену кількість разів.\n Наприклад,\n for n=1,10 do\n service.toBack()\n end\n Означає: виконати команду Повернутися назад 10 разів.</item>
+			<item>Задати функцію,\n function ім\'я функції (параметри)\n код функції\n end</item>
+			<item>Функція - це блок коду, який можна повторно використовувати.  \n Наприклад, нижче наведено функцію для додавання даних до списку.  \n function append(t1,t2)\n for k,v in ipairs(t2) do\n table.insert(t1,v)\n end \n end \n click list=()\n button list={  "%Click","%return"}\n for n=1,10 do\n append (click list, button list)\n end\n Цей код означає: додати вміст button list до click list 10 разів.</item>
+			<item>function slide()\n service.swipe(500,300,500,1000,1000)\n return true\n end\n Ця функція імітує змахування по екрану і може використовуватись в функціях автоматичного натискання.\nservice.click({{&gt;WeChat,%slide}})\n Відкрити WeChat і імітувати змахування зверху вниз по екрану.</item>
+			<item>Автоматичне натискання,\n service.click({список кнопок})\n автоматично знаходить і по черзі натискає кнопки, назви яких містяться у списку кнопок.\n У назвах кнопок можна використовувати деякі символи, зокрема\n # (решітка) перед назвою кнопки,означає, що це мітка користувача або ідентифікатор, \n * (зірочка) перед або після назви означає, що там наявні будь-які інші символи, \n # (решітка) після назви, означає порядковий номер кнопки, \n @(равликa)  після назви означає, що кнопку необхідно шукати лише у вказаному додатку, \n $ (долар) означає тривалість затримки після виконання операції.  \n Підтримуються множинні списки та пошук за порядковим номерм.\n Якщо дії успішно виконані, то повертається true, інакше false.  \n Дивіться докладний опис нижче.</item>
+			<item>Натискання з затримкою,\n service.postClick(час,{список кнопок})\n Натискання з вказаною затримкою, час вимірюється в мілісекундах, формат списку кнопок аналогічний функції автоматичного натискання,\n жодного значення не повертається.  </item>
+			<item>service.plugin("назва плагіна",node)\n Запуск вказаного плагіна,\n значення, що повертається, залежить від налаштувань плагіна.</item>
+			<item>Інтерпретація жестів найбільш гнучка з використанням автоматичного натискання, and базова форма має вигляд:</item>
+			<item>список кнопок=()\n service.click(список кнопок)\n return true</item>
+			<item>Можна безпосередньо використовувати два рядки, що наведено нижче, вам необхідно лише змінити список кнопок. \n Список кнопок має вигляд переліку назв кнопок з додатковими символами у фігурних дужках.</item>
+			<item>Найпростіший приклад:</item>
+			<item>Button={"OK"}\nservice.click(button)\nreturn true</item>
+			<item>Цей код дозволяє натиснути на екрані кнопку OK,</item>
+			<item>Button={\n"OK",\n"Готово"\n}\nservice.click(button)\nreturn true</item>
+			<item>Це фігурні дужки першого рівня, такий запис означає, що буде натиснута кнопка Ok, якщо такої кнопки не буде знайдено, то буде натиснута кнопка Готово.</item>
+			<item>Іноді для досягнення результату нам потрібно натиснути послідовно декілька кнопок, це також можна зробити за допомогою автоматичного натискання.</item>
+			<item>Button={\n{"group information card","file"}\n}\nservice.click(button)\nreturn true</item>
+			<item>Це фігурні дужки другого рівня. Кнопки, що містяться поміж ними, будуть послідовно натискатись. Виконання функції буде припинено, якщо у списку трапиться кнопка, якої немає на екрані.</item>
+			<item>Вкладені дужки дозволяють здійснювати послідовні натискання.</item>
+			<item>У списку кнопок можна використовувати деякі символи для модифікації роботи функції.</item>
+			<item>Найчастіше вживаними є: * (зірочка) - цей символ перед назвою кнопки або після неї показує, що там можуть міститись будь-які інші символи</item>
+			<item>Наприклад, вам необхідно натиснути на групу в QQ, іноді після назви групи може бути сповіщення про нові повідомлення, тоді вам необхідно написати:</item>
+			<item>Назва групи*</item>
+			<item># (решітка) - цей символ означає номер кнопки. Іноді на екрані може бути декілька кнопок з однаковою назвою, тоді вам необхідно використовувати решітку, для визначення, на яку саме кнопку вам потрібно натиснути</item>
+			<item>Наприклад,  confirm#1, що означає першу з наступних кнопок з такою назвою, або від\'ємне число: confirm#-1, що означає першу з попередніх кнопок з такою назвою.  </item><item>Символ решітки перед назвою кнопки показує, що це ідентифікатор або мітка кнопки, а не її назва. Наприклад, якщо кнопка не має Назви, то ви можете додати власну мітку і використовувати її у функціях</item>
+			<item>Символ вертикальної риски означає логічне АБО, тобто якщо не буде знайдено першої кнопки, то буде натиснута друга. Наприклад, якщо вам потрібно натиснути на кнопку Ok або на кнопку Готово, то треба написати: \n OK|Готово</item>
+			<item>&amp; означає, що кнопка буде натиснута тільки якщо на екрані присутній вміст, зазначений після знаку &amp;</item>
+			<item>OK&amp;*вийти*\n означає, що кнопка Ok буде натиснута лише у тому випадку коли на екрані буде також слово \"вийти\", наприклад у запитанні \"Ви дійсно хочете вийти?\". </item>
+			<item>Знак оклику та ключове слово після знаку &amp; означає, що кнопка буде натиснута лише, якщо це слово відсутнє на екрані. \n OK&amp;!*вийти*\n означає, що кнопка Ok буде натиснута лише в тому випадку, якщо на екрані немає слова \"вийти\".</item>
+			<item>Символ &amp; перед назвою використовується для перевірки типу поточного елемента: \n елемент, який можна редагувати\n елемент, який можна натиснути\n список\n елемент списка\n поле редагування\n Це поле редагування з вибором методу введення.</item>
+			<item>$ (долар) - цей знак після назви кнопки визначає тривалість затримки між натисканням цієї кнопки та наступною операцією.</item>
+			<item>Запис "Group information card$2000","File"\n означає: натиснути кнопку file через 2 секунди після натискання кнопки group information card.</item>
+			<item>&lt; (знак менше) після назви кнопки означає кількість натискань.\n Наприклад, запис Стоп&lt;10\n означає: натиснути кнопку Стоп 10 разів</item>
+			<item>Знак менше перед назвою кнопки використовується для встановлення на неї фокусу без подальшого натискання.\n &lt;Ok\n означає знайти кнопку Ok, але не натискати на неї.</item>
+			<item>Знак більше після назви кнопки дозволяє зачекати вказаний проміжок часу.\n
+         "Group Information Card","File&gt;10"\n
+         Такий запис означає: після натискання group information card впродовж 10 секунд очікувати на появу на екрані кнопки file і натиснути на неї, тільки но вона стане доступною. Якщо цього не станеться через 10 секунд, то виконання функції буде припинено.</item>
+			<item>Знак більше перед текстом використовується для відкриття додатків,\n</item>
+			<item>Знак відсотка дозволяє виконувати функції програми екранного доступу. \n Наприклад, \n %Копіювати\n виконує функцію копіювання, \n %Читати весь екран\n зачитує вміст поточного екрана.</item>
+			<item>% також дозволяє виконувати функції визначені в скрипті. Якщо функція повертає true, то виконання продовжується, якщо false - виконання припиняється.</item>
+			<item>[]Якщо назву елемента вміщено у квадратні дужки, то його буде активовано за допомогою імітації прямого дотика, а не дотика спеціальних можливостей. Прямий дотик може допомогти у випадках, коли елемент не вдається активувати звичайним способом.\n [Відтворити]\n імітує натискання прямим дотиком кнопки Відтворити,\n [%Прямий дотик]\  n активація прямим дотиком поточного елемента.</item>
+			<item>[x,y] Два числа у квадратних дужках дозволяють імітувати прямий дотик у заданому місці екрана. Ви можете скористатись цілими числами, щоб задати абсолютні координати. або числами від 0 до 1 з десятковою точкою, щоб задати відносну позицію.\n [300,500]\n імітує натискання у точці з координатами: 300 пікселів по горизонталі та 500 пікселів по вертикалі від лівого верхнього кута екрана.\n [0.3,0.5]\n імітує натискання у точці, що знаходиться на 0.3 ширини та 0.5 висоти екрана відносно лівого верхнього кута.</item>
+			<item>[x,y,t] Три числа у квадратних дужках означають натискання впродовж вказаного часу в заданому місці екрана. Перші два числа - це, як  в попередньому випадку, координати, а третє - час натискання у мілісекундах.\n [300,500,1000]\n  Такий запис дозволяє імітувати натискання тривалістю 1000 мс у точці з координатами: 300 пікселів по горизонталі та 500 пікселів по вертикалі від лівого верхнього кута екрана.</item>
+			<item>[x1,y1,x2,y2,t] П\'ять чисел у квадратних дужках дозволяють імітувати змахування по екрану від точки x1, y1 до точки x2, y2, виконане за вказаний час. Можна використовувати цілі числа для позначення абсолютних координат у пікселях або числа від 0 до 1 з десятковою точкою для позначення відносної позиції. Початком відліку є верхній лівий кут екрана. \n [  300,500,300,800,1000]\n Цей запис означає імітацію змахування від точки з координатами 300;500 в точку з координатами 300;800, виконане за 1000 мс.</item>
+			<item>Імітацію змахування можна виконувати декілька разів. Наприклад, запис:\n [300,500,300,800,1000,10]\n означає імітацію десяти змахувань від точки з координатами 300;500 в точку з координатами 300;800, виконаних за 1000 мс кожне.</item>
+			<item>При виконанні функцій можуть виникати різні ситуації, наприклад, необхідно відкрити QQ, натиснути commentary group, потім відкрити профіль групи group profile і наостанок натиснути кнопку file.\n Якщо у групі є оголошення, то виконання скрипту зупиниться після відкриття профілю, тому необхідно у коді передбачити обробку такої ситуації.\n Приклад нижче може містити неточності, його наведено лише для ілюстрації загальних принципів написання функцій.</item>
+			<item>button={\n  {&gt;QQ,\n  Commentary group*,\n  {I have read the group announcement|I got it\n  },\n  Group profile,\n  file\n  }}</item>
+			<item>Різні версії QQ мають різні кнопки для закриття оголошень в групі.\n Тому у коді після відкриття групи commentary group, ви можете побачити кнопки у фігурних дужках. Ці кнопки будуть натиснуті, якщо вони будуть на екрані, в іншому випадку ця операція буде пропущена без жодного впливу на подальше виконання функції.\n Якщо функція передбачає складні сценарії, то можна використовувати декілька рівнів вкладень фігурних дужок.</item>
+			<item>button={\n{&gt;QQ,\nCommentary group*,\n{{I have read the group announcement, confirm},\n{I got it, sure},\n},\nGroup profile,\nfile\n} }</item>
+		</string-array>
+		<string-array name="gesture_help_items">
+			<item>Основи роботи з жестами:\n Одинарні жести повинні бути прямими, а рухи — швидкими\n Довжина першої частини кутового жесту повинна перевищувати розмір половини екрана, а другу необхідно виконувати під прямим кутом до першої.</item>
+			<item>Комбінації жестів:\n Спершу вгору, потім вниз — перейти до першого елемента на екрані\n Спершу вниз, потім вгору — перейти до останнього елемента на екрані\n Спершу вліво, потім вправо — екран нещодавно запущених додатків\n Спершу вправо, потім вліво — повернутися назад\n Спершу вгору, потім вправо — меню дій\n спершу вниз, потім вправо — головне меню\n спершу вгору, потім вліво — плагіни\n спершу вниз, потім вліво — голосовий помічник\n спершу вліво, потім вниз —  режим читання по словах\n Спершу вправо, потім вгору — автоматичне читання елементів згори донизу\n спершу вліво, потім вгору — відкрити панель сповіщень\n Спершу вправо, потім вниз — переглянути вміст у вигляді списку</item>
+			<item>Жести режиму перегляду:\n натисніть, щоб встановити фокус\n проведіть вгору для перегляду вгору\n проведіть вниз для перегляду вниз</item>
+			<item>Жести переміщення фокусу:\n Вгору — попередній елемент\n Вниз — наступний елемент</item>
+			<item>Дзвінки QQ та WeChat\n Вправо — прийняти\n Вліво — відхилити</item>
+			<item>Дзвінки QQ та WeChat\n Вправо — прийняти\n Вліво — відхилити / завершити</item>
+			<item>Списки\n Вліво — прокрутити назад\n вправо — прокрутити вперед</item>
+			<item>Діалоги\n Скасувати — проведіть вліво\n Натиснути OK — проведіть вправо</item>
+			<item>Робота з повзунками\n Проведіть вліво для зменшення повзунка\n Проведіть вправо для збільшення повзунка</item>
+			<item>Навігація по тексту в полях редагування\n Проведіть вліво для переміщення до попереднього символа\n Проведіть вправо для переміщення до наступного символа</item>
+			<item>Режим читання по словах:\n Вгору — попередній рядок\n вниз — наступний рядок\n Вліво — попередній символ\n Вправо — наступний символ\n спершу вліво, потім вправо — попереднє слово\n спершу вправо, потім вліво — наступне слово\n Спершу вгору, потім вправо — вибрати текст\n Спершу вліво, потім вниз — вийти з режиму</item>
+			<item>Жести для виділення тексту: \n Дотик: прочитати поточний символ.\n Проведіть вгору: перейти до попереднього рядка.\n Проведіть вниз: Перейти до наступного рядка.\n Проведіть вліво: перейти до попереднього символа.\n Проведіть вправо: перейти до наступного символа.\n Проведіть вліво, а потім вгору: перейти до попереднього абзаца.\n Проведіть вправо, а потім вниз: перейти до наступного абзаца.\n Проведіть вгору, а потім вправо: скасувати виділення.\n Проведіть вниз, а потім вправо: скопіювати виділене.\n Проведіть вгору, а потім вліво: додати вміст до буфера обміну.\n Проведіть вправо, а потім вниз: скопіювати увесь текст.</item>
+			<item>Жести режиму перегляду вузлів: Проведіть вгору: перейти до попереднього вузла.\n Проведіть вниз: перейти до наступного вузла.\n Проведіть вліво: перейти до батьківського вузла.\n Проведіть вправо: перейти до дочірнього вузла.\n Проведіть вниз, а потім вліво: вийти з вузла.</item>
+			<item>Використання голосового помічника: \n Відкрити Назва додатка: відкриття вказаного додатка. Надіслати Вміст: безпосереднє надсилання вмісту через  QQ та Wechat. Знайти Текст запиту: пошук у мережі. Функціональність голосового помічника можна розширити за допомогою функцій та плагінів.</item>
+		</string-array>
+		<string-array name="voice_helper_help_items">
+			<item>Відкрити Назва додатка: Відкрити додаток</item>
+			<item>Встановити Назва додатка: Встановити додаток.</item>
+			<item>Видалити Назва додатка: Видалити додаток</item>
+			<item>Прочитати весь екран: Прочитати вміст екрана</item>
+			<item>Прочитати вголос: Читати вміст екрана з відстеженням фокусу</item>
+			<item>Поточна освітленість: Визначити навколишню освітленість</item>
+			<item>Натиснути: Активувати поточний елемент.</item>
+			<item>Натиснути Назва елемента: Активувати заданий елемент</item>
+			<item>Копіювати: Копіювати текстовий вміст поточного елемента у буфер обміну</item>
+			<item>Перекласти: Перекласти текстовий вміст поточного елемента</item>
+			<item>Перекласти Мова: Перекласти текстовий вміст поточного елемента на вказану мову</item>
+			<item>Вибрати: Вибрати текст</item>
+			<item>Надіслати Текст повідомлення: Надіслати повідомлення у вікні qq або WeChat</item>
+			<item>Ввести Текст: Ввести текст у поле редагування</item>
+			<item>Диктувати: Режим голосового введення для довгих текстів</item>
+			<item>Погода: Дізнатися поточну погоду</item>
+			<item>Квитки: Перевірити наявність залізничних квитків.</item>
+			<item>Рецепт: Дізнатися рецепт вказаної страви.</item>
+			<item>Пожартуй: Прослухати випадковий жарт</item>
+			<item>Копіювати результат: Копіювати результат виконання команди.</item>
+			<item>Та ще багато інших функцій.</item>
+		</string-array>
+	</resources>

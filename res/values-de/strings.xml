@@ -186,7 +186,7 @@
     <string name="message_recognition_error">Erkennung fehlgeschlagen. Bitte versuchen Sie es erneut.</string>
     <string name="directory_sounds">Sounds</string>
     <string name="directory_resources">Resources</string>
-    <string name="file_name_letter">dict.json</string>
+    <string name="file_name_letter">letters.json</string>
     <string name="file_name_symbol">symbols.json</string>
     <string name="directory_labels">Labels</string>
     <string name="directory_backup">Backups</string>
@@ -299,7 +299,7 @@
     <string name="right_long_edge_gesture_title">Rechte Seite Wischgeste</string>
     <string name="left_long_edge_gesture_title">Linke Seite Wischgeste</string>
     <string name="left_long_edge_gesture_summary">Wischen Sie vom linken Rand des Bildschirms nach rechts</string>
-	    <string name="right_long_edge_gesture_summary">Wischen Sie vom rechten Rand des Bildschirms nach links.</string>
+    <string name="right_long_edge_gesture_summary">Wischen Sie vom rechten Rand des Bildschirms nach links.</string>
     <string name="use_up_long_quick_menu_summary">Beim langen Drücken auf ein Element Menü für Schnellzugriff anzeigen</string>
     <string name="up_volume_short_key_value_default">lauter</string>
     <string name="up_volume_short_key_title">Kurzes Drücken der lauter-Taste: </string>
@@ -344,7 +344,7 @@
     <string name="use_custom_gesture_title">Benutzerdefinierte Gesten verwenden</string>
     <string name="custom_gesture_settings_title">Benutzerdefinierte Gesten</string>
     <string name="use_foreground_pro_title">Andere Methode zum aktiv lassen des Bildschirms</string>
-    <string name="use_foreground_pro_summary"></string>
+    <string name="use_foreground_pro_summary">如果手机关屏休眠严重，可以尝试该选项，他在关屏时将解说设置为前台窗口</string>
     <string name="use_power_save_title">Energiesparmodus: </string>
     <string name="use_power_save_summary">Verringert den Akkuverbrauch</string>
     <string name="power_settings_title">Energie Einstellungen</string>
@@ -414,7 +414,7 @@
     <string name="notification_black_list_summary">Benachrichtigungen von blockierten Apps werden nicht gesprochen.</string>
     <string name="notification_while_list_summary">Benachrichtigungen von erlaubten Apps werden immer gesprochen.</string>
     <string name="system_tts_volume_title">Lautstärke der System Sprachausgabe</string>
-			<string name="notification_select_title">Benachrichtigungseinstellungen</string>
+    <string name="notification_select_title">Benachrichtigungseinstellungen</string>
 
     <string name="message_disable_dim_screen">Bitte deaktivieren Sie zuerst den Bildschirmvorhang</string>
     <string name="start_long_copy">Erweiterter Kopiervorgang gestartet</string>
@@ -432,7 +432,7 @@
     <string name="auto_next">Automatisch vorlesen</string>
     <string name="message_copy">Text kopiert</string>
     <string name="message_append">Text angehängt</string>
-     <string name="text_format_settings_title">Wörterbuch Einstellungen</string>
+    <string name="text_format_settings_title">Wörterbuch Einstellungen</string>
     <string name="use_text_format_first_title">Im Erleuterungsmodus zuerst Text lesen: </string>
     <string name="use_text_format_char_number_title">Lese zusammenhängende Buchstaben als einzelnen Buchstaben: </string>
 
@@ -481,8 +481,8 @@
     <string name="command_virtual_screen">Virtueller Bildschirm</string>
     <string name="command_play_control">Wiedergabe</string>
     <string name="command_read_mode">Lesemodus</string>
-    <string name="command_verbatim_speak">wortweise Modus</string>
-    <string name="command_verbatim_speak2">wortweise Modus</string>
+    <string name="command_verbatim_speak">Zeichenweise navigieren</string>
+    <string name="command_verbatim_speak2">Buchstabiere aktuelles Element</string>
     <string name="command_to_previous_focus">Vorheriges Element</string>
     <string name="command_to_next_focus">Nächstes Element</string>
     <string name="command_to_previous_page">Vorherige Seite</string>
@@ -620,7 +620,8 @@
 
     <string name="double_fling_left_gesture_title">Einstellungen für nach links wischen</string>
     <string name="double_fling_up_gesture_title">Einstellungen für nach oben wischen</string>
-    <string name="double_fling_right_gesture_title">Einstellungen für nach rechts wischen</string>long
+    <string name="double_fling_right_gesture_title">Einstellungen für nach rechts wischen</string>
+    long
     <string name="double_fling_down_gesture_title">Einstellungen für nach unten wischen</string>
 
     <string name="down_right_double_fling_setting">Einstellungen für nach unten, dann nach rechts wischen</string>
@@ -757,7 +758,7 @@
     <string name="edit_box_no_found">Eingabefeld nicht gefunden</string>
     <string name="msg_speak_content">Inhalt sprechen</string>
     <string name="msg_bye">Tschüs</string>
-<string name="date_format">HH:mm</string>
+    <string name="date_format">HH:mm</string>
     <string name="date_format0">HH:00</string>
     <string name="more">Mehr</string>
     <string name="add_label">Beschriftung hinzufügen</string>
@@ -865,7 +866,7 @@
     <string name="need_vip">Falls Sie eine Lizenz kaufen möchten, wenden Sie sich bitte an den Support.</string>
     <string name="check_read_phone_state_permission">Berechtigung für sprechen der Anrufinfo prüfen</string>
     <string name="message_timer_mode_disabled">Timer gestoppt,%s ,现在是 %s</string>
-        <string name="camera_right_up">Nach rechts und höher</string>
+    <string name="camera_right_up">Nach rechts und höher</string>
     <string name="camera_left_up">Nach links und höher</string>
     <string name="camera_hold_posture">Hold your posture</string>
     <string name="camera_hold_posture_have_face">Hold posture, have %d faces</string>
@@ -970,9 +971,9 @@
     <string name="add_from_virtual_screen">Vom virtuellen Bildschirm hinzufügen.</string>
     <string name="add_from_virtual_list">Von Texterkennung erkannte Zeichen hinzufügen</string>
     <string name="use_ocr_qq_title">Tencent cloud Texterkennung.</string>
-    <string name="ocr_lang_enteries">Englisch gemischt|Automatische Erkennung von |Japanisch|Koreanisch|Spanisch|Französisch|Deutsch|Portugiesisch|Vietnamesisch|malayisch|Russisch|Italienisch|niederländisch|Schwedisch|Finnisch|Dänisch|Norwegisch|ungarisch|Thailändisch|Lateinisch</string>
+    <string name="ocr_lang_enteries">Englisch gemischt|Automatische Erkennung von |Japanisch|Koreanisch|Spanisch|Französisch|Deutsch|Portugiesisch|Vietnamesisch|malayisch|Russisch|Italienisch|niederländisch|Schwedisch|Finnisch|Dänisch|Norwegisch|ungarisch|Thailändisch|Lateinisch|阿拉伯语</string>
     <string name="cmd_description">Beschreibung (mind. 15 Zeichen)</string>
-    <string name="timer_run_title">Geplante Timer</string>
+    <string name="timer_run_title">Geplante Aktionen</string>
     <string name="msg_has_vip_timer_run">In der Demoversion können nur Timer hinzugefügt werden.</string>
     <string name="use_web_view_name_title">HTML-Elementtypen auf Webseiten ansagen</string>
     <string name="use_web_view_name_summary">Lesen aller Elementtypen auf Webseiten. Links werden unabhängig von dieser Einstellung weiterhin angesagt.</string>
@@ -1033,14 +1034,15 @@
     <string name="setup_setting_has_overlay_permission">Berechtigung zum Anzeigen über anderen Apps wurde erteilt.</string>
     <string name="copy_username_and_userid">Benutzername und ID kopieren.</string>
     <string name="username_and_userid_format">Benutzername: %s user ID: %s</string>
-<string name="file_name_dict">词典.json</string>
 
+    <string name="file_name_dict">dict.json</string>
     <string name="refresh">Aktualisieren</string>
     <string name="msg_filter">%d Ergebnisse gefunden</string>
     <string name="use_custom_symbol_speak_title">Benutzerwörterbuch verwenden</string>
     <string name="custom_symbol_title">Benutzerwörterbuch</string>
     <string name="use_custom_dict_speak_title">Benutzerwörterbuch verwenden</string>
     <string name="custom_dict_title">Benutzerwörterbuch Einstellungen</string>
+
     <string name="msg_has_vip_dict">Für Nutzer der kostenlosen Version ist das Wörterbuch auf 5 Einträge beschränkt.</string>
     <string name="undo">Rückgängig</string>
     <string name="redo">Wiederholen</string>
@@ -1137,12 +1139,12 @@
     <string name="import_file">Importieren</string>
     <string name="overwrite_file">Überschreiben</string>
     <string name="gesture_2_single_tap">Mit 2 Fingern ein mal tippen</string>
-    <string name="gesture_3_single_tap">Mit 2 Fingern ein mal tippen</string>
+    <string name="gesture_3_single_tap">Mit 3 Fingern ein mal tippen</string>
     <string name="gesture_4_single_tap">Mit 4 Fingern ein mal tippen</string>
     <string name="gesture_2_double_tap">Mit 2 Fingern doppelt tippen</string>
     <string name="gesture_3_double_tap">Mit 3 Fingern doppelt tippen</string>
     <string name="gesture_4_double_tap">Mit 4 Fingern doppelt tippen</string>
-    <string name="gesture_2_triple_tap">Mit 2 Fingern 3 malt tippen</string>
+    <string name="gesture_2_triple_tap">Mit 2 Fingern 3 mal tippen</string>
     <string name="gesture_3_triple_tap">Mit 3 Fingern 3 mal tippen.</string>
     <string name="gesture_4_triple_tap">Mit 4 Fingern 3 mal tippen</string>
     <string name="gesture_2_double_tap_hold">Mitt 2 Fingern doppelt tippen und halten</string>
@@ -1160,34 +1162,56 @@
     <string name="gesture_2_swipe_right">Mit 2 Fingern nach rechts wischen</string>
     <string name="gesture_3_swipe_right">Mit 3 Fingern nach rechts wischen</string>
     <string name="gesture_4_swipe_right">Mit 4 Fingern nach rechts wischen</string>
-        <string name="msg_gesture_updated">Das Gestenschema wurde erfolgreich aktualisiert.</string>
+    <string name="msg_gesture_updated">Das Gestenschema wurde erfolgreich aktualisiert.</string>
     <string name="msg_favorite_added">Zu Favoriten hinzugefügt.</string>
     <string name="msg_shared">Teilen war erfolgreich.</string>
     <string name="msg_share_error">Beim Teilen ist ein Fehler aufgetreten.</string>
     <string name="select_progress">Fortschrittsanzeige lesen</string>
-    <string name="node_changed_list_manager">Fokus Überwachung anpassen</string>
-    <string name="add_node_changed_list">Fokus Überwachung</string>
+    <string name="node_changed_list_manager">Überwachte Elemente bearbeiten</string>
+    <string name="add_node_changed_list">Fokusiertes Objekt überwachen</string>
     <string name="switch_multi_finger_gestures">Enable multifinger gestyuresMehrfingergesten aktivieren</string>
     <string name="msg_node_changed_list_added">Objekt zur Überwachung hinzugefügt.</string>
     <string name="msg_node_changed_list_removed">Objekt aus Überwachung entfernt</string>
     <string name="msg_in_game_mode">Spielemodus aktiviert.</string>
     <string name="msg_exit_game_mode">Spielemodus deaktiviert.</string>
-    <string name="use_accessibility_volume_fix_title">Optimierung der Bedienungshilfen Lautstärke verwenden</string>
+    <string name="use_accessibility_volume_fix_title">Optimierung der Bedienungshilfenlautstärke verwenden</string>
     <string name="use_accessibility_volume_fix_summary">Aktivieren Sie diese Option, falls Sie die Lautstärke nicht verändern können oder die Einstellung nicht korrekt funktioniert.</string>
     <string name="privacy">Privatsphäre und Datenschutz</string>
-    <string name="show_download_title">Jieshuo ScreenReader herunterladen</string>
+    <string name="show_download_title">Jieshuo Screenreader herunterladen</string>
     <string name="version_msg">%s\nGröße:%s\nAnzahl Downloads:%s</string>
-    <string name="user_new_password">Neues Passwort (6 - 15 Zeichen): </string>
-    <string name="repassword_title">Passwort bestätigen: </string>
+    <string name="user_new_password">Neues Passwort, 6 - 15 Zeichen:</string>
+    <string name="repassword_title">Passwort ändern</string>
     <string name="msg_not_empty">Das Feld darf nicht leer sein!</string>
-    <string name="msg_unknown_error">Ein unbekannter Fehler ist aufgetreten. Please try again later or contact the customer support.\n</string>
+    <string name="msg_unknown_error">Ein unbekannter Fehler ist aufgetreten. Bitte versuchen Sie es später erneut oder kontaktieren Sie den Support.\n</string>
     <string name="msg_timer_mode_pause">Der Timer wurde pausiert.</string>
     <string name="msg_timer_mode_resume">Der Timer wird fortgesetzt.</string>
     <string name="msg_multi_touch_mode_enabled">Mehrfingergesten wurden aktiviert.</string>
     <string name="msg_multi_touch_mode_disenabled">Mehrfingergesten wurden deaktiviert.</string>
-    <string name="activation_code_text">Aktivierungs-Code: </string>
+    <string name="activation_code_text">Aktivierungs Code:</string>
     <string name="activate_title">Premium Version aktivieren</string>
     <string name="select_app">App auswählen</string>
-    <string name="command_to_split_screen">Geteilter Bildschirm</string>
+    <string name="command_to_split_screen">Geteilten Bildschirm umschalten</string>
+    <string name="edit_activity">Aktivivitäten bearbeiten</string>
+    <string name="use_speak_key_title">Tastaturecho: </string>
+    <string name="auto_speak_title">Chat-Nachrichten automatisch vorlesen Einstellungen</string>
+    <string name="auto_speak_apps_title">Messenger-Apps zum automatischen Vorlesen wählen</string>
+    <string name="auto_speak_apps_summary">Beachten Sie bitte, dass nicht alle Messenger Apps dieses Feature unterstützen. Nachrichten, die in einer Liste angezeigt werden, funktionieren besser.</string>
+    <string name="msg_has_vip_auto_speak">Für Nutzer der kostenlosen Version werden nur Chat-Nachrichten im QQ Messenger automatisch vorgelesen.</string>
+    <string name="auto_speak_blacklist_title">Ausschlussliste für Chat-Nachrichten, die nicht automatisch vorgelesen werden sollen</string>
+    <string name="read_mode_setting">Lesemodus Einstellungen</string>
+    <string name="next_chapter_title">Seite vor</string>
+    <string name="previous_chapter_title">Seite zurück</string>
+    <string name="next_chapter_default_value">*Nächste Seite*|*Gehe zur nächsten Seite*|*Nächste Seite*|*Vorwärts*|*Seite vor*</string>
+    <string name="previous_chapter_default_value">*Vorherige Seite*|*Gehe zur vorherigen Seite*|*Vorherige Seite*|*Rückwärts*|*Seite zurück*</string>
+    <string name="msg_activated">Aktivierung übermittelt. Bitte warten Sie eine angemessene Zeit. Falls die Aktivierung dann nicht erfolgt ist, kontaktieren Sie bitte den Support.</string>
+    <string name="flash_light">Blitzlicht</string>
+    <string name="cloud_multi_backup_title">Alles in Cloud sichern</string>
+     <string name="cloud_multi_restore_title">Alles aus Cloud wiederherstellen</string><string name="search_engine_title">Suchmaschinen</string><string name="directory_notes">Notes</string><string name="replace">Ersetzen</string><string name="export_file">Exportieren</string><string name="replace_to">Ersetzen durch</string><string name="replace_regex">Platzhalter verwenden</string><string name="msg_replaced">Ersetzung erfolgreich.</string><string name="use_touch_stop_title">Sprachausgabe beim Berühren des Bildschirms unterbrechen</string><string name="continuous_recognition">Kontinuierliche Erkennung</string>
+    <string name="edit_dict">编辑词典</string>
+    <string name="up_volume_key_off_title">关屏状态长按音量增加键</string>
+    <string name="down_volume_key_off_title">关屏状态长按音量减小键</string>
+    <string name="use_loop_move_space_title">在焦点循环前增加空焦点提示</string>
+    <string name="use_view_type_move_mode_title">使用新的类型导航手势</string>
+    <string name="use_view_type_move_mode_summary">打开后按试图类型浏览，默认使用先上后下和先下后上切换类型，使用向左和向右切换项目，默认类型执行原快捷功能；\n关闭时使用向左或向右手势切换类型，使用向上或向下切换项目，默认类型移动焦点。</string>
 
 </resources>

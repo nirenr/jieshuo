@@ -969,7 +969,7 @@
     <string name="add_from_virtual_screen">Dodaj z wirtualnego ekranu</string>
     <string name="add_from_virtual_list">Rozpoznawanie tekstu</string>
     <string name="use_ocr_qq_title">Tencent Cloud OCR</string>
-    <string name="ocr_lang_enteries">Mieszany chiński i angielski | Automatyczne rozpoznawanie | Japoński | Koreański | Hiszpański | Francuski | Niemiecki | Portugalski | Wietnamski | Malajski | Rosyjski | Włoski | Holenderski | Szwedzki | Fiński | Duński | Norweski | Węgierski | Tajski | łacina</string>
+    <string name="ocr_lang_enteries">Mieszany chiński i angielski | Automatyczne rozpoznawanie | Japoński | Koreański | Hiszpański | Francuski | Niemiecki | Portugalski | Wietnamski | Malajski | Rosyjski | Włoski | Holenderski | Szwedzki | Fiński | Duński | Norweski | Węgierski | Tajski | łacina | 阿拉伯语</string>
     <string name="cmd_description">Opis 15 znaków lub więcej)</string>
     <string name="timer_run_title">Zaplanowane zadania</string>
     <string name="msg_has_vip_timer_run">Użytkownicy darmowej wersji mogą dodać tylko jedno zadanie</string>
@@ -1189,6 +1189,35 @@
     <string name="activate_title">Aktywuj konto premium</string>
     <string name="select_app">Wybierz aplikację</string>
     <string name="command_to_split_screen">Tryb podzielonego ekranu</string>
-
-
+    <string name="edit_activity">Edytor aktywności</string>
+    <string name="use_speak_key_title">Echo klawiszy: </string>
+    <string name="auto_speak_title">Ustawienia czytnika automatycznego</string>
+    <string name="auto_speak_apps_title">Wybór aplikacji do czytnika automatycznego</string>
+    <string name="auto_speak_apps_summary">Nie wszystkie aplikacje obsługują tę funkcję. Software which displays its content in a list view is more likely to be supported.</string>
+    <string name="msg_has_vip_auto_speak">Użytkownicy wersji darmowej mogą automatycznie czytać tylko nowe wiadomości z QQ.</string>
+    <string name="auto_speak_blacklist_title">Czarna lista czytnika automatycznego</string>
+    <string name="read_mode_setting">Ustawienia trybu czytania</string>
+    <string name="next_chapter_title">Komendy głosowe do przejścia do następnego rozdziału</string>
+    <string name="previous_chapter_title">Komendy głosowe do przejścia do poprzedniego rozdziału</string>
+    <string name="next_chapter_default_value">*Następny rozdział*|*Przejdź do następnego rozdziału*|*Następny*|*Do przodu*|*Kolejny rozdział*</string>
+    <string name="previous_chapter_default_value">*Poprzedni rozdział*|*Przejdź do poprzedniego rozdziału*|*Rozdział wstecz*|*Do tyłu*|*Rozdział w tył*</string>
+    <string name="msg_activated">Wszystko gotowe, zaczekaj na aktywację produktu. Jeśli aktywacja nie nastąpi w rozsądnym czasie, skontaktuj się ze wsparciem technicznym.</string>
+    <string name="flash_light">Latarka</string>
+    <string name="cloud_multi_backup_title">Kopia zapasowa do chmury</string>
+    <string name="cloud_multi_restore_title">Przywróć ustawienia z chmury</string>
+    <string name="search_engine_title">Wyszukiwarki</string>
+    <string name="directory_notes">Notes</string>
+    <string name="replace">Zamiana</string>
+    <string name="export_file">Eksportuj</string>
+    <string name="replace_to">Zamień na</string>
+    <string name="replace_regex">Użyj wyrażeń regularnych</string>
+    <string name="msg_replaced">Pomyślnie dodano szablon rozpoznawania.</string>
+    <string name="use_touch_stop_title">Przerywaj mowę po dotknięciu ekranu</string>
+    <string name="continuous_recognition">Stałe rozpoznawanie</string>
+    <string name="edit_dict">编辑词典</string>
+    <string name="up_volume_key_off_title">关屏状态长按音量增加键</string>
+    <string name="down_volume_key_off_title">关屏状态长按音量减小键</string>
+    <string name="use_loop_move_space_title">在焦点循环前增加空焦点提示</string>
+    <string name="use_view_type_move_mode_title">使用新的类型导航手势</string>
+    <string name="use_view_type_move_mode_summary">打开后按试图类型浏览，默认使用先上后下和先下后上切换类型，使用向左和向右切换项目，默认类型执行原快捷功能；\n关闭时使用向左或向右手势切换类型，使用向上或向下切换项目，默认类型移动焦点。</string>
 </resources>

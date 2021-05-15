@@ -480,7 +480,7 @@
         <item>Кожні 5 хвилин</item>
         <item>Кожні 10 хвилин</item>
         <item>Кожні 15 хвилин</item>
-        <item>Кожні 30 minutes</item>
+        <item>Кожні 30 хвилин</item>
         <item>Кожні 60 хвилин</item>
     </string-array>
     <string-array name="timer_interval_values">
@@ -554,7 +554,7 @@
 
         <item>Орієнтир</item>
         <item>Редактор</item>
-        <item>Елемент у фокусі</item>
+        <item>Поточний елемент</item>
         <item>Елемент керування</item>
         <item>Зображення</item>
         <item>Прапорець</item>
@@ -578,16 +578,16 @@
     </string-array>
 
     <string-array name="hot_key_help_items">
-        <item>CTRL+DPAD_UP: Попередній елемент у фокусі</item>
-        <item>CTRL+DPAD_DOWN: Наступний елемент у фокусі</item>
+        <item>CTRL+DPAD_UP: Перейти до Попереднього елемента</item>
+        <item>CTRL+DPAD_DOWN: Перейти до наступного елемента</item>
         <item>CTRL+DPAD_LEFT: Лівий ярлик</item>
         <item>CTRL+DPAD_RIGHT: Правий ярлик</item>
         <item>CTRL+PAGE_UP: Прокрутити вгору</item>
         <item>CTRL+PAGE_DOWN: Прокрутити вниз</item>
         <item>CTRL+H: Головний екран</item>
-        <item>CTRL+N: Центр сповіщень</item>
+        <item>CTRL+N: Панель сповіщень</item>
         <item>CTRL+P: Недавні додатки</item>
-        <item>CTRL+SPACE: Клік</item>
+        <item>CTRL+SPACE: Натискання</item>
         <item>CTRL+L: Клік</item>
         <item>CTRL+Q: Швидкі налаштування</item>
 
@@ -621,7 +621,7 @@
         <item>Символ</item>
         <item>Слово</item>
         <item>Рядок</item>
-        <item>Параграф</item>
+        <item>Абзац</item>
         <item>Сторінка</item>
         <item>Копіювати</item>
         <item>Гучність</item>

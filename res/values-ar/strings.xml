@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name"> Jieshuo</string>
+    <string name="app_name"> Jieshuo+</string>
     <string name="accessibility_service_description">
         Jieshuo هو تطبيقٌ يُساعِدُ المكفوفينَ على إستخدام هواتفهِم المحمولة. لقد قمنا ببعض المحاولات للابتكار. لمزيدٍ مِنَ التفاصيل، افتح الإعدادات ثُمَّ المساعَدة.\n
-        بعضُ الوظائفِ مُقَيَّدةٌ حتى تقومَ بالإشتراك في النسخة المدفوعة. لمزيدٍ مِنَ التفاصيل، الرجاء التواصُلُ مع مُمَثِّلي خِدْمةِ العُمَلاء على مجموعة QQ الرسمية.\n
+        بعضُ الوظائفِ مُقَيَّدةٌ حتى تقومَ بالإشتراك في النسخة المدفوعة. لمزيدٍ مِنَ التفاصيل، الرجاء التواصُلُ مع مُمَثِّلي خِدْمةِ الدعم على مجموعة QQ الرسمية.\n
         \n
         المزايا: \n
         المساعِدُ الصوتي: استَخدِم هاتفَك مِن دونِ لَمْسِهِ مع مساعِدِنا الصوتي.\n
@@ -14,22 +14,22 @@
         وظيفةُ نَسْخ الكل: تسمحُ لك تلك الوظيفةُ بنَسْخِ ما تحتاجُ إليه تماماً.\n
         إِيماءاتُ السياقْ: تسمحُ هذه الميزةُ بالمرونةِ الشديدة.\n
         إمكانُ إعادةِ رَسْمِ خارِطةِ الإِيماءات.\n
-        إعداداتُ الإشعاراتِ المَرِنة. لن تَتِمَّ مُقاطَعتُك بواسطةِ بعضِ الأُمورِ التي لا تَهْتَمُّ بها في الوقتِ الحالي.\n
+        إعداداتُ نُطْق الإشعاراتِ المَرِنة. لن تَتِمَّ مُقاطَعتُك بواسطةِ بعضِ الأُمورِ التي لا تَهْتَمُّ بها في الوقتِ الحالي.\n
         \n
         الوظائفُ المدفوعة: \n
         شاشةٌ افتراضيةٌ للتطبيقاتِ غيرِ المتوافِقة لفتحِ آفاقٍ جديدةٍ لك.\n
         التَّعَرُّفُ التَّلْقائيُّ على النصوصِ الممسوحةِ ضَوْئِيّاً: يتعرفُ التَّطْبيق على الصُوَرِ ويقرأُ النصوصَ الموجودَةَ فيها بسهولة.\n
         التَّعَرُّفُ بسرعةِ البرقِ على صُوَرِ التَّحَقُّق Captcha, مدعوم بواسطة الذكاء الاصطناعي.\n
         التَّعَرُّفُ على أَيِّ شيءٍ أمامَك: أشخاص، مَشاهد، كائنات، الخ.\n
-        تصفيةُ صفحات الويب: اقرأ صفحات الويب بسهولة مِن دونِ الصور والمحتوى الآخر المُعَطِّل.\n
+        تصفيةُ صفحات الويب: اقرأ صفحات الويب بسهولة مِن دونِ الصور والمحتوى الآخر غير الضروري.\n
         نَسْخُ الشاشات كاملةً بسهولة.\n
-        وضعُ قِراءةُ المَقالة: تشغيلُ تصفيةِ محتوى الصفحة تلقائياً… \n
+        وَضْعُ القِراءةُ: تشغيلُ تصفيةِ محتوى الصفحة تلقائيا… \n
         إمكان تخصيصِ إِيماءاتٍ لكل تطبيق.\n
         قائمةُ المُفَضَّلاتْ: يمكنُكَ الوصول إلى محتواك المُفَضَّل في أي مكان، وفي أي وقت.\n
         التَّعْديلُ السريع: إيجادُ الكَلِمة أو الجُمْلة أو الفِقْرة التي تريد تعديلها بسرعة.\n
-        تحديدُ النص المتقدم: بالكَلِمة أو بالجُمْلة أو بالفِقْرة. حدِّد النص الذي تحتاجه تماماً.\n
+        التحديدُ المتعدد للنص: بالكَلِمة أو بالجُمْلة أو بالفِقْرة. حدِّد النص الذي تحتاجه تماماً.\n
         قُم بأداء العمليات المختلفة بسهولة عن طريق الأوامر الصوتية الإضافية.\n
-        التَّشْغيلُ التَّلْقائي للملحقات، يمكنُكَ الوصول دائما إلى مُلحقاتِكَ المُفَضَّلة بطريقة صحيحة.\n
+        التَّشْغيلُ التَّلْقائي للإضافات، يمكنُكَ الوصول دائما إلى إضافاتِكَ المُفَضَّلة بطريقة صحيحة.\n
         إنَّ Jieshuo هو قارئُ شاشَةٍ قابلٌ للإعداد ومَرِنٌ بشكل لانهائي!
     </string>
 
@@ -38,12 +38,12 @@
 
     <string name="menu_title">القائمةُ العامة, </string>
 
-    <string name="tts_speed_title">سرعةُ الصوت: </string>
+    <string name="tts_speed_title">معدل سرعة الصوت: </string>
     <string name="tts_speed_summary">مُعَدَّلُ سرعةِ الصوت.</string>
 
 
     <string name="usage_hints_title">نُطْق تَلْميحات الإستخدام: </string>
-    <string name="usage_hints_summary">يَتِمُّ نُطْق تَلْميحات التَّفاعُل استناداً إلى العنصر الذي تتفاعَلُ معه.</string>
+    <string name="usage_hints_summary">يَتِمُّ نُطْق تَلْميحات الإستخدام استناداً إلى العنصر الذي تتفاعَلُ معه.</string>
 
     <string name="vibrate_title">الاهتزاز: </string>
     <string name="vibrate_summary">إستخدام الاهتزاز مع Jieshuo.</string>
@@ -51,24 +51,24 @@
     <string name="use_proixmity_sensor_title">إستخدام استشعار التَّقارُب: </string>
     <string name="use_proixmity_sensor_summary">يؤدي إستخدام استشعار التَّقارُب إلى كَتْم صوت الكلام.</string>
 
-    <string name="screen_off_speak_title">نُطْق الإشعارات الواردة عندما تكون الشاشةُ مُتَوَقِّفة: </string>
-    <string name="screen_off_speak_summary">نُطْق الإشعارات الواردة عندما تكون الشاشةُ مُتَوَقِّفة.</string>
+    <string name="screen_off_speak_title"> نُطْق الإشعارات الواردة عندما تكون الشاشةُ مُتَوَقِّفة: </string>
+    <string name="screen_off_speak_summary"> نُطْق الإشعارات الواردة عندما تكون الشاشةُ مُتَوَقِّفة.</string>
 
     <string name="use_sound_title">المؤثراتُ الصوتية: </string>
     <string name="use_sound_summary">إستخدام حُزْمة الصوت المحددة حالياً.</string>
 
-    <string name="use_list_index_title">نُطْق عدد عناصر القائمة: </string>
-    <string name="use_list_index_summary">, يَتِمُّ نُطْق عدد عناصر القائمة عند التَّمْرير بِإِصْبَعَيْن.</string>
+    <string name="use_list_index_title">نُطْق معلومات القائمة والشبكة: </string>
+    <string name="use_list_index_summary">يَتِمُّ نُطْق معلومات القائمة والشبكة عند التَّمْرير بِإِصْبَعَيْن.</string>
 
     <string name="use_node_title">إستخدام وَضْعِ تَصَفُّحِ العُقْدة. (للمستخدمين المُتَقَدِّمين فقط)</string>
     <string name="use_node_summary">إستخدام وَضْعِ تَصَفُّحِ العُقْدة.</string>
 
-    <string name="tts_volume_title">مُسْتَوى الصوْت: </string>
-    <string name="tts_volume_summary">مُسْتَوى صوْت الكلام مُطابِق لمستوى صوت الوسائط.</string>
+    <string name="tts_volume_title">معدل مُسْتَوى الصوْت: </string>
+    <string name="tts_volume_summary">مُسْتَوى صوْت الكلام مُطابِق لمُسْتَوى صوت الوسائط.</string>
 
     <string name="use_key_shortcut_title">إستخدام مفاتيحِ التَّحَكُّم بِمُسْتَوى الصوت كمفاتيح إختصار : </string>
     <string name="use_key_shortcut_summary">إِضْغَط مُطَوَّلاً على مفاتيح التَّحَكُّم بِمُسْتَوى الصوت لإجراء عمليات مختلفة.</string>
-    <string name="tts_speaker_title">إختر صوت: </string>
+    <string name="tts_speaker_title">إختر صوتا: </string>
     <string name="tts_speaker_summary">إختر الصوت المدمج.</string>
 
     <string name="tts_settings_title">إعدادات تحويلِ النص إلى كلام</string>
@@ -102,22 +102,22 @@
     <string name="web_app_name">مُتَصَفِّحُ الويب</string>
     <string name="help_title">مركز المساعَدة</string>
     <string name="use_log_title">تمكين السِجِلّ: </string>
-    <string name="notification_speak_title">نُطْق الإشعارات: </string>
+    <string name="notification_speak_title"> نُطْق الإشعارات: </string>
     <string name="plugin_title">الإضافات</string>
     <string name="action_menu_title">قائمةُ الإجراءات, </string>
     <string name="clipboard_menu_title">الحافِظة, </string>
     <string name="select_menu_title">التحديد بالكَلِمة, </string>
-    <string name="all_text_title">تَصَفُّح النص كاملاً</string>
-    <string name="use_touch_mode_title">إستخدامُ الإِيماءات، (لا تقم بتعطيل هذا الخِيار إذا كنت كفيفاً كليّاً): </string>
-    <string name="unknown_lable_title">محاولة تصنيف عنصر غير مسمى: </string>
+    <string name="all_text_title">قِراءة النص </string>
+    <string name="use_touch_mode_title">إستخدامُ الإِيماءات، (لا تقم بإيقاف هذا الخِيار إذا كُنتَ كفيفاً كليّاً): </string>
+    <string name="unknown_lable_title">نُطْق مُعرِّفات العناصر: </string>
     <string name="action_setting_title">إعدادات الإجراءات</string>
     <string name="use_single_tap_title">التَّفْعيلُ بِنَقْرةٍ واحدة: </string>
     <string name="use_up_tap_title">رَفْعُ الإِصْبَع عن العنصر للتَّفْعيل: </string>
-    <string name="sound_volume_title">مستوى صوت  المؤثرات الصوتية: </string>
-    <string name="notification_bar_speak_title">نُطْق الإشعارات الواردة: </string>
-    <string name="notification_toast_speak_title">نُطْق الإشعارات المنبثقة: </string>
-    <string name="notification_announcement_speak_title">نُطْق إشعارات Jieshuo: </string>
-    <string name="notification_settings_title">إعدادات الإشعارات</string>
+    <string name="sound_volume_title">مُسْتَوى صوت  المؤثرات الصوتية: </string>
+    <string name="notification_bar_speak_title"> نُطْق الإشعارات الواردة: </string>
+    <string name="notification_toast_speak_title"> نُطْق الإشعارات المنبثقة: </string>
+    <string name="notification_announcement_speak_title"> نُطْق إشعارات Jieshuo: </string>
+    <string name="notification_settings_title">إعدادات نُطْق الإشعارات</string>
     <string name="help_feed_title">المساعَدةُ والتَّعْليقات</string>
     <string name="advanced_setting_title">إعدادات مُتَقَدِّمة</string>
     <string name="notification_white_list_title">القائمةُ البيضاء للإشعارات: </string>
@@ -125,22 +125,22 @@
     <string name="voice_help_title">تعليماتُ المساعِد الصوتي</string>
     <string name="sound_package_title">حُزَم المؤثرات الصوتية</string>
     <string name="value_default">افتراضي</string>
-    <string name="notification_app_name_speak_title">نُطْق مصدر الإشعار: </string>
+    <string name="notification_app_name_speak_title"> نُطْق مصدر الإشعار: </string>
     <string name="use_up_tap_summary">يؤدي رَفْعُ الإِصْبَع إلى تفعيل العنصر المُرَكَّز عَلَيْهِ. إذا ظل الإِصْبَع لفترة أطول على العنصر، فلن يَتِمُّ تفعيلُه.</string>
     <string name="use_tap_mode_title">إِضْغَط على الشاشة لنقل التَّرْكيز: </string>
     <string name="vibrate_intensity_title">تأثير الاهتزاز: </string>
-    <string name="use_progress_title">نُطْق تغييرات شريط التَّقَدُّم تلقائيا: </string>
-    <string name="use_scroll_list_index_title">نُطْق عدد عناصر القائمة: </string>
-    <string name="use_content_changed_title">نُطْق تغييرات المحتوى المتغير: </string>
+    <string name="use_progress_title">نُطْق تغييرات شريط التَّقَدُّم تلقائيا عند التركيز عَلَيْهِ. </string>
+    <string name="use_scroll_list_index_title">نُطْق عدد عناصر القائمة على الشاشة: </string>
+    <string name="use_content_changed_title">نُطْق تغييرات العنصر المُرَكَّز عَلَيْهِ تلقائيا. </string>
     <string name="use_double_fling_title">إستخدام الإِيماءاتِ المُكَوَّنةِ مِن جُزْءَيْن: </string>
-    <string name="use_view_name_title">نُطْق نوع العنصر المُرَكَّز عَلَيْهِ حاليا: </string>
+    <string name="use_view_name_title">نُطْق نوع العنصر: </string>
     <string name="permissions_settings_title">ضبط الأُذونات</string>
     <string name="use_node_info_title">نُطْق معلوماتِ العُقْدة الحالية: </string>
-    <string name="use_content_tree_changed_title">نُطْق محتويات النافذة الحالية تلقائيا: </string>
+    <string name="use_content_tree_changed_title">نُطْق تغييرات النافذة الحالية تلقائيا: </string>
     <string name="split_menu_title">قائمةُ التَّنَقُّل, </string>
     <string name="split_edit_title">قائمةُ التَّعْديل, </string>
     <string name="edit_title">تعديل</string>
-    <string name="plugin_manager_title">إدارةُ المُلحقات</string>
+    <string name="plugin_manager_title">إدارةُ الإضافات</string>
     <string name="sound_manager_title">إدارةُ الحُزَم الصوتية</string>
     <string name="clipboard_manager_title">إدارةُ الحافِظة</string>
     <string name="label_manager_title">إدارةُ التَّصْنيفات المخَصَّصة</string>
@@ -153,13 +153,13 @@
     <string name="long_click_summary">زمنُ تأخيرِ إجراءِ تفعيلِ الضغطِ المُطَوَّل.</string>
     <string name="split_select_title">التحديد بالفِقْرة أو بالكَلِمة أو بالحَرْف </string>
     <string name="use_up_long_click_title">إِضْغَط ثُمَّ ارفع إِصْبَعَك لتفعيل إجراء الضغط المُطَوَّل: </string>
-    <string name="use_up_long_click_summary">محاكاةُ الضغط المُطَوَّل مع إِيماءة الضغط ثُمَّ رَفْعِ الإِصْبَع</string>
-    <string name="backup_manager_title">إدارةُ النُسَخ الاحتياطية</string>
+    <string name="use_up_long_click_summary">محاكاةُ الضغط المُطَوَّل مع إجراء الضغط ثُمَّ رَفْعِ الإِصْبَع</string>
+    <string name="backup_manager_title">إدارةُ النَسْخ الاحتياطي</string>
     <string name="user_letter_map_title">استخدام قاموس مُخَصَّص، (يَتَطَلَّبُ إعادةَ تشغيل Jieshuo لتفعيله) </string>
     <string name="tts_use_offline_title">إستخدام تحويلِ النص إلى كلام عبر الإنترنت: </string>
     <string name="tts_use_offline_summary">في حال عدم وجود اتصال Wi-Fi، سَيَتِمُّ التَّحْويل تلقائيا إلى مُحَرِّكِ تحويلِ النص إلى كلام الافتراضي</string>
     <string name="gesture_package_title">حُزَم الإِيماءات: </string>
-    <string name="long_text_title">التَّعْديل المُتَقَدِّم للنص</string>
+    <string name="long_text_title">تعديل النص </string>
     <string name="gesture_manager_title">إدارةُ الإِيماءات</string>
     <string name="use_ocr_title">إستخدام المسح الضَّوْئي للتَعَرُّف على الأحرُف تلقائيا: </string>
     <string name="use_ocr_summary">يَتِمُّ التَّعَرُّف تلقائيا على الصُوَر المُرَكَّز عليها والأزرار غير المصنفة. ملاحظة: هذا الإجراء سيستهلكُ المزيد مِن بيانات الشبكة والطاقة.</string>
@@ -177,29 +177,29 @@
     <string name="message_no_found_edit_text">مربع التَّعْديل غير متوفر.</string>
     <string name="message_voice_feedback_paused">تَمَّ تعليق Jieshuo.</string>
     <string name="message_voice_feedback_resume">تَمَّ استئناف Jieshuo</string>
-    <string name="message_enable_tap_mode">"النَّقْرُ لِنَقْلِ التَّرْكيز", قَيْدُ التَّشْغيل</string>
-    <string name="message_disabled_tap_mode">"النَّقْرُ لِنَقْلِ التَّرْكيز", قَيْدُ الإيقاف</string>
+    <string name="message_enable_tap_mode">تَمَّ تفعيل النَّقْرُ لِنَقْلِ التَّرْكيز </string>
+    <string name="message_disabled_tap_mode"> تَمَّ إيقاف النَّقْرُ لِنَقْلِ التَّرْكيز </string>
     <string name="directory_gestures">Gestures</string>
     <string name="directory_temp">TMP</string>
     <string name="directory_plugins">Plugins</string>
     <string name="message_recognition">جاري التَّعَرُّف…</string>
-    <string name="message_recognition_error">فشل التَّعَرُّف. الرجاء المحاولة مرةً أخرى.</string>
+    <string name="message_recognition_error">فَشِلَ التَّعَرُّف. الرجاء المحاولة مرةً أخرى.</string>
     <string name="directory_sounds">Sounds</string>
     <string name="directory_resources">Resources</string>
     <string name="file_name_letter">letters.json</string>
     <string name="file_name_symbol">symbols.json</string>
     <string name="directory_labels">Labels</string>
     <string name="directory_backup">Backups</string>
-    <string name="message_load_sound_error">فشل تنزيل الحُزمة الصوتية.</string>
+    <string name="message_load_sound_error">فَشِلَ تنزيل الحُزمة الصوتية.</string>
     <string name="message_load_done">اكتَمَلَ التنزيل.</string>
     <string name="tool_title">الأدوات</string>
     <string name="directory_tools">Tools</string>
-    <string name="ocr_title">التَّعَرُّف على النص</string>
+    <string name="ocr_title">التَّعَرُّف على نص في صورة</string>
     <string name="tool_manager_title">إدارةُ الأدوات</string>
-    <string name="message_load_error">فشل في استيراد المَوْرِد.</string>
+    <string name="message_load_error">فَشِلَ استيراد المَوْرِد.</string>
     <string name="manager_activity_title">إدارة الموارد</string>
     <string name="use_headset_key_title">استَخدِم مفتاح سَمّاعة الرأس للتحكم في Jieshuo: </string>
-    <string name="use_wake_lock_title">إبقاءُ الشاشة مفتوحةً أثناءَ القِِراءة.</string>
+    <string name="use_wake_lock_title">البقاء في الوَضْع النَشِط: </string>
     <string name="user_settings_title">مركز المستخدِم</string>
     <string name="user_name_title">اسم المستخدِم</string>
     <string name="user_id_title">مُعَرِّف المستخدِم</string>
@@ -213,18 +213,18 @@
     <string name="message_recognition_none">لا يوجد نص للتَعَرُّف عَلَيْهِ </string>
     <string name="tts_iflytek_settings_title">إعداداتُ مُحَرِّك Xunfei</string>
     <string name="tts_use_fly_title">إستخدام مُحَرِّك Xunfei: </string>
-    <string name="tts_pitch_title">حدة الصوت: </string>
+    <string name="tts_pitch_title">معدل حدة الصوت: </string>
     <string name="tts_speed_double_title">مضاعفة سرعة الصوت: </string>
     <string name="tts_unisound_settings_title">إعداداتُ مُحَرِّك Unisound</string>
-    <string name="use_wake_lock_summary">  ٕ </string>
+    <string name="use_wake_lock_summary">لا يَتِمّ مطلقًا دخول الشاشة في وَضْع السكون أثناء القِراءة. </string>
     <string name="audio_focus_summary">خَفْضُ مُسْتَوى الصوت الآخَر أثناءَ التَّحَدُّث.</string>
     <string name="message_done">تَمَّ حِفْظُ التَّغْييرات.</string>
     <string name="app_gesture_package_title">حُزَمُ إِيماءاتِ التطبيقات: </string>
     <string name="app_gesture_package_summary">تَشْغِيلُ أو إيقافُ حُزَم الإِيماءاتِ الخاصةِ بالتَّطْبيقات. </string>
     <string name="char_mode_gesture_title">إستخدام الإِيماءاتِ في وَضْعِ التَّنَقُّل بِدِقّات القِراءة: </string>
     <string name="char_mode_gesture_summary">استَخدِم الإِيماءاتِ الافتراضية في وَضْعِ التَّنَقُّل بِدِقّات القِراءة.</string>
-    <string name="notification_summary_title"> نُطْق ملخص الإشعارات</string>
-    <string name="use_image_filter_title">تصفيةُ الصور في عرض الويب: </string>
+    <string name="notification_summary_title"> نُطْق ملخص الإشعار</string>
+    <string name="use_image_filter_title">تصفيةُ الصور في عرض الويب. </string>
     <string name="gesture_settings_title">إعداداتُ الإِيماءات، </string>
     <string name="setup_plugin_title">تشغيلُ الإضافات تلقائيا</string>
     <string name="advanced_menu_title">قائمةُ التَّعَرُّف, </string>
@@ -232,20 +232,20 @@
     <string name="check_update_title">البحث عن تحديثات</string>
     <string name="qq_group_summary">يمكنُكَ التَّحَدُّث عن Jieshuo</string>
     <string name="favorites_menu_title">المُفَضَّلة, </string>
-    <string name="favorites_manager_title">إدارةُ المفضلة</string>
+    <string name="favorites_manager_title">إدارةُ المُفَضَّلة</string>
     <string name="use_multi_menu_title">إستخدام قائمة متعددة الأعمدة: </string>
     <string name="use_multi_menu_summary">القائمةُ المتعددةُ الأعمدة لا تدعم المحتوى المخصَّص</string>
     <string name="use_left_right_title">إستخدام إِيماءات التمرير لليمين و لليسار للتَنَقُّل: </string>
     <string name="use_list_item_index_title">نُطْق رقم العنصر في القائمة: </string>
-    <string name="use_left_right_summary">  ٕ </string>
+    <string name="use_left_right_summary"> ٕ </string>
     <string name="use_old_previous_title">إستخدام الطريقة القديمة لتغيير التَّرْكيز: </string>
     <string name="baidu_tieba_title">موسوعة Baidu</string>
     <string name="use_single_tts_title">إستخدام مُحَرِّكٍ واحدٍ فقط لتحويلِ النص إلى كلام: </string>
     <string name="use_auto_update_title">تفعيلُ التَّحْديثِ التَّلْقائي: </string>
     <string name="use_pager_scroll_title">تمرير الصفحات تلقائيا: </string>
-    <string name="use_supper_filter_title">تصفيةٌ دقيقةٌ لمحتوى الويب: </string>
+    <string name="use_supper_filter_title">تصفيةُ المحتوى غير الصيني في عرض الويب. </string>
     <string name="change_log_title">سِجِلُّ التَّغْييرات</string>
-    <string name="use_up_long_quick_menu_title">عرض قائمة الإِيماءات المخصصة  عند إجراء الضغط المُطَوَّل: </string>
+    <string name="use_up_long_quick_menu_title">عرض قائمة الإِيماءات المخصصة: </string>
     <string name="use_show_dis_enabled_quick_menu_title">إظهارُ الإجراءات غيرِ المتاحة في قائمة الإجراءات: </string>
     <string name="voice_helper_setting_title">المساعِد الصوتي والتَّرْجمة</string>
     <string name="voice_helper_copy_title">نَسْخُ نتائج التَّرْجمة تلقائيا إلى الحافِظة: </string>
@@ -255,7 +255,7 @@
     <string name="click_settings_title">إجراءات النَّقْر</string>
     <string name="key_shortcut_setting_title">مفاتيح الإختصار </string>
     <string name="gesture_title">إعداداتُ الإِيماءات، </string>
-    <string name="use_single_tap_summary">النَّقْرُ على العنصر المُرَكَّز عَلَيْهِ حاليا لِتَفْعيلِه</string>
+    <string name="use_single_tap_summary">النَّقْرُ على العنصر المُرَكَّز عَلَيْهِ لِتَفْعيلِه</string>
     <string name="use_old_previous_summary">传统方式上一个焦点是下一个焦点的简单返回，取消后将使用新的上一个焦点方式，按照焦点层级返回，在一直向上浏览时更容易掌握内容所属关系</string>
     <string name="use_headset_key_summary">إِضْغَط على مفتاح السمّاعة للانتقال إلى العنصر التالي، واضغط مُطَوَّلاً لتفعيل المساعِدِ الصوتي.</string>
     <string name="list_view_settings_title">معلوماتُ القائمة</string>
@@ -263,17 +263,17 @@
     <string name="view_changed_settings_title">المحتوى المُتَغَيِّر</string>
     <string name="content_filter_settings_title">تَصْفِيَة المحتوى</string>
     <string name="hints_list_settings_title">تَلْميحات الإستخدام</string>
-    <string name="use_node_info_summary">يَتِمُّ نُطْق معلوماتٍ إضافيةٍ عَنْ العُقدة المُرَكَّز عليها حاليا أثناء إستخدام وَضْعِ تَصَفُّحِ العُقْدة.</string>
-    <string name="use_list_item_index_summary">يَتِمُّ نُطْق رقم العنصر المُرَكَّز عَلَيْهِ حاليا في القائمة.</string>
-    <string name="use_scroll_list_index_summary">يَتِمُّ نُطْق عدد عناصر القائمة عند التَّمْرير باستخدام الإِيماءة فقط. </string>
-    <string name="use_view_name_index_summary">يَتِمُّ نُطْق نوع العنصر الحالي واسمه. إذا لم يكن له اسم فسيحاول Jieshuo تصنيفَه.</string>
-    <string name="unknown_lable_summary">يَتِمُّ نُطْق مُعَرِّف العنصر الحالي عندما يكون غير مسمى.</string>
-    <string name="use_progress_summary">يَتِمُّ نُطْق تغييرات شريط التَّقَدُّم عند التَّرْكيز عَلَيْهِ</string>
-    <string name="use_content_changed_summary">يَتِمُّ نُطْق تغييرات العنصر المُرَكَّز عَلَيْهِ تلقائيا.</string>
-    <string name="use_content_tree_changed_summary">يَتِمُّ نُطْقُ التَّغْييرات تلقائيا في النافذة الحالية</string>
+    <string name="use_node_info_summary">يَتِمُّ نُطْق معلوماتٍ إضافيةٍ عَنْ العُقدة المُرَكَّز عليها أثناء إستخدام وَضْعِ تَصَفُّحِ العُقْدة.</string>
+    <string name="use_list_item_index_summary">يَتِمُّ نُطْق رقم العنصر المُرَكَّز عَلَيْهِ في القائمة.</string>
+    <string name="use_scroll_list_index_summary">يَتِمُّ نُطْق عدد عناصر القائمة على الشاشة عند إستخدام الإِيماءة فقط. </string>
+    <string name="use_view_name_index_summary">يَتِمّ نُطْق نوع العنصر الحالي وإسمه عند التركيز عَلَيْهِ. </string>
+    <string name="unknown_lable_summary">يَتِمّ نُطْق مُعرِّفات العناصر في الأزرار التي لا تَحْمِل إسماً. </string>
+    <string name="use_progress_summary"> ٕ </string>
+    <string name="use_content_changed_summary"> ٕ </string>
+    <string name="use_content_tree_changed_summary"> ٕ </string>
     <string name="content_blacklist_summary">تؤدي تصفيةُ المحتوى باستخدام القائمة السوداء لحل بعض أخطاء التركيز. ملاحظة: لا يمكن إضافة الملصقات.</string>
-    <string name="use_image_filter_summary">يَتِمُّ تَجَنُّبُ الصور عند التَصَفُّح في عرض الويب</string>
-    <string name="use_supper_filter_summary">تَتِمُّ تصفيةُ المحتوى غيرِ الصيني أثناء تَصَفُّح الويب.</string>
+    <string name="use_image_filter_summary"> ٕ </string>
+    <string name="use_supper_filter_summary"> ٕ </string>
     <string name="use_edge_gesture_title">إستخدام إِيماءاتِ الحافَّتَيْن: </string>
     <string name="left_edge_gesture_title">التَّمْرير لليمين مِنَ الحافةِ اليُسرى</string>
     <string name="right_edge_gesture_title">التَّمْرير لل يسار مِنَ الحافةِ اليُمنى</string>
@@ -284,45 +284,45 @@
     <string name="right_edge_gesture_summary">اخْتِيَارُ وَظِيفةٍ  يَتِمُّ إجراؤها عن طريقِ التَّمْرير مِنَ الحافةِ الْيُمْنَى.</string>
     <string name="down_volume_key_value_default">المساعِد الصوتي</string>
     <string name="down_volume_key_title">إِضْغَط مُطَوَّلاً على مفتاح خَفْضِ مُسْتَوى الصوت</string>
-    <string name="down_volume_key_summary">  ٕ </string>
+    <string name="down_volume_key_summary"> ٕ </string>
     <string name="up_volume_key_title">إِضْغَط مُطَوَّلاً على مفتاح رَفْعِ مُسْتَوى الصوت</string>
-    <string name="up_volume_key_summary">  ٕ </string>
-    <string name="up_volume_key_value_default">"رَفْعُ الإِصْبَع للتَّفْعيل"</string>
+    <string name="up_volume_key_summary"> ٕ </string>
+    <string name="up_volume_key_value_default">تعليق Jieshuo مؤقتا </string>
     <string name="use_speak_call_phone_summary">يَتِمُّ نُطْق اسم ورقم المتصل عِنْد الإتِّصال: </string>
     <string name="use_speak_call_phone_title">نُطْق معلوماتِ المتصل: </string>
-    <string name="use_speak_changed_volume_summary">يَتِمُّ نُطْق تَّغْييرات مستوى الصوت عند الضبط. </string>
+    <string name="use_speak_changed_volume_summary">يَتِمُّ نُطْق تغييرات مُسْتَوى الصوت عند الضبط. </string>
     <string name="use_speak_changed_volume_title">نُطْق تغييرات مُسْتَوى الصوت: </string>
-    <string name="vip_qq_group_title">مجموعة QQ الرسميةُ لأعضاء Jieshuo المُمَيَّزين</string>
+    <string name="vip_qq_group_title">مجموعة QQ الرسميةُ لأعضاء Jieshuo المُسَجَّلين</string>
     <string name="qq_group2_title">مجموعة Jieshuo الرسميةُ على QQ</string>
-    <string name="right_long_edge_gesture_value_default">فتح شريط الاشعارات</string>
+    <string name="right_long_edge_gesture_value_default">فتح شريط الإشعارات</string>
     <string name="left_long_edge_gesture_value_default">الشاشة الرئيسية</string>
     <string name="right_long_edge_gesture_title">التَّمْرير إلى وَسَطِ الشاشةِ مِنَ الحافةِ اليُمْنى: </string>
     <string name="left_long_edge_gesture_title">التَّمْرير إلى وَسَطِ الشاشةِ مِنَ الحافةِ اليُسْرى: </string>
     <string name="left_long_edge_gesture_summary">التَّمْرير يَمِينًا إلى وَسَطِ الشاشةِ بَدْءًا مِنَ  الحافةِ اليُسْرَى.</string>
     <string name="right_long_edge_gesture_summary">التَّمْرير يَسَارًا إلى وَسَطِ الشاشةِ بَدْءًا مِنَ  الحافةِ الْيُمْنَى.</string>
     <string name="use_up_long_quick_menu_summary">يَتِمُّ عرض الإِيماءات المخصصة عند إجراء الضغط المُطَوَّل على العنصر المُرَكَّز عَلَيْهِ.</string>
-    <string name="up_volume_short_key_value_default">رفع مستوى الصوت</string>
+    <string name="up_volume_short_key_value_default">رفع مُسْتَوى الصوت</string>
     <string name="up_volume_short_key_title">إِضْغَط قصيراً على مفتاح رَفْعِ مُسْتَوى الصوت: </string>
-    <string name="up_volume_short_key_summary">自定义短按音量加键功能，在触摸屏幕状态为增大音量</string>
-    <string name="down_volume_short_key_value_default">خفض مستوى الصوت</string>
+    <string name="up_volume_short_key_summary">自定义短按音量增加键功能，在触摸屏幕状态为增大音量</string>
+    <string name="down_volume_short_key_value_default">خفض مُسْتَوى الصوت</string>
     <string name="down_volume_short_key_title">إِضْغَط قصيراً على مفتاح خَفْضِ مُسْتَوى الصوت: </string>
-    <string name="down_volume_short_key_summary">自定义短按音量减键功能，在触摸屏幕状态为减小音量</string>
+    <string name="down_volume_short_key_summary">自定义短按音量减小键功能，在触摸屏幕状态为减小音量</string>
     <string name="use_ringtone_volume_title">إستخدام مُسْتَوى صوت نغمة الرنين: </string>
     <string name="use_ringtone_volume_summary">يَتِمُّ إستخدام مُسْتَوى صوت نغمة الرنين لتحديد مُسْتَوى صوت نُطْق معلومات المتصل</string>
-    <string name="up_down_volume_short_key_value_default">تعليق الإستكشاف باللمس</string>
+    <string name="up_down_volume_short_key_value_default">تعليق الإستكشاف باللمس مؤقتا</string>
     <string name="up_down_volume_short_key_summary">تعليق أو استئناف الإستكشاف باللَمْس</string>
     <string name="up_down_volume_short_key_title">إِضْغَط مَعاً على مفتاحَي رَفْعِ و خَفْضِ مُسْتَوى الصوت: </string>
     <string name="tts_engine_title">المُحَرِّكُ الرئيسي: </string>
     <string name="async_tts_engine_title">المُحَرِّكُ الثانوي: </string>
-    <string name="async_tts_engine_summary">يُستخدَمُ لنُطْقِ الإشعاراتِ أو المعلوماتِ الإضافية. سيؤدي اختيارُُ المُحَرِّكِ الرئيسي كمُحَرِّكٍ ثانوي إلى إستخدام مُحَرِّكٍ واحدٍ فقط لتحويل النص إلى كلام.</string>
+    <string name="async_tts_engine_summary">يُستخدَمُ لنُطْق الإشعارات أو المعلومات الإضافية. سيؤدي اختيارُُ المُحَرِّكِ الرئيسي كمُحَرِّكٍ ثانوي إلى إستخدام مُحَرِّكٍ واحدٍ فقط. </string>
     <string name="tts_engine_summary">يُستخدَمُ لقِراءةِ المحتوى. إذا لم يعملِ المُحَرِّكُ المحددُ فَسَيَتِمُّ إستخدام أول مُحَرِّكٍ متاح.</string>
     <string name="timer_manager_title">إدارةُ المُؤَقِّت</string>
     <string name="use_foreground_title">حمايةُ الخلفية: </string>
     <string name="use_foreground_summary">يوصى بالتَّحَقُّق مِن هذا الخِيار إذا كانت الشاشةُ تَدْخُل في وَضْعِ السكون بشكل متكرر.</string>
-    <string name="use_speak_qq_changed_title">نُطْق رسائل الدردشة في QQ تلقائياً: </string>
-    <string name="use_speak_qq_changed_summary">يَتِمُّ نُطْق رسائل QQ الواردة تلقائياً.</string>
-    <string name="left_button_default_value">|*رفض*|*انهاء*|*إنهاء*|طلب|محو*|إغلاق*|حذف جميع الإشعارات|مسح*|حذف كل الإشعارات.|ترجيع*|*انقر مرتين للتنظيف.</string>
-    <string name="right_button_default_value">رد*|قبول|*مكبر الصوت*|تخطي الإعلان|إرسال تعليق|تقديم*</string>
+    <string name="use_speak_qq_changed_title">قِراءة رسائل الدردشة المرسلة تلقائيا: </string>
+    <string name="use_speak_qq_changed_summary">تتم قِراءة الرسائل الخاصة بنافذة الدردشة في QQ و WeChat تلقائيا. </string>
+    <string name="left_button_default_value">|*رفض*|*إنهاء*|مغادرة|Leave*|طلب|إغلاق*|محو*|مسح*|حذف جميع الإشعارات|حذف كل الإشعارات.|ترجيع*</string>
+    <string name="right_button_default_value">*مكبّر الصوت*|*مكبر الصوت*|*قبول*|تخطي الإعلان|إرسال تعليق|تقديم*</string>
     <string name="edge_gesture_title">إِيماءات الحافَّتَيْن</string>
     <string name="left_button_title">إجراءات إختصار التَّمْرير لأعلى </string>
     <string name="right_button_title">إجراءات إختصار التَّمْرير لأسفل </string>
@@ -332,7 +332,7 @@
     <string name="orientation_landscape">الوَضْعُ الأُفُقي</string>
     <string name="orientation_portrait">الوَضْعُ العمودي</string>
     <string name="use_alarm_title">الساعةُ الناطقة: </string>
-    <string name="use_alarm_summary">يَتِمُّ نُطْقُ الساعة في الوقت المحدد.</string>
+    <string name="use_alarm_summary">يَتِمُّ نُطْق الساعة في الوقت المحدد.</string>
     <string name="alarm_settings_title">إعداداتُ المنبه</string>
     <string name="url_menu_title">العناصر القابلة للتفاعُل</string>
     <string name="use_long_click_voice_input_title">إستخدام الإملاء الصوتي عند الضغط المُطَوَّل على مربعِ التَّعْديل.</string>
@@ -351,15 +351,15 @@
     <string name="action_settings_title">إعدادات الإجراءات</string>
     <string name="keep_focus_position_title">التَّرْكيزُ المُحَسَّن: يَتِمُّ تَذَكُّر موضع التَّرْكيز السابق.</string>
     <string name="download_activity_title">تنزيل موارد إضافية</string>
-    <string name="use_number_speak_title">نُطْقُ الأرقام مُفْرَدة: </string>
+    <string name="use_number_speak_title">نُطْق الأرقام مُفْرَدة: </string>
     <string name="use_input_method_gesture_title">إستخدام الإِيماءات للإكمال التلقائي أثناء الكتابة: </string>
     <string name="use_input_method_gesture_summary">يَتِمُّ إستخدام التمرير لليمين و لليسار للتَّنَقُّل بين اقتراحات الكَلِمة التالية، والتمرير لأعلى أو لأسفل لاختيار الكَلِمة المُرَكَّز عليها.</string>
     <string name="use_volume_key_move_text_title">إستخدام مفاتيحِ التَّحَكُّم بمُسْتَوى الصوت لتحريك المؤشر.</string>
-    <string name="user_text">إسمُ المستخدِم: يمكنك إنشاء إسم المستخدِم باستخدام 5 أحرف أو أكثر. ويجب أن يتألف إسم المستخدِم مِن أحرف لاتينية. </string>
-    <string name="pass_text">كلمة المرور: يمكنك إنشاء كلمة المرور باستخدام 6 أحرف أو أكثر. ويجب أن تتألف كلمة المرور مِن أحرف لاتينية أو أرقام. </string>
+    <string name="user_text">إسمُ المستخدِم: يمكنك إنشاء إسم المستخدِم باستخدام 5 أحرُف أو أكثر. ويجب أن يتألف إسم المستخدِم مِن أحرُف لاتينية. </string>
+    <string name="pass_text">كلمة المرور: يمكنك إنشاء كلمة المرور باستخدام 6 أحرُف أو أكثر. ويجب أن تتألف كلمة المرور مِن أرقام أو أحرُف لاتينية. </string>
     <string name="current_text">تَمَّ إدخال %d مِِن %d مِنَ الأحرُف</string>
     <string name="user_id_text">مُعَرِّفُ المستخدِم</string>
-    <string name="screen_on_off_settings_title">نُطْق حالة الشاشة</string>
+    <string name="screen_on_off_settings_title">حالة الشاشة</string>
     <string name="use_screen_on_speak_title">التَّنْبيهُ بفتح الشاشة</string>
     <string name="use_screen_off_speak_title">التَّنْبيهُ بِقَفْلِ الشاشة</string>
     <string name="use_accessibility_volume_title">إستخدام مُسْتَوى صوت إمكانية الوصول: </string>
@@ -370,10 +370,10 @@
     <string name="no_support">يتطلب ذلك Android %d وما فوق.</string>
     <string name="use_pinyin_speak_title">استَخدِم مُحَرِّك Pinyin عندما تكون في وَضْعِ التَّعْديل</string>
     <string name="backup_restore_settings_title">النَّسْخِ الاحتياطي والاستعادة</string>
-    <string name="backup_settings_title">حِفْظُ الإعدادات</string>
+    <string name="backup_settings_title">نَسْخُ الإعدادات</string>
     <string name="restore_settings_title">استعادةُ الإعدادات</string>
     <string name="restore_settings_summary">ستؤدي إِستعادةُ الإعداداتِ إلى مَحْوِ الإعداداتِ الحالية</string>
-    <string name="backup_settings_summary">سيؤدي حِفْظُ الإعدادات إلى مَحْوِ آخِر نَسْخ احتياطي للإعدادات</string>
+    <string name="backup_settings_summary">سيؤدي نَسْخُ الإعدادات إلى مَحْوِ آخِر نَسْخ احتياطي للإعدادات</string>
     <string name="jieshuo_bbs_title">منتدى Jieshuo: </string>
     <string name="use_symbol_speak_title">نُطْق علامات التَّرْقيم</string>
     <string name="use_cloud_label_title">مشاركةُ التَّصْنيفات: </string>
@@ -391,12 +391,12 @@
     <string name="vip_qq_kefu_summary">咨询，购买，移机，过户请务必通过认证客服</string>
     <string name="use_speak_changed_window_title">نُطْق خيارات النافذة عند تغييرها: </string>
     <string name="use_timer_sound_title">التَّنْبيهُ بالصوت: </string>
-    <string name="timer_setting_title">الساعة الناطِقة والمُؤَقِّت</string>
+    <string name="timer_setting_title">الساعةُ الناطِقةُ والمُؤَقِّت</string>
     <string name="voice_cmd_setting_title">الأوامر الصوتية</string>
     <string name="directory_cmd">Custom voice commands</string>
-    <string name="use_move_list_view_item_summary">  ٕ </string>
+    <string name="use_move_list_view_item_summary"> ٕ </string>
     <string name="add">إضافة</string>
-    <string name="re_def_msg">سيؤدي الضَغْطُ على موافِق إلى إِستعادةِ الإعداداتِ الافتراضية</string>
+    <string name="re_def_msg">سيؤدي الضَغْط على موافق إلى إِستعادةِ الإعداداتِ الافتراضية</string>
     <string name="use_double_fling_summary">快速向上滑动两步打开点击浏览模式，下滑两步自动浏览</string>
     <string name="voice_helper_use_gestures_title">تشغيلُ الوظائف. </string>
     <string name="voice_helper_use_app_gestures_title">تشغيلُ الوظائفِ الخاصةِ بالتطبيقات. </string>
@@ -407,19 +407,19 @@
     <string name="message_has_vip">هذه الوظيفةُ متاحةٌ فقط في النسخة المدفوعة.</string>
     <string name="has_vip_summary2">وظيفة %s محدودة في النسخة المجانية</string>
     <string name="voice_helper_capability_setting">المساعِد الصوتي</string>
-    <string name="use_wake_lock_pro_title">الإبقاءُ على الشاشة مفتوحةً أثناء القِراءة: </string>
-    <string name="use_wake_lock_pro_summary">يُنْصَحُ بتحديد هذا الخيار إذا لم يعمل الإعدادُ السابق.</string>
+    <string name="use_wake_lock_pro_title">الإبقاءُ على الشاشة في الوَضْع النَشِط: </string>
+    <string name="use_wake_lock_pro_summary">إذا كان الإعداد أعلاه غير صالح، يرجى تحديد هذا الخيار. </string>
     <string name="more_setting">المزيدُ مِنَ الإعدادات, </string>
     <string name="kayword">بحث</string>
-    <string name="notification_black_list_summary">لن يَتِمُّ نُطْق إشعارات المحتوى المُدْرَج في القائمة السَوْداء.</string>
+    <string name="notification_black_list_summary">لن يَتِمَّ نُطْق إشعارات المحتوى المُدْرَج في القائمة السَوْداء.</string>
     <string name="notification_while_list_summary">يَتِمُّ دائما نُطْق إشعارات المحتوى المُدْرَج في القائمة البيضاء.</string>
     <string name="system_tts_volume_title">مُسْتَوى صوت مُحَرِّكِ النظام </string>
-    <string name="notification_select_title">إعداداتُ نُطْقِ الإشعارات</string>
+    <string name="notification_select_title">إعداداتُ نُطْق الإشعارات</string>
 
     <string name="message_disable_dim_screen">الرجاء إلغاء تعتيمِ الشاشة أولاً</string>
     <string name="start_long_copy">تَمَّ بَدْءُ نَسْخ الكل. </string>
     <string name="runnimg_background">وَضْعُ تشغيل Jieshuo في الخلفية</string>
-    <string name="description">الوصف</string>
+    <string name="description">الوَصْف</string>
     <string name="gestures_description_not_found">لم يَتِمَّ العثور على ملف تعليمات الإِيماءات.</string>
     <string name="timer_date_format">yyyy.M.d. HH:mm.</string>
     <string name="to_all">%s إلى %s, إجمالي %s.</string>
@@ -429,12 +429,12 @@
     <string name="edit_text_not_found">مربعُ التَّعْديل غير متوفر.</string>
     <string name="char_mode">التَّنَقُّل بِدِقّات القِراءة</string>
     <string name="focus_mode">التَّنَقُّل بالتركيز</string>
-    <string name="auto_next">التَّصَفُّح التَّلْقائي</string>
+    <string name="auto_next">القِراءة بدءا من العنصر التالي </string>
     <string name="message_copy">تَمَّ النَسْخ</string>
     <string name="message_append">تَمَّ النَسْخُ الإضافي</string>
     <string name="text_format_settings_title">إعداداتٌ أخرى</string>
     <string name="use_text_format_first_title">قِراءةُ النص أولا عندما تكونُ في وَضْعِ الشرح: </string>
-    <string name="use_text_format_char_number_title">نُطْق أرقامِ الأحرُف: </string>
+    <string name="use_text_format_char_number_title">نُطْق أرقامِ الأحرُف اللاتينية: </string>
 
     <string name="lower_case_format">%s حَرْف %s صغير</string>
     <string name="upper_case_format">%s حَرْف %s كبير</string>
@@ -447,7 +447,7 @@
     <string name="lower_case_format_number2">%s, حَرْف %d</string>
     <string name="upper_case_format_number2">هناك أحرُف %s كبيرة, حَرْف %d</string>
 
-    <string name="use_slow_speed_title">إستخدام المحرك الثانوي عندَ التَّنَقُّل في وضع دِقّات القِراءة</string>
+    <string name="use_slow_speed_title">إستخدام المحرك الثانوي بمعدل سرعة أبطأ عندَ نُطْق الساعة والتَّنَقُّل في وَضْع دِقّات القِراءة</string>
     <string name="has_vip_summary_gesture">إِيماءاتُ التَّمْرير لليمين، و لل يسار، و للأعلى، و لِل أَسْفَل لا يمكن تخصيصها في النسخة المجانية.</string>
     <string name="message_has_vip_loop_click">النَّقَراتُ المتأخرةُ غيرُ متاحةٍ في النُسْخةِ المجانية.</string>
 
@@ -480,7 +480,7 @@
     <string name="command_gesture_help2">تعليماتُ الإِيماءات</string>
     <string name="command_virtual_screen">الشاشةُ الافتراضية</string>
     <string name="command_play_control">التَّحَكُّم في التَّشْغيل</string>
-    <string name="command_read_mode">قِراءةُ المَقالةِ الرئيسية</string>
+    <string name="command_read_mode">وَضْع القِراءة </string>
     <string name="command_verbatim_speak">التَّنَقُّل بِدِقّات القِراءة</string>
     <string name="command_verbatim_speak2">تهجئةُ النص</string>
     <string name="command_to_previous_focus">العنصرُ السابق</string>
@@ -489,19 +489,19 @@
     <string name="command_to_next_page">الصفحةُ التالية</string>
     <string name="command_to_previous_scroll">التَّمْرير للخَلْف</string>
     <string name="command_to_next_scroll">التَّمْرير للأمام</string>
-    <string name="command_to_previous_progress">خفض مستوى شريط التمرير</string>
-    <string name="command_to_next_progress">رفع مستوى شريط التمرير</string>
-    <string name="command_lower_volume">خفض مستوى الصوت</string>
-    <string name="command_raise_volume">رفع مستوى الصوت</string>
+    <string name="command_to_previous_progress">خفض مُسْتَوى شريط التمرير</string>
+    <string name="command_to_next_progress">رفع مُسْتَوى شريط التمرير</string>
+    <string name="command_lower_volume">خفض مُسْتَوى الصوت</string>
+    <string name="command_raise_volume">رفع مُسْتَوى الصوت</string>
     <string name="command_now_time">الوقت الحالي</string>
     <string name="command_timer_mode">المُؤَقِّت</string>
     <string name="command_timer_start">تشغيلُ المُؤَقِّت</string>
     <string name="command_quick_mode">التَّصَفُّح السريع</string>
-    <string name="command_auto_next">التَّصَفُّح التَّلْقائي</string>
+    <string name="command_auto_next">القِراءة بدءا من العنصر التالي </string>
     <string name="command_auto_speak">القِراءة التَّلْقائية</string>
 
     <string name="command_copy">نسخ</string>
-    <string name="command_append_copy">نسخ اضافي</string>
+    <string name="command_append_copy">نسخ إضافي</string>
     <string name="command_paste">لصق</string>
 
     <string name="raw_swipe_down">الإزاحةُ إلى الْأَسْفَل</string>
@@ -516,8 +516,8 @@
     <string name="node_mode">تَصَفُّحُ العُقَد</string>
     <string name="ignore_battery">الرجاء السماحُ للتطبيق بتجاهُلِ إعداداتِ تحسينِ البطارية.</string>
     <string name="overlay_window">السماح بالظهور أعلى التطبيقات الأخرى.</string>
-    <string name="opened">, قيد التَّشْغيل</string>
-    <string name="closed">, قيد الإيقاف</string>
+    <string name="opened">, قَيْدُ التَّشْغيل</string>
+    <string name="closed">, قَيْدُ الإيقاف</string>
     <string name="checked">, محدد</string>
     <string name="unchecked">, غير محدد</string>
     <string name="page_from_to">صفحة %d مِن %d</string>
@@ -525,7 +525,7 @@
     <string name="error_try_again">حدث خطأ. الرجاء المحاولة مرة أخرى</string>
     <string name="swipe_right">التَّمْرير لليمين, </string>
     <string name="swipe_left">التَّمْرير لل يسار, </string>
-    <string name="long_clicked"> </string>
+    <string name="long_clicked"> ٕ </string>
     <string name="notification_from">إشعار جديد مِن %s</string>
     <string name="progress">مُسْتَوى شريط التَّقَدُّم: %d بالمئة.</string>
     <string name="item_current_count">%d مِن %d</string>
@@ -552,10 +552,10 @@
     <string name="message_has_vip_read_mode">وَضْعُ قِراءة الرواية غير متاح في النسخة المجانية</string>
     <string name="message_enabled_read_mode">تَمَّ الخروجُ مِن وَضْعِ القِراءة</string>
     <string name="message_long_copyed">تَمَّ نَسْخ %d مِنَ العناصر.</string>
-    <string name="message_read_mode_enabled">الدخولُ إلى وَضْعِ القِراءة,</string>
+    <string name="message_read_mode_enabled">تَمَّ الدخولُ إلى وَضْعِ القِراءة,</string>
     <string name="message_timer_mode_enabled">تَمَّ تشغيلُ المُؤَقِّت</string>
     <string name="message_clean">تَمَّ مَحْوُ النص</string>
-    <string name="message_clean_error">فشل مَحْوِ النص</string>
+    <string name="message_clean_error">فَشِلَ مَحْوُ النص</string>
     <string name="message_edit_text_not_found">مربع التَّعْديل غير متوفر</string>
 
 
@@ -590,20 +590,20 @@
     <string name="command_node_mode">تَصَفُّح العُقْدة</string>
     <string name="command_to_home">الشاشة الرئيسية</string>
     <string name="command_to_back">رجوع</string>
-    <string name="command_long_edit">التَّعْديلُ المُتَقَدِّم للنص</string>
-    <string name="command_all_speak">قِراءة الشاشة كامِلَةً </string>
+    <string name="command_long_edit">تعديل النص </string>
+    <string name="command_all_speak">قِراءة الشاشة الحالية </string>
     <string name="command_all_speak2">قِراءة كل شيء</string>
-    <string name="command_all_select"> قائمةُ التحديد المُتَقَدِّم </string>
+    <string name="command_all_select">قائمةُ التحديد المتعدد </string>
     <string name="command_voice_helper">المساعِد الصوتي</string>
-    <string name="command_voice_input">الاملاء الصوتي</string>
+    <string name="command_voice_input">الإملاء الصوتي</string>
     <string name="command_ocr">التَّعَرُّف على الصورة</string>
-    <string name="command_ocr_text">التَّعَرُّف على النص</string>
+    <string name="command_ocr_text">التَّعَرُّف على نص في صورة</string>
     <string name="camera_title">كاميرا Jieshuo</string>
-    <string name="command_disable_touch">تعليق الإستكشاف باللمس</string>
-    <string name="command_disable_feedback">تعليق Jieshuo</string>
-    <string name="command_to_notifications">فتح شريط الاشعارات</string>
-    <string name="command_notifications">قِراءة شريط الإشعارات</string>
-    <string name="command_battery_level">مستوى البطاريه</string>
+    <string name="command_disable_touch">تعليق الإستكشاف باللمس مؤقتا</string>
+    <string name="command_disable_feedback">تعليق Jieshuo مؤقتا </string>
+    <string name="command_to_notifications">فتح شريط الإشعارات</string>
+    <string name="command_notifications"> نُطْق شريط الإشعارات</string>
+    <string name="command_battery_level">مُسْتَوى البطاريه</string>
     <string name="command_battery">طاقه البطاريه</string>
     <string name="command_quick_menu"> قائمةُ إِيماءات التطبيق الحالي, </string>
     <string name="command_gestures_edit">تخصيص إِيماءات التطبيق الحالي</string>
@@ -705,47 +705,47 @@
     <string name="fingerprint_gesture_setting">إِيماءات بصمة الإِصْبَع</string>
     <string name="fingerprint_gesture_setting_summary">هذه الوظيفة مدعومةٌ فقط مِن Android 8.</string>
     <string name="use_fingerprint_gesture_title">استَخدِم الإِيماءاتِ التي يَتِمُّ إجراؤها على قارئ بصمات الأصابع: </string>
-    <string name="fingerprint_left_gesture_value_default">رجوع</string>
-    <string name="fingerprint_right_gesture_value_default">النَّقْر</string>
-    <string name="fingerprint_up_gesture_value_default">العنصرُ السابق</string>
-    <string name="fingerprint_down_gesture_value_default">العنصرُ التالي</string>
-    <string name="command_supper_mode">التَّنَقُّل المُفَصَّل.</string>
-    <string name="command_ocr_focus">المسح الضَّوْئي للعنصر المُرَكَّز عَلَيْهِ.</string>
+    <string name="fingerprint_left_gesture_value_default">عنصر التَّنَقُّل التالي</string>
+    <string name="fingerprint_right_gesture_value_default">عنصر التَّنَقُّل السابق</string>
+    <string name="fingerprint_up_gesture_value_default">نوع التَّنَقُّل السابق</string>
+    <string name="fingerprint_down_gesture_value_default">نوع التَّنَقُّل التالي</string>
+    <string name="command_supper_mode">التَّنَقُّل المُفَصَّل</string>
+    <string name="command_ocr_focus">التَّعَرُّف على العنصر المُرَكَّز عَلَيْهِ.</string>
     <string name="navi">navigation</string>
-    <string name="unknown_index_title">نُطْق رقم عنصر التَّحَكُّم غير المُسمى: </string>
-    <string name="unknown_index_summary">يَتِمُّ نُطْق رقمِ العنصر المُرَكَّز عَلَيْهِ حاليا، حتى إذا لم يكن للعنصر تَسْمِيَةٌ أو مُعَرِّف.</string>
+    <string name="unknown_index_title">نُطْق رقم العنصر غير المُسمى: </string>
+    <string name="unknown_index_summary">يَتِمُّ نُطْق رقمِ العنصر المُرَكَّز عَلَيْهِ، حتى إذا لم يكن للعنصر تَسْمِيَة. </string>
     <string name="alarm_start_hour_title">وقت بدء التَّنْبيه</string>
     <string name="alarm_end_hour_title">وقت انتهاء التَّنْبيه</string>
     <string name="command_virtual_navigation">التَّنَقُّل الافتراضي</string>
     <string name="voice_helper_use_click_title">تفعيلُ العنصر المذكور مباشرةً: </string>
     <string name="voice_helper_use_app_title">فتح التَّطْبيق المذكور مباشرةً: </string>
-    <string name="voice_helper_use_app_summary">يمكنُكَ فتح التَّطْبيق بمجرد قول اسمه. إذا تَمَّ تعطيل هذا الخِيار فَقُل "فتح ثُمَّ اسم التَّطْبيق" لفتح التَّطْبيق المحدد.</string>
-    <string name="voice_helper_use_click_summary">يمكنُكَ تفعيل العنصر بمجرد قول اسمه. إذا تَمَّ تعطيل هذا الخِيار فَقُل "تفعيل ثُمَّ اسم العنصر" لتفعيل العنصر المحدد.</string>
+    <string name="voice_helper_use_app_summary">يمكنُكَ فتح التَّطْبيق بمجرد قول اسمه. إذا تَمَّ إيقاف هذا الخِيار فَقُل "فتح ثُمَّ اسم التَّطْبيق" لفتح التَّطْبيق المحدد.</string>
+    <string name="voice_helper_use_click_summary">يمكنُكَ تفعيل العنصر بمجرد قول اسمه. إذا تَمَّ إيقاف هذا الخِيار فَقُل "تفعيل ثُمَّ اسم العنصر" لتفعيل العنصر المحدد.</string>
     <string name="edge_gesture_width_title">نِطَاقُ الزِّنَاد: </string>
     <string name="use_double_edge_gesture_summary">使用边缘菜单将不能使用边缘手势的自定义功能</string>
-    <string name="left_edge_gesture_items_title">تخصيصُ القائمةِ الْيُسْرى</string>
-    <string name="right_edge_gesture_items_title">تخصيصُ القائمةِ الْيُمْنى</string>
+    <string name="left_edge_gesture_items_title">تخصيص قائمة الحافَّة الْيُسْرى</string>
+    <string name="right_edge_gesture_items_title">تخصيص قائمة الحافَّة الْيُمْنى</string>
     <string name="multi_menu_items_title">تخصيصُ القائمة المتعددة الأعمدة</string>
     <string name="main_menu_items_title">تخصيصُ القائمة العامة</string>
-    <string name="use_edge_gesture_menu_title">إستخدام إصبع واحد لقائمةِ الحافَّة: </string>
-    <string name="use_left_edge_gesture_quick_menu_title">إستخدام الإِيماءاتِ الخاصةِ بالتَّطْبيقات في القائمة الْيُسْرى.</string>
-    <string name="use_small_filter_title">تصفيةُ العناصرِ غَيْرِ المرغوبِ فيها: </string>
+    <string name="use_edge_gesture_menu_title">إستخدام إصبعٍ واحد لقائمةِ الحافَّة: </string>
+    <string name="use_left_edge_gesture_quick_menu_title">إستخدام حُزَم إِيماءات التَّطْبيق الحالي في قائمة الحافة الْيُسْرى.</string>
+    <string name="use_small_filter_title">تصفيةُ العناصر غير الضرورية في عرض الويب. </string>
     <string name="jieshuo_bbs_summary">يمكنُكَ التَّحَدُّث حول Jieshuo.</string>
-    <string name="voice_recognizer_title">إختر مُحَرِّك التَّعَرُّف: </string>
+    <string name="voice_recognizer_title">مُحَرِّك التَّعَرُّف: </string>
     <string name="use_text_format_char_upper_title">نُطْق الأحرُف الكبيرة: </string>
     <string name="voice_helper_media_mute_mode_title">كَتْمُ صوت الوسائط عند تفعيل المساعِدِ الصوتي: </string>
     <string name="trans_lang_to_title">التَّرْجمةُ إلى: </string>
-    <string name="recognizer_lang_title">إختر لغة التَّحَدُّث إلى المساعِدِ الصوتي: </string>
+    <string name="recognizer_lang_title">لغة التَّحَدُّث إلى المساعِدِ الصوتي: </string>
     <string name="float_menu_items_title">تخصيصُ القائمة العائمة</string>
     <string name="use_float_menu_title">إستخدام القائمة العائمة</string>
-    <string name="tts_scale_title">سرعة مُضاعَفة</string>
-    <string name="auto_previous">التَّصَفُّح التَّلْقائي العكسي</string>
+    <string name="tts_scale_title">سرعة مُضاعَفة: </string>
+    <string name="auto_previous">القِراءة بدءا من العنصر السابق </string>
     <string name="code_help_title">مرجع API الخاص بِ Jieshuo</string>
-    <string name="sign_up">التَّسْجيل</string>
+    <string name="sign_up">إنشاء حساب</string>
     <string name="login">تسجيلُ الدخول</string>
     <string name="back">رجوع</string>
     <string name="error">خطأ</string>
-    <string name="login_done">تَمَّ تسجيلُ الدخول بنجاح</string>
+    <string name="login_done">نَجَحَ تسجيلُ الدخول </string>
     <string name="sign_done">تَمَّ التَّسْجيل بنجاح</string>
     <string name="directory_timer">Timer</string>
     <string name="timer_tags_items_title">إدارة علامات المُؤَقِّت</string>
@@ -782,7 +782,7 @@
     <string name="hint_double_click_activated">, النَّقْر مَرَّتَيْن للتَّفْعيل.</string>
     <string name="hint_node_move">, التَّمْرير لل يسار: العُقْدة السابقة. التَّمْرير لليمين: العُقْدة التالية. التَّمْرير لل أَسْفَل: العُقْدة الفرعية. التَّمْرير للأعلى: العُقْدة الرئيسية.</string>
     <string name="date_formater_min">m\'مِنَ الدقائق\'</string>
-    <string name="touch_mode_enabled">تَمَّ تفعيل الإستكشاف باللمس.</string>
+    <string name="touch_mode_enabled">تَمَّ إستئناف الإستكشاف باللمس.</string>
     <string name="custom">مخصص</string>
 
     <string name="create_gesture">إنشاءُ حُزمةِ إِيماءاتِ عامة.</string>
@@ -813,7 +813,7 @@
     <string name="move_to_down">نَقْل إلى الْأَسْفَلْ </string>
     <string name="delete">حذف</string>
     <string name="select">تحديد</string>
-    <string name="rename">إعادةُ التَّسْمِية</string>
+    <string name="rename">إعادة تسمية</string>
     <string name="func_manager">إدارةُ الوظائف</string>
     <string name="func_create">إنشاء وظيفة. </string>
     <string name="waiting">الرجاء الانتظار</string>
@@ -821,25 +821,25 @@
     <string name="auto_click">نَقْر تلقائي</string>
     <string name="insert">إدراج %s.</string>
     <string name="edit_button">أَدْخِل قائمةَ الأزرار (واحدا في كل سَطْر).</string>
-    <string name="use_upper_speak_title">نُطْقُ الأحرُفِ الكبيرةِ عندَ التَّنَقُّل في لوحة المفاتيح: </string>
-    <string name="system_voice_recognizer_title">إختر مُحَرِّكَ التَّعَرُّف على الكلام: </string>
+    <string name="use_upper_speak_title">نُطْق الأحرُفِ الكبيرةِ عندَ التَّنَقُّل في لوحة المفاتيح: </string>
+    <string name="system_voice_recognizer_title">مُحَرِّك التَّعَرُّف على الكلام: </string>
     <string name="system_voice_recognizer_summary">هذا الإعدادُ يكونُ صالحاً فقط عندما يَتِمُّ اختيارُ مُحَرِّكِ النظام مُحَرِّكا للتَعَرُّف.</string>
     <string name="msg_no_found">غير متوفر.</string>
     <string name="msg_canceled">تَمَّ الإلغاء.</string>
     <string name="voice_cmd_phone_to">اتصل بِ</string>
     <string name="voice_cmd_call">اتصال</string>
-    <string name="voice_cmd_send">ارسال</string>
+    <string name="voice_cmd_send">إرسال</string>
     <string name="open">فتح</string>
     <string name="voice_cmd_uninstall">الغاء تثبيت</string>
     <string name="voice_cmd_install">تثبيت</string>
     <string name="voice_cmd_input">اكتب</string>
-    <string name="voice_cmd_search">ابحث</string>
-    <string name="camera_guide">وَضْعُ التَّعَرُّف الفوري.</string>
-    <string name="camera_tag">التَّعَرُّف على المشهد.</string>
+    <string name="voice_cmd_search">أَدْخِل نصا أو جزءا منه </string>
+    <string name="camera_guide">التقاط صورة</string>
+    <string name="camera_tag">وَصْف المشهد.</string>
     <string name="camera_ocr">التَّعَرُّف على النص.</string>
     <string name="camera_face">التَّعَرُّف على الوجوه</string>
     <string name="camera_animal">التَّعَرُّف على الحيوانات</string>
-    <string name="camera_plant">التَّعَرُّف على النباتات.</string>
+    <string name="camera_plant">التَّعَرُّف على النباتات </string>
     <string name="camera_currency">التَّعَرُّف على النقود.</string>
     <string name="camera_ingredient">التَّعَرُّف على الفواكه والخضراوات.</string>
     <string name="split_char">الأحرُف</string>
@@ -851,7 +851,7 @@
     <string name="msg_text_changed">تَمَّ تعديل النص</string>
     <string name="no_save">إلغاء الحفظ</string>
 
-    <string name="use_web_type_move_title">التَّنَقُّل حسب نوع عنصر التحكم في عرض الويب.</string>
+    <string name="use_web_type_move_title">استخدام التَّنَقُّل حسب النوع في عرض الويب. </string>
     <string name="pref_donate_alipay">يمكنك الإشتراك في النسخة المدفوعة بواسطة Alipay لدعم تطوير Jieshuo.</string>
     <string name="pref_donate_paypal">يمكنك الإشتراك في النسخة المدفوعة بواسطة PayPal لدعم تطوير Jieshuo.</string>
     <string name="menu_settings_title">قوائم Jieshuo</string>
@@ -862,7 +862,7 @@
     <string name="downloaded">التَّنْزيلات</string>
     <string name="no_login">أنت لم تقم بتسجيل الدخول.</string>
     <string name="no_vip">أنت لم تقم بالإشتراك في النسخة المدفوعة مِن Jieshuo!</string>
-    <string name="need_vip">إذا كنتَ ترغب بالإشتراك في النسخة المدفوعة، الرجاء التَّواصُل مع مُمَثِّلي خدمة العُمَلاء.</string>
+    <string name="need_vip">إذا كُنتَ ترغب بالإشتراك في النسخة المدفوعة، الرجاء التَّواصُل مع مُمَثِّلي خدمة الدعم.</string>
     <string name="check_read_phone_state_permission">التَّحَقُّق مِن صلاحية الأُذونات.</string>
 
     <string name="message_timer_mode_disabled">تَمَّ إيقاف المُؤَقِّت، المدة: %s, الساعةُ الآن %s</string>
@@ -870,8 +870,8 @@
     <string name="camera_left_up">الجزء الأيسر للأعلى</string>
     <string name="camera_hold_posture">ثَبِّتِ الوَضْعَ الحالي لالتقاط الصورة</string>
     <string name="camera_hold_posture_have_face">ثَبِّتِ الوَضْعَ الحالي لالتقاط الصورة, هناك %d مِنَ الوجوه</string>
-    <string name="camera_lower_left_hand">أَخْفِضِ اليَدَ اليُسرى</string>
-    <string name="camera_raise_left_hand">ارفع اليَدَ اليُسرى</string>
+    <string name="camera_lower_left_hand">أَخْفِضِ يدك </string>
+    <string name="camera_raise_left_hand">ارفع يدك </string>
     <string name="camera_top_up">القسم العُلْوي للأعلى</string>
     <string name="camera_screen_up">الشاشة للأعلى</string>
     <string name="camera_screen_down">الشاشة لل أَسْفَلْ </string>
@@ -884,26 +884,26 @@
     <string name="camera_bottom_up">القسم السُفْلي للأعلى</string>
 
     <string name="use_text_format_read_word_title">نُطْق الأحرُف الصوتية</string>
-    <string name="restore">استعادةُ النَسْخ الاحتياطي</string>
+    <string name="restore">استعادة</string>
     <string name="backup">النَسْخُ الاحتياطي</string>
     <string name="directory_camera">Camera</string>
     <string name="game_mode_title">وَضْعُ اللَّعِب: </string>
-    <string name="game_mode_summary">ضَعِ التَّطْبيقَ في وَضْعِ اللَّعِب لتعطيلِ الإِيماءاتِ تلقائياً أثناء استخدامه.</string>
-    <string name="msg_backuped">تَمَّ إنشاء النسخة الاحتياطية.</string>
+    <string name="game_mode_summary">ضَعِ التَّطْبيقَ في وَضْعِ اللَّعِب لإيقاف الإِيماءاتِ تلقائيا أثناء استخدامه. </string>
+    <string name="msg_backuped">تَمَّ إنشاء النَسْخ الاحتياطي.</string>
     <string name="msg_items">%d مِنَ العناصر.</string>
     <string name="msg_recognition_results">نتائج التَّعَرُّف</string>
     <string name="edit_mode">وَضْعُ التَّعْديل</string>
     <string name="use_dpad_key_title">إستخدام مفاتيح الأَسهُم لنقل التَّرْكيز: </string>
     <string name="ocr_engine_title">مُحَرِّكُ المَسْحِ الضَّوْئي للتَّعَرُّف على الأحرُف: </string>
-    <string name="manager_title">إدارةُ الحافِظة</string>
+    <string name="manager_title">إدارةُ العناصر</string>
     <string name="msg_battery_full">اكْتَمَلَ شحن البطارية.</string>
     <string name="invite_code">رمز الدعوة: </string>
     <string name="msg_supper_mode">وَضْعُ التَّنَقُّل المُفَصَّل يحصل على محتوى أكثر تركيزاً.</string>
-    <string name="msg_enabled_supper_mode">وَضْعُ التَّنَقُّل المُفَصَّل, قَيْدُ التَّشْغيل</string>
-    <string name="msg_disabled_supper_mode">وَضْعُ التَّنَقُّل المُفَصَّل, قَيْدُ الإيقاف</string>
-    <string name="msg_enabled_supper_mode_error">فَشَل في تشغيلِ وَضْعِ التَّنَقُّل المُفَصَّل!</string>
-    <string name="msg_disabled_supper_mode_error">فَشَل في إيقافِ وَضْعِ التَّنَقُّل المُفَصَّل!</string>
-    <string name="msg_backup_done">سَيَتِمُّ حِفْظُ الإعدادات في مُجَلَّد النَسْخ الاحتياطي.</string>
+    <string name="msg_enabled_supper_mode"> تَمَّ تفعيل التَّنَقُّل المُفَصَّل </string>
+    <string name="msg_disabled_supper_mode">تَمَّ إيقاف التَّنَقُّل المُفَصَّل </string>
+    <string name="msg_enabled_supper_mode_error">فَشِلَ تشغيل وَضْعِ التَّنَقُّل المُفَصَّل!</string>
+    <string name="msg_disabled_supper_mode_error">فَشِلَ إيقاف وَضْعِ التَّنَقُّل المُفَصَّل!</string>
+    <string name="msg_backup_done">سَيَتِمُّ نَسْخُ الإعدادات في مُجَلَّد النَسْخ الاحتياطي.</string>
     <string name="msg_restored">تَمَّت استعادةُ الإعدادات.</string>
     <string name="backup_done">اكْتَمَلَ النَسْخ الاحتياطي.</string>
     <string name="msg_gestures_empty">مُجَلَّدُ الإِيماءاتِ فارغ</string>
@@ -917,45 +917,45 @@
     <string name="msg_backups_empty">مُجَلَّدُ النَسْخ الاحتياطي فارغ</string>
     <string name="msg_cmds_empty">مُجَلَّدُ الأوامر الصوتية فارغ</string>
     <string name="close">إغلاق</string>
-    <string name="multi_click">وَضْعُ النَّقْرِ المتعدد</string>
+    <string name="multi_click">وَضْع النوافذ المتعددة</string>
     <string name="command_raw_tap">وَضْعُ التَّأْشير</string>
-    <string name="msg_enabled_raw_tap">وَضْعُ التَّأْشير, قَيْدُ التَّشْغيل. إِلْمِس الشاشة مرتين خلال ثانية واحدة لتفعيل العنصر المُرَكَّز عَلَيْهِ.</string>
-    <string name="msg_disabled_raw_tap">وَضْعُ التَّأْشير, قَيْدُ الإيقاف</string>
+    <string name="msg_enabled_raw_tap"> تَمَّ تفعيل وَضْعُ التَّأْشير. إِلْمِس الشاشة مرتين خلال ثانية واحدة لتفعيل العنصر المُرَكَّز عَلَيْهِ.</string>
+    <string name="msg_disabled_raw_tap">تَمَّ إيقاف وَضْعُ التَّأْشير </string>
 
-    <string name="system_tts_scale_summary">التَّحَكُّم في درجة صوت مُحَرِّك النص إلى كلام. ملاحظة: هذه الوظيفة تجريبية وغير مستقرة للعمل على جميع المُحَرِّكات!</string>
+    <string name="system_tts_scale_summary">التَّحَكُّم في درجة صوت مُحَرِّك تحويل النص إلى كلام. ملاحظة: هذه الوظيفة تجريبية وغير مستقرة للعمل على جميع المُحَرِّكات!</string>
     <string name="send_email_title">البريد الإلكتروني: 946049229@qq.com</string>
 
     <string name="voice_helper_use_blot_title">إستخدام الدردشة الآلية: </string>
 
     <string name="message_recognition_empty">لم أفهم ما قُلْت.</string>
     <string name="voice_helper_exit">الغاء التسجيل</string>
-    <string name="voice_input_mode">وضع الاملاء الصوتي</string>
+    <string name="voice_input_mode">وَضْع الإملاء الصوتي</string>
     <string name="voice_helper_record_start">بدء التسجيل</string>
     <string name="voice_helper_record_stop">ايقاف التسجيل</string>
     <string name="voice_helper_record_message">إبدأ التَّسْجيل، تَحَدَّث بالأمر، ثُمَّ تَوَقَّف عن ذلك.</string>
     <string name="voice_helper_record_done">اكْتَمَلَ التَّسْجيل.</string>
-    <string name="msg_save_error">فشل الحفظ.</string>
+    <string name="msg_save_error">فَشِلَ الحفظ.</string>
     <string name="msg_has_vip_voice_cmd">لا يمكنُ إستخدام الأوامر الصوتية في الإصدار المجاني!</string>
     <string name="cmd_create">إنشاء أمر صوتي</string>
     <string name="cmd_manager">إدارة الأوامر الصوتية</string>
     <string name="note_tile">تدوينُ الملاحظات على السَحابة</string>
     <string name="message_count_out">الحجمُ يتجاوز الحد المسموح به.</string>
     <string name="cloud_backup_restore_settings_title">سَحابةُ النَسْخ الاحتياطي</string>
-    <string name="cloud_backup_settings_title">حِفْظُ الإعداداتِ على السَحابة </string>
+    <string name="cloud_backup_settings_title">نَسْخُ الإعداداتِ إلى السَحابة </string>
     <string name="cloud_restore_settings_title">إِستعادةُ الإعداداتِ مِنَ السَحابة </string>
-    <string name="cloud_backup_clipboard_title">حفظ الحافِظة على السَحابة </string>
+    <string name="cloud_backup_clipboard_title">نَسْخُ الحافِظة إلى السَحابة </string>
     <string name="cloud_restore_clipboard_title">استعادةُ الحافِظة مِنَ السَحابة </string>
-    <string name="cloud_backup_favorites_title">حفظ المُفَضَّلة على السَحابة </string>
+    <string name="cloud_backup_favorites_title">نَسْخُ المُفَضَّلة إلى السَحابة </string>
     <string name="cloud_restore_favorites_title">استعادةُ المُفَضَّلة مِنَ السَحابة </string>
-    <string name="cloud_backup_timer_title">حفظ علامات المُؤَقِّت على السَحابة </string>
+    <string name="cloud_backup_timer_title">نَسْخ علامات المُؤَقِّت إلى السَحابة </string>
     <string name="cloud_restore_timer_title">استعادة علامات المُؤَقِّت مِنَ السَحابة </string>
-    <string name="cloud_backup_label_title">حفظ التَّصْنيفات المخصصة على السَحابة </string>
+    <string name="cloud_backup_label_title">نَسْخُ التَّصْنيفات المخصصة إلى السَحابة </string>
     <string name="cloud_restore_label_title">استعادةُ التَّصْنيفات المخصصة مِنَ السَحابة </string>
-    <string name="cloud_backup_gesture_title">حفظ حُزَم الإِيماءاتِ المخصصة على السَحابة </string>
+    <string name="cloud_backup_gesture_title">نَسْخ حُزَم الإِيماءاتِ المخصصة إلى السَحابة </string>
     <string name="cloud_restore_gesture_title">استعادةُ حُزَم الإِيماءاتِ المخصصة مِنَ السَحابة </string>
-    <string name="cloud_backup_sound_title">حفظ الحُزَم الصوتية على السَحابة </string>
+    <string name="cloud_backup_sound_title">نَسْخُ الحُزَم الصوتية إلى السَحابة </string>
     <string name="cloud_restore_sound_title">استعادةُ الحُزَم الصوتية مِنَ السَحابة </string>
-    <string name="cloud_backup_cmd_title">حفظ الأوامر الصوتية على السَحابة </string>
+    <string name="cloud_backup_cmd_title">نَسْخُ الأوامر الصوتية إلى السَحابة </string>
     <string name="cloud_restore_cmd_title">استعادةُ الأوامر الصوتية مِنَ السَحابة </string>
     <string name="ocr_baidu_secret_title">المِفتاح السِرّي: </string>
     <string name="ocr_baidu_key_title">مِفتاح التَّطْبيق</string>
@@ -963,7 +963,7 @@
     <string name="ocr_baidu_setting">مُحَرِّك Baidu للتَعَرُّف على الأحرُف</string>
     <string name="use_ocr_baidu_title">استَخدِم مُحَرِّك Baidu الخاص بك: </string>
     <string name="use_ocr_baidu_summary">استَخدِم واجهة التَّعَرُّف الخاصة بك للتَعَرُّف على النص بكفاءة. لمزيد مِنَ المعلومات، الرجاء التَّسْجيل في https://ai.baidu.com.</string>
-    <string name="use_ocr_baidu_help">الرجاء التَّسْجيل في https://ai.baidu.com للتَعَرُّف على النصوص، الصُوَر، النباتات، الحيوانات، الفواكه والخضراوات، والنقود.</string>
+    <string name="use_ocr_baidu_help">الرجاء التَّسْجيل في https://ai.baidu.com للتَعَرُّف على النصوص، الصُوَر، النَّباتات، الحيوانات، الفواكه والخضراوات، والنقود.</string>
     <string name="ocr_setting">المَسْح الضَّوْئي للأحرُف</string>
     <string name="ocr_lang_title">لغةُ التَّعَرُّف: </string>
     <string name="ocr_lang_summary">تعملُ فقط عند اختيارِ مُحَرِّك Tencent Cloud.</string>
@@ -973,7 +973,7 @@
     <string name="add_from_virtual_list">إضافة مِن خلال النص الممسوح ضَوْئِيّاً </string>
     <string name="use_ocr_qq_title">مُحَرِّك Tencent cloud للتَعَرُّف على الأحرُف.</string>
     <string name="ocr_lang_enteries">مزيج مِنَ الصينية والإنجليزية | التَّعَرُّف التَّلْقائي | اليابانية | الكورية | الإسبانية | الفرنسية | الألمانية | البرتغالية | الفيتنامية | لغة الملايو | الروسية | الإيطالية | الهولندية | السويدية | الفنلندية | الدنماركية | الناروجية | الهنغارية | التايلاندية | اللاتينية</string>
-    <string name="cmd_description">الوصف (يجب أن لا يَقِلّ عن 15 حَرْفاً)</string>
+    <string name="cmd_description">الوَصْف (يجب أن لا يَقِلّ عن 15 حَرْفاً)</string>
     <string name="timer_run_title">جَدْوَلة المهام</string>
     <string name="msg_has_vip_timer_run">النسخة المجانية من Jieshuo تدعم فقط إضافة مهمة مُجَدْوَلة واحدة</string>
     <string name="use_web_view_name_title">نُطْق نوع العنصر في الصفحة: </string>
@@ -999,20 +999,20 @@
     <string name="check_notification_permissions_title">التحقق مِن أُذونات الإشعارات. </string>
     <string name="denied_permissions_title">تَمَّ رفض الإذن. </string>
     <string name="welcome_msg">اختَر أحد الخيارات الثلاثة: مساعد الإعداد: يتيح لك ضبط بعض الإعدادات الأساسية لمساعدتك في بدء التشغيل بشكل سريع. انقِر فوق عَرْض الأُذونات للاطلاع على الأُذونات المختلفة. أو الخروج لمغادرة المساعد. </string>
-    <string name="use_left_right_msg">يدعم Jieshuo وضعين مختلفَين للتَّنَقُّل. الافتراضي هو إستخدام إِيماءات التمرير  لأعلى و لأسفل كإِيماءات افتراضية للتَنَقُّل. والبديل هو إستخدام إِيماءات التمرير لليمين و لليسار كإِيماءات بديلة للتَنَقُّل.</string>
-    <string name="usage_hints_msg">تساعد تَلْميحات الإستخدام المستخدِم المبتدئ في التَّعَرُّف على إستخدام Jieshuo. إذا كانت هذه هي المرة الأولى التي تستخدم فيها هاتفك المحمول، فإننا نوصي بتفعيل هذا الخيار للحصول على تجربة سلسة. وإذا كنت من ذوي الخبرة، فإننا نوصي بإلغاء تفعيل هذا الخيار للحصول على تجربة أكثر إيجازا.</string>
-    <string name="use_list_index_msg">يساعد نُطْق العنصر المُرَكَّز عليه في القائمة على معرفة مدى القائمة وموقع العنصر فيها. إلّا أنّ هذا يجعل نُطْق المعلومات أكثر، الأمر الذي قد يُشَكِّل إزعاجا للبعض.</string>
-    <string name="notification_speak_msg">يتيح نُطْق الإشعارات لقارئ الشاشة Jieshuo قِراءة الإشعارات الواردة. قم بتفعيل هذا الخيار مِن أجل قراءة كافة الإشعارات. وإن لم ترغب في الإزعاج، نوصي بإلغاء تفعيل هذا الخيار.</string>
-    <string name="use_single_tts_msg">حدد ما إذا كنت تريد إستخدام اثنين من محركات تحويل النص إلى كلام للقراءة. سيتم إستخدام المحرك الأول لقراءة المعلومات الرئيسية مثل التركيز الحالي وأشياء أخرى مهمة. وسيتم إستخدام المحرك الثاني لقراءة الإشعارات وأية رسائل مهمة أخرى مثل الرسائل المنبثقة. </string>
-    <string name="use_left_right_ok">إستخدام إِيماءات التمرير لليمين و لليسار للتَنَقُّل.</string>
-    <string name="use_left_right_no">إستخدام إِيماءات التمرير لأعلى و لأسفل للتَنَقُّل.</string>
+    <string name="use_left_right_msg">يدعم Jieshuo وَضْعَيْن مختلفَين للتَّنَقُّل. الافتراضي هو إستخدام إِيماءات التمرير  لأعلى و لأسفل كإِيماءات افتراضية. والبديل هو إستخدام إِيماءات التمرير لليمين و لليسار كإِيماءات بديلة.</string>
+    <string name="usage_hints_msg">تساعد تَلْميحات الإستخدام المستخدِم المبتدئ في التَّعَرُّف على إستخدام Jieshuo. إذا كانت هذه هي المرة الأولى التي تستخدم فيها هاتفك المحمول، فإننا نوصي بتفعيل هذا الخيار للحصول على تجربة سلسة. وإذا كُنتَ من ذوي الخبرة، فإننا نوصي بإلغاء تفعيل هذا الخيار للحصول على تجربة أكثر إيجازا.</string>
+    <string name="use_list_index_msg">يساعد نُطْق رقم العنصر المُرَكَّز عليه في القائمة على معرفة مدى القائمة وموقع العنصر فيها. إلّا أنّ هذا يجعل نُطْق المعلومات أكثر، الأمر الذي قد يُشَكِّل إزعاجا للبعض.</string>
+    <string name="notification_speak_msg">يتيح نُطْق الإشعارات لقارئ الشاشة Jieshuo نُطْق الإشعارات الواردة. قم بتحديد هذا الخيار لنُطْق الإشعارات. وإن لم ترغب في ذلك، نوصي بإلغاء تحديد هذا الخيار. </string>
+    <string name="use_single_tts_msg">حدد ما إذا كُنتَ تريد إستخدام اثنين من محركات تحويل النص إلى كلام للقراءة. سيتم إستخدام المحرك الأول لقراءة المعلومات الرئيسية مثل التركيز الحالي وأشياء أخرى. وسيتم إستخدام المحرك الثاني لنُطْق الإشعارات وأية رسائل أخرى مثل الرسائل المنبثقة. </string>
+    <string name="use_left_right_ok">إستخدام إِيماءات التمرير لليمين و لليسار.</string>
+    <string name="use_left_right_no">إستخدام إِيماءات التمرير لأعلى و لأسفل.</string>
     <string name="usage_hints_ok">نُطْق تَلْميحات الإستخدام.</string>
     <string name="usage_hints_no">عدم نُطْق تَلْميحات الإستخدام.</string>
-    <string name="notification_speak_ok">نُطْق الإشعارات.</string>
+    <string name="notification_speak_ok"> نُطْق الإشعارات.</string>
     <string name="notification_speak_no">عدم نُطْق الإشعارات.</string>
     <string name="use_single_tts_ok">إستخدام محرك واحد.</string>
     <string name="use_single_tts_no">إستخدام مُحَرِّكَين اثنين.</string>
-    <string name="permission_title">وصف الأُذونات: </string>
+    <string name="permission_title">عرض الأُذونات: </string>
     <string name="permission_msg">راجع دليل المستخدم لمزيد من التفاصيل.</string>
     <string name="check_permissions_msg">انقِر على التالي لمنح الأُذونات الأساسية، أو قم بالنَّقْر على إغلاق للخروج. </string>
     <string name="next">التالي</string>
@@ -1025,7 +1025,7 @@
     <string name="setup_setting_not_notification_permission">تَمَّ رفض منح إذن الإشعارات.</string>
     <string name="setup_setting_notification_permission_msg">يسمح إستخدام إذن الإشعارات لقارئ الشاشة Jieshuo بالاحتفاظ برمزه في شريط الإشعارات ما يؤدي إلى تعزيز الاستقرار.</string>
     <string name="setup_setting_get_permission">الحصول على الأُذونات</string>
-    <string name="setup_setting_has_notification_permission">تَمَّ الحصول على إذن لقراءة الإشعارات.</string>
+    <string name="setup_setting_has_notification_permission">تَمَّ الحصول على إذن لنُطْق الإشعارات.</string>
     <string name="changed">تغيير.</string>
     <string name="setup_setting_not_battery_permission">تَمَّ رفض منح إذن تقييد تحسين البطارية.</string>
     <string name="setup_setting_battery_permission_msg">يساعد تقييد تحسين البطارية Jieshuo على العمل بشكل أفضل.</string>
@@ -1051,7 +1051,7 @@
     <string name="open_project">فتح مشروع</string>
     <string name="create_project">إنشاء مشروع جديد</string>
     <string name="format">تنسيق</string>
-    <string name="fix_import">استيراد ملحقات الملفات</string>
+    <string name="fix_import">استيراد إضافات الملفات</string>
     <string name="run">تشغيل</string>
     <string name="use_emoji_speak_title">نُطْق الرموز التعبيرية: </string>
     <string name="install_shortcut">إضافة إختصار إلى الشاشة الرئيسية</string>
@@ -1061,15 +1061,15 @@
     <string name="input_file_name">أَدخِل إسم الملف</string>
     <string name="input_project_name">أَدخِل إسم المشروع</string>
     <string name="use_loop_move_title">تمرير لانهائي</string>
-    <string name="message_cut">تَمَّ القص</string>
-    <string name="choice_mode_multiple">تحديد متعدد</string>
+    <string name="message_cut">تَمَّ القَصّ</string>
+    <string name="choice_mode_multiple">تحديد</string>
     <string name="add_from_grid">إضافة من خلال الشبكة</string>
     <string name="sound_settings_title">تخصيصُ الحُزمة الصوتية</string>
     <string name="sound_focus1">تأثير: التركيز الأول. </string>
     <string name="sound_focus2">تأثير: التركيز الثاني. </string>
     <string name="sound_focus3">تأثير: التركيز في لوحة المفاتيح. </string>
     <string name="sound_focus4">تأثير: لا يوجد تركيز. </string>
-    <string name="sound_focus0">تأثير: التَّنَقُّل بين عناصر قائمة الحافة. </string>
+    <string name="sound_focus0">تأثير: التَّنَقُّل بين عناصر قائمة الحافَّة. </string>
     <string name="sound_click">تأثير: النََّّقْْرْ. </string>
     <string name="sound_long_click">تأثير: الضغط المُطَوَّل. </string>
     <string name="sound_scroll_up">تأثير: التمرير للخَلْف. </string>
@@ -1082,53 +1082,53 @@
     <string name="sound_window_state">تأثير: تغيير النافذة. </string>
     <string name="sound_dialog">تأثير: فَتْح قوائم التطبيق. </string>
     <string name="sound_gesture_start">تأثير: إمساك الزناد. </string>
-    <string name="sound_gesture_end">تأثير: إختيار عنصر مِن قائمة الحافة. </string>
+    <string name="sound_gesture_end">تأثير: إختيار عنصر مِن قائمة الحافَّة. </string>
     <string name="recognition_start">تأثير: بدء التَّعَرُّف. </string>
     <string name="recognition_end">تأثير: انتهاء التَّعَرُّف. </string>
     <string name="recognition_success">تأثير: نجح التَّعَرُّف. </string>
     <string name="recognition_error">تأثير: فشل التَّعَرُّف. </string>
     <string name="recognition_cancel">تأثير: إلغاء التَّعَرُّف. </string>
-    <string name="command_quick_settings">الإعداداتُ السريعة</string>
+    <string name="command_quick_settings">الإعدادات السريعة</string>
     <string name="command_take_screenshot">لقطة شاشة</string>
     <string name="command_off_screen2">قَفْلُ الشاشة</string>
     <string name="command_power_dialog">قائمةُ إعادة تشغيل الهاتف</string>
-    <string name="use_bottom_menu_edge_gesture_summary">تقوم إِيماءة الحافة السفلى بوظائف مثل: الرجوع، والشاشة الرئيسية، والتطبيقات الحديثة، وغيرها من الوظائف. </string>
-    <string name="use_bottom_menu_edge_gesture_title">إستخدام إِيماءة الحافة السفلى: </string>
+    <string name="use_bottom_menu_edge_gesture_summary">تقوم إِيماءة الحافَّة السفلى بوظائف مثل: الرجوع، والشاشة الرئيسية، والتطبيقات الحديثة، وغيرها من الوظائف. </string>
+    <string name="use_bottom_menu_edge_gesture_title">إستخدام إِيماءة الحافَّة السفلى: </string>
     <string name="all">الكل</string>
     <string name="create_hot_key">إنشاء حُزمة إختصارات عامة. </string>
     <string name="create_app_hot_key">إنشاء حُزمة إختصارات لكل تطبيق. </string>
     <string name="hot_key">إختصارات لوحة المَفاتيح</string>
     <string name="hot_key_package_title">حُزْمَةُ الْإختصارات</string>
-    <string name="hot_key_description_title">قائمةُ باختصارات لوحة المفاتيح. </string>
+    <string name="hot_key_description_title">قائمةُ إختصارات لوحة المفاتيح. </string>
     <string name="hot_key_settings_title">إعداداتُ الْإختصارات</string>
     <string name="custom_hot_key_settings_title">إختصارات لَوْحَة المَفاتيح الخارجية. </string>
     <string name="app_hot_key_package_title">حُزَم إختصارات التطبيقات: </string>
     <string name="app_hot_key_package_summary">تشغيل أو إيقاف حُزَم الإختصارات الخاصة بالتطبيقات. </string>
-    <string name="directory_hot_key">مفتاح ساخن</string>
+    <string name="directory_hot_key">HotKeys</string>
     <string name="hot_key_summary">إِضْغَط على مفتاح الإختصار لتعيينه. الأرقام والأحرُف المنفردة غير مدعومة. </string>
     <string name="sound_timer_end">تأثير: انتهاء المُؤَقِّت. </string>
     <string name="sound_timer_start">تأثير: بدء المُؤَقِّت. </string>
-    <string name="use_scroll_list_content_title">نُطْق المحتوى أثناء التمرير</string>
-    <string name="use_view_type_move_title">التَّنَقُّل حسب نوع عنصر التَّحَكُّم: </string>
-    <string name="use_view_type_move_summary">استَخدِم إِيماءات التمرير لأعلى و لأسفل للتبديل، وإذا كان هناك تعارض مع وظيفة الإختصار لأعلى و لأسفل، فيمكنك إستخدام التخصيص لتجنب التعارض.</string>
+    <string name="use_scroll_list_content_title">نُطْق محتوى القائمة عند التمرير</string>
+    <string name="use_view_type_move_title">استخدام التَّنَقُّل حسب نوع العرض: </string>
+    <string name="use_view_type_move_summary">استَخدِم إِيماءات التمرير لأعلى و لأسفل للتبديل بين أنواع التَّنَقُّل، وإذا كان هناك تعارض مع وظيفة الإختصار لأعلى و لأسفل، فيمكنك إستخدام التخصيص لتجنب التعارض. </string>
     <string name="command_raw_double_tap">النقر المزدوج</string>
     <string name="to_previous_granularity_item">عنصر التَّنَقُّل السابق</string>
     <string name="to_next_granularity_item">عنصر التَّنَقُّل التالي</string>
     <string name="to_previous_granularity">نوع التَّنَقُّل السابق</string>
     <string name="to_next_granularity">نوع التَّنَقُّل التالي</string>
     <string name="select_granularity_mode">قائمةُ أنواع التَّنَقُّل</string>
-    <string name="web_type_move_title">إختر أنواع التَّنَقُّل في عرض الويب</string>
-    <string name="view_type_move_title">إختر أنواع التَّنَقُّل العام</string>
+    <string name="web_type_move_title">تخصيص قائمة التَّنَقُّل حسب النوع في عرض الويب </string>
+    <string name="view_type_move_title">تخصيص قائمة التَّنَقُّل حسب نوع العرض </string>
     <string name="notification_in_touch_no_speak_title">عدم نُطْق الإشعارات الواردة عند لَمْس الشاشة</string>
 
-    <string name="use_keep_type_move_title">الإحتفاظ بنوع التَّنَقُّل الحالي عند تغيير النافذة</string>
+    <string name="use_keep_type_move_title">الإحتفاظ بنوع التَّنَقُّل عند تغيير النافذة</string>
     <string name="hot_key_manager_title">إدارة إختصارات لوحة المفاتيح الخارجية</string>
     <string name="msg_hot_key_empty">مُجَلَّد إختصارات لوحة المفاتيح الخارجية فارغ</string>
-    <string name="cloud_backup_hot_key_title">حِفْظ إختصارات لوحة المفاتيح الخارجية على السَحابة</string>
+    <string name="cloud_backup_hot_key_title">نَسْخ إختصارات لوحة المفاتيح الخارجية إلى السَحابة</string>
     <string name="cloud_restore_hot_key_title">استعادة إختصارات لوحة المفاتيح الخارجية مِنَ السَحابة</string>
-    <string name="use_multi_touch_mode_title">إستخدام الإِيماءات متعددة الأصابع</string>
-    <string name="msg_added">تَمَّت إضافته</string>
-    <string name="msg_add_error">فشلت الإضافة. الرجاء المحاولة مرة أخرى</string>
+    <string name="use_multi_touch_mode_title">إستخدام الإِيماءات المتعددة الأصابع</string>
+    <string name="msg_added">تَمَّت إضافة التطبيق </string>
+    <string name="msg_add_error">فَشِلَت الإضافة. الرجاء المحاولة مرة أخرى</string>
     <string name="select_move_type_">اختيار نوع التَّنَقُّل</string>
     <string name="msg_cancel_select">إلغاء التحديد</string>
     <string name="msg_start_select">بدء التحديد</string>
@@ -1163,33 +1163,65 @@
     <string name="gesture_3_swipe_right">التمرير لليمين بثلاثة أصابع</string>
     <string name="gesture_4_swipe_right">التمرير لليمين بأربعة أصابع</string>
     <string name="msg_gesture_updated">تَمَّ تحديث الإِيماءات</string>
-    <string name="msg_favorite_added">تَمَّت الإضافة إلى المفضلة</string>
+    <string name="msg_favorite_added">تَمَّت الإضافة إلى المُفَضَّلة</string>
     <string name="msg_shared">تَمَّت المشاركة</string>
-    <string name="msg_share_error">فشلت المشاركة. الرجاء المحاولة مرة أخرى</string>
+    <string name="msg_share_error">فَشِلَت المشاركة. الرجاء المحاولة مرة أخرى</string>
     <string name="select_progress">شريط تمرير</string>
     <string name="node_changed_list_manager">إدارة مراقبة التركيز</string>
-    <string name="add_node_changed_list">مراقبة التركيز</string>
-    <string name="switch_multi_finger_gestures">إستخدام الإِيماءات متعددة الأصابع</string>
-    <string name="msg_node_changed_list_added">تَمَّت مراقبة التركيز</string>
-    <string name="msg_node_changed_list_removed">تَمَّت إزالة مراقبة التركيز</string>
-    <string name="msg_in_game_mode">تَمَّ الدخول إلى وضع اللعب</string>
-    <string name="use_accessibility_volume_fix_title">تحسين مستوى صوت إمكانية الوصول</string>
-    <string name="use_accessibility_volume_fix_summary">إذا كان مستوى صوت إمكانية الوصول يرتفع أو ينخفض فجأة فَقُم بتحديد هذا الخيار, </string>
-    <string name="msg_exit_game_mode">تَمَّ الخروج مِن وضع اللعب</string>
+    <string name="add_node_changed_list">مراقبة التركيز الحالي</string>
+    <string name="switch_multi_finger_gestures">الإِيماءات المتعددة الأصابع</string>
+    <string name="msg_node_changed_list_added">تَمَّت مراقبة التركيز الحالي </string>
+    <string name="msg_node_changed_list_removed">تَمَّت إزالة مراقبة التركيز الحالي </string>
+    <string name="msg_in_game_mode">تَمَّ الدخول إلى وَضْع اللَّعِب</string>
+    <string name="use_accessibility_volume_fix_title">تحسين مُسْتَوى صوت إمكانية الوصول</string>
+    <string name="use_accessibility_volume_fix_summary">إذا كان مُسْتَوى صوت إمكانية الوصول يرتفع أو ينخفض فجأة فَقُم بتحديد هذا الخيار, </string>
+    <string name="msg_exit_game_mode">تَمَّ الخروج مِن وَضْع اللَّعِب</string>
     <string name="privacy">سياسة الخصوصية</string>
     <string name="show_download_title">تنزيل Jieshuo</string>
-    <string name="version_msg">%s, \n حجم التنزيل: %s, \n تَمَّ التنزيل أكثر مِن %s مرة </string>
-    <string name="user_new_password">كلمة المرور الجديدة: يمكنك إنشاء كلمة المرور باستخدام 6 أحرف أو أكثر. ويجب أن تتألف كلمة المرور مِن أرقام أو أحرف لاتينية. </string>
+    <string name="version_msg">%s, \n حجم الملف: %s, \n تَمَّ التنزيل %s مرة </string>
+    <string name="user_new_password">كلمة المرور الجديدة: يمكنك إنشاء كلمة المرور باستخدام 6 أحرُف أو أكثر. ويجب أن تتألف كلمة المرور مِن أرقام أو أحرُف لاتينية. </string>
     <string name="repassword_title">تغيير كلمة المرور</string>
     <string name="msg_not_empty">لا يمكن ترك الحقل فارغا</string>
-    <string name="msg_unknown_error">خطأ غير معروف. الرجاء معاودة المحاولة لاحقا أو الإتصال بخدمة العملاء \n</string>
+    <string name="msg_unknown_error">فَشِلَ تسجيل الدخول. الرجاء المحاولة لاحقا أو الإتصال بخدمة الدعم \n</string>
     <string name="msg_timer_mode_pause">تَمَّ تعليق المُؤَقِّت مؤقتا</string>
     <string name="msg_timer_mode_resume">تَمَّ استئناف المُؤَقِّت </string>
-    <string name="msg_multi_touch_mode_enabled">تَمَّ تشغيل الإِيماءات متعددة الأصابع </string>
-    <string name="msg_multi_touch_mode_disenabled">تَمَّ إيقاف الإِيماءات متعددة الأصابع</string>
+    <string name="msg_multi_touch_mode_enabled"> تَمَّ تفعيل الإِيماءات المتعددة الأصابع </string>
+    <string name="msg_multi_touch_mode_disenabled">تَمَّ إيقاف الإِيماءات المتعددة الأصابع </string>
     <string name="activation_code_text">رمز التفعيل</string>
     <string name="activate_title">تفعيل Jieshuo</string>
     <string name="select_app">إختر تطبيقا </string>
     <string name="command_to_split_screen">تقسيم الشاشة</string>
+    <string name="edit_activity"> مُحَرِّر Jieshuo </string>
+    <string name="use_speak_key_title">نُطْق المفاتيح بصوتٍ مرتفع</string>
+    <string name="auto_speak_title">القِراءة التلقائية </string>
+    <string name="auto_speak_apps_title">القِراءة التلقائية: </string>
+    <string name="auto_speak_apps_summary">ملاحظة: لا تدعم جميع التطبيقات القِراءة التلقائية للرسائل. فمِن المُرَجَّح أن تدعم بعض التطبيقات المعروضة في القائمة </string>
+    <string name="msg_has_vip_auto_speak">يدعم للأعضاء غير المسجلين القِراءة التلقائية فقط لرسائل QQ و WeChat </string>
+    <string name="auto_speak_blacklist_title">القائمةُ السَوْداء للمحتوى: لن تَتِمَّ قِراءة  المحتوى المُدْرَج في القائمة السَوْداء تلقائيا. </string>
+    <string name="read_mode_setting">وَضْع القِراءة</string>
+    <string name="next_chapter_title">الأزرار التالية</string>
+    <string name="previous_chapter_title">الأزرار السابقة</string>
+    <string name="next_chapter_default_value">*التالي*|*التالية*</string>
+    <string name="previous_chapter_default_value">*السابق*|*السابقة*</string>
+    <string name="msg_activated">تَمَّ الإرسال. يُرجى انتظار التفعيل. إذا لم يَتِمَّ التفعيل في غضون  فترة زمنية معقولة، يُرجى الاتصال بخدمة الدعم. </string>
+    <string name="flash_light">الفلاش</string>
+    <string name="cloud_multi_backup_title">نَسْخُ الموارد إلى السَحابة</string>
+    <string name="cloud_multi_restore_title">إِستعادةُ الموارد مِنَ السَحابة</string>
+    <string name="search_engine_title">مُحَرِّك البحث</string>
+    <string name="directory_notes">Notes</string>
+    <string name="replace">استبدال</string>
+    <string name="export_file">حِفْظ في ملف</string>
+    <string name="replace_to">استبدال بِ: </string>
+    <string name="replace_regex">استبدال نمطي</string>
+    <string name="msg_replaced">تَمَّ الإستبدال</string>
+    <string name="use_touch_stop_title">إيقاف النُطْق مؤقتا أو إستئنافه عند لَمْس الشاشة</string>
+    <string name="continuous_recognition">التَّعَرُّف المستمر</string>
+     <string name="edit_dict">编辑词典</string>
+    <string name="up_volume_key_off_title">关屏状态长按音量增加键</string>
+    <string name="down_volume_key_off_title">关屏状态长按音量减小键</string>
+    <string name="use_loop_move_space_title">在焦点循环前增加空焦点提示</string>
+    <string name="use_view_type_move_mode_title">使用新的类型导航手势</string>
+    <string name="use_view_type_move_mode_summary">打开后按试图类型浏览，默认使用先上后下和先下后上切换类型，使用向左和向右切换项目，默认类型执行原快捷功能；\n关闭时使用向左或向右手势切换类型，使用向上或向下切换项目，默认类型移动焦点。</string>
+
 
 </resources>

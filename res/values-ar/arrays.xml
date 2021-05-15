@@ -104,6 +104,8 @@
         <item>@string/command_power_dialog</item>
          <item>@string/command_raw_double_tap</item>
         <item>@string/command_to_split_screen</item>
+        <item>@string/switch_multi_finger_gestures</item>
+
     </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
@@ -191,21 +193,21 @@
     </string-array>
 <string-array name="left_button">
         <item>*رفض*</item>
-        <item>*انهاء*</item>
         <item>*إنهاء*</item>
+        <item>مغادرة</item>
+        <item>Leave*</item>
         <item>طلب</item>
-        <item>محو*</item>
         <item>إغلاق*</item>
-        <item>حذف جميع الإشعارات.</item>
+        <item>محو*</item>
         <item>مسح*</item>
+        <item>حذف جميع الإشعارات.</item>
         <item>حذف كل الإشعارات.</item>
         <item>ترجيع*</item>
-        <item>*انقر مرتين للتنظيف.</item>
     </string-array>
     <string-array name="right_button">
-        <item>رد*</item>
-        <item>قبول</item>
+        <item>*مكبّر الصوت*</item>
         <item>*مكبر الصوت*</item>
+        <item>*قبول*</item>
         <item>تخطي الإعلان</item>
         <item>إرسال تعليق</item>
         <item>تقديم*</item>
@@ -382,11 +384,11 @@
     </string-array>
     <string-array name="advanced_menu_items">
         <item>الترجمة</item>
-        <item>التعرف على المشهد</item>
+        <item>وصف المشهد</item>
         <item>التعرف على النص المُرَكَّز عَلَيْهِ</item>
         <item>التعرف على الوجه</item>
-        <item>التعرف على رمز التحقق</item>
-        <item>نتائجُ التَّعَرُّف</item>
+        <item>التعرف على رمز التحقق Captcha</item>
+        <item>نتيجة التَّعَرُّف</item>
         <item>وصف الصورة</item>
     </string-array>
     <string-array name="lang_entries">
@@ -574,7 +576,7 @@
         <item>نَسْخ، و نَسْخ إضافي</item>
         <item>مستوى الصوت</item>
         <item>سرعة الصوت</item>
-        <item>الترجمة، و التَّعَرُّف على النص</item>
+        <item>الترجمة، و التَّعَرُّف على نص في صورة</item>
     </string-array>
 
     <string-array name="hot_key_help_items" >
@@ -612,7 +614,7 @@
         <item>القوائم</item>
         <item>عناصر القائمة الحالية</item>
         <item>التركيز</item>
-        <item>العناصر القابلة للتفاعل</item>
+        <item>العناصر القابلة للنَّقْر</item>
         <item>العُقَد</item>
         <item>التمرير</item>
         <item>التَّصَفُّح العمودي</item>
@@ -626,7 +628,7 @@
         <item>نَسْخ، و نَسْخ إضافي</item>
         <item>مستوى الصوت</item>
         <item>سرعة الصوت</item>
-        <item>الترجمة، و التَّعَرُّف على النص</item>
+        <item>الترجمة، و التَّعَرُّف على نص في صورة</item>
 
     </string-array>
 

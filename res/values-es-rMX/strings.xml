@@ -904,7 +904,7 @@
     <string name="add_from_virtual_screen">Añadir desde pantalla virtual</string>
     <string name="add_from_virtual_list">Añadir caracteres reconocidos por OCR</string>
     <string name="use_ocr_qq_title">OCR de Tencent en la nube</string>
-    <string name="ocr_lang_enteries">Inglés mixto|Detección Automática|Japonés|Coreano|Español|Francés|Alemán|Portugués|Vietnamita|Malayo|Ruso|Italiano|Neerlandés|Sueco|Finlandés|Danés|Noruego|Húngaro|Tailandés|Latín</string>
+    <string name="ocr_lang_enteries">Inglés mixto|Detección Automática|Japonés|Coreano|Español|Francés|Alemán|Portugués|Vietnamita|Malayo|Ruso|Italiano|Neerlandés|Sueco|Finlandés|Danés|Noruego|Húngaro|Tailandés|Latín|阿拉伯语</string>
     <string name="cmd_description">Descripción (15 palabras o más)</string>
     <string name="timer_run_title">Tareas programadas</string>
     <string name="msg_has_vip_timer_run">Los usuarios gratuitos solo pueden añadir una tarea programada</string>
@@ -1107,7 +1107,7 @@
     <string name="use_accessibility_volume_fix_summary">si tiene problemas al utilizar el volumen de accesibilidad,  puede activar esta opción</string>
     <string name="msg_exit_game_mode">ha salido del modo de juego</string>
     <string name="privacy"> política de privacidad</string>
-    <string name="show_download_title">descargar Jieshuo</string>
+		<string name="show_download_title">descargar Jieshuo</string>
     <string name="version_msg">%s\ntamaño:%s\nNúmero de descargas:%s</string>
     <string name="user_new_password">nueva contraseña,6a15 caracteres latinos</string>
     <string name="repassword_title">cambiar contraseña</string>
@@ -1121,4 +1121,36 @@
     <string name="activate_title"> activar Premium</string>
     <string name="select_app"> seleccione una app</string>
     <string name="command_to_split_screen">pantalla dividida</string>
+    <string name="edit_activity">Editor de actividad</string>
+    <string name="use_speak_key_title">Eco de teclado:</string>
+    <string name="auto_speak_title">Opciones del autolector</string>
+    <string name="auto_speak_apps_title">Selección de programas para el autolector</string>
+    <string name="auto_speak_apps_summary">Tenga en cuenta que no todas las aplicaciones admiten esta función. Es más probable que se admita el software que muestra su contenido en una vista de lista.</string>
+    <string name="msg_has_vip_auto_speak">Los usuarios de la versión gratuita solo pueden leer automáticamente los mensajes de QQ</string>
+    <string name="auto_speak_blacklist_title">Lista negra del autolector</string>
+    <string name="read_mode_setting">Opciones del modo de lectura</string>
+    <string name="next_chapter_title">Comandos de página siguiente</string>
+    <string name="previous_chapter_title">Comandos de página anterior</string>
+    <string name="next_chapter_default_value">*Página siguiente*|*Ir a la página siguiente*|*Siguiente página*|*Adelante*|*Página adelante*</string>
+    <string name="previous_chapter_default_value">*Página anterior*|*Ir a la página anterior*|*Anterior página*|*Atrás*|*Página atrás*</string>
+    <string name="msg_activated">Enviar completado. Espere la activación. Si no sucede en un tiempo razonable, comuníquese con el servicio de soporte.</string>
+    <string name="flash_light">Linterna</string>
+    <string name="cloud_multi_backup_title">备份到云</string>
+    <string name="cloud_multi_restore_title">从云恢复</string>
+    <string name="search_engine_title">搜索引擎</string>
+    <string name="directory_notes">Notes</string>
+    <string name="replace">替换</string>
+    <string name="export_file">导出</string>
+    <string name="replace_to">替换为</string>
+    <string name="replace_regex">正则替换</string>
+    <string name="msg_replaced">已替换</string>
+    <string name="use_touch_stop_title">触摸屏幕中止朗读</string>
+    <string name="continuous_recognition">连续识别</string>
+    <string name="edit_dict">编辑词典</string>
+    <string name="up_volume_key_off_title">关屏状态长按音量增加键</string>
+    <string name="down_volume_key_off_title">关屏状态长按音量减小键</string>
+    <string name="use_loop_move_space_title">在焦点循环前增加空焦点提示</string>
+    <string name="use_view_type_move_mode_title">使用新的类型导航手势</string>
+    <string name="use_view_type_move_mode_summary">打开后按试图类型浏览，默认使用先上后下和先下后上切换类型，使用向左和向右切换项目，默认类型执行原快捷功能；\n关闭时使用向左或向右手势切换类型，使用向上或向下切换项目，默认类型移动焦点。</string>
+
 </resources>

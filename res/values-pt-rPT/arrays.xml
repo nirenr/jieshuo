@@ -104,6 +104,8 @@
         <item>@string/command_power_dialog</item>
         <item>@string/command_raw_double_tap</item>
         <item>@string/command_to_split_screen</item>
+        <item>@string/switch_multi_finger_gestures</item>
+
     </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
@@ -525,7 +527,7 @@
     <string-array name="recognizer_lang_entries">
         <item>Chinês Simp</item>
         <item>Chinês Trad</item>
-        <item>Inglês</item>
+        <item>Português</item>
      </string-array>
     <string-array name="recognizer_lang_values">
         <item>zh_CN</item>

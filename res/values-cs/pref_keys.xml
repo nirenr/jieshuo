@@ -397,4 +397,20 @@
     <string name="timer_mode_pause_time">timer_mode_pause_time</string>
     <string name="use_accessibility_volume_fix">use_accessibility_volume_fix</string>
     <string name="show_download">show_download</string>
+    <string name="use_speak_key">use_speak_key</string>
+    <string name="auto_speak_apps">auto_speak_apps</string>
+    <string name="auto_speak_blacklist">auto_speak_blacklist</string>
+    <string name="auto_speak_blacklist_data">auto_speak_blacklist_data</string>
+    <string name="next_chapter">next_chapter</string>
+    <string name="previous_chapter">previous_chapter</string>
+    <string name="activation_time">activation_time</string>
+    <string name="cloud_multi_backup">cloud_multi_backup</string>
+    <string name="cloud_multi_restore">cloud_multi_restore</string>
+    <string name="search_engine">search_engine</string>
+    <string name="use_touch_stop">use_touch_stop</string>
+    <string name="edit_file">edit_file</string>
+    <string name="up_volume_key_off">up_volume_key_off</string>
+    <string name="down_volume_key_off">down_volume_key_off</string>
+    <string name="use_loop_move_space">use_loop_move_space</string>
+    <string name="use_view_type_move_mode">use_view_type_move_mode</string>
 </resources>
