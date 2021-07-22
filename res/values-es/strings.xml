@@ -854,8 +854,8 @@
 
     <string name="use_web_type_move_title">Navegar por tipo en páginas web</string>
 
-    <string name="pref_donate_alipay">Donar uzando Alipay para apoyar el desarrollo del lector</string>
-    <string name="pref_donate_paypal">Donar uzando Paypal para apoyar el desarrollo del lector</string>
+    <string name="pref_donate_alipay">Donar usando Alipay para apoyar el desarrollo del lector</string>
+    <string name="pref_donate_paypal">Donar usando Paypal para apoyar el desarrollo del lector</string>
     <string name="menu_settings_title">Ajustes del menú</string>
     <string name="directory_download">Descargas</string>
     <string name="msg_has_vip_split_edit">Solo los usuarios premium pueden editar más de 100 caracteres.</string>
