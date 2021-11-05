@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name"> 解说</string>
+    <string name="app_name">解说</string>
     <string name="accessibility_service_description">
         解说是一个视障人士的辅助软件，他可以让你更加轻松的使用手机，我们在人机交互上做了一些尝试与创新，你可能需要一些时间熟悉，更多细节请打开设置查看帮助或与我们联系。\n
         软件未会员授权时部分功能受限制，如需购买会员请在官方QQ群联系我们的客服。\n
@@ -19,6 +19,8 @@
         会员功能，\n
         虚拟屏幕，不支持无障碍的软件也能操作，为你打开一片新世界。\n
         自动ocr识别，摸到哪里识别到哪里，图片内容轻松获取，\n
+        自动朗读消息，qq、yy、抖音公屏，消息自动朗读，轻松刷视频，\n
+        字幕朗读，快手公屏，外文视频字幕，看国外电影so easy，\n
         验证码识别，人工智能识别，识别速度快如闪电，\n
         解说相机，文字，场景，人脸，统统拿下，\n
         网页图片过滤，干净的朗读，清爽的体验，\n
@@ -253,7 +255,7 @@
     <string name="use_pager_scroll_summary">当浏览到多页面视图最后一个焦点时，自动滚动下一个页面</string>
     <string name="scroll_gesture_settings_title">焦点移动设置</string>
     <string name="click_settings_title">点击操作设置</string>
-    <string name="key_shortcut_setting_title">快捷键设置</string>
+    <string name="key_shortcut_setting_title">音量快捷键设置</string>
     <string name="gesture_title">手势设置</string>
     <string name="use_single_tap_summary">点击一次激活焦点</string>
     <string name="use_old_previous_summary">传统方式上一个焦点是下一个焦点的简单返回，取消后将使用新的上一个焦点方式，按照焦点层级返回，在一直向上浏览时更容易掌握内容所属关系</string>
@@ -285,8 +287,8 @@
     <string name="down_volume_key_value_default">语音助手</string>
     <string name="down_volume_key_title">长按音量减小键</string>
     <string name="down_volume_key_summary">自定义长按音量减小键功能</string>
-    <string name="up_volume_key_title">长按音量增加键</string>
-    <string name="up_volume_key_summary">自定义长按音量增加键功能</string>
+    <string name="up_volume_key_title">长按音量增大键</string>
+    <string name="up_volume_key_summary">自定义长按音量增大键功能</string>
     <string name="up_volume_key_value_default">抬手激活</string>
     <string name="use_speak_call_phone_summary">来电时播报来电号码和姓名</string>
     <string name="use_speak_call_phone_title">来电报号</string>
@@ -302,8 +304,8 @@
     <string name="right_long_edge_gesture_summary">自定义从右侧滑入并停留一秒的手势功能</string>
     <string name="use_up_long_quick_menu_summary">在触摸浏览时在一个焦点停留一段时间后显示快捷菜单</string>
     <string name="up_volume_short_key_value_default">增大音量</string>
-    <string name="up_volume_short_key_title">短按音量增加键</string>
-    <string name="up_volume_short_key_summary">自定义短按音量增加键功能，在触摸屏幕状态为增大音量</string>
+    <string name="up_volume_short_key_title">短按音量增大键</string>
+    <string name="up_volume_short_key_summary">自定义短按音量增大键功能，在触摸屏幕状态为增大音量</string>
     <string name="down_volume_short_key_value_default">减小音量</string>
     <string name="down_volume_short_key_title">短按音量减小键</string>
     <string name="down_volume_short_key_summary">自定义短按音量减小键功能，在触摸屏幕状态为减小音量</string>
@@ -321,8 +323,8 @@
     <string name="use_foreground_summary">如果读屏频繁休眠建议勾选该选项</string>
     <string name="use_speak_qq_changed_title">自动朗读聊天信息</string>
     <string name="use_speak_qq_changed_summary">自动朗读QQ微信等当前聊天窗口的最新信息</string>
-    <string name="left_button_default_value">挂断|拒绝|*滑动以拒绝来电*|结束通话|挂断通话|挂断电话|结束QQ通话|结束QQ电话|切换上一首|上一曲|向上导航|取消&amp;免提</string>
-    <string name="right_button_default_value">接听|*滑动以接听来电*|免提|扬声器|切换下一首|下一曲</string>
+    <string name="left_button_default_value">挂断|拒绝|*滑动以拒绝来电*|结束通话|挂断通话|挂断电话|结束QQ通话|结束QQ电话|拒绝语音通话|切换上一首|上一曲|向上导航|取消&amp;免提</string>
+    <string name="right_button_default_value">接听|*滑动以接听来电*|免提|扬声器|接听语音通话|切换下一首|下一曲</string>
     <string name="edge_gesture_title">边缘手势设置</string>
     <string name="left_button_title">向左手势快捷功能</string>
     <string name="right_button_title">向右手势快捷功能</string>
@@ -504,12 +506,12 @@
     <string name="command_append_copy">追加复制</string>
     <string name="command_paste">粘贴</string>
 
-    <string name="raw_swipe_down">[向下]</string>
-    <string name="raw_swipe_up">[向上]</string>
-    <string name="raw_swipe_right">[向右]</string>
-    <string name="raw_swipe_left">[向左]</string>
-    <string name="raw_long_click">[长按]</string>
-    <string name="raw_click">[点击]</string>
+    <string name="raw_swipe_down">模拟下滑</string>
+    <string name="raw_swipe_up">模拟上滑</string>
+    <string name="raw_swipe_right">模拟右滑</string>
+    <string name="raw_swipe_left">模拟左滑</string>
+    <string name="raw_long_click">模拟长按</string>
+    <string name="raw_click">模拟点击</string>
 
     <string name="click_to_enabled">点击恢复</string>
     <string name="touch_mode_disabled">触摸浏览已暂停</string>
@@ -626,7 +628,7 @@
     <string name="down_right_double_fling_setting">先下后右滑动两步手势设置</string>
     <string name="down_right_double_fling_left_gesture_value_default">返回</string>
     <string name="down_right_double_fling_up_gesture_value_default">主屏幕</string>
-    <string name="down_right_double_fling_right_gesture_value_default">[点击]</string>
+    <string name="down_right_double_fling_right_gesture_value_default">模拟点击</string>
     <string name="down_right_double_fling_down_gesture_value_default">通知栏</string>
 
     <string name="down_left_double_fling_setting">先下后左滑动两步手势设置</string>
@@ -706,7 +708,7 @@
     <string name="fingerprint_gesture_setting_summary">仅支持部分安卓8后置指纹机型,华为手机上在系统指纹设置，长按触控启用接听电话等才能正常使用</string>
     <string name="use_fingerprint_gesture_title">使用指纹导航</string>
     <string name="fingerprint_left_gesture_value_default">返回</string>
-    <string name="fingerprint_right_gesture_value_default">[点击]</string>
+    <string name="fingerprint_right_gesture_value_default">模拟点击</string>
     <string name="fingerprint_up_gesture_value_default">上个焦点</string>
     <string name="fingerprint_down_gesture_value_default">下个焦点</string>
     <string name="command_supper_mode">强力模式</string>
@@ -750,7 +752,7 @@
     <string name="directory_timer">计时</string>
     <string name="timer_tags_items_title">计时器标签管理</string>
     <string name="value_none">无</string>
-    <string name="msg_deleted">%s已删除</string>
+    <string name="msg_deleted">已删除%s</string>
     <string name="tts_echo_voice_settings_title">回声语音设置</string>
     <string name="screen_off">屏幕已关闭</string>
     <string name="edit_box_no_found">未找到输入框</string>
@@ -781,11 +783,12 @@
     <string name="hint_activated">激活</string>
     <string name="hint_double_click_activated">双击激活</string>
     <string name="hint_node_move">向左滑动进入子节点，向右滑动返回父节点，向下滑动浏览下个节点，向上滑动浏览上个节点</string>
-    <string name="date_formater_min">m\'分\'</string>
+    <string name="date_formater_min">mm\'分\'</string>
     <string name="touch_mode_enabled">触摸浏览已启用</string>
-    <string name="custom">Custom</string>
+    <string name="custom">自定义</string>
     <string name="create_gesture">新建通用手势</string>
     <string name="create_app_gesture">新建单应用手势</string>
+
     <string name="func">功能</string>
     <string name="swipe_up_right">先上后右</string>
     <string name="swipe_up_down">先上后下</string>
@@ -854,7 +857,7 @@
     <string name="pref_donate_alipay">使用支付宝支持解说的开发</string>
     <string name="pref_donate_paypal">使用贝宝支持解说的开发</string>
     <string name="menu_settings_title">菜单设置</string>
-    <string name="directory_download">Download</string>
+    <string name="directory_download">下载</string>
     <string name="msg_has_vip_split_edit">非会员不支持编辑超过100个字符</string>
     <string name="media_doc_title">音频教程</string>
     <string name="downloaded">已下载</string>
@@ -932,7 +935,7 @@
     <string name="voice_helper_record_message">开始录制，依次说出指令，最后说，</string>
     <string name="voice_helper_record_done">录制完成</string>
     <string name="msg_save_error">保存出错</string>
-    <string name="msg_has_vip_voice_cmd">非会员使用的语音不能超过十条</string>
+    <string name="msg_has_vip_voice_cmd">非会员使用的语音指令不能超过十条</string>
     <string name="cmd_create">新建指令</string>
     <string name="cmd_manager">管理指令</string>
     <string name="note_tile">云笔记</string>
@@ -1061,7 +1064,7 @@
     <string name="message_cut">已剪切</string>
     <string name="choice_mode_multiple">多选模式</string>
     <string name="add_from_grid">通过网格添加</string>
-<string name="sound_settings_title">音效方案设置</string>
+    <string name="sound_settings_title">音效方案设置</string>
     <string name="sound_focus1">可点击焦点</string>
     <string name="sound_focus2">可聚焦焦点</string>
     <string name="sound_focus3">键盘焦点</string>
@@ -1098,7 +1101,7 @@
     <string name="hot_key_package_title">快捷键方案</string>
     <string name="hot_key_description_title">快捷键方案说明</string>
     <string name="hot_key_settings_title">快捷键方案设置</string>
-    <string name="custom_hot_key_settings_title">自定义快捷键方案设置</string>
+    <string name="custom_hot_key_settings_title">键盘快捷键设置</string>
     <string name="app_hot_key_package_title">单应用快捷键方案设置</string>
     <string name="app_hot_key_package_summary">为单个应用配置快捷键方案</string>
     <string name="directory_hot_key">热键</string>
@@ -1108,7 +1111,7 @@
     <string name="use_scroll_list_content_title">手势滚动列表时读出可见的全部内容</string>
     <string name="use_view_type_move_title">使用按视图类型浏览</string>
     <string name="use_view_type_move_summary">使用默认左右手势切换类型，和左右快捷功能有冲突，可使用自定义避免冲突</string>
-    <string name="command_raw_double_tap">[双击]</string>
+    <string name="command_raw_double_tap">模拟双击</string>
     <string name="to_previous_granularity_item">上个导航项目</string>
     <string name="to_next_granularity_item">下个导航项目</string>
     <string name="to_previous_granularity">上个导航类型</string>
@@ -1117,6 +1120,7 @@
     <string name="web_type_move_title">使用中的网页类型</string>
     <string name="view_type_move_title">使用中的视图类型</string>
     <string name="notification_in_touch_no_speak_title">触摸屏幕时通知免打扰</string>
+
 
     <string name="use_keep_type_move_title">改变窗口时保持移动类型</string>
     <string name="hot_key_manager_title">快捷键管理</string>
@@ -1214,10 +1218,78 @@
     <string name="use_touch_stop_title">触摸屏幕中止朗读</string>
     <string name="continuous_recognition">连续识别</string>
     <string name="edit_dict">编辑词典</string>
-    <string name="up_volume_key_off_title">关屏状态长按音量增加键</string>
-    <string name="down_volume_key_off_title">关屏状态长按音量减小键</string>
+    <string name="up_volume_key_off_title">锁屏状态长按音量增大键</string>
+    <string name="down_volume_key_off_title">锁屏状态长按音量减小键</string>
     <string name="use_loop_move_space_title">在焦点循环前增加空焦点提示</string>
     <string name="use_view_type_move_mode_title">使用新的类型导航手势</string>
     <string name="use_view_type_move_mode_summary">打开后按试图类型浏览，默认使用先上后下和先下后上切换类型，使用向左和向右切换项目，默认类型执行原快捷功能；\n关闭时使用向左或向右手势切换类型，使用向上或向下切换项目，默认类型移动焦点。</string>
+    <string name="app_hot_key_shortcut_title">单应用音量快捷键</string>
+    <string name="shared_cloud_label">分享到云标签</string>
+    <string name="use_more_node_title">浏览更多焦点</string>
+    <string name="use_more_node_summary">拆分有可能有用的焦点，可根据需要选择是否开启</string>
+    <string name="use_multi_hot_key_title">使用多次点击音量键功能</string>
+    <string name="up_volume_2_key_title">双击音量增大键</string>
+    <string name="up_volume_3_key_title">三击音量增大键</string>
+    <string name="down_volume_2_key_title">双击音量减小键</string>
+    <string name="down_volume_3_key_title">三击音量减小键</string>
+    <string name="command_to_next_char">下个字符</string>
+    <string name="command_to_previous_char">上个字符</string>
+    <string name="command_to_next_word">下个字词</string>
+    <string name="command_to_previous_word">上个字词</string>
+    <string name="command_to_next_row">下个句子</string>
+    <string name="command_to_previous_row">上个句子</string>
+    <string name="command_to_next_paragraph">下个段落</string>
+    <string name="command_to_previous_paragraph">上个段落</string>
+    <string name="command_to_head_set_key">播放暂停</string>
+    <string name="msg_selected_from_to">已选择第%d到第%d项</string>
+    <string name="album_activity">解说相册</string>
+    <string name="command_toggle_tts_engine">切换语音库</string>
+    <string name="command_speak_light">当前亮度</string>
+    <string name="use_recording_stop_title">使用麦克风时读屏静音</string>
+    <string name="use_speak_call_time_title">读出通话时长</string>
+    <string name="use_speak_call_time_summary">在通话结束时读出通话时长（需通话记录权限）</string>
+    <string name="use_list_item_index_real_time_title">实时朗读列表滚动进度</string>
+    <string name="add_favorites">添加到收藏</string>
+    <string name="save_as_file">保存到本地</string>
+    <string name="save_as_cloud">保存为云笔记</string>
+    <string name="msg_toggle_tts">已切换语音库</string>
+    <string name="curren_char_idx">%d行%d字符</string>
+    <string name="command_media_previous">上一曲</string>
+    <string name="command_media_next">下一曲</string>
+    <string name="use_answer_phone_calls_gesture_title">在任何应用界面接听挂断电话</string>
+    <string name="command_previous_window">上个窗口</string>
+    <string name="command_next_window">下个窗口</string>
+    <string name="accessibility_focus_appearance_title">焦点指示框设置</string>
+    <string name="alpha">透明</string>
+    <string name="red">红</string>
+    <string name="green">绿</string>
+    <string name="blue">蓝</string>
+    <string name="stroke">粗细</string>
+    <string name="gesture_2_triple_tap_hold">双指三击按住</string>
+    <string name="gesture_3_triple_tap_hold">三指三击按住</string>
+    <string name="gesture_4_triple_tap_hold">四指三击按住</string>
+    <string name="up_long">上滑并稍停留</string>
+    <string name="up_right_long">先上后右并稍停留</string>
+    <string name="up_down_long">先上后下并稍停留</string>
+    <string name="up_left_long">先上后左并稍停留</string>
+    <string name="down_long">下滑并稍停留</string>
+    <string name="down_right_long">先下后右并稍停留</string>
+    <string name="down_up_long">先下后上并稍停留</string>
+    <string name="down_left_long">先下后左并稍停留</string>
+    <string name="left_long">左滑并稍停留</string>
+    <string name="left_up_long">先左后上并稍停留</string>
+    <string name="left_down_long">先左后下并稍停留</string>
+    <string name="left_right_long">先左后右并稍停留</string>
+    <string name="right_long">右滑并稍停留</string>
+    <string name="right_up_long">先右后上并稍停留</string>
+    <string name="right_down_long">先右后下并稍停留</string>
+    <string name="right_left_long">先右后左并稍停留</string>
+    <string name="keep_focus_position_speak_title">朗读记忆的焦点</string>
+    <string name="save_as_cmd">保存为指令</string>
+    <string name="execute_cmd">是否运行下边指令</string>
+    <string name="command_show_nodeinfo">节点详情</string>
+    <string name="copy_as_jieshuo_cmd">复制为解说口令</string>
+    <string name="copy_text_auto_execute">复制文字自动执行</string>
+    <string name="msg_cmd_copyed">已复制，粘贴分享吧</string>
 
 </resources>

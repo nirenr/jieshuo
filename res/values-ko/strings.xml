@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name"> Commentary Screenreader</string>
+    <string name="app_name">Commentary Screenreader</string>
     <string name="accessibility_service_description">
         Commentary Screen Reader는 시각장애인의 안드로이드 모바일 환경 사용을 돕는 화면 낭독 프로그램입니다.\n
-Commentary Screen Reader는 더 혁신적이고 나은 접근성을 위한 시도입니다.  더 자세한 사항이 궁굼하다면 설정\\도움말 을 여십시오.\n
+        Commentary Screen Reader는 더 혁신적이고 나은 접근성을 위한 시도입니다.  더 자세한 사항이 궁굼하다면 설정\\도움말 을 여십시오.\n
         스크린리더를 처음 설치하여 실행한 경우 일부 기능만 사용할 수 있는 체험 버전으로 동작하며, 정식 버전으로 업그레이드 하면 모든 기능을 사용할 수 있습니다.\n
 		자세한 사항은 QQ 공식 고객지원 서비스 그룹에 문의해 주시기 바랍니다. \n\n
         기능 및 특징: \n
@@ -1146,11 +1146,79 @@ Commentary Screen Reader는 더 혁신적이고 나은 접근성을 위한 시�
     <string name="msg_replaced">교체할 항목이 추가됨.</string>
     <string name="use_touch_stop_title">화면을 터치하여 음성 정지</string>
     <string name="continuous_recognition">OCR 연속 인식</string>
-    <string name="edit_dict">编辑词典</string>
-    <string name="up_volume_key_off_title">关屏状态长按音量增加键</string>
-    <string name="down_volume_key_off_title">关屏状态长按音量减小键</string>
-    <string name="use_loop_move_space_title">在焦点循环前增加空焦点提示</string>
-    <string name="use_view_type_move_mode_title">使用新的类型导航手势</string>
-    <string name="use_view_type_move_mode_summary">打开后按试图类型浏览，默认使用先上后下和先下后上切换类型，使用向左和向右切换项目，默认类型执行原快捷功能；\n关闭时使用向左或向右手势切换类型，使用向上或向下切换项目，默认类型移动焦点。</string>
-
+    <string name="edit_dict">사전 편집</string>
+    <string name="up_volume_key_off_title">화면 잠김상태에서 볼륨 키우기 버튼 길게 누르기</string>
+    <string name="down_volume_key_off_title">화면 잠김 상태에서 볼륨 줄이기 버튼 길게 누르기</string>
+    <string name="use_loop_move_space_title">초점 순환 전에 빈 초점 힌트 추가</string>
+    <string name="use_view_type_move_mode_title">새로운 종류의 내비게이션 제스처 사용</string>
+    <string name="use_view_type_move_mode_summary">탐색, 기본 사용, 왼쪽 및 오른쪽으로 전환, 단축기능 수행；\n왼쪽 또는 오른쪽으로 전환, 위로 또는 아래로 전환 사용, 초점 이동.</string>
+    <string name="app_hot_key_shortcut_title">볼륨 단축키 단일 적용</string>
+    <string name="shared_cloud_label">클라우드 탭 공유</string>
+    <string name="use_more_node_title">더 많은 초점 찾기</string>
+    <string name="use_more_node_summary">사용할 수 있는 초점 분해, 필요에 따라 사용 여부를 선택할 수 있습니다</string>
+    <string name="use_multi_hot_key_title">볼륨버튼 여러번 누르기 사용</string>
+    <string name="up_volume_2_key_title">볼륨 키우기 버튼 두번 누르기</string>
+    <string name="up_volume_3_key_title">볼륨 키우기 버튼 세번 누르기</string>
+    <string name="down_volume_2_key_title">볼륨 줄이기버튼 두번 누르기</string>
+    <string name="down_volume_3_key_title">볼륨 줄이기 버튼 세번 누르기</string>
+    <string name="command_to_next_char">다음 문자</string>
+    <string name="command_to_previous_char">이전 문자</string>
+    <string name="command_to_next_word">다음 단어</string>
+    <string name="command_to_previous_word">이전 단어</string>
+    <string name="command_to_next_row">다음 문장</string>
+    <string name="command_to_previous_row">이전 문장</string>
+    <string name="command_to_next_paragraph">다음 단락</string>
+    <string name="command_to_previous_paragraph">이전 단락</string>
+    <string name="command_to_head_set_key">재생 및 일시정지</string>
+    <string name="msg_selected_from_to">已选择第%d到第%d项</string>
+    <string name="album_activity">Commentary 엘범</string>
+    <string name="command_toggle_tts_engine">현재 사용하고 있는 음성엔진을 전환합니다.</string>
+    <string name="command_speak_light">전류 밝기 읽기</string>
+    <string name="use_recording_stop_title">녹화가 활성화되어 있는 동안 해설 화면 판독기 음소거</string>
+    <string name="use_speak_call_time_title">완료된 통화 시간을 말합니다.</string>
+    <string name="use_speak_call_time_summary">통화 종료 시 통화 시간을 자동으로 읽는지 여부를 제어합니다. 이 기능을 사용하려면 통화 로그를 읽을 수 있는 권한이 필요합니다.</string>
+    <string name="use_list_item_index_real_time_title">목록을 스크롤하는 동안 현재 포커스가 있는 목록 항목의 인덱스 읽기</string>
+    <string name="add_favorites">즐겨찾기에 추가</string>
+    <string name="save_as_file">로컬 파일로 저장</string>
+    <string name="save_as_cloud">클라우드 노트로 저장</string>
+    <string name="msg_toggle_tts">현재 사용하고있는 음성엔진이 전환되었습니다.</string>
+    <string name="curren_char_idx">줄 %d, 문자 %d</string>
+    <string name="command_add_content_blacklist">添加内容黑名单</string>
+    <string name="command_media_previous">上一曲</string>
+    <string name="command_media_next">下一曲</string>
+    <string name="use_answer_phone_calls_gesture_title">在任何应用界面接听挂断电话</string>
+    <string name="command_previous_window">上个窗口</string>
+    <string name="command_next_window">下个窗口</string>
+    <string name="accessibility_focus_appearance_title">焦点指示框设置</string>
+    <string name="alpha">透明</string>
+    <string name="red">红</string>
+    <string name="green">绿</string>
+    <string name="blue">蓝</string>
+    <string name="stroke">粗细</string>
+    <string name="gesture_2_triple_tap_hold">双指三击按住</string>
+    <string name="gesture_3_triple_tap_hold">三指三击按住</string>
+    <string name="gesture_4_triple_tap_hold">四指三击按住</string>
+    <string name="up_long">上滑并稍停留</string>
+    <string name="up_right_long">先上后右并稍停留</string>
+    <string name="up_down_long">先上后下并稍停留</string>
+    <string name="up_left_long">先上后左并稍停留</string>
+    <string name="down_long">下滑并稍停留</string>
+    <string name="down_right_long">先下后右并稍停留</string>
+    <string name="down_up_long">先下后上并稍停留</string>
+    <string name="down_left_long">先下后左并稍停留</string>
+    <string name="left_long">左滑并稍停留</string>
+    <string name="left_up_long">先左后上并稍停留</string>
+    <string name="left_down_long">先左后下并稍停留</string>
+    <string name="left_right_long">先左后右并稍停留</string>
+    <string name="right_long">右滑并稍停留</string>
+    <string name="right_up_long">先右后上并稍停留</string>
+    <string name="right_down_long">先右后下并稍停留</string>
+    <string name="right_left_long">先右后左并稍停留</string>
+    <string name="keep_focus_position_speak_title">朗读记忆的焦点</string>
+    <string name="save_as_cmd">保存为指令</string>
+    <string name="execute_cmd">是否运行下边指令</string>
+    <string name="command_show_nodeinfo">节点详情</string>
+    <string name="copy_as_jieshuo_cmd">复制为解说口令</string>
+    <string name="copy_text_auto_execute">复制文字自动执行</string>
+    <string name="msg_cmd_copyed">已复制，粘贴分享吧</string>
 </resources>

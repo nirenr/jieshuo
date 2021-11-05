@@ -10,13 +10,15 @@
         <item>@string/to_previous_granularity</item>
         <item>@string/to_next_granularity</item>
         <item>@string/to_previous_granularity_item</item>
-       <item>@string/to_next_granularity_item</item>
+        <item>@string/to_next_granularity_item</item>
 
+        <item>Automatic translation mode</item>
+        <item>Subtitle reading mode</item>
         <item>@string/add_node_changed_list</item>
         <item>@string/node_changed_list_manager</item>
 
         <item>@string/command_raw_tap</item>
-        <item>@string/command_to_previous_focus</item>
+         <item>@string/command_to_previous_focus</item>
         <item>@string/command_to_next_focus</item>
         <item>@string/command_start</item>
         <item>@string/command_end</item>
@@ -105,7 +107,27 @@
         <item>@string/command_raw_double_tap</item>
         <item>@string/command_to_split_screen</item>
         <item>@string/switch_multi_finger_gestures</item>
-    </string-array>
+
+        <item>@string/command_to_next_char</item>
+        <item>@string/command_to_previous_char</item>
+        <item>@string/command_to_next_word</item>
+        <item>@string/command_to_previous_word</item>
+        <item>@string/command_to_next_row</item>
+        <item>@string/command_to_previous_row</item>
+        <item>@string/command_to_next_paragraph</item>
+        <item>@string/command_to_previous_paragraph</item>
+        <item>@string/command_to_head_set_key</item>
+        <item>@string/edit_dict</item>
+        <item>@string/command_toggle_tts_engine</item>
+        <item>@string/command_speak_light</item>
+        <item>@string/command_add_content_blacklist</item>
+
+        <item>@string/command_media_previous</item>
+        <item>@string/command_media_next</item>
+        <item>@string/command_previous_window</item>
+        <item>@string/command_next_window</item>
+
+        </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
         <item>@string/command_long_click</item>
@@ -150,6 +172,8 @@
         <item>@string/favorites_menu_title</item>
         <item>@string/split_edit_title</item>
         <item>@string/command_long_copy</item>
+        <item>Tastatur anzeigen</item>
+
     </string-array>
     <string-array name="menu_def_items">
         <item>@string/split_menu_title</item>
@@ -193,22 +217,22 @@
     <string-array name="left_button">
         <item>Auflegen</item>
         <item>Ablehnen</item>
-        <item>*Wischen, um Anruf abzulehnenl*</item>
+        <item>*Nach links wischen zum Ablehnen*</item>
         <item>Anruf beenden</item>
         <item>Auflegen</item>
-        <item>Auflegen</item>
-        <item>QQ Anruf beenden</item>
-        <item>QQ Anruf beenden</item>
-        <item>Zum vorherigen Element wechseln</item>
+        <item>Anruf beenden</item>
+        <item>Zurück</item>
+        <item>Vorheriger</item>
+        <item>Vorheriger Medieninhalt</item>
         <item>Vorheriger Titel</item>
-        <item>Nach oben</item>
+        <item>Zurück</item>
     </string-array>
     <string-array name="right_button">
-        <item>Anruf annehmen</item>
-        <item>*Wischen, um Anruf anzunehmen*</item>
-        <item>Freisprechen</item>
+        <item>Annehmen</item>
+        <item>*Nach rechts wischen zum Annehmen*</item>
+        <item>Frei sprechen</item>
         <item>Lautsprecher</item>
-        <item>Zum nächsten Element wechseln</item>
+        <item>Nächstes Video</item>
         <item>Nächster Titel</item>
     </string-array>
 
@@ -219,7 +243,7 @@
         <item>2</item>
     </string-array>
     <string-array name="voice_recognizer_entries">
-        <item>System</item>
+        <item>System engine</item>
         <item>Engine 1</item>
         <item>Engine 2</item>
         <item>Engine 3</item>
@@ -330,8 +354,8 @@
     <!--string-array name="tts_speaker_title">
         <item>Weibliche Stimme</item>
         <item>Männliche Stimme</item>
-        <item>Glücklich</item>
-        <item>Du ya ya</item>
+        <item>Du Xiao Yao</item>
+        <item>Du Ya Ya</item>
     </string-array>
     <string-array name="tts_speaker">
         <item>0</item>
@@ -343,7 +367,7 @@
         <item>Leicht</item>
         <item>Mittel</item>
         <item>Stark</item>
-        <item>Sehr stark</item>
+        <item>Stärkste</item>
     </string-array>
     <string-array name="vibrate_intensity_values">
         <item>12</item>
@@ -362,9 +386,9 @@
         <item>1000</item>
     </string-array>
     <string-array name="edge_gesture_width_entries">
-        <item>Klein</item>
+        <item>Schmal</item>
         <item>Mittel</item>
-        <item>Groß</item>
+        <item>Breit</item>
         <item>Maximum</item>
     </string-array>
     <string-array name="edge_gesture_width_values">
@@ -374,36 +398,38 @@
         <item>20</item>
     </string-array>
     <string-array name="tts_speaker_entries">
-        <item>Xiaoyan</item>
-        <item>Xiaofeng</item>
+        <item>Xiao Yan</item>
+        <item>Xiao Feng</item>
     </string-array>
     <string-array name="tts_speaker_values">
         <item>xiaoyan</item>
         <item>xiaofeng</item>
     </string-array>
     <string-array name="advanced_menu_items">
-        <item>Übersetzen</item>
+        <item>Fokussiertes Element übersetzen</item>
         <item>Szene erkennen</item>
-        <item>Text erkennen</item>
+        <item>Texterkennung des Fokussierten Elementes</item>
         <item>Gesicht erkennen</item>
         <item>CAPTCHA erkennen</item>
-        <item>Ergebnis</item>
-        <item>Bildbeschreibung</item>
+        <item>Erkennungsergebnisse anzeigen</item>
+        <item>Bild erkennen</item>
+        <item>CAPTCHA Puzzle lösen</item>
+        <item>CAPTCHA Rechenaufgabe lösen</item>
     </string-array>
     <string-array name="lang_entries">
-        <item>auto</item>
+        <item>Automatic</item>
         <item>Koreanisch</item>
-        <item>Chinesisch simplified</item>
-        <item>Chinesisch Traditional</item>
+        <item>Chinese</item>
+        <item>Chinesisch traditionell</item>
         <item>Niederländisch</item>
         <item>Thailändisch</item>
-        <item>Grichisch</item>
+        <item>Griechisch</item>
         <item>Italienisch</item>
         <item>Slovenisch</item>
         <item>Japanisch</item>
         <item>Englisch</item>
         <item>Arabisch</item>
-        <item>Chinesisch Canton</item>
+        <item>Chinesisch Cantonese</item>
         <item>Ungarisch</item>
         <item>Estnisch</item>
         <item>Romänisch</item>
@@ -420,6 +446,179 @@
         <item>Schwedisch</item>
         <item>Polnisch</item>
         <item>Vietnamesisch</item>
+
+        <item>爱尔兰语</item>
+        <item>奥克语</item>
+        <item>阿尔巴尼亚语</item>
+        <item>阿肯语</item>
+        <item>阿拉贡语</item>
+        <item>阿姆哈拉语</item>
+        <item>阿萨姆语</item>
+        <item>艾马拉语</item>
+        <item>阿塞拜疆语</item>
+        <item>阿斯图里亚斯语</item>
+        <item>奥塞梯语</item>
+        <item>奥杰布瓦语</item>
+        <item>奥里亚语</item>
+        <item>奥罗莫语</item>
+        <item>波斯语</item>
+        <item>布列塔尼语</item>
+        <item>巴什基尔语</item>
+        <item>巴斯克语</item>
+        <item>巴西葡萄牙语</item>
+        <item>白俄罗斯语</item>
+        <item>柏柏尔语</item>
+        <item>邦板牙语</item>
+        <item>北方萨米语</item>
+        <item>北索托语</item>
+        <item>本巴语</item>
+        <item>比林语</item>
+        <item>比斯拉马语</item>
+        <item>俾路支语</item>
+        <item>冰岛语</item>
+        <item>波斯尼亚语</item>
+        <item>博杰普尔语</item>
+        <item>楚瓦什语</item>
+        <item>聪加语</item>
+        <item>鞑靼语</item>
+        <item>掸语</item>
+        <item>德顿语</item>
+        <item>迪维希语</item>
+        <item>低地德语</item>
+        <item>菲律宾语</item>
+        <item>梵语</item>
+        <item>弗留利语</item>
+        <item>富拉尼语</item>
+        <item>法罗语</item>
+        <item>盖尔语</item>
+        <item>刚果语</item>
+        <item>高地索布语</item>
+        <item>高棉语</item>
+        <item>格陵兰语</item>
+        <item>格鲁吉亚语</item>
+        <item>古吉拉特语</item>
+        <item>古希腊语</item>
+        <item>古英语</item>
+        <item>瓜拉尼语</item>
+        <item>胡帕语</item>
+        <item>哈卡钦语</item>
+        <item>海地语</item>
+        <item>豪萨语</item>
+        <item>黑山语</item>
+        <item>吉尔吉斯语</item>
+        <item>加利西亚语</item>
+        <item>加拿大法语</item>
+        <item>加泰罗尼亚语</item>
+        <item>卡拜尔语</item>
+        <item>卡纳达语</item>
+        <item>卡努里语</item>
+        <item>卡舒比语</item>
+        <item>康瓦尔语</item>
+        <item>科萨语</item>
+        <item>科西嘉语</item>
+        <item>克里克语</item>
+        <item>克里米亚鞑靼语</item>
+        <item>克林贡语</item>
+        <item>克罗地亚语</item>
+        <item>克丘亚语</item>
+        <item>克什米尔语</item>
+        <item>孔卡尼语</item>
+        <item>库尔德语</item>
+        <item>拉丁语</item>
+        <item>老挝语</item>
+        <item>拉特加莱语</item>
+        <item>拉脱维亚语</item>
+        <item>林堡语</item>
+        <item>林加拉语</item>
+        <item>卢干达语</item>
+        <item>卢森堡语</item>
+        <item>卢森尼亚语</item>
+        <item>卢旺达语</item>
+        <item>立陶宛语</item>
+        <item>罗曼什语</item>
+        <item>罗姆语</item>
+        <item>逻辑语</item>
+        <item>马来语</item>
+        <item>缅甸语</item>
+        <item>马拉地语</item>
+        <item>马拉加斯语</item>
+        <item>马拉雅拉姆语</item>
+        <item>马其顿语</item>
+        <item>马绍尔语</item>
+        <item>迈蒂利语</item>
+        <item>曼克斯语</item>
+        <item>毛里求斯克里奥尔语</item>
+        <item>毛利语</item>
+        <item>孟加拉语</item>
+        <item>马耳他语</item>
+        <item>苗语</item>
+        <item>挪威语</item>
+        <item>那不勒斯语</item>
+        <item>南恩德贝莱语</item>
+        <item>南非荷兰语</item>
+        <item>南索托语</item>
+        <item>尼泊尔语</item>
+        <item>旁遮普语</item>
+        <item>帕皮阿门托语</item>
+        <item>普什图语</item>
+        <item>齐切瓦语</item>
+        <item>契维语</item>
+        <item>切罗基语</item>
+        <item>萨丁尼亚语</item>
+        <item>萨摩亚语</item>
+        <item>塞尔维亚-克罗地亚语</item>
+        <item>塞尔维亚语</item>
+        <item>桑海语</item>
+        <item>僧伽罗语</item>
+        <item>世界语</item>
+        <item>书面挪威语</item>
+        <item>斯洛伐克语</item>
+        <item>斯瓦希里语</item>
+        <item>索马里语</item>
+        <item>塞尔维亚语（西里尔）</item>
+        <item>土耳其语</item>
+        <item>塔吉克语</item>
+        <item>泰米尔语</item>
+        <item>他加禄语</item>
+        <item>提格利尼亚语</item>
+        <item>泰卢固语</item>
+        <item>突尼斯阿拉伯语</item>
+        <item>土库曼语</item>
+        <item>乌克兰语</item>
+        <item>瓦隆语</item>
+        <item>威尔士语</item>
+        <item>文达语</item>
+        <item>沃洛夫语</item>
+        <item>乌尔都语</item>
+        <item>希伯来语</item>
+        <item>西弗里斯语</item>
+        <item>西里西亚语</item>
+        <item>希利盖农语</item>
+        <item>下索布语</item>
+        <item>夏威夷语</item>
+        <item>新挪威语</item>
+        <item>西非书面语</item>
+        <item>信德语</item>
+        <item>修纳语</item>
+        <item>宿务语</item>
+        <item>叙利亚语</item>
+        <item>巽他语</item>
+        <item>印地语</item>
+        <item>印尼语</item>
+        <item>意第绪语</item>
+        <item>因特语</item>
+        <item>亚齐语</item>
+        <item>印古什语</item>
+        <item>伊博语</item>
+        <item>伊多语</item>
+        <item>约鲁巴语</item>
+        <item>亚美尼亚语</item>
+        <item>伊努克提图特语</item>
+        <item>伊朗语</item>
+        <item>扎扎其语</item>
+        <item>中古法语</item>
+        <item>祖鲁语</item>
+        <item>爪哇语</item>
     </string-array>
     <string-array name="lang_values">
         <item>auto</item>
@@ -451,24 +650,202 @@
         <item>swe</item>
         <item>pl</item>
         <item>vie</item>
+
+        <item>gle</item>
+        <item>oci</item>
+        <item>alb</item>
+        <item>aka</item>
+        <item>arg</item>
+        <item>amh</item>
+        <item>asm</item>
+        <item>aym</item>
+        <item>aze</item>
+        <item>ast</item>
+        <item>oss</item>
+        <item>oji</item>
+        <item>ori</item>
+        <item>orm</item>
+        <item>per</item>
+        <item>bre</item>
+        <item>bak</item>
+        <item>baq</item>
+        <item>pot</item>
+        <item>bel</item>
+        <item>ber</item>
+        <item>pam</item>
+        <item>sme</item>
+        <item>ped</item>
+        <item>bem</item>
+        <item>bli</item>
+        <item>bis</item>
+        <item>bal</item>
+        <item>ice</item>
+        <item>bos</item>
+        <item>bho</item>
+        <item>chv</item>
+        <item>tso</item>
+        <item>tat</item>
+        <item>sha</item>
+        <item>tet</item>
+        <item>div</item>
+        <item>log</item>
+        <item>fil</item>
+        <item>san</item>
+        <item>fri</item>
+        <item>ful</item>
+        <item>fao</item>
+        <item>gla</item>
+        <item>kon</item>
+        <item>ups</item>
+        <item>hkm</item>
+        <item>kal</item>
+        <item>geo</item>
+        <item>guj</item>
+        <item>gra</item>
+        <item>eno</item>
+        <item>grn</item>
+        <item>hup</item>
+        <item>hak</item>
+        <item>ht</item>
+        <item>hau</item>
+        <item>mot</item>
+        <item>kir</item>
+        <item>glg</item>
+        <item>frn</item>
+        <item>cat</item>
+        <item>kab</item>
+        <item>kan</item>
+        <item>kau</item>
+        <item>kah</item>
+        <item>cor</item>
+        <item>xho</item>
+        <item>cos</item>
+        <item>cre</item>
+        <item>cri</item>
+        <item>kli</item>
+        <item>hrv</item>
+        <item>que</item>
+        <item>kas</item>
+        <item>kok</item>
+        <item>kur</item>
+        <item>lat</item>
+        <item>lao</item>
+        <item>lag</item>
+        <item>lav</item>
+        <item>lim</item>
+        <item>lin</item>
+        <item>lug</item>
+        <item>ltz</item>
+        <item>ruy</item>
+        <item>kin</item>
+        <item>lit</item>
+        <item>roh</item>
+        <item>ro</item>
+        <item>loj</item>
+        <item>may</item>
+        <item>bur</item>
+        <item>mar</item>
+        <item>mg</item>
+        <item>mal</item>
+        <item>mac</item>
+        <item>mah</item>
+        <item>mai</item>
+        <item>glv</item>
+        <item>mau</item>
+        <item>mao</item>
+        <item>ben</item>
+        <item>mlt</item>
+        <item>hmn</item>
+        <item>nor</item>
+        <item>nea</item>
+        <item>nbl</item>
+        <item>afr</item>
+        <item>sot</item>
+        <item>nep</item>
+        <item>pan</item>
+        <item>pap</item>
+        <item>pus</item>
+        <item>nya</item>
+        <item>twi</item>
+        <item>chr</item>
+        <item>srd</item>
+        <item>sm</item>
+        <item>sec</item>
+        <item>srp</item>
+        <item>sol</item>
+        <item>sin</item>
+        <item>epo</item>
+        <item>nob</item>
+        <item>sk</item>
+        <item>swa</item>
+        <item>som</item>
+        <item>src</item>
+        <item>tr</item>
+        <item>tgk</item>
+        <item>tam</item>
+        <item>tgl</item>
+        <item>tir</item>
+        <item>tel</item>
+        <item>tua</item>
+        <item>tuk</item>
+        <item>ukr</item>
+        <item>wln</item>
+        <item>wel</item>
+        <item>ven</item>
+        <item>wol</item>
+        <item>urd</item>
+        <item>heb</item>
+        <item>fry</item>
+        <item>sil</item>
+        <item>hil</item>
+        <item>los</item>
+        <item>haw</item>
+        <item>nno</item>
+        <item>nqo</item>
+        <item>snd</item>
+        <item>sna</item>
+        <item>ceb</item>
+        <item>syr</item>
+        <item>sun</item>
+        <item>hi</item>
+        <item>id</item>
+        <item>yid</item>
+        <item>ina</item>
+        <item>ach</item>
+        <item>ing</item>
+        <item>ibo</item>
+        <item>ido</item>
+        <item>yor</item>
+        <item>arm</item>
+        <item>iku</item>
+        <item>ir</item>
+        <item>zaz</item>
+        <item>frm</item>
+        <item>zul</item>
+        <item>jav</item>
     </string-array>
+
     <string-array name="tts_engine_values">
         <item>system</item>
         <item>unisound</item>
+        <item>baidu</item>
     </string-array>
     <string-array name="tts_engine_entries">
-        <item>System TTS</item>
-        <item>Yunzhisheng TTS</item>
+        <item>System Sprachausgabe</item>
+        <item>Unisound</item>
+        <item>Baidu</item>
     </string-array>
     <string-array name="tts_engine_vip_values">
         <item>system</item>
         <item>iflytek</item>
         <item>unisound</item>
+        <item>baidu</item>
     </string-array>
     <string-array name="tts_engine_vip_entries">
-        <item>System TTS</item>
-        <item>Xunfei TTS</item>
-        <item>Yunzhisheng TTS</item>
+        <item>System Sprachausgabe</item>
+        <item>IFlytek</item>
+        <item>Uni sound</item>
+        <item>Baidu Cloud TTS</item>
     </string-array>
     <string-array name="alarm_interval_values">
         <item>5</item>
@@ -478,11 +855,11 @@
         <item>60</item>
     </string-array>
     <string-array name="alarm_interval_entries">
-        <item>Jede 5 Minuten</item>
-        <item>Jede 10 Minute</item>
-        <item>Jede 15 Minuten</item>
-        <item>Jede 30 Minuten</item>
-        <item>Jede 60 Minuten</item>
+        <item>Nach 5 minuten</item>
+        <item>Nach 10 minuten</item>
+        <item>Nach 15 minuten</item>
+        <item>Nach 30 minuten</item>
+        <item>Nach 1 Stunde</item>
     </string-array>
     <string-array name="timer_interval_values">
         <item>1</item>
@@ -491,10 +868,10 @@
         <item>15</item>
     </string-array>
     <string-array name="timer_interval_entries">
-        <item>1 Minute</item>
-        <item>5 Minuten</item>
-        <item>10 Minuten</item>
-        <item>15 Minuten</item>
+        <item>1 minute</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
     </string-array>
     <string-array name="alarm_hour_values">
         <item>0</item>
@@ -524,8 +901,8 @@
         <item>24</item>
     </string-array>
     <string-array name="recognizer_lang_entries">
-        <item>Chinesisch simplified</item>
-        <item>Chinesisch traditional</item>
+        <item>Chinesisch einfach</item>
+        <item>Chinesisch cantonese</item>
         <item>Englisch</item>
     </string-array>
     <string-array name="recognizer_lang_values">
@@ -547,84 +924,89 @@
         <item>4</item>
         <item>5</item>
     </string-array>
-    <string-array name="web_type_title">
+    <string-array name="web_type_title" >
         <item>Standard</item>
         <item>Überschriften</item>
         <item>Links</item>
         <item>Schaltflächen</item>
+
         <item>Regionen</item>
-        <item>Eingabefelder</item>
-        <item>Fokusierbare Elemente</item>
-        <item>Steuerelement</item>
+        <item>Textfelder</item>
+        <item>Fokussierbare Elemente</item>
+        <item>Steuerelemente</item>
         <item>Bilder</item>
         <item>Kontrollkästchen</item>
-        <item>Konbinationsfelder</item>
+        <item>Kombinationsfelder</item>
         <item>Formularfelder</item>
         <item>Listen</item>
         <item>Listeneinträge</item>
 
-        <item>Scroll</item>
-        <item>View</item>
+        <item>Scrollmodus</item>
+        <item>Bildschirmansichten</item>
 
         <item>Zeichen</item>
-        <item>Wort</item>
+        <item>Wörter</item>
         <item>Zeilen</item>
-        <item>Pagarpah</item>
+        <item>Absätze</item>
         <item>Seiten</item>
-        <item>Kopieren</item>
+        <item>Kopieren/Anhängen</item>
         <item>Lautstärke</item>
         <item>Sprechgeschwindigkeit</item>
-        <item>Texterkennung</item>
-        </string-array>
-    <string-array name="hot_key_help_items" >
-        <item>Strg+DPAD_hoch: Focus auf vorheriges Element setzen</item>
-        <item>Strg+DPAD_Runter: Focus auf nächstes Element setzen</item>
-        <item>Strg+DPAD_Links: Linke Seite Kurzbefehl</item>
-        <item>Strg+DPAD_Rechts: Rechte Seite Kurzbefehl</item>
-        <item>Strg+Bild-auf: Nach oben scrollen</item>
-        <item>Strg+Bild-ab: Nach unten scrollen</item>
-        <item>Strg+H: Zum Startbildschirm</item>
-        <item>Strg+N: Benachrichtigungsleiste</item>
-        <item>Strg+P: App Übersicht</item>
-        <item>Strg+Leertaste: Element aktivieren</item>
-        <item>Strg+L: Tippen und halten</item>
-        <item>Strg+Q: Schnelleinstellungen</item>
+        <item>Texterkennung und Übersetzung</item>
+        <item>Fenster</item>
 
-        <item>Alt+M: Jieshuo Menü</item>
-        <item>Alt+A: Aktionen Menü</item>
-        <item>Alt+P: Erweiterungen</item>
-        <item>Alt+T: Werkzeuge</item>
-        <item>Alt+V: Sprachassistent</item>
-        <item>Alt+S: Erweitertes Kopieren von Text</item>
-        <item>Alt+L: Listennavigation</item>
     </string-array>
-    <string-array name="view_type_title">
+
+    <string-array name="hot_key_help_items" >
+        <item>CTRL+DPAD_UP: Vorheriges Element</item>
+        <item>CTRL+DPAD_DOWN: Nächtes Element</item>
+        <item>CTRL+DPAD_LEFT: Linke Kurztaste</item>
+        <item>CTRL+DPAD_RIGHT: Rechte Kurztaste</item>
+        <item>CTRL+PAGE_UP: Nach oben scrollen</item>
+        <item>CTRL+PAGE_DOWN: Nach unten scrollen</item>
+        <item>CTRL+H: Startbildschirm</item>
+        <item>CTRL+N: Benachrichtigungsleiste</item>
+        <item>CTRL+P: Zuletzt geöffnete Apps</item>
+        <item>CTRL+SPACE: Click</item>
+        <item>CTRL+L: Langer Druck</item>
+        <item>CTRL+Q: Schnelleinstellungen</item>
+
+        <item>ALT+M: Hauptmenü</item>
+        <item>ALT+A: Funktionsmenü</item>
+        <item>ALT+P: Erweiterungen</item>
+        <item>ALT+T: Werkzeuge</item>
+        <item>ALT+V: Sprachassistent</item>
+        <item>ALT+S: Navigationsebenen im Bearbeitungsmodus</item>
+        <item>ALT+L: Objektliste anzeigen</item>
+
+    </string-array>
+      <string-array name="view_type_title" >
         <item>Standard</item>
-        <item>Text</item>
-        <item>Schaltfläche</item>
-        <item>Eingabefeld</item>
+        <item>Beschriftungen</item>
+        <item>Schaltflächen</item>
+        <item>Textfelder</item>
 
-        <item>Bild</item>
+        <item>Bilder</item>
         <item>Kontrollkästchen</item>
-        <item>Fortschrittsanzeige</item>
-        <item>Liste</item>
-        <item>Listeneintrag</item>
-        <item>Fokusierbares Element</item>
-        <item>Anklickbares Element</item>
-        <item>Objekt</item>
-        <item>Schieberegler</item>
-        <item>Vertikal bewegen</item>
-
+        <item>Fortschrittsanzeigen</item>
+        <item>Listen</item>
+        <item>Listenelemente</item>
+        <item>Fokusierbare Elemente</item>
+        <item>Aktivierbare Elemente</item>
+        <item>Objekte</item>
+        <item>Scrollmodus</item>
+        <item>Vertikale Navigation</item>
 
         <item>Zeichen</item>
-        <item>Wort</item>
-        <item>Zeile</item>
-        <item>Absatz</item>
-        <item>Seite</item>
-        <item>Kopieren</item>
+        <item>Wörter</item>
+        <item>Zeilen</item>
+        <item>Überschriften</item>
+        <item>Seiten</item>
+        <item>Kopiermodus</item>
         <item>Lautstärke</item>
         <item>Sprechgeschwindigkeit</item>
-        <item>Texterkennung</item>
+        <item>Texterkennung und Übersetzung</item>
+        <item>Fenster</item>
 
     </string-array>
 

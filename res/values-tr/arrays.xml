@@ -179,7 +179,26 @@
         <item>@string/command_to_split_screen</item>
         <item>@string/switch_multi_finger_gestures</item>
 
-    </string-array>
+        <item>@string/command_to_next_char</item>
+        <item>@string/command_to_previous_char</item>
+        <item>@string/command_to_next_word</item>
+        <item>@string/command_to_previous_word</item>
+        <item>@string/command_to_next_row</item>
+        <item>@string/command_to_previous_row</item>
+        <item>@string/command_to_next_paragraph</item>
+        <item>@string/command_to_previous_paragraph</item>
+        <item>@string/command_to_head_set_key</item>
+        <item>@string/edit_dict</item>
+        <item>@string/command_toggle_tts_engine</item>
+        <item>@string/command_speak_light</item>
+        <item>@string/command_add_content_blacklist</item>
+
+        <item>@string/command_media_previous</item>
+        <item>@string/command_media_next</item>
+        <item>@string/command_previous_window</item>
+        <item>@string/command_next_window</item>
+
+        </string-array>
 
     <string-array name="lang_entries">
         <item>otomatik</item>
@@ -211,9 +230,182 @@
         <item>Isveçce</item>
         <item>Lehce</item>
         <item>Viyetnamca</item>
+
+        <item>İrlandaca</item>
+        <item>Oksitanca</item>
+        <item>Arnavutça</item>
+        <item>Akan dili</item>
+        <item>Aragonca</item>
+        <item>Amharca</item>
+        <item>Assam dili</item>
+        <item>Aymara</item>
+        <item>Azeri Türkçesi</item>
+        <item>Asturyan</item>
+        <item>Osetçe</item>
+        <item>Ojebwa</item>
+        <item>Ortaca</item>
+        <item>Oromo</item>
+        <item>Farsça</item>
+        <item>Bretonca</item>
+        <item>Başkurtça</item>
+        <item>Baskça</item>
+        <item>Portekizce (Brezilya)</item>
+        <item>Belarusça</item>
+        <item>Berberi</item>
+        <item>Pampanga</item>
+        <item>Kuzey Sami dili</item>
+        <item>Kuzey Soto dili</item>
+        <item>Bumba</item>
+        <item>Bantuca</item>
+        <item>Bislama</item>
+        <item>Baluchi</item>
+        <item>İzlandaca</item>
+        <item>Boşnakça</item>
+        <item>Bhojpuri</item>
+        <item>Çuvaşça</item>
+        <item>Tsongaca</item>
+        <item>Tatarca</item>
+        <item>Shan dili</item>
+        <item>Lakotaca</item>
+        <item>Dhivehi</item>
+        <item>Düşük Almanca</item>
+        <item>Filipince</item>
+        <item>Sanskritçe</item>
+        <item>Friuli dili</item>
+        <item>Fulani</item>
+        <item>Faroe dili</item>
+        <item>Galce</item>
+        <item>Kongo dili</item>
+        <item>Yukarı Sorbca</item>
+        <item>Kamboçya dili</item>
+        <item>Grönland dili</item>
+        <item>Gürcüce</item>
+        <item>Gujarati</item>
+        <item>Antik Yunanca</item>
+        <item>Eski İngilizce</item>
+        <item>Guarani dili</item>
+        <item>Hupaca</item>
+        <item>Hakas dili</item>
+        <item>Haiti dili</item>
+        <item>Hausaca</item>
+        <item>Karadağca</item>
+        <item>Kırgızca</item>
+        <item>Galiçyaca</item>
+        <item>Fransızca (Kanada)</item>
+        <item>Katalanca</item>
+        <item>Kabyle Berbericesi</item>
+        <item>Kannada</item>
+        <item>Kanurice</item>
+        <item>Kaşupça</item>
+        <item>Korniş dili</item>
+        <item>Xhosa dili</item>
+        <item>Korsika dili</item>
+        <item>Muscogee dili</item>
+        <item>Kırım Tatarcası</item>
+        <item>Klingonca</item>
+        <item>Hırvatça</item>
+        <item>Keçuva dili</item>
+        <item>Keşmir dili</item>
+        <item>Konkani dili</item>
+        <item>Kürtçe</item>
+        <item>Latince</item>
+        <item>Laosça</item>
+        <item>Latjalai</item>
+        <item>Letonca</item>
+        <item>Limburgca</item>
+        <item>Lingala</item>
+        <item>Luganda dili</item>
+        <item>Lüksemburg dili</item>
+        <item>Rusça</item>
+        <item>Ruandaca</item>
+        <item>Litvanca</item>
+        <item>Romansça</item>
+        <item>Roman dili</item>
+        <item>Lojban (Yapay Mantık dili)</item>
+        <item>Malayca</item>
+        <item>Burma dili</item>
+        <item>Marathice</item>
+        <item>Malgasça</item>
+        <item>Malayalamca</item>
+        <item>Makedonca</item>
+        <item>Marshall dili</item>
+        <item>Mathili dili</item>
+        <item>Man Galcesi</item>
+        <item>Mauritius Kreyolu</item>
+        <item>Maori dili</item>
+        <item>Bengalce</item>
+        <item>Maltaca</item>
+        <item>Hmong dili</item>
+        <item>Norveççe</item>
+        <item>Napolitan</item>
+        <item>Güney Ndebele dili</item>
+        <item>Afrikanca</item>
+        <item>Güney Soto dili</item>
+        <item>Nepalce</item>
+        <item>Pencapça</item>
+        <item>Papiamento</item>
+        <item>Peştuca</item>
+        <item>Chichewa</item>
+        <item>Twi</item>
+        <item>Çeroki</item>
+        <item>Sardunyaca</item>
+        <item>Samoaca</item>
+        <item>Sırbistan Hırvatçası</item>
+        <item>Sırpça</item>
+        <item>Songhai dili</item>
+        <item>Sinhala</item>
+        <item>Esperanto</item>
+        <item>Yazılı Norveççe</item>
+        <item>Slovakça</item>
+        <item>Svahili</item>
+        <item>Somalice</item>
+        <item>Sırpça (Kiril)</item>
+        <item>Türkçe</item>
+        <item>Tacikçe</item>
+        <item>Tamilce</item>
+        <item>Tagalog</item>
+        <item>Tigrinya dili</item>
+        <item>Telugu</item>
+        <item>Tunus Arapçası</item>
+        <item>Türkmence</item>
+        <item>Ukraynaca</item>
+        <item>Valonca</item>
+        <item>Gallerce</item>
+        <item>Wenda</item>
+        <item>Wolof</item>
+        <item>Urduca</item>
+        <item>İbranice</item>
+        <item>Batı Frizcesi</item>
+        <item>Silezya dili</item>
+        <item>Hiliganun</item>
+        <item>Aşağı Sorbca</item>
+        <item>Hawaii dili</item>
+        <item>Yeni Norveççe</item>
+        <item>Yazılı Batı Afrika dili</item>
+        <item>Sindhi</item>
+        <item>Sona dili</item>
+        <item>Sabuanca</item>
+        <item>Süryanice</item>
+        <item>Sunda dili</item>
+        <item>Hintçe</item>
+        <item>Endonezyaca</item>
+        <item>Yidce</item>
+        <item>İnterlingua</item>
+        <item>Açece</item>
+        <item>İngus dili</item>
+        <item>İbo dili</item>
+        <item>İdo</item>
+        <item>Yorubaca</item>
+        <item>Ermenice</item>
+        <item>İnuitçe</item>
+        <item>Persapolis</item>
+        <item>Zazaca</item>
+        <item>Orta Fransızca</item>
+        <item>Zuluca</item>
+        <item>Cava dili</item>
     </string-array>
     <string-array name="lang_values">
-        <item>Otomatik</item>
+        <item>auto</item>
         <item>kor</item>
         <item>wyw</item>
         <item>cht</item>
@@ -242,7 +434,181 @@
         <item>swe</item>
         <item>pl</item>
         <item>vie</item>
+
+        <item>gle</item>
+        <item>oci</item>
+        <item>alb</item>
+        <item>aka</item>
+        <item>arg</item>
+        <item>amh</item>
+        <item>asm</item>
+        <item>aym</item>
+        <item>aze</item>
+        <item>ast</item>
+        <item>oss</item>
+        <item>oji</item>
+        <item>ori</item>
+        <item>orm</item>
+        <item>per</item>
+        <item>bre</item>
+        <item>bak</item>
+        <item>baq</item>
+        <item>pot</item>
+        <item>bel</item>
+        <item>ber</item>
+        <item>pam</item>
+        <item>sme</item>
+        <item>ped</item>
+        <item>bem</item>
+        <item>bli</item>
+        <item>bis</item>
+        <item>bal</item>
+        <item>ice</item>
+        <item>bos</item>
+        <item>bho</item>
+        <item>chv</item>
+        <item>tso</item>
+        <item>tat</item>
+        <item>sha</item>
+        <item>tet</item>
+        <item>div</item>
+        <item>log</item>
+        <item>fil</item>
+        <item>san</item>
+        <item>fri</item>
+        <item>ful</item>
+        <item>fao</item>
+        <item>gla</item>
+        <item>kon</item>
+        <item>ups</item>
+        <item>hkm</item>
+        <item>kal</item>
+        <item>geo</item>
+        <item>guj</item>
+        <item>gra</item>
+        <item>eno</item>
+        <item>grn</item>
+        <item>hup</item>
+        <item>hak</item>
+        <item>ht</item>
+        <item>hau</item>
+        <item>mot</item>
+        <item>kir</item>
+        <item>glg</item>
+        <item>frn</item>
+        <item>cat</item>
+        <item>kab</item>
+        <item>kan</item>
+        <item>kau</item>
+        <item>kah</item>
+        <item>cor</item>
+        <item>xho</item>
+        <item>cos</item>
+        <item>cre</item>
+        <item>cri</item>
+        <item>kli</item>
+        <item>hrv</item>
+        <item>que</item>
+        <item>kas</item>
+        <item>kok</item>
+        <item>kur</item>
+        <item>lat</item>
+        <item>lao</item>
+        <item>lag</item>
+        <item>lav</item>
+        <item>lim</item>
+        <item>lin</item>
+        <item>lug</item>
+        <item>ltz</item>
+        <item>ruy</item>
+        <item>kin</item>
+        <item>lit</item>
+        <item>roh</item>
+        <item>ro</item>
+        <item>loj</item>
+        <item>may</item>
+        <item>bur</item>
+        <item>mar</item>
+        <item>mg</item>
+        <item>mal</item>
+        <item>mac</item>
+        <item>mah</item>
+        <item>mai</item>
+        <item>glv</item>
+        <item>mau</item>
+        <item>mao</item>
+        <item>ben</item>
+        <item>mlt</item>
+        <item>hmn</item>
+        <item>nor</item>
+        <item>nea</item>
+        <item>nbl</item>
+        <item>afr</item>
+        <item>sot</item>
+        <item>nep</item>
+        <item>pan</item>
+        <item>pap</item>
+        <item>pus</item>
+        <item>nya</item>
+        <item>twi</item>
+        <item>chr</item>
+        <item>srd</item>
+        <item>sm</item>
+        <item>sec</item>
+        <item>srp</item>
+        <item>sol</item>
+        <item>sin</item>
+        <item>epo</item>
+        <item>nob</item>
+        <item>sk</item>
+        <item>swa</item>
+        <item>som</item>
+        <item>src</item>
+        <item>tr</item>
+        <item>tgk</item>
+        <item>tam</item>
+        <item>tgl</item>
+        <item>tir</item>
+        <item>tel</item>
+        <item>tua</item>
+        <item>tuk</item>
+        <item>ukr</item>
+        <item>wln</item>
+        <item>wel</item>
+        <item>ven</item>
+        <item>wol</item>
+        <item>urd</item>
+        <item>heb</item>
+        <item>fry</item>
+        <item>sil</item>
+        <item>hil</item>
+        <item>los</item>
+        <item>haw</item>
+        <item>nno</item>
+        <item>nqo</item>
+        <item>snd</item>
+        <item>sna</item>
+        <item>ceb</item>
+        <item>syr</item>
+        <item>sun</item>
+        <item>hi</item>
+        <item>id</item>
+        <item>yid</item>
+        <item>ina</item>
+        <item>ach</item>
+        <item>ing</item>
+        <item>ibo</item>
+        <item>ido</item>
+        <item>yor</item>
+        <item>arm</item>
+        <item>iku</item>
+        <item>ir</item>
+        <item>zaz</item>
+        <item>frm</item>
+        <item>zul</item>
+        <item>jav</item>
     </string-array>
+
     <string-array name="left_button">
         <item>Kapat</item>
         <item>Reddet</item>
@@ -515,8 +881,8 @@
     <string-array name="vibrate_intensity_entries">
         <item>Hafif</item>
         <item>Orta</item>
-        <item>Yoğun</item>
-        <item>En yoğun</item>
+        <item>Güçlü</item>
+        <item>En güçlü</item>
     </string-array>
     <string-array name="vibrate_intensity_values">
         <item>12</item>
@@ -566,6 +932,7 @@
         <item>Ses seviyesi</item>
         <item>Konuşma hızı</item>
         <item>Metin Tanıma ve Çeviri</item>
+        <item>Pencere</item>
     </string-array>
 
     <string-array name="hot_key_help_items" >
@@ -608,8 +975,6 @@
         <item>Kaydırıcı değerini değiştir</item>
         <item>Dikey kaydırma</item>
 
-
-
         <item>Karakterler</item>
         <item>Sözcükler</item>
         <item>Satırlar</item>
@@ -619,6 +984,7 @@
         <item>Ses seviyesi</item>
         <item>Konuşma hızı</item>
         <item>Metin Tanıma ve Çeviri</item>
+        <item>Pencere</item>
 
     </string-array>
 

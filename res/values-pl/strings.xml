@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name"> Commentary Screenreader</string>
+    <string name="app_name">Commentary Screenreader</string>
     <string name="accessibility_service_description"><![CDATA[
         Commentary Screenreader to program, który ma pomóc osobom niewidomym korzystać z telefonów komórkowych. Podjęliśmy pewne próby innowacji, dzięki którym jego użytkowanie jest jeszcze prostsze.
         Aby uzyskać więcej szczegółów, otwórz pomoc > ustawienia.\n
@@ -1214,10 +1214,80 @@
     <string name="msg_replaced">Pomyślnie dodano szablon rozpoznawania.</string>
     <string name="use_touch_stop_title">Przerywaj mowę po dotknięciu ekranu</string>
     <string name="continuous_recognition">Stałe rozpoznawanie</string>
-    <string name="edit_dict">编辑词典</string>
-    <string name="up_volume_key_off_title">关屏状态长按音量增加键</string>
-    <string name="down_volume_key_off_title">关屏状态长按音量减小键</string>
-    <string name="use_loop_move_space_title">在焦点循环前增加空焦点提示</string>
-    <string name="use_view_type_move_mode_title">使用新的类型导航手势</string>
-    <string name="use_view_type_move_mode_summary">打开后按试图类型浏览，默认使用先上后下和先下后上切换类型，使用向左和向右切换项目，默认类型执行原快捷功能；\n关闭时使用向左或向右手势切换类型，使用向上或向下切换项目，默认类型移动焦点。</string>
+        <string name="edit_dict">Edytuj słownik</string>
+    <string name="up_volume_key_off_title">Długie naciśnięcie przycisku zwiększania głośności, ekran zablokowany</string>
+    <string name="down_volume_key_off_title">Długie przyciśnięcie przycisku zmniejszania głośności, ekran zablokowany</string>
+    <string name="use_loop_move_space_title">Informuj o zawijaniu ekranu</string>
+    <string name="use_view_type_move_mode_title">Używaj nowego trybu nawigacji po typach kontrolek</string>
+    <string name="use_view_type_move_mode_summary">Ta opcja pozwala na na nawigację po typach kontrolek. Domyślnie, gesty gura, dół i dół, gura służą do wybrania typu, a przesunięcia w lewo i w prawo - do nawigacji.\nTyp domyślny przesuwa kursor normalnie.</string>
+    <string name="app_hot_key_shortcut_title">Skróty głośności aplikacji</string>
+    <string name="shared_cloud_label">Udostępnij własne etykiety w chmurze</string>
+    <string name="use_more_node_title">Tryb szczegółowego fokusa</string>
+    <string name="use_more_node_summary">Ta opcja może wpłynąć na wyświetlenie większej liczby fokusowalnych elementów. Włączaj i wyłączaj ją według uznania.</string>
+    <string name="use_multi_hot_key_title">Używaj funkcji wielu naciśnięć przycisków głośności</string>
+    <string name="up_volume_2_key_title">Podwójne przyciśnięcie przycisku zwiększania głośności</string>
+    <string name="up_volume_3_key_title">Trzykrotne przyciśnięcie przycisku zwiększania głośności</string>
+    <string name="down_volume_2_key_title">Podwójne przyciśnięcie przycisku zmniejszania głośności</string>
+    <string name="down_volume_3_key_title">Trzykrotne przyciśnięcie przycisku zmniejszania głośności</string>
+    <string name="command_to_next_char">Następny znak</string>
+    <string name="command_to_previous_char">Poprzedni znak</string>
+    <string name="command_to_next_word">Następne słowo</string>
+    <string name="command_to_previous_word">Previous word</string>
+    <string name="command_to_next_row">Następne zdanie</string>
+    <string name="command_to_previous_row">Poprzednie zdanie</string>
+    <string name="command_to_next_paragraph">Następny akapit</string>
+    <string name="command_to_previous_paragraph">Poprzedni akapit</string>
+    <string name="command_to_head_set_key">Play/pauza</string>
+    <string name="msg_selected_from_to">Wybrano%dDo pierwszego%dznaku</string>
+    <string name="album_activity">Album z komentarzami</string>
+    <string name="command_toggle_tts_engine">Przełącz bibliotekę głosową</string>
+    <string name="command_speak_light">Aktualna jasność</string>
+    <string name="use_recording_stop_title">Wycisz program podczas korzystania z mikrofonu</string>
+    <string name="use_speak_call_time_title">Odczytuj czas trwania połączenia</string>
+    <string name="use_speak_call_time_summary">Odczytuj czas po zakończeniu rozmowy - wymaganie zezwolenie na rejestrację rozmów</string>
+    <string name="use_list_item_index_real_time_title">Postęp przewijania listy czytania w czasie rzeczywistym</string>
+    <string name="add_favorites">Dodaj do ulubionych</string>
+    <string name="save_as_file">Zapisz lokalnie</string>
+    <string name="save_as_cloud">Zapisz jako notatkę w chmurze</string>
+    <string name="msg_toggle_tts">Przełączono bibliotekę głosową</string>
+    <string name="curren_char_idx">%dlinia%dznak</string>
+    <string name="command_media_previous">Poprzedni kawałek</string>
+    <string name="command_media_next">Następny kawałek</string>
+    <string name="use_answer_phone_calls_gesture_title">Odbieraj i rozłączaj połączenia w dowolnej aplikacji</string>
+    <string name="command_previous_window">Poprzednie  okno</string>
+    <string name="command_next_window">Następne okno</string>
+    <string name="accessibility_focus_appearance_title">Ustawienie ramki wskaźnika fokusa</string>
+    <string name="alpha">Poprzez</string>
+    <string name="red">Czerwony</string>
+    <string name="green">Zielony</string>
+    <string name="blue">Niebieski</string>
+    <string name="stroke">Grubość</string>
+    <string name="gesture_2_triple_tap_hold">Trzykrotne stuknięcie z przytrzymaniem dwoma palcami</string>
+    <string name="gesture_3_triple_tap_hold">Trzykrotne stuknięcie trzema palcami z przytrzymaniem</string>
+    <string name="gesture_4_triple_tap_hold">Trzykrotne stuknięcie czterema palcami z przytrzymaniem</string>
+    <string name="up_long">Przesunięcie i potem krótkie rozsunięcie</string>
+    <string name="up_right_long">W górę i w prawo z przytrzymaniem</string>
+    <string name="up_down_long">W górę a potem w dół z przytrzymaniem</string>
+    <string name="up_left_long">W górę i w lewo z przytrzymaniem</string>
+    <string name="down_long">W dół z przytrzymaniem</string>
+    <string name="down_right_long">W duł i w prawo z przytrzymaniem</string>
+    <string name="down_up_long">Duł i góra z przytrzymaniem</string>
+    <string name="down_left_long">W duł i w lewo z przytrzymaniem</string>
+    <string name="left_long">W lewo z przytrzymaniem</string>
+    <string name="left_up_long">Lewo góra z przytrzymaniem</string>
+    <string name="left_down_long">Lewo i w duł z przytrzymaniem</string>
+    <string name="left_right_long">W lewo i w prawo z przytrzymaniem</string>
+    <string name="right_long">W prawoz przytrzymaniem</string>
+    <string name="right_up_long">Kliknij i przytrzymaj</string>
+    <string name="right_down_long">Kliknij i w duł z przytrzymaniem</string>
+    <string name="right_left_long">W prawo i w lewo z przytrzymaniem</string>
+    <string name="keep_focus_position_speak_title">朗读记忆的焦点</string>
+    <string name="save_as_cmd">保存为指令</string>
+    <string name="execute_cmd">是否运行下边指令</string>
+    <string name="command_show_nodeinfo">节点详情</string>
+    <string name="copy_as_jieshuo_cmd">复制为解说口令</string>
+    <string name="copy_text_auto_execute">复制文字自动执行</string>
+    <string name="msg_cmd_copyed">已复制，粘贴分享吧</string>
+
+
 </resources>

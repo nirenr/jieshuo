@@ -106,7 +106,26 @@
         <item>@string/command_to_split_screen</item>
         <item>@string/switch_multi_finger_gestures</item>
 
-    </string-array>
+        <item>@string/command_to_next_char</item>
+        <item>@string/command_to_previous_char</item>
+        <item>@string/command_to_next_word</item>
+        <item>@string/command_to_previous_word</item>
+        <item>@string/command_to_next_row</item>
+        <item>@string/command_to_previous_row</item>
+        <item>@string/command_to_next_paragraph</item>
+        <item>@string/command_to_previous_paragraph</item>
+        <item>@string/command_to_head_set_key</item>
+        <item>@string/edit_dict</item>
+        <item>@string/command_toggle_tts_engine</item>
+        <item>@string/command_speak_light</item>
+        <item>@string/command_add_content_blacklist</item>
+
+        <item>@string/command_media_previous</item>
+        <item>@string/command_media_next</item>
+        <item>@string/command_previous_window</item>
+        <item>@string/command_next_window</item>
+
+        </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
         <item>@string/command_long_click</item>
@@ -403,7 +422,6 @@
         <item>اِسلُووینیایی</item>
         <item>ژاپنی</item>
         <item>انگلیسی</item>
-        <item>فارسی</item>
         <item>عربی</item>
         <item>کانتونی</item>
         <item>مجاری</item>
@@ -422,7 +440,180 @@
         <item>سوئدی</item>
         <item>لهستانی</item>
         <item>ویتنامی</item>
-    </string-array>
+
+        <item>Irish</item>
+        <item>Occitan</item>
+        <item>Albanian</item>
+        <item>Akan language</item>
+        <item>Aragonese</item>
+        <item>Amharic</item>
+        <item>Assamese</item>
+        <item>Aymara</item>
+        <item>Azerbaijani</item>
+        <item>Asturian</item>
+        <item>Ossetian</item>
+        <item>Ojebwa</item>
+        <item>Oriya</item>
+        <item>Oromo language</item>
+        <item>Persian</item>
+        <item>Brittany</item>
+        <item>Bashkir</item>
+        <item>Basque</item>
+        <item>Brazilian Portuguese</item>
+        <item>Belarusian</item>
+        <item>Berber</item>
+        <item>Pampanga</item>
+        <item>Northern Sami language</item>
+        <item>North Sotho</item>
+        <item>Bumba</item>
+        <item>Bilin</item>
+        <item>Bislama</item>
+        <item>Baluchi</item>
+        <item>Icelandic</item>
+        <item>Bosnian</item>
+        <item>Bhojpur</item>
+        <item>Chuvashi</item>
+        <item>Congga</item>
+        <item>Tatar language</item>
+        <item>Shan language</item>
+        <item>Tetun</item>
+        <item>Dhivehi</item>
+        <item>Low German</item>
+        <item>Filipino</item>
+        <item>Sanskrit</item>
+        <item>Friuli</item>
+        <item>Fulani</item>
+        <item>Faroese</item>
+        <item>Gaelic</item>
+        <item>Congo</item>
+        <item>Highland Sorbian</item>
+        <item>Khmer language</item>
+        <item>Greenlandic</item>
+        <item>Georgian</item>
+        <item>Gujarati</item>
+        <item>Ancient Greek</item>
+        <item>Old English</item>
+        <item>Guarani</item>
+        <item>Hupa language</item>
+        <item>Hakachin</item>
+        <item>Haiti</item>
+        <item>Hausa</item>
+        <item>Montenegro</item>
+        <item>Kyrgyzstan</item>
+        <item>Galician</item>
+        <item>Canadian French</item>
+        <item>Catalan</item>
+        <item>Kabyle</item>
+        <item>Kannada</item>
+        <item>Kanuri</item>
+        <item>Kashubian</item>
+        <item>Cornish</item>
+        <item>Xhosa</item>
+        <item>Corsican</item>
+        <item>Crick language</item>
+        <item>Crimean Tatar</item>
+        <item>Klingon</item>
+        <item>Croatian</item>
+        <item>Quchua</item>
+        <item>Kashmiri</item>
+        <item>Konkani</item>
+        <item>Kurdish</item>
+        <item>Latin</item>
+        <item>Laotian</item>
+        <item>Latjalai</item>
+        <item>Latvian</item>
+        <item>Limburgish</item>
+        <item>Lingala language</item>
+        <item>Luganda</item>
+        <item>Luxembourgish</item>
+        <item>Russynian</item>
+        <item> Kinyarwanda</item>
+        <item>Lithuanian</item>
+        <item>Romansh</item>
+        <item>Roma</item>
+        <item>Logical language</item>
+        <item>Malay</item>
+        <item>Burmese</item>
+        <item>Marathi</item>
+        <item>Malagas language</item>
+        <item> Malayalam</item>
+        <item>Macedonian</item>
+        <item>Marshallese</item>
+        <item>Maitili</item>
+        <item>Manks language</item>
+        <item>Mauritian Creole</item>
+        <item>Maori</item>
+        <item>Bengali</item>
+        <item>Maltese</item>
+        <item>Miao language</item>
+        <item>Norwegian</item>
+        <item>Neapolitan</item>
+        <item>South Ndebele</item>
+        <item>Afrikaans</item>
+        <item>South Sotho</item>
+        <item>Nepalese</item>
+        <item>Punjabi</item>
+        <item>Papiamento language</item>
+        <item>Pashto language</item>
+        <item>Chichewa</item>
+        <item>Thivi language</item>
+        <item>Cherokee</item>
+        <item>Sardinian</item>
+        <item>Samoan</item>
+        <item>Serbian-Croatian</item>
+        <item>Serbian</item>
+        <item>Sanghai language</item>
+        <item>Sinhala</item>
+        <item>Esperanto</item>
+        <item>Written Norwegian</item>
+        <item>Slovak</item>
+        <item>Swahili</item>
+        <item>Somali</item>
+        <item>Serbian (Cyrillic)</item>
+        <item>Turkish</item>
+        <item>Tajik</item>
+        <item>Tamil</item>
+        <item>Tagalog</item>
+        <item>Tigrinya</item>
+        <item>Telugu</item>
+        <item>Tunisian Arabic</item>
+        <item>Turkmen</item>
+        <item>Ukrainian</item>
+        <item>Walloon</item>
+        <item>Welsh</item>
+        <item>Venda language</item>
+        <item>Wolof language</item>
+        <item>Urdu</item>
+        <item>Hebrew</item>
+        <item>West Frisian</item>
+        <item>Silesian</item>
+        <item>Hiliganun</item>
+        <item>Lower Sorbian</item>
+        <item>Hawaiian</item>
+        <item>New Norwegian</item>
+        <item>West African written language</item>
+        <item>Sindish</item>
+        <item>Shona</item>
+        <item>Cebuano</item>
+        <item>Syrian</item>
+        <item>Sundanese</item>
+        <item>Hindi</item>
+        <item>Indonesian</item>
+        <item>Yiddish</item>
+        <item>Inter-language</item>
+        <item>Aceh language</item>
+        <item>Ingush language</item>
+        <item>Igbo language</item>
+        <item>Ido language</item>
+        <item>Yoruba language</item>
+        <item>Armenian</item>
+        <item>Inuktitut Language</item>
+        <item>Persian</item>
+        <item>Zazaqi language</item>
+        <item>Middle French</item>
+        <item>Zulu</item>
+        <item>Javanese</item>
+		</string-array>
     <string-array name="lang_values">
         <item>auto</item>
         <item>kor</item>
@@ -435,7 +626,6 @@
         <item>slo</item>
         <item>jp</item>
         <item>en</item>
-        <item>fa</item>
         <item>ara</item>
         <item>yue</item>
         <item>hu</item>
@@ -454,7 +644,181 @@
         <item>swe</item>
         <item>pl</item>
         <item>vie</item>
+
+        <item>gle</item>
+        <item>oci</item>
+        <item>alb</item>
+        <item>aka</item>
+        <item>arg</item>
+        <item>amh</item>
+        <item>asm</item>
+        <item>aym</item>
+        <item>aze</item>
+        <item>ast</item>
+        <item>oss</item>
+        <item>oji</item>
+        <item>ori</item>
+        <item>orm</item>
+        <item>per</item>
+        <item>bre</item>
+        <item>bak</item>
+        <item>baq</item>
+        <item>pot</item>
+        <item>bel</item>
+        <item>ber</item>
+        <item>pam</item>
+        <item>sme</item>
+        <item>ped</item>
+        <item>bem</item>
+        <item>bli</item>
+        <item>bis</item>
+        <item>bal</item>
+        <item>ice</item>
+        <item>bos</item>
+        <item>bho</item>
+        <item>chv</item>
+        <item>tso</item>
+        <item>tat</item>
+        <item>sha</item>
+        <item>tet</item>
+        <item>div</item>
+        <item>log</item>
+        <item>fil</item>
+        <item>san</item>
+        <item>fri</item>
+        <item>ful</item>
+        <item>fao</item>
+        <item>gla</item>
+        <item>kon</item>
+        <item>ups</item>
+        <item>hkm</item>
+        <item>kal</item>
+        <item>geo</item>
+        <item>guj</item>
+        <item>gra</item>
+        <item>eno</item>
+        <item>grn</item>
+        <item>hup</item>
+        <item>hak</item>
+        <item>ht</item>
+        <item>hau</item>
+        <item>mot</item>
+        <item>kir</item>
+        <item>glg</item>
+        <item>frn</item>
+        <item>cat</item>
+        <item>kab</item>
+        <item>kan</item>
+        <item>kau</item>
+        <item>kah</item>
+        <item>cor</item>
+        <item>xho</item>
+        <item>cos</item>
+        <item>cre</item>
+        <item>cri</item>
+        <item>kli</item>
+        <item>hrv</item>
+        <item>que</item>
+        <item>kas</item>
+        <item>kok</item>
+        <item>kur</item>
+        <item>lat</item>
+        <item>lao</item>
+        <item>lag</item>
+        <item>lav</item>
+        <item>lim</item>
+        <item>lin</item>
+        <item>lug</item>
+        <item>ltz</item>
+        <item>ruy</item>
+        <item>kin</item>
+        <item>lit</item>
+        <item>roh</item>
+        <item>ro</item>
+        <item>loj</item>
+        <item>may</item>
+        <item>bur</item>
+        <item>mar</item>
+        <item>mg</item>
+        <item>mal</item>
+        <item>mac</item>
+        <item>mah</item>
+        <item>mai</item>
+        <item>glv</item>
+        <item>mau</item>
+        <item>mao</item>
+        <item>ben</item>
+        <item>mlt</item>
+        <item>hmn</item>
+        <item>nor</item>
+        <item>nea</item>
+        <item>nbl</item>
+        <item>afr</item>
+        <item>sot</item>
+        <item>nep</item>
+        <item>pan</item>
+        <item>pap</item>
+        <item>pus</item>
+        <item>nya</item>
+        <item>twi</item>
+        <item>chr</item>
+        <item>srd</item>
+        <item>sm</item>
+        <item>sec</item>
+        <item>srp</item>
+        <item>sol</item>
+        <item>sin</item>
+        <item>epo</item>
+        <item>nob</item>
+        <item>sk</item>
+        <item>swa</item>
+        <item>som</item>
+        <item>src</item>
+        <item>tr</item>
+        <item>tgk</item>
+        <item>tam</item>
+        <item>tgl</item>
+        <item>tir</item>
+        <item>tel</item>
+        <item>tua</item>
+        <item>tuk</item>
+        <item>ukr</item>
+        <item>wln</item>
+        <item>wel</item>
+        <item>ven</item>
+        <item>wol</item>
+        <item>urd</item>
+        <item>heb</item>
+        <item>fry</item>
+        <item>sil</item>
+        <item>hil</item>
+        <item>los</item>
+        <item>haw</item>
+        <item>nno</item>
+        <item>nqo</item>
+        <item>snd</item>
+        <item>sna</item>
+        <item>ceb</item>
+        <item>syr</item>
+        <item>sun</item>
+        <item>hi</item>
+        <item>id</item>
+        <item>yid</item>
+        <item>ina</item>
+        <item>ach</item>
+        <item>ing</item>
+        <item>ibo</item>
+        <item>ido</item>
+        <item>yor</item>
+        <item>arm</item>
+        <item>iku</item>
+        <item>ir</item>
+        <item>zaz</item>
+        <item>frm</item>
+        <item>zul</item>
+        <item>jav</item>
     </string-array>
+
     <string-array name="tts_engine_values">
         <item>system</item>
         <item>unisound</item>
@@ -579,6 +943,7 @@
         <item>میزان صدا</item>
         <item>سرعت گفتار</item>
         <item>خواننده نوری</item>
+        <item>پنجره</item>
     </string-array>
 
     <string-array name="hot_key_help_items">
@@ -631,6 +996,7 @@
         <item>میزان صدا</item>
         <item>سرعت گفتار</item>
         <item>خواننده نوری</item>
+        <item>پنجره</item>
 
     </string-array>
 

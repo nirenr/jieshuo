@@ -106,7 +106,26 @@
         <item>@string/command_to_split_screen</item>
         <item>@string/switch_multi_finger_gestures</item>
 
-    </string-array>
+        <item>@string/command_to_next_char</item>
+        <item>@string/command_to_previous_char</item>
+        <item>@string/command_to_next_word</item>
+        <item>@string/command_to_previous_word</item>
+        <item>@string/command_to_next_row</item>
+        <item>@string/command_to_previous_row</item>
+        <item>@string/command_to_next_paragraph</item>
+        <item>@string/command_to_previous_paragraph</item>
+        <item>@string/command_to_head_set_key</item>
+        <item>@string/edit_dict</item>
+        <item>@string/command_toggle_tts_engine</item>
+        <item>@string/command_speak_light</item>
+        <item>@string/command_add_content_blacklist</item>
+
+        <item>@string/command_media_previous</item>
+        <item>@string/command_media_next</item>
+        <item>@string/command_previous_window</item>
+        <item>@string/command_next_window</item>
+
+        </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
         <item>@string/command_long_click</item>
@@ -192,25 +211,28 @@
         <item>@string/command_virtual_navigation</item>
     </string-array>
     <string-array name="left_button">
+        <item>*Refuser*</item>
         <item>Fin*</item>
         <item>Raccrocher</item>
         <item>Terminer*</item>
         <item>Fermer*</item>
         <item>Abandonner*</item>
         <item>Effacer*</item>
-        <item>Wi-Fi*</item>
         <item>Refuser</item>
         <item>RAM totale*</item>
         <item>Revenir en arrière de*</item>
         <item>Retour arrière</item>
     </string-array>
     <string-array name="right_button">
+        <item>Autoriser</item>
         <item>RÉPONDRE</item>
         <item>Accepter*</item>
         <item>Envoyer*</item>
         <item>*haut-parleur*</item>
         <item>Avance*</item>
         <item>Avancer*	</item>
+        <item>*Wi-Fi*</item>
+        <item>Lorsque vous utilisez l\'application</item>
     </string-array>
     <string-array name="voice_recognizer_values">
         <item>3</item>
@@ -420,6 +442,179 @@
         <item>Suédois</item>
         <item>polonais</item>
         <item>Vietnamien</item>
+
+        <item>irlandais</item>
+        <item>occitan</item>
+        <item>albanais</item>
+        <item>Akan</item>
+        <item>aragonais</item>
+        <item>amharique</item>
+        <item>Assamais</item>
+        <item>Aymara</item>
+        <item>azerbaïdjanais</item>
+        <item>asturien</item>
+        <item>Ossète</item>
+        <item>Ojebwé</item>
+        <item>Oriya</item>
+        <item>Galla</item>
+        <item>persan</item>
+        <item>Breton</item>
+        <item>Bashkir</item>
+        <item>basque</item>
+        <item>Portugais brésilien</item>
+        <item>Biélorusse</item>
+        <item>Berbère</item>
+        <item>Pampanga</item>
+        <item>Langue sâme du Nord</item>
+        <item>Sotho du Nord</item>        
+        <item>Bumba</item>
+        <item>Bilin</item>
+        <item>Bislama</item>
+        <item>Baluchi</item>
+        <item>islandais</item>
+        <item>Bosnien</item>
+        <item>Bhojpur</item>
+        <item>Tchouvashi</item>
+        <item>Congga</item>
+        <item>Langue tatar</item>
+        <item>Langue Shan</item>
+        <item>Tetun</item>
+        <item>Divehi</item>
+        <item>Bas allemand</item>
+        <item>Philippin</item>
+        <item>Sanskrit</item>
+        <item>Frioul</item>
+        <item>Fulani</item>
+        <item>Féroé</item>
+        <item>Gaélique</item>
+        <item>Congo</item>
+        <item>Sorabe des montagnes</item>
+        <item>Langue khmère</item>
+        <item>Groenlandais</item>
+        <item>Géorgien</item>
+        <item>Gujarati</item>
+        <item>Grec ancien</item>
+        <item>Ancien anglais</item>
+        <item>Guarani</item>
+        <item>Langue Hupa</item>
+        <item>Hakachin</item>
+        <item>Haïti</item>
+        <item>Haoussa</item>
+        <item>Monténégro</item>
+        <item>Kirghizistan</item>
+        <item>Galicien</item>
+        <item>Français canadien</item>
+        <item>catalan</item>
+        <item>Kabyle</item>
+        <item>Kannada</item>
+        <item>Kanuri</item>
+        <item>Kachoube</item>
+        <item>Cornais</item>
+        <item>Xhosa</item>
+        <item>Corse</item>
+        <item>Langage du crick</item>
+        <item>Tatar de Crimée</item>
+        <item>Klingon</item>
+        <item>Croate</item>
+        <item>Quchua</item>
+        <item>Cachemire</item>
+        <item>Konkani</item>
+        <item>kurde</item>
+        <item>latin</item>
+        <item>Laotien</item>
+        <item>Latjalai</item>
+        <item>letton</item>
+        <item>Limbourgeois</item>
+        <item>Lingala</item>
+        <item>Luganda</item>
+        <item>Luxembourgeois</item>
+        <item>Russe</item>
+        <item> Kinyarwanda</item>
+        <item>Lituanien</item>
+        <item>Romanche</item>
+        <item>Roms</item>
+        <item>Langage logique</item>
+        <item>Malais</item>
+        <item>birman</item>
+        <item>Marathi</item>
+        <item>Langue malgache</item>
+        <item> Malayalam</item>
+        <item>Macédonien</item>
+        <item>Marshallais</item>
+        <item>Maitili</item>
+        <item>Langue Manks</item>
+        <item>Créole mauricien</item>
+        <item>Maori</item>
+        <item>Bengali</item>
+        <item>maltais</item>
+        <item>Langue Miao</item>
+        <item>Norvégien</item>
+        <item>Napolitain</item>
+        <item>Sud Ndebele</item>
+        <item>Afrikaans</item>
+        <item>Sotho du Sud</item>
+        <item>népalais</item>
+        <item>Punjabi</item>
+        <item>Langue papiamento</item>
+        <item>Langue pachto</item>
+        <item>Chichewa</item>
+        <item>Langue Thivi</item>
+        <item>Sarde</item>
+        <item>Cherokee</item>
+        <item>Samoan</item>
+        <item>serbe-croate</item>
+        <item>Serbe</item>
+        <item>Langue sanghaï</item>
+        <item>Cinghalais</item>
+        <item>Espéranto</item>
+        <item>Norvégien écrit</item>
+        <item>Slovaque</item>
+        <item>Swahili</item>
+        <item>somali</item>
+        <item>Serbe (cyrillique)</item>
+        <item>Turc</item>
+        <item>Tadjik</item>
+        <item>Tamoul</item>
+        <item>Tagalog</item>
+        <item>Tigrinya</item>
+        <item>Toulou</item>
+        <item>Arabe tunisien</item>
+        <item>Turkmène</item>
+        <item>Ukrainien</item>
+        <item>Wallon</item>
+        <item>Gallois</item>
+        <item>Langue Venda</item>
+        <item>Langue wolof</item>
+        <item>Ourdou</item>
+        <item>Hébreu</item>
+        <item>Frise occidentale</item>
+        <item>Silésien</item>
+        <item>Hiliganun</item>
+        <item>Bas sorabe</item>
+        <item>Hawaïen</item>
+        <item>Nouveau norvégien</item>
+        <item>Langue écrite ouest-africaine</item>
+        <item>Sindish</item>
+        <item>Shona</item>
+        <item>Cebuano</item>
+        <item>Syrien</item>
+        <item>sundanais</item>
+        <item>Hindi</item>
+        <item>Indonésien</item>
+        <item>Yiddish</item>
+        <item>Inter-langue</item>
+        <item>Langue d\'Aceh</item>
+        <item>Langue ingouche</item>
+        <item>Langue Igbo</item>
+        <item>Langue ido</item>
+        <item>Langue yoruba</item>
+        <item>Arménien</item>
+        <item>Langue inuktitut</item>
+        <item>iranien</item>
+        <item>Langue Zazaqi</item>
+        <item>Moyen français</item>
+        <item>Zoulou</item>
+        <item>Javanais</item>
     </string-array>
     <string-array name="lang_values">
         <item>auto</item>
@@ -451,7 +646,181 @@
         <item>swe</item>
         <item>pl</item>
         <item>vie</item>
+
+        <item>gle</item>
+        <item>oci</item>
+        <item>alb</item>
+        <item>aka</item>
+        <item>arg</item>
+        <item>amh</item>
+        <item>asm</item>
+        <item>aym</item>
+        <item>aze</item>
+        <item>ast</item>
+        <item>oss</item>
+        <item>oji</item>
+        <item>ori</item>
+        <item>orm</item>
+        <item>per</item>
+        <item>bre</item>
+        <item>bak</item>
+        <item>baq</item>
+        <item>pot</item>
+        <item>bel</item>
+        <item>ber</item>
+        <item>pam</item>
+        <item>sme</item>
+        <item>ped</item>
+        <item>bem</item>
+        <item>bli</item>
+        <item>bis</item>
+        <item>bal</item>
+        <item>ice</item>
+        <item>bos</item>
+        <item>bho</item>
+        <item>chv</item>
+        <item>tso</item>
+        <item>tat</item>
+        <item>sha</item>
+        <item>tet</item>
+        <item>div</item>
+        <item>log</item>
+        <item>fil</item>
+        <item>san</item>
+        <item>fri</item>
+        <item>ful</item>
+        <item>fao</item>
+        <item>gla</item>
+        <item>kon</item>
+        <item>ups</item>
+        <item>hkm</item>
+        <item>kal</item>
+        <item>geo</item>
+        <item>guj</item>
+        <item>gra</item>
+        <item>eno</item>
+        <item>grn</item>
+        <item>hup</item>
+        <item>hak</item>
+        <item>ht</item>
+        <item>hau</item>
+        <item>mot</item>
+        <item>kir</item>
+        <item>glg</item>
+        <item>frn</item>
+        <item>cat</item>
+        <item>kab</item>
+        <item>kan</item>
+        <item>kau</item>
+        <item>kah</item>
+        <item>cor</item>
+        <item>xho</item>
+        <item>cos</item>
+        <item>cre</item>
+        <item>cri</item>
+        <item>kli</item>
+        <item>hrv</item>
+        <item>que</item>
+        <item>kas</item>
+        <item>kok</item>
+        <item>kur</item>
+        <item>lat</item>
+        <item>lao</item>
+        <item>lag</item>
+        <item>lav</item>
+        <item>lim</item>
+        <item>lin</item>
+        <item>lug</item>
+        <item>ltz</item>
+        <item>ruy</item>
+        <item>kin</item>
+        <item>lit</item>
+        <item>roh</item>
+        <item>ro</item>
+        <item>loj</item>
+        <item>may</item>
+        <item>bur</item>
+        <item>mar</item>
+        <item>mg</item>
+        <item>mal</item>
+        <item>mac</item>
+        <item>mah</item>
+        <item>mai</item>
+        <item>glv</item>
+        <item>mau</item>
+        <item>mao</item>
+        <item>ben</item>
+        <item>mlt</item>
+        <item>hmn</item>
+        <item>nor</item>
+        <item>nea</item>
+        <item>nbl</item>
+        <item>afr</item>
+        <item>sot</item>
+        <item>nep</item>
+        <item>pan</item>
+        <item>pap</item>
+        <item>pus</item>
+        <item>nya</item>
+        <item>twi</item>
+        <item>chr</item>
+        <item>srd</item>
+        <item>sm</item>
+        <item>sec</item>
+        <item>srp</item>
+        <item>sol</item>
+        <item>sin</item>
+        <item>epo</item>
+        <item>nob</item>
+        <item>sk</item>
+        <item>swa</item>
+        <item>som</item>
+        <item>src</item>
+        <item>tr</item>
+        <item>tgk</item>
+        <item>tam</item>
+        <item>tgl</item>
+        <item>tir</item>
+        <item>tel</item>
+        <item>tua</item>
+        <item>tuk</item>
+        <item>ukr</item>
+        <item>wln</item>
+        <item>wel</item>
+        <item>ven</item>
+        <item>wol</item>
+        <item>urd</item>
+        <item>heb</item>
+        <item>fry</item>
+        <item>sil</item>
+        <item>hil</item>
+        <item>los</item>
+        <item>haw</item>
+        <item>nno</item>
+        <item>nqo</item>
+        <item>snd</item>
+        <item>sna</item>
+        <item>ceb</item>
+        <item>syr</item>
+        <item>sun</item>
+        <item>hi</item>
+        <item>id</item>
+        <item>yid</item>
+        <item>ina</item>
+        <item>ach</item>
+        <item>ing</item>
+        <item>ibo</item>
+        <item>ido</item>
+        <item>yor</item>
+        <item>arm</item>
+        <item>iku</item>
+        <item>ir</item>
+        <item>zaz</item>
+        <item>frm</item>
+        <item>zul</item>
+        <item>jav</item>
     </string-array>
+
     <string-array name="tts_engine_values">
         <item>system</item>
         <item>unisound</item>
@@ -573,6 +942,7 @@
         <item>Volume. </item>
         <item>Vitesse. </item>
         <item>Traduction et reconnaissance. </item>
+        <item>fenêtres. </item>
     </string-array>
     <string-array name="hot_key_help_items">
         <item>CTRL+DPAD_UP: éléments précédents</item>
@@ -619,5 +989,6 @@
         <item>Volume. </item>
         <item>Vitesse. </item>
         <item>Traduction et reconnaissance. </item>
+        <item>fenêtres. </item>
     </string-array>
 </resources>

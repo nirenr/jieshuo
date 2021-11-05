@@ -104,7 +104,28 @@
         <item>@string/command_power_dialog</item>
         <item>@string/command_raw_double_tap</item>
         <item>@string/command_to_split_screen</item>
-    </string-array>
+        <item>@string/switch_multi_finger_gestures</item>
+
+        <item>@string/command_to_next_char</item>
+        <item>@string/command_to_previous_char</item>
+        <item>@string/command_to_next_word</item>
+        <item>@string/command_to_previous_word</item>
+        <item>@string/command_to_next_row</item>
+        <item>@string/command_to_previous_row</item>
+        <item>@string/command_to_next_paragraph</item>
+        <item>@string/command_to_previous_paragraph</item>
+        <item>@string/command_to_head_set_key</item>
+        <item>@string/edit_dict</item>
+        <item>@string/command_toggle_tts_engine</item>
+        <item>@string/command_speak_light</item>
+        <item>@string/command_add_content_blacklist</item>
+
+        <item>@string/command_media_previous</item>
+        <item>@string/command_media_next</item>
+        <item>@string/command_previous_window</item>
+        <item>@string/command_next_window</item>
+
+        </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
         <item>@string/command_long_click</item>
@@ -419,6 +440,179 @@
         <item>Шведська</item>
         <item>Польська</item>
         <item>В’єтнамська</item>
+
+        <item>Ірландська</item>
+        <item>Окситанська</item>
+        <item>Албанська</item>
+        <item>Акань</item>
+        <item>Арагонська</item>
+        <item>Амхарська</item>
+        <item>Ассамська</item>
+        <item>Аймара</item>
+        <item>Азейрбаджанська</item>
+        <item>Астурійська</item>
+        <item>Осетинська</item>
+        <item>Оджебва</item>
+        <item>Орія</item>
+        <item>Оромо</item>
+        <item>Перська</item>
+        <item>Бретонська</item>
+        <item>Башкирська</item>
+        <item>Баскська</item>
+        <item>Портуґальська (Бразилія)</item>
+        <item>Білоруська</item>
+        <item>Берберська</item>
+        <item>Пампанга</item>
+        <item>Північний саамі</item>
+        <item>Північний Сото</item>
+        <item>Бумба</item>
+        <item>比林语</item>
+        <item>Біслама</item>
+        <item>Балучі</item>
+        <item>Ісландська</item>
+        <item>Боснійська</item>
+        <item>Бходжпур</item>
+        <item>Чуваська</item>
+        <item>Цунга</item>
+        <item>Татарська</item>
+        <item>Шан</item>
+        <item>Тетон</item>
+        <item>Дхівехі</item>
+        <item>Нижньонімецька</item>
+        <item>Філіппінська</item>
+        <item>Санскрит</item>
+        <item>Фріулі</item>
+        <item>Фулані</item>
+        <item>Фарерська</item>
+        <item>Гальська</item>
+        <item>Конго</item>
+        <item>Гірсько -сорбінська</item>
+        <item>Камбоджійська</item>
+        <item>Гренландська</item>
+        <item>Грузинська</item>
+        <item>Гуджараті</item>
+        <item>Давньогрецька</item>
+        <item>Давньоанглійська</item>
+        <item>Гуарані</item>
+        <item>Хупа</item>
+        <item>Хакачін</item>
+        <item>Гаїтянська</item>
+        <item>Хауса</item>
+        <item>Чорногорська</item>
+        <item>Киргизька</item>
+        <item>Галицька</item>
+        <item>Французька (Канада))</item>
+        <item>Каталонська</item>
+        <item>Кабиле</item>
+        <item>Каннада</item>
+        <item>Канурі</item>
+        <item>Кашубська</item>
+        <item>Корніш</item>
+        <item>Хоса</item>
+        <item>Корсиканська</item>
+        <item>克里克语</item>
+        <item>Кримськотатарська</item>
+        <item>Клінгонська</item>
+        <item>Хорватська</item>
+        <item>Кечуа</item>
+        <item>Кашмірі</item>
+        <item>Конкані</item>
+        <item>Курдська</item>
+        <item>Латинська</item>
+        <item>Лаоська</item>
+        <item>Латялай</item>
+        <item>Латиська</item>
+        <item>Лімбургська</item>
+        <item>Лінгала</item>
+        <item>Луганда</item>
+        <item>Люксембурзька</item>
+        <item>Русинська</item>
+        <item>Кіньяруанда</item>
+        <item>Литовська</item>
+        <item>Ретороманська</item>
+        <item>Ромська</item>
+        <item>逻辑语</item>
+        <item>Малайська</item>
+        <item>Бірманська</item>
+        <item>Маратхі</item>
+        <item>Малагасійська</item>
+        <item>Малаялам</item>
+        <item>Македонська</item>
+        <item>Маршаллі</item>
+        <item>Майтілі</item>
+        <item>Манки</item>
+        <item>Креольська (Маврикій</item>
+        <item>Маорі</item>
+        <item>Бенгальська</item>
+        <item>Мальтійська</item>
+        <item>Хмонг</item>
+        <item>Норвезька</item>
+        <item>Неаполітанська</item>
+        <item>Південне Ндебеле</item>
+        <item>Африкаанс</item>
+        <item>Південний Сото</item>
+        <item>Непальська</item>
+        <item>Пенджабі</item>
+        <item>апіаменто</item>
+        <item>Пушту</item>
+        <item>Чичева</item>
+        <item>契维语</item>
+        <item>Черокі</item>
+        <item>Сардинська</item>
+        <item>Самоанська</item>
+        <item>Сербохорватська</item>
+        <item>Сербська</item>
+        <item>Сонгай</item>
+        <item>Сингальська</item>
+        <item>Есперанто</item>
+        <item>Норвезька (письмова)</item>
+        <item>Словацька</item>
+        <item>Суахілі</item>
+        <item>Сомалійська</item>
+        <item>Сербська (кирилиця)</item>
+        <item>Турецька</item>
+        <item>Таджицька</item>
+        <item>Тамільська</item>
+        <item>Тагальська</item>
+        <item>提格利尼亚语</item>
+        <item>Телугу</item>
+        <item>Арабська (Туніс)</item>
+        <item>Туркменська</item>
+        <item>Українська</item>
+        <item>Валонська</item>
+        <item>Валлійська</item>
+        <item>Венда</item>
+        <item>Волоф</item>
+        <item>Урду</item>
+        <item>Іврит</item>
+        <item>Західнофризька</item>
+        <item>Сілезька</item>
+        <item>Хіліганун</item>
+        <item>Нижньолужицька</item>
+        <item>Гавайська</item>
+        <item>Норвезька (нова)</item>
+        <item>Західноафриканська (письмова)</item>
+        <item>Сіндхі</item>
+        <item>Шона</item>
+        <item>Себуано</item>
+        <item>Сирійська</item>
+        <item>Сунданська</item>
+        <item>Хінді</item>
+        <item>Індонезійська</item>
+        <item>Ідиш</item>
+        <item>Інтер</item>
+        <item>Ачех</item>
+        <item>Інгушська</item>
+        <item>Ігбо</item>
+        <item>伊多语</item>
+        <item>Йоруба</item>
+        <item>Вірменська</item>
+        <item>Інуктитут</item>
+        <item>Іранська</item>
+        <item>Зазакі</item>
+        <item>Середньофранцузька</item>
+        <item>Зулуська</item>
+        <item>Яванська</item>
     </string-array>
     <string-array name="lang_values">
         <item>auto</item>
@@ -450,7 +644,181 @@
         <item>swe</item>
         <item>pl</item>
         <item>vie</item>
+
+        <item>gle</item>
+        <item>oci</item>
+        <item>alb</item>
+        <item>aka</item>
+        <item>arg</item>
+        <item>amh</item>
+        <item>asm</item>
+        <item>aym</item>
+        <item>aze</item>
+        <item>ast</item>
+        <item>oss</item>
+        <item>oji</item>
+        <item>ori</item>
+        <item>orm</item>
+        <item>per</item>
+        <item>bre</item>
+        <item>bak</item>
+        <item>baq</item>
+        <item>pot</item>
+        <item>bel</item>
+        <item>ber</item>
+        <item>pam</item>
+        <item>sme</item>
+        <item>ped</item>
+        <item>bem</item>
+        <item>bli</item>
+        <item>bis</item>
+        <item>bal</item>
+        <item>ice</item>
+        <item>bos</item>
+        <item>bho</item>
+        <item>chv</item>
+        <item>tso</item>
+        <item>tat</item>
+        <item>sha</item>
+        <item>tet</item>
+        <item>div</item>
+        <item>log</item>
+        <item>fil</item>
+        <item>san</item>
+        <item>fri</item>
+        <item>ful</item>
+        <item>fao</item>
+        <item>gla</item>
+        <item>kon</item>
+        <item>ups</item>
+        <item>hkm</item>
+        <item>kal</item>
+        <item>geo</item>
+        <item>guj</item>
+        <item>gra</item>
+        <item>eno</item>
+        <item>grn</item>
+        <item>hup</item>
+        <item>hak</item>
+        <item>ht</item>
+        <item>hau</item>
+        <item>mot</item>
+        <item>kir</item>
+        <item>glg</item>
+        <item>frn</item>
+        <item>cat</item>
+        <item>kab</item>
+        <item>kan</item>
+        <item>kau</item>
+        <item>kah</item>
+        <item>cor</item>
+        <item>xho</item>
+        <item>cos</item>
+        <item>cre</item>
+        <item>cri</item>
+        <item>kli</item>
+        <item>hrv</item>
+        <item>que</item>
+        <item>kas</item>
+        <item>kok</item>
+        <item>kur</item>
+        <item>lat</item>
+        <item>lao</item>
+        <item>lag</item>
+        <item>lav</item>
+        <item>lim</item>
+        <item>lin</item>
+        <item>lug</item>
+        <item>ltz</item>
+        <item>ruy</item>
+        <item>kin</item>
+        <item>lit</item>
+        <item>roh</item>
+        <item>ro</item>
+        <item>loj</item>
+        <item>may</item>
+        <item>bur</item>
+        <item>mar</item>
+        <item>mg</item>
+        <item>mal</item>
+        <item>mac</item>
+        <item>mah</item>
+        <item>mai</item>
+        <item>glv</item>
+        <item>mau</item>
+        <item>mao</item>
+        <item>ben</item>
+        <item>mlt</item>
+        <item>hmn</item>
+        <item>nor</item>
+        <item>nea</item>
+        <item>nbl</item>
+        <item>afr</item>
+        <item>sot</item>
+        <item>nep</item>
+        <item>pan</item>
+        <item>pap</item>
+        <item>pus</item>
+        <item>nya</item>
+        <item>twi</item>
+        <item>chr</item>
+        <item>srd</item>
+        <item>sm</item>
+        <item>sec</item>
+        <item>srp</item>
+        <item>sol</item>
+        <item>sin</item>
+        <item>epo</item>
+        <item>nob</item>
+        <item>sk</item>
+        <item>swa</item>
+        <item>som</item>
+        <item>src</item>
+        <item>tr</item>
+        <item>tgk</item>
+        <item>tam</item>
+        <item>tgl</item>
+        <item>tir</item>
+        <item>tel</item>
+        <item>tua</item>
+        <item>tuk</item>
+        <item>ukr</item>
+        <item>wln</item>
+        <item>wel</item>
+        <item>ven</item>
+        <item>wol</item>
+        <item>urd</item>
+        <item>heb</item>
+        <item>fry</item>
+        <item>sil</item>
+        <item>hil</item>
+        <item>los</item>
+        <item>haw</item>
+        <item>nno</item>
+        <item>nqo</item>
+        <item>snd</item>
+        <item>sna</item>
+        <item>ceb</item>
+        <item>syr</item>
+        <item>sun</item>
+        <item>hi</item>
+        <item>id</item>
+        <item>yid</item>
+        <item>ina</item>
+        <item>ach</item>
+        <item>ing</item>
+        <item>ibo</item>
+        <item>ido</item>
+        <item>yor</item>
+        <item>arm</item>
+        <item>iku</item>
+        <item>ir</item>
+        <item>zaz</item>
+        <item>frm</item>
+        <item>zul</item>
+        <item>jav</item>
     </string-array>
+
     <string-array name="tts_engine_values">
         <item>системний</item>
         <item>unisound</item>
@@ -575,6 +943,7 @@
         <item>Гучність</item>
         <item>Швидкість мовлення</item>
         <item>Система розпізнавання</item>
+        <item>Вікно</item>
     </string-array>
 
     <string-array name="hot_key_help_items">
@@ -627,6 +996,7 @@
         <item>Гучність</item>
         <item>Швидкість мовлення</item>
         <item>Система розпізнавання</item>
+        <item>Вікно</item>
 
     </string-array>
 

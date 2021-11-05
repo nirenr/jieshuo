@@ -49,7 +49,7 @@
     <string name="vibrate_summary">Використовувати Вібровідгук при користуванні програмою екранного доступу.</string>
 
     <string name="use_proixmity_sensor_title">використовувати датчик наближення: </string>
-    <string name="use_proixmity_sensor_summary">припинити читання при дотику до датчика наближення.</string>
+    <string name="use_proixmity_sensor_summary">Зупиняти мовлення, коли прикрито датчик наближення.</string>
 
     <string name="screen_off_speak_title">Читати сповіщення на заблокованому екрані: </string>
     <string name="screen_off_speak_summary">Читати сповіщення, коли екран заблоковано.</string>
@@ -58,7 +58,7 @@
     <string name="use_sound_summary">Використовувати поточну звукову тему.</string>
 
     <string name="use_list_index_title">Читати діапазон списку: </string>
-    <string name="use_list_index_summary">Читати інформацію про діапазон списку під час прокрутки.</string>
+    <string name="use_list_index_summary">Читати інформацію про діапазон списку під час прокрутки списку двома пальцями.</string>
 
     <string name="use_node_title">Використовувати режим огляду вузлів (лише для досвідчених користувачів): </string>
     <string name="use_node_summary">використовувати режим огляду вузлів.</string>
@@ -118,7 +118,7 @@
     <string name="notification_toast_speak_title">Читати спливаючі сповіщення: </string>
     <string name="notification_announcement_speak_title">Читати сповіщення програми екранного доступу: </string>
     <string name="notification_settings_title">Налаштування сповіщень</string>
-    <string name="help_feed_title">Довідка й відгук</string>
+    <string name="help_feed_title">Довідка і зворотний зв’язок</string>
     <string name="advanced_setting_title">Розширені налаштування</string>
     <string name="notification_white_list_title">Білий список сповіщень</string>
     <string name="notification_black_list_title">Чорний список сповіщень</string>
@@ -140,11 +140,11 @@
     <string name="split_menu_title">Навігаційне меню</string>
     <string name="split_edit_title">Розширене редагування тексту</string>
     <string name="edit_title">Редагувати</string>
-    <string name="plugin_manager_title">Керувати плагінами</string>
-    <string name="sound_manager_title">Керувати звуковими темами</string>
-    <string name="clipboard_manager_title">Керувати буфером обміну</string>
-    <string name="label_manager_title">Керувати мітками</string>
-    <string name="menu_manager_title">Керувати головним меню</string>
+    <string name="plugin_manager_title">Керування плагінами</string>
+    <string name="sound_manager_title">Керування звуковими темами</string>
+    <string name="clipboard_manager_title">Керування буфером обміну</string>
+    <string name="label_manager_title">Керування мітками</string>
+    <string name="menu_manager_title">Керування головним меню</string>
     <string name="menu_up_tap_title">Активовувати пункти меню відривом пальця: </string>
     <string name="navigation_up_tap_title">Активовувати програмні клавіші навігації відривом пальця: </string>
     <string name="only_notification_title">Не відновлювати дослідження дотиком при розблокуванні екрана: </string>
@@ -166,7 +166,7 @@
     <string name="content_blacklist_title">Вміст чорного списку</string>
     <string name="no_phone_permission">Немає дозволів.</string>
     <string name="message_time_out">Не авторизовано</string>
-    <string name="message_welcome">Лазкаво просимо до Jieshuo Screenreader!</string>
+    <string name="message_welcome">Ласкаво просимо до Jieshuo Screenreader!</string>
     <string name="message_in_dim_screen">Затемнення екрана увімкнено.</string>
     <string name="message_out_dim_screen">Затемнення екрана вимкнено</string>
     <string name="message_only_android5_last">Підтримується лише Android 5 або новіший!</string>
@@ -237,7 +237,7 @@
     <string name="use_multi_menu_summary">багатоколонкове меню не підтримує персоналізований вміст</string>
     <string name="use_left_right_title">Використовувати змахування вліво-вправо для навігації: </string>
     <string name="use_list_item_index_title">Читати номер поточного елемента: </string>
-    <string name="use_left_right_summary">При використанні початкової теми жестів змінюйте фокус рухами вліво та вправо, а швидкі функції виконуйте гортанням вгору-вниз.</string>
+    <string name="use_left_right_summary">При використанні стандартної теми жестів переміщуйте фокус жестами вліво та вправо, а швидкі дії виконуйте жестами вгору та вниз.</string>
     <string name="use_old_previous_title">Використовувати застарілий метод зміни фокуса: </string>
     <string name="baidu_tieba_title">Baidu енциклопедія</string>
     <string name="use_single_tts_title">Використовувати один синтезатор мовлення: </string>
@@ -265,7 +265,7 @@
     <string name="hints_list_settings_title">Налаштування підказок</string>
     <string name="use_node_info_summary">Прочитати додаткову інформацію про поточний вузол, перебуваючи в режимі перегляду вузлів.</string>
     <string name="use_list_item_index_summary">Читати номер поточного елемента в списку.</string>
-    <string name="use_scroll_list_index_summary">Читати діапазон списку під час прокрутки</string>
+    <string name="use_scroll_list_index_summary">Читати діапазон під час прокрутки списку за допомогою функцій \"Прокрутити вгору\" та \"Прокрутити вниз\"</string>
     <string name="use_view_name_index_summary">Прочитати тип і назву поточного елемента, якщо назви немає, програма спробує визначити її.</string>
     <string name="unknown_lable_summary">Ідентифікатор поточного елемента читається, коли він не має імені.</string>
     <string name="use_progress_summary">Автоматично повідомляти про перебіг при фокусуванні на панелі перебігу</string>
@@ -283,9 +283,9 @@
     <string name="left_edge_gesture_summary">Налаштування ярликів лівого краю.</string>
     <string name="right_edge_gesture_summary">Налаштування ярликів правого краю.</string>
     <string name="down_volume_key_value_default">голосовий помічник</string>
-    <string name="down_volume_key_title">Натисніть і утримуйте клавішу зменшення гучності</string>
+    <string name="down_volume_key_title">Довге натискання клавіші зменшення гучності</string>
     <string name="down_volume_key_summary">Налаштування функцій довгого натискання клавіші зменшення гучності.</string>
-    <string name="up_volume_key_title">Натисніть і утримуйте клавішу збільшення гучності</string>
+    <string name="up_volume_key_title">Довге натискання клавіші збільшення гучності</string>
     <string name="up_volume_key_summary">Налаштування функцій довгого натискання клавіші збільшення гучності</string>
     <string name="up_volume_key_value_default">Режим "Активації елементів відривом пальця"</string>
     <string name="use_speak_call_phone_summary">промовляти номер та ім’я абонента під час вхідного виклику: </string>
@@ -354,7 +354,7 @@
     <string name="use_number_speak_title">Читати числа по цифрах: </string>
     <string name="use_input_method_gesture_title">Використовувати жести для вибору слів у режимі редагування</string>
     <string name="use_input_method_gesture_summary">Змахування змінюють слова автозаміни.</string>
-    <string name="use_volume_key_move_text_title">Переміщати курсор у режимі редагування клавішами гучності</string>
+    <string name="use_volume_key_move_text_title">Переміщати курсор і повзунки у режимі редагування клавішами гучності</string>
     <string name="user_text">Ім’я користувача: від 5 до 15 латинських літер</string>
     <string name="pass_text">Пароль: від 6 до 15 латинських літер.</string>
     <string name="current_text">Введено %d із %d символів</string>
@@ -370,10 +370,10 @@
     <string name="no_support">Потрібна версія Android%d або новіша.</string>
     <string name="use_pinyin_speak_title">Використовувати Pinyin TTS в режимі редакування тексту</string>
     <string name="backup_restore_settings_title">Резервне копіювання й відновлення налаштувань</string>
-    <string name="backup_settings_title">Резервне копіювання налаштувань</string>
-    <string name="restore_settings_title">Відновити налаштування</string>
-    <string name="restore_settings_summary">Відновлення налаштувань замінить поточні налаштування</string>
-    <string name="backup_settings_summary">Резервне копіювання налаштувань замінить останню резервну копію</string>
+    <string name="backup_settings_title">Створити резервну копію налаштувань</string>
+    <string name="restore_settings_title">Відновити налаштування з резервної копії</string>
+    <string name="restore_settings_summary">Поточні налаштування будуть замінені. Продовжити?</string>
+    <string name="backup_settings_summary">Поточна резервна копія буде перезаписана. Продовжити?</string>
     <string name="jieshuo_bbs_title">Форум Jieshuo Screenreader</string>
     <string name="use_symbol_speak_title">Читати пунктуацію</string>
     <string name="use_cloud_label_title">Обмін мітками: </string>
@@ -418,7 +418,7 @@
 
     <string name="message_disable_dim_screen">Будь ласка, спершу вимкніть затемнення екрана</string>
     <string name="start_long_copy">Розширене копіювання розпочато</string>
-    <string name="runnimg_background">Запускати програму екранного доступу в фоновому режимі</string>
+    <string name="runnimg_background">програму екранного доступу запущено у фоновому режимі</string>
     <string name="description">Опис</string>
     <string name="gestures_description_not_found">Файл з описами жестів не знайдено</string>
     <string name="timer_date_format">yyyy.M.d. HH:mm.</string>
@@ -623,21 +623,21 @@
     <string name="double_fling_right_gesture_title">Налаштування змахування вправо</string>
     <string name="double_fling_down_gesture_title">Налаштування змахування вниз</string>
 
-    <string name="down_right_double_fling_setting">Налаштування жесту вниз-вправо</string>
+    <string name="down_right_double_fling_setting">Налаштування комбінованого жесту вниз-вправо</string>
     <string name="down_right_double_fling_left_gesture_value_default">Повернутися назад</string>
     <string name="down_right_double_fling_up_gesture_value_default">Головний екран</string>
     <string name="down_right_double_fling_right_gesture_value_default">[Торкніться]</string>
     <string name="down_right_double_fling_down_gesture_value_default">Панель сповіщень</string>
 
-    <string name="down_left_double_fling_setting">Налаштування жесту вниз-вліво</string>
+    <string name="down_left_double_fling_setting">Налаштування комбінованого жесту вниз-вліво</string>
     <string name="down_left_double_fling_left_gesture_value_default">@string/command_copy</string>
     <string name="down_left_double_fling_up_gesture_value_default">@string/command_paste</string>
     <string name="down_left_double_fling_right_gesture_value_default">@string/command_append_copy</string>
     <string name="down_left_double_fling_down_gesture_value_default">@string/command_long_copy</string>
 
 
-    <string name="use_down_right_double_fling_gesture_title">Використовувати жест вниз-вправо</string>
-    <string name="use_down_left_double_fling_gesture_title">Використовувати жест вниз-вліво</string>
+    <string name="use_down_right_double_fling_gesture_title">Використовувати комбінований жест вниз-вправо</string>
+    <string name="use_down_left_double_fling_gesture_title">Використовувати комбінований жест вниз-вліво</string>
 
 
     <string name="right_double_fling_setting">Налаштування комбінованого жесту вправо</string>
@@ -654,8 +654,8 @@
     <string name="use_down_double_fling_gesture_title">Використовувати комбінований жест вниз</string>
 
 
-    <string name="up_left_double_fling_setting">Налаштування комбінованого жесту проведення вгору-вліво</string>
-    <string name="use_up_left_double_fling_gesture_title">Використовувати комбінований жест проведення вгору-вліво</string>
+    <string name="up_left_double_fling_setting">Налаштування комбінованого жесту вгору-вліво</string>
+    <string name="use_up_left_double_fling_gesture_title">Використовувати комбінований жест вгору-вліво</string>
 
     <string name="up_right_double_fling_setting">Налаштування комбінованого жесту вгору-вправо</string>
     <string name="use_up_right_double_fling_gesture_title">Використовувати комбінований жест вгору-вправо</string>
@@ -665,7 +665,7 @@
     <string name="use_right_left_double_fling_gesture_title">Використовувати комбінований жест вправо-вліво</string>
 
     <string name="left_right_double_fling_setting">Налаштування комбінованого жесту вліво-вправо</string>
-    <string name="use_left_right_double_fling_gesture_title">Використовувати комбінований жест вліво-вправо.</string>
+    <string name="use_left_right_double_fling_gesture_title">Використовувати комбінований жест вліво-вправо</string>
 
 
     <string name="up_down_double_fling_setting">Налаштування комбінованого жесту вгору-вниз</string>
@@ -899,8 +899,8 @@
     <string name="msg_battery_full">Акумулятор заряджено</string>
     <string name="invite_code">Код запрошення: </string>
     <string name="msg_supper_mode">Режим поліпшеного фокуса</string>
-    <string name="msg_enabled_supper_mode">Увімкнути режим поліпшеного фокуса</string>
-    <string name="msg_disabled_supper_mode">Вимкнути режим поліпшеного фокуса</string>
+    <string name="msg_enabled_supper_mode">Режим детальної навігації увімкнено</string>
+    <string name="msg_disabled_supper_mode">Режим детальної навігації вимкнено</string>
     <string name="msg_enabled_supper_mode_error">Не вдалось увімкнути режим поліпшеного фокуса.</string>
     <string name="msg_disabled_supper_mode_error">Не вдалося вимкнути режим поліпшеного фокуса</string>
     <string name="msg_backup_done">Резервну копію буде збережено в папці Backups.</string>
@@ -1055,7 +1055,7 @@
     <string name="fix_import">Аналіз імпорту</string>
     <string name="run">Запустити</string>
     <string name="use_emoji_speak_title">Читати емодзі: </string>
-    <string name="install_shortcut">Додати на робочий стіл</string>
+    <string name="install_shortcut">Додати на головний екран</string>
     <string name="msg_select_end">Завершити</string>
     <string name="msg_select_start">Розпочати</string>
     <string name="msg_plugin_run_error">Спершу запустіть Jieshuo у спеціальних можливостях, а потім запустіть плагін.</string>
@@ -1102,7 +1102,7 @@
     <string name="hot_key_package_title">Схеми комбінацій клавіш</string>
     <string name="hot_key_description_title">Опис схеми комбінацій клавіш</string>
     <string name="hot_key_settings_title">Персоналізовані схеми комбінацій клавіш</string>
-    <string name="custom_hot_key_settings_title">Персоналізувати налаштування зовнішньої клавіатури</string>
+    <string name="custom_hot_key_settings_title">Налаштування зовнішньої клавіатури</string>
     <string name="app_hot_key_package_title">Схеми комбінацій клавіш для окремих додатків</string>
     <string name="app_hot_key_package_summary">Налаштування комбінацій клавіш для окремих додатків</string>
     <string name="directory_hot_key">Гарячі клавіші</string>
@@ -1110,7 +1110,7 @@
     <string name="sound_timer_end">Звук завершення відліку часу</string>
     <string name="sound_timer_start">Звук початку відліку часу</string>
     <string name="use_scroll_list_content_title">Читати вміст під час прокрутки</string>
-    <string name="use_view_type_move_title">Навігація по елементах керування</string>
+    <string name="use_view_type_move_title">Навігація по елементах при стандартному перегляді</string>
     <string name="use_view_type_move_summary">Якщо виникає конфлікт жестів, розгляньте можливість перепризначення жестів для цих дій.</string>
     <string name="command_raw_double_tap">[Подвійний дотик]</string>
     <string name="to_previous_granularity_item">Попередній елемент навігації</string>
@@ -1214,14 +1214,83 @@
     <string name="export_file">Експорт</string>
     <string name="replace_to">Замінити на</string>
     <string name="replace_regex">Використовувати регулярні вирази</string>
-    <string name="msg_replaced">Запис для заміни додано успішно.</string>
-    <string name="use_touch_stop_title">Зупинити мовлення дотиком до екрана</string>
-    <string name="continuous_recognition">Постійне розпізнавання</string>
-    <string name="edit_dict">编辑词典</string>
-    <string name="up_volume_key_off_title">关屏状态长按音量增加键</string>
-    <string name="down_volume_key_off_title">关屏状态长按音量减小键</string>
-    <string name="use_loop_move_space_title">在焦点循环前增加空焦点提示</string>
-    <string name="use_view_type_move_mode_title">使用新的类型导航手势</string>
-    <string name="use_view_type_move_mode_summary">打开后按试图类型浏览，默认使用先上后下和先下后上切换类型，使用向左和向右切换项目，默认类型执行原快捷功能；\n关闭时使用向左或向右手势切换类型，使用向上或向下切换项目，默认类型移动焦点。</string>
+    <string name="msg_replaced">Замінено.</string>
+    <string name="use_touch_stop_title">Зупиняти мовлення дотиком до екрана</string>
+    <string name="continuous_recognition">Безперервне розпізнавання</string>
+    <string name="edit_dict">Редагувати словник</string>
+    <string name="up_volume_key_off_title">Довге натискання клавіші збільшення гучності на екрані блокування</string>
+    <string name="down_volume_key_off_title">Довге натискання клавіші зменшення гучності на екрані блокування</string>
+    <string name="use_loop_move_space_title">Додаткове змахування перед новим циклом прокрутки</string>
+    <string name="use_view_type_move_mode_title">Використовувати новий режим навігації</string>
+    <string name="use_view_type_move_mode_summary">Якщо позначено, зміна типу елементів навігації здійснюється жестами вгору-вниз і вниз-вгору; перехід між елементами обраного типу - жестами вниз і вгору; жестами вправо та вліво здійснюється звичайний перехід між елементами; при виборі стандартного типу жести вниз і вгору виконують призначені швидкі дії.\nЯкщо вимкнено, зміна типу елементів навігації здійснюється жестами вниз і вгору; перехід між елементами обраного типу - жестами вправо та вліво; для звичайного переходу між елементами оберіть стандартний тип.</string>
+    <string name="app_hot_key_shortcut_title">Налаштування дій клавіш гучності для окремих додатків</string>
+    <string name="shared_cloud_label">Надіслати до хмарних міток</string>
+    <string name="use_more_node_title">Використовувати більше заголовків вузлів</string>
+    <string name="use_more_node_summary">Розділяє об\'єкт на додаткові елементи, на які можна встановити фокус. Користуйтеся цією функцією відповідно до ваших потреб.</string>
+    <string name="use_multi_hot_key_title">Використовувати багаторазові натискання клавіш гучності</string>
+    <string name="up_volume_2_key_title">Подвійне натискання клавіші збільшення гучності</string>
+    <string name="up_volume_3_key_title">Потрійне натискання клавіші збільшення гучності</string>
+    <string name="down_volume_2_key_title">Подвійне натискання клавіші зменшення гучності</string>
+    <string name="down_volume_3_key_title">Потрійне натискання клавіші зменшення гучності</string>
+    <string name="command_to_next_char">Наступний символ</string>
+    <string name="command_to_previous_char">Попередній символ</string>
+    <string name="command_to_next_word">Наступне слово</string>
+    <string name="command_to_previous_word">Попереднє слово</string>
+    <string name="command_to_next_row">Наступний рядок</string>
+    <string name="command_to_previous_row">Попередній рядок</string>
+    <string name="command_to_next_paragraph">Наступний абзац</string>
+    <string name="command_to_previous_paragraph">Попередній абзац</string>
+    <string name="command_to_head_set_key">Відтворення / Пауза</string>
+    <string name="msg_selected_from_to">Виділено %d з %d</string>
+    <string name="album_activity">Альбом Jieshuo</string>
+    <string name="command_toggle_tts_engine">Змінити синтезатор мовлення</string>
+    <string name="command_speak_light">Поточна освітленість</string>
+    <string name="use_recording_stop_title">Вимикати оповіщення від Jieshuo Screenreader під час запису</string>
+    <string name="use_speak_call_time_title">Сповіщувати про тривалість викликів</string>
+    <string name="use_speak_call_time_summary">Після кожного виклику буде озвучуватись його тривалість. Для роботи функції потрібен дозвіл на доступ до списку викликів.</string>
+    <string name="use_list_item_index_real_time_title">Озвучувати перебіг прокрутки списків у реальному часі</string>
+    <string name="add_favorites">Додати в обране</string>
+    <string name="save_as_file">Зберегти на пристрої</string>
+    <string name="save_as_cloud">Зберегти як хмарну нотатку</string>
+    <string name="msg_toggle_tts">Синтезатор мовлення змінено</string>
+    <string name="curren_char_idx">Рядків %d, Символів %d</string>
+    <string name="command_add_content_blacklist">Додати вміст до чорного списку</string>
+    <string name="command_media_previous">Попередній трек</string>
+    <string name="command_media_next">Наступний трек</string>
+    <string name="use_answer_phone_calls_gesture_title">Відповідь і завершення виклику на екрані будь-якого додатка</string>
+    <string name="command_previous_window">Попереднє вікно</string>
+    <string name="command_next_window">Наступне вікно</string>
+    <string name="accessibility_focus_appearance_title">Налаштування індикатора фокуса</string>
+    <string name="alpha">Прозорий</string>
+    <string name="red">Червоний</string>
+    <string name="green">Зелений</string>
+    <string name="blue">Синій</string>
+    <string name="stroke">Товщина</string>
+    <string name="gesture_2_triple_tap_hold">Потрійний дотик двома пальцями з утриманням</string>
+    <string name="gesture_3_triple_tap_hold">Потрійний дотик трьома пальцями з утриманням</string>
+    <string name="gesture_4_triple_tap_hold">Потрійний дотик чотирма пальцями з утриманням</string>
+    <string name="up_long">Повільно проведіть вгору</string>
+    <string name="up_right_long">Повільно проведіть вгору і вправо</string>
+    <string name="up_down_long">Повільно проведіть вгору і вниз</string>
+    <string name="up_left_long">Повільно проведіть вгору і вліво</string>
+    <string name="down_long">Повільно проведіть вниз</string>
+    <string name="down_right_long">Повільно проведіть вниз і вправо</string>
+    <string name="down_up_long">Повільно проведіть вниз і вгору</string>
+    <string name="down_left_long">Повільно проведіть вниз і вліво</string>
+    <string name="left_long">Повільно проведіть вліво</string>
+    <string name="left_up_long">Повільно проведіть вліво і вгору</string>
+    <string name="left_down_long">Повільно проведіть вліво і вниз</string>
+    <string name="left_right_long">Повільно проведіть вліво і вправо</string>
+    <string name="right_long">Повільно проведіть вправо</string>
+    <string name="right_up_long">Повільно проведіть вправо і вгору</string>
+    <string name="right_down_long">Повільно проведіть вправо і вниз</string>
+    <string name="right_left_long">Повільно проведіть вправо і вліво</string>
+    <string name="keep_focus_position_speak_title">朗读记忆的焦点</string>
+    <string name="save_as_cmd">保存为指令</string>
+    <string name="execute_cmd">是否运行下边指令</string>
+    <string name="command_show_nodeinfo">节点详情</string>
+    <string name="copy_as_jieshuo_cmd">复制为解说口令</string>
+    <string name="copy_text_auto_execute">复制文字自动执行</string>
+    <string name="msg_cmd_copyed">已复制，粘贴分享吧</string>
 
 </resources>

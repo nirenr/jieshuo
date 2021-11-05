@@ -4,73 +4,74 @@
     <string-array name="help_items">
         <item>
         Grundlegende Lesebefehle:\n
-        In der standardeinstellung bewegen Sie den Fokus mit Wischen nach oben zum vorherigen Element, nach unten zum nächsten.\n
-        Sie können dieses Verhalten in den Aktionseinstellungen ändern.</item>
+        In der Standardeinstellung bewegen Sie den Fokus mit Wischen nach oben zum vorherigen Element, nach unten zum nächsten.\n
+        Wischen nach links oder rechts wird für Kurzbefehle verwendet.\n
+								Sie können dieses Verhalten in den Einstellungen für Befehle und gesten invertieren, sodass die Gesten für die Navigation denen von Talkback oder VoiceOver entsprechen.</item>
         <item>
 Hauptmenü: \n
-        Sie erreichen das Menü durch Wischen nach unten und rechts. Wischen Sie nach rechts zum Erweitern des Menüs.\n
-        Sie können alle Menüpunkte auf einmal anzeigen, indem Sie das Menü anpassen.</item>
+        Sie erreichen das Hauptmenü von Jieshuo Screenreader durch Wischen nach unten und rechts. Wischen Sie dann nach rechts zum Erweitern des Menüs. Tippen Sie doppelt zum Aktivieren eines Menüeintrages. Sie können in den erweiterten Einstellungen auch das mehrspaltige Menü aktivieren, dann werden sofort alle verfügbaren Menüpunkte angezeigt.\n
+        Sie können das Hauptmenü über die erweiterten Einstellungen natürlich an Ihre Bedürfnisse anpassen und sortieren.\n</item>
         <item>
         Sprachassistent:\n
-        In der Standardeinstellung aktivieren Sie den sprachassistent durch nach unten und links wischen. Nach dem Ton können Sie sprechen.\n
-        Der Sprachassistent kann in den erweiterten Einstellungen angepaßt werden.\n</item>
+        In der Standardeinstellung aktivieren Sie den sprachassistent durch nach unten und links wischen. Ähnlich wie beim Google Sprachassistenten wird ein Ton abgespielt. Danach können Sie sprechen.\n
+        Der Sprachassistent kann in den erweiterten Einstellungen konfiguriert werden.\n</item>
         <item>
-Aktionen Menü: \n
-        In der Standardeinstellung öffnen Sie das Aktionen Menü durch Wischen nach oben und rechts. Wischen Sie nach rechts zum Erweitern des Menüs, Doppeltippen aktiviert einen Menüeintrag.</item>
+Funktionen Menü: \n
+        In der Standardeinstellung öffnen Sie das Funktionen Menü durch Wischen nach oben und rechts. Wischen Sie nach rechts zum Erweitern des Menüs, Doppeltippen aktiviert einen Menüeintrag.</item>
         <item>
         Erweiterungen:\n
-        In der Standardeinstellung öffnen die beiden Gesten an der linken Seite dieses Menü. Wischen Sie nach rechts zum gewünschten Menüpunkt. Doppeltippen aktiviert einen Eintrag.\n
-        Unter Download Ressourcen finden Sie zusätzliche Erweiterungen.\n
+        Sie gelangen über das Hauptmenü in den Dialog Erweiterungen. Hier können Sie Anpassungen z. B. für bestimmte Apps herunterladen, die andere Nutzer zur Verfügung gestellt haben. Doppeltippen aktiviert einen Eintrag.\n
+        Über das Menü Weitere Resoursen herunterladen finden Sie zusätzliche Erweiterungen.\n
          </item>
         <item>
         Kopieren, Kopieren und anhängen, Zwischenablage und Lesezeichen:\n
-        Diese Funktionen finden Sie im Menü für Schnellzugriff.\n
-        Kopieren, kopiert aktuellen Text in die Zwischenablage.\n
-        Kopieren und anhängen, kopiert den aktuellen Text in die Zwischenablage und fügt ihn am Ende des bereits vorhandenen Texts ein,\n
-        Zwischenablage, speichert den zuletzt kopierten Text, Tippen Sie doppelt auf das Eingabefeld, um Text zu Ihren Lesezeichen hinzuzufügen\n
-        Lesezeichen, Tippen Sie doppelt zum Aktivieren des Eingabefelds.\n
+        Diese Funktionen finden Sie im Funktionsmenü. Wischen Sie nach oben und dann nach rechts, um sie zu erreichen.\n
+        Kopieren, kopiert den aktuell fokussierten Text in die Zwischenablage.\n
+        Kopieren und anhängen, kopiert den aktuellen Text in die Zwischenablage und fügt ihn am Ende des bereits vorhandenen Textes ein,\n
+        Zwischenablage, Zeigt den Verlauf der Zwischenablage an.\n
+        Lesezeichen, Öffnet die Liste Ihrer gespeicherten Lesezeichen.\n
         In den erweiterten Einstellungen unter Ressourcen verwalten können Sie den Inhalt der Zwischenablage und Ihre Lesezeichen sichern.</item>
         <item>
-        Langes Kopieren (Nur Premium-Nutzer:\n
-        Langes Kopieren kann Einträge langer Listen kopieren.\n
-        Nachdem Sie langes Kopieren im Menü für Schnellzugriff aktiviert haben, müssen Sie je nach Länge der Liste etwas warten.\n
-        Das Kopieren kann mit jeder beliebigen Geste abgebrochen werden.</item>
+        Komplette Liste kopieren (Nur Premium-Nutzer:\n
+        Mit dieser Funktion können Sie ein komplettes Dokument, eine Liste oder alles andere, was sich auf dem Bildschirm befindet kopieren.\n
+        Nachdem Sie die Funktion aktiviert haben, müssen Sie je nach Länge der Liste etwas warten.\n
+        Der Vorgang kann mit jeder beliebigen Geste abgebrochen werden.</item>
         <item>
-        Komplette Texte markieren, nur Premium-Nutzer:\n
-        Diese Funktion ist sinnvoll, um längere Texte, z. B. von Webseiten zu kopieren.
-        Der Text kann wortweise, satzweise oder absatzweise aufgeteilt werden. Wählen Sie das entsprechende Kontrolkästchen aus, und kopieren Sie dann den gewünschten Text,\n
-        In der Liste der Textinhalte können Sie durch langes Drücken Anfang und Ende des zu kopierenden Textes festlegen.</item>
+        Textbearbeitung, nur Premium-Nutzer:\n
+        Diese Funktion ist sinnvoll, um in längeren Texten schnell zu navigieren.
+        Sie können den Fokus wortweise, satzweise oder Absatzweise durch den Textbewegen. Aktivieren Sie einfach eine der gewünschten Schaltflächen, und der Text wird entsprechend formatiert.\n
+        </item>
         <item>
         Erweitertes Bearbeiten, Funktion, Premium-Nutzer:\n
         Sie können Text in Eingabefeldern oder aus anderen Bereichen wortweise, satzweise, absatzweise oder komplett in einem Eingabefeld komfortabel bearbeiten.\n
         Doppeltippen Sie auf dem entsprechenden Eintrag in der Liste. Tippen und halten Sie, um den Text zu bearbeiten.\n
         Text in Eingabefeldern können Sie direkt bearbeiten. Anderer Text kann in die Zwischenablage kopiert werden.</item>
         <item>
-        Elementliste:\n
+        Liste der Hyperlinks:\n
         Zeigen Sie alle Elemente z. B. einer Webseite in einer Liste an und aktivieren Sie ein Element durch doppeltippen.</item>
         <item>
         Vorlesemodus, Premium-Nutzer:\n
         Sie können Artikel von Webseiten im Browser öffnen und lesen, und überflüssige Inhalte wie z. B. Bilder automatisch herausfiltern lassen.</item>
         <item>
-Virtueller Bildschirm, Premium-Nutzer:\n
-Durch die integrierte Texterkennung wird unzugänglicher Bildschirminhalt erkannt und in die Navigation einbezogen. Bewegen Sie sich durch den erkannten Text, tippen Sie doppelt, um den Focus auf ein Element zu setzen und dieses zu aktivieren.\n
-        Diese Funktion steht nur in Android Version 7 oder höher zur Verfügung. In Android 6 und früher kann zwar der Text erkannt, jedoch der Fokus nicht auf ein Element gesetzt und dieses aktiviert werden.</item>
+									Virtueller Bildschirm, Premium-Nutzer:\n
+									Durch die integrierte Texterkennung wird unzugänglicher Bildschirminhalt erkannt und in die Navigation einbezogen. Bewegen Sie sich durch den erkannten Text, tippen Sie doppelt, um den Focus auf ein Element zu setzen und dieses zu aktivieren.\n
+									Diese Funktion steht nur in Android Version 7 oder höher zur Verfügung. In Android 6 und früher kann zwar der Text erkannt, jedoch der Fokus nicht auf ein Element gesetzt und dieses aktiviert werden.</item>
         <item>
         Texterkennung, Premium-Nutzer:\n
         Unzugänglicher Text auf dem Bildschirm kann mit Hilfe von Texterkennung gelesen werden. Unter Android Version 7 und höher kann auch der Fokus auf ein gewünschtes Element gesetzt werden. Android 6 und früher ermöglicht nur das Lesen des erkannten Textes.</item>
              <item>
         Captcha Erkennung, Premium-Nutzer:\n
-        Setzen Sie den Fokus auf das CAPTCHA und führen Sie die CAPTCHA-Erkennung über das Menü für Schnellzugriff/erweiterte Funktionen durch. Es kann englischsprachiger Text und Zahlen erkannt werden. Das Ergebnis wird in die Zwischenablage kopiert.</item>
+        Setzen Sie den Fokus auf das CAPTCHA und führen Sie die CAPTCHA-Erkennung über das Funktionsmenü /Weitere Befehle durch. Es kann englischsprachiger Text und Zahlen erkannt werden. Das Ergebnis wird in die Zwischenablage kopiert.</item>
         <item>
         Jieshuo camera, Premium-Nutzer:\n
         Die Kamera kann Text, Banknoten, Szenen, Tiere, Pflanzen erkennen oder ein Live-Bild beschreiben. Zur Zeit wird nur die Kamera auf der Rückseite des Telefons unterstützt. Mit Lautstärke plus nehmen Sie ein Bild auf, mit minus wechseln Sie zwischen den Verfügbaren Erkennungsmodi.</item>
         <item>
         Schnell in Listen navigieren\n
-        In den Aktionseinstellungen können Sie diese Option aktivieren, um schnell mit durch nach links oder rechts wischen in Listen zu navigieren, z. B. in der QQ Nachrichtenliste.</item>
+        In den Einstellungen für Befehle und Gesten können Sie diese Option aktivieren, um schnell durch nach links oder rechts wischen in Listen zu navigieren, z. B. in der QQ Nachrichtenliste.</item>
         <item>
-        Liste unterdrückter/erlaubter Benachrichtigungen:\n
+        Liste unterdrückter oder zugelassener Benachrichtigungen:\n
         Mit der Liste unterdrückter Benachrichtigungen können Sie Benachrichtigungen mit bestimmten Inhalt unterdrücken. Geben Sie ein Sternchen als Platzhalter ein, falls alle Benachrichtigungen dieser App unterdrückt werden sollen..\n
-        Die Liste erlaubter Benachrichtigungen legt fest, welche Benachrichtigungen Sie hören möchten. Sie werden auch noch gelesen, wenn sie bereits geschlossen wurden. Geben Sie ein Sternchen als Platzhalter ein, um alle Benachrichtigungen einer App zu erlauben..\n
+        Die Liste zugelassener Benachrichtigungen legt fest, welche Benachrichtigungen Sie hören möchten. Sie können werden auch noch gelesen werden, wenn sie bereits aus der Benachrichtigungsleiste entfernt wurden. Geben Sie ein Sternchen als Platzhalter ein, um alle Benachrichtigungen einer App zu erlauben..\n
         </item>
         <item>
         Inhaltsfilter\n
@@ -85,23 +86,24 @@ Durch die integrierte Texterkennung wird unzugänglicher Bildschirminhalt erkann
         Dadurch werden Apps wie WeChat Sports, WeChat Friends Circle, Taobao Footprint, Huawei Router usw. zugänglich.</item>
         <item>
         Virtuelle Navigation, Premium-Nutzer:\n
-        Mit dieser Funktion können Inhalte mit dem Fokus erreicht werden, die sonst nicht zugänglich sind.\n
+        Über diese Funktion können Inhalte mit dem Fokus erreicht werden, die sonst nicht zugänglich sind. Diese durch die OCR erkannten Elemente können zu einem virtuellen Bildschirm hinzugefügt werden, den Sie dann ganz normal mit den üblichen Gesten bedienen können.\n
         Bitte fügen Sie nur Elemente mit fester Position auf dem Bildschirm hinzu. Tippen Sie auf den über die Texterkennung erkannten Namenund dann auf Hinzufügen. Android Version 7 oder höher ist erforderlich.</item>
         <item>
         Benutzerdefinierte Gesten:\n
-        Sie können jede integrierte oder erweiterte Funktion als Geste definieren.\n
+        Sie können jede integrierte oder erweiterte Funktion als Geste definieren. Hierzu zählt z. B. auch das Starten einer App oder das automatische Aktivieren eines Elementes auf dem Bildschirm.\n
         Wechseln Sie schnell zwischen verschiedenen Konfigurationen, indem Sie ein Gestenschema importieren.\n
         Nach dem Import muss das Schema nur aktiviert werden, dann sind die neuen Gesten aktiv.\n
         Falls Sie nicht genau wissen, was Sie tun, nutzen Sie diese Funktion besser nicht.</item>
         <item>
         Mehrteilige Gesten, Premium-Nutzer:\n
         Eine mehrteilige Geste ist eine Kombination aus 2 Gesten, die kurz hintereinander ausgeführt werden und bestimmte Funktionen aktivieren kann.\n
-        Diese Funktion kann in den Aktionseinstellungen konfiguriert werden,\n
-        Nachdem diese Funktion aktiviert wurde, wird nach jeder Geste eine halbe Sekunde auf eine weitere Geste gewartet.\n
-        Verwenden Sie hier keine Gesten, wie z. B. Fokusbewegungen, bei denen Sie eine schnelle Reaktionszeit erwarten.</item>
+        Diese Funktion kann in den Einstellungen für Befehle und Gesten konfiguriert werden,\n
+        Nachdem diese Funktion aktiviert wurde, wird nach dem Ausführen der ersten Geste eine halbe Sekunde auf eine weitere Geste gewartet.\n
+        Verwenden Sie hier keine Gesten wie z. B. Fokusbewegungen, bei denen Sie eine schnelle Reaktionszeit erwarten.</item>
         <item>
         Sprachbefehle aufnehmen:\n
-        wird für Deutsch leider noch nicht unterstützt.</item>
+        Sie können in den Erweiterten Einstellungen / Sprachassistent Einstellungen eigene Sprachbefehle definieren, die eine von Ihnen gewünschte Aktion ausführen. Dies kann eine interne Jieshuo Funktion sein, aber auch eine App öffnen etc.\n
+       		</item>
 
     </string-array>
 

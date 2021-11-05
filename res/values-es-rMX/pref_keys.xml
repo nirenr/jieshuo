@@ -412,4 +412,21 @@
     <string name="down_volume_key_off">down_volume_key_off</string>
     <string name="use_loop_move_space">use_loop_move_space</string>
     <string name="use_view_type_move_mode">use_view_type_move_mode</string>
+    <string name="app_hot_key_shortcut">app_hot_key_shortcut</string>
+    <string name="use_more_node">use_more_node</string>
+    <string name="use_multi_hot_key">use_multi_hot_key</string>
+    <string name="up_volume_2_key">up_volume_2_key</string>
+    <string name="up_volume_3_key">up_volume_3_key</string>
+    <string name="down_volume_2_key">down_volume_2_key</string>
+    <string name="down_volume_3_key">down_volume_3_key</string>
+    <string name="download_url">download_url</string>
+    <string name="use_recording_stop">use_recording_stop</string>
+    <string name="use_speak_call_time">use_speak_call_time</string>
+    <string name="use_list_item_index_real_time">use_list_item_index_real_time</string>
+    <string name="use_answer_phone_calls_gesture">use_answer_phone_calls_gesture</string>
+    <string name="accessibility_focus_appearance">accessibility_focus_appearance</string>
+    <string name="accessibility_focus_appearance_stroke">accessibility_focus_appearance_stroke</string>
+    <string name="keep_focus_position_speak">keep_focus_position_speak</string>
+    <string name="float_menu_x">float_menu_x</string>
+    <string name="float_menu_y">float_menu_y</string>
 </resources>

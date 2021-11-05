@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name"> Jieshuo+</string>
+    <string name="app_name">Jieshuo</string>
     <string name="accessibility_service_description">
         Jieshuo هو تطبيقٌ يُساعِدُ المكفوفينَ على إستخدام هواتفهِم المحمولة. لقد قمنا ببعض المحاولات للابتكار. لمزيدٍ مِنَ التفاصيل، افتح الإعدادات ثُمَّ المساعَدة.\n
         بعضُ الوظائفِ مُقَيَّدةٌ حتى تقومَ بالإشتراك في النسخة المدفوعة. لمزيدٍ مِنَ التفاصيل، الرجاء التواصُلُ مع مُمَثِّلي خِدْمةِ الدعم على مجموعة QQ الرسمية.\n
@@ -198,7 +198,7 @@
     <string name="tool_manager_title">إدارةُ الأدوات</string>
     <string name="message_load_error">فَشِلَ استيراد المَوْرِد.</string>
     <string name="manager_activity_title">إدارة الموارد</string>
-    <string name="use_headset_key_title">استَخدِم مفتاح سَمّاعة الرأس للتحكم في Jieshuo: </string>
+    <string name="use_headset_key_title">إستخدام مفتاح سَمّاعة الرأس للتحكم في Jieshuo: </string>
     <string name="use_wake_lock_title">البقاء في الوَضْع النَشِط: </string>
     <string name="user_settings_title">مركز المستخدِم</string>
     <string name="user_name_title">اسم المستخدِم</string>
@@ -235,7 +235,7 @@
     <string name="favorites_manager_title">إدارةُ المُفَضَّلة</string>
     <string name="use_multi_menu_title">إستخدام قائمة متعددة الأعمدة: </string>
     <string name="use_multi_menu_summary">القائمةُ المتعددةُ الأعمدة لا تدعم المحتوى المخصَّص</string>
-    <string name="use_left_right_title">إستخدام إِيماءات التمرير لليمين و لليسار للتَنَقُّل: </string>
+    <string name="use_left_right_title">إستخدام إِيماءات التمرير لليمين أو لليسار للتَنَقُّل: </string>
     <string name="use_list_item_index_title">نُطْق رقم العنصر في القائمة: </string>
     <string name="use_left_right_summary"> ٕ </string>
     <string name="use_old_previous_title">إستخدام الطريقة القديمة لتغيير التَّرْكيز: </string>
@@ -276,7 +276,7 @@
     <string name="use_supper_filter_summary"> ٕ </string>
     <string name="use_edge_gesture_title">إستخدام إِيماءاتِ الحافَّتَيْن: </string>
     <string name="left_edge_gesture_title">التَّمْرير لليمين مِنَ الحافةِ اليُسرى</string>
-    <string name="right_edge_gesture_title">التَّمْرير لل يسار مِنَ الحافةِ اليُمنى</string>
+    <string name="right_edge_gesture_title">التَّمْرير لليسار مِنَ الحافةِ اليُمنى</string>
     <string name="right_edge_gesture_value_default">التطبيقات الحديثة</string>
     <string name="left_edge_gesture_value_default">رجوع</string>
     <string name="use_edge_gesture_summary">الإِيماءاتُ التي يَتِمُّ إجراؤها مِن كِلا حافَّتَي الشاشة.</string>
@@ -303,7 +303,7 @@
     <string name="use_up_long_quick_menu_summary">يَتِمُّ عرض الإِيماءات المخصصة عند إجراء الضغط المُطَوَّل على العنصر المُرَكَّز عَلَيْهِ.</string>
     <string name="up_volume_short_key_value_default">رفع مُسْتَوى الصوت</string>
     <string name="up_volume_short_key_title">إِضْغَط قصيراً على مفتاح رَفْعِ مُسْتَوى الصوت: </string>
-    <string name="up_volume_short_key_summary">自定义短按音量增加键功能，在触摸屏幕状态为增大音量</string>
+    <string name="up_volume_short_key_summary">自定义短按音量增大键功能，在触摸屏幕状态为增大音量</string>
     <string name="down_volume_short_key_value_default">خفض مُسْتَوى الصوت</string>
     <string name="down_volume_short_key_title">إِضْغَط قصيراً على مفتاح خَفْضِ مُسْتَوى الصوت: </string>
     <string name="down_volume_short_key_summary">自定义短按音量减小键功能，在触摸屏幕状态为减小音量</string>
@@ -322,10 +322,10 @@
     <string name="use_speak_qq_changed_title">قِراءة رسائل الدردشة المرسلة تلقائيا: </string>
     <string name="use_speak_qq_changed_summary">تتم قِراءة الرسائل الخاصة بنافذة الدردشة في QQ و WeChat تلقائيا. </string>
     <string name="left_button_default_value">|*رفض*|*إنهاء*|مغادرة|Leave*|طلب|إغلاق*|محو*|مسح*|حذف جميع الإشعارات|حذف كل الإشعارات.|ترجيع*</string>
-    <string name="right_button_default_value">*مكبّر الصوت*|*مكبر الصوت*|*قبول*|تخطي الإعلان|إرسال تعليق|تقديم*</string>
+    <string name="right_button_default_value">قبول*|*مكبّر الصوت*|*مكبر الصوت*|*تخطي الإعلان|إرسال تعليق|تقديم*</string>
     <string name="edge_gesture_title">إِيماءات الحافَّتَيْن</string>
-    <string name="left_button_title">إجراءات إختصار التَّمْرير لأعلى </string>
-    <string name="right_button_title">إجراءات إختصار التَّمْرير لأسفل </string>
+    <string name="left_button_title">إجراءات إختصار التَّمْرير للأعلى </string>
+    <string name="right_button_title">إجراءات إختصار التَّمْرير للأسفل </string>
     <string name="use_add_async_tts_title">وَضْعُ الإشعارات الواردة في الانتظار أثناء القِراءة: </string>
     <string name="use_add_async_tts_summary">هذه الميزةُُ لا تدعمُ وَضْعَ إستخدام المُحَرِّكِ الفردي.</string>
     <string name="questions_answers_title">الأسئلةُ المتكررة</string>
@@ -353,7 +353,7 @@
     <string name="download_activity_title">تنزيل موارد إضافية</string>
     <string name="use_number_speak_title">نُطْق الأرقام مُفْرَدة: </string>
     <string name="use_input_method_gesture_title">إستخدام الإِيماءات للإكمال التلقائي أثناء الكتابة: </string>
-    <string name="use_input_method_gesture_summary">يَتِمُّ إستخدام التمرير لليمين و لليسار للتَّنَقُّل بين اقتراحات الكَلِمة التالية، والتمرير لأعلى أو لأسفل لاختيار الكَلِمة المُرَكَّز عليها.</string>
+    <string name="use_input_method_gesture_summary">يَتِمُّ إستخدام التمرير لليمين أو لليسار للتَّنَقُّل بين اقتراحات الكَلِمة التالية، والتمرير للأعلى أو للأسفل لاختيار الكَلِمة المُرَكَّز عليها. </string>
     <string name="use_volume_key_move_text_title">إستخدام مفاتيحِ التَّحَكُّم بمُسْتَوى الصوت لتحريك المؤشر.</string>
     <string name="user_text">إسمُ المستخدِم: يمكنك إنشاء إسم المستخدِم باستخدام 5 أحرُف أو أكثر. ويجب أن يتألف إسم المستخدِم مِن أحرُف لاتينية. </string>
     <string name="pass_text">كلمة المرور: يمكنك إنشاء كلمة المرور باستخدام 6 أحرُف أو أكثر. ويجب أن تتألف كلمة المرور مِن أرقام أو أحرُف لاتينية. </string>
@@ -366,7 +366,7 @@
     <string name="use_accessibility_volume_summary">يَتِمُّ التَّحَكُّمُ بِمُسْتَوى صوت Jieshuo مِن خِلالِِ مُسْتَوى صوت إمكانية الوصول بدلا مِن مُسْتَوى صوت الوسائط. </string>
     <string name="value_stream_accessibility">إمكانيةُ الوصول</string>
     <string name="left_right_gesture_title">الإِيماءات البديلة</string>
-    <string name="use_move_list_view_item_title">إستخدام إِيماءات التمرير  لأعلى و لأسفل للتَنَقُّل سريعا بين عناصر القائمة: .</string>
+    <string name="use_move_list_view_item_title">إستخدام إِيماءات التمرير للأعلى أو للأسفل للتَنَقُّل سريعا بين عناصر القائمة: </string>
     <string name="no_support">يتطلب ذلك Android %d وما فوق.</string>
     <string name="use_pinyin_speak_title">استَخدِم مُحَرِّك Pinyin عندما تكون في وَضْعِ التَّعْديل</string>
     <string name="backup_restore_settings_title">النَّسْخِ الاحتياطي والاستعادة</string>
@@ -391,7 +391,7 @@
     <string name="vip_qq_kefu_summary">咨询，购买，移机，过户请务必通过认证客服</string>
     <string name="use_speak_changed_window_title">نُطْق خيارات النافذة عند تغييرها: </string>
     <string name="use_timer_sound_title">التَّنْبيهُ بالصوت: </string>
-    <string name="timer_setting_title">الساعةُ الناطِقةُ والمُؤَقِّت</string>
+    <string name="timer_setting_title">الساعةُ الناطقة والمُؤَقِّت</string>
     <string name="voice_cmd_setting_title">الأوامر الصوتية</string>
     <string name="directory_cmd">Custom voice commands</string>
     <string name="use_move_list_view_item_summary"> ٕ </string>
@@ -448,7 +448,7 @@
     <string name="upper_case_format_number2">هناك أحرُف %s كبيرة, حَرْف %d</string>
 
     <string name="use_slow_speed_title">إستخدام المحرك الثانوي بمعدل سرعة أبطأ عندَ نُطْق الساعة والتَّنَقُّل في وَضْع دِقّات القِراءة</string>
-    <string name="has_vip_summary_gesture">إِيماءاتُ التَّمْرير لليمين، و لل يسار، و للأعلى، و لِل أَسْفَل لا يمكن تخصيصها في النسخة المجانية.</string>
+    <string name="has_vip_summary_gesture">إِيماءاتُ التَّمْرير لليمين، و لليسار، و للأعلى، و لِلأسفل لا يمكن تخصيصها في النسخة المجانية.</string>
     <string name="message_has_vip_loop_click">النَّقَراتُ المتأخرةُ غيرُ متاحةٍ في النُسْخةِ المجانية.</string>
 
     <string name="command_click">النقر</string>
@@ -467,7 +467,7 @@
     <string name="command_notification_setting">@string/notification_settings_title</string>
     <string name="command_help_feed_setting">المساعَدةُ والتَّعْليقات</string>
     <string name="command_left_shortcut">التَّمْرير للأعلى</string>
-    <string name="command_right_shortcut">التَّمْرير لل أَسْفَلْ </string>
+    <string name="command_right_shortcut">التَّمْرير للأسفل </string>
     <string name="command_long_copy">نَسْخ الكل</string>
     <string name="command_my_location">موقعي</string>
     <string name="command_where_i">أين أنا؟</string>
@@ -504,7 +504,7 @@
     <string name="command_append_copy">نسخ إضافي</string>
     <string name="command_paste">لصق</string>
 
-    <string name="raw_swipe_down">الإزاحةُ إلى الْأَسْفَل</string>
+    <string name="raw_swipe_down">الإزاحةُ إلى الْأسفل</string>
     <string name="raw_swipe_up">الإزاحةُ إلى الأعلى</string>
     <string name="raw_swipe_right">الإزاحةُ إلى اليَمِين</string>
     <string name="raw_swipe_left">الإزاحةُ إلى اليسار</string>
@@ -524,7 +524,7 @@
     <string name="done">اكتملت العمليةُ بنجاح</string>
     <string name="error_try_again">حدث خطأ. الرجاء المحاولة مرة أخرى</string>
     <string name="swipe_right">التَّمْرير لليمين, </string>
-    <string name="swipe_left">التَّمْرير لل يسار, </string>
+    <string name="swipe_left">التَّمْرير لليسار, </string>
     <string name="long_clicked"> ٕ </string>
     <string name="notification_from">إشعار جديد مِن %s</string>
     <string name="progress">مُسْتَوى شريط التَّقَدُّم: %d بالمئة.</string>
@@ -594,7 +594,7 @@
     <string name="command_all_speak">قِراءة الشاشة الحالية </string>
     <string name="command_all_speak2">قِراءة كل شيء</string>
     <string name="command_all_select">قائمةُ التحديد المتعدد </string>
-    <string name="command_voice_helper">المساعِد الصوتي</string>
+    <string name="command_voice_helper">مساعِد Jieshuo </string>
     <string name="command_voice_input">الإملاء الصوتي</string>
     <string name="command_ocr">التَّعَرُّف على الصورة</string>
     <string name="command_ocr_text">التَّعَرُّف على نص في صورة</string>
@@ -618,72 +618,72 @@
     <string name="battery_level">مُسْتَوى البطارية: %d بالمئة.</string>
 
 
-    <string name="double_fling_left_gesture_title">التَّمْرير لل يسار, </string>
+    <string name="double_fling_left_gesture_title">التَّمْرير لليسار, </string>
     <string name="double_fling_up_gesture_title">التَّمْرير للأعلى, </string>
     <string name="double_fling_right_gesture_title">التَّمْرير لليمين, </string>long
-    <string name="double_fling_down_gesture_title">التَّمْرير لل أَسْفَلْ, </string>
+    <string name="double_fling_down_gesture_title">التَّمْرير للأسفل, </string>
 
-    <string name="down_right_double_fling_setting">خِياراتُ التَّمْرير لل أَسْفَلِ ثُمَّ لليمين</string>
+    <string name="down_right_double_fling_setting">خِياراتُ التَّمْرير للأسفل ثُمَّ لليمين</string>
     <string name="down_right_double_fling_left_gesture_value_default">رجوع</string>
     <string name="down_right_double_fling_up_gesture_value_default">الشاشةُ الرئيسية</string>
     <string name="down_right_double_fling_right_gesture_value_default">[النَّقْر]</string>
     <string name="down_right_double_fling_down_gesture_value_default">شريطُ الإشعارات</string>
 
-    <string name="down_left_double_fling_setting">خياراتُ التَّمْرير لل أَسْفَلِ ثُمَّ لل يسار, </string>
+    <string name="down_left_double_fling_setting">خياراتُ التَّمْرير للأسفل ثُمَّ لليسار, </string>
     <string name="down_left_double_fling_left_gesture_value_default">@string/command_copy</string>
     <string name="down_left_double_fling_up_gesture_value_default">@string/command_paste</string>
     <string name="down_left_double_fling_right_gesture_value_default">@string/command_append_copy</string>
     <string name="down_left_double_fling_down_gesture_value_default">@string/command_long_copy</string>
 
 
-    <string name="use_down_right_double_fling_gesture_title">إستخدام التَّمْرير لل أَسْفَلِ ثُمَّ لليمين</string>
-    <string name="use_down_left_double_fling_gesture_title">إستخدام التَّمْرير لل أَسْفَلِ ثُمَّ لل يسار</string>
+    <string name="use_down_right_double_fling_gesture_title">إستخدام التَّمْرير للأسفل ثُمَّ لليمين</string>
+    <string name="use_down_left_double_fling_gesture_title">إستخدام التَّمْرير للأسفل ثُمَّ لليسار</string>
 
 
     <string name="right_double_fling_setting">خياراتُ التَّمْرير لليمين</string>
     <string name="use_right_double_fling_gesture_title">إستخدام التَّمْرير لليمين</string>
 
-    <string name="left_double_fling_setting">خياراتُ التَّمْرير لل يسار</string>
-    <string name="use_left_double_fling_gesture_title">إستخدام التَّمْرير لل يسار</string>
+    <string name="left_double_fling_setting">خياراتُ التَّمْرير لليسار</string>
+    <string name="use_left_double_fling_gesture_title">إستخدام التَّمْرير لليسار</string>
 
 
     <string name="up_double_fling_setting">خياراتُ التَّمْرير للأعلى</string>
     <string name="use_up_double_fling_gesture_title">إستخدام التَّمْرير للأعلى</string>
 
-    <string name="down_double_fling_setting">خياراتُ التَّمْرير لل أَسْفَلْ </string>
-    <string name="use_down_double_fling_gesture_title">إستخدام التَّمْرير لل أَسْفَلْ </string>
+    <string name="down_double_fling_setting">خياراتُ التَّمْرير للأسفل </string>
+    <string name="use_down_double_fling_gesture_title">إستخدام التَّمْرير للأسفل </string>
 
 
-    <string name="up_left_double_fling_setting">خياراتُ التَّمْرير للأعلى ثُمَّ لل يسار</string>
-    <string name="use_up_left_double_fling_gesture_title">إستخدام التَّمْرير للأعلى ثُمَّ لل يسار</string>
+    <string name="up_left_double_fling_setting">خياراتُ التَّمْرير للأعلى ثُمَّ لليسار</string>
+    <string name="use_up_left_double_fling_gesture_title">إستخدام التَّمْرير للأعلى ثُمَّ لليسار</string>
 
     <string name="up_right_double_fling_setting">خياراتُ التَّمْرير للأعلى ثُمَّ لليمين</string>
     <string name="use_up_right_double_fling_gesture_title">إستخدام التَّمْرير للأعلى ثُمَّ لليمين</string>
 
 
-    <string name="right_left_double_fling_setting">خياراتُ التَّمْرير لليمين ثُمَّ لل يسار</string>
-    <string name="use_right_left_double_fling_gesture_title">إستخدام التَّمْرير لليمين ثُمَّ لل يسار</string>
+    <string name="right_left_double_fling_setting">خياراتُ التَّمْرير لليمين ثُمَّ لليسار</string>
+    <string name="use_right_left_double_fling_gesture_title">إستخدام التَّمْرير لليمين ثُمَّ لليسار</string>
 
-    <string name="left_right_double_fling_setting">خياراتُ التَّمْرير لل يسار ثُمَّ لليمين</string>
-    <string name="use_left_right_double_fling_gesture_title">إستخدام التَّمْرير لل يسار ثُمَّ لليمين</string>
-
-
-    <string name="up_down_double_fling_setting">خياراتُ التَّمْرير للأعلى ثُمَّ لل أَسْفَلْ </string>
-    <string name="use_up_down_double_fling_gesture_title">إستخدام التَّمْرير للأعلى ثُمَّ لل أَسْفَلْ </string>
-
-    <string name="down_up_double_fling_setting">خياراتُ التَّمْرير لل أَسْفَلِ ثُمَّ للأعلى</string>
-    <string name="use_down_up_double_fling_gesture_title">إستخدام التَّمْرير لل أَسْفَلِ ثُمَّ للأعلى</string>
+    <string name="left_right_double_fling_setting">خياراتُ التَّمْرير لليسار ثُمَّ لليمين</string>
+    <string name="use_left_right_double_fling_gesture_title">إستخدام التَّمْرير لليسار ثُمَّ لليمين</string>
 
 
-    <string name="left_down_double_fling_setting">خياراتُ التَّمْرير لل يسار ثُمَّ لل أَسْفَلْ </string>
-    <string name="use_left_down_double_fling_gesture_title">إستخدام التَّمْرير لل يسار ثُمَّ لل أَسْفَلْ </string>
+    <string name="up_down_double_fling_setting">خياراتُ التَّمْرير للأعلى ثُمَّ للأسفل </string>
+    <string name="use_up_down_double_fling_gesture_title">إستخدام التَّمْرير للأعلى ثُمَّ للأسفل </string>
 
-    <string name="left_up_double_fling_setting">خياراتُ التَّمْرير لل يسار ثُمَّ للأعلى</string>
-    <string name="use_left_up_double_fling_gesture_title">إستخدام التَّمْرير لل يسار ثُمَّ للأعلى</string>
+    <string name="down_up_double_fling_setting">خياراتُ التَّمْرير للأسفل ثُمَّ للأعلى</string>
+    <string name="use_down_up_double_fling_gesture_title">إستخدام التَّمْرير للأسفل ثُمَّ للأعلى</string>
 
 
-    <string name="right_down_double_fling_setting">خياراتُ التَّمْرير لليمين ثُمَّ لل أَسْفَلْ </string>
-    <string name="use_right_down_double_fling_gesture_title">إستخدام التَّمْرير لليمين ثُمَّ لل أَسْفَلْ </string>
+    <string name="left_down_double_fling_setting">خياراتُ التَّمْرير لليسار ثُمَّ للأسفل </string>
+    <string name="use_left_down_double_fling_gesture_title">إستخدام التَّمْرير لليسار ثُمَّ للأسفل </string>
+
+    <string name="left_up_double_fling_setting">خياراتُ التَّمْرير لليسار ثُمَّ للأعلى</string>
+    <string name="use_left_up_double_fling_gesture_title">إستخدام التَّمْرير لليسار ثُمَّ للأعلى</string>
+
+
+    <string name="right_down_double_fling_setting">خياراتُ التَّمْرير لليمين ثُمَّ للأسفل </string>
+    <string name="use_right_down_double_fling_gesture_title">إستخدام التَّمْرير لليمين ثُمَّ للأسفل </string>
 
     <string name="right_up_double_fling_setting">خياراتُ التَّمْرير لليمين ثُمَّ للأعلى</string>
     <string name="use_right_up_double_fling_gesture_title">إستخدام التَّمْرير لليمين ثُمَّ للأعلى</string>
@@ -733,7 +733,7 @@
     <string name="jieshuo_bbs_summary">يمكنُكَ التَّحَدُّث حول Jieshuo.</string>
     <string name="voice_recognizer_title">مُحَرِّك التَّعَرُّف: </string>
     <string name="use_text_format_char_upper_title">نُطْق الأحرُف الكبيرة: </string>
-    <string name="voice_helper_media_mute_mode_title">كَتْمُ صوت الوسائط عند تفعيل المساعِدِ الصوتي: </string>
+    <string name="voice_helper_media_mute_mode_title">كَتْمُ صوت الوسائط عند إستخدام مساعِد Jieshuo: </string>
     <string name="trans_lang_to_title">التَّرْجمةُ إلى: </string>
     <string name="recognizer_lang_title">لغة التَّحَدُّث إلى المساعِدِ الصوتي: </string>
     <string name="float_menu_items_title">تخصيصُ القائمة العائمة</string>
@@ -768,10 +768,10 @@
     <string name="date_format_sec">s\'من الثواني\'</string>
     <string name="date_format_min_sec">m\'مِنَ الدقائق و\'s\'مِنَ الثواني\'</string>
     <string name="date_format_hour_min">H\'مِنَ الساعات و\'m\'مِنَ الدقائق\'</string>
-    <string name="hint_move">, التَّمْرير للأعلى أو لل أَسْفَلِ لتغيير موضع المؤشر.</string>
+    <string name="hint_move">, التَّمْرير للأعلى أو للأسفل لتغيير موضع المؤشر.</string>
     <string name="hint_edit">, النَّقْر مَرَّتَيْن للتعديل.</string>
-    <string name="hint_change_seek">, التَّمْرير للأعلى أو لل أَسْفَلِ لتغيير مُسْتَوى شريط التَّمْرير.</string>
-    <string name="hint_change_rating">, التَّمْرير للأعلى أو لل أَسْفَلِ لتغيير موضع مؤشر التَّقْييم.</string>
+    <string name="hint_change_seek">, التَّمْرير للأعلى أو للأسفل لتغيير مُسْتَوى شريط التَّمْرير.</string>
+    <string name="hint_change_rating">, التَّمْرير للأعلى أو للأسفل لتغيير موضع مؤشر التَّقْييم.</string>
     <string name="hint_checked">, النَّقْر مَرَّتَيْن للتحديد.</string>
     <string name="hint_uncheck">, النَّقْر مَرَّتَيْن لإلغاء التَّحْديد.</string>
     <string name="hint_closed">, النََقْر مَرَّتَيْن للإغلاق.</string>
@@ -780,7 +780,7 @@
     <string name="hint_double_click">, النَّقْر مَرَّتَيْن</string>
     <string name="hint_activated">للتَّفعيل.</string>
     <string name="hint_double_click_activated">, النَّقْر مَرَّتَيْن للتَّفْعيل.</string>
-    <string name="hint_node_move">, التَّمْرير لل يسار: العُقْدة السابقة. التَّمْرير لليمين: العُقْدة التالية. التَّمْرير لل أَسْفَل: العُقْدة الفرعية. التَّمْرير للأعلى: العُقْدة الرئيسية.</string>
+    <string name="hint_node_move">, التَّمْرير لليسار: العُقْدة السابقة. التَّمْرير لليمين: العُقْدة التالية. التَّمْرير للأسفل: العُقْدة الفرعية. التَّمْرير للأعلى: العُقْدة الرئيسية.</string>
     <string name="date_formater_min">m\'مِنَ الدقائق\'</string>
     <string name="touch_mode_enabled">تَمَّ إستئناف الإستكشاف باللمس.</string>
     <string name="custom">مخصص</string>
@@ -789,19 +789,19 @@
     <string name="create_app_gesture">إنشاءُ حُزمةِ إِيماءاتٍ لكل تطبيق. </string>
     <string name="func">وَظِيفَة </string>
     <string name="swipe_up_right">التَّمْرير للأعلى ثُمَّ لليمين, </string>
-    <string name="swipe_up_down">التَّمْرير للأعلى ثُمَّ لل أَسْفَلْ, </string>
-    <string name="swipe_up_left">التَّمْرير للأعلى ثُمَّ لل يسار, </string>
-    <string name="swipe_down">التَّمْرير لل أَسْفَلْ, </string>
-    <string name="swipe_down_right">التَّمْرير لل أَسْفَلِ ثُمَّ لليمين, </string>
-    <string name="swipe_down_up">التَّمْرير لل أَسْفَلِ ثُمَّ للأعلى, </string>
-    <string name="swipe_down_left">التَّمْرير لل أَسْفَلِ ثُمَّ لل يسار, </string>
-    <string name="swipe_left_up">التَّمْرير لل يسار ثُمَّ للأعلى, </string>
-    <string name="swipe_left_down">التَّمْرير لل يسار ثُمَّ لل أَسْفَلْ, </string>
-    <string name="swipe_left_right">التَّمْرير لل يسار ثُمَّ لليمين, </string>
+    <string name="swipe_up_down">التَّمْرير للأعلى ثُمَّ للأسفل, </string>
+    <string name="swipe_up_left">التَّمْرير للأعلى ثُمَّ لليسار, </string>
+    <string name="swipe_down">التَّمْرير للأسفل, </string>
+    <string name="swipe_down_right">التَّمْرير للأسفل ثُمَّ لليمين, </string>
+    <string name="swipe_down_up">التَّمْرير للأسفل ثُمَّ للأعلى, </string>
+    <string name="swipe_down_left">التَّمْرير للأسفل ثُمَّ لليسار, </string>
+    <string name="swipe_left_up">التَّمْرير لليسار ثُمَّ للأعلى, </string>
+    <string name="swipe_left_down">التَّمْرير لليسار ثُمَّ للأسفل, </string>
+    <string name="swipe_left_right">التَّمْرير لليسار ثُمَّ لليمين, </string>
     <string name="swipe_up">التَّمْرير للأعلى, </string>
     <string name="swipe_right_up">التَّمْرير لليمين ثُمَّ للأعلى, </string>
-    <string name="swipe_right_down">التَّمْرير لليمين ثُمَّ لل أَسْفَلْ, </string>
-    <string name="swipe_right_left">التَّمْرير لليمين ثُمَّ لل يسار, </string>
+    <string name="swipe_right_down">التَّمْرير لليمين ثُمَّ للأسفل, </string>
+    <string name="swipe_right_left">التَّمْرير لليمين ثُمَّ لليسار, </string>
     <string name="exit">خروج</string>
     <string name="create">إنشاء</string>
     <string name="save">حفظ</string>
@@ -810,7 +810,7 @@
     <string name="actions">الإجراءات</string>
     <string name="share">مشاركة</string>
     <string name="move_to_up">نَقْل إلى الأعلى</string>
-    <string name="move_to_down">نَقْل إلى الْأَسْفَلْ </string>
+    <string name="move_to_down">نَقْل إلى الْأسفل </string>
     <string name="delete">حذف</string>
     <string name="select">تحديد</string>
     <string name="rename">إعادة تسمية</string>
@@ -874,11 +874,11 @@
     <string name="camera_raise_left_hand">ارفع يدك </string>
     <string name="camera_top_up">القسم العُلْوي للأعلى</string>
     <string name="camera_screen_up">الشاشة للأعلى</string>
-    <string name="camera_screen_down">الشاشة لل أَسْفَلْ </string>
+    <string name="camera_screen_down">الشاشة للأسفل </string>
     <string name="camera_move_left">تَحَرَّك يساراً</string>
     <string name="camera_move_right">تَحَرَّك يميناً</string>
     <string name="camera_move_up">تَحَرَّك للأعلى</string>
-    <string name="camera_move_down">تَحَرَّك لل أَسْفَلْ </string>
+    <string name="camera_move_down">تَحَرَّك للأسفل </string>
     <string name="camera_top_move_far">ارفع ظَهْرَ الهاتف</string>
     <string name="camera_top_move_near">ارفع شاشةَ الهاتف</string>
     <string name="camera_bottom_up">القسم السُفْلي للأعلى</string>
@@ -999,13 +999,13 @@
     <string name="check_notification_permissions_title">التحقق مِن أُذونات الإشعارات. </string>
     <string name="denied_permissions_title">تَمَّ رفض الإذن. </string>
     <string name="welcome_msg">اختَر أحد الخيارات الثلاثة: مساعد الإعداد: يتيح لك ضبط بعض الإعدادات الأساسية لمساعدتك في بدء التشغيل بشكل سريع. انقِر فوق عَرْض الأُذونات للاطلاع على الأُذونات المختلفة. أو الخروج لمغادرة المساعد. </string>
-    <string name="use_left_right_msg">يدعم Jieshuo وَضْعَيْن مختلفَين للتَّنَقُّل. الافتراضي هو إستخدام إِيماءات التمرير  لأعلى و لأسفل كإِيماءات افتراضية. والبديل هو إستخدام إِيماءات التمرير لليمين و لليسار كإِيماءات بديلة.</string>
+    <string name="use_left_right_msg">يدعم Jieshuo وَضْعَيْن مختلفَين للتَّنَقُّل. الافتراضي هو إستخدام إِيماءات التمرير  للأعلى و للأسفل كإِيماءات افتراضية. والبديل هو إستخدام إِيماءات التمرير لليمين و لليسار كإِيماءات بديلة.</string>
     <string name="usage_hints_msg">تساعد تَلْميحات الإستخدام المستخدِم المبتدئ في التَّعَرُّف على إستخدام Jieshuo. إذا كانت هذه هي المرة الأولى التي تستخدم فيها هاتفك المحمول، فإننا نوصي بتفعيل هذا الخيار للحصول على تجربة سلسة. وإذا كُنتَ من ذوي الخبرة، فإننا نوصي بإلغاء تفعيل هذا الخيار للحصول على تجربة أكثر إيجازا.</string>
     <string name="use_list_index_msg">يساعد نُطْق رقم العنصر المُرَكَّز عليه في القائمة على معرفة مدى القائمة وموقع العنصر فيها. إلّا أنّ هذا يجعل نُطْق المعلومات أكثر، الأمر الذي قد يُشَكِّل إزعاجا للبعض.</string>
     <string name="notification_speak_msg">يتيح نُطْق الإشعارات لقارئ الشاشة Jieshuo نُطْق الإشعارات الواردة. قم بتحديد هذا الخيار لنُطْق الإشعارات. وإن لم ترغب في ذلك، نوصي بإلغاء تحديد هذا الخيار. </string>
     <string name="use_single_tts_msg">حدد ما إذا كُنتَ تريد إستخدام اثنين من محركات تحويل النص إلى كلام للقراءة. سيتم إستخدام المحرك الأول لقراءة المعلومات الرئيسية مثل التركيز الحالي وأشياء أخرى. وسيتم إستخدام المحرك الثاني لنُطْق الإشعارات وأية رسائل أخرى مثل الرسائل المنبثقة. </string>
     <string name="use_left_right_ok">إستخدام إِيماءات التمرير لليمين و لليسار.</string>
-    <string name="use_left_right_no">إستخدام إِيماءات التمرير لأعلى و لأسفل.</string>
+    <string name="use_left_right_no">إستخدام إِيماءات التمرير للأعلى و للأسفل. </string>
     <string name="usage_hints_ok">نُطْق تَلْميحات الإستخدام.</string>
     <string name="usage_hints_no">عدم نُطْق تَلْميحات الإستخدام.</string>
     <string name="notification_speak_ok"> نُطْق الإشعارات.</string>
@@ -1110,7 +1110,7 @@
     <string name="sound_timer_start">تأثير: بدء المُؤَقِّت. </string>
     <string name="use_scroll_list_content_title">نُطْق محتوى القائمة عند التمرير</string>
     <string name="use_view_type_move_title">استخدام التَّنَقُّل حسب نوع العرض: </string>
-    <string name="use_view_type_move_summary">استَخدِم إِيماءات التمرير لأعلى و لأسفل للتبديل بين أنواع التَّنَقُّل، وإذا كان هناك تعارض مع وظيفة الإختصار لأعلى و لأسفل، فيمكنك إستخدام التخصيص لتجنب التعارض. </string>
+    <string name="use_view_type_move_summary">استَخدِم إِيماءات التمرير للأعلى أو للأسفل للتبديل بين أنواع التنقل، و استخدم التمرير لليمين أو لليسار للتنقل بين العناصر. وإذا كان هناك تعارض مع وظيفة الإختصار للأعلى أو للأسفل فيمكنك إستخدام التخصيص لتجنب التعارض. </string>
     <string name="command_raw_double_tap">النقر المزدوج</string>
     <string name="to_previous_granularity_item">عنصر التَّنَقُّل السابق</string>
     <string name="to_next_granularity_item">عنصر التَّنَقُّل التالي</string>
@@ -1147,15 +1147,15 @@
     <string name="gesture_2_triple_tap">ثلاث نَقَرات بإِصْبَعَين</string>
     <string name="gesture_3_triple_tap">ثلاث نَقَرات بثلاثة أصابع</string>
     <string name="gesture_4_triple_tap">ثلاث نَقَرات بأربعة أصابع</string>
-    <string name="gesture_2_double_tap_hold">الضغط المُطَوَّل بإِصْبَعَين</string>
-    <string name="gesture_3_double_tap_hold">الضغط المُطَوَّل بثلاثة أصابع</string>
-    <string name="gesture_4_double_tap_hold">الضغط المُطَوَّل بأربعة أصابع</string>
-    <string name="gesture_2_swipe_up">التمرير لأعلى بإِصْبَعَين</string>
-    <string name="gesture_3_swipe_up">التمرير لأعلى بثلاثة أصابع</string>
-    <string name="gesture_4_swipe_up">التمرير لأعلى بأربعة أصابع</string>
-    <string name="gesture_2_swipe_down">التمرير لأسفل بإِصْبَعَين</string>
-    <string name="gesture_3_swipe_down">التمرير لأسفل بثلاثة أصابع</string>
-    <string name="gesture_4_swipe_down">التمرير لأسفل بأربعة أصابع</string>
+    <string name="gesture_2_double_tap_hold">النَّقْر مرتين بإِصْبَعَين مع الاستمرار </string>
+    <string name="gesture_3_double_tap_hold">النَّقْر مرتين بثلاثة أصابع مع الاستمرار </string>
+    <string name="gesture_4_double_tap_hold">النَّقْر مرتين بأربعة أصابع مع الاستمرار </string>
+    <string name="gesture_2_swipe_up">التمرير للأعلى بإِصْبَعَين</string>
+    <string name="gesture_3_swipe_up">التمرير للأعلى بثلاثة أصابع</string>
+    <string name="gesture_4_swipe_up">التمرير للأعلى بأربعة أصابع</string>
+    <string name="gesture_2_swipe_down">التمرير للأسفل بإِصْبَعَين</string>
+    <string name="gesture_3_swipe_down">التمرير للأسفل بثلاثة أصابع</string>
+    <string name="gesture_4_swipe_down">التمرير للأسفل بأربعة أصابع</string>
     <string name="gesture_2_swipe_left">التمرير لليسار بإِصْبَعَين</string>
     <string name="gesture_3_swipe_left">التمرير لليسار بثلاثة أصابع</string>
     <string name="gesture_4_swipe_left">التمرير لليسار بأربعة أصابع</string>
@@ -1216,12 +1216,81 @@
     <string name="msg_replaced">تَمَّ الإستبدال</string>
     <string name="use_touch_stop_title">إيقاف النُطْق مؤقتا أو إستئنافه عند لَمْس الشاشة</string>
     <string name="continuous_recognition">التَّعَرُّف المستمر</string>
-     <string name="edit_dict">编辑词典</string>
-    <string name="up_volume_key_off_title">关屏状态长按音量增加键</string>
-    <string name="down_volume_key_off_title">关屏状态长按音量减小键</string>
-    <string name="use_loop_move_space_title">在焦点循环前增加空焦点提示</string>
-    <string name="use_view_type_move_mode_title">使用新的类型导航手势</string>
-    <string name="use_view_type_move_mode_summary">打开后按试图类型浏览，默认使用先上后下和先下后上切换类型，使用向左和向右切换项目，默认类型执行原快捷功能；\n关闭时使用向左或向右手势切换类型，使用向上或向下切换项目，默认类型移动焦点。</string>
+    <string name="edit_dict">إضافة إلى القاموس </string>
+    <string name="up_volume_key_off_title">الضغط المُطَوَّل على مفتاح رَفْع مستوى الصوت في شاشة القفل</string>
+    <string name="down_volume_key_off_title">الضغط المُطَوَّل على مفتاح خَفْض مستوى الصوت في شاشة القفل</string>
+    <string name="use_loop_move_space_title">أضف تنبيها فارغا قَبْلَ دورة التركيز</string>
+    <string name="use_view_type_move_mode_title">استخدام التَّنَقُّل حسب نوع العرض: </string>
+    <string name="use_view_type_move_mode_summary">استَخدِم إِيماءات التَّمْرير للأعلى ثُمَّ للأسفل، أو التمرير للأسفل ثُمَّ للأعلى للتبديل بين أنواع التنقل، \n و استخدم التمرير للأعلى أو للأسفل للتَّنَقُّل بين العناصر. </string>
+    <string name="app_hot_key_shortcut_title">تخصيص مفاتيح مستوى الصوت لكل تطبيق </string>
+    <string name="shared_cloud_label"> مشاركة إلى السحابة </string>
+    <string name="use_more_node_title"> استخدام التَّنَقُّل المُفَصَّل: </string>
+    <string name="use_more_node_summary"> يُمَكِّنُك مِنَ الوصول إلى المزيد من الإعدادات التي قد تكون مفيدة. </string>
+    <string name="use_multi_hot_key_title"> إستخدام الضغط المتعدد على مفاتيح مستوى الصوت </string>
+    <string name="up_volume_2_key_title">إِضْغَط مرتين على مفتاح رَفْع مستوى الصوت </string>
+    <string name="up_volume_3_key_title">إِضْغَط ثلاث مرات على مفتاح رَفْع مستوى الصوت </string>
+    <string name="down_volume_2_key_title">إِضْغَط مرتين على مفتاح خَفْض مستوى الصوت </string>
+    <string name="down_volume_3_key_title">إِضْغَط ثلاث مرات على مفتاح خَفْض مستوى الصوت </string>
+    <string name="command_to_next_char">الحَرْف التالي</string>
+    <string name="command_to_previous_char">الحَرْف السابق</string>
+    <string name="command_to_next_word">الكَلِمة التالية</string>
+    <string name="command_to_previous_word">الكَلِمة السابقة</string>
+    <string name="command_to_next_row">السَطْر التالي</string>
+    <string name="command_to_previous_row">السَطْر السابق</string>
+    <string name="command_to_next_paragraph">الفِقْرة التالية</string>
+    <string name="command_to_previous_paragraph">الفِقْرة السابقة</string>
+    <string name="command_to_head_set_key">زر تشغيل أو إيقاف الوسائط</string>
+    <string name="msg_selected_from_to">تَمَّ التحديد، مِن %d إلى %d </string>
+    <string name="album_activity">ألبوم Jieshuo </string>
+    <string name="command_toggle_tts_engine">التبديل بين المحرك المُفَضَّل ومحرك Jieshuo </string>
+    <string name="command_speak_light">التعرف على مستوى الضوء </string>
+    <string name="use_recording_stop_title">إيقاف النُطْق عند إستخدام الميكروفون </string>
+    <string name="use_speak_call_time_title">نُطْق مدة المكالمة: </string>
+    <string name="use_speak_call_time_summary">يَتِمّ نُطْق مدة المكالمة بعد إنتهائها </string>
+    <string name="use_list_item_index_real_time_title">نُطْق رقم العنصر الأول على الشاشة أثناء التمرير بإصبعين </string>
+    <string name="add_favorites">إضافة إلى المُفَضَّلة </string>
+    <string name="save_as_file">حِفْظ كملف في الجهاز </string>
+    <string name="save_as_cloud">حِفْظ كملف على السحابة </string>
+    <string name="msg_toggle_tts">تَمَّ تبديل المحرك </string>
+    <string name="curren_char_idx">%d مِنَ الأَسْطُر، %d مِنَ الأَحْرُف </string>
+    <string name="command_add_content_blacklist">إضافة إلى القائمة السوداء </string>
+    <string name="command_media_previous">المقطع السابق</string>
+    <string name="command_media_next">المقطع التالي</string>
+    <string name="use_answer_phone_calls_gesture_title">الرد على المكالمات وإنهاؤها في واجهات التطبيقات </string>
+    <string name="command_previous_window">النافذة السابقة </string>
+    <string name="command_next_window">النافذة التالية </string>
+    <string name="accessibility_focus_appearance_title">التَّحَكُّم بمظهر التركيز </string>
+    <string name="alpha">شفّاف </string>
+    <string name="red">أحمر </string>
+    <string name="green">أخضر</string>
+    <string name="blue">أزرق </string>
+    <string name="stroke">سميك </string>
+    <string name="gesture_2_triple_tap_hold">النَّقْر ثلاث مرات بإِصْبَعَين مع الاستمرار </string>
+    <string name="gesture_3_triple_tap_hold">النَّقْر ثلاث مرات  بثلاثة أصابع مع الاستمرار </string>
+    <string name="gesture_4_triple_tap_hold">النَّقْر ثلاث مرات  بأربعة أصابع مع الاستمرار </string>
+    <string name="up_long">التَّمْرير للأعلى, مع إبقاء الاصبع 300 مللي من الثانية ثم رفعه </string>
+    <string name="up_right_long">التَّمْرير للأعلى ثُمَّ لليمين, مع إبقاء الاصبع 300 مللي من الثانية ثم رفعه </string>
+    <string name="up_down_long">التَّمْرير للأعلى ثُمَّ لل أَسْفَلْ, مع إبقاء الاصبع 300 مللي من الثانية ثم رفعه </string>
+    <string name="up_left_long">التَّمْرير للأعلى ثُمَّ لل يسار, مع إبقاء الاصبع 300 مللي من الثانية ثم رفعه </string>
+    <string name="down_long">التَّمْرير لل أَسْفَلْ, مع إبقاء الاصبع 300 مللي من الثانية ثم رفعه </string>
+    <string name="down_right_long">التَّمْرير لل أَسْفَلِ ثُمَّ لليمين, مع إبقاء الاصبع 300 مللي من الثانية ثم رفعه </string>
+    <string name="down_up_long">التَّمْرير لل أَسْفَلِ ثُمَّ للأعلى, مع إبقاء الاصبع 300 مللي من الثانية ثم رفعه </string>
+    <string name="down_left_long">التَّمْرير لل أَسْفَلِ ثُمَّ لل يسار, مع إبقاء الاصبع 300 مللي من الثانية ثم رفعه </string>
+    <string name="left_long">التَّمْرير لل يسار, مع إبقاء الاصبع 300 مللي من الثانية ثم رفعه </string>
+    <string name="left_up_long">التَّمْرير لل يسار ثُمَّ للأعلى, مع إبقاء الاصبع 300 مللي من الثانية ثم رفعه </string>
+    <string name="left_down_long">التَّمْرير لل يسار ثُمَّ لل أَسْفَلْ, مع إبقاء الاصبع 300 مللي من الثانية ثم رفعه </string>
+    <string name="left_right_long">التَّمْرير لل يسار ثُمَّ لليمين, مع إبقاء الاصبع 300 مللي من الثانية ثم رفعه </string>
+    <string name="right_long">التَّمْرير لليمين, مع إبقاء الاصبع 300 مللي من الثانية ثم رفعه </string>
+    <string name="right_up_long">التَّمْرير لليمين ثُمَّ للأعلى, مع إبقاء الاصبع 300 مللي من الثانية ثم رفعه </string>
+    <string name="right_down_long">التَّمْرير لليمين ثُمَّ لل أَسْفَلْ, مع إبقاء الاصبع 300 مللي من الثانية ثم رفعه </string>
+    <string name="right_left_long">التَّمْرير لليمين ثُمَّ لل يسار, مع إبقاء الاصبع 300 مللي من الثانية ثم رفعه </string>
+    <string name="keep_focus_position_speak_title">朗读记忆的焦点</string>
+    <string name="save_as_cmd">保存为指令</string>
+    <string name="execute_cmd">是否运行下边指令</string>
+    <string name="command_show_nodeinfo">节点详情</string>
+    <string name="copy_as_jieshuo_cmd">复制为解说口令</string>
+    <string name="copy_text_auto_execute">复制文字自动执行</string>
+    <string name="msg_cmd_copyed">已复制，粘贴分享吧</string>
 
 
 </resources>

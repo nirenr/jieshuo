@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name"> Jieshuo</string>
+    <string name="app_name">Jieshuo</string>
     <string name="accessibility_service_description">
-        El Jieshuo es un programa lector de pantalla que ayudará a las personas ciegas a usar sus teléfonos móviles. Hicimos algunos intentos de innovación. Para más detalles abrir configuración \\ ayuda.\n
+        Jieshuo+ es un programa lector de pantalla que ayudará a las personas ciegas a usar sus teléfonos móviles. Hicimos algunos intentos de innovación. Para más detalles abrir configuración \\ ayuda.\n
         Algunas funciones están restringidas hasta que compre la versión premium. Para más detalles, póngase en contacto con el servicio al cliente en el grupo oficial de qq.\n
         \n
         Funciones: \n
@@ -30,7 +30,7 @@
         Selección avanzada de texto: por palabra, frase, párrafo. Seleccione exactamente el texto que necesita.\n
         Varias operaciones facilitadas por comandos de voz adicionales.\n
         Ejecución de plugins de manera automática, Tendrás tus plugins accesibles por ti.\n
-        El Jieshuo es su lector de pantallas configurable y flexible de una forma infinita!
+         Jieshuo+ es su lector de pantallas configurable y flexible de una forma infinita!
     </string>
     <string name="about_title">Hebei Biyou Technology Co., Ltd.</string>
     <string name="help_feed_summary">El Jieshuo utiliza algunas tecnologías de terceros: Tencent AI, Baidu AI, Baidu TTS, Baidu Translator, Baidu MTS, Andro LUA Plus, entre otros.</string>
@@ -45,7 +45,7 @@
     <string name="use_proixmity_sensor_summary">Detiene la lectura al tocar el sensor de proximidad.</string>
     <string name="screen_off_speak_title">Leer notificaciones con pantalla apagada: </string>
     <string name="screen_off_speak_summary">Leer notificaciones cuando la pantalla esté apagada.</string>
-    <string name="use_sound_title">Retroalimentación Audible: </string>
+    <string name="use_sound_title">Retroalimentación de Sonidos: </string>
     <string name="use_sound_summary">Usa el tema de sonido seleccionado actualmente.</string>
     <string name="use_list_index_title">Leer el rango de lista: </string>
     <string name="use_list_index_summary">Lea la información sobre el rango de visualización de la lista al desplazarse.</string>
@@ -90,7 +90,7 @@
     <string name="clipboard_menu_title">Portapapeles</string>
     <string name="select_menu_title">Seleccionar</string>
     <string name="all_text_title">Navegación en texto completo</string>
-    <string name="use_touch_mode_title">Habilitar gestos (no deshabilitar si eres totalmente ciego)</string>
+    <string name="use_touch_mode_title">Habilitar Exploración Táctil (no deshabilitar si eres totalmente ciego)</string>
     <string name="unknown_lable_title">Intenta adivinar la etiqueta de un elemento sin etiqueta: </string>
     <string name="action_setting_title">Acciones</string>
     <string name="use_single_tap_title">Toque para activar: </string>
@@ -148,7 +148,7 @@
     <string name="content_blacklist_title">Contenido de la lista negra</string>
     <string name="no_phone_permission">Sin permisos.</string>
     <string name="message_time_out">denegado</string>
-    <string name="message_welcome">Bienvenido al Jieshuo!</string>
+    <string name="message_welcome">¡Bienvenido al Jieshuo!</string>
     <string name="message_in_dim_screen">Activar cortina</string>
     <string name="message_out_dim_screen">Desactivar cortina</string>
     <string name="message_only_android5_last">Solamente se soporta Android 5 y posterior!</string>
@@ -1135,22 +1135,91 @@
     <string name="previous_chapter_default_value">*Página anterior*|*Ir a la página anterior*|*Anterior página*|*Atrás*|*Página atrás*</string>
     <string name="msg_activated">Enviar completado. Espere la activación. Si no sucede en un tiempo razonable, comuníquese con el servicio de soporte.</string>
     <string name="flash_light">Linterna</string>
-    <string name="cloud_multi_backup_title">备份到云</string>
-    <string name="cloud_multi_restore_title">从云恢复</string>
-    <string name="search_engine_title">搜索引擎</string>
-    <string name="directory_notes">Notes</string>
-    <string name="replace">替换</string>
-    <string name="export_file">导出</string>
-    <string name="replace_to">替换为</string>
-    <string name="replace_regex">正则替换</string>
-    <string name="msg_replaced">已替换</string>
-    <string name="use_touch_stop_title">触摸屏幕中止朗读</string>
-    <string name="continuous_recognition">连续识别</string>
-    <string name="edit_dict">编辑词典</string>
-    <string name="up_volume_key_off_title">关屏状态长按音量增加键</string>
-    <string name="down_volume_key_off_title">关屏状态长按音量减小键</string>
-    <string name="use_loop_move_space_title">在焦点循环前增加空焦点提示</string>
-    <string name="use_view_type_move_mode_title">使用新的类型导航手势</string>
-    <string name="use_view_type_move_mode_summary">打开后按试图类型浏览，默认使用先上后下和先下后上切换类型，使用向左和向右切换项目，默认类型执行原快捷功能；\n关闭时使用向左或向右手势切换类型，使用向上或向下切换项目，默认类型移动焦点。</string>
+    <string name="cloud_multi_backup_title">Realizar Copia De Seguridad En La Nuve</string>
+    <string name="cloud_multi_restore_title">Restaurar Copia De Seguridad En La Nuve</string>
+    <string name="search_engine_title">Motor De Búsqueda</string>
+    <string name="directory_notes">Notas En La Nuve</string>
+    <string name="replace">Remplazar</string>
+    <string name="export_file">Exportar Archivo</string>
+    <string name="replace_to">Remplazar por</string>
+    <string name="replace_regex">Utilizar Expreciones Regulares</string>
+    <string name="msg_replaced">Añadida Correctamente</string>
+    <string name="use_touch_stop_title">Tocar la pantalla para detener la lectura</string>
+    <string name="continuous_recognition">Reconocimiento Continuo</string>
+    <string name="edit_dict">Editar Diccionario.</string>
+    <string name="up_volume_key_off_title">Mantenga precionado la tecla de bajar volumen en la pantalla de bloqueo</string>
+    <string name="down_volume_key_off_title">Mantenga precionado la tecla de suvir volumen en la pantalla de bloqueo</string>
+    <string name="use_loop_move_space_title">Agregar Un Espacio Vaciio Antes Del Final De Los Elementos</string>
+    <string name="use_view_type_move_mode_title">Utilizar El Nuevo Gesto de Navegación Entre Elementos</string>
+    <string name="use_view_type_move_mode_summary">Al Utilizar Este Gesto, Los Deslizamientos Acia Arriva Y Acia Avajo En Un Solo Movimiento, Funcionarán Para Alternar Entre Los Distintos Tipos De Elementos. Y Los Deslizamientos Acia Arriva O Acia Avajo, Realizarán La Acción Correspondiente Al Elemento Seleccionado</string>
+    <string name="app_hot_key_shortcut_title">Teclas De Acceso Directo De Volumen Para Una Sola Aplicación</string>
+    <string name="shared_cloud_label">Compartir Etiquéta A La Nuve</string>
+    <string name="use_more_node_title">utilizar Más Enfoque</string>
+    <string name="use_more_node_summary">Divición De Enfoque, Active Si Decea Según Sus Nececidades</string>
+    <string name="use_multi_hot_key_title">Precionar Varias Veces Las Teclas De Volumen</string>
+    <string name="up_volume_2_key_title">Doble Clik En La Tecla De Subir Volumen</string>
+    <string name="up_volume_3_key_title">3 Cliks En La Tecla De Subir Volumen</string>
+    <string name="down_volume_2_key_title">Doble Clik En La Tecla De Bajar Volumen</string>
+    <string name="down_volume_3_key_title">3 Cliks En La Tecla De Bajar Volumen</string>
+    <string name="command_to_next_char">Carácter Siguiente</string>
+    <string name="command_to_previous_char">Carácter Anterior</string>
+    <string name="command_to_next_word">Palabra Siguente</string>
+    <string name="command_to_previous_word">Palabra Anterior</string>
+    <string name="command_to_next_row">Línea Siguiente</string>
+    <string name="command_to_previous_row">Línea Anterior</string>
+    <string name="command_to_next_paragraph">Párrafo Siguiente</string>
+    <string name="command_to_previous_paragraph">Párrafo Anterior</string>
+    <string name="command_to_head_set_key">Reproducir Pausa</string>
+    <string name="msg_selected_from_to">%d Astá%dSeleccionado</string>
+    <string name="album_activity">Álbun De Comentarios</string>
+    <string name="command_toggle_tts_engine">Alternar Entre Modos De Voz</string>
+    <string name="command_speak_light">Nivel De Brillo</string>
+    <string name="use_recording_stop_title">Silenciar la voz al tener intervenido el micrófono</string>
+    <string name="use_speak_call_time_title">Leer la duración al finalizar la llamada</string>
+    <string name="use_speak_call_time_summary">Controla Si Se Lee Automaticamente La Duración De La Llamada Al Finalizarla (Se Requiere El Permizo De Registro De Llamadas)</string>
+    <string name="use_list_item_index_real_time_title">Leer Indice Del Elemento Enfocado Al Desplazarse Por Una Lista</string>
+    <string name="add_favorites">Añadir a favoritos</string>
+    <string name="save_as_file">Guardar De Manera Local</string>
+    <string name="save_as_cloud">Guardar En La Nuve</string>
+    <string name="msg_toggle_tts">Voz Activada</string>
+    <string name="curren_char_idx">%d%dLínea de Caracteres</string>
+    <string name="command_add_content_blacklist">Agregar Contenido a la Lista Negra</string>
+    <string name="command_media_previous">Pista Anterior</string>
+    <string name="command_media_next">Pista Siguiente</string>
+    <string name="use_answer_phone_calls_gesture_title">Responder y Finalizar Llamadas en Cualquier Aplicación </string>
+    <string name="command_previous_window">Ventana Anterior</string>
+    <string name="command_next_window">Siguiente Ventana</string>
+    <string name="accessibility_focus_appearance_title">Apariencia del Foco de Accesibilidad</string>
+    <string name="alpha">Transparente</string>
+    <string name="red">Rojo</string>
+    <string name="green">Verde</string>
+    <string name="blue">Azul</string>
+    <string name="stroke">Grosor de la Línea</string>
+    <string name="gesture_2_triple_tap_hold">Triple Toque Sostenido Con 2 Dedos</string>
+    <string name="gesture_3_triple_tap_hold">Triple Toque Sostenido Con 3 Dedos</string>
+    <string name="gesture_4_triple_tap_hold">Triple Toque Sostenido Con 4 Dedos</string>
+    <string name="up_long">Deslice Asia Arriva y Quédese un Rato</string>
+    <string name="up_right_long">Haga Deslizamiento Largo Acia Arriva y Luego a la Derecha y Quédese Un Rato</string>
+    <string name="up_down_long">Haga Deslizamiento Largo Acia Arriva y Avajo y Quédese un Rato</string>
+    <string name="up_left_long">Deslice Acia Arriva y a la Isquierda y Quédese un Rato</string>
+    <string name="down_long">Deslice acia Avajo y Quédese un Rato</string>
+    <string name="down_right_long">Deslice Acia Avajo y a la Derecha y quédese un Rato</string>
+    <string name="down_up_long">Haga Deslizamientos Largos Acia Avajo y Acia Arriva y Quédese un Poco</string>
+    <string name="down_left_long">Haga Deslizamientos Largos Acia Avajo y a la Isquierda y Qédese un Rato</string>
+    <string name="left_long">Haga un Deslizamiento Largo Acia la Isquierda y Quédese un Rato</string>
+    <string name="left_up_long">Haga un Deslizamiento Largo Acia La Isquierda y Acia arriva y Quédese un Rato</string>
+    <string name="left_down_long">Haga un Deslizamiento Largo Acia La Isquierda y Acia Avajo y Quédese un Rato</string>
+    <string name="left_right_long">Haga un Deslizamiento Largo Acia La Isquierda y Acia la derecha y Quédese un Rato</string>
+    <string name="right_long">Haga un Deslizamiento Largo Acia La Derecha y Quédese un Rato</string>
+    <string name="right_up_long">Haga un Deslizamiento Largo Acia La Derecha y Acia Arriva y Quédese Un Rato</string>
+    <string name="right_down_long">Haga un Deslizamiento Largo Acia La Derecha y Acia Avajo y Quédese un Rato</string>
+    <string name="right_left_long">Haga un Deslizamiento Largo Acia la Derecha y Acia la Isquierda y Quédese un Rato</string>
+    <string name="keep_focus_position_speak_title">朗读记忆的焦点</string>
+    <string name="save_as_cmd">保存为指令</string>
+    <string name="execute_cmd">是否运行下边指令</string>
+    <string name="command_show_nodeinfo">节点详情</string>
+    <string name="copy_as_jieshuo_cmd">复制为解说口令</string>
+    <string name="copy_text_auto_execute">复制文字自动执行</string>
+    <string name="msg_cmd_copyed">已复制，粘贴分享吧</string>
 
 </resources>
