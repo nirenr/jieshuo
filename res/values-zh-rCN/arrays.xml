@@ -125,6 +125,9 @@
         <item>@string/command_media_next</item>
         <item>@string/command_previous_window</item>
         <item>@string/command_next_window</item>
+        <item>选择语音库</item>
+        <item>情景模式</item>
+        <item>自动OCR识别</item>
 
         <!--item>极速浏览</item-->
     </string-array>

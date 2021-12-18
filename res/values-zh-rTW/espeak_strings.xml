@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Source: Activity title.
+        Description: Title for the Settings activity.-->
+  <string name="tts_settings_label">eSpeak設定</string>
+  <!--Source: Preference title.
+        Description: Title for the preference that controls default voice pitch.-->
+  <string name="setting_default_pitch">預設音調</string>
+  <!--Source: Preference title.
+        Description: Title for the preference that controls default speech rate.-->
+  <string name="setting_default_rate">語音速率調節係數</string>
+  <!--Source: Dialog text.
+        Description: Status message shown when installing voice data.-->
+  <string name="installing_voice_data">正在安裝語音資料...</string>
+  <!--Source: Dialog message.
+        Description: Alert dialog prompting the user to set eSpeak as their default TTS engine.-->
+  <string name="set_default_message">eSpeak 尚未設為您的預設文字轉語音引擎。</string>
+  <!--Source: Dialog message.
+        Description: Alert dialog telling the user that voice data installation failed.-->
+  <string name="voice_data_failed_message">eSpeak 無法安裝語音資料。請檢查您的 SD 卡。</string>
+  <!--Source: Dialog message.
+        Description: Alert dialog telling the user that an unknown error has occurred.-->
+  <string name="error_message">很抱歉，無法啟動 eSpeak。</string>
+  <!--Source: Label text.
+        Description: Label informing the user of the current text-to-speech language.-->
+  <string name="current_tts_locale">預設語音</string>
+  <!--Source: Label text.
+        Description: Label informing the user of how many voices are installed.-->
+  <string name="available_voices">已安裝的語音</string>
+ <!--Source: Button label.
+        Description: Button for launching eSpeak-specific settings.-->
+  <string name="engine_settings">eSpeak設定</string>
+  <!--Source: Label text.
+        Description: Label informing the user that eSpeak is loading resources.-->
+  <string name="loading">載入中，請稍候...</string>
+  <!--Source: Spoken aloud.
+        Description: Sample text spoken aloud when the user is trying out a language.-->
+  <string name="sample_text">這是「%s」的語音測試範例</string>
+  <string name="espeak_speak_punctuation">Speak punctuation</string>
+  <string name="punctuation_all">All</string>
+  <string name="punctuation_custom">Custom</string>
+  <string name="punctuation_custom_fmt">Custom: %s</string>
+  <string name="punctuation_none">None</string>
+  <string name="punctuation_characters">Punctuation characters</string>
+  <string name="category">Category</string>
+  <string name="variant">Variant</string>
+  <string name="variant_male">Male</string>
+  <string name="variant_female">Female</string>
+  <string name="variant_default">Default</string>
+  <string name="variant_n">Variant %d</string>
+  <string name="variant_young">Young</string>
+  <string name="variant_old">Old</string>
+  <string name="variant_croak">Croak</string>
+  <string name="variant_whisper">Whisper</string>
+  <string name="import_voice_title">Import eSpeak dictionary</string>
+  <string name="import_voice_description">Import an eSpeak voice dictionary file from the SD card.</string>
+
+</resources>

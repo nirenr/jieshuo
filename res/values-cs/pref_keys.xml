@@ -430,4 +430,7 @@
     <string name="keep_focus_position_speak">keep_focus_position_speak</string>
     <string name="float_menu_x">float_menu_x</string>
     <string name="float_menu_y">float_menu_y</string>
+    <string name="use_custom_dict_regex">use_custom_dict_regex</string>
+    <string name="profiles">profiles</string>
+    <string name="profiles_data">profiles_data</string>
 </resources>
