@@ -931,308 +931,308 @@ Commentary Screenreader cũng là của chúng tôi cũng như của bạn. Tạ
     <string name="use_web_view_name_summary">Kiểm soát xem tất cả các loại kiểm soát có được thông báo trên các trang web hay không. Nếu tùy chọn bị tắt, chỉ những loại điều khiển quan trọng nhất như liên kết, tiêu đề và nút mới được đọc</string>
     <string name="hour">Giờ</string>
     <string name="min">Phút</string>
-Tôi không hiểu thông điệp của bạn
-Kêu gọi
-Gửi thành công
-Nút này đã có một nhãn. Không cần thêm nhãn tùy chỉnh
-Đã thêm nhãn
-Đã nhấp
-Tìm kiếm trên web
-Nút gửi không tìm thấy
-Tìm kiếm trong thị trường ứng dụng
-Không thêm được nhãn tùy chỉnh
-Kiểm tra trạng thái quyền
-Trình hướng dẫn thiết lập
-Kiểm tra trạng thái quyền của cửa sổ bật lên hiển thị
-Kiểm tra trạng thái quyền tối ưu hóa pin bỏ qua
-Giới thiệu về Trình đọc màn hình Bình luận
-Kiểm tra trạng thái cho phép khởi động tự động
-Kiểm tra trạng thái quyền hiển thị thông báo
-Quyền không được cấp
-Chào mừng bạn đến với Trình đọc màn hình bình luận ! Phần mềm này nhằm mục đích giúp những người khiếm thị sử dụng điện thoại của họ hiệu quả hơn. Nhấp vào \ "Trình hướng dẫn thiết lập \" để đặt các cài đặt cơ bản của trình đọc màn hình , nhấp vào \ "Quyền trợ giúp \" để xem chính sách bảo mật hoặc nhấp vào \ "Thoát \" để thoát khỏi chương trình 。
-Đầu tiên, hãy đặt chế độ hoạt động cơ bản của trình đọc màn hình . Theo mặc định, Trình đọc màn hình bình luận sử dụng thao tác vuốt lên để di chuyển đến phần tử trước đó, vuốt xuống để chuyển đến phần tử tiếp theo và vuốt sang trái và phải để thực hiện cái gọi là phím tắt. Nếu bạn đã quen với thao tác trình đọc màn hình truyền thống hơn , vui lòng chọn tùy chọn \ "Đảo ngược cử chỉ vuốt \" tại đây. Cần lưu ý rằng, khi thay đổi này được áp dụng, thao tác vuốt lên sẽ thực hiện cái gọi là phím tắt bên trái, trong khi thao tác vuốt xuống sẽ thực hiện phím tắt bên phải. Bây giờ, hãy vuốt xuống để tìm tùy chọn bạn muốn đặt và nhấn đúp để kích hoạt nó
-Tiếp theo, hãy quyết định xem bạn có muốn nhận các gợi ý sử dụng từ trình đọc màn hình hay không . Gợi ý sử dụng là các tin nhắn ngắn được nói trên bất kỳ phần tử nào. Những thông báo này có thể giúp bạn vận hành một điều khiển nhất định, nhưng nếu bạn đã quen với thao tác trình đọc màn hình , bạn nên tắt chúng để có trải nghiệm nhanh hơn. Bạn có muốn nhận được những gợi ý này không?
-Danh sách là một phần rất quan trọng của giao diện người dùng Android. Bây giờ bạn sẽ quyết định xem bạn muốn trình đọc màn hình đọc nhiều thông tin khác nhau về danh sách hiện tại, đặc biệt là chỉ mục của phần tử hiện được tập trung hay phạm vi hiển thị của danh sách. Bạn có muốn thông tin này được đọc?
-Vui lòng chọn xem bạn có muốn trình đọc màn hình đọc thông báo hay không. Thông báo bao gồm tin nhắn SMS đến, dự báo thời tiết hoặc bất kỳ thông tin nào khác do thiết bị của bạn tạo ra. Bạn nên bật thông báo, nhưng nếu không muốn bị gián đoạn trong quá trình làm việc, bạn nên tắt chúng đi. Điều đáng chú ý là Trình đọc màn hình bình luận có một tính năng gọi là Hộp thông báo, có thể giúp xem thông báo trên một số thiết bị dễ dàng hơn nhiều
-Trình đọc màn hình bình luận có thể sử dụng hai công cụ TTS cùng một lúc. Công cụ TTS chính sẽ được sử dụng để đọc hầu hết thông tin, trong khi công cụ TTS phụ sẽ được sử dụng để đọc thông báo và các nội dung ít quan trọng khác. Bạn nên sử dụng một công cụ TTS duy nhất nếu bạn chưa quen với chức năng này.
-Đảo ngược cử chỉ vuốt
-Sử dụng cử chỉ mặc định
-Đúng
-Không
-Đọc thông báo
-Không đọc thông báo
-Sử dụng một công cụ TTS duy nhất
-Sử dụng hai động cơ TTS cùng một lúc.
-Quyền trợ giúp
-đọc trạng thái điện thoại Được sử dụng để xác định tính duy nhất của danh tính để cung cấp dịch vụ được cá nhân hóa và xác thực tài khoản , Được sử dụng để theo dõi trạng thái cuộc gọi để cung cấp thông tin trạng thái cho các chức năng như nhanh chóng trả lời / từ chối cuộc gọi , Được sử dụng cho số người gọi . \ nTrả lời cuộc gọi Cung cấp các chức năng như trả lời / từ chối nhanh cuộc gọi trên Android 8 và các hệ thống cao hơn . \ n Gọi điện Cung cấp chức năng quay số trực tiếp trong số đã trích xuất và số cuộc gọi thoại . \ nThông tin vị trí Được sử dụng để cung cấp các dịch vụ được cá nhân hóa dựa trên vị trí , chẳng hạn như thời tiết địa phương, vị trí hiện tại và có thể mở rộng bản đồ và dịch vụ điều hướng trong tương lai . \ nCamera Để chụp ảnh và các chức năng nhận dạng khác nhau . \ nMicrophone Trợ lý giọng nói, ghi lại âm thanh của đầu vào bằng giọng nói . \ nLiên hệ Một dịch vụ dựa trên tên cho các cuộc gọi thoại và số người gọi . \ nCửa sổ nổi Hộp thoại và biểu mẫu hiển thị menu và chế độ màn hình đen . \ nTạo lối tắt trên màn hình Cung cấp các công cụ mở rộng (ứng dụng nhẹ) với các chức năng có thể thêm vào màn hình để khởi động dễ dàng . \ nIn- Cài đặt ứng dụng để nâng cấp tự động . \ n Quyền truy cập mạng, xác thực người dùng, nhận dạng hình ảnh, gắn thẻ đám mây, nhận dạng giọng nói . \ nKhởi động Để cung cấp dịch vụ càng sớm càng tốt sau khi khởi động lại . \ n Ngăn điện thoại ở chế độ ngủ Ngăn màn hình tắt khi giọng nói đang được thông báo . \ n Việc vô hiệu hóa một số quyền có thể khiến một số chức năng không hoạt động bình thường
-bình luận cần một số quyền cơ bản để hoạt động, chẳng hạn như quyền Bộ nhớ được sử dụng để đọc lược đồ âm thanh, tiện ích mở rộng hoặc bất kỳ dữ liệu bên ngoài nào khác từ thiết bị. Nhấp vào \ "Tiếp theo \" để tiếp tục và cấp tất cả các quyền cần thiết hoặc nhấp vào \ "Hủy \" để thoát khỏi phần mềm
-Kế tiếp
-Trình hướng dẫn thiết lập đã hoàn thành công việc của nó thành công
-Nếu bạn cần chạy lại trình hướng dẫn thiết lập cơ bản, hãy chuyển đến Cài đặt chung> Trình hướng dẫn thiết lập
-Tiếp tục thiết lập
-Các quyền cơ bản chưa được cấp
-bình luận sẽ không hoạt động nếu không có một số quyền cơ bản mà bạn chưa cấp. Nhấp vào \ "Tiếp tục thiết lập \" sẽ cấp tất cả các quyền cần thiết và tiếp tục trình hướng dẫn thiết lập, nhấp vào \ "Cấp quyền \" sẽ cấp tất cả các quyền cần thiết và thoát khỏi trình hướng dẫn, trong khi nhấp vào \ "Thoát \" sẽ khiến một số tính năng hoạt động không chính xác
-Cấp quyền và thoát
-Quyền hiển thị thông báo chưa được cấp
-Trình đọc màn hình bình luận sử dụng quyền hiển thị thông báo để hiển thị biểu tượng thông báo được sử dụng để tiếp tục cử chỉ, sử dụng các tính năng ngăn chặn giết người, ETC. Việc cấp quyền này sẽ giúp chương trình hoạt động ổn định hơn trên thiết bị của bạn
-Cấp phép
-Quyền hiển thị thông báo đã được cấp
-Đã thay đổi
-Bỏ qua quyền tối ưu hóa pin chưa được cấp
-Tối ưu hóa pin có thể giúp kéo dài tuổi thọ pin, nhưng nó sẽ khiến trình đọc màn hình tắt hoặc ngủ đông đột ngột. Bạn nên cấp quyền bỏ qua tối ưu hóa pin để ổn định hơn và sử dụng chế độ tiết kiệm năng lượng chuyên dụng để kéo dài tuổi thọ pin
-Bỏ qua quyền tối ưu hóa pin đã được cấp
-Quyền hiển thị cửa sổ bật lên chưa được cấp
-Trình đọc màn hình bình luận sử dụng các cửa sổ lớp phủ cho những thứ như hiển thị menu, kết quả nhận dạng hoặc cho chế độ rèm
-Quyền hiển thị cửa sổ bật lên đã được cấp
-Sao chép tên người dùng và ID vào khay nhớ tạm
-用户名% s用户ID % s
-dict.json
-Làm mới
-% d kết quả
-Đọc định nghĩa biểu tượng tùy chỉnh
-Cài đặt định nghĩa biểu tượng tùy chỉnh
-Sử dụng từ điển người dùng
-Cài đặt từ điển người dùng
-Người dùng phiên bản miễn phí không được thêm hơn 5 mục vào từ điển người dùng
-Hoàn tác
-Làm lại
-Tệp gần đây
-Tập tin mới
-Chủ đề mở
-Dự án mới
-Định dạng mã nguồn
-Phân tích gói JAVA để nhập khẩu
-Hành hình
-Đọc biểu tượng cảm xúc
-Thêm vào màn hình chính
-Kết thúc lựa chọn
-Bắt đầu lựa chọn
-Vui lòng chạy dịch vụ hỗ trợ tiếp cận Trình đọc màn hình bình luận trước
-Tên tệp
-Tên dự án
-Kết thúc điều hướng
-Cắt
-Chế độ đa lựa chọn
-Thêm từ lưới
-Cài đặt lược đồ âm thanh
-Phần tử có thể nhấp
-Yếu tố có thể lấy tiêu điểm
-Phần tử bàn phím
-Không phải phần tử có thể lấy tiêu điểm
-Liệt kê phần tử
-Nhấp chuột
-Nhấn và giữ
-Cuộn lên
-Cuộn xuống
-Ranh giới
-Đánh dấu hẹn giờ
-Cái đồng hồ
-Đã khóa màn hình
-Đã mở khóa màn hình
-Thay đổi cửa sổ
-Hộp thoại
-Bắt đầu bằng cử chỉ
-Kết thúc cử chỉ
-Đã bắt đầu nhận dạng giọng nói
-Nhận dạng giọng nói đã dừng
-Nhận dạng giọng nói thành công
-Lỗi nhận dạng giọng nói
-Đã hủy nhận dạng giọng nói
-Cài đặt nhanh
-Chụp màn hình
-Khóa màn hình
-Menu nguồn
-Kiểm soát xem menu cạnh dưới có được sử dụng hay không. Menu cạnh dưới được kéo lên từ mép dưới của màn hình và nó cho phép thực hiện các hành động như quay lại màn hình chính, mở thanh thông báo hoặc mở hộp thoại cài đặt nhanh
-Sử dụng menu cạnh dưới cùng
-Tất cả
-Tạo một lược đồ phím nóng mới
-Tạo một lược đồ phím nóng mới cho mỗi ứng dụng
-Phím nóng
-Lược đồ phím nóng
-Mô tả lược đồ phím nóng
-Cài đặt lược đồ phím nóng
-Cài đặt lược đồ phím nóng
-Lược đồ phím nóng cho mỗi ứng dụng
-Được sử dụng để tạo một lược đồ phím nóng mới cho mỗi ứng dụng. Nó sẽ chỉ có hiệu lực trong ứng dụng đã xác định
-HotKeys
-Nhấn phím tắt bạn muốn xác định. Không hỗ trợ các số và chữ cái không có bổ ngữ
-Hẹn giờ kết thúc
-Hẹn giờ bắt đầu
-Đọc tất cả nội dung hiển thị của danh sách khi cuộn bằng các lệnh
-Cho phép di chuyển theo loại phần tử trong giao diện chuẩn của Android
-Kiểm soát xem nó có được phép điều hướng theo loại phần tử trong chế độ xem chuẩn của Android hay không. Khi tùy chọn này được bật, các cử chỉ tắt mặc định sẽ được ánh xạ để thay đổi kiểu. Nếu xảy ra bất kỳ xung đột nào trong các cử chỉ, bạn có thể chỉnh sửa lược đồ cử chỉ để khắc phục chúng theo cách thủ công
-[Nhấn đúp]
-Phần tử trước của loại được chỉ định
-Phần tử tiếp theo của loại được chỉ định
-Loại phần tử trước đó
-Loại phần tử tiếp theo
-Chọn phần tử điều hướng
-Tùy chỉnh điều hướng phần tử trang web
-Tùy chỉnh điều hướng phần tử chế độ xem tiêu chuẩn
-触摸 屏幕时 通知 免 打扰
-Nhớ loại điều hướng đã chọn khi thay đổi cửa sổ
-Trình quản lý lược đồ phím nóng
-Không có lược đồ phím nóng
-Đề án phím nóng dự phòng
-Khôi phục các lược đồ phím nóng
-sử dụng cử chỉ nhiều ngón tay
-Thêm
-Đã xảy ra lỗi khi thêm. Vui lòng thử lại
-Chọn phần tử điều hướng
-Không được chọn
-Đã chọn
-Mọi thứ đã được sao chép
-Quét tìm tài nguyên
-Đang quét ...
-Kết quả tìm kiếm
-Nhập khẩu
-Ghi đè
-Nhấn một lần bằng hai ngón tay
-Nhấn một lần bằng ba ngón tay
-Nhấn một lần bằng bốn ngón tay
-Nhấn đúp bằng hai ngón tay
-Nhấn đúp bằng ba ngón tay
-Nhấn đúp bằng bốn ngón tay
-Nhấn ba lần bằng hai ngón tay
-Nhấn ba lần bằng ba ngón tay
-Nhấn ba lần bằng bốn ngón tay
-Nhấn đúp và giữ bằng hai ngón tay
-Nhấn đúp và giữ bằng ba ngón tay
-Nhấn đúp và giữ bằng bốn ngón tay
-Vuốt lên bằng hai ngón tay
-Vuốt lên bằng ba ngón tay
-Vuốt lên bằng bốn ngón tay
-Vuốt xuống bằng hai ngón tay
-Vuốt xuống bằng ba ngón tay
-Vuốt xuống bằng bốn ngón tay
-Vuốt sang trái bằng hai ngón tay
-Vuốt sang trái bằng ba ngón tay
-Vuốt sang trái bằng bốn ngón tay
-Vuốt sang phải bằng hai ngón tay
-Vuốt sang phải bằng ba ngón tay
-Vuốt sang phải bằng bốn ngón tay
-Đã cập nhật lược đồ cử chỉ
-Yêu thích đã được thêm vào
-Đã chia sẻ thành công
-Đã xảy ra lỗi khi chia sẻ
-Điều chỉnh giá trị của thanh trượt
-Trình quản lý màn hình tiêu điểm
-Giám sát phần tử hiện được tập trung
-Chuyển đổi các cử chỉ nhiều ngón tay
-Đã bắt đầu giám sát
-Đã dừng giám sát
-Đã vào chế độ người chơi
-Sử dụng điều khiển âm lượng hỗ trợ tiếp cận nâng cao
-Nếu âm lượng trợ năng thường xuyên dao động, bạn có thể thử bật tùy chọn này
-Đã thoát chế độ người chơi
-Chính sách bảo mật
-Tải xuống Trình đọc màn hình Bình luận
-% s \ nsize :% s \ n Số lượt tải xuống:% s
-Mật khẩu mới - 6 đến 15 ký tự Latinh
-Đổi mật khẩu
-Không được để trống
-Một lỗi không rõ đã xảy ra. Vui lòng thử lại sau hoặc liên hệ với Dịch vụ khách hàng. \ N
-Bộ hẹn giờ bị tạm dừng
-Đã tiếp tục hẹn giờ
-Đã bật cử chỉ nhiều ngón tay
-Đã tắt cử chỉ nhiều ngón tay
-Mã kích hoạt
-Kích hoạt phiên bản đầy đủ
-Chọn một ứng dụng
-Chế độ xem chia đôi màn hình
-Trình soạn thảo văn bản bình luận
-Tiếng vọng chính
-Cài đặt đọc thông minh
-Ứng dụng đọc thông minh
-Đọc thông minh không được hỗ trợ cho tất cả các ứng dụng. Một ứng dụng hiển thị dữ liệu của nó dưới dạng danh sách có nhiều khả năng được hỗ trợ hơn
-Người dùng phiên bản miễn phí chỉ có thể sử dụng tính năng đọc thông minh cho QQ
-Danh sách đen nội dung đọc thông minh
-Cài đặt chế độ đọc bài viết
-Từ khóa nút chương tiếp theo
-Từ khóa nút chương trước
-*下一页* | *下一章* | *下页* | *下 章* | *下 一个*
-*上一页* | *上一章* | *上页* | *上章* | *上 一个*
-Yêu cầu kích hoạt của bạn đã được gửi để xem xét. Nếu việc kích hoạt không được thực hiện trong thời gian hợp lý, vui lòng liên hệ với bộ phận Dịch vụ Khách hàng
-Đèn pin
-Sao lưu mọi thứ
-Khôi phục mọi thứ
-Máy tìm kiếm
-Ghi chú
-Thay thế
-Xuất khẩu
-Thay thế bằng
-Sử dụng biểu thức chính quy
-Đã thay thế
-Dừng đọc khi chạm vào màn hình
-Nhận dạng thời gian thực
-Chỉnh sửa từ điển
-Nhấn và giữ phím tăng âm lượng trong khi màn hình bị khóa
-Nhấn và giữ phím giảm âm lượng trong khi màn hình bị khóa
-Cảnh báo trước khi gói điều hướng xảy ra
-sử dụng chế độ điều hướng phần tử thay thế
-Kiểm soát xem có sử dụng chế độ điều hướng phần tử thay thế hay không. Trong chế độ này, các cử chỉ lên và xuống được sử dụng để chuyển đổi phần tử điều hướng, trong khi các cử chỉ phím tắt được sử dụng để điều hướng đến phần tử tiếp theo và trước đó của một loại nhất định
-Các phím tắt cho khối lượng ứng dụng
-Chia sẻ nhãn tùy chỉnh lên đám mây
-Chế độ lấy nét chi tiết
-Tùy chọn này có thể cho phép tập trung nhiều yếu tố hơn. Vui lòng bật hoặc tắt nó theo nhu cầu của bạn.
-Sử dụng tính năng nhấn nhiều nút âm lượng
-Nhấn đúp nút tăng âm lượng
-Nhấn ba lần nút tăng âm lượng
-Nhấn đúp nút giảm âm lượng
-Nhấn ba lần nút giảm âm lượng
-Nhân vật tiếp theo
-Nhân vật trước đó
-Từ tiếp theo
-Từ trước
-Câu tiếp theo
-Câu trước
-Đoạn tiếp theo
-Đoạn trước
-Phát hoặc tạm dừng
-% d đến% d được chọn
-Album bình luận
-Chuyển đổi công cụ TTS hiện đang sử dụng
-Đọc độ sáng hiện tại
-Tắt tiếng Trình đọc màn hình bình luận trong khi ghi đang hoạt động
-Nói thời lượng của cuộc gọi điện thoại đã kết thúc
-Kiểm soát xem thời lượng của cuộc gọi có được tự động đọc khi cuộc gọi kết thúc hay không. Chức năng này yêu cầu quyền đọc nhật ký cuộc gọi
-Đọc chỉ mục của mục danh sách hiện được tập trung trong khi cuộn danh sách
-Thêm vào mục yêu thích
-Lưu dưới dạng tệp cục bộ
-Lưu dưới dạng ghi chú trên đám mây
-Công cụ TTS hiện được sử dụng đã được chuyển đổi
-Dòng% d, ký tự% d
-Thêm danh sách đen nội dung
-Phương tiện trước đó
-Phương tiện tiếp theo
-Bật cử chỉ điều khiển cuộc gọi chung
-Vùng màn hình trước
-Vùng màn hình tiếp theo
-Đánh dấu con trỏ
-Trong suốt
-màu đỏ
-Màu xanh lá
-Màu xanh lam
-Chiều rộng
-Nhấn ba lần và giữ bằng ba ngón tay
-Nhấn ba lần và giữ bằng ba ngón tay
-Nhấn ba lần và giữ bằng bốn ngón tay
-Làm chậm vuốt
-Làm chậm và vuốt sang phải
-Vuốt lên và xuống chậm
-Làm chậm và vuốt sang trái
-Làm chậm vuốt
-Làm chậm và vuốt sang phải
-Làm chậm và vuốt lên
-Làm chậm và vuốt sang trái
-Vuốt chậm sang trái
-Vuốt sang trái và lên chậm
-Vuốt sang trái và xuống chậm
-Vuốt sang trái và phải chậm
-Vuốt chậm sang phải
-Từ từ vuốt sang phải và vuốt lên
-Vuốt sang phải và vuốt xuống chậm
-Vuốt chậm sang phải và sang trái
+    <string name="msg_result_empty">Tôi không hiểu tin nhắn của bạn</string>
+    <string name="msg_calling">Đang gọi</string>
+    <string name="msg_sended">Gửi thành công</string>
+    <string name="msg_add_error_has_lable">Nút này đã có một nhãn. Không cần thêm nhãn tùy chỉnh</string>
+    <string name="msg_label_added">Đã thêm nhãn</string>
+    <string name="msg_clicked">Đã nhấp</string>
+    <string name="msg_search_on_net">Tìm kiếm trên web</string>
+    <string name="msg_send_not_found">Không tìm thấy nút gửi</string>
+    <string name="msg_search_on_store">Tìm kiếm trong môi trường ứng dụng</string>
+    <string name="msg_lable_add_error">Không thêm được nhãn tùy chỉnh</string>
+    <string name="check_permissions_title">Kiểm tra trạng thái quyền</string>
+    <string name="setup_setting_title">Trình hướng dẫn thiết lập</string>
+    <string name="check_overlay_permissions_title">Kiểm tra trạng thái quyền của cửa sổ bật lên hiển thị</string>
+    <string name="check_battery_permissions_title">Kiểm tra trạng thái quyền tối ưu hóa pin bỏ qua</string>
+    <string name="open_application_info_title">Giới thiệu về Commentary Screenreader</string>
+    <string name="open_setup_setting_title">Kiểm tra trạng thái cho phép khởi động tự động</string>
+    <string name="check_notification_permissions_title">Kiểm tra trạng thái quyền hiển thị thông báo</string>
+    <string name="denied_permissions_title">Không được cấp quyền</string>
+    <string name="welcome_msg">Chào mừng bạn đến với Commentary Screenreader! Phần mềm này nhằm mục đích giúp những người khiếm thị sử dụng điện thoại của họ hiệu quả hơn. Nhấp vào \ "Trình hướng dẫn thiết lập \" để đặt các cài đặt cơ bản của trình đọc màn hình , nhấp vào \ "Quyền trợ giúp \" để xem chính sách bảo mật hoặc nhấp vào \ "Thoát \" để thoát khỏi chương trình 。</string>
+    <string name="use_left_right_msg">Đầu tiên, hãy đặt chế độ hoạt động cơ bản của trình đọc màn hình . Theo mặc định, Commentary Screenreader sử dụng thao tác vuốt lên để di chuyển đến phần tử trước đó, vuốt xuống để chuyển đến phần tử tiếp theo và vuốt sang trái và phải để thực hiện cái gọi là phím tắt. Nếu bạn đã quen với thao tác trình đọc màn hình truyền thống hơn , vui lòng chọn tùy chọn \ "Đảo ngược cử chỉ vuốt \" tại đây. Cần lưu ý rằng, khi thay đổi này được áp dụng, thao tác vuốt lên sẽ thực hiện cái gọi là phím tắt bên trái, trong khi thao tác vuốt xuống sẽ thực hiện phím tắt bên phải. Bây giờ, hãy vuốt xuống để tìm tùy chọn bạn muốn đặt và chạm hai lần để kích hoạt nó</string>
+    <string name="usage_hints_msg">Tiếp theo, hãy quyết định xem bạn có muốn nhận các gợi ý sử dụng từ trình đọc màn hình hay không . Gợi ý sử dụng là các tin nhắn ngắn được nói trên bất kỳ phần tử nào. Những thông báo này có thể giúp bạn vận hành một điều khiển nhất định, nhưng nếu bạn đã quen với thao tác trình đọc màn hình , bạn nên tắt chúng để có trải nghiệm nhanh hơn. Bạn có muốn nhận được những gợi ý này hay không?</string>
+    <string name="use_list_index_msg">Danh sách là một phần rất quan trọng của giao diện người dùng Android. Bây giờ bạn sẽ quyết định xem bạn muốn trình đọc màn hình đọc nhiều thông tin khác nhau về danh sách hiện tại, đặc biệt là chỉ mục của phần tử hiện được tập trung hay phạm vi hiển thị của danh sách. Bạn có muốn thông tin này được đọc?</string>
+    <string name="notification_speak_msg">Vui lòng chọn xem bạn có muốn trình đọc màn hình đọc thông báo hay không. Thông báo bao gồm tin nhắn SMS đến, dự báo thời tiết hoặc bất kỳ thông tin nào khác do thiết bị của bạn tạo ra. Bạn nên bật thông báo, nhưng nếu không muốn bị làm phiền trong quá trình làm việc, bạn nên tắt chúng đi. Điều đáng chú ý là commentary Screenreader có một tính năng gọi là Hộp thông báo, có thể giúp xem thông báo trên một số thiết bị dễ dàng hơn nhiều</string>
+    <string name="use_single_tts_msg">Commentary Screenreader có thể sử dụng hai công cụ TTS cùng một lúc. Công cụ TTS chính sẽ được sử dụng để đọc hầu hết thông tin, trong khi công cụ TTS phụ sẽ được sử dụng để đọc thông báo và các nội dung ít quan trọng khác. Bạn nên sử dụng một công cụ TTS duy nhất nếu bạn chưa quen với chức năng này.</string>
+    <string name="use_left_right_ok">Đảo ngược cử chỉ vuốt</string>
+    <string name="use_left_right_no">Sử dụng cử chỉ mặc định</string>
+    <string name="usage_hints_ok">Có</string>
+    <string name="usage_hints_no">Không</string>
+    <string name="notification_speak_ok">Đọc thông báo</string>
+    <string name="notification_speak_no">Không đọc thông báo</string>
+    <string name="use_single_tts_ok">Sử dụng một công cụ TTS duy nhất</string>
+    <string name="use_single_tts_no">Sử dụng hai động cơ TTS cùng một lúc.</string>
+    <string name="permission_title">Trợ giúp Quyền</string>
+    <string name="permission_msg">quyền này cho phép đọc trạng thái điện thoại Được sử dụng để xác định tính duy nhất của danh tính cũng như cung cấp dịch vụ được cá nhân hóa và xác thực tài khoản , Nó được sử dụng để theo dõi trạng thái cuộc gọi nhằm cung cấp thông tin trạng thái cho các chức năng như nhanh chóng trả lời / kết thúc cuộc gọi , Được sử dụng cho số người gọi . \ nTrả lời cuộc gọi Cung cấp các chức năng như trả lời / từ chối nhanh cuộc gọi trên Android 8 và các phiên bản hệ điều hành cao hơn . \ n Điện thoại Cung cấp chức năng quay số trực tiếp trong số đã trích xuất và số cuộc gọi thoại . \ nThông tin vị trí Được sử dụng để cung cấp các dịch vụ được cá nhân hóa dựa trên vị trí , chẳng hạn như thời tiết địa phương, vị trí hiện tại và có thể mở rộng bản đồ và dịch vụ điều hướng trong tương lai . \ nMáy ảnh Để chụp ảnh và các chức năng nhận dạng khác nhau . \ nMicro Trợ lý giọng nói, ghi lại âm thanh của đầu vào bằng giọng nói . \ nDanh bạ Một dịch vụ dựa trên tên cho các cuộc gọi thoại và số người gọi . \ nCửa sổ nổi Hộp thoại và biểu mẫu hiển thị trình đơn và chế độ màn hình đen . \ nTạo lối tắt trên màn hình Cung cấp các công cụ mở rộng (ứng dụng nhẹ) với các chức năng có thể thêm vào màn hình để khởi động dễ dàng . \ nIn- Cài đặt ứng dụng để nâng cấp tự động . \ n Quyền truy cập mạng, xác thực người dùng, nhận dạng hình ảnh, gắn thẻ đám mây, nhận dạng giọng nói . \ nKhởi động Để cung cấp dịch vụ càng sớm càng tốt sau khi khởi động lại . \ n Ngăn điện thoại ở chế độ ngủ Ngăn màn hình tắt khi giọng nói đang được thông báo . \ n Việc vô hiệu hóa một số quyền có thể khiến một số chức năng không hoạt động bình thường</string>
+    <string name="check_permissions_msg">Commentary cần một số quyền cơ bản để hoạt động, chẳng hạn như quyền Bộ nhớ được sử dụng để đọc lược đồ âm thanh, tiện ích mở rộng hoặc bất kỳ dữ liệu bên ngoài nào khác từ thiết bị. Nhấp vào \ "Tiếp theo \" để tiếp tục và cấp tất cả các quyền cần thiết hoặc nhấp vào \ "Hủy \" để thoát khỏi phần mềm</string>
+    <string name="next">Tiếp theo</string>
+    <string name="setup_setting_done">Trình hướng dẫn thiết lập đã hoàn thành công việc của bạn thành công</string>
+    <string name="setup_setting_done_msg">Nếu bạn cần chạy lại trình hướng dẫn thiết lập cơ bản, hãy chuyển đến Cài đặt chung> Trình hướng dẫn thiết lập</string>
+    <string name="setup_setting_continue">Tiếp tục thiết lập</string>
+    <string name="setup_setting_not_permission">Các quyền cơ bản chưa được cấp</string>
+    <string name="setup_setting_not_permission_msg">Commentary sẽ không hoạt động nếu không có một số quyền cơ bản mà bạn chưa cấp. Nhấp vào \ "Tiếp tục thiết lập \" sẽ cấp tất cả các quyền cần thiết và tiếp tục trình hướng dẫn thiết lập, nhấp vào \ "Cấp quyền \" sẽ cấp tất cả các quyền cần thiết và thoát khỏi trình hướng dẫn, trong khi nhấp vào \ "Thoát \" sẽ khiến một số tính năng hoạt động không chính xác</string>
+    <string name="setup_setting_set_permission_and_exit">Cấp quyền và thoát</string>
+    <string name="setup_setting_not_notification_permission">Quyền hiển thị thông báo chưa được cấp</string>
+    <string name="setup_setting_notification_permission_msg">Commentary Screenreader sử dụng quyền hiển thị thông báo để hiển thị biểu tượng thông báo được sử dụng để tiếp tục cử chỉ, sử dụng các tính năng ngăn chặn giết người, ETC. Việc cấp quyền này sẽ giúp chương trình hoạt động ổn định hơn trên thiết bị của bạn</string>
+    <string name="setup_setting_get_permission">Cấp Quyền</string>
+    <string name="setup_setting_has_notification_permission">Quyền hiển thị thông báo đã được cấp</string>
+    <string name="changed">Đã thay đổi</string>
+    <string name="setup_setting_not_battery_permission">Bỏ qua quyền tối ưu hóa pin chưa được cấp</string>
+    <string name="setup_setting_battery_permission_msg">Tối ưu hóa pin có thể giúp kéo dài tuổi thọ pin, nhưng nó sẽ khiến trình đọc màn hình tắt hoặc ngủ đông đột ngột. Bạn nên cấp quyền bỏ qua tối ưu hóa pin để ổn định hơn và sử dụng chế độ tiết kiệm năng lượng chuyên dụng để kéo dài tuổi thọ pin</string>
+    <string name="setup_setting_has_battery_permission">Bỏ qua quyền tối ưu hóa pin đã được cấp</string>
+    <string name="setup_setting_not_overlay_permission">Quyền hiển thị cửa sổ bật lên chưa được cấp</string>
+    <string name="setup_setting_overlay_permission_msg">Commentary Screenreader sử dụng các cửa sổ lớp phủ cho những thứ như hiển thị trình đơn kết quả nhận dạng hoặc cho chế độ rèm</string>
+    <string name="setup_setting_has_overlay_permission">Quyền hiển thị cửa sổ bật lên đã được cấp</string>
+    <string name="copy_username_and_userid">Sao chép tên người dùng và ID vào khay nhớ tạm</string>
+    <string name="username_and_userid_format">用户名% s用户ID % s</string>
+    <string name="file_name_dict">dict.json</string>
+    <string name="refresh">Làm mới</string>
+    <string name="msg_filter">% d kết quả</string>
+    <string name="use_custom_symbol_speak_title">Đọc định nghĩa biểu tượng tùy chỉnh</string>
+    <string name="custom_symbol_title">Cài đặt định nghĩa biểu tượng tùy chỉnh</string>
+    <string name="use_custom_dict_speak_title">Sử dụng từ điển người dùng</string>
+    <string name="custom_dict_title">Cài đặt từ điển người dùng</string>
+    <string name="msg_has_vip_dict">Người dùng phiên bản miễn phí không được thêm hơn 5 mục vào từ điển người dùng</string>
+    <string name="undo">Hoàn tác</string>
+    <string name="redo">Làm lại</string>
+    <string name="last_open">Tệp gần đây</string>
+    <string name="create_file">Tập tin mới</string>
+    <string name="open_project">Mở dự án</string>
+    <string name="create_project">Dự án mới</string>
+    <string name="format">Định dạng mã nguồn</string>
+    <string name="fix_import">Phân tích gói JAVA để Nhập khẩu</string>
+    <string name="run">Hành hình</string>
+    <string name="use_emoji_speak_title">Đọc biểu tượng cảm xúc</string>
+    <string name="install_shortcut">Thêm vào màn hình chính</string>
+    <string name="msg_select_end">Kết thúc lựa chọn</string>
+    <string name="msg_select_start">Bắt đầu lựa chọn</string>
+    <string name="msg_plugin_run_error">Vui lòng chạy dịch vụ hỗ trợ tiếp cận Commentary Screenreader trước</string>
+    <string name="input_file_name">Tên tệp</string>
+    <string name="input_project_name">Tên dự án</string>
+    <string name="use_loop_move_title">Kết thúc điều hướng</string>
+    <string name="message_cut">Cắt</string>
+    <string name="choice_mode_multiple">Chế độ đa lựa chọn</string>
+    <string name="add_from_grid">Thêm từ lưới</string>
+    <string name="sound_settings_title">Cài đặt lược đồ âm thanh</string>
+    <string name="sound_focus1">Phần tử có thể nhấp</string>
+    <string name="sound_focus2">Yếu tố có thể lấy tiêu điểm</string>
+    <string name="sound_focus3">Phần tử bàn phím</string>
+    <string name="sound_focus4">Không phải phần tử có thể lấy tiêu điểm</string>
+    <string name="sound_focus0">Liệt kê phần tử</string>
+    <string name="sound_click">Nhấp chuột</string>
+    <string name="sound_long_click">Nhấn và giữ</string>
+    <string name="sound_scroll_up">Cuộn lên</string>
+    <string name="sound_scroll_down">Cuộn xuống</string>
+    <string name="sound_beep">Ranh giới</string>
+    <string name="sound_tick">Đánh dấu hẹn giờ</string>
+    <string name="sound_clock">Đồng hồ</string>
+    <string name="sound_screen_off">Đã khóa màn hình</string>
+    <string name="sound_screen_on">Đã mở khóa màn hình</string>
+    <string name="sound_window_state">Thay đổi cửa sổ</string>
+    <string name="sound_dialog">Hộp thoại</string>
+    <string name="sound_gesture_start">Bắt đầu bằng cử chỉ</string>
+    <string name="sound_gesture_end">Kết thúc cử chỉ</string>
+    <string name="recognition_start">Đã bắt đầu nhận dạng giọng nói</string>
+    <string name="recognition_end">Nhận dạng giọng nói đã dừng</string>
+    <string name="recognition_success">Nhận dạng giọng nói thành công</string>
+    <string name="recognition_error">Lỗi nhận dạng giọng nói</string>
+    <string name="recognition_cancel">Đã hủy nhận dạng giọng nói</string>
+    <string name="command_quick_settings">Cài đặt nhanh</string>
+    <string name="command_take_screenshot">Chụp màn hình</string>
+    <string name="command_off_screen2">Khóa màn hình</string>
+    <string name="command_power_dialog">Trình đơn nguồn</string>
+    <string name="use_bottom_menu_edge_gesture_summary">Kiểm soát xem trình đơn cạnh dưới có được sử dụng hay không. trình đơn cạnh dưới được kéo lên từ mép dưới của màn hình và nó cho phép thực hiện các hành động như quay lại màn hình chính, mở thanh thông báo hoặc mở hộp thoại cài đặt nhanh</string>
+    <string name="use_bottom_menu_edge_gesture_title">Sử dụng trình đơn cạnh dưới cùng</string>
+    <string name="all">Tất cả</string>
+    <string name="create_hot_key">Tạo một lược đồ phím nóng mới</string>
+    <string name="create_app_hot_key">Tạo một lược đồ phím nóng mới cho mỗi ứng dụng</string>
+    <string name="hot_key">Phím nóng</string>
+    <string name="hot_key_package_title">Lược đồ phím nóng</string>
+    <string name="hot_key_description_title">Mô tả lược đồ phím nóng</string>
+    <string name="hot_key_settings_title">Cài đặt lược đồ phím nóng</string>
+    <string name="custom_hot_key_settings_title">Cài đặt lược đồ phím nóng</string>
+    <string name="app_hot_key_package_title">Lược đồ phím nóng cho mỗi ứng dụng</string>
+    <string name="app_hot_key_package_summary">Được sử dụng để tạo một lược đồ phím nóng mới cho mỗi ứng dụng. Nó sẽ chỉ có hiệu lực trong ứng dụng đã xác định</string>
+    <string name="directory_hot_key">Nhiều phím nóng</string>
+    <string name="hot_key_summary">Nhấn phím tắt bạn muốn xác định. Không hỗ trợ các số và chữ cái không có bổ ngữ</string>
+    <string name="sound_timer_end">Hẹn giờ kết thúc</string>
+    <string name="sound_timer_start">Hẹn giờ bắt đầu</string>
+    <string name="use_scroll_list_content_title">Đọc tất cả nội dung hiển thị của danh sách khi cuộn bằng các lệnh</string>
+    <string name="use_view_type_move_title">Cho phép di chuyển theo loại phần tử trong giao diện chuẩn của Android</string>
+    <string name="use_view_type_move_summary">Kiểm soát xem nó có được phép điều hướng theo loại phần tử trong chế độ xem chuẩn của Android hay không. Khi tùy chọn này được bật, các cử chỉ tắt mặc định sẽ được ánh xạ để thay đổi kiểu. Nếu xảy ra bất kỳ xung đột nào trong các cử chỉ, bạn có thể chỉnh sửa lược đồ cử chỉ để khắc phục chúng theo cách thủ công</string>
+    <string name="command_raw_double_tap">[Chạm hai lần]</string>
+    <string name="to_previous_granularity_item">Phần tử trước của loại được chỉ định</string>
+    <string name="to_next_granularity_item">Phần tử tiếp theo của loại được chỉ định</string>
+    <string name="to_previous_granularity">Loại phần tử trước đó</string>
+    <string name="to_next_granularity">Loại phần tử tiếp theo</string>
+    <string name="select_granularity_mode">Chọn phần tử điều hướng</string>
+    <string name="web_type_move_title">Tùy chỉnh điều hướng phần tử trang web</string>
+    <string name="view_type_move_title">Tùy chỉnh điều hướng phần tử chế độ xem tiêu chuẩn</string>
+    <string name="notification_in_touch_no_speak_title">Thông báo cho DND khi bạn chạm vào màn hình</string>
+    <string name="use_keep_type_move_title">Ghi nhớ loại điều hướng đã chọn khi thay đổi cửa sổ</string>
+    <string name="hot_key_manager_title">Trình quản lý lược đồ phím nóng</string>
+    <string name="msg_hot_key_empty">Không có lược đồ phím nóng</string>
+    <string name="cloud_backup_hot_key_title">Đề án phím nóng dự phòng</string>
+    <string name="cloud_restore_hot_key_title">Khôi phục các lược đồ phím nóng</string>
+    <string name="use_multi_touch_mode_title">sử dụng cử chỉ nhiều ngón tay</string>
+    <string name="msg_added">Thêm vào</string>
+    <string name="msg_add_error">Đã xảy ra lỗi khi thêm. Vui lòng thử lại</string>
+    <string name="select_move_type_">Chọn phần tử điều hướng</string>
+    <string name="msg_cancel_select">Không được chọn</string>
+    <string name="msg_start_select">Đã chọn</string>
+    <string name="msg_all_copyed">Mọi thứ đã được sao chép</string>
+    <string name="scan_all_res">Quét tìm tài nguyên</string>
+    <string name="scanning">Đang quét thanh tiến trình...</string>
+    <string name="scaned">Kết quả tìm kiếm</string>
+    <string name="import_file">Nhập khẩu</string>
+    <string name="overwrite_file">Ghi đè</string>
+    <string name="gesture_2_single_tap">Nhấn một lần bằng hai ngón tay</string>
+    <string name="gesture_3_single_tap">Nhấn một lần bằng ba ngón tay</string>
+    <string name="gesture_4_single_tap">Nhấn một lần bằng bốn ngón tay</string>
+    <string name="gesture_2_double_tap">Nhấn hai lần bằng hai ngón tay</string>
+    <string name="gesture_3_double_tap">Nhấn hai lần bằng ba ngón tay</string>
+    <string name="gesture_4_double_tap">Nhấn hai lần bằng bốn ngón tay</string>
+    <string name="gesture_2_triple_tap">Nhấn ba lần bằng hai ngón tay</string>
+    <string name="gesture_3_triple_tap">Nhấn ba lần bằng ba ngón tay</string>
+    <string name="gesture_4_triple_tap">Nhấn ba lần bằng bốn ngón tay</string>
+    <string name="gesture_2_double_tap_hold">Nhấn hai lần và giữ bằng hai ngón tay</string>
+    <string name="gesture_3_double_tap_hold">Nhấn hai lần và giữ bằng ba ngón tay</string>
+    <string name="gesture_4_double_tap_hold">Nhấn hai lần và giữ bằng bốn ngón tay</string>
+    <string name="gesture_2_swipe_up">Vuốt lên bằng hai ngón tay</string>
+    <string name="gesture_3_swipe_up">Vuốt lên bằng ba ngón tay</string>
+    <string name="gesture_4_swipe_up">Vuốt lên bằng bốn ngón tay</string>
+    <string name="gesture_2_swipe_down">Vuốt xuống bằng hai ngón tay</string>
+    <string name="gesture_3_swipe_down">Vuốt xuống bằng ba ngón tay</string>
+    <string name="gesture_4_swipe_down">Vuốt xuống bằng bốn ngón tay</string>
+    <string name="gesture_2_swipe_left">Vuốt sang trái bằng hai ngón tay</string>
+    <string name="gesture_3_swipe_left">Vuốt sang trái bằng ba ngón tay</string>
+    <string name="gesture_4_swipe_left">Vuốt sang trái bằng bốn ngón tay</string>
+    <string name="gesture_2_swipe_right">Vuốt sang phải bằng hai ngón tay</string>
+    <string name="gesture_3_swipe_right">Vuốt sang phải bằng ba ngón tay</string>
+    <string name="gesture_4_swipe_right">Vuốt sang phải bằng bốn ngón tay</string>
+    <string name="msg_gesture_updated">Đã cập nhật lược đồ cử chỉ</string>
+    <string name="msg_favorite_added">Yêu thích đã được thêm vào</string>
+    <string name="msg_shared">Đã chia sẻ thành công</string>
+    <string name="msg_share_error">Đã xảy ra lỗi khi chia sẻ</string>
+    <string name="select_progress">Điều chỉnh giá trị của thanh trượt</string>
+    <string name="node_changed_list_manager">Trình quản lý màn hình tiêu điểm</string>
+    <string name="add_node_changed_list">Giám sát phần tử hiện được tập trung</string>
+    <string name="switch_multi_finger_gestures">Chuyển đổi các cử chỉ nhiều ngón tay</string>
+    <string name="msg_node_changed_list_added">Đã bắt đầu giám sát</string>
+    <string name="msg_node_changed_list_removed">Đã dừng giám sát</string>
+    <string name="msg_in_game_mode">Đã vào chế độ trò chơi</string>
+    <string name="use_accessibility_volume_fix_title">Sử dụng điều khiển âm lượng hỗ trợ tiếp cận nâng cao</string>
+    <string name="use_accessibility_volume_fix_summary">Nếu âm lượng trợ năng thường xuyên dao động, bạn có thể thử bật tùy chọn này</string>
+    <string name="msg_exit_game_mode">Đã thoát chế độ trò chơi</string>
+    <string name="privacy">Chính sách bảo mật</string>
+    <string name="show_download_title">Tải xuống Commentary Screenreader</string>
+    <string name="version_msg">% s \ nsize :% s \ n Số lượt tải xuống:% s</string>
+    <string name="user_new_password">Mật khẩu mới - 6 đến 15 ký tự Latinh</string>
+    <string name="repassword_title">Đổi mật khẩu</string>
+    <string name="msg_not_empty">Không được để trống trường này</string>
+    <string name="msg_unknown_error">CÓ lỗi không rõ đã xảy ra. Vui lòng thử lại sau hoặc liên hệ với Dịch vụ khách hàng. \ N</string>
+    <string name="msg_timer_mode_pause">Bộ hẹn giờ bị tạm dừng</string>
+    <string name="msg_timer_mode_resume">Đã tiếp tục hẹn giờ</string>
+    <string name="msg_multi_touch_mode_enabled">Đã bật cử chỉ nhiều ngón tay</string>
+    <string name="msg_multi_touch_mode_disenabled">Đã tắt cử chỉ nhiều ngón tay</string>
+    <string name="activation_code_text">Mã kích hoạt</string>
+    <string name="activate_title">Kích hoạt phiên bản đầy đủ</string>
+    <string name="select_app">Chọn một ứng dụng</string>
+    <string name="command_to_split_screen">Chế độ xem chia đôi màn hình</string>
+    <string name="edit_activity">Trình soạn thảo văn bản Commentary</string>
+    <string name="use_speak_key_title">Tiếng vọng chính</string>
+    <string name="auto_speak_title">Cài đặt đọc thông minh</string>
+    <string name="auto_speak_apps_title">Ứng dụng đọc thông minh</string>
+    <string name="auto_speak_apps_summary">Đọc thông minh không được hỗ trợ cho tất cả các ứng dụng. Một ứng dụng hiển thị dữ liệu của nó dưới dạng danh sách có nhiều khả năng được hỗ trợ hơn</string>
+    <string name="msg_has_vip_auto_speak">Người dùng phiên bản miễn phí chỉ có thể sử dụng tính năng đọc thông minh cho QQ</string>
+    <string name="auto_speak_blacklist_title">Danh sách đen nội dung đọc thông minh</string>
+    <string name="read_mode_setting">Cài đặt chế độ đọc bài viết</string>
+    <string name="next_chapter_title">Từ khóa nút chương tiếp theo</string>
+    <string name="previous_chapter_title">Từ khóa nút chương trước</string>
+    <string name="next_chapter_default_value">* trang tiếp theo * | * chương tiếp theo * | * trang tiếp theo * | * chương tiếp theo * | * tiếp theo *</string>
+    <string name="previous_chapter_default_value">* trang trước * | * chương trước * | * trang trước * | * chương trước * | * trước *</string>
+    <string name="msg_activated">Yêu cầu kích hoạt của bạn đã được gửi để xem xét. Nếu việc kích hoạt không được thực hiện trong thời gian hợp lý, vui lòng liên hệ với bộ phận Dịch vụ chăm sóc Khách hàng</string>
+    <string name="flash_light">Đèn pin</string>
+    <string name="cloud_multi_backup_title">Sao lưu mọi thứ</string>
+    <string name="cloud_multi_restore_title">Khôi phục mọi thứ</string>
+    <string name="search_engine_title">Công cụ tìm kiếm</string>
+    <string name="directory_notes">Ghi chú</string>
+    <string name="replace">Thay thế</string>
+    <string name="export_file">Xuất khẩu</string>
+    <string name="replace_to">Thay thế bằng</string>
+    <string name="replace_regex">Sử dụng biểu thức chính quy</string>
+    <string name="msg_replaced">Đã thay thế</string>
+    <string name="use_touch_stop_title">Dừng đọc khi chạm vào màn hình</string>
+    <string name="continuous_recognition">Nhận dạng thời gian thực</string>
+    <string name="edit_dict">Chỉnh sửa từ điển</string>
+    <string name="up_volume_key_off_title">Nhấn và giữ phím tăng âm lượng trong khi màn hình bị khóa</string>
+    <string name="down_volume_key_off_title">Nhấn và giữ phím giảm âm lượng trong khi màn hình bị khóa</string>
+    <string name="use_loop_move_space_title">Cảnh báo trước khi gói điều hướng xảy ra</string>
+    <string name="use_view_type_move_mode_title">sử dụng chế độ điều hướng phần tử thay thế</string>
+    <string name="use_view_type_move_mode_summary">Kiểm soát xem có sử dụng chế độ điều hướng phần tử thay thế hay không. Trong chế độ này, các cử chỉ lên và xuống được sử dụng để chuyển đổi phần tử điều hướng, trong khi các cử chỉ phím tắt được sử dụng để điều hướng đến phần tử tiếp theo và trước đó của một loại nhất định</string>
+    <string name="app_hot_key_shortcut_title">Các phím tắt âm lượng cho ứng dụng</string>
+    <string name="shared_cloud_label">Chia sẻ nhãn tùy chỉnh lên đám mây</string>
+    <string name="use_more_node_title">Chế độ lấy nét chi tiết</string>
+    <string name="use_more_node_summary">Tùy chọn này có thể cho phép tập trung nhiều yếu tố hơn. Vui lòng bật hoặc tắt nó theo nhu cầu của bạn.</string>
+    <string name="use_multi_hot_key_title">Sử dụng tính năng nhấn đồng thời nhiều nút âm lượngcùng lúc</string>
+    <string name="up_volume_2_key_title">Nhấn hai lần phím tăng âm lượng</string>
+    <string name="up_volume_3_key_title">Nhấn ba lần phím tăng âm lượng</string>
+    <string name="down_volume_2_key_title">Nhấn hai lần phím giảm âm lượng</string>
+    <string name="down_volume_3_key_title">Nhấn ba lần phím giảm âm lượng</string>
+    <string name="command_to_next_char">Ký tự tiếp theo</string>
+    <string name="command_to_previous_char">Ký tự trước</string>
+    <string name="command_to_next_word">Từ tiếp theo</string>
+    <string name="command_to_previous_word">Từ trước</string>
+    <string name="command_to_next_row">Câu tiếp theo</string>
+    <string name="command_to_previous_row">Câu trước</string>
+    <string name="command_to_next_paragraph">Đoạn tiếp theo</string>
+    <string name="command_to_previous_paragraph">Đoạn trước</string>
+    <string name="command_to_head_set_key">Phát hoặc tạm dừng</string>
+    <string name="msg_selected_from_to">% d đến% d được chọn</string>
+    <string name="album_activity">Bộ sưu tập Commentary</string>
+    <string name="command_toggle_tts_engine">Chuyển đổi công cụ TTS hiện đang sử dụng</string>
+    <string name="command_speak_light">Đọc độ sáng hiện tại</string>
+    <string name="use_recording_stop_title">Tắt tiếng Commentary Screenreader trong khi ghi âm đang hoạt động</string>
+    <string name="use_speak_call_time_title">Nói thời lượng của cuộc gọi điện thoại đã kết thúc</string>
+    <string name="use_speak_call_time_summary">Kiểm soát xem thời lượng của cuộc gọi có được tự động đọc khi cuộc gọi kết thúc hay không. Chức năng này yêu cầu quyền đọc nhật ký cuộc gọi</string>
+    <string name="use_list_item_index_real_time_title">Đọc chỉ mục của mục danh sách hiện được tập trung trong khi cuộn danh sách</string>
+    <string name="add_favorites">Thêm vào mục yêu thích</string>
+    <string name="save_as_file">Lưu dưới dạng tệp cục bộ</string>
+    <string name="save_as_cloud">Lưu dưới dạng ghi chú trên đám mây</string>
+    <string name="msg_toggle_tts">Công cụ TTS hiện được sử dụng đã được chuyển đổi</string>
+    <string name="curren_char_idx">Dòng% d, ký tự% d</string>
+    <string name="command_add_content_blacklist">Thêm nội dung vào danh sách đen</string>
+    <string name="command_media_previous">Phương tiện trước đó</string>
+    <string name="command_media_next">Phương tiện tiếp theo</string>
+    <string name="use_answer_phone_calls_gesture_title">Bật cử chỉ điều khiển cuộc gọi chung</string>
+    <string name="command_previous_window">Vùng màn hình trước</string>
+    <string name="command_next_window">Vùng màn hình tiếp theo</string>
+    <string name="accessibility_focus_appearance_title">Đánh dấu con trỏ</string>
+    <string name="alpha">Trong suốt</string>
+    <string name="red">màu đỏ</string>
+    <string name="green">Màu xanh lá cây</string>
+    <string name="blue">Màu xanh lam</string>
+    <string name="stroke">Chiều rộng</string>
+    <string name="gesture_2_triple_tap_hold">Nhấn ba lần và giữ bằng ba ngón tay</string>
+    <string name="gesture_3_triple_tap_hold">Nhấn ba lần và giữ bằng ba ngón tay</string>
+    <string name="gesture_4_triple_tap_hold">Nhấn ba lần và giữ bằng bốn ngón tay</string>
+    <string name="up_long">Vuốt lên chậm</string>
+    <string name="up_right_long">vuốt lên chậm và vuốt sang phải</string>
+    <string name="up_down_long">Vuốt lên và xuống chậm</string>
+    <string name="up_left_long">vuốt lên chậm và vuốt sang trái</string>
+    <string name="down_long">Vuốt xuống chậm</string>
+    <string name="down_right_long">Vuốt xuống chậm và vuốt sang phải</string>
+    <string name="down_up_long">Vuốt xuống chậm và vuốt lên</string>
+    <string name="down_left_long">Vuốt xuống chậm và vuốt sang trái</string>
+    <string name="left_long">Vuốt chậm sang trái</string>
+    <string name="left_up_long">Vuốt sang trái và lên chậm</string>
+    <string name="left_down_long">Vuốt sang trái và xuống chậm</string>
+    <string name="left_right_long">Vuốt sang trái và phải chậm</string>
+    <string name="right_long">Vuốt chậm sang phải</string>
+    <string name="right_up_long">Từ từ vuốt sang phải và vuốt lên</string>
+    <string name="right_down_long">Vuốt sang phải và vuốt xuống chậm</string>
+    <string name="right_left_long">Vuốt chậm sang phải và sang trái</string>
     <string name="keep_focus_position_speak_title">Tập trung vào việc đọc to bộ nhớ</string>
     <string name="save_as_cmd">lưu dưới dạng lệnh</string>
     <string name="execute_cmd">Có chạy lệnh sau không</string>
