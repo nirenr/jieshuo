@@ -124,6 +124,10 @@
         <item>@string/command_media_next</item>
         <item>@string/command_previous_window</item>
         <item>@string/command_next_window</item>
+        <item>@string/command_set_tts_engine</item>
+        <item>@string/profiles_title</item>
+        <item>@string/use_ocr_title</item>
+
 
         </string-array>
     <string-array name="right_menu_items">
@@ -828,9 +832,9 @@
         <item>윤지성 TTS</item>
     </string-array>
     <string-array name="tts_engine_vip_values">
-        <item>시스템</item>
-        <item>풀리탭</item>
-        <item>유니사운드</item>
+        <item>system</item>
+        <item>iflytek</item>
+        <item>unisound</item>
     </string-array>
     <string-array name="tts_engine_vip_entries">
         <item>시스템 TTS</item>

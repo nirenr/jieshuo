@@ -1,165 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="execute_command">
-        <item>@string/command_nothing</item>
-        <item>@string/directory_plugins</item>
-        <item>@string/directory_cmd</item>
-        <item>@string/directory_tools</item>
-        <item>@string/app</item>
-        <item>@string/select_granularity_mode</item>
-        <item>@string/to_previous_granularity</item>
-        <item>@string/to_next_granularity</item>
-        <item>@string/to_previous_granularity_item</item>
-       <item>@string/to_next_granularity_item</item>
-
-        <item>@string/add_node_changed_list</item>
-        <item>@string/node_changed_list_manager</item>
-
-        <item>@string/command_raw_tap</item>
-        <item>@string/command_to_previous_focus</item>
-        <item>@string/command_to_next_focus</item>
-        <item>@string/command_start</item>
-        <item>@string/command_end</item>
-        <item>@string/command_left_shortcut</item>
-        <item>@string/command_right_shortcut</item>
-        <item>@string/command_to_previous_scroll</item>
-        <item>@string/command_to_next_scroll</item>
-        <item>@string/command_to_previous_progress</item>
-        <item>@string/command_to_next_progress</item>
-        <item>@string/command_to_previous_section</item>
-        <item>@string/command_to_next_section</item>
-        <item>@string/command_to_previous_link</item>
-        <item>@string/command_to_next_link</item>
-        <item>@string/command_to_previous_control</item>
-        <item>@string/command_to_next_control</item>
-        <item>@string/command_lower_volume</item>
-        <item>@string/command_raise_volume</item>
-        <item>@string/command_now_time</item>
-        <item>@string/command_timer_mode</item>
-        <item>@string/command_current_location</item>
-        <item>@string/command_virtual_screen</item>
-        <item>@string/command_verification</item>
-        <item>@string/command_gesture_help</item>
-        <item>@string/command_trans</item>
-        <item>@string/command_enable_dim_screen</item>
-        <item>@string/clipboard_menu_title</item>
-        <item>@string/favorites_menu_title</item>
-        <item>@string/input_method</item>
-        <item>@string/command_paste</item>
-        <item>@string/command_copy</item>
-        <item>@string/command_long_copy</item>
-        <item>@string/command_append_copy</item>
-        <item>@string/command_clean</item>
-        <item>@string/command_notification_box</item>
-        <item>@string/command_up_tap</item>
-        <item>@string/command_supper_mode</item>
-        <item>@string/command_tap_mode</item>
-        <item>@string/command_node_mode</item>
-        <item>@string/command_to_recents</item>
-        <item>@string/command_to_home</item>
-        <item>@string/command_to_back</item>
-        <item>@string/command_click</item>
-        <item>@string/command_long_click</item>
-        <item>@string/command_long_edit</item>
-        <item>@string/advanced_menu_title</item>
-        <item>@string/quick_menu_title</item>
-        <item>@string/action_menu_title</item>
-        <item>@string/main_menu</item>
-        <item>@string/command_read_mode</item>
-        <item>@string/command_verbatim_speak2</item>
-        <item>@string/char_mode</item>
-        <item>@string/command_auto_next</item>
-        <item>@string/auto_previous</item>
-        <item>@string/split_menu_title</item>
-        <item>@string/split_edit_title</item>
-        <item>@string/list_mode_title</item>
-        <item>@string/command_all_speak</item>
-        <item>@string/all_text_title</item>
-        <item>@string/command_all_select</item>
-        <item>@string/command_voice_helper</item>
-        <item>@string/command_voice_input</item>
-        <item>@string/plugin_title</item>
-        <item>@string/tool_title</item>
-        <item>@string/command_ocr_text</item>
-        <item>@string/command_ocr_focus</item>
-        <item>@string/camera_title</item>
-        <item>@string/main_setting</item>
-        <item>@string/command_disable_touch</item>
-        <item>@string/command_disable_feedback</item>
-        <item>@string/command_to_notifications</item>
-        <item>@string/command_gestures_edit</item>
-        <item>@string/command_virtual_navigation</item>
-        <item>@string/url_menu_title</item>
-        <item>@string/actions</item>
-
-        <item>@string/raw_click</item>
-        <item>@string/raw_long_click</item>
-        <item>@string/raw_swipe_left</item>
-        <item>@string/raw_swipe_right</item>
-        <item>@string/raw_swipe_up</item>
-        <item>@string/raw_swipe_down</item>
-        <item>@string/command_quick_settings</item>
-        <item>@string/command_take_screenshot</item>
-        <item>@string/command_off_screen2</item>
-        <item>@string/command_power_dialog</item>
-        <item>@string/command_raw_double_tap</item>
-        <item>@string/command_to_split_screen</item>
-        <item>@string/switch_multi_finger_gestures</item>
-
-        <item>@string/command_to_next_char</item>
-        <item>@string/command_to_previous_char</item>
-        <item>@string/command_to_next_word</item>
-        <item>@string/command_to_previous_word</item>
-        <item>@string/command_to_next_row</item>
-        <item>@string/command_to_previous_row</item>
-        <item>@string/command_to_next_paragraph</item>
-        <item>@string/command_to_previous_paragraph</item>
-        <item>@string/command_to_head_set_key</item>
-        <item>@string/edit_dict</item>
-        <item>@string/command_toggle_tts_engine</item>
-        <item>@string/command_speak_light</item>
-        <item>@string/command_add_content_blacklist</item>
-
-        <item>@string/command_media_previous</item>
-        <item>@string/command_media_next</item>
-        <item>@string/command_previous_window</item>
-        <item>@string/command_next_window</item>
-
-        </string-array>
-    <string-array name="right_menu_items">
-        <item>@string/command_click</item>
-        <item>@string/command_long_click</item>
-        <item>@string/command_start</item>
-        <item>@string/command_end</item>
-        <item>@string/command_copy</item>
-        <item>@string/command_append_copy</item>
-        <item>@string/command_paste</item>
-        <item>@string/clipboard_menu_title</item>
-        <item>@string/favorites_menu_title</item>
-        <item>@string/split_edit_title</item>
-        <item>@string/command_long_copy</item>
-        <item>@string/command_trans</item>
-        <item>@string/command_verification2</item>
-        <item>@string/command_timer_mode</item>
-        <item>@string/cancel</item>
-    </string-array>
-    <string-array name="left_menu_items">
-        <item>@string/command_auto_next</item>
-        <item>@string/command_read_mode</item>
-        <item>@string/list_mode_title</item>
-        <item>@string/split_menu_title</item>
-        <item>@string/command_verbatim_speak2</item>
-        <item>@string/command_all_speak</item>
-        <item>@string/command_all_select</item>
-        <item>@string/command_ocr_text</item>
-        <item>@string/plugin_title</item>
-        <item>@string/command_notification_box</item>
-        <item>@string/command_to_notifications</item>
-        <item>@string/command_long_edit</item>
-        <item>@string/command_gestures_edit</item>
-        <item>@string/command_virtual_screen</item>
-        <item>@string/cancel</item>
-    </string-array>
     <string-array name="action_menu_items">
         <item>@string/command_clean</item>
         <item>@string/command_select</item>
@@ -171,80 +11,16 @@
         <item>@string/split_edit_title</item>
         <item>@string/command_long_copy</item>
     </string-array>
-    <string-array name="menu_def_items">
-        <item>@string/split_menu_title</item>
-        <item>@string/list_mode_title</item>
-        <item>@string/command_all_speak</item>
-        <item>@string/command_voice_helper</item>
-        <item>@string/plugin_title</item>
-        <item>@string/main_setting</item>
-        <item>@string/command_disable_feedback</item>
+    <string-array name="advanced_menu_items">
+        <item>terjemahan</item>
+        <item>Pengenalan recognition</item>
+        <item>teks recognition</item>
+        <item>Pengenalan wajah</item>
+        <item>CAPTCHA recognition</item>
+        <item>Hasil recognition</item>
+        <item>Deskripsi gambar</item>
     </string-array>
-    <string-array name="menu_items">
-        <item>@string/action_menu_title</item>
-        <item>@string/advanced_menu_title</item>
-        <item>@string/command_auto_next</item>
-        <item>@string/command_read_mode</item>
-        <item>@string/list_mode_title</item>
-        <item>@string/command_node_mode</item>
-        <item>@string/split_menu_title</item>
-        <item>@string/command_verbatim_speak2</item>
-        <item>@string/command_all_speak</item>
-        <item>@string/all_text_title</item>
-        <item>@string/command_all_select</item>
-        <item>@string/command_voice_helper</item>
-        <item>@string/command_ocr_text</item>
-        <item>@string/camera_title</item>
-        <item>@string/plugin_title</item>
-        <item>@string/tool_title</item>
-        <item>@string/main_setting</item>
-        <item>@string/command_disable_touch</item>
-        <item>@string/command_disable_feedback</item>
-        <item>@string/command_notification_box</item>
-        <item>@string/command_to_notifications</item>
-        <item>@string/command_long_edit</item>
-        <item>@string/command_gestures_edit</item>
-        <item>@string/command_enable_dim_screen</item>
-        <item>@string/command_virtual_screen</item>
-        <item>@string/command_quick_mode</item>
-        <item>@string/command_supper_mode</item>
-        <item>@string/command_virtual_navigation</item>
-    </string-array>
-    <string-array name="left_button">
-        <item>Tolak</item>
-        <item>Tolak</item>
-        <item>*Geser untuk menolak panggilan masuk*</item>
-        <item>Akhiri panggilan</item>
-        <item>Tolak panggilan</item>
-        <item>Akhiri panggilan</item>
-        <item>Akhiri panggilan QQ</item>
-        <item>Akhiri panggilan QQ</item>
-        <item>Beralih ke elemen sebelumnya</item>
-        <item>Trek sebelumnya</item>
-        <item>Navigasi ke atas</item>
-    </string-array>
-    <string-array name="right_button">
-        <item>Jawab panggilan</item>
-        <item>*Geser untuk menjawab panggilan*</item>
-        <item>Mode handsfree</item>
-        <item>Mode speaker</item>
-        <item>Beralih ke elemen berikutnya</item>
-        <item>Trek selanjutnya</item>
-    </string-array>
-
-    <string-array name="voice_recognizer_values">
-        <item>3</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="voice_recognizer_entries">
-        <item>Sistem</item>
-        <item>Mesin 1</item>
-        <item>Mesin 2</item>
-        <item>Mesin 3</item>
-    </string-array>
-    <string-array name="tts_values">
+    <string-array name="alarm_hour_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
@@ -270,117 +46,22 @@
         <item>22</item>
         <item>23</item>
         <item>24</item>
-        <item>25</item>
-        <item>26</item>
-        <item>27</item>
-        <item>28</item>
-        <item>29</item>
+    </string-array>
+    <string-array name="alarm_interval_entries">
+        <item>Setiap 5 menit</item>
+        <item>Setiap 10 menit</item>
+        <item>Setiap 15 menit</item>
+        <item>Setiap 30 menit</item>
+        <item>Setiap 60 menit</item>
+    </string-array>
+    <string-array name="alarm_interval_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
         <item>30</item>
-        <item>31</item>
-        <item>32</item>
-        <item>33</item>
-        <item>34</item>
-        <item>35</item>
-        <item>36</item>
-        <item>37</item>
-        <item>38</item>
-        <item>39</item>
-        <item>40</item>
-        <item>41</item>
-        <item>42</item>
-        <item>43</item>
-        <item>44</item>
-        <item>45</item>
-        <item>46</item>
-        <item>47</item>
-        <item>48</item>
-        <item>49</item>
-        <item>50</item>
-        <item>51</item>
-        <item>52</item>
-        <item>53</item>
-        <item>54</item>
-        <item>55</item>
-        <item>56</item>
-        <item>57</item>
-        <item>58</item>
-        <item>59</item>
         <item>60</item>
-        <item>61</item>
-        <item>62</item>
-        <item>63</item>
-        <item>64</item>
-        <item>65</item>
-        <item>66</item>
-        <item>67</item>
-        <item>68</item>
-        <item>69</item>
-        <item>70</item>
-        <item>71</item>
-        <item>72</item>
-        <item>73</item>
-        <item>74</item>
-        <item>75</item>
-        <item>76</item>
-        <item>77</item>
-        <item>78</item>
-        <item>79</item>
-        <item>80</item>
-        <item>81</item>
-        <item>82</item>
-        <item>83</item>
-        <item>84</item>
-        <item>85</item>
-        <item>86</item>
-        <item>87</item>
-        <item>88</item>
-        <item>89</item>
-        <item>90</item>
-        <item>91</item>
-        <item>92</item>
-        <item>93</item>
-        <item>94</item>
-        <item>95</item>
-        <item>96</item>
-        <item>97</item>
-        <item>98</item>
-        <item>99</item>
-        <item>100</item>
     </string-array>
-    <!--string-array name="tts_speaker_title">
-        <item>Suara perempuan</item>
-        <item>suara laki-laki</item>
-        <item>Senang</item>
-        <item>Du ya ya</item>
-    </string-array>
-    <string-array name="tts_speaker">
-        <item>0</item>
-        <item>1</item>
-        <item>3</item>
-        <item>4</item>
-    </string-array-->
-    <string-array name="vibrate_intensity_entries">
-        <item>Paling kecil</item>
-        <item>Kecil</item>
-        <item>Besar</item>
-        <item>Paling besar</item>
-    </string-array>
-    <string-array name="vibrate_intensity_values">
-        <item>12</item>
-        <item>32</item>
-        <item>48</item>
-        <item>64</item>
-    </string-array>
-    <string-array name="long_click_entries">
-        <item>Pendek</item>
-        <item>Medium</item>
-        <item>Panjang</item>
-    </string-array>
-    <string-array name="long_click_values">
-        <item>500</item>
-        <item>750</item>
-        <item>1000</item>
-    </string-array>
+
     <string-array name="edge_gesture_width_entries">
         <item>Kecil</item>
         <item>Medium</item>
@@ -393,25 +74,162 @@
         <item>16</item>
         <item>20</item>
     </string-array>
-    <string-array name="tts_speaker_entries">
-        <item>Xiaoyan</item>
-        <item>Xiaofeng</item>
+    <string-array name="execute_command">
+     <item>@string/command_nothing</item>
+     <item>@string/directory_plugins</item>
+     <item>@string/directory_cmd</item>
+     <item>@string/directory_tools</item>
+     <item>@string/app</item>
+     <item>@string/select_granularity_mode</item>
+     <item>@string/to_previous_granularity</item>
+     <item>@string/to_next_granularity</item>
+     <item>@string/to_previous_granularity_item</item>
+     <item>@string/to_next_granularity_item</item>
+
+     <item>@string/add_node_changed_list</item>
+     <item>@string/node_changed_list_manager</item>
+     <item>@string/command_raw_tap</item>
+     <item>@string/command_to_previous_focus</item>
+     <item>@string/command_to_next_focus</item>
+     <item>@string/command_start</item>
+     <item>@string/command_end</item>
+     <item>@string/command_left_shortcut</item>
+     <item>@string/command_right_shortcut</item>
+     <item>@string/command_to_previous_scroll</item>
+     <item>@string/command_to_next_scroll</item>
+     <item>@string/command_to_previous_progress</item>
+     <item>@string/command_to_next_progress</item>
+     <item>@string/command_to_previous_section</item>
+     <item>@string/command_to_next_section</item>
+     <item>@string/command_to_previous_link</item>
+     <item>@string/command_to_next_link</item>
+     <item>@string/command_to_previous_control</item>
+     <item>@string/command_to_next_control</item>
+     <item>@string/command_lower_volume</item>
+     <item>@string/command_raise_volume</item>
+     <item>@string/command_now_time</item>
+     <item>@string/command_timer_mode</item>
+     <item>@string/command_current_location</item>
+     <item>@string/command_virtual_screen</item>
+     <item>@string/command_verification</item>
+     <item>@string/command_gesture_help</item>
+     <item>@string/command_trans</item>
+     <item>@string/command_enable_dim_screen</item>
+     <item>@string/clipboard_menu_title</item>
+     <item>@string/favorites_menu_title</item>
+     <item>@string/input_method</item>
+     <item>@string/command_paste</item>
+     <item>@string/command_copy</item>
+     <item>@string/command_long_copy</item>
+     <item>@string/command_append_copy</item>
+     <item>@string/command_clean</item>
+     <item>@string/command_notification_box</item>
+     <item>@string/command_up_tap</item>
+     <item>@string/command_supper_mode</item>
+     <item>@string/command_tap_mode</item>
+     <item>@string/command_node_mode</item>
+     <item>@string/command_to_recents</item>
+     <item>@string/command_to_home</item>
+     <item>@string/command_to_back</item>
+     <item>@string/command_click</item>
+     <item>@string/command_long_click</item>
+     <item>@string/command_long_edit</item>
+     <item>@string/advanced_menu_title</item>
+     <item>@string/quick_menu_title</item>
+     <item>@string/action_menu_title</item>
+     <item>@string/main_menu</item>
+     <item>@string/command_read_mode</item>
+     <item>@string/command_verbatim_speak2</item>
+     <item>@string/char_mode</item>
+     <item>@string/command_auto_next</item>
+     <item>@string/auto_previous</item>
+     <item>@string/split_menu_title</item>
+     <item>@string/split_edit_title</item>
+     <item>@string/list_mode_title</item>
+     <item>@string/command_all_speak</item>
+     <item>@string/all_text_title</item>
+     <item>@string/command_all_select</item>
+     <item>@string/command_voice_helper</item>
+     <item>@string/command_voice_input</item>
+     <item>@string/plugin_title</item>
+     <item>@string/tool_title</item>
+     <item>@string/command_ocr_text</item>
+     <item>@string/command_ocr_focus</item>
+     <item>@string/camera_title</item>
+     <item>@string/main_setting</item>
+     <item>@string/command_disable_touch</item>
+     <item>@string/command_disable_feedback</item>
+     <item>@string/command_to_notifications</item>
+     <item>@string/command_gestures_edit</item>
+     <item>@string/command_virtual_navigation</item>
+     <item>@string/url_menu_title</item>
+     <item>@string/actions</item>
+
+     <item>@string/raw_click</item>
+     <item>@string/raw_long_click</item>
+     <item>@string/raw_swipe_left</item>
+     <item>@string/raw_swipe_right</item>
+     <item>@string/raw_swipe_up</item>
+     <item>@string/raw_swipe_down</item>
+     <item>@string/command_quick_settings</item>
+     <item>@string/command_take_screenshot</item>
+     <item>@string/command_off_screen2</item>
+     <item>@string/command_power_dialog</item>
+     <item>@string/command_raw_double_tap</item>
+     <item>@string/command_to_split_screen</item>
+     <item>@string/switch_multi_finger_gestures</item>
+
+     <item>@string/command_to_next_char</item>
+     <item>@string/command_to_previous_char</item>
+     <item>@string/command_to_next_word</item>
+     <item>@string/command_to_previous_word</item>
+     <item>@string/command_to_next_row</item>
+     <item>@string/command_to_previous_row</item>
+     <item>@string/command_to_next_paragraph</item>
+     <item>@string/command_to_previous_paragraph</item>
+     <item>@string/command_to_head_set_key</item>
+     <item>@string/edit_dict</item>
+     <item>@string/command_toggle_tts_engine</item>
+     <item>@string/command_speak_light</item>
+     <item>@string/command_add_content_blacklist</item>
+
+     <item>@string/command_media_previous</item>
+     <item>@string/command_media_next</item>
+     <item>@string/command_previous_window</item>
+     <item>@string/command_next_window</item>
+     <item>@string/command_set_tts_engine</item>
+     <item>@string/profiles_title</item>
+     <item>@string/use_ocr_title</item>
+
+        <item>@string/command_speak</item>
+        <item>@string/command_battery</item>
     </string-array>
-    <string-array name="tts_speaker_values">
-        <item>xiaoyan</item>
-        <item>xiaofeng</item>
-    </string-array>
-    <string-array name="advanced_menu_items">
-        <item>terjemahan</item>
-        <item>Pengenalan recognition</item>
-        <item>teks recognition</item>
-        <item>Pengenalan wajah</item>
-        <item>CAPTCHA recognition</item>
-        <item>Hasil recognition</item>
-        <item>Deskripsi gambar</item>
+
+    <string-array name="hot_key_help_items">
+        <item>Pindah ke item di atas</item>
+        <item>Pindah ke item dibawah</item>
+        <item>Pindah ke item sebelumnya</item>
+        <item>Pindah ke item selanjutnya</item>
+        <item>Kebawah</item>
+        <item>Ke atas</item>
+        <item>Kembali ke layar depan</item>
+        <item>Buka panel notifikasi</item>
+        <item>Buka menu aplikasi yang sedang digunakan</item>
+        <item>klik</item>
+        <item>Klik dan tahan</item>
+        <item>Pengaturan cepat</item>
+        <item>Menu utama</item>
+        <item>Menu lokal</item>
+        <item>menu plugin</item>
+        <item>ALT+T: 扩展工具</item>
+        <item>asisten suara</item>
+        <item>split text editing</item>
+        <item>Bergulir di daftar</item>
     </string-array>
     <string-array name="lang_entries">
         <item>auto</item>
+        <item>Indonesia</item>
+        <item>jawa</item>
         <item>Korea</item>
         <item>Cina sederhana</item>
         <item>Cina tradisional</item>
@@ -440,7 +258,6 @@
         <item>Swedia</item>
         <item>Polandia</item>
         <item>Vietnam</item>
-
         <item>爱尔兰语</item>
         <item>奥克语</item>
         <item>阿尔巴尼亚语</item>
@@ -598,7 +415,6 @@
         <item>叙利亚语</item>
         <item>巽他语</item>
         <item>印地语</item>
-        <item>印尼语</item>
         <item>意第绪语</item>
         <item>因特语</item>
         <item>亚齐语</item>
@@ -612,10 +428,11 @@
         <item>扎扎其语</item>
         <item>中古法语</item>
         <item>祖鲁语</item>
-        <item>爪哇语</item>
     </string-array>
     <string-array name="lang_values">
         <item>auto</item>
+        <item>id</item>
+        <item>jav</item>
         <item>kor</item>
         <item>wyw</item>
         <item>cht</item>
@@ -644,7 +461,6 @@
         <item>swe</item>
         <item>pl</item>
         <item>vie</item>
-
         <item>gle</item>
         <item>oci</item>
         <item>alb</item>
@@ -802,7 +618,6 @@
         <item>syr</item>
         <item>sun</item>
         <item>hi</item>
-        <item>id</item>
         <item>yid</item>
         <item>ina</item>
         <item>ach</item>
@@ -816,46 +631,120 @@
         <item>zaz</item>
         <item>frm</item>
         <item>zul</item>
-        <item>jav</item>
     </string-array>
-
-    <string-array name="tts_engine_values">
-        <item>sistem</item>
-        <item>unisound</item>
+    <string-array name="left_button">
+        <item>Tolak</item>
+        <item>Tolak</item>
+        <item>*Geser untuk menolak panggilan masuk*</item>
+        <item>Akhiri panggilan</item>
+        <item>Tolak panggilan</item>
+        <item>Akhiri panggilan</item>
+        <item>Akhiri panggilan QQ</item>
+        <item>Akhiri panggilan QQ</item>
+        <item>Beralih ke elemen sebelumnya</item>
+        <item>Trek sebelumnya</item>
+        <item>Navigasi ke atas</item>
     </string-array>
-    <string-array name="tts_engine_entries">
-        <item>Sistem teks ke ucapan</item>
-        <item>Yunzhisheng teks ke ucapan</item>
+    <string-array name="left_menu_items">
+        <item>@string/command_auto_next</item>
+        <item>@string/command_read_mode</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/split_menu_title</item>
+        <item>@string/command_verbatim_speak2</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/command_all_select</item>
+        <item>@string/command_ocr_text</item>
+        <item>@string/plugin_title</item>
+        <item>@string/command_notification_box</item>
+        <item>@string/command_to_notifications</item>
+        <item>@string/command_long_edit</item>
+        <item>@string/command_gestures_edit</item>
+        <item>@string/command_virtual_screen</item>
+        <item>@string/cancel</item>
     </string-array>
-    <string-array name="tts_engine_vip_values">
-        <item>sistem</item>
-        <item>iflytek</item>
-        <item>unisound</item>
+    <string-array name="long_click_entries">
+        <item>Pendek</item>
+        <item>Medium</item>
+        <item>Panjang</item>
     </string-array>
-    <string-array name="tts_engine_vip_entries">
-        <item>System teks ke ucapan</item>
-        <item>Xunfei teks ke ucapan</item>
-        <item>Yunzhisheng teks ke ucapan</item>
+    <string-array name="long_click_values">
+        <item>500</item>
+        <item>750</item>
+        <item>1000</item>
     </string-array>
-    <string-array name="alarm_interval_values">
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>30</item>
-        <item>60</item>
+    <string-array name="menu_def_items">
+        <item>@string/split_menu_title</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/command_voice_helper</item>
+        <item>@string/plugin_title</item>
+        <item>@string/main_setting</item>
+        <item>@string/command_disable_feedback</item>
     </string-array>
-    <string-array name="alarm_interval_entries">
-        <item>Setiap 5 menit</item>
-        <item>Setiap 10 menit</item>
-        <item>Setiap 15 menit</item>
-        <item>Setiap 30 menit</item>
-        <item>Setiap 60 menit</item>
+    <string-array name="menu_items">
+        <item>@string/action_menu_title</item>
+        <item>@string/advanced_menu_title</item>
+        <item>@string/command_auto_next</item>
+        <item>@string/command_read_mode</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/command_node_mode</item>
+        <item>@string/split_menu_title</item>
+        <item>@string/command_verbatim_speak2</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/all_text_title</item>
+        <item>@string/command_all_select</item>
+        <item>@string/command_voice_helper</item>
+        <item>@string/command_ocr_text</item>
+        <item>@string/camera_title</item>
+        <item>@string/plugin_title</item>
+        <item>@string/tool_title</item>
+        <item>@string/main_setting</item>
+        <item>@string/command_disable_touch</item>
+        <item>@string/command_disable_feedback</item>
+        <item>@string/command_notification_box</item>
+        <item>@string/command_to_notifications</item>
+        <item>@string/command_long_edit</item>
+        <item>@string/command_gestures_edit</item>
+        <item>@string/command_enable_dim_screen</item>
+        <item>@string/command_virtual_screen</item>
+        <item>@string/command_quick_mode</item>
+        <item>@string/command_supper_mode</item>
+        <item>@string/command_virtual_navigation</item>
     </string-array>
-    <string-array name="timer_interval_values">
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
+    <string-array name="recognizer_lang_entries">
+        <item>Cina sederhana</item>
+        <item>Cina tradisional</item>
+        <item>Inggris</item>
+    </string-array>
+    <string-array name="recognizer_lang_values">
+        <item>zh_CN</item>
+        <item>zh_GD</item>
+        <item>en_GB</item>
+    </string-array>
+    <string-array name="right_button">
+        <item>Jawab panggilan</item>
+        <item>*Geser untuk menjawab panggilan*</item>
+        <item>Mode handsfree</item>
+        <item>Mode speaker</item>
+        <item>Beralih ke elemen berikutnya</item>
+        <item>Trek selanjutnya</item>
+    </string-array>
+    <string-array name="right_menu_items">
+        <item>@string/command_click</item>
+        <item>@string/command_long_click</item>
+        <item>@string/command_start</item>
+        <item>@string/command_end</item>
+        <item>@string/command_copy</item>
+        <item>@string/command_append_copy</item>
+        <item>@string/command_paste</item>
+        <item>@string/clipboard_menu_title</item>
+        <item>@string/favorites_menu_title</item>
+        <item>@string/split_edit_title</item>
+        <item>@string/command_long_copy</item>
+        <item>@string/command_trans</item>
+        <item>@string/command_verification2</item>
+        <item>@string/command_timer_mode</item>
+        <item>@string/cancel</item>
     </string-array>
     <string-array name="timer_interval_entries">
         <item>1 menit</item>
@@ -863,7 +752,53 @@
         <item>10 menit</item>
         <item>15 menit</item>
     </string-array>
-    <string-array name="alarm_hour_values">
+    <string-array name="timer_interval_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+    </string-array>
+    <string-array name="tts_engine_entries">
+        <item>Sistem teks ke ucapan</item>
+        <item>Yunzhisheng teks ke ucapan</item>
+    </string-array>
+    <string-array name="tts_engine_values">
+        <item>sistem</item>
+        <item>unisound</item>
+    </string-array>
+    <string-array name="tts_engine_vip_entries">
+        <item>System teks ke ucapan</item>
+        <item>Xunfei teks ke ucapan</item>
+        <item>Yunzhisheng teks ke ucapan</item>
+    </string-array>
+    <string-array name="tts_engine_vip_values">
+        <item>sistem</item>
+        <item>iflytek</item>
+        <item>unisound</item>
+    </string-array>
+    <string-array name="tts_scale_entries">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="tts_scale_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="tts_speaker_entries">
+        <item>Xiaoyan</item>
+        <item>Xiaofeng</item>
+    </string-array>
+    <string-array name="tts_speaker_values">
+        <item>xiaoyan</item>
+        <item>xiaofeng</item>
+    </string-array>
+    <string-array name="tts_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
@@ -889,112 +824,160 @@
         <item>22</item>
         <item>23</item>
         <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+        <item>64</item>
+        <item>65</item>
+        <item>66</item>
+        <item>67</item>
+        <item>68</item>
+        <item>69</item>
+        <item>70</item>
+        <item>71</item>
+        <item>72</item>
+        <item>73</item>
+        <item>74</item>
+        <item>75</item>
+        <item>76</item>
+        <item>77</item>
+        <item>78</item>
+        <item>79</item>
+        <item>80</item>
+        <item>81</item>
+        <item>82</item>
+        <item>83</item>
+        <item>84</item>
+        <item>85</item>
+        <item>86</item>
+        <item>87</item>
+        <item>88</item>
+        <item>89</item>
+        <item>90</item>
+        <item>91</item>
+        <item>92</item>
+        <item>93</item>
+        <item>94</item>
+        <item>95</item>
+        <item>96</item>
+        <item>97</item>
+        <item>98</item>
+        <item>99</item>
+        <item>100</item>
     </string-array>
-    <string-array name="recognizer_lang_entries">
-        <item>Cina sederhana</item>
-        <item>Cina tradisional</item>
-        <item>Inggris</item>
+    <string-array name="vibrate_intensity_entries">
+        <item>Paling kecil</item>
+        <item>Kecil</item>
+        <item>Besar</item>
+        <item>Paling besar</item>
     </string-array>
-    <string-array name="recognizer_lang_values">
-        <item>zh_CN</item>
-        <item>zh_GD</item>
-        <item>en_GB</item>
+    <string-array name="vibrate_intensity_values">
+        <item>12</item>
+        <item>32</item>
+        <item>48</item>
+        <item>64</item>
     </string-array>
-    <string-array name="tts_scale_values">
+    <string-array name="view_type_title">
+        <item>Default</item>
+        <item>teks</item>
+        <item>tombol</item>
+        <item>kotak edit</item>
+        <item>gambar</item>
+        <item>kotak centang</item>
+        <item>progress indicator</item>
+        <item>tabel kolom</item>
+        <item>daftar</item>
+        <item>item daftar</item>
+        <item>dapat diklik</item>
+        <item>node</item>
+        <item>scroll penggeser</item>
+        <item>bergerak vertikal</item>
+        <item>Karakter</item>
+        <item>kata</item>
+        <item>baris</item>
+        <item>paragraf</item>
+        <item>halaman</item>
+        <item>salin</item>
+        <item>volume media</item>
+        <item>kecepatan ucapan</item>
+        <item>terjemah</item>
+        <item>jendela</item>
+    </string-array>
+
+    <string-array name="voice_recognizer_entries">
+        <item>Sistem</item>
+        <item>Mesin 1</item>
+        <item>Mesin 2</item>
+        <item>Mesin 3</item>
+    </string-array>
+    <string-array name="voice_recognizer_values">
+        <item>3</item>
+        <item>0</item>
         <item>1</item>
         <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-    </string-array>
-    <string-array name="tts_scale_entries">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
     </string-array>
     <string-array name="web_type_title">
         <item>Default</item>
         <item>Judul</item>
         <item>Tautan</item>
         <item>Tombol</item>
-
-        <item>地标</item>
-        <item>编辑框</item>
-        <item>焦点</item>
-        <item>控件</item>
-        <item>图片</item>
-        <item>复选框</item>
-        <item>组合框</item>
-        <item>表格</item>
-        <item>列表</item>
-        <item>列表项</item>
-
+        <item>landmark</item>
+        <item>kotak edit</item>
+        <item>fokus</item>
+        <item>kontrol</item>
+        <item>gambar</item>
+        <item>kotak centang</item>
+        <item>kotak pilihan</item>
+        <item>formulir</item>
+        <item>tabel kolom</item>
+        <item>daftar</item>
         <item>Gulir</item>
         <item>Lihat</item>
-
-        <item>字</item>
-        <item>词</item>
-        <item>行</item>
-        <item>段</item>
-        <item>页</item>
-        <item>复制</item>
-        <item>音量</item>
-        <item>语速</item>
-        <item>识别翻译</item>
-        <item>窗口</item>
+        <item>Karakter</item>
+        <item>kata</item>
+        <item>baris</item>
+        <item>paragraf</item>
+        <item>halaman</item>
+        <item>salin</item>
+        <item>volume media</item>
+        <item>kecepatan ucapan</item>
+        <item>terjemahan</item>
+        <item>jendela</item>
     </string-array>
-    <string-array name="hot_key_help_items">
-			<item>Pindah ke item di atas</item>
-			<item>Pindah ke item dibawah</item>
-			<item>Pindah ke item sebelumnya</item>
-			<item>Pindah ke item selanjutnya</item>
-			<item>Kebawah</item>
-			<item>Ke atas</item>
-			<item>Kembali ke layar depan</item>
-			<item>Buka panel notifikasi</item>
-			<item>Buka menu aplikasi yang sedang digunakan</item>
-			<item>klik</item>
-			<item>Klik dan tahan</item>
-			<item>Pengaturan cepat</item>
-			<item>Menu utama</item>
-			<item>Menu lokal</item>
-			<item>menu plugin</item>
-			<item>ALT+T: 扩展工具</item>
-			<item>asisten suara</item>
-			<item>split text editing</item>
-			<item>Bergulir di daftar</item>
-		</string-array>
-      <string-array name="view_type_title" >
-        <item>默认</item>
-        <item>文本</item>
-        <item>按钮</item>
-        <item>编辑框</item>
-
-        <item>图片</item>
-        <item>复选框</item>
-        <item>进度条</item>
-        <item>列表</item>
-        <item>列表项</item>
-        <item>可聚焦</item>
-        <item>可点击</item>
-        <item>节点</item>
-        <item>滚动</item>
-        <item>垂直移动</item>
-
-        <item>字</item>
-        <item>词</item>
-        <item>行</item>
-        <item>段</item>
-        <item>页</item>
-        <item>复制</item>
-        <item>音量</item>
-        <item>语速</item>
-        <item>识别翻译</item>
-        <item>窗口</item>
-
-    </string-array>
-
-    <string name="command_add_content_blacklist">添加内容黑名单</string>
 </resources>

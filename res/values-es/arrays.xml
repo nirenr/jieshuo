@@ -10,7 +10,7 @@
         <item>@string/to_previous_granularity</item>
         <item>@string/to_next_granularity</item>
         <item>@string/to_previous_granularity_item</item>
-       <item>@string/to_next_granularity_item</item>
+        <item>@string/to_next_granularity_item</item>
 
         <item>@string/add_node_changed_list</item>
         <item>@string/node_changed_list_manager</item>
@@ -124,8 +124,12 @@
         <item>@string/command_media_next</item>
         <item>@string/command_previous_window</item>
         <item>@string/command_next_window</item>
+        <item>@string/command_set_tts_engine</item>
+        <item>@string/profiles_title</item>
+        <item>@string/use_ocr_title</item>
 
-        </string-array>
+        <!--item>Quick browsing mode</item-->
+    </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
         <item>@string/command_long_click</item>
@@ -402,7 +406,7 @@
         <item>xiaofeng</item>
     </string-array>
     <string-array name="advanced_menu_items">
-        <item>traducción</item>
+        <item>Traducir</item>
         <item>Reconocer Escenas</item>
         <item>Reconocimiento de texto</item>
         <item>Reconocimiento de rostros</item>
@@ -441,178 +445,178 @@
         <item>Polaco</item>
         <item>Vietnamita</item>
 
-        <item>爱尔兰语</item>
-        <item>奥克语</item>
-        <item>阿尔巴尼亚语</item>
-        <item>阿肯语</item>
-        <item>阿拉贡语</item>
-        <item>阿姆哈拉语</item>
-        <item>阿萨姆语</item>
-        <item>艾马拉语</item>
-        <item>阿塞拜疆语</item>
-        <item>阿斯图里亚斯语</item>
-        <item>奥塞梯语</item>
-        <item>奥杰布瓦语</item>
-        <item>奥里亚语</item>
-        <item>奥罗莫语</item>
-        <item>波斯语</item>
-        <item>布列塔尼语</item>
-        <item>巴什基尔语</item>
-        <item>巴斯克语</item>
-        <item>巴西葡萄牙语</item>
-        <item>白俄罗斯语</item>
-        <item>柏柏尔语</item>
-        <item>邦板牙语</item>
-        <item>北方萨米语</item>
-        <item>北索托语</item>
-        <item>本巴语</item>
-        <item>比林语</item>
-        <item>比斯拉马语</item>
-        <item>俾路支语</item>
-        <item>冰岛语</item>
-        <item>波斯尼亚语</item>
-        <item>博杰普尔语</item>
-        <item>楚瓦什语</item>
-        <item>聪加语</item>
-        <item>鞑靼语</item>
-        <item>掸语</item>
-        <item>德顿语</item>
-        <item>迪维希语</item>
-        <item>低地德语</item>
-        <item>菲律宾语</item>
-        <item>梵语</item>
-        <item>弗留利语</item>
-        <item>富拉尼语</item>
-        <item>法罗语</item>
-        <item>盖尔语</item>
-        <item>刚果语</item>
-        <item>高地索布语</item>
-        <item>高棉语</item>
-        <item>格陵兰语</item>
-        <item>格鲁吉亚语</item>
-        <item>古吉拉特语</item>
-        <item>古希腊语</item>
-        <item>古英语</item>
-        <item>瓜拉尼语</item>
-        <item>胡帕语</item>
-        <item>哈卡钦语</item>
-        <item>海地语</item>
-        <item>豪萨语</item>
-        <item>黑山语</item>
-        <item>吉尔吉斯语</item>
-        <item>加利西亚语</item>
-        <item>加拿大法语</item>
-        <item>加泰罗尼亚语</item>
-        <item>卡拜尔语</item>
-        <item>卡纳达语</item>
-        <item>卡努里语</item>
-        <item>卡舒比语</item>
-        <item>康瓦尔语</item>
-        <item>科萨语</item>
-        <item>科西嘉语</item>
-        <item>克里克语</item>
-        <item>克里米亚鞑靼语</item>
-        <item>克林贡语</item>
-        <item>克罗地亚语</item>
-        <item>克丘亚语</item>
-        <item>克什米尔语</item>
-        <item>孔卡尼语</item>
-        <item>库尔德语</item>
-        <item>拉丁语</item>
-        <item>老挝语</item>
-        <item>拉特加莱语</item>
-        <item>拉脱维亚语</item>
-        <item>林堡语</item>
-        <item>林加拉语</item>
-        <item>卢干达语</item>
-        <item>卢森堡语</item>
-        <item>卢森尼亚语</item>
-        <item>卢旺达语</item>
-        <item>立陶宛语</item>
-        <item>罗曼什语</item>
-        <item>罗姆语</item>
-        <item>逻辑语</item>
-        <item>马来语</item>
-        <item>缅甸语</item>
-        <item>马拉地语</item>
-        <item>马拉加斯语</item>
-        <item>马拉雅拉姆语</item>
-        <item>马其顿语</item>
-        <item>马绍尔语</item>
-        <item>迈蒂利语</item>
-        <item>曼克斯语</item>
-        <item>毛里求斯克里奥尔语</item>
-        <item>毛利语</item>
-        <item>孟加拉语</item>
-        <item>马耳他语</item>
-        <item>苗语</item>
-        <item>挪威语</item>
-        <item>那不勒斯语</item>
-        <item>南恩德贝莱语</item>
-        <item>南非荷兰语</item>
-        <item>南索托语</item>
-        <item>尼泊尔语</item>
-        <item>旁遮普语</item>
-        <item>帕皮阿门托语</item>
-        <item>普什图语</item>
-        <item>齐切瓦语</item>
-        <item>契维语</item>
-        <item>切罗基语</item>
-        <item>萨丁尼亚语</item>
-        <item>萨摩亚语</item>
-        <item>塞尔维亚-克罗地亚语</item>
-        <item>塞尔维亚语</item>
-        <item>桑海语</item>
-        <item>僧伽罗语</item>
-        <item>世界语</item>
-        <item>书面挪威语</item>
-        <item>斯洛伐克语</item>
-        <item>斯瓦希里语</item>
-        <item>索马里语</item>
-        <item>塞尔维亚语（西里尔）</item>
-        <item>土耳其语</item>
-        <item>塔吉克语</item>
-        <item>泰米尔语</item>
-        <item>他加禄语</item>
-        <item>提格利尼亚语</item>
-        <item>泰卢固语</item>
-        <item>突尼斯阿拉伯语</item>
-        <item>土库曼语</item>
-        <item>乌克兰语</item>
-        <item>瓦隆语</item>
-        <item>威尔士语</item>
-        <item>文达语</item>
-        <item>沃洛夫语</item>
-        <item>乌尔都语</item>
-        <item>希伯来语</item>
-        <item>西弗里斯语</item>
-        <item>西里西亚语</item>
-        <item>希利盖农语</item>
-        <item>下索布语</item>
-        <item>夏威夷语</item>
-        <item>新挪威语</item>
-        <item>西非书面语</item>
-        <item>信德语</item>
-        <item>修纳语</item>
-        <item>宿务语</item>
-        <item>叙利亚语</item>
-        <item>巽他语</item>
-        <item>印地语</item>
-        <item>印尼语</item>
-        <item>意第绪语</item>
-        <item>因特语</item>
-        <item>亚齐语</item>
-        <item>印古什语</item>
-        <item>伊博语</item>
-        <item>伊多语</item>
-        <item>约鲁巴语</item>
-        <item>亚美尼亚语</item>
-        <item>伊努克提图特语</item>
-        <item>伊朗语</item>
-        <item>扎扎其语</item>
-        <item>中古法语</item>
-        <item>祖鲁语</item>
-        <item>爪哇语</item>
+        <item>Irlandés</item>
+        <item>Occitano</item>
+        <item>Albanés</item>
+        <item>Akan</item>
+        <item>Aragonés</item>
+        <item>Amárico</item>
+        <item>Asamés</item>
+        <item>Aymara</item>
+        <item>Azerbaiyano</item>
+        <item>Asturiano</item>
+        <item>Osetio</item>
+        <item>Ojebwa</item>
+        <item>Oriya</item>
+        <item>Oromo</item>
+        <item>Persa</item>
+        <item>Inglés británico</item>
+        <item>Bashkir</item>
+        <item>Vasco</item>
+        <item>Portugués brasileño</item>
+        <item>Bielorruso</item>
+        <item>Bereber</item>
+        <item>Pampango</item>
+        <item>Sami del norte</item>
+        <item>Soto septentrional</item>
+        <item>Bumba</item>
+        <item>Bilin</item>
+        <item>Bislama</item>
+        <item>Baluchi</item>
+        <item>Islandés</item>
+        <item>Bosnio</item>
+        <item>Bhojpur</item>
+        <item>Chuvashi</item>
+        <item>Tsunga</item>
+        <item>Tártaro</item>
+        <item>Shan</item>
+        <item>Teton</item>
+        <item>Dhivehi</item>
+        <item>Bajo alemán</item>
+        <item>Filipino</item>
+        <item>Sánscrito</item>
+        <item>Friuli</item>
+        <item>Fulani</item>
+        <item>Islas Feroe</item>
+        <item>Gaélico</item>
+        <item>Congo</item>
+        <item>Sorabo de las tierras altas</item>
+        <item>Camboyano</item>
+        <item>Groelandés</item>
+        <item>Georgiano</item>
+        <item>Guyaratí</item>
+        <item>Griego tradicional</item>
+        <item>Inglés tradicional</item>
+        <item>Guaraní</item>
+        <item>Hupa</item>
+        <item>Hakachin</item>
+        <item>Haitiano</item>
+        <item>Hausa</item>
+        <item>Montenegrino</item>
+        <item>Kirguís</item>
+        <item>Gallego</item>
+        <item>Francés canadiense</item>
+        <item>Catalán</item>
+        <item>Kabyle</item>
+        <item>Canarés</item>
+        <item>Kanuri</item>
+        <item>Casubio</item>
+        <item>Cornualles</item>
+        <item>Xhosa</item>
+        <item>Corso</item>
+        <item>Crick</item>
+        <item>Tártaro de Crimea</item>
+        <item>Klingon</item>
+        <item>Croata</item>
+        <item>Quechua</item>
+        <item>Cachemira</item>
+        <item>Konkani</item>
+        <item>Kurdo</item>
+        <item>Latín</item>
+        <item>Laosiano</item>
+        <item>Latjalai</item>
+        <item>Letón</item>
+        <item>Limburgués</item>
+        <item>Lingala</item>
+        <item>Luganda</item>
+        <item>Luxemburgués</item>
+        <item>Ruso</item>
+        <item>Kinyaruanda</item>
+        <item>Lituano</item>
+        <item>Romanche</item>
+        <item>Romano</item>
+        <item>Lenguaje lógico</item>
+        <item>Malayo</item>
+        <item>Birmano</item>
+        <item>Maratí</item>
+        <item>Madagascarí</item>
+        <item>Malayalam</item>
+        <item>Macedonio</item>
+        <item>Marshalés</item>
+        <item>Maitili</item>
+        <item>Manks</item>
+        <item>Criollo de Mauricio</item>
+        <item>Maorí</item>
+        <item>Bengalí</item>
+        <item>Maltés</item>
+        <item>Mongol</item>
+        <item>Noruego</item>
+        <item>Napolitano</item>
+        <item>Ndebele del sur</item>
+        <item>Africans</item>
+        <item>Soto del sur</item>
+        <item>Nepalí</item>
+        <item>Punfabi</item>
+        <item>Papiamento</item>
+        <item>Pastún</item>
+        <item>Chichewa</item>
+        <item>Thivi</item>
+        <item>Cherokee</item>
+        <item>Sardo</item>
+        <item>Samoano</item>
+        <item>Servio-Croata</item>
+        <item>Servio</item>
+        <item>Sanghay</item>
+        <item>Singalés</item>
+        <item>Esperanto</item>
+        <item>Noruego escrito</item>
+        <item>Eslovaco</item>
+        <item>Suajili</item>
+        <item>Somalí</item>
+        <item>Serbio (cirílico)</item>
+        <item>Turco</item>
+        <item>Taiyico</item>
+        <item>Tamil</item>
+        <item>Tagalo</item>
+        <item>Tigrinya</item>
+        <item>Telugo</item>
+        <item>Arabe tunecino</item>
+        <item>Turcomano</item>
+        <item>Ucraniano</item>
+        <item>Valonia</item>
+        <item>Galés</item>
+        <item>Venda</item>
+        <item>Wolof</item>
+        <item>Urdu</item>
+        <item>Hebreo</item>
+        <item>Frisón occidental</item>
+        <item>Silesia</item>
+        <item>Hiligeanon</item>
+        <item>Bajo sorabo</item>
+        <item>Hawaiano</item>
+        <item>Nuevo noruego</item>
+        <item>Lengua escrita de áfrica occidental</item>
+        <item>Sindi</item>
+        <item>Shona</item>
+        <item>Cebuano</item>
+        <item>Sirio</item>
+        <item>Sundanés</item>
+        <item>Indi</item>
+        <item>Indonesio</item>
+        <item>Yiddish</item>
+        <item>Idioma de internet</item>
+        <item>Haceh</item>
+        <item>Ingush</item>
+        <item>Igbo</item>
+        <item>Multilingual</item>
+        <item>Yoruba</item>
+        <item>Armenio</item>
+        <item>Inuktitut</item>
+        <item>Iraní</item>
+        <item>Sasaki</item>
+        <item>Francés medio</item>
+        <item>Zulú</item>
+        <item>Javanés</item>
     </string-array>
     <string-array name="lang_values">
         <item>auto</item>
@@ -828,7 +832,7 @@
         <item>Yunzhisheng TTS</item>
     </string-array>
     <string-array name="tts_engine_vip_values">
-        <item>sistema</item>
+        <item>system</item>
         <item>iflytek</item>
         <item>unisound</item>
     </string-array>
@@ -923,7 +927,7 @@
         <item>Emfoque</item>
         <item>Edición</item>
         <item>Foco</item>
-        <item>Control</item>
+        <item>Controles</item>
         <item>Enlace</item>
         <item>Casilla de berificación</item>
         <item>Título</item>
@@ -936,27 +940,27 @@
 
         <item>Carácter</item>
         <item>Palabra</item>
-        <item>Linia</item>
+        <item>Líneaa</item>
         <item>Párrafo</item>
         <item>Página</item>
         <item>Copiar</item>
-        <item>volumen de vos</item>
-        <item>Belocidad de vos</item>
-        <item>Reconosimiento de traducción</item>
-        <item>窗口</item>
+        <item>volumen de voz</item>
+        <item>Velocidad de voz</item>
+        <item>Traducción y reconocimiento de texto</item>
+        <item>Ventana</item>
     </string-array>
 
     <string-array name="hot_key_help_items" >
-        <item>CTRL+DPAD_UP: Último elemento</item>
-        <item>CTRL+DPAD_DOWN: Siguiente foco</item>
-        <item>CTRL+DPAD_LEFT: Función de axéso directo a la isquierda</item>
-        <item>CTRL+DPAD_RIGHT: función de axéso directo a la derecha</item>
-        <item>CTRL+PAGE_UP: Desplazarse hacia arriba</item>
-        <item>CTRL+PAGE_DOWN:Desplazarse hacia abajo</item>
+        <item>CTR`+FLECHA ARRIBA: Último elemento</item>
+        <item>CTRL+FLECHA ABAJO: Siguiente foco</item>
+        <item>CTRL+FLECHA IZQUIERDA: Función de axéso directo a la isquierda</item>
+        <item>CTRL+FLECHA DERECHA: función de axéso directo a la derecha</item>
+        <item>CTRL+Pagina HACIA ARRIBA: Desplazarse hacia arriba</item>
+        <item>CTRL+Pagina HACIA ABAJO:Desplazarse hacia abajo</item>
         <item>CTRL+H: Inicio</item>
         <item>CTRL+N: Pantalla de notificaciones</item>
         <item>CTRL+P: Recientes</item>
-        <item>CTRL+SPACE: Hacer click</item>
+        <item>CTRL+Espacio: Hacer click</item>
         <item>CTRL+L: Pulsación prolongada</item>
         <item>CTRL+Q: Ajustes rápidos</item>
 
@@ -979,7 +983,7 @@
         <item>Casillas de verificación</item>
         <item>Barras de progreso</item>
         <item>Elementos de lista</item>
-        <item>Elementos de lista</item>
+        <item>Listas</item>
         <item>Foco</item>
         <item>Selección</item>
         <item>Nodo</item>
@@ -995,7 +999,7 @@
         <item>Volúmen multimedia</item>
         <item>Velocidad de voz</item>
         <item>Traducción y reconocimiento de texto</item>
-        <item>窗口</item>
+        <item>Ventana</item>
 
     </string-array>
 

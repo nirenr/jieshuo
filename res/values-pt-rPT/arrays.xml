@@ -124,6 +124,10 @@
         <item>@string/command_media_next</item>
         <item>@string/command_previous_window</item>
         <item>@string/command_next_window</item>
+        <item>@string/command_set_tts_engine</item>
+        <item>@string/profiles_title</item>
+        <item>@string/use_ocr_title</item>
+
 
         </string-array>
     <string-array name="right_menu_items">
@@ -943,7 +947,7 @@
         <item>volume</item>
         <item>Velocidade de fala</item>
         <item>Traduzir</item>
-        <item>窗口</item>
+        <item>Janela</item>
     </string-array>
 
     <string-array name="hot_key_help_items" >
@@ -995,10 +999,9 @@
         <item>volume</item>
         <item>Velocidade de fala</item>
         <item>Traduzir</item>
-        <item>窗口</item>
+        <item>Janela</item>
 
     </string-array>
 
 
-    <string name="command_add_content_blacklist">添加内容黑名单</string>
 </resources>

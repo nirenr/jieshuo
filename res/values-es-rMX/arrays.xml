@@ -124,6 +124,10 @@
         <item>@string/command_media_next</item>
         <item>@string/command_previous_window</item>
         <item>@string/command_next_window</item>
+        <item>@string/command_set_tts_engine</item>
+        <item>@string/profiles_title</item>
+        <item>@string/use_ocr_title</item>
+
 
         </string-array>
     <string-array name="right_menu_items">
@@ -977,15 +981,15 @@
         <item>Nodo.</item>
         <item>desplazamiento</item>
         <item>navegación vertical</item>
-        <item>caracter</item>
-        <item>palabra</item>
-        <item>línea</item>
-        <item>Párrafo.</item>
-        <item>página</item>
-        <item>Copiar.</item>
+        <item>Carácteres.</item>
+        <item>Palabras.</item>
+        <item>Líneas.</item>
+        <item>Párrafos.</item>
+        <item>páginas.</item>
+        <item>Copiar Y Copiar Adicional.</item>
         <item>Volumen del Dispocitivo</item>
         <item>Velocidad de Lectura en Voz Alta</item>
         <item>Traducción y Reconocimiento de Texto</item>
-        <item>Elemento de la ventana</item>
+        <item>Ventanas</item>
     </string-array>
 </resources>

@@ -124,8 +124,13 @@
         <item>@string/command_media_next</item>
         <item>@string/command_previous_window</item>
         <item>@string/command_next_window</item>
+        <item>@string/command_set_tts_engine</item>
+        <item>@string/profiles_title</item>
+        <item>@string/use_ocr_title</item>
 
-        </string-array>
+        <!--item>Швидкий перегляд</item-->
+    </string-array>
+
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
         <item>@string/command_long_click</item>
@@ -170,6 +175,8 @@
         <item>@string/favorites_menu_title</item>
         <item>@string/split_edit_title</item>
         <item>@string/command_long_copy</item>
+        <item>Відкрити клавіатуру</item>
+
     </string-array>
     <string-array name="menu_def_items">
         <item>@string/split_menu_title</item>
@@ -362,8 +369,8 @@
     <string-array name="vibrate_intensity_entries">
         <item>Легка</item>
         <item>Середня</item>
-        <item>Інтенсивна</item>
-        <item>Дуже інтенсивна</item>
+        <item>Сильна</item>
+        <item>Дуже сильна</item>
     </string-array>
     <string-array name="vibrate_intensity_values">
         <item>12</item>
@@ -403,12 +410,14 @@
     </string-array>
     <string-array name="advanced_menu_items">
         <item>Переклад</item>
-        <item>Розпізнавання подій</item>
+        <item>Опис сцен</item>
         <item>Розпізнавання тексту</item>
         <item>Розпізнавання облич</item>
         <item>Розпізнавання кодів з картинок</item>
         <item>Результат розпізнавання</item>
         <item>Опис зображень</item>
+        <item>Розв\'язання задач зі складання зображень</item>
+        <item>Розпізнавання форм</item>
     </string-array>
     <string-array name="lang_entries">
         <item>автоматично</item>
@@ -822,20 +831,24 @@
     <string-array name="tts_engine_values">
         <item>системний</item>
         <item>unisound</item>
+        <item>baidu</item>
     </string-array>
     <string-array name="tts_engine_entries">
         <item>Системний синтезатор</item>
-        <item>Yunzhisheng TTS</item>
+        <item>unisound</item>
+        <item>baidu</item>
     </string-array>
     <string-array name="tts_engine_vip_values">
         <item>системний</item>
         <item>iflytek</item>
         <item>unisound</item>
+        <item>baidu</item>
     </string-array>
     <string-array name="tts_engine_vip_entries">
         <item>Системний синтезатор</item>
-        <item>Xunfei TTS</item>
-        <item>Yunzhisheng TTS</item>
+        <item>IFlytek</item>
+        <item>Uni sound</item>
+        <item>Baidu Cloud TTS</item>
     </string-array>
     <string-array name="alarm_interval_values">
         <item>5</item>
@@ -916,34 +929,34 @@
     </string-array>
     <string-array name="web_type_title">
         <item>Стандартно</item>
-        <item>Заголовок</item>
+        <item>Заголовки</item>
         <item>Посилання</item>
-        <item>Кнопка</item>
+        <item>Кнопки</item>
 
-        <item>Орієнтир</item>
-        <item>Редактор</item>
-        <item>Поточний елемент</item>
-        <item>Елемент керування</item>
+        <item>Орієнтири</item>
+        <item>Редактори</item>
+        <item>Доступні для фокусування</item>
+        <item>Елементи керування</item>
         <item>Зображення</item>
-        <item>Прапорець</item>
-        <item>Комбінований список</item>
-        <item>Заповнення форми</item>
-        <item>Список</item>
-        <item>Елемент списку</item>
+        <item>Прапорці</item>
+        <item>Комбіновані списки</item>
+        <item>Заповнення форм</item>
+        <item>Списки</item>
+        <item>Елементи списку</item>
 
         <item>Прокручування</item>
         <item>Перегляд</item>
 
-        <item>Символ</item>
-        <item>Слово</item>
-        <item>Рядок</item>
-        <item>Абзац</item>
-        <item>Сторінка</item>
-        <item>Копіювати</item>
+        <item>Символи</item>
+        <item>Слова</item>
+        <item>Рядки</item>
+        <item>Абзаци</item>
+        <item>Сторінки</item>
+        <item>Копіювання</item>
         <item>Гучність</item>
         <item>Швидкість мовлення</item>
-        <item>Система розпізнавання</item>
-        <item>Вікно</item>
+        <item>Сервіси розпізнавання та перекладу</item>
+        <item>Вікна</item>
     </string-array>
 
     <string-array name="hot_key_help_items">
@@ -972,31 +985,31 @@
     <string-array name="view_type_title">
         <item>Стандартно</item>
         <item>Текст</item>
-        <item>Кнопка</item>
-        <item>Редактор</item>
+        <item>Кнопки</item>
+        <item>Редактори</item>
 
         <item>Зображення</item>
-        <item>Прапорець</item>
-        <item>Панель перебігу</item>
-        <item>Список</item>
-        <item>Елемент списку</item>
-        <item>Елемент у фокусі</item>
-        <item>Клікабельний елемент</item>
-        <item>Вузол</item>
-        <item>Повзунок</item>
+        <item>Прапорці</item>
+        <item>Панелі перебігу</item>
+        <item>Списки</item>
+        <item>Елементи списку</item>
+        <item>Доступні для фокусування</item>
+        <item>Доступні для натискання</item>
+        <item>Вузли</item>
+        <item>Повзунки</item>
         <item>Вертикальне переміщення</item>
 
 
-        <item>Символ</item>
-        <item>Слово</item>
-        <item>Рядок</item>
-        <item>Абзац</item>
-        <item>Сторінка</item>
-        <item>Копіювати</item>
+        <item>Символи</item>
+        <item>Слова</item>
+        <item>Рядки</item>
+        <item>Абзаци</item>
+        <item>Сторінки</item>
+        <item>Копіювання</item>
         <item>Гучність</item>
         <item>Швидкість мовлення</item>
-        <item>Система розпізнавання</item>
-        <item>Вікно</item>
+        <item>Сервіси розпізнавання та перекладу</item>
+        <item>Вікна</item>
 
     </string-array>
 

@@ -119,6 +119,10 @@
         <item>@string/command_media_next</item>
         <item>@string/command_previous_window</item>
         <item>@string/command_next_window</item>
+        <item>@string/command_set_tts_engine</item>
+        <item>@string/profiles_title</item>
+        <item>@string/use_ocr_title</item>
+
     </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
@@ -164,7 +168,7 @@
         <item>@string/favorites_menu_title</item>
         <item>@string/split_edit_title</item>
         <item>@string/command_long_copy</item>
-        <item>Deschideți tastatura</item>
+        <item>Afișare tastatură</item>
     </string-array>
     <string-array name="menu_def_items">
         <item>@string/split_menu_title</item>
@@ -209,21 +213,21 @@
         <item>Închideți apelul</item>
         <item>Respingeți</item>
         <item>*Glisați la stânga pentru a respinge*</item>
-        <item>End call</item>
+        <item>Închiere apel</item>
         <item>Închideți apelul</item>
         <item>Încheiere apel</item>
-        <item>结束QQ通话</item>
-        <item>结束QQ电话</item>
-        <item>Previous media</item>
+        <item>Încheiați apelul QQ</item>
+        <item>Încheiere apel QQ</item>
+        <item>Melodia anterioară</item>
         <item>Melodia anterioară</item>
         <item>Înapoi</item>
     </string-array>
     <string-array name="right_button">
         <item>Răspundeți</item>
         <item>*Glisați la dreapta pentru a răspunde*</item>
-        <item>Modul mâini libere</item>
+        <item>Mod mâini libere</item>
         <item>Difuzor</item>
-        <item>Următorul videoclip</item>
+        <item>Melodia următoare</item>
         <item>Melodia următoare</item>
     </string-array>
     <string-array name="voice_recognizer_values">
@@ -233,7 +237,7 @@
         <item>2</item>
     </string-array>
     <string-array name="voice_recognizer_entries">
-        <item>System engine</item>
+        <item>Motor sistem</item>
         <item>Motor 1</item>
         <item>Motor 2</item>
         <item>Motor 3</item>
@@ -403,9 +407,53 @@
         <item>Cel mai puternic</item>
     </string-array>
     <string-array name="vibrate_intensity_values">
+    <!--string-array name="tts_speaker_title">
+        <item>Female voice</item>
+        <item>Male voice</item>
+        <item>Du Xiao Yao</item>
+        <item>Du Ya Ya</item>
+    </string-array>
+    <string-array name="tts_speaker">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item></string-array-->
         <item>12</item>
+    <!--string-array name="tts_speaker_title">
+        <item>Female voice</item>
+        <item>Male voice</item>
+        <item>Du Xiao Yao</item>
+        <item>Du Ya Ya</item>
+    </string-array>
+    <string-array name="tts_speaker">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item></string-array-->
         <item>32</item>
+    <!--string-array name="tts_speaker_title">
+        <item>Female voice</item>
+        <item>Male voice</item>
+        <item>Du Xiao Yao</item>
+        <item>Du Ya Ya</item>
+    </string-array>
+    <string-array name="tts_speaker">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item></string-array-->
         <item>48</item>
+    <!--string-array name="tts_speaker_title">
+        <item>Female voice</item>
+        <item>Male voice</item>
+        <item>Du Xiao Yao</item>
+        <item>Du Ya Ya</item>
+    </string-array>
+    <string-array name="tts_speaker">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item></string-array-->
         <item>64</item>
     </string-array>
     <string-array name="long_click_entries">
@@ -439,14 +487,14 @@
         <item>xiaofeng</item>
     </string-array>
     <string-array name="advanced_menu_items">
-        <item>Traduceți elementul focalizat</item>
-        <item>Recunoașteți scena</item>
-        <item>Recunoașteți textul de sub focus</item>
+        <item>Traducere element focalizat</item>
+        <item>Recunoaștere scenă</item>
+        <item>Recunoaștere text focalizat</item>
         <item>Recunoaștere facială</item>
         <item>Recunoaștere CAPTCHA</item>
-        <item>Vizualizați rezultatele recunoașterii</item>
+        <item>Vizualizare rezultate recunoaștere</item>
         <item>Recunoaștere imagine</item>
-        <item>Verificare model de glisor</item>
+        <item>Verificare model glisor</item>
         <item>Recunoaștere examen</item>
     </string-array>
     <string-array name="lang_entries">
@@ -483,9 +531,9 @@
         <item>Occitană</item>
         <item>Albaneză</item>
         <item>Akană</item>
-        <item>"aragoneză "</item>
-        <item>"amharică "</item>
-        <item>"assameză "</item>
+        <item>"Aragoneză "</item>
+        <item>"Amharică "</item>
+        <item>"Assameză "</item>
         <item>Aymară</item>
         <item>Azeră</item>
         <item>Asturiană</item>
@@ -496,14 +544,14 @@
         <item>Persană</item>
         <item>Bretonă</item>
         <item>Bashkir</item>
-        <item>巴斯克语</item>
-        <item>巴西葡萄牙语</item>
-        <item>白俄罗斯语</item>
-        <item>柏柏尔语</item>
-        <item>邦板牙语</item>
-        <item>北方萨米语</item>
-        <item>北索托语</item>
-        <item>本巴语</item>
+        <item>bască</item>
+        <item>portugheză braziliană</item>
+        <item>belarusă</item>
+        <item>berberă</item>
+        <item>pampanga</item>
+        <item>Sami de Nord</item>
+        <item>Sotho de Nord</item>
+        <item>Bemba</item>
         <item>比林语</item>
         <item>比斯拉马语</item>
         <item>俾路支语</item>
@@ -861,7 +909,7 @@
         <item>baidu</item>
     </string-array>
     <string-array name="tts_engine_entries">
-        <item>System TTS engine</item>
+        <item>Motor TTS de sistem</item>
         <item>Uni sound</item>
         <item>Baidu</item>
     </string-array>
@@ -872,7 +920,7 @@
         <item>baidu</item>
     </string-array>
     <string-array name="tts_engine_vip_entries">
-        <item>System TTS engine</item>
+        <item>Motor TTS de sistem</item>
         <item>IFlytek</item>
         <item>Uni sound</item>
         <item>Baidu Cloud TTS</item>
@@ -885,11 +933,11 @@
         <item>60</item>
     </string-array>
     <string-array name="alarm_interval_entries">
-        <item>Every 5 minutes</item>
-        <item>Every 10 minutes</item>
-        <item>Every 15 minutes</item>
-        <item>Every 30 minutes</item>
-        <item>Every hour</item>
+        <item>La fiecare 5 minute</item>
+        <item>La fiecare 10 minute</item>
+        <item>La fiecare 15 minute</item>
+        <item>La fiecare 30 minute</item>
+        <item>La fiecare oră</item>
     </string-array>
     <string-array name="timer_interval_values">
         <item>1</item>
@@ -898,10 +946,10 @@
         <item>15</item>
     </string-array>
     <string-array name="timer_interval_entries">
-        <item>1 minute</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>15 minutes</item>
+        <item>1 minut</item>
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>15 minute</item>
     </string-array>
     <string-array name="alarm_hour_values">
         <item>0</item>
@@ -931,9 +979,9 @@
         <item>24</item>
     </string-array>
     <string-array name="recognizer_lang_entries">
-        <item>Chinese simplified</item>
-        <item>Chinese cantonese</item>
-        <item>English</item>
+        <item>Chineză simplificată</item>
+        <item>Chineză cantoneză</item>
+        <item>Engleză</item>
     </string-array>
     <string-array name="recognizer_lang_values">
         <item>zh_CN</item>
@@ -955,78 +1003,78 @@
         <item>5</item>
     </string-array>
     <string-array name="web_type_title">
-        <item>Default</item>
-        <item>Headings</item>
-        <item>Links</item>
-        <item>Buttons</item>
-        <item>Landmarks</item>
-        <item>Text boxes</item>
-        <item>Focusable elements</item>
-        <item>Controls</item>
-        <item>Images</item>
-        <item>Check boxes</item>
-        <item>Combo boxes</item>
-        <item>Forms</item>
-        <item>Lists</item>
-        <item>List items</item>
-        <item>Scrolling mode</item>
-        <item>Views</item>
-        <item>Characters</item>
-        <item>Words</item>
-        <item>Lines</item>
-        <item>Paragraphs</item>
-        <item>Pages</item>
-        <item>Copying mode</item>
-        <item>Volume</item>
-        <item>TTS rate</item>
-        <item>OCr and translation</item>
-        <item>窗口</item>
+        <item>Implicit</item>
+        <item>Titluri</item>
+        <item>Link-uri</item>
+        <item>Butoane</item>
+        <item>Repere</item>
+        <item>Casete de text</item>
+        <item>Elemente focalizabile</item>
+        <item>Controale</item>
+        <item>Imagini</item>
+        <item>Casete de bifat</item>
+        <item>Combo box-uri</item>
+        <item>Formulare</item>
+        <item>Liste</item>
+        <item>Elemente listă</item>
+        <item>Derulare</item>
+        <item>View-uri</item>
+        <item>Caractere</item>
+        <item>Cuvinte</item>
+        <item>Rânduri</item>
+        <item>Paragrafe</item>
+        <item>Pagini</item>
+        <item>Copiere și adăugare</item>
+        <item>Volum</item>
+        <item>Ritm vorbire</item>
+        <item>Traducere și OCR</item>
+        <item>Ferestre</item>
     </string-array>
     <string-array name="hot_key_help_items">
-        <item>CTRL+DPAD_UP: Previous element</item>
-        <item>CTRL+DPAD_DOWN: Next element</item>
-        <item>CTRL+DPAD_LEFT: Left shortcut</item>
-        <item>CTRL+DPAD_RIGHT: Right shortcut</item>
-        <item>CTRL+PAGE_UP: Scroll up</item>
-        <item>CTRL+PAGE_DOWN: Scroll down</item>
-        <item>CTRL+H: Home screen</item>
-        <item>CTRL+N: Notification bar</item>
-        <item>CTRL+P: Recent applications</item>
-        <item>CTRL+SPACE: Click</item>
-        <item>CTRL+L: Long press</item>
-        <item>CTRL+Q: Quick settings</item>
-        <item>ALT+M: Main menu</item>
-        <item>ALT+A: Function menu</item>
-        <item>ALT+P: Extensions</item>
-        <item>ALT+T: Tools</item>
-        <item>ALT+V: Voice assistant</item>
-        <item>ALT+S: Granular editing mode</item>
-        <item>ALT+L: List browsing mode</item>
+        <item>CTRL+DPAD_UP: Elementul anterior</item>
+        <item>CTRL+DPAD_DOWN: Elementul următor</item>
+        <item>CTRL+DPAD_LEFT: Scurtătură stânga</item>
+        <item>CTRL+DPAD_RIGHT: Scurtătură dreapta</item>
+        <item>CTRL+PAGE_UP: Derulare în sus</item>
+        <item>CTRL+PAGE_DOWN: Derulare în jos</item>
+        <item>CTRL+H: Ecran pornire</item>
+        <item>CTRL+N: Bară de notificări</item>
+        <item>CTRL+P: Aplicații recente</item>
+        <item>CTRL+SPACE: Clic</item>
+        <item>CTRL+L: Clic lung</item>
+        <item>CTRL+Q: Setări rapide</item>
+        <item>ALT+M: Meniu principal</item>
+        <item>ALT+A: Meniu funcții</item>
+        <item>ALT+P: Extensii</item>
+        <item>ALT+T: Unelte</item>
+        <item>ALT+V: Asistent vocal</item>
+        <item>ALT+S: Editare granulară</item>
+        <item>ALT+L: Navigare mod listă</item>
     </string-array>
     <string-array name="view_type_title">
-        <item>Default</item>
-        <item>Labels</item>
-        <item>Buttons</item>
-        <item>Text boxes</item>
-        <item>Images</item>
-        <item>Check boxes</item>
-        <item>Progress bars</item>
-        <item>Lists</item>
-        <item>List items</item>
-        <item>Focusable elements</item>
-        <item>Clickable elements</item>
-        <item>Nodes</item>
-        <item>Scrolling mode</item>
-        <item>Vertical navigation</item>
-        <item>Characters</item>
-        <item>Words</item>
-        <item>Lines</item>
-        <item>Headings</item>
-        <item>Pages</item>
-        <item>Copying mode</item>
-        <item>Volume</item>
-        <item>TTS rate</item>
-        <item>OCr and translation</item>
-        <item>窗口</item>
+        <item>Implicit</item>
+        <item>Etichete</item>
+        <item>Butoane</item>
+        <item>Casete de text</item>
+        <item>Imagini</item>
+        <item>Casete de bifat</item>
+        <item>Bare de progres</item>
+        <item>Liste</item>
+        <item>Elemente listă</item>
+        <item>Elemente focalizabile</item>
+        <item>Elemente clickabile</item>
+        <item>Obiecte</item>
+        <item>Derulare</item>
+        <item>Navigare verticală</item>
+        <item>Caractere</item>
+        <item>Cuvinte</item>
+        <item>Rânduri</item>
+        <item>Titluri</item>
+        <item>Pagini</item>
+        <item>Copiere și adăugare</item>
+        <item>Volum</item>
+        <item>Ritm vorbire</item>
+        <item>Traducere și OCR</item>
+        <item>Ferestre</item>
     </string-array>
 </resources>

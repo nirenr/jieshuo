@@ -10,7 +10,7 @@
         <item>@string/to_previous_granularity</item>
         <item>@string/to_next_granularity</item>
         <item>@string/to_previous_granularity_item</item>
-       <item>@string/to_next_granularity_item</item>
+        <item>@string/to_next_granularity_item</item>
 
         <item>@string/add_node_changed_list</item>
         <item>@string/node_changed_list_manager</item>
@@ -124,8 +124,13 @@
         <item>@string/command_media_next</item>
         <item>@string/command_previous_window</item>
         <item>@string/command_next_window</item>
+        <item>@string/command_set_tts_engine</item>
+        <item>@string/profiles_title</item>
+        <item>@string/use_ocr_title</item>
 
-        </string-array>
+
+        <!--item>Quick browsing mode</item-->
+    </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
         <item>@string/command_long_click</item>
@@ -943,7 +948,7 @@
         <item>Громкость</item>
         <item>Скорость речи</item>
         <item>Движок распознавания</item>
-        <item>窗口</item>
+        <item>Окно</item>
     </string-array>
 
     <string-array name="hot_key_help_items">
@@ -965,7 +970,7 @@
         <item>ALT+P: Расширения</item>
         <item>ALT+T: Инструменты Расширения</item>
         <item>ALT+V: Голосовой помощник</item>
-        <item>ALT+S: 拆分编辑</item>
+        <item>ALT+S: Разделенное редактирование.</item>
         <item>ALT+L: Просмотр списка</item>
 
     </string-array>
@@ -996,7 +1001,7 @@
         <item>Громкость</item>
         <item>Скорость речи</item>
         <item>Движок распознавания</item>
-        <item>窗口</item>
+        <item>Окно</item>
 
     </string-array>
 

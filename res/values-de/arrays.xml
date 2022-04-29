@@ -12,8 +12,6 @@
         <item>@string/to_previous_granularity_item</item>
         <item>@string/to_next_granularity_item</item>
 
-        <item>Automatic translation mode</item>
-        <item>Subtitle reading mode</item>
         <item>@string/add_node_changed_list</item>
         <item>@string/node_changed_list_manager</item>
 
@@ -126,8 +124,12 @@
         <item>@string/command_media_next</item>
         <item>@string/command_previous_window</item>
         <item>@string/command_next_window</item>
+        <item>@string/command_set_tts_engine</item>
+        <item>@string/profiles_title</item>
+        <item>@string/use_ocr_title</item>
 
-        </string-array>
+
+    </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
         <item>@string/command_long_click</item>

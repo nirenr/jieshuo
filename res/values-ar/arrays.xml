@@ -123,6 +123,10 @@
         <item>@string/command_media_next</item>
         <item>@string/command_previous_window</item>
         <item>@string/command_next_window</item>
+        <item>@string/command_set_tts_engine</item>
+        <item>@string/profiles_title</item>
+        <item>@string/use_ocr_title</item>
+
 
         <!--item>Quick browsing mode</item-->
     </string-array>
@@ -441,178 +445,178 @@
         <item>البولندية</item>
         <item>الفيتنامية</item>
 
-        <item>爱尔兰语</item>
-        <item>奥克语</item>
-        <item>阿尔巴尼亚语</item>
-        <item>阿肯语</item>
-        <item>阿拉贡语</item>
-        <item>阿姆哈拉语</item>
-        <item>阿萨姆语</item>
-        <item>艾马拉语</item>
-        <item>阿塞拜疆语</item>
-        <item>阿斯图里亚斯语</item>
-        <item>奥塞梯语</item>
-        <item>奥杰布瓦语</item>
-        <item>奥里亚语</item>
-        <item>奥罗莫语</item>
-        <item>波斯语</item>
-        <item>布列塔尼语</item>
-        <item>巴什基尔语</item>
-        <item>巴斯克语</item>
-        <item>巴西葡萄牙语</item>
-        <item>白俄罗斯语</item>
-        <item>柏柏尔语</item>
-        <item>邦板牙语</item>
-        <item>北方萨米语</item>
-        <item>北索托语</item>
-        <item>本巴语</item>
-        <item>比林语</item>
-        <item>比斯拉马语</item>
-        <item>俾路支语</item>
-        <item>冰岛语</item>
-        <item>波斯尼亚语</item>
-        <item>博杰普尔语</item>
-        <item>楚瓦什语</item>
-        <item>聪加语</item>
-        <item>鞑靼语</item>
-        <item>掸语</item>
-        <item>德顿语</item>
-        <item>迪维希语</item>
-        <item>低地德语</item>
-        <item>菲律宾语</item>
-        <item>梵语</item>
-        <item>弗留利语</item>
-        <item>富拉尼语</item>
-        <item>法罗语</item>
-        <item>盖尔语</item>
-        <item>刚果语</item>
-        <item>高地索布语</item>
-        <item>高棉语</item>
-        <item>格陵兰语</item>
-        <item>格鲁吉亚语</item>
-        <item>古吉拉特语</item>
-        <item>古希腊语</item>
-        <item>古英语</item>
-        <item>瓜拉尼语</item>
-        <item>胡帕语</item>
-        <item>哈卡钦语</item>
-        <item>海地语</item>
-        <item>豪萨语</item>
-        <item>黑山语</item>
-        <item>吉尔吉斯语</item>
-        <item>加利西亚语</item>
-        <item>加拿大法语</item>
-        <item>加泰罗尼亚语</item>
-        <item>卡拜尔语</item>
-        <item>卡纳达语</item>
-        <item>卡努里语</item>
-        <item>卡舒比语</item>
-        <item>康瓦尔语</item>
-        <item>科萨语</item>
-        <item>科西嘉语</item>
-        <item>克里克语</item>
-        <item>克里米亚鞑靼语</item>
-        <item>克林贡语</item>
-        <item>克罗地亚语</item>
-        <item>克丘亚语</item>
-        <item>克什米尔语</item>
-        <item>孔卡尼语</item>
-        <item>库尔德语</item>
-        <item>拉丁语</item>
-        <item>老挝语</item>
-        <item>拉特加莱语</item>
-        <item>拉脱维亚语</item>
-        <item>林堡语</item>
-        <item>林加拉语</item>
-        <item>卢干达语</item>
-        <item>卢森堡语</item>
-        <item>卢森尼亚语</item>
-        <item>卢旺达语</item>
-        <item>立陶宛语</item>
-        <item>罗曼什语</item>
-        <item>罗姆语</item>
-        <item>逻辑语</item>
-        <item>马来语</item>
-        <item>缅甸语</item>
-        <item>马拉地语</item>
-        <item>马拉加斯语</item>
-        <item>马拉雅拉姆语</item>
-        <item>马其顿语</item>
-        <item>马绍尔语</item>
-        <item>迈蒂利语</item>
-        <item>曼克斯语</item>
-        <item>毛里求斯克里奥尔语</item>
-        <item>毛利语</item>
-        <item>孟加拉语</item>
-        <item>马耳他语</item>
-        <item>苗语</item>
-        <item>挪威语</item>
-        <item>那不勒斯语</item>
-        <item>南恩德贝莱语</item>
-        <item>南非荷兰语</item>
-        <item>南索托语</item>
-        <item>尼泊尔语</item>
-        <item>旁遮普语</item>
-        <item>帕皮阿门托语</item>
-        <item>普什图语</item>
-        <item>齐切瓦语</item>
-        <item>契维语</item>
-        <item>切罗基语</item>
-        <item>萨丁尼亚语</item>
-        <item>萨摩亚语</item>
-        <item>塞尔维亚-克罗地亚语</item>
-        <item>塞尔维亚语</item>
-        <item>桑海语</item>
-        <item>僧伽罗语</item>
-        <item>世界语</item>
-        <item>书面挪威语</item>
-        <item>斯洛伐克语</item>
-        <item>斯瓦希里语</item>
-        <item>索马里语</item>
-        <item>塞尔维亚语（西里尔）</item>
-        <item>土耳其语</item>
-        <item>塔吉克语</item>
-        <item>泰米尔语</item>
-        <item>他加禄语</item>
-        <item>提格利尼亚语</item>
-        <item>泰卢固语</item>
-        <item>突尼斯阿拉伯语</item>
-        <item>土库曼语</item>
-        <item>乌克兰语</item>
-        <item>瓦隆语</item>
-        <item>威尔士语</item>
-        <item>文达语</item>
-        <item>沃洛夫语</item>
-        <item>乌尔都语</item>
-        <item>希伯来语</item>
-        <item>西弗里斯语</item>
-        <item>西里西亚语</item>
-        <item>希利盖农语</item>
-        <item>下索布语</item>
-        <item>夏威夷语</item>
-        <item>新挪威语</item>
-        <item>西非书面语</item>
-        <item>信德语</item>
-        <item>修纳语</item>
-        <item>宿务语</item>
-        <item>叙利亚语</item>
-        <item>巽他语</item>
-        <item>印地语</item>
-        <item>印尼语</item>
-        <item>意第绪语</item>
-        <item>因特语</item>
-        <item>亚齐语</item>
-        <item>印古什语</item>
-        <item>伊博语</item>
-        <item>伊多语</item>
-        <item>约鲁巴语</item>
-        <item>亚美尼亚语</item>
-        <item>伊努克提图特语</item>
-        <item>伊朗语</item>
-        <item>扎扎其语</item>
-        <item>中古法语</item>
-        <item>祖鲁语</item>
-        <item>爪哇语</item>
+        <item>الإيرلندية</item>
+        <item>الأوكسيتانية</item>
+        <item>الألبانية</item>
+        <item>الأكانية</item>
+        <item>الأراغونية</item>
+        <item>الأمهرية</item>
+        <item>الأسامية</item>
+        <item>الأيمارية</item>
+        <item>الأذربيجانية</item>
+        <item>الأستورية</item>
+        <item>الأوسيتية</item>
+        <item>الأوجيبوا</item>
+        <item>الأوريا</item>
+        <item>الأورومو</item>
+        <item>الفارسية</item>
+        <item>البريتونية</item>
+        <item>البشكيرية</item>
+        <item>الباسكية</item>
+        <item>البرتغالية البرازيلية</item>
+        <item>البيلاروسية</item>
+        <item>البربرية</item>
+        <item>البامبانجية</item>
+        <item>شمال سامي</item>
+        <item>شمال سوتو</item>
+        <item>بمبا</item>
+        <item>بيريم</item>
+        <item>البيسلامية</item>
+        <item>البلوشية</item>
+        <item>الآيسلندية</item>
+        <item>البوسنية</item>
+        <item>البوجبورية</item>
+        <item>التشوفاشية</item>
+        <item>الكونجا</item>
+        <item>التتارية</item>
+        <item>الشانية</item>
+        <item>التيتونية</item>
+        <item>الديفيهية</item>
+        <item>لغة ألمانية منخفضة</item>
+        <item>الفيليبينية</item>
+        <item>السنسكريتية</item>
+        <item>الفريولية</item>
+        <item>الفولانية</item>
+        <item>لغة جزر فارو</item>
+        <item>الغيلية</item>
+        <item>الكونغية</item>
+        <item>صوربية المرتفعات</item>
+        <item>الكمبودية</item>
+        <item>الجرينلاندية</item>
+        <item>الجورجية</item>
+        <item>الغوجاراتية</item>
+        <item>اليونانية القديمة</item>
+        <item>الإنجليزية القديمة</item>
+        <item>الغوارانية</item>
+        <item>الهوبية</item>
+        <item>الهاكاشينية</item>
+        <item>الهايتية</item>
+        <item>الهوسية</item>
+        <item>الجبل الأسود</item>
+        <item>القيرغيزستانية</item>
+        <item>الجاليكية</item>
+        <item>الكندية الفرنسية</item>
+        <item>الكاتالونية</item>
+        <item>منطقة القبائل</item>
+        <item>الكندية</item>
+        <item>الكانورية</item>
+        <item>الكاشوبية</item>
+        <item>الكورنيشية</item>
+        <item>الكورسية</item>
+        <item>الكورسيكية</item>
+        <item>الكريكية</item>
+        <item>تتار القرم</item>
+        <item>الكلينجونية</item>
+        <item>الكرواتية</item>
+        <item>الكيتشية</item>
+        <item>الكشميرية</item>
+        <item>الكونكانية</item>
+        <item>الكردية</item>
+        <item>اللاتينية</item>
+        <item>اللاوية</item>
+        <item>اللاتجالية</item>
+        <item>اللاتفية</item>
+        <item>الليمبورغيشية</item>
+        <item>اللينغالية</item>
+        <item>اللوغندية</item>
+        <item>اللوكسمبرجية</item>
+        <item>اللوشانية</item>
+        <item>الرواندية</item>
+        <item>الليتوانية</item>
+        <item>الرومانشية</item>
+        <item>الرومانية</item>
+        <item>لغة منطقية</item>
+        <item>لغة الملايو</item>
+        <item>البورمية</item>
+        <item>الماراثى</item>
+        <item>المدغشقرية</item>
+        <item>المالايالامية</item>
+        <item>المقدونية</item>
+        <item>المارشالية</item>
+        <item>المايتيلية</item>
+        <item>المانكسية</item>
+        <item>الكريولية الموريشية</item>
+        <item>الماورية</item>
+        <item>البنغالية</item>
+        <item>المالطية</item>
+        <item>الهمونغية</item>
+        <item>النرويجية</item>
+        <item>النابولية</item>
+        <item>جنوب نديبيلي</item>
+        <item>الأفريكانية</item>
+        <item>جنوب سوتو</item>
+        <item>النيبالية</item>
+        <item>البنجابية</item>
+        <item>بابيامينتو</item>
+        <item>الباشتية</item>
+        <item>شيشيوا</item>
+        <item>الشيفينية</item>
+        <item>الشيروكية</item>
+        <item>السردينية</item>
+        <item>ساموا</item>
+        <item>الصربية الكرواتية</item>
+        <item>الصربية</item>
+        <item>سونغهاي</item>
+        <item>السنهالية</item>
+        <item>اسبرانتو</item>
+        <item>النرويجية المكتوبة</item>
+        <item>السلوفاكية</item>
+        <item>السواحيلية</item>
+        <item>الصومالية</item>
+        <item>الصربية (السيريلية)</item>
+        <item>التركية</item>
+        <item>الطاجيكية</item>
+        <item>التاميلية</item>
+        <item>التاغالوغية</item>
+        <item>التيغرينية</item>
+        <item>التيلجو</item>
+        <item>العربية التونسية</item>
+        <item>التركمانية</item>
+        <item>الأوكرانية</item>
+        <item>الوالونية</item>
+        <item>الويلزية</item>
+        <item>الفيندية</item>
+        <item>الولوفية</item>
+        <item>الأردية</item>
+        <item>العبرية</item>
+        <item>الفريزية الغربية</item>
+        <item>السيليزية</item>
+        <item>الهيليجانية</item>
+        <item>الصوربية السفلى</item>
+        <item>هاواي</item>
+        <item>النرويجية الجديدة</item>
+        <item>غرب إفريقية مكتوبة</item>
+        <item>السندية</item>
+        <item>الشونية</item>
+        <item>السيبيونية</item>
+        <item>السريانية</item>
+        <item>السوندانية</item>
+        <item>الهندية</item>
+        <item>الأندونيسية</item>
+        <item>اليديشية</item>
+        <item>انتر</item>
+        <item>الأزيرية</item>
+        <item>الإنغوشية</item>
+        <item>الإيغبو</item>
+        <item>الأيدو</item>
+        <item>اليوروبية</item>
+        <item>الأرمينية</item>
+        <item>الإينكتيتوتية</item>
+        <item>الإيرانية</item>
+        <item>الزازقية</item>
+        <item>الفرنسية الوسطى</item>
+        <item>الزولو</item>
+        <item>الجاوية</item> 
     </string-array>
     <string-array name="lang_values">
         <item>auto</item>
@@ -828,7 +832,7 @@
         <item>محرك Yunzhisheng</item>
     </string-array>
     <string-array name="tts_engine_vip_values">
-        <item>النظام</item>
+        <item>system</item>
         <item>iflytek</item>
         <item>unisound</item>
     </string-array>

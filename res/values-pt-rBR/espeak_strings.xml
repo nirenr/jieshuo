@@ -17,10 +17,10 @@
   <string name="set_default_message">O eSpeak não está configurado como o mecanismo padrão de texto para fala.</string>
   <!--Source: Dialog message.
         Description: Alert dialog telling the user that voice data installation failed.-->
-  <string name="voice_data_failed_message">O eSpeak fracassou ao instalar os dados de voz. Por favor verifique o cartão SD.</string>
+  <string name="voice_data_failed_message">O eSpeak falhou ao instalar os dados de voz. Por favor verifique o cartão SD.</string>
   <!--Source: Dialog message.
         Description: Alert dialog telling the user that an unknown error has occurred.-->
-  <string name="error_message">Desculpe, o eSpeak fracassou em iniciar.</string>
+  <string name="error_message">Desculpe, houve um erro ao iniciar o  eSpeak.</string>
   <!--Source: Label text.
         Description: Label informing the user of the current text-to-speech language.-->
   <string name="current_tts_locale">Voz padrão</string>
@@ -29,41 +29,41 @@
   <string name="available_voices">Vozes instaladas</string>
   <!--Source: Button label.
         Description: Button for launching eSpeak-specific settings.-->
-  <string name="engine_settings">Ajustes de TTS do eSpeak</string>
+  <string name="engine_settings">Ajustes vozes do eSpeak</string>
   <!--Source: Label text.
         Description: Label informing the user that eSpeak is loading resources.-->
   <string name="loading">Carregando, por favor aguarde…</string>
   <!--Source: Spoken aloud.
         Description: Sample text spoken aloud when the user is trying out a language.-->
-  <string name="sample_text">Esta é uma amostra de texto falado em %s</string>
+  <string name="sample_text">Esta é exemplo de texto falado em %s</string>
   <string name="status">Status</string>
-  <string name="tts_version">Versão de eSpeak</string>
+  <string name="tts_version">Versão do eSpeak</string>
   <string name="speak">Speak</string>
   <string name="ssml">Carregar modelo SSML</string>
-  <string name="synthesis_demo">Insira texto a falar:</string>
+  <string name="synthesis_demo">Informe um texto a ser lido:</string>
   <string name="espeak_volume">Volume</string>
   <string name="formatter_wpm">%s WPM</string>
   <string name="formatter_percentage">%s%%</string>
   <string name="resetToDefault">Restaurar padrão</string>
   <string name="espeak_pitch_range">Variação de tom</string>
   <string name="espeak_variant">Variante de voz</string>
-  <string name="espeak_speak_punctuation">Speak punctuation</string>
-  <string name="punctuation_all">All</string>
-  <string name="punctuation_custom">Custom</string>
-  <string name="punctuation_custom_fmt">Custom: %s</string>
-  <string name="punctuation_none">None</string>
-  <string name="punctuation_characters">Punctuation characters</string>
-  <string name="category">Category</string>
-  <string name="variant">Variant</string>
-  <string name="variant_male">Male</string>
-  <string name="variant_female">Female</string>
-  <string name="variant_default">Default</string>
-  <string name="variant_n">Variant %d</string>
-  <string name="variant_young">Young</string>
-  <string name="variant_old">Old</string>
-  <string name="variant_croak">Croak</string>
-  <string name="variant_whisper">Whisper</string>
-  <string name="import_voice_title">Import eSpeak dictionary</string>
-  <string name="import_voice_description">Import an eSpeak voice dictionary file from the SD card.</string>
+  <string name="espeak_speak_punctuation">Leitura de pontuações</string>
+  <string name="punctuation_all">Todas</string>
+  <string name="punctuation_custom">Personalizada</string>
+  <string name="punctuation_custom_fmt">Personalização: %s</string>
+  <string name="punctuation_none">Nenhuma</string>
+  <string name="punctuation_characters">Pontuações e caracteres</string>
+  <string name="category">Categolia</string>
+  <string name="variant">Variante</string>
+  <string name="variant_male">Masculino</string>
+  <string name="variant_female">Feminino</string>
+  <string name="variant_default">Padrão</string>
+  <string name="variant_n">Variante %d</string>
+  <string name="variant_young">Jovem</string>
+  <string name="variant_old">Idoso</string>
+  <string name="variant_croak">Sussurro</string>
+  <string name="variant_whisper">Confidente</string>
+  <string name="import_voice_title">Importar Dicionário do eSpeak</string>
+  <string name="import_voice_description">Importar um arquivo de Dicionário do eSpeak a partir de um cartão SD.</string>
 
 </resources>

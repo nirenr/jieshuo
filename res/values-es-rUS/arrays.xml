@@ -11,10 +11,8 @@
         <item>@string/to_next_granularity</item>
         <item>@string/to_previous_granularity_item</item>
         <item>@string/to_next_granularity_item</item>
-
         <item>@string/add_node_changed_list</item>
         <item>@string/node_changed_list_manager</item>
-
         <item>@string/command_raw_tap</item>
         <item>@string/command_to_previous_focus</item>
         <item>@string/command_to_next_focus</item>
@@ -124,6 +122,10 @@
         <item>@string/command_media_next</item>
         <item>@string/command_previous_window</item>
         <item>@string/command_next_window</item>
+        <item>@string/command_set_tts_engine</item>
+        <item>@string/profiles_title</item>
+        <item>@string/use_ocr_title</item>
+
 
         </string-array>
     <string-array name="right_menu_items">
@@ -236,14 +238,14 @@
         <item>0</item>
         <item>1</item>
         <item>2</item>
-  </string-array>
-  <string-array name="voice_recognizer_entries">
+    </string-array>
+    <string-array name="voice_recognizer_entries">
         <item>Sistema</item>
         <item>Motor 1</item>
         <item>Motor 2</item>
         <item>Motor 3</item>
-  </string-array>
-  <string-array name="tts_values">
+    </string-array>
+    <string-array name="tts_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
@@ -347,17 +349,17 @@
         <item>100</item>
     </string-array>
     <!--string-array name="tts_speaker_title">
-          <item>Voz femenina</item>
-          <item>Voz masculina</item>
-          <item>Feliz</item>
-          <item>Du si si</item>
-      </string-array>
-      <string-array name="tts_speaker">
-          <item>0</item>
-          <item>1</item>
-          <item>3</item>
-          <item>4</item>
-      </string-array-->
+            <item>Voz femenina</item>
+            <item>Voz masculina</item>
+            <item>Feliz</item>
+            <item>Du si si</item>
+        </string-array>
+        <string-array name="tts_speaker">
+            <item>0</item>
+            <item>1</item>
+            <item>3</item>
+            <item>4</item>
+        </string-array-->
     <string-array name="vibrate_intensity_entries">
         <item>Muy suave</item>
         <item>Suave</item>
@@ -403,7 +405,7 @@
     <string-array name="advanced_menu_items">
         <item>traducir</item>
         <item>Reconocimiento de escenas</item>
-        <item>Reconocimiento de texto</item>
+        <item>Reconocer y traducir el texto de destino</item>
         <item>Reconocimiento de rostros</item>
         <item>Reconocimiento de captcha</item>
         <item>Resultado del reconocimiento</item>

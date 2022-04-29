@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name"> Jieshuo</string>
+    <string name="app_name">Jieshuo+</string>
     <string name="accessibility_service_description">
         Jieshuo es un programa lector de pantalla que ayudará a las personas ciegas a usar sus teléfonos móviles. Hicimos algunos intentos de innovación. Para más detalles abrir configuración \\ ayuda.\n
         Algunas funciones están restringidas hasta que compres la versión premium. Para más detalles, contacta con el servicio al cliente en los grupos oficiales de qq, Whatsapp y Telegram, en ayuda y comentarios.\n
@@ -29,14 +29,14 @@
         Edición rápida: encuentra rápidamente la frase, la palabra o el párrafo que deseas editar.\n
         Selección avanzada de texto: por palabra, frase, párrafo. Selecciona exactamente el texto que necesitas.\n
         Varias operaciones facilitadas por comandos de voz adicionales.\n
-        Ejecución de plugins de manera automática, Tendrás tus plugins accesibles por ti.\n
+        Ejecución de complementos de manera automática, Tendrás tus complementos accesibles por ti.\n
         ¡Jieshuo es tu lector de pantallas configurable e infinitamente flexible!
     </string>
 
     <string name="about_title">Hebei Biyou Technology Co., Ltd.</string>
     <string name="help_feed_summary">Jieshuo utiliza algunas tecnologías de terceros: Tencent AI, Baidu AI, Baidu TTS, Baidu Translator, Baidu MTS, Andro LUA Plus, entre otros.</string>
 
-    <string name="menu_title">Menú</string>
+    <string name="menu_title">Menú principal</string>
 
     <string name="tts_speed_title">Velocidad de la síntesis de voz: </string>
     <string name="tts_speed_summary">Cambia la velocidad de la voz.</string>
@@ -118,7 +118,7 @@
     <string name="notification_toast_speak_title">Leer notificaciones emergentes: </string>
     <string name="notification_announcement_speak_title">Leer las notificaciones del lector de pantalla: </string>
     <string name="notification_settings_title">Ajustes de notificaciones</string>
-    <string name="help_feed_title">Ayuda y comentarios</string>
+    <string name="help_feed_title">Ayuda y sugerencias</string>
     <string name="advanced_setting_title">Ajustes avanzados</string>
     <string name="notification_white_list_title">Lista blanca de notificaciones</string>
     <string name="notification_black_list_title">Lista negra de notificaciones</string>
@@ -181,7 +181,7 @@
     <string name="message_disabled_tap_mode">Se desactivó "Tocar para cambiar foco"</string>
     <string name="directory_gestures">Gestos</string>
     <string name="directory_temp">TMP</string>
-    <string name="directory_plugins">Plugins</string>
+    <string name="directory_plugins">Complementos</string>
     <string name="message_recognition">Reconociendo…</string>
     <string name="message_recognition_error">Error de reconocimiento. Por favor, intenta de nuevo.</string>
     <string name="directory_sounds">Sonidos</string>
@@ -429,7 +429,7 @@
     <string name="edit_text_not_found">Cuadro de edición no encontrado</string>
     <string name="char_mode">Modo palabra por palabra</string>
     <string name="focus_mode">Modo enfoque</string>
-    <string name="auto_next">Navegación automática</string>
+    <string name="auto_next">Leer a partir del siguiente elemento</string>
     <string name="message_copy">Texto copiado</string>
     <string name="message_append">Texto agregado</string>
     <string name="text_format_settings_title">Ajustes de diccionario</string>
@@ -465,13 +465,13 @@
     <string name="command_feedback_setting">@string/feed_setting_title</string>
     <string name="command_content_setting">@string/content_setting_title</string>
     <string name="command_notification_setting">@string/notification_settings_title</string>
-    <string name="command_help_feed_setting">Ayuda y comentarios</string>
+    <string name="command_help_feed_setting">Ayuda y sugerencias</string>
     <string name="command_left_shortcut">Función izquierda</string>
     <string name="command_right_shortcut">Función derecha</string>
     <string name="command_long_copy">Copiado avanzado de texto</string>
     <string name="command_my_location">mi posición</string>
     <string name="command_where_i">Donde estoy?</string>
-    <string name="command_current_location">posición actual</string>
+    <string name="command_current_location">Ubicación actual</string>
     <string name="command_verification">CAPTCHA</string>
     <string name="command_verification2">Verificación</string>
     <string name="command_verification3">Identificación</string>
@@ -482,7 +482,7 @@
     <string name="command_play_control">Control de reproducción</string>
     <string name="command_read_mode">Modo lectura</string>
     <string name="command_verbatim_speak">palabra por palabra</string>
-    <string name="command_verbatim_speak2">carácter</string>
+    <string name="command_verbatim_speak2">Carácter</string>
     <string name="command_to_previous_focus">Elemento anterior</string>
     <string name="command_to_next_focus">Elemento siguiente</string>
     <string name="command_to_previous_page">Página anterior</string>
@@ -497,7 +497,7 @@
     <string name="command_timer_mode">Temporizador</string>
     <string name="command_timer_start">Iniciar temporizador</string>
     <string name="command_quick_mode">Navegación rápida</string>
-    <string name="command_auto_next">Navegación automática</string>
+    <string name="command_auto_next">Leer a partir del siguiente elemento</string>
     <string name="command_auto_speak">Lectura automática</string>
 
     <string name="command_copy">Copiar</string>
@@ -739,7 +739,7 @@
     <string name="float_menu_items_title">Elementos del menú flotante</string>
     <string name="use_float_menu_title">Usar menú flotante</string>
     <string name="tts_scale_title">Tasa de habla</string>
-    <string name="auto_previous">Auto anterior</string>
+    <string name="auto_previous">Leer a partir del elemento anterior</string>
     <string name="code_help_title">Referencia del API de jieshuo</string>
     <string name="sign_up">Registrarse</string>
     <string name="login">Iniciar sesión</string>
@@ -785,7 +785,7 @@
     <string name="touch_mode_enabled">Exploración táctil activada</string>
     <string name="custom">Personalizado</string>
 
-    <string name="create_gesture">Crear Gesto</string>
+    <string name="create_gesture">Crear tema de gestos</string>
     <string name="create_app_gesture">Crear gestos por aplicación</string>
     <string name="func">Función</string>
     <string name="swipe_up_right">deslizar arriba y a la derecha</string>
@@ -817,7 +817,7 @@
     <string name="func_manager">Administrar funciones</string>
     <string name="func_create">Crear función</string>
     <string name="waiting">Esperando</string>
-    <string name="gestures_description_default">Gestos predeterminados: Consulta La descripción de los gestos en ayuda y comentarios</string>
+    <string name="gestures_description_default">Gestos predeterminados: Consulta La descripción de los gestos en ayuda y sugerencias</string>
     <string name="auto_click">Auto click</string>
     <string name="insert">Insertar %s</string>
     <string name="edit_button">Introducir una lista de botones (uno por línea)</string>
@@ -883,7 +883,7 @@
     <string name="camera_top_move_near">Acercarse</string>
     <string name="camera_bottom_up">De abajo hacia arriba</string>
 
-    <string name="use_text_format_read_word_title">Leer la fonética de la letra</string>
+    <string name="use_text_format_read_word_title">Enunciar letras fonéticas</string>
     <string name="restore">Restaurar</string>
     <string name="backup">Copia de seguridad</string>
     <string name="directory_camera">Cámara</string>
@@ -896,7 +896,7 @@
     <string name="use_dpad_key_title">Utilizar flechas para mover el foco</string>
     <string name="ocr_engine_title">Motor de OCR</string>
     <string name="manager_title">Administrador</string>
-    <string name="msg_battery_full">La batería está completamente cargada. Desconecta el teléfono.</string>
+    <string name="msg_battery_full">La batería está completamente cargada.</string>
     <string name="invite_code">Código de invitación</string>
     <string name="msg_supper_mode">Modo de navegación detallada, (puede consumir mucha energía y datos).</string>
     <string name="msg_enabled_supper_mode">El modo de navegación detallada ha sido activado</string>
@@ -911,7 +911,7 @@
     <string name="msg_clipboards_empty">Sin portapapeles</string>
     <string name="msg_favorites_empty">Sin favoritos</string>
     <string name="msg_timers_empty">Sin temporizadores</string>
-    <string name="msg_plugins_empty">Sin plugins</string>
+    <string name="msg_plugins_empty">Sin complementos</string>
     <string name="msg_tools_empty">Sin herramientas</string>
     <string name="msg_labels_empty">Sin etiquetas</string>
     <string name="msg_backups_empty">Sin copias de seguridad</string>
@@ -1057,8 +1057,8 @@
     <string name="install_shortcut">Añadir acceso directo al escritorio</string>
     <string name="msg_select_end">Seleccionar final</string>
     <string name="msg_select_start">Seleccionar inicio</string>
-    <string name="msg_plugin_run_error">Activa Jieshuo en accesibilidad antes de ejecutar el plugin</string>
-    <string name="input_file_name">Ingresa el nombre de archivo</string>
+    <string name="msg_plugin_run_error">Activa Jieshuo en accesibilidad antes de ejecutar el complemento</string>
+    <string name="input_file_name">Escribe el nombre del archivo</string>
     <string name="input_project_name">Escribe  el nombre del proyecto</string>
     <string name="use_loop_move_title">Usar desplazamiento continuo</string>
     <string name="message_cut">Cortar</string>
@@ -1067,14 +1067,14 @@
     <string name="sound_settings_title">ajustes del tema de sonido</string>
     <string name="sound_focus1">Foco selexionable</string>
     <string name="sound_focus2">Foco emfocable</string>
-    <string name="sound_focus3">Foco tel teclado</string>
+    <string name="sound_focus3">Foco del teclado</string>
     <string name="sound_focus4">Fuera de foco</string>
     <string name="sound_focus0">Foco en la lista</string>
     <string name="sound_click">Hacer click</string>
     <string name="sound_long_click">Pulsación prolongada</string>
-    <string name="sound_scroll_up">Deslizar hacia Arriba</string>
-    <string name="sound_scroll_down">Deslizar hacia Abajo</string>
-    <string name="sound_beep">Final de lista</string>
+    <string name="sound_scroll_up">Desplazarse hacia Arriba</string>
+    <string name="sound_scroll_down">Desplazarse hacia abajo</string>
+    <string name="sound_beep">Fin de lista</string>
     <string name="sound_tick">Intervalos del reloj</string>
     <string name="sound_clock">Reloj</string>
     <string name="sound_screen_off">Pantalla apagada</string>
@@ -1109,7 +1109,7 @@
     <string name="sound_timer_end">Hora de iniciar</string>
     <string name="sound_timer_start">Hora de finalizar</string>
     <string name="use_scroll_list_content_title">Leeer todo El contenido visible al navegar por la lista</string>
-    <string name="use_view_type_move_title">Navegación en lista</string>
+    <string name="use_view_type_move_title">Navegación por elementos</string>
     <string name="use_view_type_move_summary">>Utiliza El tipo de cambio de gestos izquierdo y derecho predeterminado, si los accesos directos izquierdo y derecho entran en conflicto, puedes usar la personalización para evitar conflictos</string>
     <string name="command_raw_double_tap">[Hacer doble click (toque directo)]</string>
     <string name="to_previous_granularity_item">Elemento anterior de navegación</string>
@@ -1169,7 +1169,7 @@
     <string name="select_progress">Barras de progreso</string>
     <string name="node_changed_list_manager">Administrar elementos del monitoreo</string>
     <string name="add_node_changed_list">Monitorear elementos</string>
-    <string name="switch_multi_finger_gestures">Gesto con varios dedos</string>
+    <string name="switch_multi_finger_gestures">Gestos con varios dedos</string>
     <string name="msg_node_changed_list_added">Agregado</string>
     <string name="msg_node_changed_list_removed">Monitoreo cancelado</string>
     <string name="msg_in_game_mode">Entró en el modo de juego</string>
@@ -1178,7 +1178,7 @@
     <string name="msg_exit_game_mode">Salió del modo de juego</string>
     <string name="privacy">Política de privacidad</string>
     <string name="show_download_title">Descargar Jieshuo</string>
-    <string name="version_msg">%s\nTamaño:%s\ndescargas:%s</string>
+    <string name="version_msg">%s\nTamaño:%s\ndescargar:%s</string>
     <string name="user_new_password">Nueva contraseña, de 6a 15 caracteres latinos</string>
     <string name="repassword_title">Cambiar contraseña</string>
     <string name="msg_not_empty">El campo no puede estar vacío</string>
@@ -1192,18 +1192,18 @@
     <string name="select_app">Seleccionar una aplicación</string>
     <string name="command_to_split_screen">Pantalla dividida</string>
     <string name="edit_activity">Jieshuo- editor</string>
-    <string name="use_speak_key_title">Eco de teclado físico</string>
+    <string name="use_speak_key_title">Verbalizar los comandos de teclado físico</string>
     <string name="auto_speak_title">Ajustes de lectura automática</string>
     <string name="auto_speak_apps_title">Aplicaciones para lectura automática</string>
     <string name="auto_speak_apps_summary">No todas las aplicacionessoportan la lectura automática de mensajes; es más probable que el softwer de chat que se muestra en forma de lista lo soporte</string>
     <string name="msg_has_vip_auto_speak">Los usuarios de la versión gratuita  solo pueden leer  automáticamente mensajes QQ</string>
     <string name="auto_speak_blacklist_title">Leer automáticamente la lista negra de contenido</string>
     <string name="read_mode_setting">Ajuste del modo de lectura</string>
-    <string name="next_chapter_title">Comandos del capítulo siguiente</string>
-    <string name="previous_chapter_title">Comandos del capítulo anterior</string>
+    <string name="next_chapter_title">Capítulo siguiente</string>
+    <string name="previous_chapter_title">Capítulo anterior</string>
     <string name="next_chapter_default_value">*Página siguiente*|*capítulo siguiente*|*página siguiente*|*capítulo siguiente*|*siguiente*</string>
     <string name="previous_chapter_default_value">*Página anterior*|*capítulo anterior*|*página anterior*|*capítulo anterior*|*anterior*</string>
-    <string name="msg_activated">Enviado, solicitud en espera. Si no se activa en un tiempo prudente, póngase en contacto con el servicio al cliente</string>
+    <string name="msg_activated">Enviado, solicitud en espera. Si no se activa en un tiempo razonable, póngase en contacto con el servicio al cliente</string>
     <string name="flash_light">Linterna</string>
     <string name="cloud_multi_backup_title">Copia de seguridad en la nube</string>
     <string name="cloud_multi_restore_title">Recuperar de la nube</string>
@@ -1242,7 +1242,7 @@
     <string name="command_to_head_set_key">Pausar la reproducción</string>
     <string name="msg_selected_from_to">Ha seleccionado los elementos% d a% d </string>
     <string name="album_activity">Álbum de Jieshuo</string>
-    <string name="command_toggle_tts_engine">Cambiar biblioteca de voz</string>
+    <string name="command_toggle_tts_engine">Cambiar síntesis de voz</string>
     <string name="command_speak_light">Nivel de brillo</string>
     <string name="use_recording_stop_title">Silenciar la lectura de pantalla al usar el micrófono</string>
     <string name="use_speak_call_time_title">Leer duración de la llamada</string>
@@ -1251,11 +1251,11 @@
     <string name="add_favorites">Agregar a favoritos</string>
     <string name="save_as_file">Guardar como archivo local</string>
     <string name="save_as_cloud">Guardar como nota en la nube</string>
-    <string name="msg_toggle_tts">Biblioteca de voz cambiada</string>
+    <string name="msg_toggle_tts">Síntesis de voz cambiada</string>
     <string name="curren_char_idx">%d línea%d carácter</string>
     <string name="command_add_content_blacklist">Agregar contenido a la lista negra</string>
-    <string name="command_media_previous">Canción anterior</string>
-    <string name="command_media_next">Siguiente canción</string>
+    <string name="command_media_previous">Pista anterior</string>
+    <string name="command_media_next">Pista siguiente</string>
     <string name="use_answer_phone_calls_gesture_title">Responder y finalizar llamadas telefónicas desde cualquier interfaz de aplicación</string>
     <string name="command_previous_window">Ventana anterior</string>
     <string name="command_next_window">Siguiente ventana</string>
@@ -1284,58 +1284,97 @@
     <string name="right_up_long">Deslizar a la derecha y arriba y esperar un poco</string>
     <string name="right_down_long">Deslizar a la derecha y abajo y esperar un poco</string>
     <string name="right_left_long">Deslizar a la derecha y a la izquierda y esperar un poco</string>
-    <string name="keep_focus_position_speak_title">朗读记忆的焦点</string>
-    <string name="save_as_cmd">保存为指令</string>
-    <string name="execute_cmd">是否运行下边指令</string>
-    <string name="command_show_nodeinfo">节点详情</string>
-    <string name="copy_as_jieshuo_cmd">复制为解说口令</string>
-    <string name="copy_text_auto_execute">复制文字自动执行</string>
-    <string name="msg_cmd_copyed">已复制，粘贴分享吧</string>
-    <string name="use_custom_dict_regex_title">词典替换时使用正则表达式</string>
-    <string name="profiles_title">情景模式</string>
-    <string name="node_details">节点详情</string>
-    <string name="msg_has_storage">该功能需要存储文件到内置存储，请授予存储权限或退出该功能</string>
-    <string name="msg_open_error">打开出错</string>
-    <string name="message_load_gesture_error">手势切换失败</string>
-    <string name="msg_gesture_empty">手势为空</string>
-    <string name="msg_sound_empty">音效为空</string>
-    <string name="msg_clipboard_empty">剪切板为空</string>
-    <string name="msg_plugin_empty">插件为空</string>
-    <string name="msg_tool_empty">工具为空</string>
-    <string name="msg_label_empty">标签为空</string>
-    <string name="msg_setting_backup_error">设置备份出错</string>
-    <string name="msg_setting_backup_done">设置备份完成</string>
-    <string name="msg_clipboard_backup_error">剪切板备份出错</string>
-    <string name="msg_clipboard_backup_done">剪切板备份完成</string>
-    <string name="msg_favorite_backup_error">收藏夹备份出错</string>
-    <string name="msg_favorite_backup_done">收藏夹备份完成</string>
-    <string name="msg_timer_backup_error">计时器备份出错</string>
-    <string name="msg_timer_backup_done">计时器备份完成</string>
-    <string name="msg_label_backup_error">标签备份出错</string>
-    <string name="msg_label_backup_done">标签备份完成</string>
-    <string name="msg_gesture_backup_error">手势备份出错</string>
-    <string name="msg_gesture_backup_done">手势备份完成</string>
-    <string name="msg_cmd_backup_error">指令备份出错</string>
-    <string name="msg_cmd_backup_done">指令备份完成</string>
-    <string name="msg_hotkey_backup_error">快捷键备份出错</string>
-    <string name="msg_hotkey_backup_done">快捷键备份完成</string>
-    <string name="msg_restore_setting_error">设置恢复出错</string>
-    <string name="msg_restore_setting_done">设置恢复完成</string>
-    <string name="msg_restore_clipboard_error">剪切板恢复出错</string>
-    <string name="msg_restore_clipboard_done">剪切板恢复完成</string>
-    <string name="msg_restore_favorite_error">收藏夹恢复出错</string>
-    <string name="msg_restore_favorite_done">收藏夹恢复完成</string>
-    <string name="msg_restore_timer_error">计时器恢复出错</string>
-    <string name="msg_restore_timer_done">计时器恢复完成</string>
-    <string name="msg_restore_label_error">标签恢复出错</string>
-    <string name="msg_restore_label_done">标签恢复完成</string>
-    <string name="msg_restore_gesture_error">手势恢复出错</string>
-    <string name="msg_restore_gesture_done">手势恢复完成</string>
-    <string name="msg_restore_cmd_error">指令恢复出错</string>
-    <string name="msg_restore_cmd_done">指令恢复完成</string>
-    <string name="msg_restore_hotkey_error">快捷键恢复出错</string>
-    <string name="msg_restore_hotkey_done">快捷键恢复完成</string>
-    <string name="profiles_summary">情景模式可以配置在不同场景下的独立设置，方便在不同情景下使用读屏</string>
-    <string name="msg_open_file_not_supported">不支持打开该文件</string>
+    <string name="keep_focus_position_speak_title">Mantener la posición enfocada en lectura de textos largos </string>
+    <string name="save_as_cmd">Guardar como instrucción</string>
+    <string name="execute_cmd">Ejecutar el siguiente comando</string>
+    <string name="command_show_nodeinfo">Información del nodo</string>
+    <string name="copy_as_jieshuo_cmd">Copiar contraseña de Jieshuo</string>
+    <string name="copy_text_auto_execute">Copiado de texto automático</string>
+    <string name="msg_cmd_copyed">Se ha copiado, pegado y compartido</string>
+    <string name="use_custom_dict_regex_title">Usar expresiones regulares al reemplazar diccionarios</string>
+    <string name="profiles_title">Perfiles</string>
+    <string name="node_details">Detalles del nodo</string>
+    <string name="msg_has_storage">Esta función necesita guardar archivos en el almacenamiento interno, conseder permiso de almacenamiento o salir de esta función </string>
+    <string name="msg_open_error">Error al abrir</string>
+    <string name="message_load_gesture_error">Error al cambiar gestos</string>
+    <string name="msg_gesture_empty">Gesto  vacío</string>
+    <string name="msg_sound_empty">Efecto de sonido vacío</string>
+    <string name="msg_clipboard_empty">Portapapeles vacío</string>
+    <string name="msg_plugin_empty">Complemento vacío</string>
+    <string name="msg_tool_empty">Herramienta vacía</string>
+    <string name="msg_label_empty">Etiqueta vacía</string>
+    <string name="msg_setting_backup_error">Error al configurar copia de seguridad</string>
+    <string name="msg_setting_backup_done">Configuración de copia de seguridad completada</string>
+    <string name="msg_clipboard_backup_error">Error al hacer copia de seguridad del portapapeles</string>
+    <string name="msg_clipboard_backup_done">Copia de seguridad del portapapeles completada</string>
+    <string name="msg_favorite_backup_error">Error al hacer la copia de seguridad de favoritos</string>
+    <string name="msg_favorite_backup_done">Copia de seguridad de favoritos completada</string>
+    <string name="msg_timer_backup_error">计Error al hacer copia de seguridad del temporizador</string>
+    <string name="msg_timer_backup_done">Copia de seguridad del temporizador completada</string>
+    <string name="msg_label_backup_error">Error al hacer copia de seguridad de la etiqueta</string>
+    <string name="msg_label_backup_done">Copia de seguridad del la etiqueta completada</string>
+    <string name="msg_gesture_backup_error">Error al hacer la copia de seguridad de gestos</string>
+    <string name="msg_gesture_backup_done">Copia de seguridad de gestos completada</string>
+    <string name="msg_cmd_backup_error">Error al hacer la copia de seguridad de comandos</string>
+    <string name="msg_cmd_backup_done">Copia de seguridad de comandos completada</string>
+    <string name="msg_hotkey_backup_error">Error al hacer la copia de seguridad de comandos de teclado</string>
+    <string name="msg_hotkey_backup_done">Copia de seguridad de comandos de teclado completada</string>
+    <string name="msg_restore_setting_error">Error al restaurar ajustes</string>
+    <string name="msg_restore_setting_done">Restauración de ajustes completada</string>
+    <string name="msg_restore_clipboard_error">Error al restaurar el portapapeles</string>
+    <string name="msg_restore_clipboard_done">Restauración del  portapapeles completada</string>
+    <string name="msg_restore_favorite_error">Error al restaurar favoritos</string>
+    <string name="msg_restore_favorite_done">Restauración de favoritos completada</string>
+    <string name="msg_restore_timer_error">Error en la restauración del temporizador</string>
+    <string name="msg_restore_timer_done">Restauración del temporizador completada</string>
+    <string name="msg_restore_label_error">Error en la restauración de etiqueta</string>
+    <string name="msg_restore_label_done">Restauración de etiqueta completada</string>
+    <string name="msg_restore_gesture_error">Error en la restauración de gestos</string>
+    <string name="msg_restore_gesture_done">Restauración de gestos completada</string>
+    <string name="msg_restore_cmd_error">Error en la restauración de comandos</string>
+    <string name="msg_restore_cmd_done">Restauración de comandos completada</string>
+    <string name="msg_restore_hotkey_error">Error en la restauración de comandos de teclado</string>
+    <string name="msg_restore_hotkey_done">Restauración de comandos de teclado completada</string>
+    <string name="profiles_summary">El modo del perfiles se puede configurar con ajustes independientes en cada escenario, conveniente para facilitar el uso de la lectura de pantalla en diferentes escenarios</string>
+    <string name="msg_open_file_not_supported">El archivo abierto no es compatible</string>
+    <string name="ocr_clean_keyword_title">字幕识别净化关键字</string>
+    <string name="ocr_clean_keyword_summary">在字幕识别时替换净化识别结果，支持Java正则表达式</string>
+    <string name="command_set_tts_engine">选择语音库</string>
+    <string name="download_sound_package_title">下载更多音效方案</string>
+    <string name="use_single_tts_summary">所有内容均使用主语音库朗读</string>
+    <string name="notification_toast">气泡通知</string>
+    <string name="notification">通知栏通知</string>
+    <string name="gesture_3_single_tap_hold">三指单击并按住</string>
+    <string name="alua_help_title">AndroLua+语法帮助</string>
+    <string name="lua_help_title">Lua参考手册</string>
+    <string name="lua_help">lua_help</string>
+    <string name="command_disable_hotkey">暂停快捷键</string>
+    <string name="fly_pinyin_speak_title">读出拼音和音标</string>
+    <string name="use_navigation_gesture_title">单指全面屏手势</string>
+    <string name="use_navigation_gesture_summary">单指从屏幕底部向上滑动操作全面屏手势（仅支持安卓11以上）</string>
+    <string name="msg_import">已导入%s</string>
+    <string name="wallpaper_description">如果你想读屏不用权限设置不死，请把解说设置为你的壁纸</string>
+    <string name="wallpaper_title">解说壁纸(测试功能)</string>
+    <string name="wallpaper_summary">因为部分手机可能存在读屏被后台杀死问题，可以把解说设置为壁纸，以提高后台稳定性。</string>
+    <string name="nodeinfo_type">类型:</string>
+    <string name="nodeinfo_text">文字:</string>
+    <string name="nodeinfo_content_description">辅助功能说明:</string>
+    <string name="nodeinfo_state_description">状态说明:</string>
+    <string name="nodeinfo_resource_name">资源ID:</string>
+    <string name="nodeinfo_indoex">索引:</string>
+    <string name="nodeinfo_bounds_in_screen">\"位置: \"</string>
+    <string name="nodeinfo_parent">父节点</string>
+    <string name="nodeinfo_childs">\"子节点 \"</string>
+    <string name="nodeinfo_actions">\"操作: \"</string>
+    <string name="nodeinfo_clickable">可点击</string>
+    <string name="nodeinfo_not_click">不可点击</string>
+    <string name="nodeinfo_checkable">可选中</string>
+    <string name="nodeinfo_not_check">不可选中</string>
+    <string name="nodeinfo_focusable">可聚焦</string>
+    <string name="nodeinfo_not_focus">不可聚焦</string>
+    <string name="nodeinfo_focused">已获取焦点</string>
+    <string name="nodeinfo_unfocus">未获取焦点</string>
+    <string name="nodeinfo_visible">可见</string>
+    <string name="nodeinfo_invisible">不可见</string>
 
 </resources>

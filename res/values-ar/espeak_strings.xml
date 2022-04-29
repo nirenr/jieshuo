@@ -2,19 +2,19 @@
 <resources>
   <!--Source: Activity title.
         Description: Title for the Settings activity.-->
-  <string name="tts_settings_label">إعدادات eSpeak TTS</string>
+  <string name="tts_settings_label">إعدادات مُحَرِّك eSpeak TTS</string>
   <!--Source: Preference title.
         Description: Title for the preference that controls default voice pitch.-->
-  <string name="setting_default_pitch">المستوى الافتراضي</string>
+  <string name="setting_default_pitch">معدل حدة الصوت </string>
   <!--Source: Preference title.
         Description: Title for the preference that controls default speech rate.-->
-  <string name="setting_default_rate">مضاعف معدل الكلام</string>
+  <string name="setting_default_rate">معدل سرعة الصوت </string>
   <!--Source: Dialog text.
         Description: Status message shown when installing voice data.-->
   <string name="installing_voice_data">جارٍ تثبيت البيانات الصوتية…</string>
   <!--Source: Dialog message.
         Description: Alert dialog prompting the user to set eSpeak as their default TTS engine.-->
-  <string name="set_default_message">لم يتم تعيين eSpeak كمحرك افتراضي لتحويل النص إلى كلام. هل تريد تعيينه الآن؟</string>
+  <string name="set_default_message">لم يتم تعيين eSpeak كَمُحَرِّك افتراضي لتحويل النص إلى كلام. هل تريد تعيينه الآن؟</string>
   <!--Source: Dialog message.
         Description: Alert dialog telling the user that voice data installation failed.-->
   <string name="voice_data_failed_message">أخفق eSpeak في تثبيت البيانات الصوتية. الرجاء التحقق من بطاقة SD.</string>
@@ -26,7 +26,7 @@
   <string name="current_tts_locale">الصوت الافتراضي</string>
   <!--Source: Label text.
         Description: Label informing the user of how many voices are installed.-->
-  <string name="available_voices">الأصوات المثبتة</string>
+  <string name="available_voices">الأصوات المُثَبَّتة</string>
   <!--Source: Button label.
         Description: Button for launching eSpeak-specific settings.-->
   <string name="engine_settings">إعدادات eSpeak TTS</string>
@@ -35,36 +35,36 @@
   <string name="loading">جارٍ التحميل، يُرجى الانتظار...</string>
   <!--Source: Spoken aloud.
         Description: Sample text spoken aloud when the user is trying out a language.-->
-  <string name="sample_text">هذه عينة من النص الذي تم نطقه في %s</string>
-  <string name="status">Status</string>
+  <string name="sample_text">هذه عينة من النص الذي تم نُطْقُه في %s</string>
+  <string name="status">الحالة</string>
 
-  <string name="tts_version">eSpeak version</string>
-  <string name="speak">Speak</string>
+  <string name="tts_version">رقم إصدار eSpeak</string>
+  <string name="speak">إختبِر </string>
   <string name="ssml">Load SSML Template</string>
-  <string name="synthesis_demo">Enter text to speak:</string>
-  <string name="espeak_volume">Volume</string>
-  <string name="formatter_wpm">%s WPM</string>
+  <string name="synthesis_demo">أَدْخِل النص الذي تريد قراءته: </string>
+  <string name="espeak_volume">معدل مُسْتَوى الصوْت</string>
+  <string name="formatter_wpm">%s كلمة في الدقيقة</string>
   <string name="formatter_percentage">%s%%</string>
-  <string name="resetToDefault">Set to default</string>
-  <string name="espeak_pitch_range">Pitch variation</string>
-  <string name="espeak_variant">Voice variant</string>
-  <string name="espeak_speak_punctuation">Speak punctuation</string>
-  <string name="punctuation_all">All</string>
-  <string name="punctuation_custom">Custom</string>
-  <string name="punctuation_custom_fmt">Custom: %s</string>
-  <string name="punctuation_none">None</string>
-  <string name="punctuation_characters">Punctuation characters</string>
-  <string name="category">Category</string>
-  <string name="variant">Variant</string>
-  <string name="variant_male">Male</string>
-  <string name="variant_female">Female</string>
-  <string name="variant_default">Default</string>
-  <string name="variant_n">Variant %d</string>
-  <string name="variant_young">Young</string>
-  <string name="variant_old">Old</string>
-  <string name="variant_croak">Croak</string>
-  <string name="variant_whisper">Whisper</string>
-  <string name="import_voice_title">Import eSpeak dictionary</string>
-  <string name="import_voice_description">Import an eSpeak voice dictionary file from the SD card.</string>
+  <string name="resetToDefault">الافتراضي</string>
+  <string name="espeak_pitch_range">معدل تباين الصوت </string>
+  <string name="espeak_variant">الصوت</string>
+  <string name="espeak_speak_punctuation">نُطْق علامات الترقيم</string>
+  <string name="punctuation_all">الكل</string>
+  <string name="punctuation_custom">تخصيص</string>
+  <string name="punctuation_custom_fmt">تخصيص: %s</string>
+  <string name="punctuation_none">لا شيء</string>
+  <string name="punctuation_characters">علامات الترقيم</string>
+  <string name="category">الفئة</string>
+  <string name="variant">الأصوات</string>
+  <string name="variant_male">ذَكَر</string>
+  <string name="variant_female">أنثى</string>
+  <string name="variant_default">الافتراضي</string>
+  <string name="variant_n">الصوت %d</string>
+  <string name="variant_young">يافع</string>
+  <string name="variant_old">عجوز</string>
+  <string name="variant_croak">مبحوح</string>
+  <string name="variant_whisper">هامس</string>
+  <string name="import_voice_title">استيراد القاموس: </string>
+  <string name="import_voice_description">استيراد قاموس eSpeak من وحدة التخزين. </string>
 
 </resources>

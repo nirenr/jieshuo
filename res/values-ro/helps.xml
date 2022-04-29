@@ -419,10 +419,10 @@ Prima parte a gestului combinat trebuie să fie mai lungă de jumătate din lung
         <item>Dialog\n
         Cancel left\n
         OK right</item>
-        <item>Glisorul de progres\n
+        <item>Bara de progres\n
 		Glisați spre stânga pentru a micșora glisorul\n
         Glisați spre dreapta pentru a mări glisorul</item>
-        <item>Caseta de editare\n
+        <item>Caseta de text\n
         Mutați cursorul înainte\n
         Mutați cursorul înapoi</item>
         <item>Word-by-word browse mode gestures:\n
@@ -453,27 +453,28 @@ Prima parte a gestului combinat trebuie să fie mai lungă de jumătate din lung
         Left swipe: go to the parent node.\n
         Right swipe: Go to the child node.\n
         Down left swipe: exit the node.</item>
-        <item>Voice assistant manual: \n
-        Open AppName: Opens the given app
-        Send Content: allows direct sending to QQ and Wechat
-        Search for content: performs the online search for the given phrase
-        Voice assistant is extensible thanks to the editing menus and plugins.</item>
+        <item>Manual pentru Asistentul Vocal: \n
+        Deschidere (Numele aplicației): Deschide aplicația dată
+        Trimitere (Textul dorit): Permite trimiterea directă către QQ și Wechat
+        Căutare (Textul dorit): efectuează căutarea online pentru fraza dată
+        Asistentul vocal se poate îmbunătați cu ajutorul meniurilor editabile și a extensiilor.</item>
     </string-array>
     <string-array name="voice_helper_help_items">
-        <item>Open the given program: Open application name</item>
-        <item>Install the given program: install Application Name</item>
-        <item>Uninstall the given program: uninstall Application Name</item>
-        <item>Read Everything: Read the whole screen</item>
+        <item>Deschide (Numele aplicației): Deschide aplicația dată</item>
+        <item>Instalare (Numele aplicației): Instalează aplicația din Magazin Play</item>
+        <item>Dezinstalare (numele aplicației): Deschide dialogul de dezinstalare a aplicației rostite</item>
+        <item>Citire integrală: Citește tot de pe ecranul curent</item>
         <item>Read aloud: read aloud and follow the cursor</item>
-        <item>Current Brightness: read the environment\'s brightness.</item>
-        <item>Click: activate the focused element.</item>
+        <item>Citire luminozitate curentă: Citirea luminozității mediului ambiant</item>
+        <item>Click: Activează elementul focalizat.</item>
         <item>Activate specified item: activate item with the specified name</item>
-        <item>Copy currently focused item: Copy the currently focused item to the clipboard</item>
-        <item>Translate: Translate the currently focused text.</item>
+        <item>Copiere: Copiază elementul focalizat în clipboard.</item>
+        <item>Traducere: Traduce textul elementului focalizat.</item>
         <item>Translate LanguageName: Translate the currently focused text to a given language</item>
         <item>Select: Selects the given text</item>
-        <item>Send a message in the qq WeChat chat window: Hello send</item>
-        <item>ENter Text: Enters the spoken text in the text box</item>
+        <item>Trimitere (Textul dorit): Permite trimiterea directă către QQ și Wechat.</item>
+        <item>"Introducere: Introduce textul rostit în caseta de text focalizată.
+"</item>
         <item>Long Input: Long dictation mode</item>
         <item>Check weather: checks the weather</item>
         <item>Check the ticket: checks the train tickets.</item>

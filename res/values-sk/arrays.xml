@@ -1,78 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="action_menu_items">
-        <item>@string/command_clean</item>
-        <item>@string/command_select</item>
-        <item>@string/command_copy</item>
-        <item>@string/command_append_copy</item>
-        <item>@string/command_paste</item>
-        <item>@string/clipboard_menu_title</item>
-        <item>@string/favorites_menu_title</item>
-        <item>@string/split_edit_title</item>
-        <item>@string/command_long_copy</item>
-    </string-array>
-    <string-array name="advanced_menu_items">
-        <item>Preklad</item>
-        <item>Rozpoznávanie scén</item>
-        <item>Rozpoznávanie textu</item>
-        <item>Rozpoznávanie tvárí</item>
-        <item>Rozpoznávanie captcha</item>
-        <item>Výsledok rozpoznávania</item>
-        <item>Popisovanie obrázkov</item>
-    </string-array>
-    <string-array name="alarm_hour_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-        <item>14</item>
-        <item>15</item>
-        <item>16</item>
-        <item>17</item>
-        <item>18</item>
-        <item>19</item>
-        <item>20</item>
-        <item>21</item>
-        <item>22</item>
-        <item>23</item>
-        <item>24</item>
-    </string-array>
-    <string-array name="alarm_interval_entries">
-        <item>Každých 5 minút</item>
-        <item>Každých 10 minút</item>
-        <item>Každých 15 minút</item>
-        <item>Každých 30 minút</item>
-        <item>Každých 60 minút</item>
-    </string-array>
-    <string-array name="alarm_interval_values">
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>30</item>
-        <item>60</item>
-    </string-array>
-    <string-array name="edge_gesture_width_entries">
-        <item>Nízka</item>
-        <item>Stredná</item>
-        <item>Veľká</item>
-        <item>Najväčšia</item>
-    </string-array>
-    <string-array name="edge_gesture_width_values">
-        <item>8</item>
-        <item>12</item>
-        <item>16</item>
-        <item>20</item>
-    </string-array>
     <string-array name="execute_command">
         <item>@string/command_nothing</item>
         <item>@string/directory_plugins</item>
@@ -83,7 +10,7 @@
         <item>@string/to_previous_granularity</item>
         <item>@string/to_next_granularity</item>
         <item>@string/to_previous_granularity_item</item>
-       <item>@string/to_next_granularity_item</item>
+        <item>@string/to_next_granularity_item</item>
 
         <item>@string/add_node_changed_list</item>
         <item>@string/node_changed_list_manager</item>
@@ -197,9 +124,309 @@
         <item>@string/command_media_next</item>
         <item>@string/command_previous_window</item>
         <item>@string/command_next_window</item>
+        <item>@string/command_set_tts_engine</item>
+        <item>@string/profiles_title</item>
+        <item>@string/use_ocr_title</item>
 
-        </string-array>
+        <!--item>Quick browsing mode</item-->
+    </string-array>
+    <string-array name="right_menu_items">
+        <item>@string/command_click</item>
+        <item>@string/command_long_click</item>
+        <item>@string/command_start</item>
+        <item>@string/command_end</item>
+        <item>@string/command_copy</item>
+        <item>@string/command_append_copy</item>
+        <item>@string/command_paste</item>
+        <item>@string/clipboard_menu_title</item>
+        <item>@string/favorites_menu_title</item>
+        <item>@string/split_edit_title</item>
+        <item>@string/command_long_copy</item>
+        <item>@string/command_trans</item>
+        <item>@string/command_verification2</item>
+        <item>@string/command_timer_mode</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="left_menu_items">
+        <item>@string/command_auto_next</item>
+        <item>@string/command_read_mode</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/split_menu_title</item>
+        <item>@string/command_verbatim_speak2</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/command_all_select</item>
+        <item>@string/command_ocr_text</item>
+        <item>@string/plugin_title</item>
+        <item>@string/command_notification_box</item>
+        <item>@string/command_to_notifications</item>
+        <item>@string/command_long_edit</item>
+        <item>@string/command_gestures_edit</item>
+        <item>@string/command_virtual_screen</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="action_menu_items">
+        <item>@string/command_clean</item>
+        <item>@string/command_select</item>
+        <item>@string/command_copy</item>
+        <item>@string/command_append_copy</item>
+        <item>@string/command_paste</item>
+        <item>@string/clipboard_menu_title</item>
+        <item>@string/favorites_menu_title</item>
+        <item>@string/split_edit_title</item>
+        <item>@string/command_long_copy</item>
+        <item>Open keyboard</item>
 
+    </string-array>
+    <string-array name="menu_def_items">
+        <item>@string/split_menu_title</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/command_voice_helper</item>
+        <item>@string/plugin_title</item>
+        <item>@string/main_setting</item>
+        <item>@string/command_disable_feedback</item>
+    </string-array>
+    <string-array name="menu_items">
+        <item>@string/action_menu_title</item>
+        <item>@string/advanced_menu_title</item>
+        <item>@string/command_auto_next</item>
+        <item>@string/command_read_mode</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/command_node_mode</item>
+        <item>@string/split_menu_title</item>
+        <item>@string/command_verbatim_speak2</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/all_text_title</item>
+        <item>@string/command_all_select</item>
+        <item>@string/command_voice_helper</item>
+        <item>@string/command_ocr_text</item>
+        <item>@string/camera_title</item>
+        <item>@string/plugin_title</item>
+        <item>@string/tool_title</item>
+        <item>@string/main_setting</item>
+        <item>@string/command_disable_touch</item>
+        <item>@string/command_disable_feedback</item>
+        <item>@string/command_notification_box</item>
+        <item>@string/command_to_notifications</item>
+        <item>@string/command_long_edit</item>
+        <item>@string/command_gestures_edit</item>
+        <item>@string/command_enable_dim_screen</item>
+        <item>@string/command_virtual_screen</item>
+        <item>@string/command_quick_mode</item>
+        <item>@string/command_supper_mode</item>
+        <item>@string/command_virtual_navigation</item>
+    </string-array>
+    <string-array name="left_button">
+        <item>Zavesiť</item>
+        <item>Odmietnuť</item>
+        <item>Ukončiť</item>
+        <item>Skončiť</item>
+        <item>Ukončiť hovor</item>
+        <item>Prejsť na</item>
+        <item>Hang up</item>
+        <item>Decline</item>
+        <item>*Swipe left to decline*</item>
+        <item>End call</item>
+        <item>Hang up</item>
+        <item>End call</item>
+        <item>结束QQ通话</item>
+        <item>结束QQ电话</item>
+        <item>Previous media</item>
+        <item>Previous track</item>
+        <item>Go back</item>
+    </string-array>
+    <string-array name="right_button">
+        <item>Prijať hovor</item>
+        <item>Prijať</item>
+        <item>Reproduktor</item>
+        <item>Answer</item>
+        <item>*Swipe right to answer*</item>
+        <item>Hands-free</item>
+        <item>Speaker</item>
+        <item>Next media</item>
+        <item>Next track</item>
+    </string-array>
+
+    <string-array name="voice_recognizer_values">
+        <item>3</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="voice_recognizer_entries">
+        <item>System</item>
+        <item>Engine 1</item>
+        <item>Engine 2</item>
+        <item>Engine 3</item>
+    </string-array>
+    <string-array name="tts_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+        <item>64</item>
+        <item>65</item>
+        <item>66</item>
+        <item>67</item>
+        <item>68</item>
+        <item>69</item>
+        <item>70</item>
+        <item>71</item>
+        <item>72</item>
+        <item>73</item>
+        <item>74</item>
+        <item>75</item>
+        <item>76</item>
+        <item>77</item>
+        <item>78</item>
+        <item>79</item>
+        <item>80</item>
+        <item>81</item>
+        <item>82</item>
+        <item>83</item>
+        <item>84</item>
+        <item>85</item>
+        <item>86</item>
+        <item>87</item>
+        <item>88</item>
+        <item>89</item>
+        <item>90</item>
+        <item>91</item>
+        <item>92</item>
+        <item>93</item>
+        <item>94</item>
+        <item>95</item>
+        <item>96</item>
+        <item>97</item>
+        <item>98</item>
+        <item>99</item>
+        <item>100</item>
+    </string-array>
+    <!--string-array name="tts_speaker_title">
+        <item>Ženský hlas</item>
+        <item>Mužský hlas</item>
+        <item>Du Xiao Yao</item>
+        <item>Du Ya Ya</item>
+    </string-array>
+    <string-array name="tts_speaker">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array-->
+    <string-array name="vibrate_intensity_entries">
+        <item>Nízka</item>
+        <item>Stredná</item>
+        <item>Vysoká</item>
+        <item>Veľmi vysoká</item>
+    </string-array>
+    <string-array name="vibrate_intensity_values">
+        <item>12</item>
+        <item>32</item>
+        <item>48</item>
+        <item>64</item>
+    </string-array>
+    <string-array name="long_click_entries">
+        <item>Krátke</item>
+        <item>Stredné</item>
+        <item>Dlhé</item>
+    </string-array>
+    <string-array name="long_click_values">
+        <item>500</item>
+        <item>750</item>
+        <item>1000</item>
+    </string-array>
+    <string-array name="edge_gesture_width_entries">
+        <item>Nízka</item>
+        <item>Stredná</item>
+        <item>Veľká</item>
+        <item>Najväčšia</item>
+    </string-array>
+    <string-array name="edge_gesture_width_values">
+        <item>8</item>
+        <item>12</item>
+        <item>16</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="tts_speaker_entries">
+        <item>Xiao Yan</item>
+        <item>Xiao Feng</item>
+    </string-array>
+    <string-array name="tts_speaker_values">
+        <item>xiaoyan</item>
+        <item>xiaofeng</item>
+    </string-array>
+    <string-array name="advanced_menu_items">
+        <item>Preklad</item>
+        <item>Rozpoznávanie scén</item>
+        <item>Rozpoznávanie textu</item>
+        <item>Rozpoznávanie tvárí</item>
+        <item>Rozpoznávanie captcha</item>
+        <item>Výsledok rozpoznávania</item>
+        <item>Popisovanie obrázkov</item>
+        <item>Overenie posúvných puzzle</item>
+        <item>Exam recognition</item>
+    </string-array>
     <string-array name="lang_entries">
         <item>auto</item>
         <item>Kórejčina</item>
@@ -231,178 +458,178 @@
         <item>Poľština</item>
         <item>Vietnamčina</item>
 
-        <item>爱尔兰语</item>
-        <item>奥克语</item>
-        <item>阿尔巴尼亚语</item>
-        <item>阿肯语</item>
-        <item>阿拉贡语</item>
-        <item>阿姆哈拉语</item>
-        <item>阿萨姆语</item>
-        <item>艾马拉语</item>
-        <item>阿塞拜疆语</item>
-        <item>阿斯图里亚斯语</item>
-        <item>奥塞梯语</item>
-        <item>奥杰布瓦语</item>
-        <item>奥里亚语</item>
-        <item>奥罗莫语</item>
-        <item>波斯语</item>
-        <item>布列塔尼语</item>
-        <item>巴什基尔语</item>
-        <item>巴斯克语</item>
-        <item>巴西葡萄牙语</item>
-        <item>白俄罗斯语</item>
-        <item>柏柏尔语</item>
-        <item>邦板牙语</item>
-        <item>北方萨米语</item>
-        <item>北索托语</item>
-        <item>本巴语</item>
-        <item>比林语</item>
-        <item>比斯拉马语</item>
-        <item>俾路支语</item>
-        <item>冰岛语</item>
-        <item>波斯尼亚语</item>
-        <item>博杰普尔语</item>
-        <item>楚瓦什语</item>
-        <item>聪加语</item>
-        <item>鞑靼语</item>
-        <item>掸语</item>
-        <item>德顿语</item>
-        <item>迪维希语</item>
-        <item>低地德语</item>
-        <item>菲律宾语</item>
-        <item>梵语</item>
-        <item>弗留利语</item>
-        <item>富拉尼语</item>
-        <item>法罗语</item>
-        <item>盖尔语</item>
-        <item>刚果语</item>
-        <item>高地索布语</item>
-        <item>高棉语</item>
-        <item>格陵兰语</item>
-        <item>格鲁吉亚语</item>
-        <item>古吉拉特语</item>
-        <item>古希腊语</item>
-        <item>古英语</item>
-        <item>瓜拉尼语</item>
-        <item>胡帕语</item>
-        <item>哈卡钦语</item>
-        <item>海地语</item>
-        <item>豪萨语</item>
-        <item>黑山语</item>
-        <item>吉尔吉斯语</item>
-        <item>加利西亚语</item>
-        <item>加拿大法语</item>
-        <item>加泰罗尼亚语</item>
-        <item>卡拜尔语</item>
-        <item>卡纳达语</item>
-        <item>卡努里语</item>
-        <item>卡舒比语</item>
-        <item>康瓦尔语</item>
-        <item>科萨语</item>
-        <item>科西嘉语</item>
-        <item>克里克语</item>
-        <item>克里米亚鞑靼语</item>
-        <item>克林贡语</item>
-        <item>克罗地亚语</item>
-        <item>克丘亚语</item>
-        <item>克什米尔语</item>
-        <item>孔卡尼语</item>
-        <item>库尔德语</item>
-        <item>拉丁语</item>
-        <item>老挝语</item>
-        <item>拉特加莱语</item>
-        <item>拉脱维亚语</item>
-        <item>林堡语</item>
-        <item>林加拉语</item>
-        <item>卢干达语</item>
-        <item>卢森堡语</item>
-        <item>卢森尼亚语</item>
-        <item>卢旺达语</item>
-        <item>立陶宛语</item>
-        <item>罗曼什语</item>
-        <item>罗姆语</item>
-        <item>逻辑语</item>
-        <item>马来语</item>
-        <item>缅甸语</item>
-        <item>马拉地语</item>
-        <item>马拉加斯语</item>
-        <item>马拉雅拉姆语</item>
-        <item>马其顿语</item>
-        <item>马绍尔语</item>
-        <item>迈蒂利语</item>
-        <item>曼克斯语</item>
-        <item>毛里求斯克里奥尔语</item>
-        <item>毛利语</item>
-        <item>孟加拉语</item>
-        <item>马耳他语</item>
-        <item>苗语</item>
-        <item>挪威语</item>
-        <item>那不勒斯语</item>
-        <item>南恩德贝莱语</item>
-        <item>南非荷兰语</item>
-        <item>南索托语</item>
-        <item>尼泊尔语</item>
-        <item>旁遮普语</item>
-        <item>帕皮阿门托语</item>
-        <item>普什图语</item>
-        <item>齐切瓦语</item>
-        <item>契维语</item>
-        <item>切罗基语</item>
-        <item>萨丁尼亚语</item>
-        <item>萨摩亚语</item>
-        <item>塞尔维亚-克罗地亚语</item>
-        <item>塞尔维亚语</item>
-        <item>桑海语</item>
-        <item>僧伽罗语</item>
-        <item>世界语</item>
-        <item>书面挪威语</item>
-        <item>斯洛伐克语</item>
-        <item>斯瓦希里语</item>
-        <item>索马里语</item>
-        <item>塞尔维亚语（西里尔）</item>
-        <item>土耳其语</item>
-        <item>塔吉克语</item>
-        <item>泰米尔语</item>
-        <item>他加禄语</item>
-        <item>提格利尼亚语</item>
-        <item>泰卢固语</item>
-        <item>突尼斯阿拉伯语</item>
-        <item>土库曼语</item>
-        <item>乌克兰语</item>
-        <item>瓦隆语</item>
-        <item>威尔士语</item>
-        <item>文达语</item>
-        <item>沃洛夫语</item>
-        <item>乌尔都语</item>
-        <item>希伯来语</item>
-        <item>西弗里斯语</item>
-        <item>西里西亚语</item>
-        <item>希利盖农语</item>
-        <item>下索布语</item>
-        <item>夏威夷语</item>
-        <item>新挪威语</item>
-        <item>西非书面语</item>
-        <item>信德语</item>
-        <item>修纳语</item>
-        <item>宿务语</item>
-        <item>叙利亚语</item>
-        <item>巽他语</item>
-        <item>印地语</item>
-        <item>印尼语</item>
-        <item>意第绪语</item>
-        <item>因特语</item>
-        <item>亚齐语</item>
-        <item>印古什语</item>
-        <item>伊博语</item>
-        <item>伊多语</item>
-        <item>约鲁巴语</item>
-        <item>亚美尼亚语</item>
-        <item>伊努克提图特语</item>
-        <item>伊朗语</item>
-        <item>扎扎其语</item>
-        <item>中古法语</item>
-        <item>祖鲁语</item>
-        <item>爪哇语</item>
+        <item>Írčina</item>
+        <item>Orkčina</item>
+        <item>Albánčina</item>
+        <item>Akančina</item>
+        <item>Aragónčina</item>
+        <item>Amharčina</item>
+        <item>Asamčina</item>
+        <item>Aymarčina</item>
+        <item>Azerbajdžančina</item>
+        <item>Astúrčina</item>
+        <item>Osetčina</item>
+        <item>Ojibwa</item>
+        <item>Oryan</item>
+        <item>Oromo</item>
+        <item>Persian</item>
+        <item>Breton</item>
+        <item>Bashkir</item>
+        <item>Basque</item>
+        <item>Brazilian Portuguese</item>
+        <item>Belarusian</item>
+        <item>Berber</item>
+        <item>Pampanga</item>
+        <item>Northern Sami</item>
+        <item>Northern Sotho</item>
+        <item>Bemba</item>
+        <item>Birim</item>
+        <item>Bislama</item>
+        <item>Balochian</item>
+        <item>Icelandic</item>
+        <item>Bosnian</item>
+        <item>Bhojpuri</item>
+        <item>Chuvash</item>
+        <item>Conga</item>
+        <item>Tatar</item>
+        <item>Shan</item>
+        <item>Detun</item>
+        <item>Dhivehi</item>
+        <item>Lowland German</item>
+        <item>Filipino</item>
+        <item>Sanskrit</item>
+        <item>Friuli</item>
+        <item>Fulani</item>
+        <item>Faroese</item>
+        <item>Gaelic</item>
+        <item>Congo</item>
+        <item>Highland Sorbian</item>
+        <item>Khmer</item>
+        <item>Greenlandic</item>
+        <item>Georgian</item>
+        <item>Gujarati</item>
+        <item>Ancient Greek</item>
+        <item>Old English</item>
+        <item>Guarani</item>
+        <item>Hupa</item>
+        <item>Hakachin</item>
+        <item>Haitian</item>
+        <item>Hausa</item>
+        <item>Montenegrin</item>
+        <item>Kyrgyz</item>
+        <item>Galician</item>
+        <item>Canadian French</item>
+        <item>Catalan</item>
+        <item>Kabairian</item>
+        <item>Kanadian</item>
+        <item>Kanuri</item>
+        <item>Kashubian</item>
+        <item>Kangwar</item>
+        <item>Corsa</item>
+        <item>Corsican</item>
+        <item>Creek</item>
+        <item>Crimea Tatar</item>
+        <item>Klingon</item>
+        <item>Croatian</item>
+        <item>Kechuan</item>
+        <item>Kashmiri</item>
+        <item>Konkani</item>
+        <item>Kurdish</item>
+        <item>Latin</item>
+        <item>Laotian</item>
+        <item>Latgalai</item>
+        <item>Latvian</item>
+        <item>Limburgish</item>
+        <item>Lingala</item>
+        <item>Luganda</item>
+        <item>Luxembourgish</item>
+        <item>Lushanian</item>
+        <item>Rwandan</item>
+        <item>Lithuanian</item>
+        <item>Romansh</item>
+        <item>Roma</item>
+        <item>Logic</item>
+        <item>Malay</item>
+        <item>Burmese</item>
+        <item>Marathi</item>
+        <item>Malagasy</item>
+        <item>Malayalam</item>
+        <item>Macedonian</item>
+        <item>Marshallese</item>
+        <item>Maitili</item>
+        <item>Manx</item>
+        <item>Mauritian Creole</item>
+        <item>Maori</item>
+        <item>Bengali</item>
+        <item>Maltese</item>
+        <item>Hmong</item>
+        <item>Norwegian</item>
+        <item>Neapolitan</item>
+        <item>South Ndebele</item>
+        <item>African Dutch</item>
+        <item>South Sotho</item>
+        <item>Nepali</item>
+        <item>Punjabi</item>
+        <item>Papi Amento</item>
+        <item>Pashto</item>
+        <item>Chichewa</item>
+        <item>Chivean</item>
+        <item>Cherokee</item>
+        <item>Sardinian</item>
+        <item>Samoan</item>
+        <item>Serbian-Croatian</item>
+        <item>Serbian</item>
+        <item>Sanghainese</item>
+        <item>Sinhalese</item>
+        <item>Asperanto</item>
+        <item>Written Norwegian</item>
+        <item>Slovak</item>
+        <item>Kiswahili</item>
+        <item>Somali</item>
+        <item>Serbian (Cyrillic)</item>
+        <item>Turkish</item>
+        <item>Tajik</item>
+        <item>Tamil</item>
+        <item>Tagalog</item>
+        <item>Tigrinya</item>
+        <item>Telugu</item>
+        <item>Tunisian Arabic</item>
+        <item>Turkmen</item>
+        <item>Ukrainian</item>
+        <item>Walloon</item>
+        <item>Welsh</item>
+        <item>Vinda</item>
+        <item>Volovian</item>
+        <item>Urdu</item>
+        <item>Hebrew</item>
+        <item>Sepharic</item>
+        <item>Cilician</item>
+        <item>Hiligaynon</item>
+        <item>Lower Sorbian</item>
+        <item>Hawaiian</item>
+        <item>New Norwegian</item>
+        <item>Western African written language</item>
+        <item>Sindhi</item>
+        <item>Shona</item>
+        <item>Cebuano</item>
+        <item>Syriac</item>
+        <item>Sundanese</item>
+        <item>Hindi</item>
+        <item>Indonesian</item>
+        <item>Yiddish</item>
+        <item>Inte</item>
+        <item>Azeri</item>
+        <item>Ingush</item>
+        <item>Ibo language</item>
+        <item>Ido language</item>
+        <item>Yoruba</item>
+        <item>Armenian</item>
+        <item>Inuktitut</item>
+        <item>Iranian</item>
+        <item>Zazaqi</item>
+        <item>Medieval French</item>
+        <item>Zulu</item>
+        <item>Javanese</item>
     </string-array>
     <string-array name="lang_values">
         <item>auto</item>
@@ -609,135 +836,41 @@
         <item>jav</item>
     </string-array>
 
-    <string-array name="left_button">
-        <item>Zavesiť</item>
-        <item>Odmietnuť</item>
-        <item>Ukončiť</item>
-        <item>Skončiť</item>
-        <item>Ukončiť hovor</item>
-        <item>Prejsť na</item>
-        <item>Hang up</item>
-        <item>Reject</item>
-        <item>*Swipe to reject incoming call*</item>
-        <item>End call</item>
-        <item>Hang up call</item>
-        <item>Hang up call</item>
-        <item>End QQ call</item>
-        <item>End QQ call</item>
-        <item>Switch to the previous element</item>
-        <item>Previous track</item>
-        <item>Navigate up</item>
-        <item>Decline</item>
+    <string-array name="tts_engine_values">
+        <item>system</item>
+        <item>unisound</item>
+        <item>baidu</item>
     </string-array>
-    <string-array name="left_menu_items">
-        <item>@string/command_auto_next</item>
-        <item>@string/command_read_mode</item>
-        <item>@string/list_mode_title</item>
-        <item>@string/split_menu_title</item>
-        <item>@string/command_verbatim_speak2</item>
-        <item>@string/command_all_speak</item>
-        <item>@string/command_all_select</item>
-        <item>@string/command_ocr_text</item>
-        <item>@string/plugin_title</item>
-        <item>@string/command_notification_box</item>
-        <item>@string/command_to_notifications</item>
-        <item>@string/command_long_edit</item>
-        <item>@string/command_gestures_edit</item>
-        <item>@string/command_virtual_screen</item>
-        <item>@string/cancel</item>
+    <string-array name="tts_engine_entries">
+        <item>TTS systému</item>
+        <item>Uni sound</item>
+        <item>Baidu</item>
     </string-array>
-    <string-array name="long_click_entries">
-        <item>Krátke</item>
-        <item>Stredné</item>
-        <item>Dlhé</item>
+    <string-array name="tts_engine_vip_values">
+        <item>system</item>
+        <item>iflytek</item>
+        <item>unisound</item>
+        <item>baidu</item>
     </string-array>
-    <string-array name="long_click_values">
-        <item>500</item>
-        <item>750</item>
-        <item>1000</item>
+    <string-array name="tts_engine_vip_entries">
+        <item>TTS systému</item>
+        <item>IFlytek</item>
+        <item>Uni sound</item>
+        <item>Baidu Cloud TTS</item>
     </string-array>
-    <string-array name="menu_def_items">
-        <item>@string/split_menu_title</item>
-        <item>@string/list_mode_title</item>
-        <item>@string/command_all_speak</item>
-        <item>@string/command_voice_helper</item>
-        <item>@string/plugin_title</item>
-        <item>@string/main_setting</item>
-        <item>@string/command_disable_feedback</item>
+    <string-array name="alarm_interval_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
     </string-array>
-    <string-array name="menu_items">
-        <item>@string/action_menu_title</item>
-        <item>@string/advanced_menu_title</item>
-        <item>@string/command_auto_next</item>
-        <item>@string/command_read_mode</item>
-        <item>@string/list_mode_title</item>
-        <item>@string/command_node_mode</item>
-        <item>@string/split_menu_title</item>
-        <item>@string/command_verbatim_speak2</item>
-        <item>@string/command_all_speak</item>
-        <item>@string/all_text_title</item>
-        <item>@string/command_all_select</item>
-        <item>@string/command_voice_helper</item>
-        <item>@string/command_ocr_text</item>
-        <item>@string/camera_title</item>
-        <item>@string/plugin_title</item>
-        <item>@string/tool_title</item>
-        <item>@string/main_setting</item>
-        <item>@string/command_disable_touch</item>
-        <item>@string/command_disable_feedback</item>
-        <item>@string/command_notification_box</item>
-        <item>@string/command_to_notifications</item>
-        <item>@string/command_long_edit</item>
-        <item>@string/command_gestures_edit</item>
-        <item>@string/command_enable_dim_screen</item>
-        <item>@string/command_virtual_screen</item>
-        <item>@string/command_quick_mode</item>
-        <item>@string/command_supper_mode</item>
-        <item>@string/command_virtual_navigation</item>
-    </string-array>
-    <string-array name="recognizer_lang_entries">
-        <item>Zjednodušená čínština</item>
-        <item>Tradičná čínština</item>
-        <item>Angličtina</item>
-    </string-array>
-    <string-array name="recognizer_lang_values">
-        <item>zh_CN</item>
-        <item>zh_GD</item>
-        <item>en_GB</item>
-    </string-array>
-    <string-array name="right_button">
-        <item>Prijať hovor</item>
-        <item>Prijať</item>
-        <item>Answer call</item>
-        <item>*Swipe to answer the call*</item>
-        <item>Handsfree mode</item>
-        <item>Speaker mode</item>
-        <item>Switch to the next element</item>
-        <item>Next track</item>
-        <item>Accept</item>
-    </string-array>
-    <string-array name="right_menu_items">
-        <item>@string/command_click</item>
-        <item>@string/command_long_click</item>
-        <item>@string/command_start</item>
-        <item>@string/command_end</item>
-        <item>@string/command_copy</item>
-        <item>@string/command_append_copy</item>
-        <item>@string/command_paste</item>
-        <item>@string/clipboard_menu_title</item>
-        <item>@string/favorites_menu_title</item>
-        <item>@string/split_edit_title</item>
-        <item>@string/command_long_copy</item>
-        <item>@string/command_trans</item>
-        <item>@string/command_verification2</item>
-        <item>@string/command_timer_mode</item>
-        <item>@string/cancel</item>
-    </string-array>
-    <string-array name="timer_interval_entries">
-        <item>1 minúta</item>
-        <item>5 minút</item>
-        <item>10 minút</item>
-        <item>15 minút</item>
+    <string-array name="alarm_interval_entries">
+        <item>Každých 5 minút</item>
+        <item>Každých 10 minút</item>
+        <item>Každých 15 minút</item>
+        <item>Každých 30 minút</item>
+        <item>Každých 60 minút</item>
     </string-array>
     <string-array name="timer_interval_values">
         <item>1</item>
@@ -745,47 +878,13 @@
         <item>10</item>
         <item>15</item>
     </string-array>
-    <string-array name="tts_engine_entries">
-        <item>TTS systému</item>
-        <item>Yunzhisheng TTS</item>
+    <string-array name="timer_interval_entries">
+        <item>1 minúta</item>
+        <item>5 minút</item>
+        <item>10 minút</item>
+        <item>15 minút</item>
     </string-array>
-    <string-array name="tts_engine_values">
-        <item>systém</item>
-        <item>unisound</item>
-    </string-array>
-    <string-array name="tts_engine_vip_entries">
-        <item>TTS systému</item>
-        <item>Xunfei TTS</item>
-        <item>Yunzhisheng TTS</item>
-    </string-array>
-    <string-array name="tts_engine_vip_values">
-        <item>systém</item>
-        <item>iflytek</item>
-        <item>unisound</item>
-    </string-array>
-    <string-array name="tts_scale_entries">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-    </string-array>
-    <string-array name="tts_scale_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-    </string-array>
-    <string-array name="tts_speaker_entries">
-        <item>Xiaoyan</item>
-        <item>Xiaofeng</item>
-    </string-array>
-    <string-array name="tts_speaker_values">
-        <item>xiaoyan</item>
-        <item>xiaofeng</item>
-    </string-array>
-    <string-array name="tts_values">
+    <string-array name="alarm_hour_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
@@ -811,108 +910,32 @@
         <item>22</item>
         <item>23</item>
         <item>24</item>
-        <item>25</item>
-        <item>26</item>
-        <item>27</item>
-        <item>28</item>
-        <item>29</item>
-        <item>30</item>
-        <item>31</item>
-        <item>32</item>
-        <item>33</item>
-        <item>34</item>
-        <item>35</item>
-        <item>36</item>
-        <item>37</item>
-        <item>38</item>
-        <item>39</item>
-        <item>40</item>
-        <item>41</item>
-        <item>42</item>
-        <item>43</item>
-        <item>44</item>
-        <item>45</item>
-        <item>46</item>
-        <item>47</item>
-        <item>48</item>
-        <item>49</item>
-        <item>50</item>
-        <item>51</item>
-        <item>52</item>
-        <item>53</item>
-        <item>54</item>
-        <item>55</item>
-        <item>56</item>
-        <item>57</item>
-        <item>58</item>
-        <item>59</item>
-        <item>60</item>
-        <item>61</item>
-        <item>62</item>
-        <item>63</item>
-        <item>64</item>
-        <item>65</item>
-        <item>66</item>
-        <item>67</item>
-        <item>68</item>
-        <item>69</item>
-        <item>70</item>
-        <item>71</item>
-        <item>72</item>
-        <item>73</item>
-        <item>74</item>
-        <item>75</item>
-        <item>76</item>
-        <item>77</item>
-        <item>78</item>
-        <item>79</item>
-        <item>80</item>
-        <item>81</item>
-        <item>82</item>
-        <item>83</item>
-        <item>84</item>
-        <item>85</item>
-        <item>86</item>
-        <item>87</item>
-        <item>88</item>
-        <item>89</item>
-        <item>90</item>
-        <item>91</item>
-        <item>92</item>
-        <item>93</item>
-        <item>94</item>
-        <item>95</item>
-        <item>96</item>
-        <item>97</item>
-        <item>98</item>
-        <item>99</item>
-        <item>100</item>
     </string-array>
-    <string-array name="vibrate_intensity_entries">
-        <item>Nízka</item>
-        <item>Stredná</item>
-        <item>Vysoká</item>
-        <item>Veľmi vysoká</item>
+    <string-array name="recognizer_lang_entries">
+        <item>Zjednodušená čínština</item>
+        <item>Tradičná čínština</item>
+        <item>Angličtina</item>
     </string-array>
-    <string-array name="vibrate_intensity_values">
-        <item>12</item>
-        <item>32</item>
-        <item>48</item>
-        <item>64</item>
+    <string-array name="recognizer_lang_values">
+        <item>zh_CN</item>
+        <item>zh_GD</item>
+        <item>en_GB</item>
     </string-array>
-    <string-array name="voice_recognizer_entries">
-        <item>Systém</item>
-        <item>Engine 1</item>
-        <item>Engine 2</item>
-        <item>Engine 3</item>
-    </string-array>
-    <string-array name="voice_recognizer_values">
-        <item>3</item>
-        <item>0</item>
+    <string-array name="tts_scale_values">
         <item>1</item>
         <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
     </string-array>
-    <string-array name="web_type_title">
+    <string-array name="tts_scale_entries">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="web_type_title" >
         <item>Predvolené</item>
         <item>Nadpisy</item>
         <item>Odkazy</item>
@@ -938,7 +961,8 @@
         <item>Hlasitosť médií</item>
         <item>Tempo reči</item>
         <item>Rozpoznať a preložiť</item>
-        <item>窗口</item>
+        <item>Oblasti obrazovky</item>
+
     </string-array>
 
     <string-array name="hot_key_help_items" >
@@ -964,7 +988,7 @@
         <item>ALT+L: Prechádzanie zoznamu</item>
 
     </string-array>
-    <string-array name="view_type_title">
+      <string-array name="view_type_title" >
         <item>Predvolené</item>
         <item>Text</item>
         <item>Tlačidlá</item>
@@ -989,8 +1013,8 @@
         <item>Hlasitosť médií</item>
         <item>Tempo reči</item>
         <item>Rozpoznať a preložiť</item>
-        <item>窗口</item>
+        <item>Oblasti obrazovky</item>
 
     </string-array>
-    <string name="command_add_content_blacklist">添加内容黑名单</string>
+
 </resources>

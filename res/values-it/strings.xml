@@ -1,70 +1,72 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Commentary Screenreader</string>
-    <string name="accessibility_service_description">
-        Commentary Screenreader è un programma progettato per facilitare l\'uso dei dispositivi mobili da parte di utenti non vedenti. Nello sviluppare questo software si è cercato di introdurre alcune innovazioni significative. Per maggiori dettagli andare su Impostazioni\\aiuto.\n
-        Alcune funzionalità sono disponibili solo dopo l\'acquisto della versione completa. Per informazioni contattare il Servizio Clienti tramite il gruppo ufficiale su QQ.\n
+		<string name="accessibility_service_description">
+        Commentary Screenreader è un programma progettato per facilitare l\'uso dei dispositivi mobili con sistema operativo Android da parte di utenti non vedenti. Nello sviluppare questo software si è cercato di introdurre alcune innovazioni significative nell\'interazione uomo-macchina. Siamo consapevoli che l\'apprendimento del nostro programma potrà richiedere del tempo, perciò ti invitiamo a esplorare le impostazioni per ottenere aiuto, oppure a contattarci.\n
+        Alcune funzionalità sono disponibili solo dopo l\'acquisto della versione completa. Per maggiori informazioni puoi fare riferimento al gruppo ufficiale su Telegram.\n
         \n
-        Funzionalità: \n
-        Assistente Vocale: Consente l\'utilizzo del dispositivo tramite comandi vocali, senza dover toccare lo schermo.\n
-        Estensioni: installa nuove estensioni per un\'esperienza migliore.\n
-        Leggi per carattere, parola, paragrafo... Esplora i contenuti in base alle tue esigenze.\n
-        Programma veloce e reattivo.\n
-        Installa i tuoi temi sonori preferiti.\n
-        Funzioni avanzate di copiatura, per copiare tutto ciò che ti serve.\n
-	Gesti in base al contesto, per offrire un\'estrema flessibilità.\n
-        Riassegnazione dei gesti.\n
-        Flessibilità delle impostazioni di notifica, così non verrai mai disturbato da notifiche inutili.\n
+        Tra le funzionalità più significative del programma troviamo:: \n
+        Assistente Vocale: Consente l\'utilizzo del dispositivo per scrivere, chattare con gli amici o eseguire molte altre operazioni tramite comandi vocali, senza dover toccare lo schermo.\n
+        Plug-in: Assicurati una gamma infinita di possibilità aggiuntive grazie al sistema avanzato di plug-in. Puoi scaricare plug-in già pronti oppure crearne tu direttamente.\n
+        Modalità navigazione elenco, modalità navigazione per nodi, modalità navigazione automatica, modalità navigazione testo, navigazione granulare o navigazione carattere per carattere: potrai sempre trovare i contenuti di cui hai bisogno grazie a questi flessibili strumenti di navigazione.\n
+        Solleva il dito per attivare l\'elemento che stai toccando: naviga velocemente nel programma senza bisogno di ricordare troppi gesti.\n
+        Schemi sonori personalizzati: Installa i tuoi schemi sonori preferiti.\n
+        Copiatura e selezione: puoi sempre selezionare e copiare soltanto quello che ti serve.\n
+								Gesti dinamici: il programma si adatta alle condizioni della schermata corrente, scegliendo lo schema gesti più appropriato in base alla situazione in cui ti trovi.in base al contesto, per offrire un\'estrema flessibilità.\n
+        Sistema di personalizzazione gesti espandibile: riassegna qualsiasi gesto a tuo piacimento, crea uno schema gesti totalmente nuovo e condividilo con gli amici.\n
+        Due motori di sintesi vocale: usa due sintetizzatori contemporaneamente, così i contenuti meno importanti non disturberanno la tua lettura principale.\n
         \n
-        Funzionalità Premium:\n
-        Schermo virtuale per le app inaccessibili e ti si aprirà un nuovo mondo.\n
-        OCR automatico: riconosce le foto e l\'eventuale testo in esse contenuto, consentendone facilmente la lettura.\n
-        Riconoscimento istantaneo dei capcha grazie all\'intelligenza artificiale.\n
-        Riconosci ciò che c\'è intorno a te. scene, oggetti e persone.\n
-        Filtri per le pagine Web: leggi pagine web facilmente, senza disturbi causati da immagini e contenuti inutili.\n
-        Copia facilmente intere schermate.\n
-        Modalità Lettura: scorrimento automatico delle pagine e filtraggio dei contenuti...\n
-        Gesti personalizzabili per app.\n
-        Lista dei preferiti: accesso ai tuoi contenuti preferiti dove e quando vuoi.\n
-        Editing rapido: trova velocemente la parola, la frase o il paragrafo che vuoi modificare.\n
-        Selezione avanzata del testo: per parola, frase o paragrafo. Seleziona esattamente ciò che ti serve.\n
-        Esegui facilmente azioni coi comandi vocali aggiuntivi.\n
-        Esecuzione automatica dei plugins, per avere sempre a disposizione i tuoi plugins preferiti.\n
-        Commentary è il tuo screenreader infinitamente flessibile e configurabile!
-    </string>
+        Una volta acquistato il rpgoramma, avrai accesso alle seguenti funzionalità::\n
+        Schermo virtuale: le app inaccessibili non rappresenteranno più una barriera insormontabile. Questa funzione ti aprirà un mondo totalmente nuovo..\n
+        OCR automatico: Ovunque toccherai, l\'OCR ti permetterà di riconoscere anche dati inaccessibili.\n
+        Lettura automatica dei messaggi: leggi automaticamente i messaggi di QQ, YY, Tiktok e molte altre app.\n
+        Lettura automatica dei sottotitoli: guardare film in lingua straniera non è mai stato così facile! Leggi automaticamente i sottotitoli dei video e semplificati la vita.\n
+        Riconoscimento CAPTCHA: Usa le funzioni avanzate di intelligenza artificiale per riconoscere istantaneamente le immagini dei CAPTCHA.\n
+        Fotocamera di Commentary: Riconosci scene, immagini, persone e testi intorno a te..\n
+        Filtri contenuti web: filtra immagini, pubblicità e altri elementi indesiderati, così la tua lettura non verrà disturbata...\n
+        Copia elenchi: Non dovrai più perdere tempo a copiare lunghi elenchi. Con un solo click potrai copiare anche l\'elenco più lungo.\n
+        Modalità lettura: scorrimento automatico delle pagine, filtraggio dei contenuti e modalità lettura in background.\n
+        Schemi gesti per app: crea schemi gesti per una singola applicazione. Questa funzione offre possibilità infinite.\n
+        Preferiti: accedi facilmente a contenuti di uso frequente che potrai raccogliere ovunque e in qualsiasi momento.\n
+        Modalità modifica granulare: modifica un testo per carattere, parola, frase o paragrafo in modo rapido e accurato..\n
+        Selezione testo: seleziona per caratteri, parole, frasi o paragrafi, per poi copiare il testo dove desideri.\n
+        Comandi vocali personalizzati: grazie al motore utilizzato anche dal sistema dei plug-in, avrai infinite possibilità di aggiornare e personalizzare l\'assistente vocale.\n				
+		Sistema di lancio automatico dei plug-in: lancia automaticamente i diversi plug-in a intervalli specificati.\n
+		Commentary Screen Reader è tanto tuo quanto nostro. Crea lo screen reader su misura per te grazie alle infinite opzioni di configurazione.
+	</string>
 
     <string name="about_title">Hebei Biyou Technology Co., Ltd.</string>
-    <string name="help_feed_summary">Commentary Screenreader usa alcune tecnologie di terze parti: Tencent AI, Baidu AI, Baidu TTS, Baidu Translator, Baidu MTS, Andro LUA Plus, etc.</string>
+    <string name="help_feed_summary">Commentary Screenreader usa alcune tecnologie di terze parti quali Tencent Youtu, Tencent AI, Baidu Voice, Baidu Translation, Baidu LBS, Baidu MTJ and Andro Lua.</string>
 
     <string name="menu_title">Menu</string>
 
     <string name="tts_speed_title">Velocità sintesi vocale: </string>
-    <string name="tts_speed_summary">Tono sintesi vocale.</string>
+    <string name="tts_speed_summary">Controlla la velocità del  sintetizzatore attualmente selezionato.</string>
 
 
     <string name="usage_hints_title">Leggi i suggerimenti d\'uso: </string>
-    <string name="usage_hints_summary">Leggi i suggerimenti relativi all\'app che stai usando.</string>
+    <string name="usage_hints_summary">Se attivo, legge vari suggerimenti utili relativi all\'elemento selezionato.</string>
 
     <string name="vibrate_title">Feedback con vibrazione: </string>
-    <string name="vibrate_summary">usa la vibrazione durante l\'utilizzo dello screenreader.</string>
+    <string name="vibrate_summary">Se attivo, Commentary Screen Reader usa la vibrazione per ottenere informazioni dallo screen reader.</string>
 
-    <string name="use_proixmity_sensor_title">Utilizza il sensore di prossimità: </string>
-    <string name="use_proixmity_sensor_summary">Interrompe la lettura quando si tocca il sensore di prossimità.</string>
-
+    <string name="use_proixmity_sensor_title">Usa il sensore di prossimità: </string>
+    <string name="use_proixmity_sensor_summary">Se attivo, Interrompe la lettura quando si tocca il sensore di prossimità.</string>
+	
     <string name="screen_off_speak_title">Leggi le notifiche quando lo schermo è bloccato: </string>
-    <string name="screen_off_speak_summary">Legge le notifiche anche quando lo schermo è bloccato.</string>
+    <string name="screen_off_speak_summary">Se attivo, legge le notifiche anche quando lo schermo è bloccato.</string>
 
     <string name="use_sound_title">Feedback sonoro: </string>
-    <string name="use_sound_summary">Utilizza il tema sonoro attualmente selezionato.</string>
+    <string name="use_sound_summary">Se attivo, Commentary Screen Reader usa il suono per fornire informazioni.</string>
 
-    <string name="use_list_index_title">Assegna un numero agli elementi: </string>
-    <string name="use_list_index_summary">Legge il numero di elementi visualizzati durante lo scorrimento di un elenco.</string>
+    <string name="use_list_index_title">Leggi il numero dell\'elemento di elenco focalizzato: </string>
+    <string name="use_list_index_summary">Se attivo, legge il numero dell\'elemento focalizzato quando si scorre un elenco.</string>
 
     <string name="use_node_title">Utilizza la modalità navigazione per nodi (solo per utenti avanzati)</string>
-    <string name="use_node_summary">Usa la modalità di navigazione per nodi.</string>
+    <string name="use_node_summary">Se attivo, usa la modalità di navigazione per nodi.</string>
 
     <string name="tts_volume_title">Volume sintesi vocale: </string>
-    <string name="tts_volume_summary">Il volume è uguale a quello generale.</string>
+    <string name="tts_volume_summary">Se attivo, il volume è uguale a quello generale.</string>
 
     <string name="use_key_shortcut_title">Utilizza i tasti del volume come tasti rapidi.: </string>
     <string name="use_key_shortcut_summary">Tieni premuti i tasti del volume per svolgere varie operazioni.</string>
@@ -73,7 +75,7 @@
 
     <string name="tts_settings_title">Impostazioni sintesi vocale</string>
     <string name="feed_setting_title">Impostazioni feedback</string>
-    <string name="content_setting_title">Impostazioni presentazione contenuti</string>
+    <string name="content_setting_title">Impostazioni lettura</string>
     <string name="other_setting">Altre impostazioni</string>
 
     <string name="tts_system_settings_title">Impostazioni sintesi vocale di sistema</string>
@@ -104,44 +106,44 @@
     <string name="use_log_title">Abilita i log: </string>
     <string name="notification_speak_title">Leggi le notifiche: </string>
     <string name="plugin_title">Estensioni</string>
-    <string name="action_menu_title">Menu azioni</string>
-    <string name="clipboard_menu_title">Menu appunti</string>
+    <string name="action_menu_title">Menu funzioni</string>
+    <string name="clipboard_menu_title">Cronologia appunti</string>
     <string name="select_menu_title">Seleziona testo</string>
-    <string name="all_text_title">Esplora tutto il testo</string>
+    <string name="all_text_title">Visualizza tutto il testo</string>
     <string name="use_touch_mode_title">Abilita gesti (non disattivarli se sei non vedente totale): </string>
     <string name="unknown_lable_title">Prova a identificare l\'etichetta di un elemento non etichettato: </string>
-    <string name="action_setting_title">Impostazioni azioni</string>
+    <string name="action_setting_title">Impostazioni operazioni</string>
     <string name="use_single_tap_title">Singolo tocco per attivare: </string>
     <string name="use_up_tap_title">Solleva il dito da un elemento per attivarlo: </string>
-    <string name="sound_volume_title">Volume del tema sonoro: </string>
+    <string name="sound_volume_title">Volume dello schema sonoro: </string>
     <string name="notification_bar_speak_title">Leggi le notifiche dal relativo pannello: </string>
     <string name="notification_toast_speak_title">Leggi le notifiche a comparsa: </string>
     <string name="notification_announcement_speak_title">Leggi le notifiche dello screenreader: </string>
-    <string name="notification_settings_title">Impostazioni notifiche</string>
+    <string name="notification_settings_title">Impostazioni lettura notifiche</string>
     <string name="help_feed_title">Guida e feedback</string>
     <string name="advanced_setting_title">Impostazioni avanzate</string>
     <string name="notification_white_list_title">Notifiche consentite</string>
     <string name="notification_black_list_title">Notifiche bloccate</string>
     <string name="voice_help_title">Aiuto per l\'assistente vocale</string>
-    <string name="sound_package_title">Temi sonori</string>
+    <string name="sound_package_title">Schemi sonori</string>
     <string name="value_default">Predefinito</string>
     <string name="notification_app_name_speak_title">Leggi la fonte della notifica: </string>
-    <string name="use_up_tap_summary">Una volta sollevato il dito, l\'elemento sotto di esso verrà attivato. Se il dito tocca a lungo l\'elemento, questo non si attiverà.</string>
+    <string name="use_up_tap_summary">Se attivato,  sollevando il dito, l\'elemento sotto di esso verrà attivato. Se il dito tocca a lungo l\'elemento, questo non si attiverà.</string>
     <string name="use_tap_mode_title">Tocca lo schermo per spostare il focus: </string>
     <string name="vibrate_intensity_title">Intensità della vibrazione: </string>
     <string name="use_progress_title">Lettura automatica delle barre di avanzamento: </string>
     <string name="use_scroll_list_index_title">Legge l\'intervallo numerico degli elementi visualizzati a schermo in una lista: </string>
     <string name="use_content_changed_title">Segnala i cambiamenti dei contenuti dinamici: </string>
     <string name="use_double_fling_title">Utilizza i gesti in più parti: </string>
-    <string name="use_view_name_title">Leggi il nome dell\'elemento attualmente evidenziato: </string>
+    <string name="use_view_name_title">Leggi il nome dell\'elemento focalizzato: </string>
     <string name="permissions_settings_title">Dai i permessi</string>
     <string name="use_node_info_title">Leggi le informazioni sul nodo corrente: </string>
     <string name="use_content_tree_changed_title">Legge automaticamente i contenuti visualizzati a schermo: </string>
-    <string name="split_menu_title">Menu navigazione</string>
-    <string name="split_edit_title">Modifica selettiva testo</string>
+    <string name="split_menu_title">Modalità navigazione granulare</string>
+    <string name="split_edit_title">Modalità modifica granulare del testo</string>
     <string name="edit_title">Modifica</string>
-    <string name="plugin_manager_title">Gestisci plugins</string>
-    <string name="sound_manager_title">Gestisci temi sonori</string>
+    <string name="plugin_manager_title">Gestione plugin</string>
+    <string name="sound_manager_title">Gestisci schemi sonori</string>
     <string name="clipboard_manager_title">Gestisci appunti</string>
     <string name="label_manager_title">Gestisci etichette personalizzate</string>
     <string name="menu_manager_title">Gestisci menu principale</string>
@@ -153,16 +155,16 @@
     <string name="long_click_summary">Ritardo nell\'attivazione quando viene eseguito il tocco prolungato.</string>
     <string name="split_select_title">Selezione</string>
     <string name="use_up_long_click_title">Tocca e solleva il dito per attivare l\'azione tramite il tocco prolungato: </string>
-    <string name="use_up_long_click_summary">Simula il tocco prolungato poggiando e sollevando il dito</string>
+    <string name="use_up_long_click_summary">Se attivato, simula il tocco prolungato mantenendo il dito su un dato elemento per un secondo</string>
     <string name="backup_manager_title">Gestisci backup</string>
     <string name="user_letter_map_title">Utilizza dizionario personalizzato (è richiesto il riavvio per applicare le modifiche): </string>
     <string name="tts_use_offline_title">Utilizza sintesi vocale online: </string>
-    <string name="tts_use_offline_summary">Se il Wi-Fi non è disponibile verrà automaticamente impostato il motore di sintesi vocale predefinito</string>
-    <string name="gesture_package_title">Tema gesti: </string>
+    <string name="tts_use_offline_summary">Verifica se è in uso un motore di sintesi di alta qualità. Se il Wi-Fi non è disponibile verrà automaticamente impostato il motore di sintesi vocale predefinito</string>
+    <string name="gesture_package_title">Schema gesti: </string>
     <string name="long_text_title">Modifica avanzata testo</string>
     <string name="gesture_manager_title">Gestisci gesti</string>
     <string name="use_ocr_title">Utilizzo automatico OCR: </string>
-    <string name="use_ocr_summary">Identifica automaticamente l\'immagine evidenziata o il controllo non etichettato. Aumenta il consumo dei dati e della batteria.</string>
+    <string name="use_ocr_summary">Se attivato, usa l\'OCR quando si tocca un elemento senza etichetta, un\'immagine o qualsiasi altro controllo non accessibile. Questa funzione aumenta il consumo di dati e batteria.</string>
     <string name="content_blacklist_title">Contenuti bloccati</string>
     <string name="no_phone_permission">Nessun permesso.</string>
     <string name="message_time_out">Non autorizzato</string>
@@ -181,8 +183,8 @@
     <string name="message_disabled_tap_mode">Disattivo "tocca per spostare il focus"</string>
     <string name="directory_gestures">Gesti</string>
     <string name="directory_temp">TMP</string>
-    <string name="directory_plugins">Plugins</string>
-    <string name="message_recognition">Riconoscimento in corso…</string>
+    <string name="directory_plugins">Plugin</string>
+    <string name="message_recognition">Riconoscimento in corso?-</string>
     <string name="message_recognition_error">Errore durante il riconoscimento. Riprova.</string>
     <string name="directory_sounds">Suoni</string>
     <string name="directory_resources">Risorse</string>
@@ -190,23 +192,23 @@
     <string name="file_name_symbol">symbols.json</string>
     <string name="directory_labels">Etichette</string>
     <string name="directory_backup">Backup</string>
-    <string name="message_load_sound_error">Errore durante il caricamento del tema sonoro.</string>
+    <string name="message_load_sound_error">Errore durante il caricamento dello schema sonoro.</string>
     <string name="message_load_done">Risorsa importata correttamente.</string>
-    <string name="tool_title">Plugin e strumenti</string>
+    <string name="tool_title">strumenti</string>
     <string name="directory_tools">Strumenti</string>
     <string name="ocr_title">Riconoscimento testo</string>
     <string name="tool_manager_title">Gestisci strumenti</string>
     <string name="message_load_error">Importazione della risorsa non riuscita.</string>
     <string name="manager_activity_title">Gestisci risorse</string>
     <string name="use_headset_key_title">Usa il pulsante della cuffia per controllare lo screenreader: </string>
-    <string name="use_wake_lock_title">Mantieni schermo attivo: </string>
+    <string name="use_wake_lock_title">Mantieni schermo attivo durante il parlato: </string>
     <string name="user_settings_title">Area utente</string>
     <string name="user_name_title">Nome utente</string>
     <string name="user_id_title">ID Utente</string>
     <string name="user_key_title">Chiave di autorizzazione</string>
     <string name="user_validity_title">Periodo di validità: </string>
     <string name="user_point_title">Punti referente</string>
-    <string name="gesture_description_title">Descrizione gesti</string>
+    <string name="gesture_description_title">Descrizione schema gesti</string>
     <string name="user_invite_title">ID Referente</string>
     <string name="login_title">Accedi</string>
     <string name="reg_title">Registrati</string>
@@ -216,28 +218,28 @@
     <string name="tts_pitch_title">Tono sintesi vocale: </string>
     <string name="tts_speed_double_title">Raddoppia la velocità della sintesi vocale: </string>
     <string name="tts_unisound_settings_title">Impostazioni sintesi vocale Unisound</string>
-    <string name="use_wake_lock_summary">Mantieni lo schermo attivo durante la lettura del testo.</string>
-    <string name="audio_focus_summary">Abbassa gli altri suoni durante il parlato.</string>
+    <string name="use_wake_lock_summary">Permette di mantenere attivo lo schermo mentre la sintesi parla.</string>
+    <string name="audio_focus_summary">Abbassa il volume degli altri suoni mentre la sintesi vocale parla.</string>
     <string name="message_done">Fatto</string>
-    <string name="app_gesture_package_title">Tema gesti per app.</string>
-    <string name="app_gesture_package_summary">Configura il tema gesti per app.</string>
-    <string name="char_mode_gesture_title">Non usare gesti personalizzati in modalità navigazione per parola: </string>
-    <string name="char_mode_gesture_summary">Usa gesti predefiniti in modalità navigazione per parola</string>
+    <string name="app_gesture_package_title">Schema gesti per app.</string>
+    <string name="app_gesture_package_summary">Permette di selezionare gli schemi gesti per app.</string>
+    <string name="char_mode_gesture_title">Disattiva gesti personalizzati nella modalità navigazione carattere per carattere: </string>
+    <string name="char_mode_gesture_summary">Se attivato, Usa sempre lo schema gesti predefinito nella modalità navigazione carattere per carattere, anche in presenza di uno schema gesti per app</string>
     <string name="notification_summary_title">Riepilogo della notifica</string>
     <string name="use_image_filter_title">Filtra le immagini durante la navigazione nelle pagine web.</string>
     <string name="gesture_settings_title">Impostazioni gesti</string>
     <string name="setup_plugin_title">Esegui automaticamente i plugin</string>
-    <string name="advanced_menu_title">Impostazioni avanzate</string>
-    <string name="quick_menu_title">Menu rapido</string>
+    <string name="advanced_menu_title">menu avanzate</string>
+    <string name="quick_menu_title">Menu scorciatoie</string>
     <string name="check_update_title">Controlla aggiornamenti</string>
     <string name="qq_group_summary">Per eventuali domande o acquisto del programma</string>
     <string name="favorites_menu_title">Preferiti</string>
     <string name="favorites_manager_title">Gestisci preferiti</string>
     <string name="use_multi_menu_title">Utilizza i menu a griglia: </string>
-    <string name="use_multi_menu_summary">Il menu a griglia non supporta contenuti personalizzati</string>
-    <string name="use_left_right_title">Usa lo scorrimento destra sinistra per navigare: </string>
-    <string name="use_list_item_index_title">Leggi l\'indice dell\'elemento evidenziato: </string>
-    <string name="use_left_right_summary">Se utilizzi il tema gesti predefinito, cambia il focus con lo scorrimento orizzontale, ed esegui le funzioni rapide con lo scorrimento verticale.</string>
+    <string name="use_multi_menu_summary">Se attivato, usa il menu a griglia come predefinito. Il menu a griglia non supporta contenuti personalizzati</string>
+    <string name="use_left_right_title">Usa inverti gesti: </string>
+    <string name="use_list_item_index_title">Leggi l\'indice dell\'elemento focalizzato: </string>
+    <string name="use_left_right_summary">Permette di invertire i gesti nello schema gesti predefinito. Attivando questa opzione, con lo scorrimento orizzontale si naviga per elementi, mentre con lo scorrimento verticale si eseguono le azioni rapide.</string>
     <string name="use_old_previous_title">Utilizza il vecchio gesto per spostare il focus: </string>
     <string name="baidu_tieba_title">Enciclopedia Baidu</string>
     <string name="use_single_tts_title">Utilizza un solo motore di sintesi vocale: </string>
@@ -250,57 +252,58 @@
     <string name="voice_helper_setting_title">Impostazioni assistente vocale</string>
     <string name="voice_helper_copy_title">Copia automaticamente negli appunti i risultati della traduzione: </string>
     <string name="trans_lang_from_title">Lingua di origine: </string>
-    <string name="use_pager_scroll_summary">Scorri automaticamente alla pagina successiva una volta raggiunta la fine della pagina corrente</string>
-    <string name="scroll_gesture_settings_title">Impostazioni scorrimento</string>
+    <string name="use_pager_scroll_summary">Se attivato, passa automaticamente alla pagina successiva una volta raggiunta la fine della pagina corrente</string>
+    <string name="scroll_gesture_settings_title">Impostazioni navigazione</string>
     <string name="click_settings_title">Impostazioni azioni click</string>
-    <string name="key_shortcut_setting_title">Impostazioni scorciatoie</string>
-    <string name="gesture_title">Impostazioni gesti</string>
-    <string name="use_single_tap_summary">Singolo tocco per attivare l\'elemento evidenziato</string>
+    <string name="key_shortcut_setting_title">Impostazioni scorciatoie tramite tasti hardware
+</string>
+    <string name="gesture_title">Impostazioni schema gesti</string>
+    <string name="use_single_tap_summary">Permette di attivare l\'elemento focalizzato con un singolo tocco</string>
     <string name="use_old_previous_summary">Se attivato verrà usato un diverso modo per ritornare al nodo prededente.</string>
-    <string name="use_headset_key_summary">Premi il pulsante sulla cuffia per andare all\'elemento successivo, tienilo premuto per attivare l\'assistente vocale.</string>
+    <string name="use_headset_key_summary">Se attivato, permette di eseguire alcune azioni tramite il pulsante presente sulle cuffie. La pressione breve passa all\'elemento successivo; la pressione media attiva l\'elemento focalizzato e la pressione prolungata attiva l\'assistente vocale.</string>
     <string name="list_view_settings_title">Impostazioni lista</string>
     <string name="view_label_settings_title">Impostazioni presentazione etichette</string>
     <string name="view_changed_settings_title">Impostazioni contenuto dinamico</string>
     <string name="content_filter_settings_title">Impostazioni filtri dei contenuti</string>
     <string name="hints_list_settings_title">Impostazioni suggerimenti</string>
-    <string name="use_node_info_summary">Leggi informazioni aggiuntive sul nodo evidenziato in modalità navigazione per nodi.</string>
-    <string name="use_list_item_index_summary">Leggi l\'indice dell\'elemento evidenziato.</string>
-    <string name="use_scroll_list_index_summary">Leggi numero degli elementi visualizzati durante lo scorrimento</string>
-    <string name="use_view_name_index_summary">Legge il tipo e il nome dell\'elemento, se il nome non viene trovato, lo screenreader tenta di identificarlo.</string>
-    <string name="unknown_lable_summary">Quando l\'elemento evidenziato non ha un nome, ne viene letto l\'Id..</string>
-    <string name="use_progress_summary">Legge automaticamente i cambiamenti delle barre di avanzamento quando vengono evidenziate</string>
-    <string name="use_content_changed_summary">Legge automaticamente l\'elemento evidenziato</string>
-    <string name="use_content_tree_changed_summary">Leggi automaticamente i cambiamenti nella finestra corrente</string>
+    <string name="use_node_info_summary">In modalità navigazione per nodi, legge le informazioni relative al rapporto tra gli elementi. Tali informazioni comprendono il numero di elementi figli presenti nel nodo focalizzato, più altre informazioni specifiche per il nodo.</string>
+    <string name="use_list_item_index_summary">Se attivato, Legge l\'indice dell\'elemento focalizzato in modalità navigazione elenco.</string>
+    <string name="use_scroll_list_index_summary">Se attivato, Legge automaticamente il numero di elementi visualizzati quando si scorre l\'elenco usando i comandi di navigazione.</string>
+    <string name="use_view_name_index_summary">Legge automaticamente il titolo della finestra. Se questo non è presente, legge il nome del primo elemenento focalizzabile.</string>
+    <string name="unknown_lable_summary">Se attivato, legge l\'Id di un controllo non etichettato..</string>
+	    <string name="use_progress_summary">Legge automaticamente i cambiamenti delle barre di avanzamento quando vengono focalizzate</string>
+    <string name="use_content_changed_summary">Legge automaticamente i cambiamenti nell\'elemento focalizzato</string>
+    <string name="use_content_tree_changed_summary">Legge automaticamente i cambiamenti nella finestra corrente</string>
     <string name="content_blacklist_summary">Filtra il contenuto della lista nera. Questo può risolvere l\'errore per cui a volte il focus non consente di aggiungere etichette</string>
-    <string name="use_image_filter_summary">Filtra le immagini durante la navigazione nelle pagine Web</string>
-    <string name="use_supper_filter_summary">Filtra i contenuti non cinesi.</string>
+    <string name="use_image_filter_summary">Permette di filtrare le immagini che non contengono descrizioni alternative.</string>
+    <string name="use_supper_filter_summary">permette di Filtrare i contenuti non cinesi nelle pagine web.</string>
     <string name="use_edge_gesture_title">Usa i gesti sul bordo: </string>
     <string name="left_edge_gesture_title">Impostazioni scorrimento breve bordo sinistro</string>
     <string name="right_edge_gesture_title">Impostazioni scorrimento breve bordo destro</string>
     <string name="right_edge_gesture_value_default">App recenti</string>
     <string name="left_edge_gesture_value_default">Indietro</string>
-    <string name="use_edge_gesture_summary">Gesti eseguiti sul bordo estremo dello schermo.</string>
+    <string name="use_edge_gesture_summary">Se attivato, abilita i gesti sul bordo. Questi gesti si eseguono scorrendo con uno o due dita a partire dal bordo estremo destro o sinistro dello schermo.</string>
     <string name="left_edge_gesture_summary">Personalizza gesto breve bordo sinistro.</string>
     <string name="right_edge_gesture_summary">Personalizza gesto breve bordo destro.</string>
     <string name="down_volume_key_value_default">Assistente vocale</string>
-    <string name="down_volume_key_title">Pressione lunga tasto volume giù</string>
+    <string name="down_volume_key_title">Pressione lunga del tasto volume giù</string>
     <string name="down_volume_key_summary">Associa funzione alla pressione lunga del tasto volume giù.</string>
-    <string name="up_volume_key_title">Pressione lunga tasto volume su</string>
+    <string name="up_volume_key_title">Pressione lunga del tasto volume su</string>
     <string name="up_volume_key_summary">Associa funzione alla pressione lunga del tasto volume su.</string>
     <string name="up_volume_key_value_default">Toggle "Solleva il dito per attivare"</string>
-    <string name="use_speak_call_phone_summary">Annuncia il nome ed il numero del chiamante quando arriva una chiamata: </string>
+    <string name="use_speak_call_phone_summary">Annuncia il nome e il numero del chiamante quando arriva una chiamata: </string>
     <string name="use_speak_call_phone_title">ID chiamante: </string>
-    <string name="use_speak_changed_volume_summary">Leggi la percentuale quando regoli il volume</string>
+    <string name="use_speak_changed_volume_summary">Legge automaticamente il nuovo livello del volume dopo una variazione.</string>
     <string name="use_speak_changed_volume_title">Leggi la percentuale del volume: </string>
     <string name="vip_qq_group_title">Gruppo QQ per utenti Premium di Commentary Screenreader</string>
     <string name="qq_group2_title">Gruppo QQ ufficiale</string>
     <string name="right_long_edge_gesture_value_default">Barra delle notifiche</string>
     <string name="left_long_edge_gesture_value_default">Schermata Home</string>
     <string name="right_long_edge_gesture_title">Impostazioni scorrimento lungo bordo destro</string>
-    <string name="left_long_edge_gesture_title">Impostazioni scorrimento bordo sinistro</string>
+    <string name="left_long_edge_gesture_title">Impostazioni scorrimento lungo bordo sinistro</string>
     <string name="left_long_edge_gesture_summary">Scorri a destra partendo dal bordo sinistro dello schermo.</string>
     <string name="right_long_edge_gesture_summary">Scorri a sinistra partendo dal bordo destro dello schermo.</string>
-    <string name="use_up_long_quick_menu_summary">Mostra il menu scorciatoie quando premi a lungo sull\'elemento evidenziato.</string>
+    <string name="use_up_long_quick_menu_summary">Mostra il menu scorciatoie quando si preme a lungo sull\'elemento focalizzato.</string>
     <string name="up_volume_short_key_value_default">Aumenta il volume</string>
     <string name="up_volume_short_key_title">Pressione breve del tasto volume su: </string>
     <string name="up_volume_short_key_summary">Personalizza funzione tasto Volume Su per aumentare il volume accessibilità tenendo un dito sullo schermo.</string>
@@ -308,7 +311,7 @@
     <string name="down_volume_short_key_title">Pressione breve del tasto volume giù: </string>
     <string name="down_volume_short_key_summary">Personalizza funzione tasto Volume Giù per diminuire il volume accessibilità tenendo un dito sullo schermo.</string>
     <string name="use_ringtone_volume_title">Usa volume suoneria: </string>
-    <string name="use_ringtone_volume_summary">Usa il volume della suoneria per determinare il volume dell\'ID chiamante</string>
+    <string name="use_ringtone_volume_summary">Usa il volume della suoneria per leggere la schermata delle chiamate entranti</string>
     <string name="up_down_volume_short_key_value_default">Sospendi esplorazione al tocco</string>
     <string name="up_down_volume_short_key_summary">Sospendi o riattiva esplorazione al tocco</string>
     <string name="up_down_volume_short_key_title">Pressione contemporanea dei tasti volume</string>
@@ -320,21 +323,21 @@
     <string name="use_foreground_title">Protezione in background</string>
     <string name="use_foreground_summary">Si consiglia di attivare questa opzione se lo schermo si spegne di frequente.</string>
     <string name="use_speak_qq_changed_title">Leggi automaticamente i messaggi chat di QQ</string>
-    <string name="use_speak_qq_changed_summary">Leggi automaticamente i messaggi in arrivo di QQ.</string>
-    <string name="left_button_default_value">Chiudi|Rifiuta|*Scorri per rifiutare la chiamata\*Termina chiamata chiamata|Termina chiamata|Termina chiamata|Termina chiamata QQ|Termina chiamata QQ|Passa alla traccia precedente|Traccia precedente|Vai in alto|Annulla e vivavoce</string>
+    <string name="use_speak_qq_changed_summary">Legge automaticamente i messaggi in arrivo di applicazioni di messaggistica come QQ e We Chat.</string>
+	    <string name="left_button_default_value">Chiudi|Rifiuta|*Scorri per rifiutare la chiamata\*Termina chiamata chiamata|Termina chiamata|Termina chiamata|Termina chiamata QQ|Termina chiamata QQ|Passa alla traccia precedente|Traccia precedente|Vai in alto|Annulla e vivavoce</string>
     <string name="right_button_default_value">Rispondi|Accetta|*Scorri per rispondere alla chiamata\*Vivavoce|Altoparlante|Passa alla traccia successiva|Traccia successiva</string>
     <string name="edge_gesture_title">Impostazioni gesti sul bordo</string>
     <string name="left_button_title">Azioni scorciatoia scorrimento a sinistra</string>
     <string name="right_button_title">Azioni scorciatoia scorrimento a destra</string>
     <string name="use_add_async_tts_title">Accoda notifiche da leggere: </string>
-    <string name="use_add_async_tts_summary">Se ci sono più notifiche, il parlato non viene interrotto durante la lettura. Questa funzione non supporta la modalità motore sintesi vocale unico</string>
+    <string name="use_add_async_tts_summary">Permette di accodare le notifiche per la lettura. Se l\'opzione è attivata, le notifiche vengono lette una per una man mano che arrivano, altrimenti la notifica precedente viene interrotta quando arriva quella successiva. Questa opzione funziona solo quando è attivo il motore di sintesi vocale secondario.</string>
     <string name="questions_answers_title">Domande frequenti</string>
     <string name="orientation_landscape">in orizzontale</string>
     <string name="orientation_portrait">verticale</string>
     <string name="use_alarm_title">Annuncia l\'ora: </string>
-    <string name="use_alarm_summary">Annuncia l\'orario specificato.</string>
+    <string name="use_alarm_summary">Se attivato, annuncia automaticamente l\'ora agli intervalli di tempo specificati.</string>
     <string name="alarm_settings_title">Impostazioni sveglia</string>
-    <string name="url_menu_title">Elementi cliccabili</string>
+    <string name="url_menu_title">Apri URL</string>
     <string name="use_long_click_voice_input_title">Usa l\'input vocale quando si preme a lungo sulla casella di testo.</string>
     <string name="voice_input_append_mode_title">Quando si usa l\'input vocale accoda il testo alla fine della casella di testo</string>
 
@@ -348,12 +351,12 @@
     <string name="use_power_save_title">Modalità risparmio energetico: </string>
     <string name="use_power_save_summary">Riduci consumo batteria</string>
     <string name="power_settings_title">Impostazioni alimentazione</string>
-    <string name="action_settings_title">Impostazioni azioni</string>
+    <string name="action_settings_title">Impostazioni operazioni</string>
     <string name="keep_focus_position_title">Ricorda la posizione del focus</string>
     <string name="download_activity_title">Scarica risorse aggiuntive</string>
     <string name="use_number_speak_title">Leggi numeri per cifra: </string>
-    <string name="use_input_method_gesture_title">Usa i gesti per selezionare parole nella modalità modifica</string>
-    <string name="use_input_method_gesture_summary">Lo scorrimento cambia la parola suggerita per l\'autocorrezione.</string>
+    <string name="use_input_method_gesture_title">Usa i gesti per selezionare i caratteri cinesi in modalità immissione</string>
+    <string name="use_input_method_gesture_summary">Se attivo, i gesti scorciatoia permettono di scegliere i caratteri cinesi durante la scrittura. Questa opzione è supportata dai metodi di immissione Iflytek, Google Pinyin e Zhuyin..</string>
     <string name="use_volume_key_move_text_title">Usa i tasti del volume per spostare il cursore in modalità modifica</string>
     <string name="user_text">Nome utente: da 5 a 15 caratteri latini</string>
     <string name="pass_text">Password: tra 6 e 15 caratteri latini.</string>
@@ -363,9 +366,9 @@
     <string name="use_screen_on_speak_title">Leggi messaggio schermo sbloccato</string>
     <string name="use_screen_off_speak_title">Leggi messaggio schermo bloccato</string>
     <string name="use_accessibility_volume_title">Utilizza il volume di accessibilità</string>
-    <string name="use_accessibility_volume_summary">Il volume dello screenreader sarà controllato tramite quello di accessibilità e non da quello generale. Attenzione! Tale funzione agisce solo sul motore di sintesi vocale di sistema.</string>
+    <string name="use_accessibility_volume_summary">Se attivo, il parlato viene generato dal canale dell volume di accessibilità. Questa opzione è supportata solo quando si usa il motore di sintesi vocale di sistema.</string>
     <string name="value_stream_accessibility">Accessibilità</string>
-    <string name="left_right_gesture_title">Impostazioni gesti alternativi</string>
+    <string name="left_right_gesture_title">Impostazioni gesti scorciatoie</string>
     <string name="use_move_list_view_item_title">Lo scorrimento a destra e sinistra consente lo spostamento veloce tra gli elementi in elenco.</string>
     <string name="no_support">È richiesta una versione di Android %d o superiore.</string>
     <string name="use_pinyin_speak_title">Usa la sintesi vocale Pinyin in modalità modifica</string>
@@ -377,7 +380,7 @@
     <string name="jieshuo_bbs_title">Forum di Commentary Screenreader</string>
     <string name="use_symbol_speak_title">Leggi la punteggiatura</string>
     <string name="use_cloud_label_title">Condivisione etichette: </string>
-    <string name="use_cloud_label_summary">Condividi e scarica dal server le etichette personalizzate</string>
+    <string name="use_cloud_label_summary">Permette di caricare/scaricare automaticamente dal server le etichette personalizzate.</string>
     <string name="directory_helper">Assistente</string>
     <string name="helper_manager_title">Ulteriori impostazioni assistente vocale </string>
     <string name="alarm_interval_title">Intervallo sveglia</string>
@@ -385,7 +388,7 @@
     <string name="use_timer_vibrate_title">Avviso del timer con vibrazione</string>
     <string name="use_double_edge_gesture_title">Usa il menu gesti sul bordo con due dita</string>
     <string name="use_raw_click_title">Usa il click diretto anziché il doppio tocco.</string>
-    <string name="use_raw_click_summary">In Android 7 e superiori, questa funzione potrebbe risolvere il problema di attivazione degli elementi in alcune app.</string>
+    <string name="use_raw_click_summary">Permette di usare il click diretto invece del doppio tocco. Questa opzione simula un  click fisico alla posizione dell\'elemento, il che potrebbe migliorare l\'accessibilità di alcune applicazioni.</string>
     <string name="has_vip_summary">%s è disponibile solo per gli utenti Premium</string>
     <string name="vip_qq_kefu_title">Supporto Commentary screenreader</string>
     <string name="vip_qq_kefu_summary">Per qualsiasi informazione, acquisto o trasferimento licenza si prega rivolgersi al Servizio Clienti autorizzato.</string>
@@ -394,16 +397,16 @@
     <string name="timer_setting_title">Impostazioni timer</string>
     <string name="voice_cmd_setting_title">Impostazioni comandi vocali</string>
     <string name="directory_cmd">Comandi vocali personalizzati</string>
-    <string name="use_move_list_view_item_summary">Consente di spostarsi rapidamente negli elenchi</string>
+    <string name="use_move_list_view_item_summary">Consente di usare i tasti scorciatoia per scorrere velocemente elenchi lunghi</string>
     <string name="add">Aggiungi</string>
     <string name="re_def_msg">Tocca Ok per ripristinare le impostazioni predefinite</string>
-    <string name="use_double_fling_summary">Scorri due volte velocemente verso l\'alto per aprire la modalità navigazione rapida e poi scorri due volte verso il basso per avviare la navigazione automatica.</string>
-    <string name="voice_helper_use_gestures_title">Consenti di cambiare il tema gesti mediante comandi vocali</string>
-    <string name="voice_helper_use_app_gestures_title">Consenti di cambiare il tema gesti mediante comandi vocali</string>
+    <string name="use_double_fling_summary">Permettedi usare i gesti in più parti. Per farlo, si esegue prima il gesto principale, quindi il secondo gesto.</string>
+    <string name="voice_helper_use_gestures_title">Consenti di cambiare lo schema gesti mediante comandi vocali</string>
+    <string name="voice_helper_use_app_gestures_title">Consenti di cambiare lo schema gesti mediante comandi vocali</string>
     <string name="voice_helper_use_cmd_title">Consenti l\'uso dei comandi vocali</string>
     <string name="voice_helper_use_supper_cmd_title">Usa ulteriori comandi vocali con l\'assistente vocale</string>
     <string name="voice_helper_use_plugin_title">Usa le estensioni con l\'assistente vocale</string>
-    <string name="voice_helper_use_tool_title">Consenti l\’uso delle estensioni con l\'assistente vocale</string>
+    <string name="voice_helper_use_tool_title">Consenti l\?ˉuso delle estensioni con l\'assistente vocale</string>
     <string name="message_has_vip">Questa funzione è disponibile solo per gli utenti Premium.</string>
     <string name="has_vip_summary2">La funzione %s presenta limiti di utilizzo nella versione gratuita del programma</string>
     <string name="voice_helper_capability_setting">Impostazioni addestramento assistente vocale</string>
@@ -416,8 +419,8 @@
     <string name="system_tts_volume_title">Volume sintesi vocale di sistema</string>
     <string name="notification_select_title">Impostazioni lettura notifiche</string>
 
-    <string name="message_disable_dim_screen">Disattiva l\’oscuramento schermo</string>
-    <string name="start_long_copy">Copia avanzata avviata</string>
+    <string name="message_disable_dim_screen">Disattiva l\?ˉoscuramento schermo</string>
+    <string name="start_long_copy">Copia elenco avviata</string>
     <string name="runnimg_background">Esegui lo screenreader in background</string>
     <string name="description">Descrizione</string>
     <string name="gestures_description_not_found">Impossibile trovare il file di aiuto per i gesti</string>
@@ -427,9 +430,9 @@
     <string name="timer_and_now_time">%s, ora è %s</string>
     <string name="edit">modifica</string>
     <string name="edit_text_not_found">Casella di testo non trovata</string>
-    <string name="char_mode">Granularità</string>
+    <string name="char_mode">Modalità navigazione carattere per carattere</string>
     <string name="focus_mode">Esplorazione predefinita</string>
-    <string name="auto_next">Esplorazione automatica</string>
+    <string name="auto_next">Lettura continua</string>
     <string name="message_copy">Testo copiato</string>
     <string name="message_append">Testo accodato</string>
     <string name="text_format_settings_title">Impostazioni dizionario</string>
@@ -444,10 +447,10 @@
     <string name="lower_case_format2">%s</string>
     <string name="upper_case_format2">Maiuscola %s</string>
     <string name="upper_case_format3">%s Maiuscola</string>
-    <string name="lower_case_format_number2">%s，%d Lettere</string>
+    <string name="lower_case_format_number2">%s￡?%d Lettere</string>
     <string name="upper_case_format_number2">Ci sono %s maiuscole %d lettere</string>
 
-    <string name="use_slow_speed_title">Leggi lentamente quando sei in modalità navigazione per parola</string>
+    <string name="use_slow_speed_title">Rallenta la velocità del parlato nella modalità navigazione carattere per carattere</string>
     <string name="has_vip_summary_gesture">Questi gesti non possono essere personalizzati nella versione gratuita del programma</string>
     <string name="message_has_vip_loop_click">I tocchi ritardati non sono supportati nella versione gratuita.</string>
 
@@ -468,11 +471,11 @@
     <string name="command_help_feed_setting">Aiuto e feedback</string>
     <string name="command_left_shortcut">Scorciatoia sinistra</string>
     <string name="command_right_shortcut">Scorciatoia destra</string>
-    <string name="command_long_copy">Copia avanzata</string>
+    <string name="command_long_copy">Copia elenco</string>
     <string name="command_my_location">La mia posizione</string>
     <string name="command_where_i">Dove mi trovo?</string>
     <string name="command_current_location">posizione corrente</string>
-    <string name="command_verification">CAPTCHA</string>
+    <string name="command_verification">Risolvi CAPTCHA</string>
     <string name="command_verification2">CAPTCHA</string>
     <string name="command_verification3">CAPTCHA</string>
     <string name="feed_back_disabled">Feedback vocale sospeso</string>
@@ -481,18 +484,18 @@
     <string name="command_virtual_screen">Schermo virtuale</string>
     <string name="command_play_control">Controlli di riproduzione</string>
     <string name="command_read_mode">Modalità lettura</string>
-    <string name="command_verbatim_speak">Granularità</string>
-    <string name="command_verbatim_speak2">Granularità</string>
+    <string name="command_verbatim_speak">Spelling</string>
+    <string name="command_verbatim_speak2">Leggi carattere per carattere</string>
     <string name="command_to_previous_focus">Elemento precedente</string>
     <string name="command_to_next_focus">elemento successivo</string>
     <string name="command_to_previous_page">Pagina precedente</string>
     <string name="command_to_next_page">Pagina successiva</string>
-    <string name="command_to_previous_scroll">Scorri all\'indietro</string>
-    <string name="command_to_next_scroll">Scorri in avanti</string>
-    <string name="command_to_previous_progress">Diminuisci slider</string>
-    <string name="command_to_next_progress">Aumenta slider</string>
+    <string name="command_to_previous_scroll">Scorri all\'insù</string>
+    <string name="command_to_next_scroll">Scorri all\'ingiù</string>
+    <string name="command_to_previous_progress">Diminuisci il valore dello slider</string>
+    <string name="command_to_next_progress">Aumenta il valore dello slider</string>
     <string name="command_lower_volume">Abbassa il volume</string>
-    <string name="command_raise_volume">Aumenta il volume</string>
+    <string name="command_raise_volume">Alza il volume</string>
     <string name="command_now_time">che ore sono</string>
     <string name="command_timer_mode">Timer</string>
     <string name="command_timer_start">avvia il timer</string>
@@ -515,7 +518,7 @@
     <string name="touch_mode_disabled">Esplorazione al tocco sospesa.</string>
     <string name="node_mode">Navigazione per nodi</string>
     <string name="ignore_battery">Consenti all\'app di ignorare le impostazioni di ottimizzazione della batteria.</string>
-    <string name="overlay_window">Attiva picture in picture.</string>
+    <string name="overlay_window">Consenti visualizzazione delle finestre di pop-up nelle impostazioni di sistema.</string>
     <string name="opened">attivo</string>
     <string name="closed">disattivo</string>
     <string name="checked">attivato</string>
@@ -582,18 +585,18 @@
     <string name="command_enable_dim_screen">Oscuramento schermo</string>
     <string name="command_enable_dim_screen2">Attiva l\'oscuramento schermo</string>
     <string name="command_to_recents">Applicazioni recenti</string>
-    <string name="command_clean">Pulisci la casella di testo attualmente evidenziata</string>
-    <string name="command_select">Menu di selezione</string>
+    <string name="command_clean">Pulisci la casella di testo focalizzata</string>
+    <string name="command_select">seleziona</string>
     <string name="command_notification_box">Riquadro notifica</string>
-    <string name="command_up_tap">Attiva/Disattiva "solleva per attivare"</string>
-    <string name="command_tap_mode">Attiva/Disattiva tocca per spostare il focus</string>
-    <string name="command_node_mode">Attiva/Disattiva navigazione per nodi</string>
+    <string name="command_up_tap">Abilita/disabilita modalità "solleva il dito per attivare l\'elemento"</string>
+    <string name="command_tap_mode">Disabilita la modalità esplorazione schermo</string>
+    <string name="command_node_mode">Modalità navigazione per nodi</string>
     <string name="command_to_home">Schermata Home</string>
     <string name="command_to_back">Torna indietro</string>
     <string name="command_long_edit">Modifica testo avanzata</string>
     <string name="command_all_speak">Leggi schermata</string>
     <string name="command_all_speak2">Leggi tutto</string>
-    <string name="command_all_select">Seleziona tutto</string>
+    <string name="command_all_select">Seleziona tutto il testo</string>
     <string name="command_voice_helper">assistente vocale</string>
     <string name="command_voice_input">dettatura vocale</string>
     <string name="command_ocr">Riconoscimento immagini</string>
@@ -613,7 +616,7 @@
     <string name="input_method">Metodo di immissione</string>
     <string name="main_menu">Menu principale</string>
     <string name="auto_read">Lettura automatica</string>
-    <string name="list_mode_title">Esplorazione elenco</string>
+    <string name="list_mode_title">Navigazione a elenco</string>
     <string name="main_setting">Impostazioni programma</string>
     <string name="battery_level">Livello batteria: %d percento</string>
 
@@ -703,32 +706,32 @@
     <string name="gesture_help_title">Aiuto sui gesti</string>
     <string name="show_volume_ui_title">Mostra il pannello del volume di sistema durante la regolazione</string>
     <string name="fingerprint_gesture_setting">Impostazioni gesti sul lettore di impronte</string>
-    <string name="fingerprint_gesture_setting_summary">Questa funzione è attiva su dispositivi con Android 8 o versioni superiori.</string>
+    <string name="fingerprint_gesture_setting_summary">Se attivato, lo screen reader riconosce i gesti eseguiti sul lettore d\'impronta.Questa funzione è attiva su dispositivi con Android 8 o versioni superiori il cui lettore d\'impronta sia posto sul retro del dispositivo.</string>
     <string name="use_fingerprint_gesture_title">Usa gesti disponibili sul lettore di impronte: </string>
     <string name="fingerprint_left_gesture_value_default">Torna indietro</string>
     <string name="fingerprint_right_gesture_value_default">[Click]</string>
     <string name="fingerprint_up_gesture_value_default">Elemento precedente</string>
     <string name="fingerprint_down_gesture_value_default">Elemento successivo</string>
-    <string name="command_supper_mode">Modalità navigazione dettagliata</string>
-    <string name="command_ocr_focus">Riconosci l\'elemento evidenziato mediante l\'OCR.</string>
+    <string name="command_supper_mode">Modalità cattura dettagliata del focus</string>
+    <string name="command_ocr_focus">Riconosci l\'elemento focalizzato mediante l\'OCR.</string>
     <string name="navi">navigazione</string>
     <string name="unknown_index_title">Leggi l\'indice di un controllo non etichettato: </string>
-    <string name="unknown_index_summary">Leggi il numero di indice dell\'elemento evidenziato o il suo ID qualora non sia etichettato.</string>
+    <string name="unknown_index_summary">Legge l\'indice di un controllo che non presenti nè un\'etichetta nè un ID. Questa opzione funziona anche quando la lettura dell\'indice è disattivata.</string>
     <string name="alarm_start_hour_title">Ora di attivazione della sveglia</string>
     <string name="alarm_end_hour_title">Ora di spegnimento della sveglia</string>
     <string name="command_virtual_navigation">Navigazione virtuale</string>
     <string name="voice_helper_use_click_title">Attiva direttamente l\'elemento richiesto.</string>
     <string name="voice_helper_use_app_title">Apri direttamente il programma richiesto</string>
-    <string name="voice_helper_use_app_summary">Puoi aprire il programma pronunciandone soltanto il nome. Se tale opzione è disattivata puoi dire "apri nome programma".</string>
-    <string name="voice_helper_use_click_summary">Puoi usare il nome dell\'elemento per attivarlo. Se tale opzione è disattivata puoi dire "attiva nome elemento".</string>
+    <string name="voice_helper_use_app_summary">Puoi aprire un\'app pronunciandone soltanto il nome. Se l\'opzione è disattivata puoi dire \"apri\" più il nome dell\'appapp.</string>
+    <string name="voice_helper_use_click_summary">Puoi attivare un elemento pronunciandone il nome. Se l\' opzione è disattivata puoi dire \"attiva\" più il nome dell\'elemento.</string>
     <string name="edge_gesture_width_title">Area attivazione gesti sul bordo: </string>
-    <string name="use_double_edge_gesture_summary">Le funzioni personalizzate associate a gesti sul bordo non sono presenti nel menu gesti al bordo.</string>
-    <string name="left_edge_gesture_items_title">Personalizza il menu gesti bordo sinistro</string>
-    <string name="right_edge_gesture_items_title">Personalizza il menu gesti bordo destro</string>
+    <string name="use_double_edge_gesture_summary">Permette di richiamare con due dita il menu gesti sul bordo. Se questa opzione è attivata, sarà possibile eseguire gli altri gesti sul bordo con un dito.</string>
+    <string name="left_edge_gesture_items_title">Personalizza il menu gesti sul bordo sinistro</string>
+    <string name="right_edge_gesture_items_title">Personalizza il menu gesti sul bordo destro</string>
     <string name="multi_menu_items_title">Personalizza menu a colonne</string>
     <string name="main_menu_items_title">Personalizza menu principale</string>
-    <string name="use_edge_gesture_menu_title">Usa menu sul bordo dello schermo: </string>
-    <string name="use_left_edge_gesture_quick_menu_title">Usa il menu scorciatoia per app nel menu bordo sinistro</string>
+    <string name="use_edge_gesture_menu_title">Usa menu gesti sul bordo dello schermo: </string>
+    <string name="use_left_edge_gesture_quick_menu_title">Usa il menu scorciatoia per app nel menu sul bordo sinistro</string>
     <string name="use_small_filter_title">Filtra elementi indesiderati: </string>
     <string name="jieshuo_bbs_summary">Condividi il tuo feedback su Commentary Screenreader sul nostro Forum</string>
     <string name="voice_recognizer_title">Motore di riconoscimento: </string>
@@ -739,7 +742,7 @@
     <string name="float_menu_items_title">Impostazioni menu mobile</string>
     <string name="use_float_menu_title">Usa menu mobile</string>
     <string name="tts_scale_title">Velocità sintesi vocale</string>
-    <string name="auto_previous">Auto precedente</string>
+    <string name="auto_previous">Lettura continua inversa</string>
     <string name="code_help_title">API di riferimento per Jieshuo</string>
     <string name="sign_up">Registrati</string>
     <string name="login">Accedi</string>
@@ -784,9 +787,8 @@
     <string name="date_formater_min">mm\'minuti\'</string>
     <string name="touch_mode_enabled">Esplorazione al tocco attivata.</string>
     <string name="custom">Personalizzato</string>
-
-    <string name="create_gesture">Crea tema gesti globale.</string>
-    <string name="create_app_gesture">Crea tema gesti per app.</string>
+    <string name="create_gesture">Crea schema gesti globale.</string>
+    <string name="create_app_gesture">Crea schema gesti per app.</string>
     <string name="func">Funzione</string>
     <string name="swipe_up_right">Scorri verso l\'alto poi verso destra</string>
     <string name="swipe_up_down">Scorri verso l\'alto poi verso il basso</string>
@@ -887,8 +889,8 @@
     <string name="restore">Ripristina</string>
     <string name="backup">Backup</string>
     <string name="directory_camera">Camera</string>
-    <string name="game_mode_title">Usa modalità gioco: </string>
-    <string name="game_mode_summary">Metti l\'app in modalità gioco per disattivare automaticamente i gesti specifici.</string>
+    <string name="game_mode_title">Usa modalità gioco per</string>
+    <string name="game_mode_summary">Se un\'applicazione viene usata in modalità gioco, alla sua apertura l\'eplorazione al tocco viene automaticamente sospesa, per essere poi riattivata alla chiusura dell\'app.</string>
     <string name="msg_backuped">Il Backup è stato creato.</string>
     <string name="msg_items">%d elementi.</string>
     <string name="msg_recognition_results">Risultati</string>
@@ -907,7 +909,7 @@
     <string name="msg_restored">Backup ripristinato.</string>
     <string name="backup_done">Backup completato.</string>
     <string name="msg_gestures_empty">La cartella Gesti è vuota</string>
-    <string name="msg_sounds_empty">La cartella temi sonori è vuota</string>
+    <string name="msg_sounds_empty">La cartella schemi sonori è vuota</string>
     <string name="msg_clipboards_empty">La cartella appunti è vuota</string>
     <string name="msg_favorites_empty">La cartella Preferiti è vuota</string>
     <string name="msg_timers_empty">La cartella Timer è vuota</string>
@@ -918,15 +920,14 @@
     <string name="msg_cmds_empty">La cartella Comandi Vocali è vuota!</string>
     <string name="close">Chiudi</string>
     <string name="multi_click">Modalità multiclick</string>
-    <string name="command_raw_tap">Modalità puntamento</string>
-    <string name="msg_enabled_raw_tap">Modalità puntamento attivata. Tocca lo schermo per un secondo per attivare l\'elemento presente sotto il dito.</string>
-    <string name="msg_disabled_raw_tap">Modalità puntamento disattivata.</string>
+    <string name="command_raw_tap">Modalità click rapido</string>
+    <string name="msg_enabled_raw_tap">Modalità click rapido attivata. Tocca lo schermo per attivare l\'elemento presente sotto il dito.</string>
+    <string name="msg_disabled_raw_tap">Modalità click rapido disattivata.</string>
 
     <string name="system_tts_scale_summary">Permette di superare i limiti di velocità della sintesi di sistema. Attenzione! Questa funzione è in beta e non si garantisce  che funzioni con tutte le sintesi!</string>
     <string name="send_email_title">Invia Email a 946049229@qq.com</string>
 
     <string name="voice_helper_use_blot_title">Usa il bot per la chat: </string>
-
     <string name="message_recognition_empty">Non ho capito cosa hai detto.</string>
     <string name="voice_helper_exit">Arrivederci</string>
     <string name="voice_input_mode">Modalità dettatura vocale</string>
@@ -936,8 +937,8 @@
     <string name="voice_helper_record_done">Registrazione completata.</string>
     <string name="msg_save_error">Errore durante il salvataggio.</string>
     <string name="msg_has_vip_voice_cmd">I comandi vocali non possono essere usati nella versione gratuita!</string>
-    <string name="cmd_create">Nuovo comando</string>
-    <string name="cmd_manager">Gestisci istruzioni</string>
+    <string name="cmd_create">Nuovo comando vocale</string>
+    <string name="cmd_manager">Gestore comandi vocali</string>
     <string name="note_tile">Note sul cloud</string>
     <string name="message_count_out">Limite superato.</string>
     <string name="cloud_backup_restore_settings_title">Backup sul cloud</string>
@@ -953,11 +954,11 @@
     <string name="cloud_restore_label_title">Ripristina etichette personalizzate da backup sul cloud</string>
     <string name="cloud_backup_gesture_title">Backup gesti personalizzati sul cloud.</string>
     <string name="cloud_restore_gesture_title">Ripristina gesti personalizzati da backup sul cloud.</string>
-    <string name="cloud_backup_sound_title">Backup temi sonori sul cloud.</string>
-    <string name="cloud_restore_sound_title">Ripristina temi sonori da backup sul cloud</string>
+    <string name="cloud_backup_sound_title">Backup schemi sonori sul cloud.</string>
+    <string name="cloud_restore_sound_title">Ripristina schemi sonori da backup sul cloud</string>
     <string name="cloud_backup_cmd_title">Backup comandi vocali sul cloud</string>
     <string name="cloud_restore_cmd_title">Ripristina comandi vocali da backup sul cloud.</string>
-    <string name="ocr_baidu_secret_title">Chiave segreta</string>
+	    <string name="ocr_baidu_secret_title">Chiave segreta</string>
     <string name="ocr_baidu_key_title">Chiave App</string>
     <string name="ocr_baidu_id_title">id App</string>
     <string name="ocr_baidu_setting">OCR Baidu</string>
@@ -968,16 +969,16 @@
     <string name="ocr_lang_title">Lingua di riconoscimento: </string>
     <string name="ocr_lang_summary">Valido solo quando è selezionato l\'OCR di Tencent.</string>
     <string name="ocr_baidu_summary">Valido solo quando è selezionato l\'OCR di Baidu.</string>
-    <string name="add_from_focus_node">Aggiungi dal nodo evidenziato.</string>
+    <string name="add_from_focus_node">Aggiungi dal nodo focalizzato.</string>
     <string name="add_from_virtual_screen">Aggiungi da schermo virtuale.</string>
     <string name="add_from_virtual_list">Aggiungi caratteri riconosciuti dall\'OCR</string>
     <string name="use_ocr_qq_title">OCR sul cloud di Tencent.</string>
-    <string name="ocr_lang_enteries">Misto inglese|Identifica automaticamente|Giapponese|Coreano|Spagnolo|Francese|Tedesco|Portoghese|Vietnamita|Malese|Russo|Italiano|Olandese|Svedese|Finlandese|Danese|Norvegese|Ungherese|Thai|Latino|阿拉伯语</string>
+    <string name="ocr_lang_enteries">Misto inglese|Identifica automaticamente|Giapponese|Coreano|Spagnolo|Francese|Tedesco|Portoghese|Vietnamita|Malese|Russo|Italiano|Olandese|Svedese|Finlandese|Danese|Norvegese|Ungherese|Thai|Latino|°￠à-2??</string>
     <string name="cmd_description">Descrizione (massimo 15 parole).</string>
     <string name="timer_run_title">Operazioni programmate</string>
     <string name="msg_has_vip_timer_run">La versione gratuita non permette di aggiungere operazioni programmate! Acquista la versione completa per continuare.</string>
     <string name="use_web_view_name_title">Leggi il tipo di elementi nella pagina.</string>
-    <string name="use_web_view_name_summary">Se attivato verranno letti tutti i tipi di elementi altrimenti verranno lette solo le informazioni necessarie.</string>
+    <string name="use_web_view_name_summary">Se attivo,  verranno letti tutti i tipi di elementi nelle pagine web, altrimenti verranno letti solo quelli principali, come link, intestazioni e pulsanti.</string>
     <string name="hour">Ora</string>
     <string name="min">Minuto</string>
     <string name="msg_result_empty">Non ho capito cosa hai detto.</string>
@@ -990,41 +991,40 @@
     <string name="msg_search_on_net">Cerca su internet</string>
     <string name="msg_send_not_found">Pulsante invia non trovato.</string>
     <string name="msg_search_on_store">Cerca nel negozio delle app</string>
-
     <string name="check_permissions_title">Verifica i permessi</string>
-    <string name="setup_setting_title">Configurazione guidata</string>
-    <string name="check_overlay_permissions_title">Verifica lo stato dei permessi usati per le finestre flottanti del programma.</string>
-    <string name="check_battery_permissions_title">Verifica permessi di ottimizzazione batteria per un corretto funzionamento del programma.</string>
-    <string name="open_application_info_title">Apri la pagina di informazioni su Commentary Screenreader</string>`
-    <string name="open_setup_setting_title">Apri impostazioni di installazione.</string>
-    <string name="check_notification_permissions_title">Verifica permessi di notifica.</string>
-    <string name="denied_permissions_title">Permesso negato.</string>
-    <string name="welcome_msg">Benvenuto in Commentary Screen Reader. Il miglior lettore di schermo per Android. Scegli una delle seguenti opzioni: Installazione guidata: permette di scegliere le impostazioni di base per aiutarti a iniziare rapidamente. Clicca su Visualizza Permessi per vedere i diversi permessi richiesti e su Esci per uscire dall\'installazione guidata.</string>
-    <string name="use_left_right_msg">Commentary Screenreader supporta diverse modalità di navigazione. Quella predefinita usa lo scorrimento verso l\'alto e verso il basso come gesti per lo spostamento. Ma se sei abituato a spostarti usando lo scorrimento verso destra e verso sinistra, è possibile impostare questi gesti anche qui. Ora scorri verso sinistra per usare i gesti predefiniti, o verso destra per usare i gesti alternativi.</string>
-    <string name="usage_hints_msg">I suggerimenti possono aiutare i nuovi utenti nell\'apprendimento dello screenreader. Se utilizzi un dispositivo mobile per la prima volta, attiva questa opzione per una maggiore facilità d\'uso. Se invece sei un utente esperto, disattiva questa opzione per garantirti un uso più snello.</string>
-    <string name="use_list_index_msg">La lettura dell\'indice dell\'elemento evidenziato di un elenco potrebbe essere utile per orientarsi meglio e ritrovare la propria posizione corrente in un elenco lungo, ma i messaggi letti saranno più lunghi e questo per alcuni potrebbe risultare complicato o fastidioso</string>
-    <string name="notification_speak_msg">Lettura notifiche che permetterà allo screenreader di leggere le notifiche in arrivo. Attiva questa opzione per leggere tutte le notifiche. Se non vuoi essere disturbato, disattiva questa opzione.</string>
-    <string name="use_single_tts_msg">Seleziona se vuoi usare due motori di sintesi vocale per la lettura. Il primo verrà usato per leggere le informazioni principali quali il focus corrente e altre cose molto importanti. Il secondo verrà usato per leggere le notifiche e altri messaggi meno importanti quali le bolle. </string>
-    <string name="use_left_right_ok">Usa il tema gesti alternativi.</string>
-    <string name="use_left_right_no">Usa il tema gesti predefiniti.</string>
-    <string name="usage_hints_ok">I suggerimenti verranno letti.</string>
-    <string name="usage_hints_no">I suggerimenti non verranno letti.</string>
-    <string name="notification_speak_ok">Le notifiche verranno lette.</string>
-    <string name="notification_speak_no">Le notifiche non verranno lette.</string>
-    <string name="use_single_tts_ok">Verrà usato un solo motore di sintesi vocale.</string>
-    <string name="use_single_tts_no">Verranno usati due motori di sintesi vocale.</string>
+    <string name="setup_setting_title">Installazione guidata</string>
+    <string name="check_overlay_permissions_title">Verifica permessi per le finestre flottanti del programma.</string>
+    <string name="check_battery_permissions_title">Verifica permesso disattivazione di dell\'ottimizzazione batteria.</string>
+    <string name="open_application_info_title">Informazioni su Commentary Screen Reader</string>`
+    <string name="open_setup_setting_title">Verifica il permesso di attivazione automatica all\'avvio.</string>
+    <string name="check_notification_permissions_title">Verifica permessi per le notifiche.</string>
+    <string name="denied_permissions_title">Permessi negati.</string>
+    <string name="welcome_msg">Benvenuto in Commentary Screen Reader, il miglior lettore di schermo per Android. Questo programma permette a chi non vede di utilizzare i propri smartphone in modo più efficiente e soddisfacente. Seleziona \"Installazione Guidata"\ per scegliere le impostazioni di base del programma; \"Descrizione Permessi"\ per vedere la Privacy Policy o \"Esci"\ per uscire dal programma.</string>
+    <string name="use_left_right_msg">Innantitutto occorre impostare le modalità base di utilizzo dello screen reader. Nella modalità predefinita, Commentary Screen Reader usa lo scorrimento verso l\'alto per spostarsi all\'elemento precedente, verso il basso per spostarsi all\'elemento successivo, verso sinistra e verso destra per eseguire le azioni rapide. Se preferisci una modalità di navigazione più tradizionale, qui puoi scegliere l\'opzione \"Inverti gesti"\.  Nota: Quando questa opzione è attivata, lo scorrendo verso l\'alto si esegue l\'azione rapidadi sinistra e scorrendo vrso il basso si esegue l\'azione rapida di destra. Ora scorri verso il basso per trovare l\'opzione desiderata e tocca due volte per attivarla.</string>
+    <string name="usage_hints_msg">Ora puoi decidere se desideri ricevere suggerimenti per l\'uso dello screen reader. I suggerimenti sono brevi messaggi relativi ai diversi elementi. Essi possono aiutare i nuovi utenti nell\'utilizzo di un determinato controllo. Se però conosci già il funzionamento dello screen reader, è consigliabile disattivare questa opzione per velocizzare le operazioni. Desideri ricevere i suggerimenti?</string>
+    <string name="use_list_index_msg">Gli elenchi sono una parte molto importante dell\'interfaccia utente di Android. Ora puoi decidere se desideri che lo screen reader legga determinate informazioni sull\'elenco corrente, come l\'indice dell\'elemento focalizzato o la porzione di elenco da visualizzare. Vuoi che queste informazioni vengano lette?</string>
+    <string name="notification_speak_msg">Decidi se vuoi che lo screen reader legga le notifiche. Le notifiche comprendo SMS in arrivo, previsioni meteo o qualsiasi altro avviso generato dal tuo dispositivo. E\' consigliabile attivare le notifiche, ma se non desideri interruzioni mentre lavori, è meglio disattivarle. Commentary Screen Reader contiene una funzione chiamata Pannello Notifiche, che può facilitare di molto la visualizzazione delle notifiche su alcuni dispositivi.</string>
+    <string name="use_single_tts_msg">Commentary Screen Reader può usare due motori di sintesi vocale contemporaneamente. Quello principale verrà usato per leggere la maggior parte delle informazioni, mentre quello secondario verrà usato per leggere le notifiche e altri messaggi meno importanti. Se non sei ancora abitutato a questa funzione, è consigliabile usare un solo motore di sintesi vocale.</string>
+    <string name="use_left_right_ok">Inverti gesti.</string>
+    <string name="use_left_right_no">Usa lo schema gesti predefinito.</string>
+    <string name="usage_hints_ok">Sì.</string>
+    <string name="usage_hints_no">No.</string>
+    <string name="notification_speak_ok">Leggi le notifiche.</string>
+    <string name="notification_speak_no">Non leggere le notifiche.</string>
+    <string name="use_single_tts_ok">Usa un solo motore di sintesi vocale.</string>
+    <string name="use_single_tts_no">Usa due motori di sintesi vocale.</string>
     <string name="permission_title">Descrizione permessi: </string>
     <string name="permission_msg">Per ulteriori dettagli vedi il manuale allegato.</string>
-    <string name="check_permissions_msg">Premi Avanti per concedere i permessi di base o Annulla per uscire.</string>
-    <string name="next">Passo successivo</string>
+    <string name="check_permissions_msg">Per poter funzionare, Commentary Screen Reader necessitadi alcuni permessi di base. Ad esempio, il permesso Memoria viene usato per leggere schemi sonori, estensioni o altri dati esterni dal dispositivo. Premi \"Avanti"\ per continuare e concedere i permessi di base richiesti o \"Annulla"\ per uscire.</string>
+    <string name="next">Avanti</string>
     <string name="setup_setting_done">Installazione completata.</string>
-    <string name="setup_setting_done_msg">Imposta opzioni comuni o riavvia installazione guidata.</string>
+    <string name="setup_setting_done_msg"><![CDATA[Se desideri riavviare l\'installazione guidata, vai in Impostazioni Generali > Installazione guidata]]></string>
     <string name="setup_setting_continue">Continua installazione.</string>
     <string name="setup_setting_not_permission">I permessi di base non sono stati concessi.</string>
-    <string name="setup_setting_not_permission_msg">Non tutti i permessi sono stati concessi. Scegli Continua per concederli o Esci per abbandonare.</string>
+    <string name="setup_setting_not_permission_msg">Commentary Screen Reader non potrà funzionare senza alcuni permessi di base che non sono ancora stati concessi. Premi \"Continua Installazione"\ per concedere tutti i permessi necessari e continuare l\'installazione guidata; premi \"Concedi Permessi"\ per concedere tutti i permessi richiesti e uscire dall\'installazione guidata. Premendo \"Esci"\ alcune opzioni non funzioneranno correttamente.</string>
     <string name="setup_setting_set_permission_and_exit">Concedi permessi ed esci.</string>
-    <string name="setup_setting_not_notification_permission">Permessi notifiche negati.</string>
-    <string name="setup_setting_notification_permission_msg">L\'uso del permesso notifiche consente allo screen reader di mantenere la propria icona pannello notifiche migliorando la stabilità.</string>
+    <string name="setup_setting_not_notification_permission">Permesso visualizzazione notifiche negato.</string>
+    <string name="setup_setting_notification_permission_msg">Il permesso visualizzazione notifiche consente a Commentary Screen Reader di mantenere l\'icona notifiche usata per riprendere i gesti, L\'uso del permesso notifiche consente allo screen reader di mantenere la propria icona pannello notifiche migliorando la stabilità.</string>
     <string name="setup_setting_get_permission">Ottieni permessi</string>
     <string name="setup_setting_has_notification_permission">Ottenuti permessi per lettura notifiche.</string>
     <string name="changed">Modificato.</string>
@@ -1065,7 +1065,7 @@
     <string name="message_cut">Taglia</string>
     <string name="choice_mode_multiple">Modalità Multiselezione</string>
     <string name="add_from_grid">Aggiungi mediante griglia</string>
-    <string name="sound_settings_title">Personalizza tema sonoro</string>
+    <string name="sound_settings_title">Personalizza schema sonoro</string>
     <string name="sound_focus1">Elemento cliccabile</string>
     <string name="sound_focus2">Elemento focalizzabile</string>
     <string name="sound_focus3">Elemento tastiera</string>
@@ -1080,7 +1080,7 @@
     <string name="sound_clock">Suono ora</string>
     <string name="sound_screen_off">Schermo bloccato</string>
     <string name="sound_screen_on">Schermo sbloccato</string>
-    <string name="sound_window_state">Cambiamento stato finestra</string>
+    <string name="sound_window_state">Cambio finestra</string>
     <string name="sound_dialog">Casella di dialogo aperta</string>
     <string name="sound_gesture_start">Inizio gesto in più parti</string>
     <string name="sound_gesture_end">Fine gesto in più parti</string>
@@ -1093,20 +1093,20 @@
     <string name="command_take_screenshot">Screenshot</string>
     <string name="command_off_screen2">Blocca schermo</string>
     <string name="command_power_dialog">Menu alimentazione</string>
-    <string name="use_bottom_menu_edge_gesture_summary">Il menu gesti bordo inferiore esegue funzioni quali schermata home, app recenti e area notifiche</string>
-    <string name="use_bottom_menu_edge_gesture_title">Usa menu gesti bordo inferiore</string>
+    <string name="use_bottom_menu_edge_gesture_summary">Il menu gesti sul bordo inferiore si richiama scorrendo verso l\'alto a partire dal bordo inferiore dello schermo e permette di attivare torna indietro, home, app recenti,  pannello notifiche e impostazioni rapide</string>
+    <string name="use_bottom_menu_edge_gesture_title">Usa menu gesti sul bordo inferiore</string>
     <string name="all">Tutto</string>
-    <string name="create_hot_key">Crea tema scorciatoie globale</string>
-    <string name="create_app_hot_key">Crea tema scorciatoie per app</string>
-    <string name="hot_key">Scorciatoie</string>
-    <string name="hot_key_package_title">Tema scorciatoie</string>
-    <string name="hot_key_description_title">Descrizione tema scorciatoie</string>
-    <string name="hot_key_settings_title">Impostazioni tema scorciatoie</string>
-    <string name="custom_hot_key_settings_title">Impostazioni scorciatoie personalizzate</string>
-    <string name="app_hot_key_package_title">Impostazioni scorciatoie per app.</string>
-    <string name="app_hot_key_package_summary">Configura scorciatoie per una specifica applicazione.</string>
-    <string name="directory_hot_key">Tasti caldi</string>
-    <string name="hot_key_summary">Premi il tasto caldo per impostare. Singoli numeri o lettere non sono supportati.</string>
+    <string name="create_hot_key">Crea schema scorciatoie da tastiera globale</string>
+    <string name="create_app_hot_key">Crea schema scorciatoie da tastiera per app</string>
+    <string name="hot_key">Scorciatoia da tastiera</string>
+    <string name="hot_key_package_title">Schema scorciatoie da tastiera</string>
+    <string name="hot_key_description_title">Descrizione schema scorciatoie da tastiera</string>
+    <string name="hot_key_settings_title">Impostazioni schema scorciatoie da tastiera</string>
+    <string name="custom_hot_key_settings_title">Impostazioni scorciatoie da tastiera personalizzate</string>
+    <string name="app_hot_key_package_title">Impostazioni scorciatoie da tastiera per app.</string>
+	    <string name="app_hot_key_package_summary">Permette di creare un nuovo schema scorciatoie da tastiere per una specifica applicazione.</string>
+    <string name="directory_hot_key">Scorciatoie da tastiera</string>
+    <string name="hot_key_summary">Premi la scorciatoia che vuoi definire. Numeri o lettere senza modificatori non sono supportati.</string>
     <string name="sound_timer_end">Fine Timer</string>
     <string name="sound_timer_start">Avvia timer</string>
     <string name="use_scroll_list_content_title">Leggi il contenuto mentre scorre</string>
@@ -1139,14 +1139,14 @@
     <string name="scaned">Risultati di ricerca</string>
     <string name="import_file">Importa</string>
     <string name="overwrite_file">Sovrascrivi</string>
-    <string name="gesture_2_single_tap">Doppio tocco con un dito</string>
-    <string name="gesture_3_single_tap">Triplo tocco con un dito</string>
-    <string name="gesture_4_single_tap">Quadruplo tocco con un dito</string>
+    <string name="gesture_2_single_tap">Tocco singolo con due dita</string>
+    <string name="gesture_3_single_tap">Tocco singolo con tre dita</string>
+    <string name="gesture_4_single_tap">Tocco singolo con quattro dita</string>
     <string name="gesture_2_double_tap">Doppio tocco con due dita</string>
     <string name="gesture_3_double_tap">Doppio tocco con tre dita</string>
     <string name="gesture_4_double_tap">Doppio tocco con quattro dita</string>
     <string name="gesture_2_triple_tap">Triplo tocco con due dita</string>
-    <string name="gesture_3_triple_tap">Triplo tocco con due dita</string>
+    <string name="gesture_3_triple_tap">Triplo tocco con tre dita</string>
     <string name="gesture_4_triple_tap">Triplo tocco con quattro dita</string>
     <string name="gesture_2_double_tap_hold">Doppio tocco prolungato con due dita</string>
     <string name="gesture_3_double_tap_hold">Doppio tocco prolungato con tre dita</string>
@@ -1162,20 +1162,20 @@
     <string name="gesture_4_swipe_left">Scorri verso sinistra con quattro dita</string>
     <string name="gesture_2_swipe_right">Scorri verso destra con due dita</string>
     <string name="gesture_3_swipe_right">Scorri verso destra con tre dita</string>
-    <string name="gesture_4_swipe_right">Scorri verso destra con quattro dita</string>    <string name="msg_gesture_updated">Aggiornamento tema gesti completato.</string>
+    <string name="gesture_4_swipe_right">Scorri verso destra con quattro dita</string>    <string name="msg_gesture_updated">Aggiornamento schema gesti completato.</string>
     <string name="msg_favorite_added">Aggiunto ai preferiti.</string>
     <string name="msg_shared">Condivisione riuscita.</string>
     <string name="msg_share_error">Condivisione fallita.</string>
     <string name="select_progress">Selezione percentuale barra di scorrimento</string>
-    <string name="node_changed_list_manager">Gestisci il controllo del focus</string>
-    <string name="add_node_changed_list">Controllo del focus</string>
-    <string name="switch_multi_finger_gestures">Abilita gesti a più dita</string>
+f    <string name="node_changed_list_manager">Gestione elementi monitorati</string>
+    <string name="add_node_changed_list">Monitora l\'elemento focalizzato</string>
+    <string name="switch_multi_finger_gestures">Attiva/disattiva gesti a più dita</string>
     <string name="msg_node_changed_list_added">Aggiunto un oggetto monitorato.</string>
     <string name="msg_node_changed_list_removed">Eliminato un oggetto monitorato</string>
     <string name="msg_in_game_mode">Modalità giocatore attivata.</string>
     <string name="msg_exit_game_mode">Modalità giocatore disattivata.</string>
     <string name="use_accessibility_volume_fix_title">Usa ottimizzazione volume accessibilità</string>
-    <string name="use_accessibility_volume_fix_summary">Attiva questa opzione se non riesci a modificare il volume o le modifiche non sono corrette.If you cannot change the volume or the volume changes are wrong, please turn on this option.</string>
+    <string name="use_accessibility_volume_fix_summary">Attiva questa opzione se il volume dell\'accessibilità tende a fluttuare troppo spesso.</string>
     <string name="privacy">Privacy policy</string>
     <string name="show_download_title">Scarica Commentary Screenreader</string>
     <string name="version_msg">%s\nSize:%s\nNumero di scaricamenti:%s</string>
@@ -1216,8 +1216,8 @@
     <string name="msg_replaced">Sostituzione avvenuta con successo.</string>
     <string name="use_touch_stop_title">Sospendi la voce toccando lo schermo</string>
     <string name="continuous_recognition">Riconoscimento continuo</string>
-    <string name="edit_dict">Edit the dictionary</string>
-    <string name="up_volume_key_off_title">Pressione lunga del testo volume su nella schermata di blocco</string>
+    <string name="edit_dict">Modifica il dizionario</string>
+    <string name="up_volume_key_off_title">Pressione lunga del tasto volume su nella schermata di blocco</string>
     <string name="down_volume_key_off_title">Pressione lunga del tasto volume giù nella schermata di blocco</string>
     <string name="use_loop_move_space_title">Aggiungi elemento vuoto prima di tornate all\'inizio di un elenco</string>
     <string name="use_view_type_move_mode_title">usa la nuova modalità di navigazione per tipo</string>
@@ -1240,10 +1240,10 @@
     <string name="command_to_next_paragraph">Paragrafo successivo</string>
     <string name="command_to_previous_paragraph">Paragrafo precedente</string>
     <string name="command_to_head_set_key">Play o pausa</string>
-    <string name="msg_selected_from_to">%d to %d selezionato</string>
+    <string name="msg_selected_from_to">da %d a %d selezionato</string>
     <string name="album_activity">Album di Commentary</string>
     <string name="command_toggle_tts_engine">Cambia sintetizzatore</string>
-    <string name="command_speak_light">Leggi livello di luminosità</string>
+    <string name="command_speak_light">Leggi livello di luminosità corrente</string>
     <string name="use_recording_stop_title">Silenzia Commentary durante la registrazione è attivato</string>
     <string name="use_speak_call_time_title">Annuncia la durata al termine di una chiamata</string>
     <string name="use_speak_call_time_summary">Definisce se la durata della chiamata dev\'essere annunciata automaticamente. Questa funzione richiede il permesso di accesso ai log delle chiamate</string>
@@ -1271,7 +1271,7 @@
     <string name="up_long">Scorri lentamente verso l\'alto</string>
     <string name="up_right_long">Scorri lentamente verso l\'alto e verso destra</string>
     <string name="up_down_long">Scorri lentamente verso l\'alto e verso il basso</string>
-    <string name="up_left_long">Scorri lentamente verso l\'alto  verso sinistra</string>
+    <string name="up_left_long">Scorri lentamente verso l\'alto e verso sinistra</string>
     <string name="down_long">Scorri lentamente verso il basso</string>
     <string name="down_right_long">Scorri lentamente verso il basso e verso destra</string>
     <string name="down_up_long">Scorri lentamente verso il basso e verso l\'alto</string>
@@ -1279,63 +1279,102 @@
     <string name="left_long">Scorri lentamente verso sinistra</string>
     <string name="left_up_long">Scorri lentamente verso sinistra e verso l\'alto</string>
     <string name="left_down_long">Scorri lentamente verso sinistra e verso il basso</string>
-    <string name="left_right_long">Scorri lentamente verso inistra e verso destra</string>
+    <string name="left_right_long">Scorri lentamente verso sinistra e verso destra</string>
     <string name="right_long">Scorri lentamente verso destra</string>
     <string name="right_up_long">Scorri lentamente verso destra e verso l\'alto</string>
     <string name="right_down_long">Scorri lentamente verso destra e verso il basso</string>
     <string name="right_left_long">Scorri lentamente verso destra e verso sinistra</string>
-    <string name="keep_focus_position_speak_title">朗读记忆的焦点</string>
-    <string name="save_as_cmd">保存为指令</string>
-    <string name="execute_cmd">是否运行下边指令</string>
-    <string name="command_show_nodeinfo">节点详情</string>
-    <string name="copy_as_jieshuo_cmd">复制为解说口令</string>
-    <string name="copy_text_auto_execute">复制文字自动执行</string>
-    <string name="msg_cmd_copyed">已复制，粘贴分享吧</string>
-    <string name="use_custom_dict_regex_title">词典替换时使用正则表达式</string>
-    <string name="profiles_title">情景模式</string>
-    <string name="node_details">节点详情</string>
-    <string name="msg_has_storage">该功能需要存储文件到内置存储，请授予存储权限或退出该功能</string>
-    <string name="msg_open_error">打开出错</string>
-    <string name="message_load_gesture_error">手势切换失败</string>
-    <string name="msg_gesture_empty">手势为空</string>
-    <string name="msg_sound_empty">音效为空</string>
-    <string name="msg_clipboard_empty">剪切板为空</string>
-    <string name="msg_plugin_empty">插件为空</string>
-    <string name="msg_tool_empty">工具为空</string>
-    <string name="msg_label_empty">标签为空</string>
-    <string name="msg_setting_backup_error">设置备份出错</string>
-    <string name="msg_setting_backup_done">设置备份完成</string>
-    <string name="msg_clipboard_backup_error">剪切板备份出错</string>
-    <string name="msg_clipboard_backup_done">剪切板备份完成</string>
-    <string name="msg_favorite_backup_error">收藏夹备份出错</string>
-    <string name="msg_favorite_backup_done">收藏夹备份完成</string>
-    <string name="msg_timer_backup_error">计时器备份出错</string>
-    <string name="msg_timer_backup_done">计时器备份完成</string>
-    <string name="msg_label_backup_error">标签备份出错</string>
-    <string name="msg_label_backup_done">标签备份完成</string>
-    <string name="msg_gesture_backup_error">手势备份出错</string>
-    <string name="msg_gesture_backup_done">手势备份完成</string>
-    <string name="msg_cmd_backup_error">指令备份出错</string>
-    <string name="msg_cmd_backup_done">指令备份完成</string>
-    <string name="msg_hotkey_backup_error">快捷键备份出错</string>
-    <string name="msg_hotkey_backup_done">快捷键备份完成</string>
-    <string name="msg_restore_setting_error">设置恢复出错</string>
-    <string name="msg_restore_setting_done">设置恢复完成</string>
-    <string name="msg_restore_clipboard_error">剪切板恢复出错</string>
-    <string name="msg_restore_clipboard_done">剪切板恢复完成</string>
-    <string name="msg_restore_favorite_error">收藏夹恢复出错</string>
-    <string name="msg_restore_favorite_done">收藏夹恢复完成</string>
-    <string name="msg_restore_timer_error">计时器恢复出错</string>
-    <string name="msg_restore_timer_done">计时器恢复完成</string>
-    <string name="msg_restore_label_error">标签恢复出错</string>
-    <string name="msg_restore_label_done">标签恢复完成</string>
-    <string name="msg_restore_gesture_error">手势恢复出错</string>
-    <string name="msg_restore_gesture_done">手势恢复完成</string>
-    <string name="msg_restore_cmd_error">指令恢复出错</string>
-    <string name="msg_restore_cmd_done">指令恢复完成</string>
-    <string name="msg_restore_hotkey_error">快捷键恢复出错</string>
-    <string name="msg_restore_hotkey_done">快捷键恢复完成</string>
-    <string name="profiles_summary">情景模式可以配置在不同场景下的独立设置，方便在不同情景下使用读屏</string>
-    <string name="msg_open_file_not_supported">不支持打开该文件</string>
+    <string name="keep_focus_position_speak_title">Leggi l\'elemento focalizzato memorizzato</string>
+    <string name="save_as_cmd">Salva come comando</string>
+    <string name="execute_cmd">Esegui il seguente comando</string>
+    <string name="command_show_nodeinfo">Proprietà del nodo focalizzato</string>
+    <string name="copy_as_jieshuo_cmd">Salva come comando vocale</string>
+    <string name="copy_text_auto_execute">Copia automatica del testo</string>
+    <string name="msg_cmd_copyed">Copiato con successo. Ora puoi incollare e condividere</string>
+    <string name="use_custom_dict_regex_title">Effettua sostituzioni nel dizionario usando le espressioni regolari</string>
+    <string name="profiles_title">Profili</string>
+    <string name="node_details">Proprietà Nodo</string>
+    <string name="msg_has_storage">Questa funzione richiede il permesso per salvare e caricare file dalla memoria. CConsenti o annulla il processo</string>
+    <string name="msg_open_error">Errore durante l\'apertura</string>
+    <string name="message_load_gesture_error">Errore durante il cambio di schema gesti</string>
+    <string name="msg_gesture_empty">Nessuno schema gesti</string>
+    <string name="msg_sound_empty">Nessuno schema sonoro</string>
+    <string name="msg_clipboard_empty">La cronologia appunti è vuota</string>
+    <string name="msg_plugin_empty">Nessuna estensione</string>
+    <string name="msg_tool_empty">Nessuno strumento</string>
+    <string name="msg_label_empty">Nessuna etichetta personalizzata</string>
+    <string name="msg_setting_backup_error">Errore durante il backup delle impostazioni</string>
+    <string name="msg_setting_backup_done">Backup impostazioni completato con successo</string>
+    <string name="msg_clipboard_backup_error">Errore durante il backup della cronologia appunti</string>
+    <string name="msg_clipboard_backup_done">Backup cronologia appunti completato con successo</string>
+    <string name="msg_favorite_backup_error">Errore durante il backup dei preferiti</string>
+    <string name="msg_favorite_backup_done">Backup preferiti completato con successo</string>
+    <string name="msg_timer_backup_error">Errore durante il backup delle etichette del timer</string>
+    <string name="msg_timer_backup_done">Backup etichette del timer completato con successo</string>
+    <string name="msg_label_backup_error">Errore durante il backup delle etichette personalizzate</string>
+    <string name="msg_label_backup_done">Backup etichette personalizzate completato con successo</string>
+    <string name="msg_gesture_backup_error">Errore durante il backup degli schemi gesti</string>
+    <string name="msg_gesture_backup_done">Backup schemi gesti completato con successo</string>
+    <string name="msg_cmd_backup_error">Errore durante il backup comandi vocali</string>
+    <string name="msg_cmd_backup_done">Backup comandi vocali completato con successo</string>
+    <string name="msg_hotkey_backup_error">Errore durante il backup degli schemischemi scorciatoie da tastiera</string>
+    <string name="msg_hotkey_backup_done">Backup degli schemi scorciaoie da tastiera completato con successo</string>
+    <string name="msg_restore_setting_error">Errore durante il ripristino delle impostazioni</string>
+    <string name="msg_restore_setting_done">Impostazioni ripristinate con successo</string>
+    <string name="msg_restore_clipboard_error">Errore durante il ripristino della cronologia appunti</string>
+    <string name="msg_restore_clipboard_done">Cronologia appunti ripristinata con successo</string>
+    <string name="msg_restore_favorite_error">Errore durante il ripristino dei preferiti</string>
+    <string name="msg_restore_favorite_done">Preferiti ripristinati con successo</string>
+    <string name="msg_restore_timer_error">Errore durante il ripristino delle etichette del timer</string>
+    <string name="msg_restore_timer_done">Etichette timer ripristinate con successo</string>
+    <string name="msg_restore_label_error">Errore durante il ripristino delle etichette personalizzate</string>
+	<string name="msg_restore_label_done">Etichette personalizzate ripristinate con successo</string>
+    <string name="msg_restore_gesture_error">Errore durante il ripristino degli schemi gesti</string>
+    <string name="msg_restore_gesture_done">Schemi gesti ripristinati con successo</string>
+    <string name="msg_restore_cmd_error">Errore durante il ripristino dei comandi vocali</string>
+    <string name="msg_restore_cmd_done">Comandi vocali ripristinati con successo</string>
+    <string name="msg_restore_hotkey_error">Errore durante il ripristino degli schemi scorciatoie da tastiera</string>
+    <string name="msg_restore_hotkey_done">Schemi scorciatoie da tastiera ripristinati con successo</string>
+    <string name="profiles_summary">I profili possono essere usati per creare schemi impostazioni aggiuntivi, permettendo di passare in modo fluido da uno schema impostazioni all\'altro</string>
+    <string name="msg_open_file_not_supported">Impossibile aprire questo file perchè non supportato</string>
+    <string name="ocr_clean_keyword_title">字幕识别净化关键字</string>
+    <string name="ocr_clean_keyword_summary">在字幕识别时替换净化识别结果，支持Java正则表达式</string>
+    <string name="command_set_tts_engine">选择语音库</string>
+    <string name="download_sound_package_title">下载更多音效方案</string>
+    <string name="use_single_tts_summary">所有内容均使用主语音库朗读</string>
+    <string name="notification_toast">气泡通知</string>
+    <string name="notification">通知栏通知</string>
+    <string name="gesture_3_single_tap_hold">三指单击并按住</string>
+    <string name="alua_help_title">AndroLua+语法帮助</string>
+    <string name="lua_help_title">Lua参考手册</string>
+    <string name="lua_help">lua_help</string>
+    <string name="command_disable_hotkey">暂停快捷键</string>
+    <string name="fly_pinyin_speak_title">读出拼音和音标</string>
+    <string name="use_navigation_gesture_title">单指全面屏手势</string>
+    <string name="use_navigation_gesture_summary">单指从屏幕底部向上滑动操作全面屏手势（仅支持安卓11以上）</string>
+    <string name="msg_import">已导入%s</string>
+    <string name="wallpaper_description">如果你想读屏不用权限设置不死，请把解说设置为你的壁纸</string>
+    <string name="wallpaper_title">解说壁纸(测试功能)</string>
+    <string name="wallpaper_summary">因为部分手机可能存在读屏被后台杀死问题，可以把解说设置为壁纸，以提高后台稳定性。</string>
+    <string name="nodeinfo_type">类型:</string>
+    <string name="nodeinfo_text">文字:</string>
+    <string name="nodeinfo_content_description">辅助功能说明:</string>
+    <string name="nodeinfo_state_description">状态说明:</string>
+    <string name="nodeinfo_resource_name">资源ID:</string>
+    <string name="nodeinfo_indoex">索引:</string>
+    <string name="nodeinfo_bounds_in_screen">\"位置: \"</string>
+    <string name="nodeinfo_parent">父节点</string>
+    <string name="nodeinfo_childs">\"子节点 \"</string>
+    <string name="nodeinfo_actions">\"操作: \"</string>
+    <string name="nodeinfo_clickable">可点击</string>
+    <string name="nodeinfo_not_click">不可点击</string>
+    <string name="nodeinfo_checkable">可选中</string>
+    <string name="nodeinfo_not_check">不可选中</string>
+    <string name="nodeinfo_focusable">可聚焦</string>
+    <string name="nodeinfo_not_focus">不可聚焦</string>
+    <string name="nodeinfo_focused">已获取焦点</string>
+    <string name="nodeinfo_unfocus">未获取焦点</string>
+    <string name="nodeinfo_visible">可见</string>
+    <string name="nodeinfo_invisible">不可见</string>
 
 </resources>

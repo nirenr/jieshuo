@@ -8,7 +8,7 @@
   <string name="setting_default_pitch">Varsayılan ses kalınlığı</string>
   <!--Source: Preference title.
         Description: Title for the preference that controls default speech rate.-->
-  <string name="setting_default_rate">Konuşma hızı çarpanı</string>
+  <string name="setting_default_rate">Konuşma hızı</string>
   <!--Source: Dialog text.
         Description: Status message shown when installing voice data.-->
   <string name="installing_voice_data">Ses verileri yükleniyor...</string>
@@ -17,7 +17,7 @@
   <string name="set_default_message">eSpeak varsayılan metin konuşma motorunuz olarak ayarlanmadı.</string>
   <!--Source: Dialog message.
         Description: Alert dialog telling the user that voice data installation failed.-->
-  <string name="voice_data_failed_message">eSpeak ses verisini yükleyemedi. Lütfen SD kartınızı kontrol edin.</string>
+  <string name="voice_data_failed_message">eSpeak ses verileri yüklenemedi. Lütfen cihaz belleğinizi veya SD kartınızı kontrol edin.</string>
   <!--Source: Dialog message.
         Description: Alert dialog telling the user that an unknown error has occurred.-->
   <string name="error_message">Maalesef, eSpeak başlatılamadı.</string>
@@ -41,28 +41,28 @@
   <string name="speak">Konuş</string>
   <string name="ssml">SSML Şablonu yükle</string>
   <string name="synthesis_demo">Konuşulacak metni girin:</string>
-  <string name="espeak_volume">Ses</string>
+  <string name="espeak_volume">Ses seviyesi</string>
   <string name="formatter_wpm">%s Kelime/dk</string>
   <string name="formatter_percentage">%s%%</string>
-  <string name="resetToDefault">Varsayılana ayarla</string>
-  <string name="espeak_pitch_range">Perde çeşitliliği</string>
-  <string name="espeak_variant">Ses biçimi</string>
-  <string name="espeak_speak_punctuation">Konuşma duraksaması</string>
+  <string name="resetToDefault">Varsayılan ayarları yükle</string>
+  <string name="espeak_pitch_range">Ses perdesi aralığı</string>
+  <string name="espeak_variant">Ses türü</string>
+  <string name="espeak_speak_punctuation">Noktalamaları oku</string>
   <string name="punctuation_all">Hepsi</string>
   <string name="punctuation_custom">Özel</string>
   <string name="punctuation_custom_fmt">Özel: %s</string>
   <string name="punctuation_none">Hiçbiri</string>
   <string name="punctuation_characters">Noktalama işaretleri</string>
   <string name="category">Kategori</string>
-  <string name="variant">Biçim</string>
+  <string name="variant">Tür</string>
   <string name="variant_male">Erkek</string>
   <string name="variant_female">Kadın</string>
   <string name="variant_default">Varsayılan</string>
-  <string name="variant_n">Biçim %d</string>
+  <string name="variant_n">Tür %d</string>
   <string name="variant_young">Genç</string>
   <string name="variant_old">Yaşlı</string>
   <string name="variant_croak">Boğuk</string>
   <string name="variant_whisper">Fısıltı</string>
   <string name="import_voice_title">eSpeak sözlüğü içe aktar</string>
-  <string name="import_voice_description">SD karttan bir eSpeak ses sözlüğü dosyası içe aktar</string>
+  <string name="import_voice_description">Cihaz belleğinden veya SD karttan bir eSpeak ses sözlüğü dosyası içe aktar</string>
 </resources>

@@ -197,6 +197,10 @@
         <item>@string/command_media_next</item>
         <item>@string/command_previous_window</item>
         <item>@string/command_next_window</item>
+        <item>@string/command_set_tts_engine</item>
+        <item>@string/profiles_title</item>
+        <item>@string/use_ocr_title</item>
+
 
         </string-array>
 
@@ -928,11 +932,11 @@
         <item>Satırlar</item>
         <item>Paragraflar</item>
         <item>Sayfalar</item>
-        <item>Kopyala ve Ek kopyala</item>
+        <item>Kopyalama modu</item>
         <item>Ses seviyesi</item>
         <item>Konuşma hızı</item>
         <item>Metin Tanıma ve Çeviri</item>
-        <item>Pencere</item>
+        <item>Ekran bölümleri</item>
     </string-array>
 
     <string-array name="hot_key_help_items" >
@@ -955,7 +959,7 @@
         <item>ALT+T: Araçlar</item>
         <item>ALT+V: Sesli yardımcı</item>
         <item>ALT+S: Sözcük gezinme modu</item>
-        <item>ALT+L: Liste dolaşımı</item>
+        <item>ALT+L: Liste tarama modu</item>
 
     </string-array>
       <string-array name="view_type_title" >
@@ -972,19 +976,19 @@
         <item>Odaklanılabilir öğeler</item>
         <item>Tıklanabilir öğeler</item>
         <item>Düğümler</item>
-        <item>Kaydırıcı değerini değiştir</item>
-        <item>Dikey kaydırma</item>
+        <item>Kaydırıcı değeri</item>
+        <item>Düşey Dolaşım</item>
 
         <item>Karakterler</item>
         <item>Sözcükler</item>
         <item>Satırlar</item>
         <item>Paragraflar</item>
         <item>Sayfalar</item>
-        <item>Kopyala ve Ek kopyala</item>
+        <item>Kopyalama modu</item>
         <item>Ses seviyesi</item>
         <item>Konuşma hızı</item>
         <item>Metin Tanıma ve Çeviri</item>
-        <item>Pencere</item>
+        <item>Ekran Bölümleri</item>
 
     </string-array>
 

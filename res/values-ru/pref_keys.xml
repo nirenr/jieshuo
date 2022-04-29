@@ -433,6 +433,21 @@
     <string name="use_custom_dict_regex">use_custom_dict_regex</string>
     <string name="profiles">profiles</string>
     <string name="profiles_data">profiles_data</string>
+    <string name="ocr_clean_keyword_data">ocr_clean_keyword_data</string>
+    <string name="ocr_clean_keyword">ocr_clean_keyword</string>
+    <string name="audio_focus">audio_focus</string>
+    <string name="accessibility_volume">accessibility_volume</string>
+    <string name="proixmity_sensor">proixmity_sensor</string>
+    <string name="touch_stop">touch_stop</string>
+    <string name="wake_lock">wake_lock</string>
+    <string name="echo_tts_speaker">echo_tts_speaker</string>
+    <string name="async_touch_stop">async_touch_stop</string>
+    <string name="async_audio_focus">async_audio_focus</string>
+    <string name="download_sound_package">download_sound_package</string>
+    <string name="alua_help">alua_help</string>
+    <string name="fly_number_speak">fly_number_speak</string>
+    <string name="fly_pinyin_speak">fly_pinyin_speak</string>
+    <string name="use_navigation_gesture">use_navigation_gesture</string>
 
 
 </resources>
