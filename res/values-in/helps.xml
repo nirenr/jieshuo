@@ -111,7 +111,7 @@ Mulai voice assistant untuk mengucapkan perintah rekaman, ucapkan program yang a
 
     </string-array>
 
-    <string-array name="code_help_items" formatted="false">
+    <string-array name="code_help_items">
         <item>"Jelaskan gerakan multifungsi dan plug-in dengan sintaks lua untuk menjelaskan API berpemilik untuk mengimplementasikan beberapa fungsi gerakan.
  Jika Anda akrab dengan lua dan androlua, Anda juga dapat mencapai lebih banyak fitur, Dokumen ini hanya mencakup bagian API berpemilik."</item>
         <item>"Konsep dasar,

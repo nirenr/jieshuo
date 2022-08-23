@@ -125,6 +125,10 @@
         <item>@string/command_set_tts_engine</item>
         <item>@string/profiles_title</item>
         <item>@string/use_ocr_title</item>
+        <item>@string/command_disable_hotkey</item>
+        <item>@string/command_speak_time</item>
+        <item>@string/command_speak_net</item>
+        <item>@string/command_false_touch_prevention</item>
 
 
         </string-array>
@@ -405,7 +409,7 @@
     <string-array name="advanced_menu_items">
         <item>traducir</item>
         <item>Reconocimiento de escenas</item>
-        <item>Reconocer y traducir el texto de destino</item>
+        <item>Reconocer y traducir el texto</item>
         <item>Reconocimiento de rostros</item>
         <item>Reconocimiento de captcha</item>
         <item>Resultado del reconocimiento</item>
@@ -922,10 +926,10 @@
         <item>Botones</item>
         <item>Puntos de referencia</item>
         <item>Cuadros de edición</item>
-        <item>Enfoque.</item>
+        <item>Enfoque</item>
         <item>Controles</item>
-        <item>Imágenes.</item>
-        <item>Casillas de verificación.</item>
+        <item>Imágenes</item>
+        <item>Casillas de verificación</item>
         <item>Cuadros combinados</item>
         <item>Tablas</item>
         <item>listas</item>
@@ -938,8 +942,8 @@
         <item>Párrafos</item>
         <item>páginas</item>
         <item>copiar y copiar adicional</item>
-        <item>Volumen.</item>
-        <item>Velocidad del habla</item>
+        <item>Volumen</item>
+        <item>Velocidad de la voz</item>
         <item>traducción y reconocimiento de texto</item>
         <item>Ventanas.</item>
     </string-array>
@@ -966,7 +970,7 @@
     </string-array>
     <string-array name="view_type_title">
         <item>predeterminado</item>
-        <item>Texto.</item>
+        <item>Texto</item>
         <item>botones</item>
         <item>Cuadros de edición</item>
         <item>Imágenes.</item>
@@ -975,7 +979,7 @@
         <item>listas</item>
         <item>Elementos de lista</item>
         <item>enfocable</item>
-        <item>clickeable</item>
+        <item>clickable</item>
         <item>Nodo.</item>
         <item>desplazamiento</item>
         <item>navegación vertical</item>
@@ -986,8 +990,9 @@
         <item>páginas</item>
         <item>Copiar y copiar adicional</item>
         <item>Volumen.</item>
-        <item>Velocidad del habla</item>
+        <item>Velocidad de la voz</item>
         <item>traducción y reconocimiento de texto</item>
         <item>Ventanas.</item>
     </string-array>
+
 </resources>

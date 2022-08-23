@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Jieshuo+</string>
+    <string name="app_name">Jieshuo</string>
     <string name="accessibility_service_description">
         Jieshuo es un programa lector de pantalla que ayudará a las personas ciegas a usar sus teléfonos móviles. Hicimos algunos intentos de innovación. Para más detalles abrir configuración \\ ayuda.\n
-        Algunas funciones están restringidas hasta que compres la versión premium. Para más detalles, contacta con el servicio al cliente en los grupos oficiales de qq, Whatsapp y Telegram, en ayuda y comentarios.\n
+        Algunas funciones están restringidas hasta que compres la membresía. Para más detalles, contacta con el servicio al cliente en los grupos oficiales de qq, Whatsapp y Telegram, en ayuda y comentarios.\n
         \n
         Funciones: \n
         Asistente de voz: Usa tu teléfono sin tocarlo con nuestro asistente de voz.\n
@@ -16,7 +16,7 @@
         Gestos remapeables.\n
         Configuración flexible de notificaciones. Nunca serás interrumpido por algo que no te interesa en este momento.\n
         \n
-        Funciones Premium:\n
+        Funciones con la membresía:\n
         Pantalla virtual para aplicaciones inaccesibles para abrir un nuevo mundo para ti.\n
         Identificación automática de OCR: identifica las imágenes y lee el texto de ellas con facilidad.\n
         Reconocimiento de CAPTCHA ultrarrápido impulsado por la inteligencia artificial.\n
@@ -33,7 +33,7 @@
         ¡Jieshuo es tu lector de pantallas configurable e infinitamente flexible!
     </string>
     <string name="about_title">Hebei Biyou Technology Co., Ltd.</string>
-    <string name="help_feed_summary">Jieshuo utiliza algunas tecnologías de terceros: Tencent AI, Baidu AI, Baidu TTS, Baidu Translator, Baidu MTS, Andro LUA Plus, entre otros.</string>
+    <string name="help_feed_summary">Jieshuo utiliza algunas tecnologías de terceros: Tencent youtu, Tencent AI, Baidu AI, Baidu TTS, Baidu Translator, Baidu MTS, Baidu Voice, Baidu LBS, Baidu MTJ, Cloud Voice, Turing, Andro LUA Plus, entre otros.</string>
     <string name="menu_title">Menú principal</string>
     <string name="tts_speed_title">Velocidad del sintetizador: </string>
     <string name="tts_speed_summary">Cambia la velocidad de la voz.</string>
@@ -96,7 +96,7 @@
     <string name="use_single_tap_title">Tocar para activar: </string>
     <string name="use_up_tap_title">Levantar para activar.: </string>
     <string name="sound_volume_title">Volumen del tema de sonido</string>
-    <string name="notification_bar_speak_title">Leer notificaciones desde la pantalla de notificaciones: </string>
+    <string name="notification_bar_speak_title">Leer notificaciones: </string>
     <string name="notification_toast_speak_title">Leer notificaciones emergentes: </string>
     <string name="notification_announcement_speak_title">Leer las notificaciones del lector de pantalla: </string>
     <string name="notification_settings_title">Configuración de notificaciones</string>
@@ -129,7 +129,7 @@
     <string name="menu_manager_title">Administrar el menú principal</string>
     <string name="menu_up_tap_title">Levantar para activar las opciones de los menús: </string>
     <string name="navigation_up_tap_title">Levantar para activar los botones de la barra de navegación de Android: </string>
-    <string name="only_notification_title">Reanudar el lector de pantalla solo desde la barra de notificaciones.</string>
+    <string name="only_notification_title">Reanudar el lector de pantalla solo desde la pantalla de notificaciones.</string>
     <string name="send_log_title">Enviar registro de logs</string>
     <string name="long_click_title">Tocar y mantener pulsado</string>
     <string name="long_click_summary">Latencia después de la cual se activa la acción de click largo </string>
@@ -308,7 +308,7 @@
     <string name="edge_gesture_title">configuración de los gestos y menús de borde</string>
     <string name="left_button_title">acceso directo deslizar a la izquierda</string>
     <string name="right_button_title">acceso directo deslizar a la derecha</string>
-    <string name="use_add_async_tts_title">Notificaciones de cola para la lectura.</string>
+    <string name="use_add_async_tts_title">Notificaciones de cola para la lectura</string>
     <string name="use_add_async_tts_summary">Si hay más de una notificación para leer, la voz no se interrumpirá. Esta característica no es compatible cuando se utilizan dos sintetizadores</string>
     <string name="questions_answers_title">Preguntas más frecuentes</string>
     <string name="orientation_landscape">horizontal</string>
@@ -367,7 +367,7 @@
     <string name="use_double_edge_gesture_title">Usar los menús de borde con dos dedos.</string>
     <string name="use_raw_click_title">Usar toque directo en lugar de toque de accesibilidad</string>
     <string name="use_raw_click_summary">En Android 7 y superior, esta función puede resolver problemas con algunas aplicaciones que no reaccionan a la entrada.</string>
-    <string name="has_vip_summary">%s solo está disponible para usuarios premium</string>
+    <string name="has_vip_summary">%s solo está disponible para usuarios con la membresía</string>
     <string name="vip_qq_kefu_title">Soporte de Jieshuo</string>
     <string name="vip_qq_kefu_summary">Consulta, compra, transferencia, transferencia, pase la certificación de servicio al cliente</string>
     <string name="use_speak_changed_window_title">Leer todo el contenido de la ventana al cambiar</string>
@@ -385,7 +385,7 @@
     <string name="voice_helper_use_supper_cmd_title">usar comandos adicionales en el asistente de voz</string>
     <string name="voice_helper_use_plugin_title">Usar plugins en el asistente de voz.</string>
     <string name="voice_helper_use_tool_title">Usar herramientas en el asistente de voz.</string>
-    <string name="message_has_vip">Esta función solo está disponible para usuarios premium.</string>
+    <string name="message_has_vip">Esta función solo está disponible para usuarios con la membresía.</string>
     <string name="has_vip_summary2">La función %s está restringida en la versión gratuita del programa</string>
     <string name="voice_helper_capability_setting">Configuración de la capacidad del asistente de voz</string>
     <string name="use_wake_lock_pro_title">Bloqueo de activación mejorado</string>
@@ -426,7 +426,7 @@
     <string name="upper_case_format_number2">Hay %s mayúsculas, letra %d</string>
     <string name="use_slow_speed_title">Bajar la velocidad en el modo de navegación palabra por palabra</string>
     <string name="has_vip_summary_gesture">Algunos de estos gestos no se pueden personalizar en la versión gratuita del programa</string>
-    <string name="message_has_vip_loop_click">Sólo los usuarios premium admiten clics de bucle temporizado</string>
+    <string name="message_has_vip_loop_click">Sólo los usuarios con la membresía admiten clics de bucle temporizado</string>
     <string name="command_click">Hacer click</string>
     <string name="command_long_click">Pulsación larga</string>
     <string name="command_unlock">Desbloquear</string>
@@ -791,11 +791,11 @@
     <string name="pref_donate_paypal">Donar usando Paypal para apoyar el desarrollo del lector</string>
     <string name="menu_settings_title">Configuración de menús</string>
     <string name="directory_download">Descargas</string>
-    <string name="msg_has_vip_split_edit">Solo los usuarios premium pueden editar más de 100 caracteres.</string>
+    <string name="msg_has_vip_split_edit">Solo los usuarios con la membresía pueden editar más de 100 caracteres.</string>
     <string name="media_doc_title">Audio tutoriales</string>
     <string name="downloaded">Descargado</string>
     <string name="no_login">No has iniciado sesión.</string>
-    <string name="no_vip">No eres un usuario Premium</string>
+    <string name="no_vip">No eres un usuario con la membresía</string>
     <string name="need_vip">Si necesitas contactar con nuestro soporte, utiliza la lista de servicio al cliente.</string>
     <string name="check_read_phone_state_permission">Verifica la validez de los permisos</string>
     <string name="message_timer_mode_disabled">Temporizador detenido,%s, en la hora, %s en lo actual</string>
@@ -1115,7 +1115,7 @@
     <string name="msg_multi_touch_mode_enabled">se activaron los gestos con varios dedos</string>
     <string name="msg_multi_touch_mode_disenabled">se desactivaron los gestos con varios dedos</string>
     <string name="activation_code_text"> código de activación</string>
-    <string name="activate_title">activar Premium</string>
+    <string name="activate_title">activar la membresía</string>
     <string name="select_app"> selecciona una aplicación</string>
     <string name="command_to_split_screen"> pantalla dividida</string>
     <string name="edit_activity">Editor-Jieshuo</string>
@@ -1264,43 +1264,112 @@
     <string name="msg_restore_hotkey_done">Se restauraron los atajos de teclado</string>
     <string name="profiles_summary">Los perfiles se pueden configurar de forma independiente en diferentes escenarios para facilitar el uso del lector de pantalla en diferentes escenarios</string>
     <string name="msg_open_file_not_supported">no se admite abrir este tipo de archivos</string>
-    <string name="ocr_clean_keyword_title">字幕识别净化关键字</string>
-    <string name="ocr_clean_keyword_summary">在字幕识别时替换净化识别结果，支持Java正则表达式</string>
-    <string name="command_set_tts_engine">选择语音库</string>
-    <string name="download_sound_package_title">下载更多音效方案</string>
-    <string name="use_single_tts_summary">所有内容均使用主语音库朗读</string>
-    <string name="notification_toast">气泡通知</string>
-    <string name="notification">通知栏通知</string>
-    <string name="gesture_3_single_tap_hold">三指单击并按住</string>
-    <string name="alua_help_title">AndroLua+语法帮助</string>
-    <string name="lua_help_title">Lua参考手册</string>
-    <string name="lua_help">lua_help</string>
-    <string name="command_disable_hotkey">暂停快捷键</string>
-    <string name="fly_pinyin_speak_title">读出拼音和音标</string>
-    <string name="use_navigation_gesture_title">单指全面屏手势</string>
-    <string name="use_navigation_gesture_summary">单指从屏幕底部向上滑动操作全面屏手势（仅支持安卓11以上）</string>
-    <string name="msg_import">已导入%s</string>
-    <string name="wallpaper_description">如果你想读屏不用权限设置不死，请把解说设置为你的壁纸</string>
-    <string name="wallpaper_title">解说壁纸(测试功能)</string>
-    <string name="wallpaper_summary">因为部分手机可能存在读屏被后台杀死问题，可以把解说设置为壁纸，以提高后台稳定性。</string>
-    <string name="nodeinfo_type">类型:</string>
-    <string name="nodeinfo_text">文字:</string>
-    <string name="nodeinfo_content_description">辅助功能说明:</string>
-    <string name="nodeinfo_state_description">状态说明:</string>
-    <string name="nodeinfo_resource_name">资源ID:</string>
-    <string name="nodeinfo_indoex">索引:</string>
-    <string name="nodeinfo_bounds_in_screen">\"位置: \"</string>
-    <string name="nodeinfo_parent">父节点</string>
-    <string name="nodeinfo_childs">\"子节点 \"</string>
-    <string name="nodeinfo_actions">\"操作: \"</string>
-    <string name="nodeinfo_clickable">可点击</string>
-    <string name="nodeinfo_not_click">不可点击</string>
-    <string name="nodeinfo_checkable">可选中</string>
-    <string name="nodeinfo_not_check">不可选中</string>
-    <string name="nodeinfo_focusable">可聚焦</string>
-    <string name="nodeinfo_not_focus">不可聚焦</string>
-    <string name="nodeinfo_focused">已获取焦点</string>
-    <string name="nodeinfo_unfocus">未获取焦点</string>
-    <string name="nodeinfo_visible">可见</string>
-    <string name="nodeinfo_invisible">不可见</string>
+    <string name="ocr_clean_keyword_title">Reconocimiento de subtítulos con OCR</string>
+    <string name="ocr_clean_keyword_summary">Reemplaza el resultado de reconocimiento con OCR, cuando el reconocimiento de subtítulos admita expresiones regulares de java.</string>
+    <string name="command_set_tts_engine">Seleccionar sintetizador de voz</string>
+    <string name="download_sound_package_title">Descargar más temas de sonido</string>
+    <string name="use_single_tts_summary">Todo el contenido se lee en voz alta usando el sintetizador de voz principal</string>
+    <string name="notification_toast">Notificación de burbuja</string>
+    <string name="notification">Notificaciones de la pantalla de notificaciones</string>
+    <string name="gesture_3_single_tap_hold">Toque sostenido con tres dedos</string>
+    <string name="alua_help_title">Ayuda de la sintaxis de AndroLua+</string>
+    <string name="lua_help_title">Manual de referencia de Lua</string>
+
+    <string name="command_disable_hotkey">Pausar atajo</string>
+    <string name="fly_pinyin_speak_title">Leer pinyin y símbolos fonéticos</string>
+    <string name="use_navigation_gesture_title">Gestos de pantalla completa con un dedo</string>
+    <string name="use_navigation_gesture_summary">Desliza un dedo hacia arriba desde la parte inferior de la pantalla para ejecutar el gesto de pantalla completa, solo es compatible con Android 11 y superior</string>
+    <string name="msg_import">%s importado</string>
+    <string name="wallpaper_description">Si deseas leer la pantalla sin la configuración de los permisos, configura Jieshuo como fondo de pantalla</string>
+    <string name="wallpaper_title">Fondo de pantalla de Jieshuo, (versión de prueba)</string>
+    <string name="wallpaper_summary">Debido a que algunos teléfonos móviles pueden tener el problema de que Jieshuo se desactiva, puedes configurar Jieshuo como fondo de pantalla para mejorar la estabilidad del programa en segundo plano.</string>
+    <string name="nodeinfo_type">Tipo:</string>
+    <string name="nodeinfo_text">Palabra:</string>
+    <string name="nodeinfo_content_description">Descripción de la función auxiliar:</string>
+    <string name="nodeinfo_state_description">Descripción de la situación:</string>
+    <string name="nodeinfo_resource_name">ID del recurso:</string>
+    <string name="nodeinfo_indoex">Índice:</string>
+    <string name="nodeinfo_bounds_in_screen">Localización: </string>
+    <string name="nodeinfo_parent">Nodo principal</string>
+    <string name="nodeinfo_childs">Nodos secundarios </string>
+    <string name="nodeinfo_actions">Ejecutar: </string>
+    <string name="nodeinfo_clickable">Clickable</string>
+    <string name="nodeinfo_not_click">No se puede hacer click</string>
+    <string name="nodeinfo_checkable">Seleccionable</string>
+    <string name="nodeinfo_not_check">No seleccionable</string>
+    <string name="nodeinfo_focusable">Enfocable</string>
+    <string name="nodeinfo_not_focus">No enfocable</string>
+    <string name="nodeinfo_focused">Enfocado</string>
+    <string name="nodeinfo_unfocus">Fuera de foco</string>
+    <string name="nodeinfo_visible">Visible</string>
+    <string name="nodeinfo_invisible">Invisible</string>
+    <string name="notification_listener_title">Permiso de acceso a las notificaciones</string>
+    <string name="notification_listener_summary">Después de obtener el permiso a las notificaciones, Jieshuo puede leer las notificaciones de manera más estable.</string>
+    <string name="use_scroll_list_keep_position_title">列表滚动时锁定当前位置索引</string>
+    <string name="use_scroll_list_keep_position_summary">当列表滚动时，自动锁定最后触摸的列表项目位置索引</string>
+    <string name="use_dim_screen_title">启动时进入黑屏模式</string>
+    <string name="use_new_web_type_title">使用新的默认网页浏览方式</string>
+    <string name="use_new_web_type_summary">新的网页焦点移动方式可以获得更加快速的浏览速度，但是也可能产生不兼容，如果打开后出现网页焦点移动异常请关闭此选项</string>
+    <string name="split_row_keyword_title">拆分编辑按句拆分关键字</string>
+    <string name="split_row_keyword_summary">支持正则表达式，留空则使用内置关键字</string>
+    <string name="command_false_touch_prevention">防误触模式</string>
+    <string name="my">我的</string>
+    <string name="backgroud_download">后台下载</string>
+    <string name="cancel_download">取消下载</string>
+    <string name="comment">评论</string>
+    <string name="comment_done">评论成功</string>
+    <string name="use_proximity_false_touch_prevention_title">口袋防误触模式</string>
+    <string name="use_proximity_false_touch_prevention_only_lock_title">仅在锁屏界面使用口袋防误触</string>
+    <string name="enbled_gesture_title">尚未启用是否启用</string>
+    <string name="enabled_app_gesture">启用为单应用手势</string>
+    <string name="enabled_gesture">启用为通用手势</string>
+    <string name="expand">展开</string>
+    <string name="fold">收起</string>
+    <string name="decoding">正在转码</string>
+    <string name="decode_start">正在转码，共%d页...</string>
+    <string name="hide_dialog">隐藏对话框</string>
+    <string name="back_up">返回上一级</string>
+    <string name="make_dir">新建文件夹</string>
+    <string name="input_dir_name">输入文件夹名</string>
+    <string name="windows_notification">窗口通知</string>
+    <string name="add_to_backlist">添加到黑名单</string>
+    <string name="add_to_whitelist">添加到白名单</string>
+    <string name="edit_keyword">编辑关键字，支持正则表达式</string>
+    <string name="only_screen_on">仅开屏</string>
+    <string name="only_screen_off">仅关屏</string>
+    <string name="screen_on_and_off">开屏和关屏</string>
+    <string name="offline_ocr">离线OCR</string>
+    <string name="custom_ocr">自定义扩展OCR</string>
+    <string name="call_duration">通话时长</string>
+    <string name="command_speak_time">时间电量</string>
+    <string name="command_speak_net">网络信息</string>
+    <string name="msg_disabled_quick_mode">已退出快速浏览</string>
+    <string name="msg_enabled_quick_mode">已进入快速浏览</string>
+    <string name="msg_enabled_hotkey">快捷键已启用</string>
+    <string name="msg_disabled_hotkey">快捷键已暂停</string>
+    <string name="msg_enabled_false_touch_prevention">已进入防误触模式，手势和触摸浏览将会屏蔽，同时按音量加减键退出</string>
+    <string name="msg_disabled_false_touch_prevention">已退出防误触模式。</string>
+    <string name="light_0">黑暗</string>
+    <string name="light_5">非常昏暗</string>
+    <string name="light_10">昏暗</string>
+    <string name="light_50">明亮</string>
+    <string name="light_1000">非常明亮</string>
+    <string name="light_10000">非常刺眼</string>
+    <string name="ambient_light">当前亮度 %d %s</string>
+    <string name="msg_load_fail">设置加载失败</string>
+    <string name="msg_up">向上</string>
+    <string name="msg_down">向下</string>
+    <string name="msg_enabled_auto_ocr">开启自动OCR识别</string>
+    <string name="msg_disabled_auto_ocr">关闭自动OCR识别</string>
+    <string name="current_selected_text">共%d个字符，当前选择的是第%d个到%d个</string>
+    <string name="msg_not_supported">你的设备不支持该功能</string>
+    <string name="msg_no_result">没有结果</string>
+    <string name="fail">操作失败</string>
+    <string name="msg_search_in_web">在网上找到如下结果</string>
+    <string name="continue_run">继续执行</string>
+    <string name="msg_keyboard_hide">键盘已隐藏</string>
+    <string name="msg_long_copying">正在长复制，任意手势可退出</string>
+    <string name="ringer_mode_vibate">已设置为振动</string>
+    <string name="ringer_mode_silent">已设置为静音</string>
+    <string name="msg_gesture_has_vip">非会员版不支持修改上下左右手势</string>
 </resources>

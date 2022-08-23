@@ -126,6 +126,10 @@
         <item>@string/command_set_tts_engine</item>
         <item>@string/profiles_title</item>
         <item>@string/use_ocr_title</item>
+        <item>@string/command_disable_hotkey</item>
+        <item>@string/command_speak_time</item>
+        <item>@string/command_speak_net</item>
+        <item>@string/command_false_touch_prevention</item>
 
 
         <!--item>Quick browsing mode</item-->
@@ -1003,6 +1007,7 @@
         <item>نافذة </item>
 
     </string-array>
+
 
 
 </resources>

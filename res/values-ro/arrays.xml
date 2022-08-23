@@ -119,10 +119,6 @@
         <item>@string/command_media_next</item>
         <item>@string/command_previous_window</item>
         <item>@string/command_next_window</item>
-        <item>@string/command_set_tts_engine</item>
-        <item>@string/profiles_title</item>
-        <item>@string/use_ocr_title</item>
-
     </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
@@ -914,7 +910,7 @@
         <item>Baidu</item>
     </string-array>
     <string-array name="tts_engine_vip_values">
-        <item>system</item>
+        <item>sistem</item>
         <item>iflytek</item>
         <item>unisound</item>
         <item>baidu</item>
@@ -949,7 +945,8 @@
         <item>1 minut</item>
         <item>5 minute</item>
         <item>10 minute</item>
-        <item>15 minute</item>
+        <item>"15 minute
+"</item>
     </string-array>
     <string-array name="alarm_hour_values">
         <item>0</item>
@@ -1077,4 +1074,5 @@
         <item>Traducere și OCR</item>
         <item>Ferestre</item>
     </string-array>
+
 </resources>

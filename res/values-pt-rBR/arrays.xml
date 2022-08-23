@@ -127,6 +127,10 @@
         <item>@string/command_set_tts_engine</item>
         <item>@string/profiles_title</item>
         <item>@string/use_ocr_title</item>
+        <item>@string/command_disable_hotkey</item>
+        <item>@string/command_speak_time</item>
+        <item>@string/command_speak_net</item>
+        <item>@string/command_false_touch_prevention</item>
 
 
         </string-array>
@@ -445,17 +449,17 @@
         <item>Polonês</item>
         <item>Vietnamita</item>
 
-        <item>爱尔兰语</item>
-        <item>奥克语</item>
-        <item>阿尔巴尼亚语</item>
-        <item>阿肯语</item>
-        <item>阿拉贡语</item>
-        <item>阿姆哈拉语</item>
-        <item>阿萨姆语</item>
-        <item>艾马拉语</item>
-        <item>阿塞拜疆语</item>
-        <item>阿斯图里亚斯语</item>
-        <item>奥塞梯语</item>
+        <item>irlandês</item>
+        <item>occitano</item>
+        <item>albanês</item>
+        <item>Akan</item>
+        <item>aragonês</item>
+        <item>amárico</item>
+        <item>Assamês</item>
+        <item>Aymara</item>
+        <item>azerbaijano</item>
+        <item>asturiano</item>
+        <item>Yas da Ossétia</item>
         <item>奥杰布瓦语</item>
         <item>奥里亚语</item>
         <item>奥罗莫语</item>
@@ -613,10 +617,10 @@
         <item>亚美尼亚语</item>
         <item>伊努克提图特语</item>
         <item>伊朗语</item>
-        <item>扎扎其语</item>
-        <item>中古法语</item>
-        <item>祖鲁语</item>
-        <item>爪哇语</item>
+        <item>zazaqi</item>
+        <item>wah francês médio</item>
+        <item>Zulu</item>
+        <item>javanês</item>
     </string-array>
     <string-array name="lang_values">
         <item>auto</item>
@@ -1002,6 +1006,7 @@
         <item>Janela</item>
 
     </string-array>
+
 
 
 </resources>

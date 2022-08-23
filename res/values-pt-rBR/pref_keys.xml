@@ -447,4 +447,12 @@
     <string name="fly_number_speak">fly_number_speak</string>
     <string name="fly_pinyin_speak">fly_pinyin_speak</string>
     <string name="use_navigation_gesture">use_navigation_gesture</string>
+    <string name="use_scroll_list_keep_position">use_scroll_list_keep_position</string>
+    <string name="notification_speak2">notification_speak2</string>
+    <string name="use_dim_screen">use_dim_screen</string>
+    <string name="use_new_web_type">use_new_web_type</string>
+    <string name="lua_help">lua_help</string>
+    <string name="use_proximity_false_touch_prevention">use_proximity_false_touch_prevention</string>
+    <string name="async_proixmity_sensor">async_proixmity_sensor</string>
+    <string name="use_proximity_false_touch_prevention_only_lock">use_proximity_false_touch_prevention_only_lock</string>
 </resources>

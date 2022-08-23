@@ -124,10 +124,6 @@
         <item>@string/command_media_next</item>
         <item>@string/command_previous_window</item>
         <item>@string/command_next_window</item>
-        <item>@string/command_set_tts_engine</item>
-        <item>@string/profiles_title</item>
-        <item>@string/use_ocr_title</item>
-
 
         </string-array>
     <string-array name="right_menu_items">
@@ -914,28 +910,28 @@
         <item>nadpisy</item>
         <item>Odkazy</item>
         <item>Tlačítka</item>
-        <item>orientační body</item>
+        <item>tabulky</item>
         <item>Textová pole</item>
         <item>zaměřitelné položky</item>
         <item>ovládací prvky</item>
         <item>obrázky</item>
-        <item>Zaškrtávací políčka</item>
-        <item>pole se seznamem</item>
+        <item>Zaškrtávací pole</item>
+        <item>kombinovaná pole</item>
         <item>formuláře</item>
         <item>Seznamy</item>
         <item>Položky seznamu</item>
-        <item>režim rolování</item>
+        <item>posuvníky</item>
         <item>zobrazení</item>
         <item>znaky</item>
         <item>slova</item>
         <item>řádky</item>
         <item>odstavce</item>
         <item>stránky</item>
-        <item>Režim kopírování</item>
-        <item>hlasitost</item>
+        <item>Kopírovat a připojit</item>
+        <item>hlasitost médií</item>
         <item>Rychlost řeči</item>
-        <item>OCR a překlad</item>
-        <item>Okna</item>
+        <item>Rozpoznat a přeložit</item>
+        <item>Systémová okna</item>
 
     </string-array>
     <string-array name="hot_key_help_items">
@@ -961,18 +957,18 @@
     </string-array>
     <string-array name="view_type_title">
         <item>výchozí</item>
-        <item>popisky</item>
+        <item>text</item>
         <item>tlačítka</item>
         <item>Textová pole</item>
         <item>obrázky</item>
-        <item>Zaškrtávací políčka</item>
+        <item>Zaškrtávací pole</item>
         <item>indikátory průběhu</item>
         <item>Seznamy</item>
         <item>Položky seznamu</item>
         <item>zaměřitelné položky</item>
         <item>kliknutelné prvky</item>
         <item>Objekty</item>
-        <item>režim rolování</item>
+        <item>posuvníky</item>
         <item>vertikální navigace</item>
 
 
@@ -981,11 +977,12 @@
         <item>řádky</item>
         <item>odstavce</item>
         <item>stránky</item>
-        <item>Režim kopírování</item>
-        <item>hlasitost</item>
+        <item>Kopírovat a připojit</item>
+        <item>hlasitost médií</item>
         <item>Rychlost řeči</item>
-        <item>OCR a překlad</item>
-        <item>Okna</item>
+        <item>Rozpoznat a přeložit</item>
+        <item>Systémová okna</item>
 
     </string-array>
+
 </resources>

@@ -127,6 +127,10 @@
         <item>@string/command_set_tts_engine</item>
         <item>@string/profiles_title</item>
         <item>@string/use_ocr_title</item>
+        <item>@string/command_disable_hotkey</item>
+        <item>@string/command_speak_time</item>
+        <item>@string/command_speak_net</item>
+        <item>@string/command_false_touch_prevention</item>
 
 
         </string-array>
@@ -412,7 +416,7 @@
         <item>Prepoznavanje lica</item>
         <item>Prepoznavanje koda sa slike</item>
         <item>Rezultat prepoznavanja</item>
-        <item>Iops slike</item>
+        <item>Opis slike</item>
     </string-array>
     <string-array name="lang_entries">
         <item>auto</item>
@@ -445,178 +449,178 @@
         <item>Poljski</item>
         <item>Vijetnamski</item>
 
-        <item>爱尔兰语</item>
-        <item>奥克语</item>
-        <item>阿尔巴尼亚语</item>
-        <item>阿肯语</item>
-        <item>阿拉贡语</item>
-        <item>阿姆哈拉语</item>
-        <item>阿萨姆语</item>
-        <item>艾马拉语</item>
-        <item>阿塞拜疆语</item>
-        <item>阿斯图里亚斯语</item>
-        <item>奥塞梯语</item>
-        <item>奥杰布瓦语</item>
-        <item>奥里亚语</item>
-        <item>奥罗莫语</item>
-        <item>波斯语</item>
-        <item>布列塔尼语</item>
-        <item>巴什基尔语</item>
-        <item>巴斯克语</item>
-        <item>巴西葡萄牙语</item>
-        <item>白俄罗斯语</item>
-        <item>柏柏尔语</item>
-        <item>邦板牙语</item>
-        <item>北方萨米语</item>
-        <item>北索托语</item>
-        <item>本巴语</item>
-        <item>比林语</item>
-        <item>比斯拉马语</item>
-        <item>俾路支语</item>
-        <item>冰岛语</item>
-        <item>波斯尼亚语</item>
-        <item>博杰普尔语</item>
-        <item>楚瓦什语</item>
-        <item>聪加语</item>
-        <item>鞑靼语</item>
-        <item>掸语</item>
-        <item>德顿语</item>
-        <item>迪维希语</item>
-        <item>低地德语</item>
-        <item>菲律宾语</item>
-        <item>梵语</item>
-        <item>弗留利语</item>
-        <item>富拉尼语</item>
-        <item>法罗语</item>
-        <item>盖尔语</item>
-        <item>刚果语</item>
-        <item>高地索布语</item>
-        <item>高棉语</item>
-        <item>格陵兰语</item>
-        <item>格鲁吉亚语</item>
-        <item>古吉拉特语</item>
-        <item>古希腊语</item>
-        <item>古英语</item>
-        <item>瓜拉尼语</item>
-        <item>胡帕语</item>
-        <item>哈卡钦语</item>
-        <item>海地语</item>
-        <item>豪萨语</item>
-        <item>黑山语</item>
-        <item>吉尔吉斯语</item>
-        <item>加利西亚语</item>
-        <item>加拿大法语</item>
-        <item>加泰罗尼亚语</item>
-        <item>卡拜尔语</item>
-        <item>卡纳达语</item>
-        <item>卡努里语</item>
-        <item>卡舒比语</item>
-        <item>康瓦尔语</item>
-        <item>科萨语</item>
-        <item>科西嘉语</item>
-        <item>克里克语</item>
-        <item>克里米亚鞑靼语</item>
-        <item>克林贡语</item>
-        <item>克罗地亚语</item>
-        <item>克丘亚语</item>
-        <item>克什米尔语</item>
-        <item>孔卡尼语</item>
-        <item>库尔德语</item>
-        <item>拉丁语</item>
-        <item>老挝语</item>
-        <item>拉特加莱语</item>
-        <item>拉脱维亚语</item>
-        <item>林堡语</item>
-        <item>林加拉语</item>
-        <item>卢干达语</item>
-        <item>卢森堡语</item>
-        <item>卢森尼亚语</item>
-        <item>卢旺达语</item>
-        <item>立陶宛语</item>
-        <item>罗曼什语</item>
-        <item>罗姆语</item>
-        <item>逻辑语</item>
-        <item>马来语</item>
-        <item>缅甸语</item>
-        <item>马拉地语</item>
-        <item>马拉加斯语</item>
-        <item>马拉雅拉姆语</item>
-        <item>马其顿语</item>
-        <item>马绍尔语</item>
-        <item>迈蒂利语</item>
-        <item>曼克斯语</item>
-        <item>毛里求斯克里奥尔语</item>
-        <item>毛利语</item>
-        <item>孟加拉语</item>
-        <item>马耳他语</item>
-        <item>苗语</item>
-        <item>挪威语</item>
-        <item>那不勒斯语</item>
-        <item>南恩德贝莱语</item>
-        <item>南非荷兰语</item>
-        <item>南索托语</item>
-        <item>尼泊尔语</item>
-        <item>旁遮普语</item>
-        <item>帕皮阿门托语</item>
-        <item>普什图语</item>
-        <item>齐切瓦语</item>
-        <item>契维语</item>
-        <item>切罗基语</item>
-        <item>萨丁尼亚语</item>
-        <item>萨摩亚语</item>
-        <item>塞尔维亚-克罗地亚语</item>
-        <item>塞尔维亚语</item>
-        <item>桑海语</item>
-        <item>僧伽罗语</item>
-        <item>世界语</item>
-        <item>书面挪威语</item>
-        <item>斯洛伐克语</item>
-        <item>斯瓦希里语</item>
-        <item>索马里语</item>
-        <item>塞尔维亚语（西里尔）</item>
-        <item>土耳其语</item>
-        <item>塔吉克语</item>
-        <item>泰米尔语</item>
-        <item>他加禄语</item>
-        <item>提格利尼亚语</item>
-        <item>泰卢固语</item>
-        <item>突尼斯阿拉伯语</item>
-        <item>土库曼语</item>
-        <item>乌克兰语</item>
-        <item>瓦隆语</item>
-        <item>威尔士语</item>
-        <item>文达语</item>
-        <item>沃洛夫语</item>
-        <item>乌尔都语</item>
-        <item>希伯来语</item>
-        <item>西弗里斯语</item>
-        <item>西里西亚语</item>
-        <item>希利盖农语</item>
-        <item>下索布语</item>
-        <item>夏威夷语</item>
-        <item>新挪威语</item>
-        <item>西非书面语</item>
-        <item>信德语</item>
-        <item>修纳语</item>
-        <item>宿务语</item>
-        <item>叙利亚语</item>
-        <item>巽他语</item>
-        <item>印地语</item>
-        <item>印尼语</item>
-        <item>意第绪语</item>
-        <item>因特语</item>
-        <item>亚齐语</item>
-        <item>印古什语</item>
-        <item>伊博语</item>
-        <item>伊多语</item>
-        <item>约鲁巴语</item>
-        <item>亚美尼亚语</item>
-        <item>伊努克提图特语</item>
-        <item>伊朗语</item>
-        <item>扎扎其语</item>
-        <item>中古法语</item>
-        <item>祖鲁语</item>
-        <item>爪哇语</item>
+        <item>Irski</item>
+        <item>Hrastov jezik</item>
+        <item>Albanski</item>
+        <item>Akanski</item>
+        <item>Aragonski</item>
+        <item>Amharski</item>
+        <item>Asamski</item>
+        <item>Ajmarski</item>
+        <item>Azerbajdžanski</item>
+        <item>Asturijski</item>
+        <item>Osetski</item>
+        <item>Ojibway</item>
+        <item>Oriya</item>
+        <item>Oromo</item>
+        <item>Farsi</item>
+        <item>Bretonski</item>
+        <item>Baškirski</item>
+        <item>Baskijski</item>
+        <item>Brazilski portugalski</item>
+        <item>Bjeloruski</item>
+        <item>Berberski</item>
+        <item>Kapampangan</item>
+        <item>Sjeverni sami</item>
+        <item>Sjeverni soto</item>
+        <item>Bemba</item>
+        <item>dvojezično</item>
+        <item>Bislama</item>
+        <item>Belučki</item>
+        <item>Islandski</item>
+        <item>Malajalam</item>
+        <item>Bhojpuri</item>
+        <item>Čuvaški</item>
+        <item>Konkani</item>
+        <item>Tatarski</item>
+        <item>Shan Thai</item>
+        <item>ccl</item>
+        <item>cdl</item>
+        <item>Donjonjemački</item>
+        <item>Filipino</item>
+        <item>Sanskrt</item>
+        <item>Friulski</item>
+        <item>Fulani</item>
+        <item>Farski</item>
+        <item>Galski</item>
+        <item>kng</item>
+        <item>Gornjolužičkosrpski</item>
+        <item>Kmerski</item>
+        <item>Grenlandski</item>
+        <item>Gruzijski</item>
+        <item>Gudžaratski</item>
+        <item>Starogrčki</item>
+        <item>Staroengleski</item>
+        <item>Guarani</item>
+        <item>Chupa</item>
+        <item>Hakka</item>
+        <item>Haiti</item>
+        <item>Hausa</item>
+        <item>Crnogorski</item>
+        <item>Kirgiški</item>
+        <item>Galicijski</item>
+        <item>Kanadski francuski</item>
+        <item>Katalonski</item>
+        <item>Kabilski</item>
+        <item>Kannadaški</item>
+        <item>Kanuri</item>
+        <item>Kašubski</item>
+        <item>Korniški</item>
+        <item>pltn</item>
+        <item>Korzijski</item>
+        <item>ptk</item>
+        <item>Krimskotatarski</item>
+        <item>Klingonski</item>
+        <item>Hrvatski</item>
+        <item>Kečuanski</item>
+        <item>Kašmirski</item>
+        <item>Konkani</item>
+        <item>Kurdski</item>
+        <item>Latinski</item>
+        <item>Laoški</item>
+        <item>Latgalski</item>
+        <item>Latvijski</item>
+        <item>Limburški</item>
+        <item>Lingalski</item>
+        <item>Luganda</item>
+        <item>Luksemburški</item>
+        <item>Lucignanski</item>
+        <item>Ruanski</item>
+        <item>Litvanski</item>
+        <item>Retoromsnski</item>
+        <item>Roma</item>
+        <item>lj</item>
+        <item>Malajski</item>
+        <item>Burmanski</item>
+        <item>Marati</item>
+        <item>Malagaški</item>
+        <item>Malajalamski</item>
+        <item>Makedonski</item>
+        <item>Maršalski</item>
+        <item>Meithili</item>
+        <item>Mangs</item>
+        <item>Mauricius</item>
+        <item>Maori</item>
+        <item>Bangla</item>
+        <item>Malteški</item>
+        <item>Miao</item>
+        <item>Norveški</item>
+        <item>Napuljski</item>
+        <item>Ndebele</item>
+        <item>Afrikaans</item>
+        <item>Južni soto</item>
+        <item>Nepalski</item>
+        <item>Punjabi</item>
+        <item>Papiamento</item>
+        <item>Pašto</item>
+        <item>Čičeva</item>
+        <item>Chiwi</item>
+        <item>Čirokeški</item>
+        <item>Sardinski</item>
+        <item>Samoanski</item>
+        <item>Srpskohrvatski</item>
+        <item>Srpski</item>
+        <item>Šanhajski</item>
+        <item>Sinhala</item>
+        <item>Esperanto</item>
+        <item>Saami</item>
+        <item>Slovački</item>
+        <item>Swahili</item>
+        <item>Somalijski</item>
+        <item>Srpski (Ćirilica)</item>
+        <item>Turski</item>
+        <item>Tadžički</item>
+        <item>Tamilski</item>
+        <item>Tagalog</item>
+        <item>Tigrinja</item>
+        <item>Telugu</item>
+        <item>Arapski (tunis)</item>
+        <item>Turkmenski</item>
+        <item>Ukrajinski</item>
+        <item>Valonski</item>
+        <item>Velški</item>
+        <item>Venda</item>
+        <item>Wolof</item>
+        <item>Urdu</item>
+        <item>Hebrejski</item>
+        <item>Zapadnofrizijski</item>
+        <item>Šleski</item>
+        <item>Hiligajnon</item>
+        <item>Donjolužičkosrpski</item>
+        <item>Havajski</item>
+        <item>Norveški (nynorsk)</item>
+        <item>Zapadnoafrički</item>
+        <item>Sindhi</item>
+        <item>Shun</item>
+        <item>Cebuano</item>
+        <item>Asirski</item>
+        <item>Sunda</item>
+        <item>Hindi</item>
+        <item>Indonezijski</item>
+        <item>Jidiš</item>
+        <item>Intelingua</item>
+        <item>Aceh</item>
+        <item>Inguški</item>
+        <item>Ikbo</item>
+        <item>Ido</item>
+        <item>Yoruba</item>
+        <item>Armenski</item>
+        <item>Inuktitut</item>
+        <item>Farsi</item>
+        <item>Zaza</item>
+        <item>Srednji francuski</item>
+        <item>Zulu</item>
+        <item>Javanski</item>
     </string-array>
     <string-array name="lang_values">
         <item>auto</item>
@@ -924,16 +928,16 @@
         <item>Veza</item>
         <item>gumb</item>
 
-        <item>地标</item>
-        <item>编辑框</item>
-        <item>焦点</item>
-        <item>控件</item>
-        <item>图片</item>
-        <item>复选框</item>
-        <item>组合框</item>
-        <item>表格</item>
-        <item>列表</item>
-        <item>列表项</item>
+        <item>Orijentir</item>
+        <item>Polje za uređivanje</item>
+        <item>Fokusirano</item>
+        <item>Kontrola</item>
+        <item>Slika</item>
+        <item>Potvrdni okvir</item>
+        <item>Odabirni okvir</item>
+        <item>Oblik</item>
+        <item>Popis</item>
+        <item>Stavke popisa</item>
 
         <item>listanje stavaka</item>
         <item>pregled</item>
@@ -947,7 +951,7 @@
         <item>Glasnoća</item>
         <item>Brzina govora</item>
         <item>Sustav za prepoznavanje</item>
-        <item>窗口</item>
+        <item>Prozor</item>
     </string-array>
 
     <string-array name="hot_key_help_items" >
@@ -1000,9 +1004,10 @@
         <item>Glasnoća</item>
         <item>Brzina govora</item>
         <item>Sustav za prepoznavanje</item>
-        <item>窗口</item>
+        <item>Prozor</item>
 
     </string-array>
+
 
 
 </resources>

@@ -127,6 +127,10 @@
         <item>@string/command_set_tts_engine</item>
         <item>@string/profiles_title</item>
         <item>@string/use_ocr_title</item>
+        <item>@string/command_disable_hotkey</item>
+        <item>@string/command_speak_time</item>
+        <item>@string/command_speak_net</item>
+        <item>@string/command_false_touch_prevention</item>
 
         <!--item>Quick browsing mode</item-->
     </string-array>
@@ -223,14 +227,21 @@
         <item>Skončiť</item>
         <item>Ukončiť hovor</item>
         <item>Prejsť na</item>
+        <item>Odmietnuť hovor</item>
+        <item>Posunutím ukončíte hovor</item>
+        <item>Späť</item>
+        <item>naspäť</item>
+        <item>Predchádzajúci</item>
+        <item>Predchádzajúca skladba</item>
+        <item>Predchádzajúca strana</item>
+        <item>Predchádzajúca stránka</item>
+        <item>Tlačidlo Odmietnuť hovor</item>
         <item>Hang up</item>
         <item>Decline</item>
         <item>*Swipe left to decline*</item>
         <item>End call</item>
         <item>Hang up</item>
         <item>End call</item>
-        <item>结束QQ通话</item>
-        <item>结束QQ电话</item>
         <item>Previous media</item>
         <item>Previous track</item>
         <item>Go back</item>
@@ -238,7 +249,15 @@
     <string-array name="right_button">
         <item>Prijať hovor</item>
         <item>Prijať</item>
+        <item>Odpovedať</item>
         <item>Reproduktor</item>
+        <item>Ďalší</item>
+        <item>Ďalej</item>
+        <item>Nasledujúci</item>
+        <item>Nasledujúca skladba</item>
+        <item>Nasledujúca strana</item>
+        <item>Nasledujúca stránka</item>
+        <item>Tlačidlo Prijať hovor</item>
         <item>Answer</item>
         <item>*Swipe right to answer*</item>
         <item>Hands-free</item>
@@ -425,7 +444,7 @@
         <item>Výsledok rozpoznávania</item>
         <item>Popisovanie obrázkov</item>
         <item>Overenie posúvných puzzle</item>
-        <item>Exam recognition</item>
+        <item>Vyskúšať rozpoznávanie</item>
     </string-array>
     <string-array name="lang_entries">
         <item>auto</item>
@@ -472,12 +491,12 @@
         <item>Ojibwa</item>
         <item>Oryan</item>
         <item>Oromo</item>
-        <item>Persian</item>
-        <item>Breton</item>
+        <item>Perzština</item>
+        <item>Bretónčina</item>
         <item>Bashkir</item>
         <item>Basque</item>
-        <item>Brazilian Portuguese</item>
-        <item>Belarusian</item>
+        <item>Brazílska portugalčina</item>
+        <item>Bieloruština</item>
         <item>Berber</item>
         <item>Pampanga</item>
         <item>Northern Sami</item>
@@ -486,17 +505,17 @@
         <item>Birim</item>
         <item>Bislama</item>
         <item>Balochian</item>
-        <item>Icelandic</item>
-        <item>Bosnian</item>
+        <item>Islandčina</item>
+        <item>Bosniančina</item>
         <item>Bhojpuri</item>
         <item>Chuvash</item>
         <item>Conga</item>
-        <item>Tatar</item>
+        <item>Tatárčina</item>
         <item>Shan</item>
         <item>Detun</item>
         <item>Dhivehi</item>
         <item>Lowland German</item>
-        <item>Filipino</item>
+        <item>Filipínčina</item>
         <item>Sanskrit</item>
         <item>Friuli</item>
         <item>Fulani</item>
@@ -506,9 +525,9 @@
         <item>Highland Sorbian</item>
         <item>Khmer</item>
         <item>Greenlandic</item>
-        <item>Georgian</item>
+        <item>Gruzínčina</item>
         <item>Gujarati</item>
-        <item>Ancient Greek</item>
+        <item>Starogréčtina</item>
         <item>Old English</item>
         <item>Guarani</item>
         <item>Hupa</item>
@@ -517,20 +536,20 @@
         <item>Hausa</item>
         <item>Montenegrin</item>
         <item>Kyrgyz</item>
-        <item>Galician</item>
-        <item>Canadian French</item>
-        <item>Catalan</item>
+        <item>Galícíjčina</item>
+        <item>Kanadská francúzština</item>
+        <item>Katalánčina</item>
         <item>Kabairian</item>
         <item>Kanadian</item>
         <item>Kanuri</item>
         <item>Kashubian</item>
         <item>Kangwar</item>
         <item>Corsa</item>
-        <item>Corsican</item>
+        <item>Korzičtina</item>
         <item>Creek</item>
         <item>Crimea Tatar</item>
         <item>Klingon</item>
-        <item>Croatian</item>
+        <item>Chorváčtina</item>
         <item>Kechuan</item>
         <item>Kashmiri</item>
         <item>Konkani</item>
@@ -538,14 +557,14 @@
         <item>Latin</item>
         <item>Laotian</item>
         <item>Latgalai</item>
-        <item>Latvian</item>
+        <item>Lotiština</item>
         <item>Limburgish</item>
         <item>Lingala</item>
         <item>Luganda</item>
-        <item>Luxembourgish</item>
+        <item>Luxemburčina</item>
         <item>Lushanian</item>
         <item>Rwandan</item>
-        <item>Lithuanian</item>
+        <item>Litovčina</item>
         <item>Romansh</item>
         <item>Roma</item>
         <item>Logic</item>
@@ -554,21 +573,21 @@
         <item>Marathi</item>
         <item>Malagasy</item>
         <item>Malayalam</item>
-        <item>Macedonian</item>
+        <item>Macedónčina</item>
         <item>Marshallese</item>
         <item>Maitili</item>
         <item>Manx</item>
         <item>Mauritian Creole</item>
         <item>Maori</item>
-        <item>Bengali</item>
+        <item>Bengálčina</item>
         <item>Maltese</item>
         <item>Hmong</item>
-        <item>Norwegian</item>
+        <item>Nórčina</item>
         <item>Neapolitan</item>
         <item>South Ndebele</item>
         <item>African Dutch</item>
         <item>South Sotho</item>
-        <item>Nepali</item>
+        <item>Nepálčina</item>
         <item>Punjabi</item>
         <item>Papi Amento</item>
         <item>Pashto</item>
@@ -577,17 +596,17 @@
         <item>Cherokee</item>
         <item>Sardinian</item>
         <item>Samoan</item>
-        <item>Serbian-Croatian</item>
-        <item>Serbian</item>
+        <item>Srbochorvátčina</item>
+        <item>Srbčina</item>
         <item>Sanghainese</item>
         <item>Sinhalese</item>
         <item>Asperanto</item>
         <item>Written Norwegian</item>
-        <item>Slovak</item>
+        <item>Slovenčina</item>
         <item>Kiswahili</item>
         <item>Somali</item>
-        <item>Serbian (Cyrillic)</item>
-        <item>Turkish</item>
+        <item>Srbčina (Azbuka)</item>
+        <item>Turečtina</item>
         <item>Tajik</item>
         <item>Tamil</item>
         <item>Tagalog</item>
@@ -595,13 +614,13 @@
         <item>Telugu</item>
         <item>Tunisian Arabic</item>
         <item>Turkmen</item>
-        <item>Ukrainian</item>
+        <item>Ukrajinčina</item>
         <item>Walloon</item>
         <item>Welsh</item>
         <item>Vinda</item>
         <item>Volovian</item>
         <item>Urdu</item>
-        <item>Hebrew</item>
+        <item>Hebrejčina</item>
         <item>Sepharic</item>
         <item>Cilician</item>
         <item>Hiligaynon</item>
@@ -1016,5 +1035,6 @@
         <item>Oblasti obrazovky</item>
 
     </string-array>
+
 
 </resources>

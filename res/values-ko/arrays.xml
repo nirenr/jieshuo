@@ -127,6 +127,10 @@
         <item>@string/command_set_tts_engine</item>
         <item>@string/profiles_title</item>
         <item>@string/use_ocr_title</item>
+        <item>@string/command_disable_hotkey</item>
+        <item>@string/command_speak_time</item>
+        <item>@string/command_speak_net</item>
+        <item>@string/command_false_touch_prevention</item>
 
 
         </string-array>
@@ -862,10 +866,10 @@
         <item>15</item>
     </string-array>
     <string-array name="timer_interval_entries">
-        <item>1 분</item>
-        <item>5 분</item>
-        <item>10 분</item>
-        <item>15 분</item>
+        <item>1분</item>
+        <item>5분</item>
+        <item>10분</item>
+        <item>15분</item>
     </string-array>
     <string-array name="alarm_hour_values">
         <item>0</item>
@@ -928,7 +932,7 @@
         <item>편집창</item>
         <item>초점</item>
         <item>컨트롤</item>
-        <item>사진</item>
+        <item>이미지</item>
         <item>체크상자</item>
         <item>콤보상자</item>
         <item>표</item>
@@ -940,18 +944,18 @@
 
         <item>글자</item>
         <item>단어</item>
-        <item>열</item>
-        <item>단락</item>
+        <item>줄</item>
+        <item>문단</item>
         <item>페이지</item>
         <item>복사</item>
         <item>음량</item>
         <item>음성속도</item>
-        <item>번역</item>
-        <item>窗口</item>
+        <item>번역 및 OCR</item>
+        <item>창</item>
     </string-array>
     <string-array name="hot_key_help_items" >
-        <item>CTRL+DPAD_UP: 이전 초점으로 이동</item>
-        <item>CTRL+DPAD_DOWN: 다음 초점으로 이동</item>
+        <item>CTRL+DPAD_UP: 이전 요소로 이동</item>
+        <item>CTRL+DPAD_DOWN: 다음 요소로 이동</item>
         <item>CTRL+DPAD_LEFT: 왼쪽으로 이동</item>
         <item>CTRL+DPAD_RIGHT: 오른쪽으로 이동</item>
         <item>CTRL+PAGE_UP: 위로 스크롤</item>
@@ -960,10 +964,10 @@
         <item>CTRL+N: 알림 표시줄</item>
         <item>CTRL+P: 최근 앱</item>
         <item>CTRL+SPACE: 클릭</item>
-        <item>CTRL+L: 롱 클릭</item>
+        <item>CTRL+L: 길게 누르기</item>
         <item>CTRL+Q: 빠른 설정</item>
-        <item>ALT+M: 메인메뉴</item>
-        <item>ALT+A: 조작메뉴</item>
+        <item>ALT+M: 메인 메뉴</item>
+        <item>ALT+A: 동작 메뉴</item>
         <item>ALT+P: 확장 탭</item>
         <item>ALT+T: 확장도구</item>
         <item>ALT+V: 음성 비서</item>
@@ -980,20 +984,21 @@
         <item>진행율 표시줄</item>
         <item>목록</item>
         <item>목록 항목</item>
-        <item>집중 가능한 요소</item>
+        <item>초점</item>
         <item>클릭 가능한 요소</item>
-        <item>노드</item>
+        <item>객체</item>
         <item>슬라이더</item>
         <item>수직 이동</item>
         <item>글자</item>
         <item>단어</item>
         <item>줄</item>
-        <item>단락</item>
+        <item>문단</item>
         <item>페이지</item>
         <item>복사</item>
-        <item>볼륨</item>
+        <item>음량</item>
         <item>음성속도</item>
-        <item>번역</item>
-        <item>窗口</item>
+        <item>번역 및 OCR</item>
+        <item>창</item>
       </string-array>
+
 </resources>
