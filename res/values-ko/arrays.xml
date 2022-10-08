@@ -10,11 +10,12 @@
         <item>@string/to_previous_granularity</item>
         <item>@string/to_next_granularity</item>
         <item>@string/to_previous_granularity_item</item>
-       <item>@string/to_next_granularity_item</item>
+        <item>@string/to_next_granularity_item</item>
 
+        <item>@string/command_auto_trans</item>
+        <item>@string/command_recognition_caption</item>
         <item>@string/add_node_changed_list</item>
         <item>@string/node_changed_list_manager</item>
-
         <item>@string/command_raw_tap</item>
         <item>@string/command_to_previous_focus</item>
         <item>@string/command_to_next_focus</item>
@@ -131,9 +132,22 @@
         <item>@string/command_speak_time</item>
         <item>@string/command_speak_net</item>
         <item>@string/command_false_touch_prevention</item>
+        <item>@string/command_disable_main_tts</item>
+        <item>@string/command_disable_async_tts</item>
+        <item>@string/command_start_log</item>
+        <item>@string/command_virtual_table</item>
+        <item>@string/command_incall_mode</item>
+        <item>@string/command_edit_node_name</item>
+        <item>@string/command_pasue_timer</item>
+        <item>@string/command_show_input_method_picker</item>
+        <item>@string/command_raise_scr_volume</item>
+        <item>@string/command_lower_scr_volume</item>
+        <item>@string/command_speed_to_fast</item>
+        <item>@string/command_speed_to_slow</item>
+        <item>@string/command_speak_all_notification</item>
 
-
-        </string-array>
+        <!--item>Quick browsing mode</item-->
+    </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
         <item>@string/command_long_click</item>
@@ -227,7 +241,7 @@
         <item>전화 끊기</item>
         <item>qq통화 종료</item>
         <item>qq통화 종료</item>
-        <item>이전 요소로 전환</item>
+        <item>이전 읽기제어로 전환</item>
         <item>이전 트랙</item>
         <item>위로 이동</item>
     </string-array>
@@ -236,7 +250,7 @@
         <item>*오른쪽으로 쓸어 전화 받기*</item>
         <item>핸즈프리 모드</item>
         <item>스피커모드</item>
-        <item>다음 요소로 전환</item>
+        <item>다음 읽기제어로 전환</item>
         <item>다음 트랙</item>
         <item>아래로 이동</item>
     </string-array>
@@ -836,9 +850,9 @@
         <item>윤지성 TTS</item>
     </string-array>
     <string-array name="tts_engine_vip_values">
-        <item>system</item>
-        <item>iflytek</item>
-        <item>unisound</item>
+        <item>시스템</item>
+        <item>풀리탭</item>
+        <item>유니사운드</item>
     </string-array>
     <string-array name="tts_engine_vip_entries">
         <item>시스템 TTS</item>
@@ -954,8 +968,8 @@
         <item>창</item>
     </string-array>
     <string-array name="hot_key_help_items" >
-        <item>CTRL+DPAD_UP: 이전 요소로 이동</item>
-        <item>CTRL+DPAD_DOWN: 다음 요소로 이동</item>
+        <item>CTRL+DPAD_UP: 이전 읽기제어로 이동</item>
+        <item>CTRL+DPAD_DOWN: 다음 읽기제어로 이동</item>
         <item>CTRL+DPAD_LEFT: 왼쪽으로 이동</item>
         <item>CTRL+DPAD_RIGHT: 오른쪽으로 이동</item>
         <item>CTRL+PAGE_UP: 위로 스크롤</item>

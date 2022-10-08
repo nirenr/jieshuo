@@ -12,6 +12,8 @@
         <item>@string/to_previous_granularity_item</item>
        <item>@string/to_next_granularity_item</item>
 
+        <item>@string/command_auto_trans</item>
+        <item>@string/command_recognition_caption</item>
         <item>@string/add_node_changed_list</item>
         <item>@string/node_changed_list_manager</item>
 
@@ -131,7 +133,19 @@
         <item>@string/command_speak_time</item>
         <item>@string/command_speak_net</item>
         <item>@string/command_false_touch_prevention</item>
-
+        <item>@string/command_disable_main_tts</item>
+        <item>@string/command_disable_async_tts</item>
+        <item>@string/command_start_log</item>
+        <item>@string/command_virtual_table</item>
+        <item>@string/command_incall_mode</item>
+        <item>@string/command_edit_node_name</item>
+        <item>@string/command_pasue_timer</item>
+        <item>@string/command_show_input_method_picker</item>
+        <item>@string/command_raise_scr_volume</item>
+        <item>@string/command_lower_scr_volume</item>
+        <item>@string/command_speed_to_fast</item>
+        <item>@string/command_speed_to_slow</item>
+        <item>@string/command_speak_all_notification</item>
 
         </string-array>
     <string-array name="right_menu_items">
@@ -997,5 +1011,6 @@
         <item>窗口</item>
     </string-array>
     <string name="command_add_content_blacklist">添加内容黑名单</string>
+
 
 </resources>

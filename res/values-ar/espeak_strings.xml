@@ -2,7 +2,7 @@
 <resources>
   <!--Source: Activity title.
         Description: Title for the Settings activity.-->
-  <string name="tts_settings_label">إعدادات مُحَرِّك eSpeak TTS</string>
+  <string name="tts_settings_label">إعداداتُ مُحَرِّك eSpeak TTS</string>
   <!--Source: Preference title.
         Description: Title for the preference that controls default voice pitch.-->
   <string name="setting_default_pitch">معدل حدة الصوت </string>
@@ -29,7 +29,7 @@
   <string name="available_voices">الأصوات المُثَبَّتة</string>
   <!--Source: Button label.
         Description: Button for launching eSpeak-specific settings.-->
-  <string name="engine_settings">إعدادات eSpeak TTS</string>
+  <string name="engine_settings">إعداداتُ eSpeak TTS</string>
   <!--Source: Label text.
         Description: Label informing the user that eSpeak is loading resources.-->
   <string name="loading">جارٍ التحميل، يُرجى الانتظار...</string>
