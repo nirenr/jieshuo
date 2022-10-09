@@ -1444,4 +1444,25 @@
     <string name="create_profiles_from_this">从当前配置创建情景模式</string>
     <string name="all_notification_count">共%d条通知</string>
     <string name="command_speak_all_notification">朗读全部通知</string>
+    <string name="msg_start_log">点击确定将把使用时的日志记录到手机，在你使用出现问题后及时点击发送日志，将日志发送给开发人员或客服</string>
+    <string name="msg_loging">正在记录日志</string>
+    <string name="emoji_speak_mode0">由语音库处理</string>
+    <string name="emoji_speak_mode1">朗读Emoji表情</string>
+    <string name="emoji_speak_mode2">不朗读Emoji表情</string>
+    <string name="use_log_summary">需要反馈时可以开启，平时关闭以提高性能</string>
+    <string name="stat_info">性能统计</string>
+    <string name="event_stat_info">共响应事件%d次，平均耗时%d毫秒。</string>
+    <string name="touch_stat_info">共触摸浏览%d次，平均延时%d毫秒。</string>
+    <string name="hover_stat_info">共触摸焦点%d次，平均耗时%d毫秒。</string>
+    <string name="gesture_stat_info">共响应手势%d次，平均耗时%d毫秒。</string>
+    <string name="search_stat_info">共查找焦点%d次，平均耗时%d毫秒。</string>
+    <string name="zoom_in">放大</string>
+    <string name="zoom_out">缩小</string>
+    <string name="msg_timer_no_run">计时器未启动</string>
+    <string name="msg_start_auto_trans">开始自动翻译</string>
+    <string name="msg_stop_auto_trans">停止自动翻译</string>
+    <string name="msg_auto_trans_has_vip">仅会员支持自动翻译</string>
+    <string name="msg_start_auto_ocr">开始自动朗读字幕</string>
+    <string name="msg_stop_auto_ocr">停止朗读字幕</string>
+    <string name="start_auto_ocr_title">选择识别区域</string>
 </resources>
