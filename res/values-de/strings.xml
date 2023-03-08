@@ -10,8 +10,8 @@
         Erweiterungen: Installieren Sie Erweiterungen, um Ihre Benutzererfahrung zu verbessern. Hier gibt es z. B. Anpassungen für normalerweise nicht zugängliche Apps. Erfahrene Benutzer können auch selbst Erweiterungen erstellen.\n
         Navigieren Sie zeichenweise, wortweise oder absatzweise: Es gibt für jede Situation den richtigen Modus.\n
         Heben Sie einfach den Finger an, um das aktuelle Element zu aktivieren. Navigieren Sie blitzschnell durch Ihre Apps, ohne sich komplizierte Gesten merken zu müssen.\n
-        Markieren, Kopieren Ausschneiden und Einfügen: Bearbeiten Sie Ihre Texte einfach und Effizient.\n
-        Erweiterte benutzerdefinierte Gesten: Legen Sie jeden Befehl auf Ihre bevorzugte Geste. Erstellen Sie anwendungsbezogene Gestenchemata und teilen Sie diese mit Ihren Freunden. .\n
+Markieren, Kopieren Ausschneiden und Einfügen: Bearbeiten Sie Ihre Texte einfach und Effizient.\n
+Erweiterte benutzerdefinierte Gesten: Legen Sie jeden Befehl auf Ihre bevorzugte Geste. Erstellen Sie anwendungsbezogene Gestenchemata und teilen Sie diese mit Ihren Freunden. .\n
                         
         Installieren Sie Soundschemas, die jederzeit Ihre Ohren erfreuen werden.\n
         Flexibel konfigurierbare Benachrichtigungen: Sie werden nie wieder von Meldungen gestöhrt, die sie nicht benötigen.\n
@@ -38,7 +38,7 @@
     <string name="menu_title">Hauptmenü</string>
 
     <string name="tts_speed_title">Sprechgeschwindigkeit: </string>
-    <string name="tts_speed_summary">Ermöglicht die Anpassung der Sprechgeschwindigkeit Ihrer verwendeten Sprausgabe.</string>
+    <string name="tts_speed_summary">Ermöglicht die Anpassung der Sprechgeschwindigkeit Ihrer verwendeten Sprachausgabe.</string>
 
     <string name="usage_hints_title">Nutzungshinweise sprechen: </string>
     <string name="usage_hints_summary">Legt fest, ob für das aktuell fokussierte Element zusätzlich hilfreiche Hinweise gesprochen werden sollen. Empfohlen für Anfänger.</string>
@@ -808,7 +808,13 @@
     <string name="saved">Gespeichert</string>
     <string name="edit_name">Namen eingeben</string>
     <string name="actions">Aktionen</string>
-    <string name="share">Teilen</string>
+    Sehr geehrte Damen und Herren, wir sind ein gemeinnütziger Verein, der an der Adresse Rosenhof
+    4, 09111 Chemnitz eine Beratungsstelle für blinde und sehbehinderte Menschen betreibt. Wir haben
+    nun in einem Nachbargebäude weitere Räume für ein Projekt angemietet, das von der Aktion Mensch
+    gefördert wird. Hier sind in der Förderung leider keine Kosten für Telefonie und Internet
+    enthalten. Wir möchten Sie deshalb auf diesem Weg bitten, uns ein günstiges Angebot über einen
+    Zweitanschluss, nur Internet zu unterbreiten. Über eine Kontaktaufnahme würde ich mich sehr
+    freuen. Rene Ludwig
     <string name="move_to_up">Nach oben</string>
     <string name="move_to_down">Nach unten</string>
     <string name="delete">Löschen</string>
@@ -1157,8 +1163,8 @@
     <string name="gesture_2_swipe_left">Mit 2 Fingern nach links wischen</string>
     <string name="gesture_3_swipe_left">Mit 3 Fingern nach links wischen.</string>
     <string name="gesture_4_swipe_left">Mit 4 Fingern nach links wischen.</string>
-	<string name="gesture_2_swipe_right">Mit 2 Fingern nach rechts wischen</string>
-	<string name="gesture_3_swipe_right">Mit 3 Fingern nach rechts wischen</string>
+    <string name="gesture_2_swipe_right">Mit 2 Fingern nach rechts wischen</string>
+    <string name="gesture_3_swipe_right">Mit 3 Fingern nach rechts wischen</string>
     <string name="gesture_4_swipe_right">Mit 4 Fingern nach rechts wischen</string>
     <string name="msg_gesture_updated">Das Gestenschema wurde erfolgreich aktualisiert.</string>
     <string name="msg_favorite_added">Zu Lesezeichen hinzugefügt.</string>
@@ -1361,8 +1367,8 @@
     <string name="nodeinfo_indoex">Index:</string>
     <string name="nodeinfo_bounds_in_screen">Bildschirmposition: </string>
     <string name="nodeinfo_parent">Übergeordnet</string>
-    <string name="nodeinfo_childs" >Untergeordnet</string>
-    <string name="nodeinfo_actions" >Aktionen:</string>
+    <string name="nodeinfo_childs">Untergeordnet </string>
+    <string name="nodeinfo_actions">Aktionen verfügbar: </string>
     <string name="nodeinfo_clickable">Anklickbar</string>
     <string name="nodeinfo_not_click">Nicht anklickbar</string>
     <string name="nodeinfo_checkable">Aktivierbar</string>
@@ -1375,7 +1381,7 @@
     <string name="nodeinfo_invisible">Nicht sichtbar</string>
     <string name="notification_listener_title">Berechtigung für erweiterten Zugriff auf Benachrichtigungen</string>
     <string name="notification_listener_summary">Gewähren Sie dem Screenreader Zugriff auf Benachrichtigungen, um diese zuverlässiger vorzulesen.</string>
-     <string name="use_scroll_list_keep_position_title">Beim Scrollen aktuelle Position in Listen beibehalten</string>
+    <string name="use_scroll_list_keep_position_title">Beim Scrollen aktuelle Position in Listen beibehalten</string>
     <string name="use_scroll_list_keep_position_summary">Beim Scrollen bleibt der Fokus auf dem aktuell gewählten Listenelement.</string>
     <string name="use_dim_screen_title">Bildschirmvorhang beim Starten automatisch aktivieren. </string>
     <string name="use_new_web_type_title">Neue Verarbeitung von Webseiten verwenden.</string>
@@ -1383,7 +1389,7 @@
     <string name="split_row_keyword_title">Anpassung der Interpretierung von Sätzen für Textbearbeitung.</string>
     <string name="split_row_keyword_summary">Reguläre Ausdrücke werden unterstützt. Lassen Sie die Option deaktiviert, wenn Sie keine Schlüsselwörter verwenden möchten</string>
     <string name="command_false_touch_prevention">Schutz für versehentlicher Berührung</string>
-	<string name="my">Mine</string>
+    <string name="my">Mine</string>
     <string name="backgroud_download">Im Hintergrund herunterladen</string>
     <string name="cancel_download">Download Abbrechen</string>
     <string name="comment">Kommentar</string>
@@ -1391,7 +1397,7 @@
     <string name="use_proximity_false_touch_prevention_title">Taschenmodus</string>
     <string name="use_proximity_false_touch_prevention_only_lock_title">Taschenmodus nur im Sperrbildschirm aktivieren.</string>
     <string name="enbled_gesture_title">Gestenschema ist nicht aktiviert.</string>
-    <string name="enabled_app_gesture">App Gestenschema ist nicht aktiviert.</string>
+    <string name="enabled_app_gesture">Als App-basiertes Gestenschema festlegen</string>
     <string name="enabled_gesture">Als globales Gestenschema festlegen.</string>
     <string name="expand">Erweitern</string>
     <string name="fold">Reduzieren</string>
@@ -1401,7 +1407,7 @@
     <string name="back_up">Vorheriger Ordner</string>
     <string name="make_dir">Neuer Ordner</string>
     <string name="input_dir_name">Ordnernamen eingeben</string>
-    <string name="windows_notification">Fensterbenachrichtigung</string>
+    <string name="windows_notification">Liste zuletzt geöffneter Fenster</string>
     <string name="add_to_backlist">Zur liste der blockierten Hinzufügen</string>
     <string name="add_to_whitelist">Zu erlaubten hinzufügen</string>
     <string name="edit_keyword">Geben Sie ein Schlüsselwort ein, Reguläre Ausdrücke werden unterstützt.</string>
@@ -1443,91 +1449,127 @@
     <string name="ringer_mode_vibate">Vibrationsmodus</string>
     <string name="ringer_mode_silent">Stumm</string>
     <string name="msg_gesture_has_vip">Die Gesten für Nach oben, Nach unten, Nach links und Nach Rechts können in der kostenlosen Version nicht geändert werden.</string>
-    <string name="announcement">程序通知</string>
-    <string name="command_disable_main_tts">暂停主语音合成</string>
-    <string name="command_disable_async_tts">暂停副语音合成</string>
-    <string name="command_start_log">开始记录日志</string>
-    <string name="delete_log_title">删除全部日志</string>
-    <string name="use_custom_speak_clear_title">使用朗读净化</string>
-    <string name="custom_speak_clear_title">自定义净化关键字</string>
-    <string name="speak_clear_setting">朗读净化设置</string>
-    <string name="use_custom_speak_symbol_number_title">优化朗读重复的符号</string>
-    <string name="custom_speak_symbol_number_title">自定义重复的符号</string>
-    <string name="use_emoji_speak_clear_title">清除emoji表情</string>
-    <string name="content_label_title">焦点标签管理</string>
-    <string name="custom_node_name_title">焦点别名管理</string>
-    <string name="use_custom_node_name_title">使用焦点别名</string>
-    <string name="custom_content_title">焦点自定义内容设置</string>
-    <string name="directory_name">别名</string>
-    <string name="use_emoji_speak_mode_title">Emoji朗读模式</string>
-    <string name="use_no_bluetooth_title">连接蓝牙耳机或音箱时读屏从手机朗读</string>
-    <string name="custom_speak_clear_summary">添加列表中的字符将不会朗读，支持正则表达式</string>
-    <string name="input_setting_title">输入法设置</string>
-    <string name="use_input_method_speak_key_title">朗读输入法按键</string>
-    <string name="use_input_method_speak_candidate_title">朗读候选</string>
-    <string name="use_input_method_speak_commit_title">朗读上屏的内容</string>
-    <string name="use_input_method_speak_password_title">朗读密码</string>
-    <string name="use_input_method_double_tap_title">输入法双击激活</string>
-    <string name="split_word">按词</string>
-    <string name="incall_setting_title">来电播报设置</string>
-    <string name="speak_call_phone_index_title">来电报号次数</string>
-    <string name="edit_node_name">编辑别名</string>
-    <string name="edit_node">编辑焦点内容</string>
-    <string name="use_input_method_no_touch_title">弹出输入法时暂停触摸浏览</string>
-    <string name="use_input_method_speak_commit_space_title">按空格键朗读最近输入的内容</string>
-    <string name="use_screen_on_speak_battery_title">朗读电量</string>
-    <string name="use_screen_on_speak_notification_title">朗读未读通知数量</string>
-    <string name="command_virtual_table">表格识别</string>
-    <string name="command_incall_mode">听筒模式</string>
-    <string name="command_edit_node_name">编辑焦点别名</string>
-    <string name="command_pasue_timer">暂停计时</string>
-    <string name="command_show_input_method_picker">选择输入法</string>
-    <string name="command_raise_scr_volume">增大读屏音量</string>
-    <string name="command_lower_scr_volume">减小读屏音量</string>
-    <string name="command_speed_to_fast">加快语速</string>
-    <string name="command_speed_to_slow">减慢语速</string>
-    <string name="use_fast_node_title">极速模式</string>
-    <string name="use_fast_node_summary">开启后在支持的软件响应更快，如果遇到不兼容，可以关闭此选项</string>
-    <string name="use_input_method_double_tap_summary">仅支持三星键盘</string>
-    <string name="ocr_portrait_mode_title">字幕识别竖屏默认模式</string>
-    <string name="ocr_landscape_mode_title">字幕识别横屏默认模式</string>
-    <string name="command_recognition_caption">朗读字幕</string>
-    <string name="command_auto_trans">自动翻译</string>
-    <string name="has_notification_listener">需开启通知使用权</string>
-    <string name="ocr_mode_def">每次询问</string>
-    <string name="ocr_mode0">屏幕上四分之一(竖屏首选)</string>
-    <string name="ocr_mode1">屏幕下四分之一(横屏首选)</string>
-    <string name="ocr_mode2">屏幕上三分之一</string>
-    <string name="ocr_mode3">屏幕中三分之一</string>
-    <string name="ocr_mode4">屏幕下三分之一</string>
-    <string name="ocr_mode5">当前焦点上三分之一</string>
-    <string name="ocr_mode6">当前焦点中三分之一</string>
-    <string name="ocr_mode7">当前焦点下三分之一</string>
-    <string name="ocr_mode8">当前焦点上二分之一</string>
-    <string name="ocr_mode9">当前焦点下二分之一</string>
-    <string name="ocr_mode10">当前焦点</string>
-    <string name="create_profiles_from_this">从当前配置创建情景模式</string>
-    <string name="all_notification_count">共%d条通知</string>
-    <string name="command_speak_all_notification">朗读全部通知</string>
-    <string name="msg_start_log">点击确定将把使用时的日志记录到手机，在你使用出现问题后及时点击发送日志，将日志发送给开发人员或客服</string>
-    <string name="msg_loging">正在记录日志</string>
-    <string name="emoji_speak_mode0">由语音库处理</string>
-    <string name="emoji_speak_mode1">朗读Emoji表情</string>
-    <string name="emoji_speak_mode2">不朗读Emoji表情</string>
-    <string name="use_log_summary">需要反馈时可以开启，平时关闭以提高性能</string>
+    <string name="announcement">App Benachrichtigungen</string>
+    <string name="command_disable_main_tts">Erste Sprachausgabe ausschalten</string>
+    <string name="command_disable_async_tts">Zweite Sprachausgabe ausschalten</string>
+    <string name="command_start_log">Ereignisprotokoll aktivieren</string>
+    <string name="delete_log_title">Alle Protokoll-Dateien löschen</string>
+    <string name="use_custom_speak_clear_title">Benutzerdefinierte Anpassungen für Sprachausgabe verwenden</string>
+    <string name="custom_speak_clear_title">Schlüsselwörter für benutzerdefinierte Anpassung der Sprachausgabe</string>
+    <string name="speak_clear_setting">Einstellungen für Sprachausgaben Anpassung</string>
+    <string name="use_custom_speak_symbol_number_title">Verbessertes Sprechen sich wiederholender Zeichen</string>
+    <string name="custom_speak_symbol_number_title">Methode für das Sprechen sich wiederholender Zeichen</string>
+    <string name="use_emoji_speak_clear_title">Emojis beim Sprechen unterdrücken</string>
+    <string name="content_label_title">Benutzerdefinierte Symbolbeschriftungen verwalten</string>
+    <string name="custom_node_name_title">Benutzerdefinierte Objektbeschriftungen verwalten</string>
+    <string name="use_custom_node_name_title">Benutzerdefinierte Objektbeschriftungen verwendem</string>
+    <string name="custom_content_title">Einstellungen für benutzerdefinierte Beschriftungen</string>
+    <string name="directory_name">Aliases</string>
+    <string name="use_emoji_speak_mode_title">Emoji Lesemodus</string>
+    <string name="use_no_bluetooth_title">Nicht über verbundene Bluetooth Headsets/Lautsprecher Sprechen</string>
+    <string name="custom_speak_clear_summary">Die hier angegebenen Zeichen werden beim Sprechen ignoriert. Reguläre Ausdrücke werden unterstützt.</string>
+    <string name="input_setting_title">Tastenecho Einstellungen</string>
+    <string name="use_input_method_speak_key_title">Beim Schreiben jede Taste ansagen</string>
+    <string name="use_input_method_speak_candidate_title">Wortvorschläge ansagen</string>
+    <string name="use_input_method_speak_commit_title">Bei jeder Änderung kompletten Inhalt des Eingabefeldes ansagen</string>
+    <string name="use_input_method_speak_password_title">Passwörter als Text sprechen</string>
+    <string name="use_input_method_double_tap_title">Zur Eingabe von Zeichen Doppelt tippen</string>
+    <string name="split_word">Wortweise lesen</string>
+    <string name="incall_setting_title">Ankündigung von Anrufen</string>
+    <string name="speak_call_phone_index_title">Anzahl der Anrufe ansagen</string>
+    <string name="edit_node_name">Objektbeschriftung bearbeiten</string>
+    <string name="edit_node">Objekt Inhalt bearbeiten</string>
+    <string name="use_input_method_no_touch_title">Tippen und Entdecken bei Eingabe deaktivieren</string>
+    <string name="use_input_method_speak_commit_space_title">Beim Drücken der Leertaste zuletzt eingegebene Zeichen ansagen</string>
+    <string name="use_screen_on_speak_battery_title">Beim Einschalten des Bildschirms Akkustand ansagen</string>
+    <string name="use_screen_on_speak_notification_title">Beim Einschalten des Bildschirms anzahl ungelesener Benachrichtungen ansagen</string>
+    <string name="command_virtual_table">Formular erkennen</string>
+    <string name="command_incall_mode">Kopfhörermodus</string>
+    <string name="command_edit_node_name">Objektbeschriftung bearbeiten</string>
+    <string name="command_pasue_timer">Timer pausieren</string>
+    <string name="command_show_input_method_picker">Eingabemethode ändern</string>
+    <string name="command_raise_scr_volume">Screenreader Lautstärke erhöhen</string>
+    <string name="command_lower_scr_volume">Screenreader Lautstärke verringern</string>
+    <string name="command_speed_to_fast">Sprechgeschwindigkeit erhöhen</string>
+    <string name="command_speed_to_slow">Sprechgeschwindigkeit verringern</string>
+    <string name="use_fast_node_title">Reaktionsgeschwindigkeit optimieren</string>
+    <string name="use_fast_node_summary">Aktivieren dieser Einstellung kann zu einer höheren Reaktionsgeschwindigkeit führen. Es vermindert eventuell aber die Kompatibilität zu bestimmten Apps.</string>
+    <string name="use_input_method_double_tap_summary">Nur für Samsung Tastatur verfügbar</string>
+    <string name="ocr_portrait_mode_title">Untertitelerkennung (Standard Hochformat)</string>
+    <string name="ocr_landscape_mode_title">Untertitelerkennung (Standard Querformat)</string>
+    <string name="command_recognition_caption">Untertitel erkennen</string>
+    <string name="command_auto_trans">Automatisch übersetzen</string>
+    <string name="has_notification_listener">Berechtigung für Zugriff auf Benachrichtigungen wird benötigt</string>
+    <string name="ocr_mode_def">Jedes Mal fragen</string>
+    <string name="ocr_mode0">Oberes Viertel des Bildschirms (bevorzugt für Hochformat)</string>
+    <string name="ocr_mode1">Unteres Viertel des Bildschirms (Bevorzugt für Querformat)</string>
+    <string name="ocr_mode2">Oberes Drittel des Bildschirms</string>
+    <string name="ocr_mode3">Mittlerer Bereich des Bildschirms</string>
+    <string name="ocr_mode4">Unteres Drittel des Bildschirms</string>
+    <string name="ocr_mode5">Oberes Drittel des aktuellen Elements</string>
+    <string name="ocr_mode6">Mittlerer Bereich des aktuellen Elements</string>
+    <string name="ocr_mode7">Unterer Teil des aktuellen Elements</string>
+    <string name="ocr_mode8">Obere Hälfte des aktuellen Elements</string>
+    <string name="ocr_mode9">Untere Hälfte des aktuellen Elements</string>
+    <string name="ocr_mode10">Aktuelles Element</string>
+    <string name="create_profiles_from_this">Neues Einstellungsprofil auf Basis des aktuellen Profils erstellen</string>
+    <string name="all_notification_count">%d Benachrichtigungen</string>
+    <string name="command_speak_all_notification">Alle Benachrichtigungen lesen</string>
+    <string name="msg_start_log">Drücken Sie \"OK\" zum Aufzeichnen des Ereignisprotokolls. Falls Sie Probleme bei der Nutzung der Software haben, senden Sie das Protokoll an den Entwickler.</string>
+    <string name="msg_loging">Ereignisprotokoll</string>
+    <string name="emoji_speak_mode0">Verarbeitung von Emojis durch die verwendete Sprachausgabe</string>
+    <string name="emoji_speak_mode1">Verarbeitung von Emojis durch den Screenreader</string>
+    <string name="emoji_speak_mode2">Emojis ignorieren</string>
+    <string name="use_log_summary">Aktivieren dieser Funktion kann nützliche Daten zur Fehlerbehebung für den Entwickler sammeln. Die Reaktionsgeschwindigkeit des Screenreaders wird aber etwas verringert.</string>
     <string name="stat_info">性能统计</string>
     <string name="event_stat_info">共响应事件%d次，平均耗时%d毫秒。</string>
-    <string name="touch_stat_info">共触摸浏览%d次，平均延时%d毫秒。</string>
-    <string name="hover_stat_info">共触摸焦点%d次，平均耗时%d毫秒。</string>
-    <string name="gesture_stat_info">共响应手势%d次，平均耗时%d毫秒。</string>
-    <string name="search_stat_info">共查找焦点%d次，平均耗时%d毫秒。</string>
-    <string name="zoom_in">放大</string>
-    <string name="zoom_out">缩小</string>
-    <string name="msg_timer_no_run">计时器未启动</string>
-    <string name="msg_start_auto_trans">开始自动翻译</string>
-    <string name="msg_stop_auto_trans">停止自动翻译</string>
-    <string name="msg_auto_trans_has_vip">仅会员支持自动翻译</string>
-    <string name="msg_start_auto_ocr">开始自动朗读字幕</string>
-    <string name="msg_stop_auto_ocr">停止朗读字幕</string>
-    <string name="start_auto_ocr_title">选择识别区域</string>
+    <string name="touch_stat_info">Insgesamt %d Elemente in durchschnittlich %d MS verarbeitet.</string>
+    <string name="hover_stat_info">Der Bildschirm wurde %d mal berührt, mit einer durchschnittlichen Zeit von %d MS.</string>
+    <string name="gesture_stat_info">Reagiert auf insgesamt %d Gesten, in durchschnittlich %d MS.</string>
+    <string name="search_stat_info">Found %d Elemente insgesamt,  Dauer %d MS.</string>
+    <string name="zoom_in">Vergrößern</string>
+    <string name="zoom_out">Verkleinern</string>
+    <string name="msg_timer_no_run">Kein Timer aktiv</string>
+    <string name="msg_start_auto_trans">Automatisch übersetzen eingeschaltet</string>
+    <string name="msg_stop_auto_trans">Automatisch übersetzen ausgeschaltet</string>
+    <string name="msg_auto_trans_has_vip">Für das automatische übersetzen wird eine Lizenz benötigt.</string>
+    <string name="msg_start_auto_ocr">Automatische Texterkennung eingeschaltet.</string>
+    <string name="msg_stop_auto_ocr">Automatische Texterkennung ausgeschaltet.</string>
+    <string name="start_auto_ocr_title">Wählen Sie den Bereich für die Texterkennung</string>
+    <string name="command_disable_edge_gesture_title">Randgesten deaktivieren</string>
+    <string name="use_game_mode_no_speak_title">Sprachausgabe im Spielemodus ausschalten</string>
+    <string name="use_game_mode_no_edge_title">Randgesten im Spielemodus deaktivieren</string>
+    <string name="game_mode_setting">Spielemodus Einstellungen</string>
+    <string name="timer_items_title">Vorhandene Timer</string>
+    <string name="timer_tags">Tags</string>
+    <string name="command_paste_from_cloud">Aus Cloud Zwischenablage einfügen</string>
+    <string name="command_copy_to_cloud">In Cloud Zwischenablage kopieren</string>
+    <string name="use_timer_stream_type_title">Verwendete Audiokanäle</string>
+    <string name="timer_tts_engine_title">Sprachausgabe für Timer</string>
+    <string name="command_up_page">Vorherige Seite</string>
+    <string name="command_down_page">Nächste Seite</string>
+    <string name="command_left_page">Seite nach links</string>
+    <string name="command_right_page">Seite nach rechts</string>
+    <string name="vr_camera">VR unterstütztes Sehen</string>
+    <string name="language_setting_title">Sprachen Konfigurieren</string>
+    <string name="vr_dialog_title">Wichtige Hinweise</string>
+    <string name="vr_dialog_message">Für das VR gestützte Sehen ist eine VR Brille und eine Bluetooth Fernbedienung nötig.Diese Funktion hilft vor allem sehbehinderten Menschen, ihre Umgebung, Bücher, Computer, Fernseher usw. zu sehen. \n
+    Aufgrund des vergrößerten Betrachtungswinkels und der Bildwiederholfrequenz ist diese Funktion nicht für die Verwendung in Situationen wie Gehen und Reisen geeignet. \n
+    Wenn Sie unterwegs sind und Ihre Umgebung betrachten müssen, z. B. an Bushaltestellen, U-Bahn-Stationen, bei der Suche nach Ladenschildern usw., verwenden Sie die Funktion erst, wenn Sie stehen und sich vergewissert haben, dass die Umgebung sicher ist. \n
+    Verwendungshinweis: \n
+    Legen Sie die linke Seite des Telefons nach unten in das VR-Brillengestell, nachdem Sie sehen, dass der Bildschirm in zwei Teile geteilt ist. Die Richtungstaste der Fernbedienung wird zum Umschalten der eingestellten Elemente und Werte verwendet, und die OK-Taste kann für die OCR-Erkennung verwendet werden,\n
+    Wenn keine Fernbedienung vorhanden ist, können Sie die Lautstärketaste des Telefons verwenden, um die Vergrößerung einzustellen. \n
+    (Achtung), Die am Markt befindlichen VR Brillengestelle unterscheiden sich, einige können die Kamera blockieren, was diese Funktion unbrauchbar macht, Erkundigen Sie sich bitte im Voraus beim Hersteller, ob das Gerät kompatibel ist. \n
+    Hinweis: Sie sind für alle Schäden verantwortlich, falls Sie die Anweisungen nicht befolgen, . </string>
+    <string name="vr_camera_ae">Exposition</string>
+    <string name="vr_camera_flash_on">Blitz eingeschaltet</string>
+    <string name="vr_camera_flash_off">Blitz ausgeschaltet</string>
+    <string name="vr_camera_distance">Entfernung</string>
+    <string name="vr_camera_light">Helligkeit</string>
+    <string name="vr_camera_zoom">Vergrößerung</string>
+    <string name="use_show_text_title">Text vorlesen</string>
+    <string name="use_window_title_changed_title">Fenstertitel in neuem Fenster sprechen</string>
+    <string name="do_not_prompt_again">Tipps nicht mehr anzeigen</string>
+    <string name="use_custom_language_title">Benutzerdefinierte Übersetzung verwenden</string>
+
 </resources>

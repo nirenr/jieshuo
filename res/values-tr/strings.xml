@@ -2,7 +2,7 @@
 <resources>
     <string name="about_title">Hebei Biyou Technology Co., Ltd.</string>
     <string name="acc_settings_title">Erişilebilirlik</string>
-    <string name="accessibility_service_description">Jieshuo Ekran Okuyucu, görme engelli kişilerin Android  sistemli cep telefonlarını daha etkin kullanmalarını kolaylaştırmayı amaçlayan bir yazılımdır. İnsan-makine etkileşimi alanında bazı yenilikler yaptık. Yazılımımızı tam olarak anlamanın zaman alabileceğini biliyoruz, bu nedenle yardım almak veya bizimle iletişime geçmek için ayarları keşfetmenizi içtenlikle öneririz.\n
+    <string name="accessibility_service_description">Jieshuo Ekran Okuyucu, görme engelli kişilerin Android  sistemli akıllı telefonlarını daha etkin kullanmalarını kolaylaştırmayı amaçlayan bir yazılımdır. Jieshuo, insan-makine etkileşimi alanında birçok yenilik sunmaktadır. Uygulamayı tam anlamıyla keşfederek kullanabilmenin zaman alabileceğini biliyoruz, bu nedenle yardım almak veya bizimle iletişime geçmek için ayarları keşfetmenizi içtenlikle öneririz.\n
  Tam sürümü satın alıncaya kadar bazı işlevler kısıtlıdır. Ayrıntılar için lütfen Resmi Telegram grubunu ziyaret edin.\n
      \n
   Programın en önemli özellikleri:\n
@@ -21,14 +21,14 @@ Dinamik hareketler: Program, içinde bulunduğunuz duruma göre en uygun hareket
         Otomatik Metin tanıma: Dokunduğunuz her yerde, OCR motoru, erişilemeyen verileri bile okuyabilmeniz için size eşlik eder.\n
         Otomatik mesaj okuma: QQ, YY, Tiktok ve çok daha fazlasından gelen mesajları otomatik olarak okuyun.\n
         Otomatik altyazı okuma: yabancı film izlemek hiç bu kadar kolay olmamıştı! Video altyazılarını otomatik olarak okuyun ve hayatınızı kolaylaştırın.\n
-Güvenlik Resmi tanıma: Güvenlik resmi görüntülerini yıldırım hızıyla tanımak için gelişmiş AI özelliklerini kullanın.\n
+Güvenlik Resmi tanıma: Güvenlik resmi görüntülerini yıldırım hızıyla tanımak için gelişmiş yapay zeka özelliklerini kullanın.\n
         Jieshuo Kamera: Çevrenizdeki sahneler, resimler, insanlar ve metinler hakkında bilgi edinin.\n
         Web içeriği filtreleme: Önemsiz içeriğin okumanızı zorlaştırmasına asla izin vermeyin. Resimleri, reklam metinlerini ve diğer istenmeyen öğeleri filtreleyin.\n
         Liste ve tüm metin kopyalama: Uzun listeleri kopyalamak için kullanılan sıkıcı yöntemlere veda edin. En uzun listeyi bile kopyalamak için tek tıklama yeterlidir.\n
         Makale okuma modu: otomatik sayfa çevirme, içerik filtreleme veya arka plan okuma modu. Jieshuo Ekran Okuyucu\'nun aynı zamanda  E-Kitap okuyucunuz olmasına izin verin.\n
 Uygulamaya özgü hareket paketleri: Yalnızca bir uygulama için hareket paketleri oluşturun. Bu özellik sonsuz olanaklar sunar.\n
         Sık kullanılanlar: Sık kullanılan içeriği istediğiniz zaman, istediğiniz yerde toplayın ve bunlara kolayca erişin.\n
-        Ayrıntılı düzenleme modu: Metni karaktere, kelimeye, cümleye veya paragrafa göre daha hızlı düzenleyin ve istenen tüm değişiklikleri doğru bir şekilde yapın.\n
+        Ayrıntılı düzenleme modu: Metni karakterlere, kelimelere, cümlelere veya paragraflara göre daha hızlı düzenleyin ve istenen tüm değişiklikleri doğru bir şekilde yapın.\n
         Tam metin seçimi: Metni tam istediğiniz yere kopyalamak için karakterlere, kelimelere, cümlelere veya paragraflara göre seçin.\n
         Özel sesli komutlar: Eklenti sistemini çalıştıran aynı motor tarafından çalıştırılan sesli yardımcıyı güncellemek ve ayarlamak için sonsuz olanaklar sizi beklemektedir.\n
 Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman aralıklarında otomatik olarak başlatın.\n
@@ -38,10 +38,10 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="action_settings_title">Hareket ayarları</string>
     <string name="add">Ekle</string>
     <string name="advanced_menu_title">Gelişmiş menü</string>
-    <string name="advanced_setting_title">Gelişmiş</string>
+    <string name="advanced_setting_title">Gelişmiş ayarlar</string>
     <string name="alarm_end_hour_title">Alarm bitiş zamanı</string>
     <string name="alarm_interval_title">Alarm aralığı</string>
-    <string name="alarm_settings_title">Zamanlayıcı</string>
+    <string name="alarm_settings_title">Zamanlayıcı ayarları</string>
     <string name="alarm_start_hour_title">Alarm başlama zamanı</string>
     <string name="all_text_title">Tam-metin görünümü</string>
     <string name="app">Uygulama</string>
@@ -73,7 +73,7 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="check_update_title">Güncellemeleri denetle</string>
     <string name="checked">Seçili</string>
     <string name="clear">Temizle</string>
-    <string name="click_settings_title">Tıklama</string>
+    <string name="click_settings_title">Dokunma ve menü tıklama ayarları</string>
     <string name="click_to_enabled">Dokunarak keşfetme etkin</string>
     <string name="clipboard">Pano</string>
     <string name="clipboard_manager_title">Panodaki metinleri yönet</string>
@@ -175,8 +175,8 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="command_where_i">Neredeyim?</string>
     <string name="content_blacklist_summary">Bu seçeneğin etkinleştirilmesi, özel etiket eklemeye ilişkin sorunları çözebilir.</string>
     <string name="content_blacklist_title">Içerik karalistesi</string>
-    <string name="content_filter_settings_title">Içerik filtreleme</string>
-    <string name="content_setting_title">İçerik seslendirme</string>
+    <string name="content_filter_settings_title">Içerik filtreleme ayarları</string>
+    <string name="content_setting_title">İçerik okuma ayarları</string>
     <string name="current_text">%d karakterden %d  karakter girildi</string>
     <string name="custom_gesture_settings_title">Özel hareketleri düzenle</string>
     <string name="description">Açıklama</string>
@@ -237,7 +237,7 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="fingerprint_up_gesture_value_default">Önceki öğe</string>
     <string name="float_menu_items_title">Üst ekran sabit kısayolları</string>
     <string name="focus_mode">Odak tarama</string>
-    <string name="general_settings_title">Genel</string>
+    <string name="general_settings_title">Genel ayarlar</string>
     <string name="general_speak_list_title">Liste öğelerini numaralandırarak oku</string>
     <string name="general_usage_hints_title">Kullanım ipuçlarını oku</string>
     <string name="gesture_description_title">Hareket tanımları</string>
@@ -254,7 +254,7 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="help_feed_title">Yardım ve geri bildirim</string>
     <string name="help_title">Yardım ekranı</string>
     <string name="helper_manager_title">Sesli Yardımcı ek ayarları</string>
-    <string name="hints_list_settings_title">Ipuçları</string>
+    <string name="hints_list_settings_title">Kullanım ipucu ayarları</string>
     <string name="ignore_battery"> uygulamaya pil optimizasyonu ayarlarını yoksayma izni ver.</string>
     <string name="input_method">Klavyeyi aç</string>
     <string name="item_current_count">%d - %d</string>
@@ -277,7 +277,7 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="left_long_edge_gesture_title">Ekranın sol kenarından sağa kaydır ve basılı tut</string>
     <string name="left_long_edge_gesture_value_default">Ana ekran</string>
     <string name="left_right_double_fling_setting">Sola sonra sağa kaydırma ayarları</string>
-    <string name="left_right_gesture_title">Kısayol hareket ayarları</string>
+    <string name="left_right_gesture_title">Sağ ve sol kısayol ayarları</string>
     <string name="left_up_double_fling_setting">Sola sonra yukarı kaydırma ayarları</string>
     <string name="list_mode_title">Liste tarama</string>
     <string name="list_view_settings_title">Liste seslendirme ayarları</string>
@@ -345,7 +345,7 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="notification_box">Jieshuo bildirim kutusu</string>
     <string name="notification_from">Yeni %s bildirimi</string>
     <string name="notification_select_title">Bildirim türleri</string>
-    <string name="notification_settings_title">Bildirim seslendirme</string>
+    <string name="notification_settings_title">Bildirim seslendirme ayarları</string>
     <string name="notification_speak_title">Bildirimleri oku:</string>
     <string name="notification_summary_title">Yalnızca bildirim özetlerini oku</string>
     <string name="notification_toast_speak_title">Açılır pencere bildirimlerini oku:</string>
@@ -403,7 +403,7 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="screen_off_speak_summary">Kilitli ekranda bildirimlerin otomatik olarak okunup okunmayacağını belirler.</string>
     <string name="screen_off_speak_title">Kilitli ekranda bildirimleri oku</string>
     <string name="screen_on_off_settings_title">Ekran durum bildirimi</string>
-    <string name="scroll_gesture_settings_title">Dolaşım</string>
+    <string name="scroll_gesture_settings_title">Ekran ve öğe dolaşım ayarları</string>
     <string name="select_menu_title">Seçim modu</string>
     <string name="selected">Seçildi</string>
     <string name="send_log_title">Logları gönder</string>
@@ -433,7 +433,7 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="timer_date_format">yyyy.M.d. HH:mm.</string>
     <string name="timer_interval_title">Hatırlatıcı aralığı</string>
     <string name="timer_manager_title">Zamanlayıcıyı yönet</string>
-    <string name="timer_setting_title">Zamanlayıcı</string>
+    <string name="timer_setting_title">Zamanlayıcı ayarları</string>
     <string name="to_all">%s - %s, toplam %s.</string>
     <string name="tool_manager_title">Araçları yönet</string>
     <string name="tool_title">Pluginler ve araçlar</string>
@@ -443,7 +443,7 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="try_again">Lütfen tekrar deneyin</string>
     <string name="tts_engine_summary">Içeriklerin okunması için kullanılan sentezleyici motorudur. Seçilen ses motoru çalışmazsa, uygun olan ilk ses motoru kullanılacaktır.</string>
     <string name="tts_engine_title">Birincil Sentezleyici</string>
-    <string name="tts_iflytek_settings_title">Iflytek TTS</string>
+    <string name="tts_iflytek_settings_title">Iflytek TTS ayarları</string>
     <string name="tts_pitch_title">Ses kalınlığı</string>
     <string name="tts_scale_title">Konuşma hızını artır</string>
     <string name="tts_settings_title">Sentezleyici ayarları</string>
@@ -638,8 +638,8 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="vibrate_intensity_title">Titreşim yoğunluğu</string>
     <string name="vibrate_summary">Ekran Okuyucu\'nun bilgileri titreşim ile bildirip bildirmeyeceğini belirler.</string>
     <string name="vibrate_title">Titreşimli geri bildirim:</string>
-    <string name="view_changed_settings_title">Dinamik içerikler</string>
-    <string name="view_label_settings_title">Etiketler</string>
+    <string name="view_changed_settings_title">Dinamik içerik ayarları</string>
+    <string name="view_label_settings_title">Etiket ayarları</string>
     <string name="view_name_button">Düğme</string>
     <string name="view_name_check_box">Seçim kutusu</string>
     <string name="view_name_edit_text">Metin alanı</string>
@@ -664,7 +664,7 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="voice_helper_copy_title">Çeviri sonuçlarını panoya kopyala</string>
     <string name="voice_helper_media_mute_mode_title">Sesli yardımcı etkinken medya seslerini sustur</string>
     <string name="voice_helper_service_description">Telefonunuzu sesli komutlarla, ekrana dokunmadan kullanmanızı sağlar.</string>
-    <string name="voice_helper_setting_title">Sesli yardımcı ve çeviri</string>
+    <string name="voice_helper_setting_title">Sesli yardımcı ve çeviri ayarları</string>
     <string name="voice_helper_use_app_gestures_title">Uygulamaya özgü  hareketleri sesli yardımcı ile kullan</string>
     <string name="voice_helper_use_app_summary">"Sadece adını söyleyerek belirli bir uygulamayı açıp açamayacağınızı belirler. Bu seçenek işaretli olmadığında, açmak istediğiniz uygulamanın adıyla birlikte \"aç\" anahtar sözcüğünü kullanın."</string>
     <string name="voice_helper_use_app_title">  Programları sesli komutla doğrudan çalıştır</string>
@@ -677,7 +677,7 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="voice_helper_use_tool_title">Sesli yardımcı ile araçlar kullan</string>
     <string name="voice_input_append_mode_title">Sesli yazdırırken metni metin kutusunun sonuna ekle</string>
     <string name="voice_recognizer_title">Tanıma motoru:</string>
-    <string name="web_app_name">Web tarayıcı</string>
+    <string name="web_app_name">Jieshuo Web tarayıcı</string>
     <string name="sign_up">Hesap oluştur</string>
     <string name="login">Oturum aç</string>
     <string name="back">Geri</string>
@@ -791,7 +791,7 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="use_web_type_move_title">Web  öğe türlerine  göre gözat kullan</string>
     <string name="pref_donate_alipay">Ekran okuyucuyu desteklemek için Alipay ile bağışta bulun</string>
     <string name="pref_donate_paypal">Ekran okuyucu geliştirmesini desteklemek için Paypal kullanarak bağışta bulun</string>
-    <string name="menu_settings_title">Menü ayarları</string>
+    <string name="menu_settings_title">Jieshuo menüsü ayarları</string>
     <string name="directory_download">Indir</string>
     <string name="msg_has_vip_split_edit">Premium üye olmayanlar 100\'den fazla karakter düzenleyemezler</string>
     <string name="media_doc_title">Sesli eğitim</string>
@@ -819,7 +819,7 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="camera_top_move_near">En üst yakına kaydırın</string>
     <string name="camera_bottom_up">En alt yukarı</string>
 
-    <string name="use_text_format_read_word_title">Sözcükleri fonetik olarak oku</string>
+    <string name="use_text_format_read_word_title">Harfleri fonetik olarak oku</string>
     <string name="restore">Geri yükle</string>
     <string name="backup">Yedekle</string>
     <string name="directory_camera">Kamera</string>
@@ -871,7 +871,7 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="voice_helper_record_done">Kayıt tamamlandı.</string>
     <string name="msg_save_error">Kayıt hatası</string>
     <string name="msg_has_vip_voice_cmd">Premium hesabı bulunmayanlar en fazla 10 ses kaydı yapabilirler.</string>
-    <string name="cmd_create">Yeni oluştur</string>
+    <string name="cmd_create">Yeni sesli komut oluştur</string>
     <string name="cmd_manager">Sesli komutları yönet</string>
     <string name="note_tile">Bulut Notları</string>
     <string name="message_count_out">Sınır aşıldı.</string>
@@ -925,13 +925,13 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="msg_send_not_found">Gönder düğmesi bulunamadı</string>
     <string name="msg_search_on_store">Uygulama mağazasında Ara</string>
     <string name="msg_lable_add_error">Etiket eklenemedi</string>
-    <string name="check_permissions_title">İzinleri kontrol et</string>
+    <string name="check_permissions_title">İzinleri ayarla</string>
     <string name="setup_setting_title">Ayar sihirbazı</string>
-    <string name="check_overlay_permissions_title">Diğer uygulamalar üzerinde göster iznini kontrol et</string>
+    <string name="check_overlay_permissions_title">Diğer uygulamalar üzerinde göster iznini ayarla</string>
     <string name="check_battery_permissions_title">Pil Optimizasyonunu Yoksay iznini ayarla</string>
     <string name="open_application_info_title">Jieshuo ekran okuyucu bilgilerini uygulama yöneticisinde görüntüle</string>
     <string name="open_setup_setting_title">Otomatik başlatma ayarlarını aç</string>
-    <string name="check_notification_permissions_title">Bildirim görüntüleme izinlerini kontrol et</string>
+    <string name="check_notification_permissions_title">Bildirim görüntüleme izinlerini ayarla</string>
     <string name="denied_permissions_title">Reddedilen izinler</string>
     <string name="welcome_msg">Jieshuo Ekran Okuyucuya Hoş Geldiniz! Bu yazılım, görme engelli kişilerin telefonlarını daha verimli kullanmalarına yardımcı olmayı amaçlamaktadır. Ekran okuyucunun temel ayarlarını yapmak için \"Ayar sihirbazı\"na tıklayın, gizlilik politikasını görüntülemek için \"İzin Açıklamaları\"na tıklayın veya programdan çıkmak için \"Çıkış\"a tıklayın.</string>
     <string name="use_left_right_msg">Jieshuo Ekran okuyucuda, varsayılan olarak odağı ileri taşımak için yukarı kaydırma,  odağı geriye taşımak için aşağı kaydırma hareketleri kullanılır. Kısayol işlevlerini yerine getirmek için sola ve sağa kaydırın. Odağı taşımak için sol ve sağ kaydırma hareketlerini kullanmak isterseniz, soldan sağa gezin hareket düzenini kullan seçeneğini işaretleyin, bu durumda çağrı yanıtlamak ve reddetmek gibi kısayolları aşağı yukarı kaydırarak yapmanız gerektiğini unutmayın.</string>
@@ -959,7 +959,7 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="setup_setting_set_permission_and_exit">İzinleri ver ve sihirbazdan çık</string>
     <string name="setup_setting_not_notification_permission">Bildirim izinleri verilmemiş</string>
     <string name="setup_setting_notification_permission_msg">Ekran Okuyucu, uygulama bildirimlerini, geri bildirimleri ve arka plan koruma bildirimlerini görüntülemek için bildirim izinlerini kullanır.</string>
-    <string name="setup_setting_get_permission">İzinleri ver</string>
+    <string name="setup_setting_get_permission">İzni ayarla</string>
     <string name="setup_setting_has_notification_permission">Bildirim izinleri ayarlandı</string>
     <string name="changed">Değiştirildi</string>
     <string name="setup_setting_not_battery_permission">Pil optimizasyonunu yok sayma reddedilmiş</string>
@@ -1035,7 +1035,7 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="hot_key">Kısayol</string>
     <string name="hot_key_package_title">Kısayol paketi</string>
     <string name="hot_key_description_title">Kısayol paketi açıklaması</string>
-    <string name="hot_key_settings_title">Klavye kısayol paketi</string>
+    <string name="hot_key_settings_title">Klavye kısayol paketi ayarları</string>
     <string name="custom_hot_key_settings_title">Klavye kısayol ayarları</string>
     <string name="app_hot_key_package_title">Uygulamaya özgü kısayol ayarları</string>
     <string name="app_hot_key_package_summary">Yeni bir uygulamaya özgü kısayol tuşu paketi oluşturmak için kullanılır. Yalnızca tanımlanan uygulamada geçerli olacaktır.</string>
@@ -1157,7 +1157,7 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="use_loop_move_space_title">Odak döngüsünü bildir</string>
     <string name="use_view_type_move_mode_title">Yeni öğe dolaşım modunu kullan</string>
     <string name="use_view_type_move_mode_summary">Etkinleştirildiğinde, dolaşım türlerini seçmek için önce aşağı sonra yukarı veya önce yukarı sonra aşağı kaydırın, dolaşım öğeleri için sağa veya sola kaydırın; \nEtkin olmadığında, dolaşım türleri için aşağı veya yukarı kaydırın, dolaşım öğeleri için sağa veya sola kaydırın.</string>
-    <string name="app_hot_key_shortcut_title">Uygulamaya özgü ses tuşu kısayolu</string>
+    <string name="app_hot_key_shortcut_title">Uygulamaya özgü ses tuşu kısayolu ayarları</string>
     <string name="shared_cloud_label">Özel etiketleri bulutta paylaş</string>
     <string name="use_more_node_title">Ayrıntılı odak modu</string>
     <string name="use_more_node_summary">Bu seçenek daha  çok odak öğesine odaklanmaya izin verir, lütfen ihtiyaçlarınıza göre etkinleştirin veya devre dışı bırakın.</string>
@@ -1191,7 +1191,7 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="command_add_content_blacklist">İçerik kara listesi ekle</string>
     <string name="command_media_previous">Önceki parça</string>
     <string name="command_media_next">Sonraki parça</string>
-    <string name="use_answer_phone_calls_gesture_title">Her ekranda  hareketle yanıtlayıp kapatmaya izin ver</string>
+    <string name="use_answer_phone_calls_gesture_title">Aramaları her ekranda hareketlerle yanıtla veya sonlandır</string>
     <string name="command_previous_window">Önceki pencere</string>
     <string name="command_next_window">Sonraki pencere</string>
     <string name="accessibility_focus_appearance_title">Odak görünüm ayarları</string>
@@ -1272,11 +1272,11 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="msg_restore_hotkey_done">Klavye kısayolları başarıyla geri yüklendi</string>
     <string name="profiles_summary">Profiller, kullanıcının ek ayar paketleri oluşturmasına izin verir, bu şekilde kullanıcı farklı profiller için farklı ayarlar belirleyerek dilediği zaman profiller arasında kolaylıkla geçiş yapabilir.</string>
     <string name="msg_open_file_not_supported">Bu dosya türü desteklenmediği için açılamıyor</string>
-    <string name="ocr_clean_keyword_title">Yayın metin tanıma hatalarını filtrele</string>
+    <string name="ocr_clean_keyword_title">Yaygın metin tanıma hatalarını filtrele</string>
     <string name="ocr_clean_keyword_summary">Metin tanıma esnasında yaygın tanıma hatalarını filtreleyin.Java ifadelerini desteklemektedir</string>
     <string name="command_set_tts_engine">Ses kitaplığını seç</string>
     <string name="download_sound_package_title">Daha fazla ses paketi indir</string>
-    <string name="use_single_tts_summary">Tüm içerik yalnızca bir ses ile okunur.</string>
+    <string name="use_single_tts_summary">Tüm içerik yalnızca bir ses tarafından okunur.</string>
     <string name="notification_toast">Açılır pencere bildirimleri</string>
     <string name="notification">Bildirim Çubuğu</string>
     <string name="gesture_3_single_tap_hold">3 parmakla tek tıkla ve basılı tut</string>
@@ -1286,7 +1286,7 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="command_disable_hotkey">Kısayol tuşlarını devre dışı bırak</string>
     <string name="fly_pinyin_speak_title">Pinyin kullanırken fonetik sembolleri oku</string>
     <string name="use_navigation_gesture_title">Tek parmakla tam ekran hareketleri</string>
-    <string name="use_navigation_gesture_summary">Android 11 sürümünden itibaren, Geri, Ana Sayfa ve Genel Bakış tuşlarını gerçekleştirmek için tek parmağınızla ekranın altından yukarıya doğru hızlıca kaydırabilirsiniz.）</string>
+    <string name="use_navigation_gesture_summary">Android 11 sürümünden itibaren, Geri, Ana Sayfa ve Genel Bakış işlevlerini gerçekleştirmek için tek parmağınızla ekranın altından yukarıya doğru hızlıca kaydırabilirsiniz.）</string>
     <string name="msg_import">%s içe aktarıldı</string>
     <string name="wallpaper_description">Jieshuo\'yu izinler olmadan kullanmak istiyorsanız, lütfen ekran okuyucuyu duvar kağıdı olarak ayarlayın.</string>
     <string name="wallpaper_title">Jieshuo Duvar Kağıdı (Deneysel Özellik)</string>
@@ -1380,92 +1380,127 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="ringer_mode_vibate">Titreşim</string>
     <string name="ringer_mode_silent">Sessiz</string>
     <string name="msg_gesture_has_vip">Yukarı, aşağı, sol ve sağ hareketler  yalnızca premium sürümde kişiselleştirilebilir</string>
-    <string name="announcement">程序通知</string>
-    <string name="command_disable_main_tts">暂停主语音合成</string>
-    <string name="command_disable_async_tts">暂停副语音合成</string>
-    <string name="command_start_log">开始记录日志</string>
-    <string name="delete_log_title">删除全部日志</string>
-    <string name="use_custom_speak_clear_title">使用朗读净化</string>
-    <string name="custom_speak_clear_title">自定义净化关键字</string>
-    <string name="speak_clear_setting">朗读净化设置</string>
-    <string name="use_custom_speak_symbol_number_title">优化朗读重复的符号</string>
-    <string name="custom_speak_symbol_number_title">自定义重复的符号</string>
-    <string name="use_emoji_speak_clear_title">清除emoji表情</string>
-    <string name="content_label_title">焦点标签管理</string>
-    <string name="custom_node_name_title">焦点别名管理</string>
-    <string name="use_custom_node_name_title">使用焦点别名</string>
-    <string name="custom_content_title">焦点自定义内容设置</string>
-    <string name="directory_name">别名</string>
-    <string name="use_emoji_speak_mode_title">Emoji朗读模式</string>
-    <string name="use_no_bluetooth_title">连接蓝牙耳机或音箱时读屏从手机朗读</string>
-    <string name="custom_speak_clear_summary">添加列表中的字符将不会朗读，支持正则表达式</string>
-    <string name="input_setting_title">输入法设置</string>
-    <string name="use_input_method_speak_key_title">朗读输入法按键</string>
-    <string name="use_input_method_speak_candidate_title">朗读候选</string>
-    <string name="use_input_method_speak_commit_title">朗读上屏的内容</string>
-    <string name="use_input_method_speak_password_title">朗读密码</string>
-    <string name="use_input_method_double_tap_title">输入法双击激活</string>
-    <string name="split_word">按词</string>
-    <string name="incall_setting_title">来电播报设置</string>
-    <string name="speak_call_phone_index_title">来电报号次数</string>
-    <string name="edit_node_name">编辑别名</string>
-    <string name="edit_node">编辑焦点内容</string>
-    <string name="use_input_method_no_touch_title">弹出输入法时暂停触摸浏览</string>
-    <string name="use_input_method_speak_commit_space_title">按空格键朗读最近输入的内容</string>
-    <string name="use_screen_on_speak_battery_title">朗读电量</string>
-    <string name="use_screen_on_speak_notification_title">朗读未读通知数量</string>
-    <string name="command_virtual_table">表格识别</string>
-    <string name="command_incall_mode">听筒模式</string>
-    <string name="command_edit_node_name">编辑焦点别名</string>
-    <string name="command_pasue_timer">暂停计时</string>
-    <string name="command_show_input_method_picker">选择输入法</string>
-    <string name="command_raise_scr_volume">增大读屏音量</string>
-    <string name="command_lower_scr_volume">减小读屏音量</string>
-    <string name="command_speed_to_fast">加快语速</string>
-    <string name="command_speed_to_slow">减慢语速</string>
-    <string name="use_fast_node_title">极速模式</string>
-    <string name="use_fast_node_summary">开启后在支持的软件响应更快，如果遇到不兼容，可以关闭此选项</string>
-    <string name="use_input_method_double_tap_summary">仅支持三星键盘</string>
-    <string name="ocr_portrait_mode_title">字幕识别竖屏默认模式</string>
-    <string name="ocr_landscape_mode_title">字幕识别横屏默认模式</string>
-    <string name="command_recognition_caption">朗读字幕</string>
-    <string name="command_auto_trans">自动翻译</string>
-    <string name="has_notification_listener">需开启通知使用权</string>
-    <string name="ocr_mode_def">每次询问</string>
-    <string name="ocr_mode0">屏幕上四分之一(竖屏首选)</string>
-    <string name="ocr_mode1">屏幕下四分之一(横屏首选)</string>
-    <string name="ocr_mode2">屏幕上三分之一</string>
-    <string name="ocr_mode3">屏幕中三分之一</string>
-    <string name="ocr_mode4">屏幕下三分之一</string>
-    <string name="ocr_mode5">当前焦点上三分之一</string>
-    <string name="ocr_mode6">当前焦点中三分之一</string>
-    <string name="ocr_mode7">当前焦点下三分之一</string>
-    <string name="ocr_mode8">当前焦点上二分之一</string>
-    <string name="ocr_mode9">当前焦点下二分之一</string>
-    <string name="ocr_mode10">当前焦点</string>
-    <string name="create_profiles_from_this">从当前配置创建情景模式</string>
-    <string name="all_notification_count">共%d条通知</string>
-    <string name="command_speak_all_notification">朗读全部通知</string>
-    <string name="msg_start_log">点击确定将把使用时的日志记录到手机，在你使用出现问题后及时点击发送日志，将日志发送给开发人员或客服</string>
-    <string name="msg_loging">正在记录日志</string>
-    <string name="emoji_speak_mode0">由语音库处理</string>
-    <string name="emoji_speak_mode1">朗读Emoji表情</string>
-    <string name="emoji_speak_mode2">不朗读Emoji表情</string>
-    <string name="use_log_summary">需要反馈时可以开启，平时关闭以提高性能</string>
-    <string name="stat_info">性能统计</string>
-    <string name="event_stat_info">共响应事件%d次，平均耗时%d毫秒。</string>
-    <string name="touch_stat_info">共触摸浏览%d次，平均延时%d毫秒。</string>
-    <string name="hover_stat_info">共触摸焦点%d次，平均耗时%d毫秒。</string>
-    <string name="gesture_stat_info">共响应手势%d次，平均耗时%d毫秒。</string>
-    <string name="search_stat_info">共查找焦点%d次，平均耗时%d毫秒。</string>
-    <string name="zoom_in">放大</string>
-    <string name="zoom_out">缩小</string>
-    <string name="msg_timer_no_run">计时器未启动</string>
-    <string name="msg_start_auto_trans">开始自动翻译</string>
-    <string name="msg_stop_auto_trans">停止自动翻译</string>
-    <string name="msg_auto_trans_has_vip">仅会员支持自动翻译</string>
-    <string name="msg_start_auto_ocr">开始自动朗读字幕</string>
-    <string name="msg_stop_auto_ocr">停止朗读字幕</string>
-    <string name="start_auto_ocr_title">选择识别区域</string>
+    <string name="announcement">Uygulama bildirimi</string>
+    <string name="command_disable_main_tts">Birincil Sentezleyiciyi devre dışı bırak</string>
+    <string name="command_disable_async_tts">İkincil Sentezleyiciyi devre dışı bırak</string>
+    <string name="command_start_log">Log kaydını etkinleştir</string>
+    <string name="delete_log_title">Tüm log kayıtlarını sil</string>
+    <string name="use_custom_speak_clear_title">Özel Sentezleyici düzeltmelerı kullan</string>
+    <string name="custom_speak_clear_title">Özel Sentezleyici düzeltme anahtar sözcükleri</string>
+    <string name="speak_clear_setting">Sentezleyici düzeltme ayarları</string>
+    <string name="use_custom_speak_symbol_number_title">Tekrarlanan sembollerin okunmasını iyileştir</string>
+    <string name="custom_speak_symbol_number_title">Özel sembol tekrarlama yöntemi</string>
+    <string name="use_emoji_speak_clear_title">Konuşulan metinden emojileri çıkart</string>
+    <string name="content_label_title">Özel etiketleri yönet</string>
+    <string name="custom_node_name_title">Özel düğüm rumuzlarını yönet</string>
+    <string name="use_custom_node_name_title">Özel düğüm rumuzları kullan</string>
+    <string name="custom_content_title">Özel içerik ve rumuz ayarları</string>
+    <string name="directory_name">Rumuzlar</string>
+    <string name="use_emoji_speak_mode_title">Emoji okuma ayarları</string>
+    <string name="use_no_bluetooth_title">Bluetooth kulaklık yerine telefon hoparlörünü kullan</string>
+    <string name="custom_speak_clear_summary">Bu listedeki karakterler seslendirilmez, düzenli ifadeler desteklenir.</string>
+    <string name="input_setting_title">Giriş yöntemi ayarları</string>
+    <string name="use_input_method_speak_key_title">Yazarken giriş yöntemi düzenleme tuşlarını oku</string>
+    <string name="use_input_method_speak_candidate_title">Giriş yöntemi düzenleme önerilerini oku</string>
+    <string name="use_input_method_speak_commit_title">Yazma alanı içeriği değiştiğinde içerik değişikliklerini oku</string>
+    <string name="use_input_method_speak_password_title">Şifreleri seslendir</string>
+    <string name="use_input_method_double_tap_title">Giriş yöntemini etkinleştirmek için çift tıkla</string>
+    <string name="split_word">Sözcük sözcük oku</string>
+    <string name="incall_setting_title">Arayanı bildir ayarları</string>
+    <string name="speak_call_phone_index_title">Arama sayısını bildir</string>
+    <string name="edit_node_name">Düğüm rumuzunu düzenle</string>
+    <string name="edit_node">Düğüm içeriklerini düzenle</string>
+    <string name="use_input_method_no_touch_title">Giriş yöntemi etkinken dokunarak taramayı duraklat</string>
+    <string name="use_input_method_speak_commit_space_title">Boşluğa basıldığında son girdiyi oku</string>
+    <string name="use_screen_on_speak_battery_title">Pil durumunu oku</string>
+    <string name="use_screen_on_speak_notification_title">Okunmamış bildirimlerin sayısını oku</string>
+    <string name="command_virtual_table">Formları tanımla</string>
+    <string name="command_incall_mode">Ahize modu</string>
+    <string name="command_edit_node_name">Düğüm rumuzunu düzenle</string>
+    <string name="command_pasue_timer">Zamanlayıcıyı duraklat</string>
+    <string name="command_show_input_method_picker">Giriş yöntemini değiştir</string>
+    <string name="command_raise_scr_volume">Ekran okuyucu sesini artır</string>
+    <string name="command_lower_scr_volume">Ekran okuyucu sesini azalt</string>
+    <string name="command_speed_to_fast">Konuşma hızını artır</string>
+    <string name="command_speed_to_slow">Konuşma hızını azalt</string>
+    <string name="use_fast_node_title">Tepki hızını artır</string>
+    <string name="use_fast_node_summary">Bu seçeneğin etkinleştirilmesi bazı yazılımların daha hızlı yanıt vermesini sağlayabilir, ancak bazı uyum sorunları oluşabilir.</string>
+    <string name="use_input_method_double_tap_summary">Yalnızca Samsung klavye desteklenmektedir.</string>
+    <string name="ocr_portrait_mode_title">Altyazı tanıma varsayılan dikey ekran modu)</string>
+    <string name="ocr_landscape_mode_title">Altyazı tanıma (varsayılan yatay ekran modu)</string>
+    <string name="command_recognition_caption">Altyazıları tanı</string>
+    <string name="command_auto_trans">Otomatik çeviri</string>
+    <string name="has_notification_listener">Bildirimlere erişim izni verilmelidir.</string>
+    <string name="ocr_mode_def">Her zaman sor</string>
+    <string name="ocr_mode0">Ekranın üst çeyreği (dikey mod için tercih edilir)</string>
+    <string name="ocr_mode1">Ekranın alt çeyreği (yatay mod için tercih edilir)</string>
+    <string name="ocr_mode2">Üst ekranın üçte biri</string>
+    <string name="ocr_mode3">Orta ekranın üçte biri</string>
+    <string name="ocr_mode4">Alt ekranın üçte biri</string>
+    <string name="ocr_mode5">Geçerli öğenin üst üçte biri</string>
+    <string name="ocr_mode6">Geçerli öğenin orta üçte biri</string>
+    <string name="ocr_mode7">Geçerli öğenin alt üçte biri</string>
+    <string name="ocr_mode8">Geçerli öğenin üst yarısı</string>
+    <string name="ocr_mode9">Geçerli öğenin alt yarısı</string>
+    <string name="ocr_mode10">Geçerli öğe</string>
+    <string name="create_profiles_from_this">Mevcut ayarlarla bir profil oluştur</string>
+    <string name="all_notification_count">Toplam %d bildirim</string>
+    <string name="command_speak_all_notification">Tüm bildirimleri oku</string>
+    <string name="msg_start_log">Log tutmayı etkinleştirmek için \"Tamam\"a dokunun. kullanım sırasında sorun yaşarsanız, bu dosyaları geliştiriciye gönderin</string>
+    <string name="msg_loging">Log kaydı başladı</string>
+    <string name="emoji_speak_mode0">Emojiler sentezleyici tarafından işlenir</string>
+    <string name="emoji_speak_mode1">Emojiler ekran okuyucu tarafından işlenir</string>
+    <string name="emoji_speak_mode2">Emojileri okuma</string>
+    <string name="use_log_summary">Bunu etkinleştirmek, hata ayıklama için gerekli bilgileri toplayabilir, ancak performansı düşürebilir</string>
+    <string name="stat_info">Performans istatistikleri</string>
+    <string name="event_stat_info">Ortalama %d milisaniyede  toplam %d etkinliğe yanıt verildi.</string>
+    <string name="touch_stat_info">Ortalama %d milisaniyede toplam %d öğeye göz atıldı</string>
+    <string name="hover_stat_info">Ortalama %d milisaniyede  ekrana toplam %d kez dokunuldu.</string>
+    <string name="gesture_stat_info">Ortalama %d milisaniyede toplam %d harekete yanıt verildi</string>
+    <string name="search_stat_info">%d milisaniyede toplam %d sonuç bulundu.</string>
+    <string name="zoom_in">Yakınlaştır</string>
+    <string name="zoom_out">Uzaklaştır</string>
+    <string name="msg_timer_no_run">Zamanlayıcı başlatılmadı</string>
+    <string name="msg_start_auto_trans">Otomatik çeviri etkin</string>
+    <string name="msg_stop_auto_trans">Otomatik çeviri devre dışı</string>
+    <string name="msg_auto_trans_has_vip">Otomatik çeviriyi kullanmak için Premium üyelik gerekmektedir.</string>
+    <string name="msg_start_auto_ocr">Otomatik metin tanıma etkin</string>
+    <string name="msg_stop_auto_ocr">Otomatik metin tanıma devre dışı</string>
+    <string name="start_auto_ocr_title">Tanınacak alanı seç</string>
+    <string name="command_disable_edge_gesture_title">暂停边缘手势</string>
+    <string name="use_game_mode_no_speak_title">游戏模式时禁用语音合成</string>
+    <string name="use_game_mode_no_edge_title">游戏模式时禁用边缘手势</string>
+    <string name="game_mode_setting">游戏模式设置</string>
+    <string name="timer_items_title">预设的计时器</string>
+    <string name="timer_tags">标签</string>
+    <string name="command_paste_from_cloud">从云剪切板粘贴</string>
+    <string name="command_copy_to_cloud">复制到云剪切板</string>
+    <string name="use_timer_stream_type_title">使用的音频通道</string>
+    <string name="timer_tts_engine_title">报时语音库</string>
+    <string name="command_up_page">上滑翻页</string>
+    <string name="command_down_page">下滑翻页</string>
+    <string name="command_left_page">左滑翻页</string>
+    <string name="command_right_page">右滑翻页</string>
+    <string name="vr_camera">解说VR助视</string>
+    <string name="language_setting_title">语言设置</string>
+    <string name="vr_dialog_title">重要提示</string>
+    <string name="vr_dialog_message">解说VR助视功能需配合VR眼镜盒子和蓝牙遥控器使用，本功能主要辅助低视力用户看周围环境、书籍或电脑，电视等。\n
+    因放大后的视角与刷新率问题，该功能不适用于行走出行等场景使用。\n
+    如果外出需要观察周围环境，如看公交站牌，地铁站，寻找店铺牌匾等，请务必在停止行走并确认周围安全情况下使用。\n
+    使用方法：\n
+    请在看见屏幕分成两个部分后，将手机左侧向下放入VR眼睛盒，遥控器方向键用于切换设置的项目和数值，确定键可以使用ocr识别,\n
+    没有遥控器时可使用手机音量键调节倍率。\n
+    （补充），因市面上的VR眼镜盒参差不齐，有些可能挡住摄像头，导致无法正常使用此功能，需要购买VR眼镜盒，可提前联系客服确认是否可以使用。\n
+    注:若不按提示指引使用，造成的一切后果自行承担。</string>
+    <string name="vr_camera_ae">曝光</string>
+    <string name="vr_camera_flash_on">闪光灯已打开</string>
+    <string name="vr_camera_flash_off">闪光灯已关闭</string>
+    <string name="vr_camera_distance">瞳距</string>
+    <string name="vr_camera_light">亮度</string>
+    <string name="vr_camera_zoom">变焦</string>
+    <string name="use_show_text_title">显示语音输出</string>
+    <string name="use_window_title_changed_title">朗读窗口标题改变</string>
+    <string name="do_not_prompt_again">不再提示</string>
+    <string name="use_custom_language_title">使用自定义语言</string>
 
 </resources>

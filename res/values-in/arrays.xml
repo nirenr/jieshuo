@@ -83,147 +83,187 @@
         <item>@string/directory_cmd</item>
         <item>@string/directory_tools</item>
         <item>@string/app</item>
+
+        <!--重要功能ok-->
+        <item>@string/profiles_title</item>
+        <item>@string/plugin_title</item>
+        <item>@string/tool_title</item>
+        <item>@string/main_menu</item>
+        <item>@string/advanced_menu_title</item>
+        <item>@string/quick_menu_title</item>
+        <item>@string/action_menu_title</item>
+        <item>@string/main_setting</item>
+        <item>@string/command_start_log</item>
+        <item>@string/command_gesture_help</item>
+
+        <!--功能开关ok-->
+        <item>@string/command_disable_touch</item>
+        <item>@string/command_disable_feedback</item>
+        <item>@string/command_disable_hotkey</item>
+        <item>@string/command_false_touch_prevention</item>
+        <item>@string/command_enable_dim_screen</item>
+        <item>@string/command_disable_edge_gesture_title</item>
+        <item>@string/command_disable_main_tts</item>
+        <item>@string/command_disable_async_tts</item>
+        <item>@string/command_incall_mode</item>
+        <item>@string/switch_multi_finger_gestures</item>
+
+        <!--语音操作ok-->
+        <item>@string/command_set_tts_engine</item>
+        <item>@string/command_toggle_tts_engine</item>
+        <item>@string/command_raise_scr_volume</item>
+        <item>@string/command_lower_scr_volume</item>
+        <item>@string/command_speed_to_fast</item>
+        <item>@string/command_speed_to_slow</item>
+        <item>@string/command_raise_volume</item>
+        <item>@string/command_lower_volume</item>
+        <item>@string/command_voice_helper</item>
+        <item>@string/command_voice_input</item>
+
+
+        <!--焦点操作ok-->
+        <item>@string/actions</item>
+        <item>@string/url_menu_title</item>
+        <item>@string/add_node_changed_list</item>
+        <item>@string/node_changed_list_manager</item>
+        <item>@string/edit_dict</item>
+        <item>@string/command_edit_node_name</item>
+        <item>@string/command_add_content_blacklist</item>
+        <item>@string/command_verbatim_speak2</item>
+        <item>@string/split_menu_title</item>
+        <item>@string/command_gestures_edit</item>
+
+
+        <!--ai功能ok-->
+        <item>@string/command_auto_trans</item>
+        <item>@string/command_recognition_caption</item>
+        <item>@string/use_ocr_title</item>
+        <item>@string/command_virtual_screen</item>
+        <item>@string/command_virtual_table</item>
+        <item>@string/command_ocr_text</item>
+        <item>@string/command_ocr_focus</item>
+        <item>@string/command_verification</item>
+        <item>@string/command_trans</item>
+        <item>@string/camera_title</item>
+
+
+        <!--其他操作ok-->
+        <item>@string/command_now_time</item>
+        <item>@string/command_timer_mode</item>
+        <item>@string/command_pasue_timer</item>
+        <item>@string/command_current_location</item>
+        <item>@string/command_speak_light</item>
+        <item>@string/command_speak_time</item>
+        <item>@string/command_speak_net</item>
+        <item>@string/command_to_head_set_key</item>
+        <item>@string/command_media_previous</item>
+        <item>@string/command_media_next</item>
+
+
+        <!--编辑操作ok-->
+        <item>@string/clipboard_menu_title</item>
+        <item>@string/favorites_menu_title</item>
+        <item>@string/command_paste</item>
+        <item>@string/command_copy</item>
+        <item>@string/command_append_copy</item>
+        <item>@string/command_long_copy</item>
+        <item>@string/command_clean</item>
+        <item>@string/split_edit_title</item>
+        <item>@string/command_long_edit</item>
+        <item>@string/command_all_select</item>
+
+
+        <!--系统操作ok-->
+        <item>@string/command_to_recents</item>
+        <item>@string/command_to_home</item>
+        <item>@string/command_to_back</item>
+        <item>@string/command_to_notifications</item>
+        <item>@string/command_quick_settings</item>
+        <item>@string/command_take_screenshot</item>
+        <item>@string/command_off_screen2</item>
+        <item>@string/command_power_dialog</item>
+        <item>@string/command_to_split_screen</item>
+        <item>@string/command_notification_box</item>
+
+        <!--执行操作-->
+        <item>@string/command_click</item>
+        <item>@string/command_long_click</item>
+        <item>@string/raw_click</item>
+        <item>@string/raw_long_click</item>
+        <item>@string/command_raw_double_tap</item>
+        <item>@string/raw_swipe_left</item>
+        <item>@string/raw_swipe_right</item>
+        <item>@string/raw_swipe_up</item>
+        <item>@string/raw_swipe_down</item>
+        <item>@string/command_virtual_navigation</item>
+
+        <!--浏览模式-->
+        <item>@string/char_mode</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/all_text_title</item>
+        <item>@string/command_node_mode</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/command_supper_mode</item>
+        <item>@string/command_raw_tap</item>
+        <item>@string/command_up_tap</item>
+        <item>@string/command_tap_mode</item>
+
+
+        <item>@string/command_read_mode</item>
+        <item>@string/command_auto_next</item>
+        <item>@string/auto_previous</item>
+
+        <item>@string/input_method</item>
+        <item>@string/command_show_input_method_picker</item>
+        <item>@string/command_speak_all_notification</item>
+        <item>@string/command_left_shortcut</item>
+        <item>@string/command_right_shortcut</item>
+        <item>@string/command_start</item>
+        <item>@string/command_end</item>
+
+
         <item>@string/select_granularity_mode</item>
+        <!--导航类型-->
         <item>@string/to_previous_granularity</item>
         <item>@string/to_next_granularity</item>
         <item>@string/to_previous_granularity_item</item>
         <item>@string/to_next_granularity_item</item>
+        <item>@string/command_previous_window</item>
+        <item>@string/command_next_window</item>
 
-        <item>@string/command_auto_trans</item>
-        <item>@string/command_recognition_caption</item>
-        <item>@string/add_node_changed_list</item>
-        <item>@string/node_changed_list_manager</item>
-        <item>@string/command_raw_tap</item>
         <item>@string/command_to_previous_focus</item>
         <item>@string/command_to_next_focus</item>
-        <item>@string/command_start</item>
-        <item>@string/command_end</item>
-        <item>@string/command_left_shortcut</item>
-        <item>@string/command_right_shortcut</item>
         <item>@string/command_to_previous_scroll</item>
         <item>@string/command_to_next_scroll</item>
         <item>@string/command_to_previous_progress</item>
         <item>@string/command_to_next_progress</item>
+
+
         <item>@string/command_to_previous_section</item>
         <item>@string/command_to_next_section</item>
         <item>@string/command_to_previous_link</item>
         <item>@string/command_to_next_link</item>
         <item>@string/command_to_previous_control</item>
         <item>@string/command_to_next_control</item>
-        <item>@string/command_lower_volume</item>
-        <item>@string/command_raise_volume</item>
-        <item>@string/command_now_time</item>
-        <item>@string/command_timer_mode</item>
-        <item>@string/command_current_location</item>
-        <item>@string/command_virtual_screen</item>
-        <item>@string/command_verification</item>
-        <item>@string/command_gesture_help</item>
-        <item>@string/command_trans</item>
-        <item>@string/command_enable_dim_screen</item>
-        <item>@string/clipboard_menu_title</item>
-        <item>@string/favorites_menu_title</item>
-        <item>@string/input_method</item>
-        <item>@string/command_paste</item>
-        <item>@string/command_copy</item>
-        <item>@string/command_long_copy</item>
-        <item>@string/command_append_copy</item>
-        <item>@string/command_clean</item>
-        <item>@string/command_notification_box</item>
-        <item>@string/command_up_tap</item>
-        <item>@string/command_supper_mode</item>
-        <item>@string/command_tap_mode</item>
-        <item>@string/command_node_mode</item>
-        <item>@string/command_to_recents</item>
-        <item>@string/command_to_home</item>
-        <item>@string/command_to_back</item>
-        <item>@string/command_click</item>
-        <item>@string/command_long_click</item>
-        <item>@string/command_long_edit</item>
-        <item>@string/advanced_menu_title</item>
-        <item>@string/quick_menu_title</item>
-        <item>@string/action_menu_title</item>
-        <item>@string/main_menu</item>
-        <item>@string/command_read_mode</item>
-        <item>@string/command_verbatim_speak2</item>
-        <item>@string/char_mode</item>
-        <item>@string/command_auto_next</item>
-        <item>@string/auto_previous</item>
-        <item>@string/split_menu_title</item>
-        <item>@string/split_edit_title</item>
-        <item>@string/list_mode_title</item>
-        <item>@string/command_all_speak</item>
-        <item>@string/all_text_title</item>
-        <item>@string/command_all_select</item>
-        <item>@string/command_voice_helper</item>
-        <item>@string/command_voice_input</item>
-        <item>@string/plugin_title</item>
-        <item>@string/tool_title</item>
-        <item>@string/command_ocr_text</item>
-        <item>@string/command_ocr_focus</item>
-        <item>@string/camera_title</item>
-        <item>@string/main_setting</item>
-        <item>@string/command_disable_touch</item>
-        <item>@string/command_disable_feedback</item>
-        <item>@string/command_to_notifications</item>
-        <item>@string/command_gestures_edit</item>
-        <item>@string/command_virtual_navigation</item>
-        <item>@string/url_menu_title</item>
-        <item>@string/actions</item>
-
-        <item>@string/raw_click</item>
-        <item>@string/raw_long_click</item>
-        <item>@string/raw_swipe_left</item>
-        <item>@string/raw_swipe_right</item>
-        <item>@string/raw_swipe_up</item>
-        <item>@string/raw_swipe_down</item>
-        <item>@string/command_quick_settings</item>
-        <item>@string/command_take_screenshot</item>
-        <item>@string/command_off_screen2</item>
-        <item>@string/command_power_dialog</item>
-        <item>@string/command_raw_double_tap</item>
-        <item>@string/command_to_split_screen</item>
-        <item>@string/switch_multi_finger_gestures</item>
-
-        <item>@string/command_to_next_char</item>
         <item>@string/command_to_previous_char</item>
-        <item>@string/command_to_next_word</item>
+        <item>@string/command_to_next_char</item>
         <item>@string/command_to_previous_word</item>
-        <item>@string/command_to_next_row</item>
+        <item>@string/command_to_next_word</item>
         <item>@string/command_to_previous_row</item>
-        <item>@string/command_to_next_paragraph</item>
+        <item>@string/command_to_next_row</item>
         <item>@string/command_to_previous_paragraph</item>
-        <item>@string/command_to_head_set_key</item>
-        <item>@string/edit_dict</item>
-        <item>@string/command_toggle_tts_engine</item>
-        <item>@string/command_speak_light</item>
-        <item>@string/command_add_content_blacklist</item>
+        <item>@string/command_to_next_paragraph</item>
 
-        <item>@string/command_media_previous</item>
-        <item>@string/command_media_next</item>
-        <item>@string/command_previous_window</item>
-        <item>@string/command_next_window</item>
-        <item>@string/command_set_tts_engine</item>
-        <item>@string/profiles_title</item>
-        <item>@string/use_ocr_title</item>
-        <item>@string/command_disable_hotkey</item>
-        <item>@string/command_speak_time</item>
-        <item>@string/command_speak_net</item>
-        <item>@string/command_false_touch_prevention</item>
-        <item>@string/command_disable_main_tts</item>
-        <item>@string/command_disable_async_tts</item>
-        <item>@string/command_start_log</item>
-        <item>@string/command_virtual_table</item>
-        <item>@string/command_incall_mode</item>
-        <item>@string/command_edit_node_name</item>
-        <item>@string/command_pasue_timer</item>
-        <item>@string/command_show_input_method_picker</item>
-        <item>@string/command_raise_scr_volume</item>
-        <item>@string/command_lower_scr_volume</item>
-        <item>@string/command_speed_to_fast</item>
-        <item>@string/command_speed_to_slow</item>
-        <item>@string/command_speak_all_notification</item>
 
-        <!--item>Quick browsing mode</item-->
+       <item>@string/command_copy_to_cloud</item>
+        <item>@string/command_paste_from_cloud</item>
+        <item>@string/command_up_page</item>
+        <item>@string/command_down_page</item>
+        <item>@string/command_left_page</item>
+        <item>@string/command_right_page</item>
+
+        <!--item>极速浏览</item-->
+
     </string-array>
 
     <string-array name="hot_key_help_items">
@@ -1000,6 +1040,7 @@
         <item>OCR dan terjemahan</item>
         <item>jendela</item>
     </string-array>
+
 
 
 </resources>

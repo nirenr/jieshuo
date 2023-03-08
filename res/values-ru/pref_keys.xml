@@ -483,6 +483,20 @@
     <string name="use_fast_node">use_fast_node</string>
     <string name="ocr_portrait_mode">ocr_portrait_mode</string>
     <string name="ocr_landscape_mode">ocr_landscape_mode</string>
+    <string name="open_web">open_web</string>
+    <string name="use_game_mode_no_speak">use_game_mode_no_speak</string>
+    <string name="use_game_mode_no_edge">use_game_mode_no_edge</string>
+    <string name="timer_items">timer_items</string>
+    <string name="cur_timer_tags">cur_timer_tags</string>
+    <string name="timer_tts_scale">timer_tts_scale</string>
+    <string name="timer_tts_engine">timer_tts_engine</string>
+    <string name="use_timer_stream_type">use_timer_stream_type</string>
+    <string name="timer_tts_speed">timer_tts_speed</string>
+    <string name="timer_tts_volume">timer_tts_volume</string>
+    <string name="timer_tts_pitch">timer_tts_pitch</string>
+    <string name="double_fling">double_fling</string>
+    <string name="use_show_text">use_show_text</string>
+    <string name="use_window_title_changed">use_window_title_changed</string>
 
 
 </resources>

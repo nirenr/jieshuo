@@ -81,7 +81,7 @@
     <string name="audio_focus_title">Atenuación de audio: </string>
     <string name="voice_app_name">Asistente de voz</string>
     <string name="voice_helper_service_description">Usa tu teléfono con comandos de voz.</string>
-    <string name="web_app_name">Navegador web</string>
+    <string name="web_app_name">Jieshuo Navegador web</string>
     <string name="help_title">Pantalla de ayuda</string>
     <string name="use_log_title">Activar registro: </string>
     <string name="notification_speak_title">Leer notificaciones: </string>
@@ -1464,5 +1464,40 @@
     <string name="msg_start_auto_ocr">开始自动朗读字幕</string>
     <string name="msg_stop_auto_ocr">停止朗读字幕</string>
     <string name="start_auto_ocr_title">选择识别区域</string>
+    <string name="command_disable_edge_gesture_title">暂停边缘手势</string>
+    <string name="use_game_mode_no_speak_title">游戏模式时禁用语音合成</string>
+    <string name="use_game_mode_no_edge_title">游戏模式时禁用边缘手势</string>
+    <string name="game_mode_setting">游戏模式设置</string>
+    <string name="timer_items_title">预设的计时器</string>
+    <string name="timer_tags">标签</string>
+    <string name="command_paste_from_cloud">从云剪切板粘贴</string>
+    <string name="command_copy_to_cloud">复制到云剪切板</string>
+    <string name="use_timer_stream_type_title">使用的音频通道</string>
+    <string name="timer_tts_engine_title">报时语音库</string>
+    <string name="command_up_page">上滑翻页</string>
+    <string name="command_down_page">下滑翻页</string>
+    <string name="command_left_page">左滑翻页</string>
+    <string name="command_right_page">右滑翻页</string>
+    <string name="vr_camera">解说VR助视</string>
+    <string name="language_setting_title">语言设置</string>
+    <string name="vr_dialog_title">重要提示</string>
+    <string name="vr_dialog_message">解说VR助视功能需配合VR眼镜盒子和蓝牙遥控器使用，本功能主要辅助低视力用户看周围环境、书籍或电脑，电视等。\n
+    因放大后的视角与刷新率问题，该功能不适用于行走出行等场景使用。\n
+    如果外出需要观察周围环境，如看公交站牌，地铁站，寻找店铺牌匾等，请务必在停止行走并确认周围安全情况下使用。\n
+    使用方法：\n
+    请在看见屏幕分成两个部分后，将手机左侧向下放入VR眼睛盒，遥控器方向键用于切换设置的项目和数值，确定键可以使用ocr识别,\n
+    没有遥控器时可使用手机音量键调节倍率。\n
+    （补充），因市面上的VR眼镜盒参差不齐，有些可能挡住摄像头，导致无法正常使用此功能，需要购买VR眼镜盒，可提前联系客服确认是否可以使用。\n
+    注:若不按提示指引使用，造成的一切后果自行承担。</string>
+    <string name="vr_camera_ae">曝光</string>
+    <string name="vr_camera_flash_on">闪光灯已打开</string>
+    <string name="vr_camera_flash_off">闪光灯已关闭</string>
+    <string name="vr_camera_distance">瞳距</string>
+    <string name="vr_camera_light">亮度</string>
+    <string name="vr_camera_zoom">变焦</string>
+    <string name="use_show_text_title">显示语音输出</string>
+    <string name="use_window_title_changed_title">朗读窗口标题改变</string>
+    <string name="do_not_prompt_again">不再提示</string>
+    <string name="use_custom_language_title">使用自定义语言</string>
 
 </resources>

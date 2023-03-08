@@ -6,146 +6,187 @@
         <item>@string/directory_cmd</item>
         <item>@string/directory_tools</item>
         <item>@string/app</item>
+
+        <!--重要功能ok-->
+        <item>@string/profiles_title</item>
+        <item>@string/plugin_title</item>
+        <item>@string/tool_title</item>
+        <item>@string/main_menu</item>
+        <item>@string/advanced_menu_title</item>
+        <item>@string/quick_menu_title</item>
+        <item>@string/action_menu_title</item>
+        <item>@string/main_setting</item>
+        <item>@string/command_start_log</item>
+        <item>@string/command_gesture_help</item>
+
+        <!--功能开关ok-->
+        <item>@string/command_disable_touch</item>
+        <item>@string/command_disable_feedback</item>
+        <item>@string/command_disable_hotkey</item>
+        <item>@string/command_false_touch_prevention</item>
+        <item>@string/command_enable_dim_screen</item>
+        <item>@string/command_disable_edge_gesture_title</item>
+        <item>@string/command_disable_main_tts</item>
+        <item>@string/command_disable_async_tts</item>
+        <item>@string/command_incall_mode</item>
+        <item>@string/switch_multi_finger_gestures</item>
+
+        <!--语音操作ok-->
+        <item>@string/command_set_tts_engine</item>
+        <item>@string/command_toggle_tts_engine</item>
+        <item>@string/command_raise_scr_volume</item>
+        <item>@string/command_lower_scr_volume</item>
+        <item>@string/command_speed_to_fast</item>
+        <item>@string/command_speed_to_slow</item>
+        <item>@string/command_raise_volume</item>
+        <item>@string/command_lower_volume</item>
+        <item>@string/command_voice_helper</item>
+        <item>@string/command_voice_input</item>
+
+
+        <!--焦点操作ok-->
+        <item>@string/actions</item>
+        <item>@string/url_menu_title</item>
+        <item>@string/add_node_changed_list</item>
+        <item>@string/node_changed_list_manager</item>
+        <item>@string/edit_dict</item>
+        <item>@string/command_edit_node_name</item>
+        <item>@string/command_add_content_blacklist</item>
+        <item>@string/command_verbatim_speak2</item>
+        <item>@string/split_menu_title</item>
+        <item>@string/command_gestures_edit</item>
+
+
+        <!--ai功能ok-->
+        <item>@string/command_auto_trans</item>
+        <item>@string/command_recognition_caption</item>
+        <item>@string/use_ocr_title</item>
+        <item>@string/command_virtual_screen</item>
+        <item>@string/command_virtual_table</item>
+        <item>@string/command_ocr_text</item>
+        <item>@string/command_ocr_focus</item>
+        <item>@string/command_verification</item>
+        <item>@string/command_trans</item>
+        <item>@string/camera_title</item>
+
+
+        <!--其他操作ok-->
+        <item>@string/command_now_time</item>
+        <item>@string/command_timer_mode</item>
+        <item>@string/command_pasue_timer</item>
+        <item>@string/command_current_location</item>
+        <item>@string/command_speak_light</item>
+        <item>@string/command_speak_time</item>
+        <item>@string/command_speak_net</item>
+        <item>@string/command_to_head_set_key</item>
+        <item>@string/command_media_previous</item>
+        <item>@string/command_media_next</item>
+
+
+        <!--编辑操作ok-->
+        <item>@string/clipboard_menu_title</item>
+        <item>@string/favorites_menu_title</item>
+        <item>@string/command_paste</item>
+        <item>@string/command_copy</item>
+        <item>@string/command_append_copy</item>
+        <item>@string/command_long_copy</item>
+        <item>@string/command_clean</item>
+        <item>@string/split_edit_title</item>
+        <item>@string/command_long_edit</item>
+        <item>@string/command_all_select</item>
+
+
+        <!--系统操作ok-->
+        <item>@string/command_to_recents</item>
+        <item>@string/command_to_home</item>
+        <item>@string/command_to_back</item>
+        <item>@string/command_to_notifications</item>
+        <item>@string/command_quick_settings</item>
+        <item>@string/command_take_screenshot</item>
+        <item>@string/command_off_screen2</item>
+        <item>@string/command_power_dialog</item>
+        <item>@string/command_to_split_screen</item>
+        <item>@string/command_notification_box</item>
+
+        <!--执行操作-->
+        <item>@string/command_click</item>
+        <item>@string/command_long_click</item>
+        <item>@string/raw_click</item>
+        <item>@string/raw_long_click</item>
+        <item>@string/command_raw_double_tap</item>
+        <item>@string/raw_swipe_left</item>
+        <item>@string/raw_swipe_right</item>
+        <item>@string/raw_swipe_up</item>
+        <item>@string/raw_swipe_down</item>
+        <item>@string/command_virtual_navigation</item>
+
+        <!--浏览模式-->
+        <item>@string/char_mode</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/all_text_title</item>
+        <item>@string/command_node_mode</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/command_supper_mode</item>
+        <item>@string/command_raw_tap</item>
+        <item>@string/command_up_tap</item>
+        <item>@string/command_tap_mode</item>
+
+
+        <item>@string/command_read_mode</item>
+        <item>@string/command_auto_next</item>
+        <item>@string/auto_previous</item>
+
+        <item>@string/input_method</item>
+        <item>@string/command_show_input_method_picker</item>
+        <item>@string/command_speak_all_notification</item>
+        <item>@string/command_left_shortcut</item>
+        <item>@string/command_right_shortcut</item>
+        <item>@string/command_start</item>
+        <item>@string/command_end</item>
+
+
         <item>@string/select_granularity_mode</item>
+        <!--导航类型-->
         <item>@string/to_previous_granularity</item>
         <item>@string/to_next_granularity</item>
         <item>@string/to_previous_granularity_item</item>
         <item>@string/to_next_granularity_item</item>
+        <item>@string/command_previous_window</item>
+        <item>@string/command_next_window</item>
 
-        <item>@string/command_auto_trans</item>
-        <item>@string/command_recognition_caption</item>
-        <item>@string/add_node_changed_list</item>
-        <item>@string/node_changed_list_manager</item>
-
-        <item>@string/command_raw_tap</item>
         <item>@string/command_to_previous_focus</item>
         <item>@string/command_to_next_focus</item>
-        <item>@string/command_start</item>
-        <item>@string/command_end</item>
-        <item>@string/command_left_shortcut</item>
-        <item>@string/command_right_shortcut</item>
         <item>@string/command_to_previous_scroll</item>
         <item>@string/command_to_next_scroll</item>
         <item>@string/command_to_previous_progress</item>
         <item>@string/command_to_next_progress</item>
+
+
         <item>@string/command_to_previous_section</item>
         <item>@string/command_to_next_section</item>
         <item>@string/command_to_previous_link</item>
         <item>@string/command_to_next_link</item>
         <item>@string/command_to_previous_control</item>
         <item>@string/command_to_next_control</item>
-        <item>@string/command_lower_volume</item>
-        <item>@string/command_raise_volume</item>
-        <item>@string/command_now_time</item>
-        <item>@string/command_timer_mode</item>
-        <item>@string/command_current_location</item>
-        <item>@string/command_virtual_screen</item>
-        <item>@string/command_verification</item>
-        <item>@string/command_gesture_help</item>
-        <item>@string/command_trans</item>
-        <item>@string/command_enable_dim_screen</item>
-        <item>@string/clipboard_menu_title</item>
-        <item>@string/favorites_menu_title</item>
-        <item>@string/input_method</item>
-        <item>@string/command_paste</item>
-        <item>@string/command_copy</item>
-        <item>@string/command_long_copy</item>
-        <item>@string/command_append_copy</item>
-        <item>@string/command_clean</item>
-        <item>@string/command_notification_box</item>
-        <item>@string/command_up_tap</item>
-        <item>@string/command_supper_mode</item>
-        <item>@string/command_tap_mode</item>
-        <item>@string/command_node_mode</item>
-        <item>@string/command_to_recents</item>
-        <item>@string/command_to_home</item>
-        <item>@string/command_to_back</item>
-        <item>@string/command_click</item>
-        <item>@string/command_long_click</item>
-        <item>@string/command_long_edit</item>
-        <item>@string/advanced_menu_title</item>
-        <item>@string/quick_menu_title</item>
-        <item>@string/action_menu_title</item>
-        <item>@string/main_menu</item>
-        <item>@string/command_read_mode</item>
-        <item>@string/command_verbatim_speak2</item>
-        <item>@string/char_mode</item>
-        <item>@string/command_auto_next</item>
-        <item>@string/auto_previous</item>
-        <item>@string/split_menu_title</item>
-        <item>@string/split_edit_title</item>
-        <item>@string/list_mode_title</item>
-        <item>@string/command_all_speak</item>
-        <item>@string/all_text_title</item>
-        <item>@string/command_all_select</item>
-        <item>@string/command_voice_helper</item>
-        <item>@string/command_voice_input</item>
-        <item>@string/plugin_title</item>
-        <item>@string/tool_title</item>
-        <item>@string/command_ocr_text</item>
-        <item>@string/command_ocr_focus</item>
-        <item>@string/camera_title</item>
-        <item>@string/main_setting</item>
-        <item>@string/command_disable_touch</item>
-        <item>@string/command_disable_feedback</item>
-        <item>@string/command_to_notifications</item>
-        <item>@string/command_gestures_edit</item>
-        <item>@string/command_virtual_navigation</item>
-        <item>@string/url_menu_title</item>
-        <item>@string/actions</item>
-
-        <item>@string/raw_click</item>
-        <item>@string/raw_long_click</item>
-        <item>@string/raw_swipe_left</item>
-        <item>@string/raw_swipe_right</item>
-        <item>@string/raw_swipe_up</item>
-        <item>@string/raw_swipe_down</item>
-        <item>@string/command_quick_settings</item>
-        <item>@string/command_take_screenshot</item>
-        <item>@string/command_off_screen2</item>
-        <item>@string/command_power_dialog</item>
-        <item>@string/command_raw_double_tap</item>
-        <item>@string/command_to_split_screen</item>
-        <item>@string/switch_multi_finger_gestures</item>
-
-        <item>@string/command_to_next_char</item>
         <item>@string/command_to_previous_char</item>
-        <item>@string/command_to_next_word</item>
+        <item>@string/command_to_next_char</item>
         <item>@string/command_to_previous_word</item>
-        <item>@string/command_to_next_row</item>
+        <item>@string/command_to_next_word</item>
         <item>@string/command_to_previous_row</item>
-        <item>@string/command_to_next_paragraph</item>
+        <item>@string/command_to_next_row</item>
         <item>@string/command_to_previous_paragraph</item>
-        <item>@string/command_to_head_set_key</item>
-        <item>@string/edit_dict</item>
-        <item>@string/command_toggle_tts_engine</item>
-        <item>@string/command_speak_light</item>
-        <item>@string/command_add_content_blacklist</item>
+        <item>@string/command_to_next_paragraph</item>
 
-        <item>@string/command_media_previous</item>
-        <item>@string/command_media_next</item>
-        <item>@string/command_previous_window</item>
-        <item>@string/command_next_window</item>
-        <item>@string/command_set_tts_engine</item>
-        <item>@string/profiles_title</item>
-        <item>@string/use_ocr_title</item>
-        <item>@string/command_disable_hotkey</item>
-        <item>@string/command_speak_time</item>
-        <item>@string/command_speak_net</item>
-        <item>@string/command_false_touch_prevention</item>
-        <item>@string/command_disable_main_tts</item>
-        <item>@string/command_disable_async_tts</item>
-        <item>@string/command_start_log</item>
-        <item>@string/command_virtual_table</item>
-        <item>@string/command_incall_mode</item>
-        <item>@string/command_edit_node_name</item>
-        <item>@string/command_pasue_timer</item>
-        <item>@string/command_show_input_method_picker</item>
-        <item>@string/command_raise_scr_volume</item>
-        <item>@string/command_lower_scr_volume</item>
-        <item>@string/command_speed_to_fast</item>
-        <item>@string/command_speed_to_slow</item>
-        <item>@string/command_speak_all_notification</item>
+
+       <item>@string/command_copy_to_cloud</item>
+        <item>@string/command_paste_from_cloud</item>
+        <item>@string/command_up_page</item>
+        <item>@string/command_down_page</item>
+        <item>@string/command_left_page</item>
+        <item>@string/command_right_page</item>
+
+        <!--item>极速浏览</item-->
+
     </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
@@ -460,179 +501,178 @@
         <item>Sueco</item>
         <item>Polaco</item>
         <item>Vietnamita</item>
-
-        <item>爱尔兰语</item>
-        <item>奥克语</item>
-        <item>阿尔巴尼亚语</item>
-        <item>阿肯语</item>
-        <item>阿拉贡语</item>
-        <item>阿姆哈拉语</item>
-        <item>阿萨姆语</item>
-        <item>艾马拉语</item>
-        <item>阿塞拜疆语</item>
-        <item>阿斯图里亚斯语</item>
-        <item>奥塞梯语</item>
-        <item>奥杰布瓦语</item>
-        <item>奥里亚语</item>
-        <item>奥罗莫语</item>
-        <item>波斯语</item>
-        <item>布列塔尼语</item>
-        <item>巴什基尔语</item>
-        <item>巴斯克语</item>
-        <item>巴西葡萄牙语</item>
-        <item>白俄罗斯语</item>
-        <item>柏柏尔语</item>
-        <item>邦板牙语</item>
-        <item>北方萨米语</item>
-        <item>北索托语</item>
-        <item>本巴语</item>
-        <item>比林语</item>
-        <item>比斯拉马语</item>
-        <item>俾路支语</item>
-        <item>冰岛语</item>
-        <item>波斯尼亚语</item>
-        <item>博杰普尔语</item>
-        <item>楚瓦什语</item>
-        <item>聪加语</item>
-        <item>鞑靼语</item>
-        <item>掸语</item>
-        <item>德顿语</item>
-        <item>迪维希语</item>
-        <item>低地德语</item>
-        <item>菲律宾语</item>
-        <item>梵语</item>
-        <item>弗留利语</item>
-        <item>富拉尼语</item>
-        <item>法罗语</item>
-        <item>盖尔语</item>
-        <item>刚果语</item>
-        <item>高地索布语</item>
-        <item>高棉语</item>
-        <item>格陵兰语</item>
-        <item>格鲁吉亚语</item>
-        <item>古吉拉特语</item>
-        <item>古希腊语</item>
-        <item>古英语</item>
-        <item>瓜拉尼语</item>
-        <item>胡帕语</item>
-        <item>哈卡钦语</item>
-        <item>海地语</item>
-        <item>豪萨语</item>
-        <item>黑山语</item>
-        <item>吉尔吉斯语</item>
-        <item>加利西亚语</item>
-        <item>加拿大法语</item>
-        <item>加泰罗尼亚语</item>
-        <item>卡拜尔语</item>
-        <item>卡纳达语</item>
-        <item>卡努里语</item>
-        <item>卡舒比语</item>
-        <item>康瓦尔语</item>
-        <item>科萨语</item>
-        <item>科西嘉语</item>
-        <item>克里克语</item>
-        <item>克里米亚鞑靼语</item>
-        <item>克林贡语</item>
-        <item>克罗地亚语</item>
-        <item>克丘亚语</item>
-        <item>克什米尔语</item>
-        <item>孔卡尼语</item>
-        <item>库尔德语</item>
-        <item>拉丁语</item>
-        <item>老挝语</item>
-        <item>拉特加莱语</item>
-        <item>拉脱维亚语</item>
-        <item>林堡语</item>
-        <item>林加拉语</item>
-        <item>卢干达语</item>
-        <item>卢森堡语</item>
-        <item>卢森尼亚语</item>
-        <item>卢旺达语</item>
-        <item>立陶宛语</item>
-        <item>罗曼什语</item>
-        <item>罗姆语</item>
-        <item>逻辑语</item>
-        <item>马来语</item>
-        <item>缅甸语</item>
-        <item>马拉地语</item>
-        <item>马拉加斯语</item>
-        <item>马拉雅拉姆语</item>
-        <item>马其顿语</item>
-        <item>马绍尔语</item>
-        <item>迈蒂利语</item>
-        <item>曼克斯语</item>
-        <item>毛里求斯克里奥尔语</item>
-        <item>毛利语</item>
-        <item>孟加拉语</item>
-        <item>马耳他语</item>
-        <item>苗语</item>
-        <item>挪威语</item>
-        <item>那不勒斯语</item>
-        <item>南恩德贝莱语</item>
-        <item>南非荷兰语</item>
-        <item>南索托语</item>
-        <item>尼泊尔语</item>
-        <item>旁遮普语</item>
-        <item>帕皮阿门托语</item>
-        <item>普什图语</item>
-        <item>齐切瓦语</item>
-        <item>契维语</item>
-        <item>切罗基语</item>
-        <item>萨丁尼亚语</item>
-        <item>萨摩亚语</item>
-        <item>塞尔维亚-克罗地亚语</item>
-        <item>塞尔维亚语</item>
-        <item>桑海语</item>
-        <item>僧伽罗语</item>
-        <item>世界语</item>
-        <item>书面挪威语</item>
-        <item>斯洛伐克语</item>
-        <item>斯瓦希里语</item>
-        <item>索马里语</item>
-        <item>塞尔维亚语（西里尔）</item>
-        <item>土耳其语</item>
-        <item>塔吉克语</item>
-        <item>泰米尔语</item>
-        <item>他加禄语</item>
-        <item>提格利尼亚语</item>
-        <item>泰卢固语</item>
-        <item>突尼斯阿拉伯语</item>
-        <item>土库曼语</item>
-        <item>乌克兰语</item>
-        <item>瓦隆语</item>
-        <item>威尔士语</item>
-        <item>文达语</item>
-        <item>沃洛夫语</item>
-        <item>乌尔都语</item>
-        <item>希伯来语</item>
-        <item>西弗里斯语</item>
-        <item>西里西亚语</item>
-        <item>希利盖农语</item>
-        <item>下索布语</item>
-        <item>夏威夷语</item>
-        <item>新挪威语</item>
-        <item>西非书面语</item>
-        <item>信德语</item>
-        <item>修纳语</item>
-        <item>宿务语</item>
-        <item>叙利亚语</item>
-        <item>巽他语</item>
-        <item>印地语</item>
-        <item>印尼语</item>
-        <item>意第绪语</item>
-        <item>因特语</item>
-        <item>亚齐语</item>
-        <item>印古什语</item>
-        <item>伊博语</item>
-        <item>伊多语</item>
-        <item>约鲁巴语</item>
-        <item>亚美尼亚语</item>
-        <item>伊努克提图特语</item>
-        <item>伊朗语</item>
-        <item>扎扎其语</item>
-        <item>中古法语</item>
-        <item>祖鲁语</item>
-        <item>爪哇语</item>
+        <item>Irlandés.</item>
+        <item>¿occitano</item>
+        <item>Albanés.</item>
+        <item>Idioma aken</item>
+        <item>Aragón.</item>
+        <item>Amhárico.</item>
+        <item>Assam.</item>
+        <item>Aymara.</item>
+        <item>Idioma azerbaiyano</item>
+        <item>Astoria.</item>
+        <item>Osetio.</item>
+        <item>O\' jebuseo</item>
+        <item>¡oh, Dios mío</item>
+        <item>Oromo.</item>
+        <item>Persa.</item>
+        <item>Bretón.</item>
+        <item>Bashkir.</item>
+        <item>Vasco.</item>
+        <item>Portugués brasileño</item>
+        <item>Bielorruso.</item>
+        <item>Bereber.</item>
+        <item>Bangbanya.</item>
+        <item>Sami del Norte</item>
+        <item>Sotto del Norte</item>
+        <item>Bemba.</item>
+        <item>¿en billings</item>
+        <item>Bislama.</item>
+        <item>Baluchi.</item>
+        <item>Islandés.</item>
+        <item>Bosnio.</item>
+        <item>Bojepur.</item>
+        <item>Chuvash.</item>
+        <item>Idioma conga</item>
+        <item>Tártaro.</item>
+        <item>Shan idioma</item>
+        <item>¿en Tetum</item>
+        <item>Di vichy</item>
+        <item>Alemán bajo</item>
+        <item>Filipino.</item>
+        <item>Sánscrito.</item>
+        <item>Friuli.</item>
+        <item>Fulani.</item>
+        <item>¿en francés</item>
+        <item>Gaélico.</item>
+        <item>Idioma congoleño</item>
+        <item>Alto sorabo</item>
+        <item>Khmer.</item>
+        <item>Groenlandés.</item>
+        <item>Georgiano.</item>
+        <item>Gujarat.</item>
+        <item>Griego antiguo</item>
+        <item>Inglés antiguo</item>
+        <item>Guaraní.</item>
+        <item>Hupa.</item>
+        <item>Kazakhin.</item>
+        <item>Haitiano.</item>
+        <item>Hausa.</item>
+        <item>Montenegrino.</item>
+        <item>Kirguís.</item>
+        <item>Gallego.</item>
+        <item>Francés canadiense</item>
+        <item>Catalán.</item>
+        <item>Kabir.</item>
+        <item>Kanada.</item>
+        <item>Kanuli.</item>
+        <item>Kashubi.</item>
+        <item>¿en cornualles</item>
+        <item>¿en kosa</item>
+        <item>Corso.</item>
+        <item>Crick.</item>
+        <item>Tártaro de Crimea</item>
+        <item>Klingon.</item>
+        <item>Croata.</item>
+        <item>Quechua.</item>
+        <item>Cachemir.</item>
+        <item>Koncani.</item>
+        <item>Kurdo.</item>
+        <item>Latín.</item>
+        <item>Idioma Lao</item>
+        <item>Latgale.</item>
+        <item>Letón.</item>
+        <item>Lingotes de limburgo</item>
+        <item>Lingala.</item>
+        <item>Idiomas oficiales de las naciones unidas</item>
+        <item>Luxemburgués.</item>
+        <item>Lusenya.</item>
+        <item>Idioma rwandés</item>
+        <item>Lituano.</item>
+        <item>Romanche.</item>
+        <item>Idioma romaní</item>
+        <item>Lenguaje lógico</item>
+        <item>Malayo.</item>
+        <item>Birmano.</item>
+        <item>Malayo.</item>
+        <item>Málagas.</item>
+        <item>Malayalam ( malayalam )</item>
+        <item>Macedonio.</item>
+        <item>Idioma de las islas Marshall</item>
+        <item>Maitland.</item>
+        <item>Manx.</item>
+        <item>Criollo mauriciano</item>
+        <item>Maorí.</item>
+        <item>Bengalí.</item>
+        <item>Maltés.</item>
+        <item>Miao.</item>
+        <item>Noruego.</item>
+        <item>Nápoles.</item>
+        <item>Ndebele del sur</item>
+        <item>Afrikaans</item>
+        <item>Southern sotto</item>
+        <item>Nepalés.</item>
+        <item>Punjab.</item>
+        <item>Papiamento.</item>
+        <item>Pashto.</item>
+        <item>Chicheva.</item>
+        <item>Chewie..</item>
+        <item>Cherokee.</item>
+        <item>Sardinia.</item>
+        <item>Samoano.</item>
+        <item>Serbio - croata</item>
+        <item>Serbio.</item>
+        <item>Sanghai.</item>
+        <item>Cingalés.</item>
+        <item>Esperanto.</item>
+        <item>Noruego por escrito</item>
+        <item>Eslovaco.</item>
+        <item>Swahili.</item>
+        <item>Somalí.</item>
+        <item>Serbio ( cirílico )</item>
+        <item>Turco.</item>
+        <item>Tayiko.</item>
+        <item>Tamil.</item>
+        <item>Botón tagalog</item>
+        <item>Tigliana.</item>
+        <item>Telugu.</item>
+        <item>árabe tunecino</item>
+        <item>Turcomano.</item>
+        <item>Ucraniano.</item>
+        <item>Valón.</item>
+        <item>Galés.</item>
+        <item>Texto del proyecto de resolución</item>
+        <item>Botón wolof</item>
+        <item>Urdu.</item>
+        <item>Hebreo.</item>
+        <item>Frisón occidental</item>
+        <item>Cirílico.</item>
+        <item>Idioma griego</item>
+        <item>En sorabo</item>
+        <item>Hawaiano.</item>
+        <item>Nuevo noruego</item>
+        <item>Idiomas escritos en áfrica occidental</item>
+        <item>¿en alemán</item>
+        <item>¿en sinaí</item>
+        <item>Idioma de cebú</item>
+        <item>Sirio.</item>
+        <item>Otros idiomas</item>
+        <item>Hindi.</item>
+        <item>Hindi.</item>
+        <item>Idiomas de trabajo: italiano</item>
+        <item>Idioma de internet</item>
+        <item>Botón Aceh</item>
+        <item>Idioma Ingushetia</item>
+        <item>Idioma Igbo</item>
+        <item>Multilingüismo en El Iraq</item>
+        <item>Yoruba.</item>
+        <item>Armenio.</item>
+        <item>Inuktitut.</item>
+        <item>Idioma iraní</item>
+        <item>Zazaki.</item>
+        <item>Botón francés medio</item>
+        <item>Zulú.</item>
+        <item>Java.</item>
     </string-array>
     <string-array name="lang_values">
         <item>auto</item>
@@ -938,29 +978,29 @@
         <item>Predeterminado</item>
         <item>Encabezados</item>
         <item>Enlaces</item>
-        <item>Botónes</item>
+        <item>Botones</item>
         <item>Puntos de referencia</item>
         <item>Cuadros de edición</item>
-        <item>Enfoque.</item>
-        <item>Control.</item>
+        <item>Enfoque</item>
+        <item>Controles</item>
         <item>Imágenes</item>
-        <item>Casillas de verificación.</item>
+        <item>Casillas de verificación</item>
         <item>Cuadros combinados</item>
         <item>Tablas</item>
         <item>listas</item>
         <item>Elementos de lista</item>
         <item>Desplazamiento</item>
-        <item>visión </item>
+        <item>todo tipo de contenido</item>
         <item>caracteres</item>
         <item>palabras</item>
-        <item>líneas</item>
+        <item>líneaz</item>
         <item>Párrafos</item>
         <item>páginas</item>
-        <item>Copiar y copiado adicional</item>
-        <item>Volumen multimedia</item>
-        <item>Velocidad del habla</item>
+        <item>copiar y copiar adicional</item>
+        <item>Volumen</item>
+        <item>Velocidad de la voz</item>
         <item>traducción y reconocimiento de texto</item>
-        <item>ventanas</item>
+        <item>Ventanas.</item>
     </string-array>
     <string-array name="hot_key_help_items">
         <item>CTRL+DPAD_UP: Último elemento</item>
@@ -985,29 +1025,29 @@
     </string-array>
     <string-array name="view_type_title">
         <item>predeterminado</item>
-        <item>Texto.</item>
-        <item>botón</item>
-        <item>Cuadro de edición</item>
-        <item>Imagen.</item>
-        <item>Casilla de verificación.</item>
+        <item>Texto</item>
+        <item>botones</item>
+        <item>Cuadros de edición</item>
+        <item>Imágenes.</item>
+        <item>Casillas de verificación.</item>
         <item>Barra de progreso</item>
-        <item>lista</item>
+        <item>listas</item>
         <item>Elementos de lista</item>
         <item>enfocable</item>
-        <item>clickeable</item>
+        <item>clickable</item>
         <item>Nodo.</item>
         <item>desplazamiento</item>
         <item>navegación vertical</item>
-        <item>Carácteres.</item>
-        <item>Palabras.</item>
-        <item>Líneas.</item>
-        <item>Párrafos.</item>
-        <item>páginas.</item>
-        <item>Copiar Y Copiado Adicional.</item>
-        <item>Volumen multimedia</item>
-        <item>velocidad del habla</item>
-        <item>Traducción y Reconocimiento de Texto</item>
-        <item>Ventanas</item>
+        <item>caracteres</item>
+        <item>palabras</item>
+        <item>líneas</item>
+        <item>Párrafos</item>
+        <item>páginas</item>
+        <item>Copiar y copiar adicional</item>
+        <item>Volumen.</item>
+        <item>Velocidad de la voz</item>
+        <item>traducción y reconocimiento de texto</item>
+        <item>Ventanas.</item>
     </string-array>
 
 
