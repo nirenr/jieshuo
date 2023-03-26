@@ -1,0 +1,749 @@
+<?xml phiên bản="1.0" mã hóa="utf-8"?>
+<tài nguyên>
+
+    <string-array name="help_items">
+        <mục>
+        Thao tác duyệt cơ bản:\n
+        Theo mặc định, thao tác vuốt lên sẽ điều hướng đến mục trước đó. Vuốt xuống để điều hướng đến mục tiếp theo.\n
+        Tuy nhiên, bạn có thể thay đổi hành vi này trong cài đặt hành động.</item>
+        <mục>
+Menu chính: \n
+        Theo mặc định, hãy vuốt xuống bên phải để mở trình đơn, vuốt sang phải để mở rộng các tùy chọn khác.\n
+        Bạn có thể hiển thị tất cả các mục menu cùng một lúc bằng cách tùy chỉnh nó trong phần cài đặt.</item>
+        <mục>
+        trợ lý giọng nói:\n
+        Theo mặc định, trợ lý giọng nói được kích hoạt bằng cử chỉ vuốt xuống bên trái và lệnh được nói sau âm thanh. Nhấn vào màn hình sẽ buộc nhận dạng ngay lập tức\n
+        Bạn có thể tùy chỉnh trợ lý giọng nói trong phần cài đặt nâng cao, cài đặt trợ lý giọng nói, cài đặt khả năng của trợ lý giọng nói.\n</item>
+        <mục>
+Menu hành động: \n
+        Theo mặc định, vuốt lên phải sẽ mở menu hành động, vuốt phải sẽ mở rộng menu và nhấn đúp để kích hoạt tùy chọn menu được đặt tiêu điểm.</item>
+        <mục>
+        Tiện ích mở rộng:\n
+        Theo mặc định, cử chỉ đầu tiên và cuối cùng bên trái được sử dụng để mở danh sách tiện ích mở rộng, sau đó trượt sang phải để mở danh sách lệnh thoại và nhấp đúp để thực thi chức năng tương ứng.\n
+        Bạn có thể tìm thấy nhiều plugin hơn trong phần tải xuống tài nguyên.\n
+        Cài đặt nâng cao, cài đặt trợ lý giọng nói, cài đặt lệnh thoại, mới, đã sửa đổi hoặc đã tải xuống</item>
+        <mục>
+        Sao chép, nối thêm bản sao, khay nhớ tạm và mục ưa thích:\n
+        Bạn có thể tìm thấy các chức năng này trong menu thao tác.\n
+        Sao chép, sao chép tiêu điểm vào khay nhớ tạm\n
+        Nối bản sao để nối nội dung tiêu điểm vào mục cuối cùng của bảng nhớ tạm,\n
+        Bảng nhớ tạm, ghi lại nội dung được sao chép gần đây nhất, nhấp để vào hộp chỉnh sửa, nhấn và giữ để thêm nội dung vào mục yêu thích\n
+        Yêu thích, nhấp để vào hộp chỉnh sửa, nhấn và giữ để chỉnh sửa,\n
+        Trong cài đặt nâng cao, quản lý tài nguyên có thể xóa hoặc sao lưu khay nhớ tạm và mục yêu thích</item>
+        <mục>
+        Bản sao dài (chỉ dành cho người dùng cao cấp):\n
+        Bản sao dài có thể sao chép nội dung danh sách dài.\n
+        Sau khi bản sao dài được kích hoạt trong menu hoạt động, bạn cần đợi thời gian khác nhau tùy theo độ dài của danh sách. Khi sao chép xong, bạn sẽ được nhắc hoàn thành bản sao dài.\n
+        Trong quá trình sao chép lâu, bạn có thể buộc hủy bỏ bằng cách vuốt bất kỳ cử chỉ nào.</item>
+        <mục>
+        Lựa chọn toàn văn (Chỉ người dùng cao cấp):\n
+        Lựa chọn toàn văn chủ yếu phù hợp để sao chép một số nội dung từ các trang web hoặc nội dung dài hơn.
+        Lựa chọn toàn văn có thể chia nội dung theo dạng từ, câu và phân đoạn, chọn nội dung cần thiết thông qua biểu mẫu hộp kiểm và cuối cùng là sao chép,\n
+        Trong danh sách nội dung, bạn có thể nhấn và giữ một mục làm điểm bắt đầu,rồi nhấn và giữ phần cuối của vùng chọn để chọn nhanh nhiều mục liên tiếp.</item>
+        <mục>
+        Chỉnh sửa nâng cao (chức năng thành viên):\n
+        Bạn có thể chỉnh sửa nội dung tiêu điểm theo từ, câu, đoạn văn hoặc toàn văn trong hộp chỉnh sửa hoặc hộp không chỉnh sửa để tạo điều kiện định vị và sửa đổi nhanh chóng.\n
+        Nhấp vào danh sách chỉnh sửa đã phân tách để chỉnh sửa danh sách đó, nhấn và giữ để mục nhập được phân chia chi tiết hơn.\n
+        Có thể nhấp vào hộp chỉnh sửa để vào hộp chỉnh sửa và hộp không chỉnh sửa chỉ có thể được lưu vào khay nhớ tạm bằng cách sao chép.</item>
+        <mục>
+        Duyệt danh sách:\n
+        Hiển thị tất cả tiêu điểm dưới dạng danh sách, nhấp để kích hoạt tiêu điểm tương ứng, đặc biệt thích hợp để sử dụng trên các trang web.</item>
+        <mục>
+        Chế độ đọc (chức năng thành viên):\n
+        Bạn có thể đọc các bài viết trên trang web do trình duyệt mở ra, lọc nội dung không mong muốn và lật trang tự động.</item>
+        <mục>
+        Màn hình ảo (chức năng thành viên):\n
+        OCR nhận dạng nội dung trên màn hình, hiển thị kết quả theo vị trí văn bản, nhấp vào văn bản kết quả để kích hoạt tiêu điểm tương ứng, nhấn và giữ từ để tách tiêu điểm và nhấp vào từ để kích hoạt vị trí của từ tương ứng. \N
+        Android 7 trở lên nhấp đúp để kích hoạt, Android 6 bên dưới nhấp ba lần để kích hoạt.</item>
+        <mục>
+        Nhận dạng văn bản (hàm thành viên):\n
+        Nội dung trên màn hình được OCR nhận dạng và kết quả được hiển thị dưới dạng danh sách và danh sách kết quả được nhấp để kích hoạt tiêu điểm tương ứng, nhấn lâu theo sau là kết quả hiển thị từ và một từ được kích hoạt để kích hoạt vị trí của từ tương ứng.\n
+        Thao tác nhấp chuột không được hỗ trợ trong Android 6 và chỉ có thể xem kết quả.</item>
+        <mục>
+        Nhận dạng hình ảnh xác thực (chức năng thành viên):\n
+        Chạm vào tiêu điểm mã xác minh, sử dụng menu nâng cao, nhận dạng mã xác minh hoặc trợ lý giọng nói, nhận dạng mã xác minh, có thể nhận dạng mã xác minh bằng tiếng Anh hoặc kỹ thuật số và kết quả nhận dạng sẽ tự động được sao chép vào khay nhớ tạm.</item>
+        <mục>
+        Máy ảnh Jieshuo (chức năng thành viên):\n
+        Máy ảnh có thể nhận dạng văn bản, cảnh, động vật, thực vật hoặc hướng dẫn máy ảnh. Máy ảnh hiện chỉ hỗ trợ camera sau, sử dụng âm lượng cộng với chế độ chụp, âm lượng trừ đi chế độ chuyển đổi.</item>
+        <mục>
+        Điều hướng nhanh giữa các mục trong danh sách:\n
+        Trong cài đặt thao tác, cài đặt cử chỉ phím tắt trái và phải cho phép cử chỉ trái và phải di chuyển nhanh trong danh sách, chẳng hạn như bạn có thể sử dụng cử chỉ trái hoặc phải để duyệt nhanh tin nhắn trong danh sách tin nhắn QQ.</item >
+        <mục>
+        Danh sách đen/trắng thông báo:\n
+        Danh sách đen thông báo có thể lọc ra các thông báo chứa nội dung được chỉ định,và nhập dấu hoa thị để lọc tất cả thông báo của ứng dụng.\n
+        Danh sách trắng thông báo có thể cho phép đọc thông báo chứa nội dung đã chỉ định, ngay cả khi thông báo đã bị đóng, việc nhập dấu hoa thị cho biết rằng tất cả thông báo cho chương trình đều được phép.\n
+        Từ khóa hỗ trợ biểu thức chính quy.</item>
+        <mục>
+        Danh sách đen nội dung:\n
+        Bạn có thể lọc nội dung tiêu điểm của nội dung đã chỉ định, thường được dùng để lọc một số hướng dẫn trợ năng không chuẩn.\n
+        Cụm từ thông dụng không được hỗ trợ dựa trên các cân nhắc về hiệu quả.</item>
+        <mục>
+        Lọc nội dung web (chức năng thành viên):\n
+        Lọc các chú thích hình ảnh vô dụng trên trang để lọc ra các hướng dẫn dài dòng và vô dụng trên trang.\n
+        Lọc mạnh hơn có thể lọc thêm nội dung không cần thiết không cần thiết.</item>
+        <mục>
+        Chế độ mạnh mẽ (chức năng thành viên):\n
+        Chế độ mạnh mẽ giúp bạn tập trung vào hoạt động hơn,\n
+        Nó được biết là mang lại trải nghiệm tốt hơn trong phần mềm như WeChat Sports, WeChat Friends Circle, Taobao Footprint, Huawei Router, v.v.</item>
+        <mục>
+        Điều hướng ảo (chức năng thành viên):\n
+        Điều hướng ảo có thể thêm vị trí của nội dung không thể nhấp trực tiếp vào danh sách điều hướng.\n
+        Vui lòng chỉ thêm tiêu điểm của vị trí không thay đổi, nhấp vào tên đầu vào tiêu điểm được nhận dạng trong phần nhận dạng, nhấp để thêm,\n
+        Chỉ hỗ trợ Android 7 trở lên.</item>
+        <mục>
+        Cử chỉ tùy chỉnh:\n
+        Bạn có thể tùy chỉnh mọi tính năng tích hợp hoặc mở rộng dưới dạng cử chỉ.\n
+        Nhanh chóng thay đổi cử chỉ bằng cách nhập gói cử chỉ.\n
+        Sau khi nhập cử chỉ, cử chỉ đó cần được đặt trong thao tác và chuyển đổi sơ đồ cử chỉ có thể có hiệu lực.\n
+        Nếu bạn không quen với các đề xuất thao tác trong cài đặt chung, hãy tùy chỉnh cử chỉ để sửa đổi cử chỉ.</item>
+        <mục>
+        Cử chỉ hai bước (chức năng thành viên):\n
+        Cử chỉ hai bước là thao tác thực hiện nhanh cử chỉ thứ hai sau khi hoàn thành thao tác cử chỉ truyền thống.\n
+        Bạn có thể bật hoặc tùy chỉnh tính năng này trong cài đặt hành động, cử chỉ hai bước,\n
+        Sau khi bật cử chỉ hai bước, sẽ có một khoảng thời gian trễ nửa giây sau khi thao tác cử chỉ đầu tiên hoàn tất để đợi bước thứ hai.\n
+        Không đặt các cử chỉ yêu cầu tính hiệu quả, chẳng hạn như cử chỉ di chuyển tiêu điểm, sử dụng cử chỉ hai bước.</item>
+        <mục>
+        Ghi lại khẩu lệnh:\n
+        Bắt đầu trợ lý giọng nói để nói lệnh ghi âm, lần lượt nói chương trình sẽ được mở hoặc nhấp vào phím tiêu điểm để thực hiện sản xuất lệnh thoại nhanh chóng. Khi tất cả các hướng dẫn đã hoàn thành, hãy nói để kết thúc ghi âm, sau lời nhắc nhập tên của lệnh, hãy nói tên của lệnh và cuối cùng nói xác định.\N
+        Nếu có một hướng dẫn không được nhận dạng trong quá trình ghi âm, bạn có thể nói lại hướng dẫn đó.
+        Bạn có thể thay đổi các lệnh đã ghi trong Cài đặt nâng cao, Cài đặt trợ lý giọng nói, Cài đặt lệnh thoại.</item>
+
+    </string-mảng>
+
+    <string-array name="code_help_items">
+        <mục>
+        解说多功能手势和插件以lua语法配合解说专有API实现一个手势多个功能。\n
+        如果对lua和androlua比较熟悉，还可以实现更多功能，本文档只讲述专API部分。
+        </mục>
+        <mục>
+        基本概念，\n
+        dịch vụ，辅助功能服务，是这个读屏服务的核心，各个功能都是以这个服务为核心。
+        </mục>
+        <mục>
+        参数类型说明，\n
+        node，当前焦点，也就是当前获得辅助功能焦点的节点，一般操作都是针对这个焦点的。\n
+        bool，布尔值，true hoặc false。\n
+        văn bản，文字内容。
+        </mục>
+        <mục>
+        return，返回，通知读屏你是否希望读屏执行该手势的默认操作。\n
+        Đúng 则 该 ， false 返回 上 层 执行 ， 在 手势 返回 返回 false
+        </mục>
+        <mục>
+        常用命令，\n
+        service.execute("命令",node)\n
+        Điều đó có nghĩa là bạn có thể nói đúng, nói sai.
+        </mục>
+        <mục>
+        service.postExecute(时间,"命令",node)\n
+        延时执行命令，
+        </mục>
+        <mục>
+        text=service.getText(nút)\n
+        获取指定节的文字信息。
+        </mục>
+        <mục>
+        service.setText(nút,văn bản)\n
+        设置指定焦点输入框文字内容。
+        </mục>
+        <mục>
+        service.setText(văn bản)\n
+        设置当前界面焦点输入框文字内容。
+        </mục>
+        <mục>
+        dịch vụ.copy()\n
+        复制当前焦点的文字内容到剪切板。
+        </mục>
+        <mục>
+        service.appendCopy()\n
+        追加复制当前焦的文字内容到剪切板。
+        </mục>
+        <mục>
+        service.copy(văn bản)\n
+        复制指定的文字内容到剪切板。
+        </mục>
+        <mục>
+        service.appendCopy(văn bản)\n
+        追加复制指定的文字内容到剪切板。
+        </mục>
+        <mục>
+        dịch vụ.paste()\n
+        将剪切板内容粘贴到当前界面的输入框。
+        </mục>
+        <mục>
+        service.paste(nút)\n
+        将剪切板内容粘贴到指定的输入框。
+        </mục>
+        <mục>
+        dịch vụ.toNext()\n
+        下一个焦点。
+        </mục>
+        <mục>
+        service.toNext(nút,bool)\n
+        指定节点下一个焦点，bool为true查找子节点，为false不查找子节点。
+        </mục>
+        <mục>
+        dịch vụ.toPrevious()\n
+        上一个焦点。
+        </mục>
+        <mục>
+        service.toPrevious(nút,bool)\n
+        指定节点上一个焦点，bool为true查找子节点，为false不查找子节点。
+        </mục>
+        <mục>
+        dịch vụ.toNextChar()\n
+        下一个字符。
+        </mục>
+        <mục>
+        service.toPreviousChar()\n
+        上一个字符。
+        </mục>
+        <mục>
+        service.toNextLine()\n
+        下一行。
+        </mục>
+        <mục>
+        service.toPreviousLine()\n
+        上一行。
+        </mục>
+        <mục>
+        service.toTextStart()\n
+        到文字开头。
+        </mục>
+        <mục>
+        service.toTextEnd()\n
+        到文字结尾。
+        </mục>
+        <mục>
+        service.toListViewStart()\n
+        到列表开头。
+        </mục>
+        <mục>
+        service.toListViewEnd()\n
+        到列表结尾。
+        </mục>
+        <mục>
+        dịch vụ.getRootNodeInfo()\n
+        获取根节点。
+        </mục>
+        <mục>
+        service.ocr(nút)\n
+        文字识别指定节点，仅会员可用。
+        </mục>
+        <mục>
+        service.setTimerMode(bool)\n
+        开启或关闭计时器模式，bool为true开启，false为关闭。
+        </mục>
+        <mục>
+        service.setAutoReadEnabled(bool)\n
+        开启或关闭阅读模式，bool为true开启，false为关闭。
+        </mục>
+        <mục>
+        service.setAutoNext(bool)\n
+        开启或关闭自动浏览模式，bool为true开启，false为关闭。
+        </mục>
+        <mục>
+        bool=service.isEditView(nút)\n
+        判断当前节点是否为编辑框。
+        </mục>
+        <mục>
+        bool=service.isSeekBar(nút)\n
+        判断当前节点是否为进度滑块。
+        </mục>
+        <mục>
+        bool=service.isListView(nút)\n
+        判断当前节点是否为列表。
+        </mục>
+        <mục>
+        bool=service.isInListView(nút)\n
+        判断当前节点是否在列表中。
+        </mục>
+        <mục>
+        bool=service.isInWebView(nút)\n
+        判断当前节点是否在网页中。
+        </mục>
+        <mục>
+        bool=service.isClick(nút)\n
+        判断当前节点是否可以点击。
+        </mục>
+        <mục>
+        dịch vụ.toClick()\n
+        点击当前焦点，在安卓7以上优先使用模拟手点击焦点。
+        </mục>
+        <mục>
+        service.toClick(nút)\n
+        点击指定节点。
+        </mục>
+        <mục>
+        service.toLongClick()\n
+        长当前焦点。
+        </mục>
+        <mục>
+        service.toLongClick(nút)\n
+        长按指定节点。
+        </mục>
+        <mục>
+        dịch vụ.toBack()\n
+        返回。
+        </mục>
+        <mục>
+        dịch vụ.toHome()\n
+        返回主屏幕。
+        </mục>
+        <mục>
+        service.toNotification()\n
+        打开通知栏。
+        </mục>
+        <mục>
+        service.toParent()\n
+        打开最近任务列表。
+        </mục>
+        <mục>
+        service.scrollBackward(nút)\n
+        向后滚动。
+        </mục>
+        <mục>
+        service.scrollForward(nút)\n
+        向前滚动。
+        </mục>
+        <mục>
+        service.loadGesturePackage(name)\n
+        载入手势方案。
+        </mục>
+        <mục>
+        service.click(x,y)\n
+        模拟人手点击屏幕指定位置，仅安卓7以上可用。
+        </mục>
+        <mục>
+        service.longClick(x,y)\n
+        模拟人手长按屏幕指定位置，仅安卓7以上可用。
+        </mục>
+        <mục>
+        service.press(x,y,t)\n
+        模拟人手在屏幕指定位置按住指定时间，仅安卓7以上可用。
+        </mục>
+        <mục>
+        service.swipe(x1,y1,x2,y2,t)\n
+        模式人手从一个位置用指定时间滑动到另一个位置，仅安卓7以上可用。
+        </mục>
+        <mục>
+        代码控制语句。
+        </mục>
+        <mục>
+        nếu 条件 thì
+        要执行的代码\n
+        kết thúc\n
+        满足指定条件执行中间的代码。\n
+        如，\n
+        nếu service.isEditView(nút) thì
+          service.execute("拆分编辑",node)\n
+        trả về true\n
+        kết thúc\n
+        这句代码意思是，当焦点为编辑框时打开拆分编辑。
+        </mục>
+        <mục>
+        for n=1,重复次数 do\n
+        要执行代码\n
+        kết thúc\n
+        重复指定代码一定次数\n
+        如，\n
+        cho n=1,10 làm\n
+        dịch vụ.toBack()\n
+        kết thúc\n
+        重复返回10次。
+        </mục>
+        <mục>
+        定义函数，\N
+        chức năng 函数名称(参数)\n
+        函数代码\n
+        kết thúc
+        </mục>
+        <mục>
+        函数是代码的功能块，可以有效的重复利用代码。\n
+        如，下边是一个向列表添加数据的函数，在手势代码中，可以用于向一个列表添加重复的代码、、、
+        hàm append(t1,t2)\n
+        cho k,v trong ipairs(t2) do\n
+        table.insert(t1,v)\n
+        kết thúc\n
+        kết thúc\n
+        点击列表={}\n
+        按钮列表={"%点击","%返回"}\n
+        cho n=1,10 làm\n
+        append(点击列表,按钮列表)\n
+        kết thúc\n
+        向点击列表重复添加10按钮列表的内容。
+        </mục>
+        <mục>
+        chức năng 滑动()\n
+        service.swipe(500,300,500,1000,1000)\n
+        trả về true\n
+        kết thúc\n
+        模拟手在屏幕上滑动，可以在手势代码中使用，\n
+        service.click({{">微信","%滑动"}})\n
+        打开微信模拟在屏幕从上向下滑动。
+        </mục>
+        <mục>
+        自动点击，\n
+        service.click({按钮列表})\n
+        自动依次查找点击按钮列表的按钮，\n
+        按钮名称支持一些符号进行通配，\n
+        如前面加#(井号)，表示搜索的是自定义标签，\n
+        前边或后边加*(星号)表示前边或后边还有其他字符，\n
+        后边加#(井号)表示按钮次序，\n
+        后边加@(圈a)表示只在某一个程序查找，\n
+        加$(美元)表示执行完成后延时。\n
+        参数支持多个表，按顺序查找，\n
+        如果查找成功返回true，失败返回false。\n
+        完整说明见后边，
+        </mục>
+        <mục>
+        延时点击，\n
+        service.postClick(时间,{按钮列表})\n
+        延时一定时间执行点击，时间单位为毫秒，按钮列表定义与click相同，\n
+        没有返回值。
+        </mục>
+        <mục>
+        service.plugin("插件名称",nút)\n
+        执行一个插件，\n
+        返回插件自定义返回的值。
+        </mục>
+        <mục>
+        解说手势以自动点击最为灵活，基础形式是
+        </mục>
+        <mục>
+        按钮列表={}\n
+        service.click(按钮列表)\n
+        trả về đúng
+        </mục>
+        <mục>
+        下边两行是固定的，自己只需要修改按钮列表即可，\n
+        按钮列表格式是用英文花括号或者叫大括号括起来的一些按钮名称和符号组成，
+        </mục>
+        <mục>
+        最简单的例子，
+        </mục>
+        <mục>
+        按钮列表={"确定"}\n
+        service.click(按钮列表)\n
+        trả về đúng
+        </mục>
+        <mục>
+        这个代码就能点击屏幕上的确定按钮，
+        </mục>
+        <mục>
+        按钮列表={\n
+        "确定",\n
+        "成"\n
+        }
+        service.click(按钮列表)\n
+        trả về đúng
+        </mục>
+        <mục>
+        这 这 ， 这 ， ， ， ， ， ， ， 依 依 依 依 依
+        </mục>
+        <mục>
+        有时候我们需要连续点击一系列按钮实现一些功能，这也是自动的优势，
+        </mục>
+        <mục>
+        按钮列表={\n
+        {"群资料卡","文件"}\n
+        }
+        service.click(按钮列表)\n
+        trả về đúng
+        </mục>
+        <mục>
+        这是二级花括号，在二级花括号中的按钮会被依次点击，直到某一个按钮不存在停止，
+        </mục>
+        <mục>
+        在花括号中嵌套括号可以实现连续点击，
+        </mục>
+        <mục>
+        在按钮列表中我们用一些符号来增强功能，
+        </mục>
+        <mục>
+        最常用的是 * 星号，英文星号，这个符号在按钮文字的前后，表示可以有其它内容
+        </mục>
+        <mục>
+        比如 ， ， ， ， ， ， ， ， 会 会 有 有 有 有 有 有 有 条 条 ， ， ， ， ， ， ， ， ， ，
+        </mục>
+        <mục>
+        解说读屏交流群*
+        </mục>
+        <mục>
+        # 井号，表示第几个结果，有时候一个界面有很多个名字一样的按钮，这时候需要用井号来说凘砬
+        </mục>
+        <mục>
+        如，确定#1，表示第一个，也可以是负数，如确定#-1，表示最后一个。
+        </mục>
+        <mục>
+        这个 这个 这个 这个 按钮 ， ， ， ， ， ， ， ， ， ， ， ， ， ， ， ， ， ， ， ， ， ， ， ， ，并使用标签查找，
+        </mục>
+        <mục>
+        符号中英文竖线|，表示或，也就是如果有竖线前边的点击前边的，没有就点击后边的，\n
+        就拿刚才确定和完成的例子，可以简写为，\n
+        确定|完成\n
+        点击确定或者完成，
+        </mục>
+        <mục>
+        & 表示和，也就是只有有&符号后边内容的界面，才点击前边内容的按钮，
+        </mục>
+        <mục>
+        确定&*退出*\n
+        表示，只有这个界面有退出字样，比如确定退出吗，才点击确定，而没有退出两个字就不执行，
+        </mục>
+        <mục>
+        &后边加叹号加关键字表示不包含后边内容时执行，\n
+        确定&!*退出*\n
+        表示，只有这个界面没有退出字样时，才点击确定，而有退出两个字就不执行,和上一个情况相
+        </mục>
+        <mục>
+        &符号在前表示检查当前焦点类型，\n
+        &可编辑\n
+        &可点击\n
+        &列表\n
+        &列表项目\n
+        &编辑框\n
+        这个编辑框是弹出输入法的编辑框,
+        </mục>
+        <mục>
+        $美元符号，这个符号在文字后边表示点击该按钮后等待多长时间，执行下一步操作，
+        </mục>
+        <mục>
+        "群资料卡$2000","文件"\n
+        表示点击群资料卡卡后2秒点击文件，
+        </mục>
+        <mục>
+        < 小于号，在后边表示重复执行，重复点击按钮多少次，\n
+        如
+        下一曲<10\n
+        就重复点击下一曲十次，
+        </mục>
+        <mục>
+        小于号在前边表示只定位，不点击。\n
+        <确定\n
+        找到确定但是不点击。
+        </mục>
+        <mục>
+        > 大于号，大于号在后边表示，等待次数符，\n
+        "群资料卡","文件>10"\n
+        手机 反应 ， ， ， ， ， ， ， ， ， ， ， ， ， 卡 卡 后 ， ， ， ， ， ，
+        </mục>
+        <mục>
+        在开头的大于号可以打开程序，\n
+        >微信\n
+        打开微信，\n
+        >QQ\n
+        打开QQ，
+        </mục>
+        <mục>
+        还有一些扩展符号，可以执行其它功能，\n
+        % 可以执行一些常用指令，\n
+        比如，\n
+        %复制\n
+        可以复制，\n
+        %全文朗读\n
+        可以全屏朗读，
+        </mục>
+        <mục>
+        %还可以执行脚本中指定的函数，函数返回true表示继续执行，false停止继续执行，
+        </mục>
+        <mục>
+        [] 方括号 的 表示 ， ， ， ， ， ， ， \ \ \ \ \
+        [播放]\n
+        模拟直接点击播放按钮，\n
+        [%点击]\n
+        模拟直接点击当前焦点
+        </mục>
+        <mục>
+        [x,y]方括号包含两个数字表示模拟点击指定位置，可以用整数表示绝对位置，或者用小数表示佯示n
+        [300,500]\n
+        模拟点击从左算300像素，从上算500像素的位置，\n
+        [0.3,0.5]\n
+        模拟点击从左算 0.3 个屏幕宽度，从上算 0.5 个屏幕高度的位置，
+        </mục>
+        <mục>
+        [x, y, t] 方括号 个 数字 表示 ， ， ， ， ， ， 意思 意思 上 上 一 ， ， ， ， ， ， ，
+        [300,500,1000]\n
+        模拟点击从左算 300 像素，从上算 500 像素的位置，持续 1000 毫秒
+        </mục>
+        <mục>
+        [x1, y1, x2, y2, t] 方括号 五 个 表示 指定 时间 从 x1 ， y1 滑动 x2, y2 位置 ， 可以 整数 绝对 ， ， 用 用
+        [300.500.300.800.1000]\n
+        模拟从左算 300 像素，从上算 500 像素的位置，用 1000 毫秒时间滑动到 300.800 的位置，
+        </mục>
+        <mục>
+        模拟滑动还可可以指定滑动次数\n
+        [300.500.300.800.1000.10]\n
+        模拟从左算 300 像素，从上算 500 像素的位置，用 1000 毫秒时间滑动到 300.800 的位置，10 次,
+        </mục>
+        <mục>
+        在手势执行中有时会有一些不同情况出现，比如打开QQ，点击解说读屏交流群，点击群资料卡［n，点击群资料升［
+        如果有群公告，会在点击群资料卡那一步卡住，不能执行，\n
+        这时需要分支代码来执行这些突发情况，\n
+        我只是手写例子，可能会有错字导致不能执行，理解意思就可以了，
+        </mục>
+        <mục>
+        按钮列表={\n
+        {
+            ">QQ",\n
+        "解说读屏交流群*",\n
+        {
+              "我已阅读群公告| 我知道了"\n
+        },\N
+        "群资料卡",\N
+        "文件"\n
+        }
+        }
+        </mục>
+        <mục>
+        因为QQ版本不同，确定群公告按钮也不一样，\n
+        可以 ， ， ， ， ， ， ， ， ， ， ， ， ， ， \ \ \ \ \ \
+        如果分支中有复杂操作，或者多种场景，我们还可以套入多个括号，
+        </mục>
+        <mục>
+        按钮列表={\n
+        {
+            ">QQ",\n
+        "解说读屏交流群*",\n
+        {
+             { "我已阅读群公告","确定"},\n
+        { "我知道了","确定"},\n
+        },\N
+        "群资料卡",\n
+        "文件"\n
+        }
+        }
+        </item>502
+    </string-mảng>
+
+    <string-array name="cử chỉ_help_items">
+        <mục>
+        Thông tin cơ bản về thao tác bằng cử chỉ:\n
+        Các cử chỉ đơn lẻ phải thẳng và chuyển động phải nhanh\n
+        Phần đầu tiên của cử chỉ kết hợp phải dài hơn một nửa chiều dài của màn hình và phần thứ hai có thể được định hướng miễn là đúng.</item>
+        <mục>
+        Cử chỉ kết hợp:\n
+        Đầu tiên lên, xuống, tiêu điểm cuối cùng\n
+        Đầu tiên xuống, đầu tiên, tập trung đầu tiên\n
+        Chuyển đổi tác vụ trái và phải đầu tiên\n
+        Phải, rồi trái, quay lại\n
+        Menu thao tác lên đầu tiên rồi sang phải\n
+        Đầu tiên bên phải và sau đó là menu chức năng bên phải\n
+        Đầu tiên, sau đó sang trái, tiện ích mở rộng\n
+        Đầu tiên, sau đó sang trái, trợ lý giọng nói\n
+        Đầu tiên sang trái, sau đó sang trái, từng chữ\n
+        Ngay đầu tiên, sau đó phía trên, tự động đọc to\n
+        Đầu tiên sang trái rồi mở thanh thông báo\n
+        Đầu tiên bên phải, sau đó xuống dưới cùng, duyệt qua danh sách\n
+        Nhấp chuột lên hai lần để duyệt qua\n
+        Hai lần vuốt xuống
+        </mục>
+        <mục>
+        Nhấp vào cử chỉ chế độ duyệt:\n
+        Nhấp để chuyển tiêu điểm\n
+        Chế độ duyệt lên\n
+        Chế độ duyệt xuống
+        </mục>
+        <mục>
+        Cử chỉ chế độ duyệt tập trung:\n
+        Lên một tiêu điểm\n
+        Xuống tiêu điểm tiếp theo
+        </mục>
+        <mục>
+        Cuộc gọi QQ WeChat\n
+        Từ chối bằng thao tác vuốt trái\n
+        Trả lời bằng thao tác vuốt phải
+        </mục>
+        <mục>
+        Điện thoại Cuộc gọi QQ WeChat\n
+        Gác máy bên trái\n
+        trả lời đúng
+        </mục>
+        <mục>
+        Liệt kê\n
+        Trang phía trên bên trái\n
+        Lật phải xuống dưới cùng
+        </mục>
+        <mục>
+        Hộp thoại\n
+        Hủy bên trái\n
+        được rồi đúng không
+        </mục>
+        <mục>
+        Thanh trượt tiến trình\n
+Vuốt sang trái để giảm thanh trượt\n
+        Vuốt sang phải để tăng thanh trượt
+        </mục>
+        <mục>
+        hộp chỉnh sửa\n
+        Di chuyển con trỏ về phía trước\n
+        Di chuyển con trỏ về phía sau
+        </mục>
+        <mục>
+        Thao tác chế độ duyệt từng từ:\n
+        Nhấp để giải thích ký tự hiện tại\n
+        Lên một hàng lên\n
+        Xuống một dòng\n
+        Rời ký tự trước\n
+        Ngay ký tự tiếp theo\n
+        Đầu tiên bên trái, cuối cùng, đoạn cuối cùng\n
+        Đầu tiên bên phải, rồi tiếp theo, đoạn tiếp theo\n
+        Đầu tiên, sau đó sang phải, chọn văn bản\n
+        Trái trước, sau đó trái,thoát theo nghĩa đen
+        </mục>
+        <mục>
+        Cử chỉ chọn văn bản: \n
+        Nhấn một lần: đọc ký tự hiện tại.\n
+        Vuốt lên: Chuyển đến dòng trước đó.\n
+        Vuốt xuống: Chuyển đến dòng tiếp theo.\n
+        Vuốt sang trái: Đi tới ký tự trước đó.\n
+        Vuốt sang phải: Chuyển đến ký tự tiếp theo.\n
+        Vuốt sang trái: Chuyển đến đoạn trước.\n
+        Vuốt lên phải: Đi tới đoạn tiếp theo.\n
+        Vuốt lên bên phải: Bỏ chọn tất cả.\n
+        Vuốt xuống bên phải: Sao chép lựa chọn.\n
+        Vuốt lên bên trái: Nối thêm bản sao.\n
+        Vuốt xuống phải: sao chép toàn bộ văn bản.
+        </mục>
+        <mục>
+        Cử chỉ chế độ duyệt nút
+        Vuốt lên: chuyển đến nút trước đó.\n
+        Vuốt xuống: Đi tới nút tiếp theo.\n
+        Vuốt sang trái: chuyển đến nút chính.\n
+        Vuốt sang phải: Chuyển đến nút con.\n
+        Vuốt xuống bên trái: thoát khỏi nút.
+        </mục>
+        <mục>
+        Hướng dẫn sử dụng trợ lý giọng nói: \n
+        Open AppName: Mở ứng dụng đã cho
+        Gửi nội dung: cho phép gửi trực tiếp tới QQ và Wechat
+        Tìm kiếm nội dung: thực hiện tìm kiếm trực tuyến cho cụm từ đã cho
+        Trợ lý giọng nói có thể mở rộng nhờ các menu và plugin chỉnh sửa.
+        </mục>
+    </string-mảng>
+    <string-array name="voice_helper_help_items">
+        <item>Mở chương trình đã cho: Mở tên ứng dụng</item>
+        <item>Cài đặt chương trình đã cho: cài đặt Tên ứng dụng</item>
+        <item>Gỡ cài đặt chương trình đã cho: gỡ cài đặt Tên ứng dụng</item>
+        <item>Đọc mọi thứ: Đọc toàn bộ màn hình</item>
+        <item>Đọc to: đọc to và theo con trỏ</item>
+        <item>Độ sáng hiện tại: đọc độ sáng của môi trường.</item>
+        <item>Nhấp chuột: kích hoạt phần tử tiêu điểm.</item>
+        <item>Kích hoạt mục được chỉ định: kích hoạt mục có tên được chỉ định</item>
+        <item>Sao chép mục hiện được tập trung: Sao chép mục hiện được tập trung vào khay nhớ tạm</item>
+        <item>Dịch: Dịch văn bản hiện được đặt tiêu điểm.</item>
+        <item>Translate LanguageName: Dịch văn bản hiện đang tập trung sang một ngôn ngữ nhất định</item>
+        <item>Select: Chọn văn bản đã cho</item>
+        <item>Gửi tin nhắn trong cửa sổ trò chuyện qq WeChat: Xin chào gửi</item>
+        <item>ENter Text: Nhập văn bản nói vào hộp văn bản</item>
+        <item>Nhập dài: Chế độ đọc chính tả dài</item>
+        <item>Kiểm tra thời tiết: kiểm tra thời tiết</item>
+        <item>Kiểm tra vé: kiểm tra vé tàu.</item>
+        <item>Nói công thức: kiểm tra công thức cho một món ăn nhất định.</item>
+        <item>Kể chuyện cười: kể một câu chuyện cười ngẫu nhiên</item>
+        <item>Sao chép phản hồi: sao chép phản hồi của một lệnh đã cho.</item>
+        <item>Còn nhiều tính năng khác đang chờ bạn khám phá.</item>
+
+    </string-mảng>
+
+</tài nguyên>
