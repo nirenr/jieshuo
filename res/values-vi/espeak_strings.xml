@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--
+        Source: Activity title.
+        Description: Title for the Settings activity.
+    -->
+  <string name="tts_settings_label">Cài đặt eSpeak TTS</string>
+  <!--
+        Source: Preference title.
+        Description: Title for the preference that controls default voice pitch.
+    -->
+  <string name="setting_default_pitch">Cao độ</string>
+  <!--
+        Source: Preference title.
+        Description: Title for the preference that controls default speech rate.
+    -->
+  <string name="setting_default_rate">Tốc độ</string>
+  <!--
+        Source: Dialog text.
+        Description: Status message shown when installing voice data.
+    -->
+  <string name="installing_voice_data">Cài đặt dữ liệu giọng nói…</string>
+  <!--
+        Source: Dialog message.
+        Description: Alert dialog prompting the user to set eSpeak as their default TTS engine.
+    -->
+  <string name="set_default_message">eSpeak không được đặt làm công cụ chuyển văn bản thành giọng nói mặc định của bạn.</string>
+  <!--
+        Source: Dialog message.
+        Description: Alert dialog telling the user that voice data installation failed.
+    -->
+  <string name="voice_data_failed_message">eSpeak không cài được dữ liệu giọng nói. Vui lòng kiểm tra thẻ SD của bạn.</string>
+  <!--
+        Source: Dialog message.
+        Description: Alert dialog telling the user that an unknown error has occurred.
+    -->
+  <string name="error_message">Rất tiếc, eSpeak không khởi động được.</string>
+  <!--
+        Source: Label text.
+        Description: Label informing the user of the current text-to-speech language.
+    -->
+  <string name="current_tts_locale">giọng nói mặc định</string>
+  <!--
+        Source: Label text.
+        Description: Label informing the user of how many voices are installed.
+    -->
+  <string name="available_voices">Giọng nói đã cài đặt</string>
+  <!--
+        Source: Button label.
+        Description: Button for launching eSpeak-specific settings.
+    -->
+  <string name="engine_settings">Cài đặt eSpeak TTS</string>
+  <!--
+        Source: Label text.
+        Description: Label informing the user that eSpeak is loading resources.
+    -->
+  <string name="loading">Đang Tải vui lòng đợi…</string>
+  <!--
+        Source: Spoken aloud.
+        Description: Sample text spoken aloud when the user is trying out a language.
+    -->
+  <string name="sample_text">Đây là một mẫu văn bản được nói trong %s</string>
+  <string name="status">Trạng thái</string>
+  <string name="tts_version">phiên bản eSpeak</string>
+  <string name="speak">Nói</string>
+  <string name="ssml">Tải mẫu SSML</string>
+  <string name="synthesis_demo">Nhập văn bản để nói:</string>
+  <string name="espeak_volume">Âm lượng</string>
+  <string name="formatter_wpm">%s WPM</string>
+  <string name="formatter_percentage">%s%%</string>
+  <string name="resetToDefault">Đặt về mặc định</string>
+  <string name="espeak_pitch_range">Biến thể cao độ</string>
+  <string name="espeak_variant">biến thể giọng nói</string>
+  <string name="espeak_speak_punctuation">nói dấu chấm câu</string>
+  <string name="punctuation_all">Tất cả</string>
+  <string name="punctuation_custom">Tùy chỉnh</string>
+  <string name="punctuation_custom_fmt">Tùy chỉnh: %s</string>
+  <string name="punctuation_none">Không</string>
+  <string name="punctuation_characters">ký tự chấm câu</string>
+  <string name="category">Loại</string>
+  <string name="variant">Biến thể</string>
+  <string name="variant_male">Nam</string>
+  <string name="variant_female">Nữ</string>
+  <string name="variant_default">Mặc định</string>
+  <string name="variant_n">Biến thể %d</string>
+  <string name="variant_young">Trẻ</string>
+  <string name="variant_old">Già</string>
+  <string name="variant_croak">tiếng kêu</string>
+  <string name="variant_whisper">Thì thầm</string>
+  <string name="import_voice_title">Nhập từ điển eSpeak</string>
+  <string name="import_voice_description">Nhập tệp từ điển giọng nói eSpeak từ thẻ SD.</string>
+</resources>

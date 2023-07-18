@@ -361,8 +361,6 @@ file
         <item>@string/directory_cmd</item>
         <item>@string/directory_tools</item>
         <item>@string/app</item>
-
-        <!--重要功能ok-->
         <item>@string/profiles_title</item>
         <item>@string/plugin_title</item>
         <item>@string/tool_title</item>
@@ -373,8 +371,6 @@ file
         <item>@string/main_setting</item>
         <item>@string/command_start_log</item>
         <item>@string/command_gesture_help</item>
-
-        <!--功能开关ok-->
         <item>@string/command_disable_touch</item>
         <item>@string/command_disable_feedback</item>
         <item>@string/command_disable_hotkey</item>
@@ -385,8 +381,6 @@ file
         <item>@string/command_disable_async_tts</item>
         <item>@string/command_incall_mode</item>
         <item>@string/switch_multi_finger_gestures</item>
-
-        <!--语音操作ok-->
         <item>@string/command_set_tts_engine</item>
         <item>@string/command_toggle_tts_engine</item>
         <item>@string/command_raise_scr_volume</item>
@@ -397,9 +391,6 @@ file
         <item>@string/command_lower_volume</item>
         <item>@string/command_voice_helper</item>
         <item>@string/command_voice_input</item>
-
-
-        <!--焦点操作ok-->
         <item>@string/actions</item>
         <item>@string/url_menu_title</item>
         <item>@string/add_node_changed_list</item>
@@ -410,9 +401,6 @@ file
         <item>@string/command_verbatim_speak2</item>
         <item>@string/split_menu_title</item>
         <item>@string/command_gestures_edit</item>
-
-
-        <!--ai功能ok-->
         <item>@string/command_auto_trans</item>
         <item>@string/command_recognition_caption</item>
         <item>@string/use_ocr_title</item>
@@ -423,9 +411,6 @@ file
         <item>@string/command_verification</item>
         <item>@string/command_trans</item>
         <item>@string/camera_title</item>
-
-
-        <!--其他操作ok-->
         <item>@string/command_now_time</item>
         <item>@string/command_timer_mode</item>
         <item>@string/command_pasue_timer</item>
@@ -436,9 +421,6 @@ file
         <item>@string/command_to_head_set_key</item>
         <item>@string/command_media_previous</item>
         <item>@string/command_media_next</item>
-
-
-        <!--编辑操作ok-->
         <item>@string/clipboard_menu_title</item>
         <item>@string/favorites_menu_title</item>
         <item>@string/command_paste</item>
@@ -449,9 +431,6 @@ file
         <item>@string/split_edit_title</item>
         <item>@string/command_long_edit</item>
         <item>@string/command_all_select</item>
-
-
-        <!--系统操作ok-->
         <item>@string/command_to_recents</item>
         <item>@string/command_to_home</item>
         <item>@string/command_to_back</item>
@@ -462,8 +441,6 @@ file
         <item>@string/command_power_dialog</item>
         <item>@string/command_to_split_screen</item>
         <item>@string/command_notification_box</item>
-
-        <!--执行操作-->
         <item>@string/command_click</item>
         <item>@string/command_long_click</item>
         <item>@string/raw_click</item>
@@ -474,8 +451,6 @@ file
         <item>@string/raw_swipe_up</item>
         <item>@string/raw_swipe_down</item>
         <item>@string/command_virtual_navigation</item>
-
-        <!--浏览模式-->
         <item>@string/char_mode</item>
         <item>@string/list_mode_title</item>
         <item>@string/all_text_title</item>
@@ -485,12 +460,9 @@ file
         <item>@string/command_raw_tap</item>
         <item>@string/command_up_tap</item>
         <item>@string/command_tap_mode</item>
-
-
         <item>@string/command_read_mode</item>
         <item>@string/command_auto_next</item>
         <item>@string/auto_previous</item>
-
         <item>@string/input_method</item>
         <item>@string/command_show_input_method_picker</item>
         <item>@string/command_speak_all_notification</item>
@@ -498,25 +470,19 @@ file
         <item>@string/command_right_shortcut</item>
         <item>@string/command_start</item>
         <item>@string/command_end</item>
-
-
         <item>@string/select_granularity_mode</item>
-        <!--导航类型-->
         <item>@string/to_previous_granularity</item>
         <item>@string/to_next_granularity</item>
         <item>@string/to_previous_granularity_item</item>
         <item>@string/to_next_granularity_item</item>
         <item>@string/command_previous_window</item>
         <item>@string/command_next_window</item>
-
         <item>@string/command_to_previous_focus</item>
         <item>@string/command_to_next_focus</item>
         <item>@string/command_to_previous_scroll</item>
         <item>@string/command_to_next_scroll</item>
         <item>@string/command_to_previous_progress</item>
         <item>@string/command_to_next_progress</item>
-
-
         <item>@string/command_to_previous_section</item>
         <item>@string/command_to_next_section</item>
         <item>@string/command_to_previous_link</item>
@@ -531,16 +497,12 @@ file
         <item>@string/command_to_next_row</item>
         <item>@string/command_to_previous_paragraph</item>
         <item>@string/command_to_next_paragraph</item>
-
         <item>@string/command_copy_to_cloud</item>
         <item>@string/command_paste_from_cloud</item>
         <item>@string/command_up_page</item>
         <item>@string/command_down_page</item>
         <item>@string/command_left_page</item>
         <item>@string/command_right_page</item>
-
-        <!--item>极速浏览</item-->
-
     </string-array>
     <string-array name="gesture_help_items">
         <item>"Gestų pagrindai:
@@ -553,7 +515,7 @@ file
  Pirmiausia į dešinę, tada į kairę – grįžti atgal
  Pirmiausia aukštyn, tada dešinėn – veiksmų meniu
  pirmiausia žemyn, tada dešinėn – pagrindinis meniu
- pirma aukštyn, tada kairėn – papildiniai
+ Pirmiausia aukštyn, tada kairėn – papildiniai
 pirmiausia žemyn, tada kairėn - balso asistentas
  pirmiausia kairėn, tada žemyn – skaitymo režimas po žodį
  Pirmiausia dešinėn, tada aukštyn – automatinis elementų skaitymas iš viršaus į apačią
@@ -616,7 +578,7 @@ pirmiausia žemyn, tada kairėn - balso asistentas
     <string-array name="help_items">
         <item>"Standartiniai gestai pagrindinėms navigacijos operacijoms:  n Braukti aukštyn – pereiti prie ankstesnio elemento. Braukti žemyn – pereiti prie kito elemento.  N Šiuos veiksmus galite pakeisti veiksmų nustatymuose."</item>
         <item>"Pagrindinis meniu:  n Braukite žemyn ir dešinėn, kad atidarytumėte meniu, braukite dešinėn, kad pamatytumėte daugiau parinkčių.  N Galite pakeisti meniu išvaizdą ir turinį išplėstiniuose programos nustatymuose."</item>
-        <item>"balso asistentas:
+        <item>"Balso asistentas:
   Balso asistentas įjungiamas braukiant žemyn ir į kairę, o komanda turi būti ištarta po pyptelėjimo.  Palietus ekraną suaktyvinamas momentinis atpažinimas
   Norėdami sukonfigūruoti balso asistentą, eikite į programos meniu, pasirinkite išplėstinius nustatymus, balso asistento nustatymus."</item>
         <item>"Veiksmų meniu:
@@ -673,7 +635,7 @@ pirmiausia žemyn, tada kairėn - balso asistentas
         <item>"Išsamus naršymo režimas (Premium funkcija):
   Šis režimas leidžia padidinti fokusavimo valdymo detalumo lygį.
   Žinoma, kad šis režimas pagerina tokių programų kaip WeChat Sports, WeChat Friends Circle, Taobao Footprint, Huawei Router ir kitų prieinamumą."</item>
-        <item>"Virtuali navigacija (Premium funkcija):
+        <item>"Virtualus naršymas (Premium funkcija):
   Leidžia programoje sukurti elementų, kurių negalima tiesiogiai suaktyvinti, sąrašą (pvz., mygtuką, kurio negalima sufokusuoti).
   Atminkite, kad galite pridėti tik pastovios padėties elementus.  Elemento padėtį ekrane galite nustatyti naudodami teksto atpažinimą arba nurodydami jo koordinates,
   Palaikoma tik Android 7 ir naujesnė versija."</item>
@@ -744,7 +706,7 @@ pirmiausia žemyn, tada kairėn - balso asistentas
         <item>lenkų</item>
         <item>vietnamiečių</item>
         <item>airių</item>
-        <item>奥克语</item>
+        <item>oksitanų</item>
         <item>albanų</item>
         <item>Akan</item>
         <item>aragoniečių</item>
@@ -754,50 +716,50 @@ pirmiausia žemyn, tada kairėn - balso asistentas
         <item>Azerbaidžaniečių</item>
         <item>Astūrijos</item>
         <item>osetinų</item>
-        <item>奥杰布瓦语</item>
-        <item>奥里亚语</item>
+        <item>Ojebwa</item>
+        <item>Orija</item>
         <item>Oromo</item>
         <item>persų</item>
-        <item>布列塔尼语</item>
-        <item>巴什基尔语</item>
-        <item>巴斯克语</item>
-        <item>巴西葡萄牙语</item>
+        <item>bretonų</item>
+        <item>baškirų</item>
+        <item>baskų</item>
+        <item>Brazilijos portugalų</item>
         <item>baltarusių</item>
-        <item>柏柏尔语</item>
+        <item>berberų</item>
         <item>Pampanga</item>
         <item>Šiaurės samių</item>
         <item>Šiaurės Soto</item>
-        <item>本巴语</item>
+        <item>Bemba</item>
         <item>比林语</item>
-        <item>比斯拉马语</item>
+        <item>Bislama</item>
         <item>Baluchi</item>
         <item>islandų</item>
         <item>bosnių</item>
         <item>Bhojpuri</item>
-        <item>楚瓦什语</item>
+        <item>čiuvašų</item>
         <item>Tsonga</item>
         <item>totorių</item>
-        <item>掸语</item>
-        <item>德顿语</item>
+        <item>Šanų kalba</item>
+        <item>Tetum</item>
         <item>Dhivehi</item>
         <item>žema vokiečių kalba</item>
         <item>filipiniečių</item>
-        <item>梵语</item>
+        <item>Sanskritas</item>
         <item>弗留利语</item>
-        <item>富拉尼语</item>
+        <item>Fulani</item>
         <item>Farerų</item>
         <item>gėlų</item>
         <item>Kongo</item>
         <item>Aukštųjų sorbų</item>
         <item>Kambodžos</item>
-        <item>格陵兰语</item>
+        <item>Grenlandijos</item>
         <item>格鲁吉亚语</item>
         <item>gudžaratų</item>
         <item>senovės graikų</item>
         <item>senoji anglų kalba</item>
         <item>Guarani</item>
         <item>Hoopa</item>
-        <item>哈卡钦语</item>
+        <item>Hakachinas</item>
         <item>Haičio</item>
         <item>Hausa</item>
         <item>Juodkalnijos</item>
@@ -809,28 +771,28 @@ pirmiausia žemyn, tada kairėn - balso asistentas
         <item>kanada</item>
         <item>Kanuri</item>
         <item>kašubų</item>
-        <item>康瓦尔语</item>
+        <item>Kornvalio</item>
         <item>Xhosa</item>
         <item>Korsikos</item>
         <item>克里克语</item>
         <item>Krymo totorių</item>
-        <item>克林贡语</item>
+        <item>Klingonai</item>
         <item>kroatų</item>
         <item>kečujų</item>
         <item>Kašmyro</item>
-        <item>孔卡尼语</item>
-        <item>库尔德语</item>
-        <item>拉丁语</item>
+        <item>Konkani</item>
+        <item>kurdų</item>
+        <item>lotynų kalba</item>
         <item>Laoso kalba</item>
-        <item>拉特加莱语</item>
+        <item>Latgalų</item>
         <item>拉脱维亚语</item>
-        <item>林堡语</item>
-        <item>林加拉语</item>
+        <item>Limburgiečių</item>
+        <item>Lingala</item>
         <item>Luganda</item>
         <item>liuksemburgiečių</item>
         <item>卢森尼亚语</item>
         <item>Kinijaruanda</item>
-        <item>lietuvių</item>
+        <item>Lietuvių</item>
         <item>romanų</item>
         <item>romų</item>
         <item>Loginė kalba</item>
@@ -842,7 +804,7 @@ pirmiausia žemyn, tada kairėn - balso asistentas
         <item>Makedonų</item>
         <item>maršalo</item>
         <item>Maithili</item>
-        <item>曼克斯语</item>
+        <item>Manx</item>
         <item>Mauricijaus kreolų</item>
         <item>maorių</item>
         <item>bengalų</item>
@@ -850,13 +812,13 @@ pirmiausia žemyn, tada kairėn - balso asistentas
         <item>hmong</item>
         <item>挪威语</item>
         <item>neapolio</item>
-        <item>南恩德贝莱语</item>
+        <item>Pietų Ndebele</item>
         <item>afrikanų</item>
         <item>Pietų Soto</item>
         <item>尼泊尔语</item>
-        <item>旁遮普语</item>
-        <item>帕皮阿门托语</item>
-        <item>普什图语</item>
+        <item>Pandžabų</item>
+        <item>Papiamento</item>
+        <item>puštūnų</item>
         <item>Čičeva</item>
         <item>契维语</item>
         <item>čerokių</item>
@@ -864,57 +826,68 @@ pirmiausia žemyn, tada kairėn - balso asistentas
         <item>samoiečių</item>
         <item>serbų-kroatų</item>
         <item>serbų</item>
-        <item>桑海语</item>
+        <item>Songhai</item>
         <item>sinhalų kalba</item>
         <item>Esperanto</item>
-        <item>书面挪威语</item>
+        <item>rašomoji norvegų kalba</item>
         <item>斯洛伐克语</item>
-        <item>斯瓦希里语</item>
+        <item>suahilių</item>
         <item>Somalio</item>
         <item>serbų (kirilica)</item>
         <item>turkų</item>
         <item>tadžikų</item>
         <item>tamilų</item>
         <item>tagalogų</item>
-        <item>提格利尼亚语</item>
+        <item>Tigrinya</item>
         <item>telugų</item>
         <item>Tuniso arabų</item>
         <item>turkmėnų</item>
         <item>ukrainiečių</item>
         <item>Valonų</item>
         <item>valų</item>
-        <item>文达语</item>
-        <item>沃洛夫语</item>
+        <item>Venda</item>
+        <item>Volofų</item>
         <item>urdu</item>
-        <item>希伯来语</item>
+        <item>hebrajų</item>
         <item>Vakarų fryzų kalba</item>
         <item>Silezijos</item>
-        <item>希利盖农语</item>
+        <item>Hiligaynon</item>
         <item>Žemųjų sorbų</item>
         <item>夏威夷语</item>
         <item>新挪威语</item>
         <item>Vakarų Afrikos rašytinė kalba</item>
         <item>Sindhi</item>
-        <item>修纳语</item>
+        <item>Šona</item>
         <item>Cebuano</item>
         <item>sirų</item>
-        <item>巽他语</item>
+        <item>Sundanai</item>
         <item>hindi</item>
         <item>Indoneziečių</item>
-        <item>意第绪语</item>
+        <item>jidiš</item>
         <item>因特语</item>
-        <item>亚齐语</item>
+        <item>Ačehas</item>
         <item>ingušų</item>
         <item>Igbo</item>
         <item>伊多语</item>
         <item>Joruba</item>
         <item>armėnų</item>
-        <item>伊努克提图特语</item>
+        <item>Inukti Tut</item>
         <item>iraniečių</item>
-        <item>扎扎其语</item>
+        <item>Zazaki</item>
         <item>Vidurio prancūzų</item>
         <item>Zulu</item>
         <item>javiečių</item>
+
+        <item>奥利亚语</item>
+        <item>弗里西语</item>
+        <item>哈萨克语</item>
+        <item>海地克里奥尔语</item>
+        <item>马尔加什语</item>
+        <item>蒙古语</item>
+        <item>塞索托语</item>
+        <item>维吾尔语</item>
+        <item>乌兹别克语</item>
+
     </string-array>
     <string-array name="lang_values">
         <item>auto</item>
@@ -1118,6 +1091,17 @@ pirmiausia žemyn, tada kairėn - balso asistentas
         <item>frm</item>
         <item>zul</item>
         <item>jav</item>
+
+        <item>or</item>
+        <item>fy</item>
+        <item>kk</item>
+        <item>ht</item>
+        <item>mg</item>
+        <item>mn</item>
+        <item>st</item>
+        <item>ug</item>
+        <item>uz</item>
+
     </string-array>
     <string-array name="left_button">
         <item>padėti ragelį</item>
@@ -1130,7 +1114,7 @@ pirmiausia žemyn, tada kairėn - balso asistentas
         <item>Baigti QQ skambutį</item>
         <item>Eiti į ankstesnį elementą</item>
         <item>Ankstesnis takelis</item>
-        <item>Navigacija aukštyn</item>
+        <item>Naršyti aukštyn</item>
     </string-array>
     <string-array name="left_menu_items">
         <item>@string/command_auto_next</item>
@@ -1214,7 +1198,7 @@ pirmiausia žemyn, tada kairėn - balso asistentas
         <item>Laisvų rankų režimas</item>
         <item>Garsiakalbio režimas</item>
         <item>Eiti į kitą elementą</item>
-        <item>sekantis takelis</item>
+        <item>Sekantis takelis</item>
     </string-array>
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
@@ -1406,7 +1390,7 @@ pirmiausia žemyn, tada kairėn - balso asistentas
         <item>Mygtukas</item>
         <item>Redagavimo langas</item>
         <item>Paveikslėlis</item>
-        <item>Vėliava</item>
+        <item>Teksto laukelis</item>
         <item>progreso juosta</item>
         <item>Sąrašas</item>
         <item>Sąrašo elementas</item>

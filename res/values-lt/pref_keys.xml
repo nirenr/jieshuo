@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="use_edit_hint">use_edit_hint</string>
+    <string name="check_manage_files_permissions">check_manage_files_permissions</string>
+    <string name="check_alarm_permissions">check_alarm_permissions</string>
     <string name="use_volume_on_long_speak">use_volume_on_long_speak</string>
     <string name="default_gesture_setting">default_gesture_setting</string>
     <string name="use_action_menu_show_cursor">use_action_menu_show_cursor</string>

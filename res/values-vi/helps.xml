@@ -1,116 +1,112 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string-array name="help_items">
         <item>
-        浏览焦点：\n
-        默认使用向上手势上一个焦点，向下手势下一个焦点，\n
-        可以在操作设置，焦点移动设置，使用左右手势切换焦点，改成左右滑动。</item>
+        Thao tác duyệt cơ bản:\n
+        Theo mặc định, thao tác vuốt lên sẽ điều hướng đến mục trước đó. Vuốt xuống điều hướng đến mục tiếp theo.\n
+        Tuy nhiên, bạn có thể thay đổi cử chỉ này trong cài đặt hành động.</item>
         <item>
-        主菜单：\n
-        默认使用先下后右手势打开主菜单，再次右滑打开更多菜单，双击执行对应功能，\n
-        可以在高级设置，其他设置，自定义主菜单的显示项目，或者选择使用多列菜单直接显示全部项目。</item>
+Menu chính: \n
+        Theo mặc định, sử dụng thao tác vuốt xuống rồi sang phải để mở menu, vuốt sang phải để mở rộng thêm tùy chọn.\n
+        Bạn có thể hiển thị tất cả các mục menu cùng một lúc bằng cách tùy chỉnh nó trong phần cài đặt.</item>
         <item>
-        语音助手：\n
-        默认使用先下后左手势打开语音助手，在听到提示音后说出指令，在说话过程中触摸屏幕可以强制立即识别，\n
-        可以在高级设置，语音助手设置，自定义语音助手的扩展能力。</item>
+        trợ lý giọng nói:\n
+        Theo mặc định, trợ lý giọng nói được kích hoạt bằng cử chỉ vuốt xuống rồi sang trái và bạn có thể nói lệnh sau khi một âm thanh vang lên. Chạm vào màn hình sẽ buộc nhận dạng ngay lập tức\n
+        Có thể tùy chỉnh trợ lý giọng nói trong cài đặt nâng cao, cài đặt trợ lý giọng nói, cài đặt khả năng của trợ lý giọng nói.\n</item>
         <item>
-        操作菜单：\n
-        默认使用先上后右手势打开操作菜单，再次右滑打开高级菜单，双击执行对应功能。</item>
+menu hành động: \n
+        Theo mặc định, vuốt lên rồi sang phải sẽ mở menu hành động, vuốt sang phải sẽ mở rộng menu và nhấn đúp sẽ kích hoạt tùy chọn mục đang tiêu điểm trong menu.</item>
         <item>
-        扩展插件：\n
-        默认使用先上后左手势打开扩展插件列表，再次右滑打开语音指令列表，双击执行对应功能，\n
-        可以在资源下载发现更多插件，\n
-        高级设置，语音助手设置，语音指令设置，新建，修改或下载语音指令。</item>
+        Tiện ích mở rộng:\n
+        Theo mặc định, cử chỉ đầu tiên và cuối cùng bên trái được sử dụng để mở danh sách tiện ích mở rộng, sau đó trượt sang phải để mở danh sách lệnh thoại và bấm đúp để thực hiện chức năng tương ứng.\n
+        Bạn có thể tìm thấy nhiều tiện ích hơn trong phần tải xuống tài nguyên.\n
+        Cài đặt nâng cao, cài đặt trợ lý giọng nói, cài đặt lệnh thoại, mới, sửa đổi hoặc tải xuống </item>
         <item>
-        复制，追加复制，剪切板与收藏夹：\n
-        在操作菜单可以找到这些功能，\n
-        复制，将焦点内容复制到剪切板\n
-        追加复制，将焦点内容追加到剪切板的最近一条内容后边，\n
-        剪切板，记录最近复制内容，点击可以输入到编辑框，长按可以把内容添加到收藏夹\n
-        收藏夹，点击可以输入到编辑框，长按可以进行编辑，\n
-        在高级设置，资源管理可以删除或者备份剪切板与收藏夹</item>
+        Sao chép, nối thêm sao chép, khay nhớ tạm và mục yêu thích:\n
+        Các chức năng này có thể được tìm thấy trong menu hoạt động.\n
+        Sao chép, sao chép mục đang tiêu điểm vào khay nhớ tạm\n
+        Nối sao chép để nối nội dung đang tiêu điểm vào khay nhớ tạm bạn đã sao chép trước đó,\n
+        Khay nhớ tạm, ghi lại nội dung được sao chép gần đây nhất, nhấn để nhập vào ô nhập liệu, nhấn lâu để thêm nội dung vào mục yêu thích\n
+        Mục Yêu thích, Nhấn để nhập vào ô nhập liệu, nhấn và giữ để chỉnh sửa,\n
+        Trong cài đặt nâng cao, quản lý tài nguyên có thể xóa hoặc sao lưu khay nhớ tạm và mục yêu thích</item>
         <item>
-        长复制(会员功能)：\n
-        长复制可以复制长列表内容，\n
-        在操作菜单激活长复制后，根据列表长度不同需要等待不同时间，当复制完成后会提示，已完成长复制，\n
-        在长复制过程中，可以通过滑动任意手势强制中止。</item>
+        sao chép dài (chỉ dành cho người dùng cao cấp):\n
+        Sao chép dài có thể sao chép nội dung danh sách dài.\n
+        Sau khi sao chép dài được kích hoạt trong menu hoạt động, bạn cần đợi thời gian khác nhau tùy theo độ dài của danh sách. Khi sao chép hoàn thành, bạn sẽ được nhắc hoàn thành sao chép dài.\n
+        Trong quá trình sao chép dài, bạn có thể buộc hủy bỏ bằng cách vuốt bất kỳ cử chỉ nào.</item>
         <item>
-        全文选取(会员功能)：\n
-        全文选取主要适用于从网页或较长内容中复制部分内容，\n
-        全文选取可以把内容按字，句，段形式拆分，通过复选框形式选择需要内容，最终复制，\n
-        在内容列表中可以长按一个项目作为起点，再长按选择结束的形式快速选择多个连续项目。</item>
+        Lựa chọn toàn văn (Chỉ người dùng cao cấp):\n
+        Lựa chọn toàn văn chủ yếu phù hợp để sao chép một số nội dung từ các trang web hoặc nội dung dài.
+        Lựa chọn toàn văn có thể chia nội dung theo dạng từ, câu, đoạn, chọn nội dung cần thiết thông qua dạng hộp kiểm, cuối cùng là sao chép,\n
+        Trong danh sách nội dung, bạn có thể nhấn và giữ một mục làm điểm bắt đầu, sau đó nhấn và giữ phần cuối của lựa chọn để chọn nhanh nhiều mục liên tiếp.</item>
         <item>
-        拆分编辑(会员功能)：\n
-        可以在编辑框或非编辑框把焦点内容按照字，句，段或者全文进行编辑，方便快速定位与修改，\n
-        在拆分编辑列表点击可以进行编辑，长按可以将该条目进行更细化拆分，\\n
-        对编辑框的编辑可以点击确定输入到编辑框，非编辑框仅可以通过复制保存到剪切板。</item>
+        Chỉnh sửa nâng cao (chức năng thành viên):\n
+        Bạn có thể chỉnh sửa nội dung tiêu điểm theo từ, câu, đoạn hoặc toàn văn trong ô sửa hoặc ô không sửa để tiện cho việc định vị và sửa đổi nhanh chóng.\n
+        Nhấn vào danh sách chỉnh sửa đã chia để chỉnh sửa, nhấn và giữ để mục nhập được chia chi tiết hơn.\n
+        Có thể nhấn vào ô chỉnh sửa để chỉnh sửa và ô không chỉnh sửa chỉ có thể được lưu vào khay nhớ tạm bằng cách sao chép.</item>
         <item>
-        列表浏览：\n
-        将全部焦点以列表形式显示，点击可以激活对应的焦点，尤其适合在网页上使用。</item>
+        duyệt danh sách:\n
+        Hiển thị tất cả tiêu điểm dưới dạng danh sách, nhấn để kích hoạt tiêu điểm tương ứng, đặc biệt thích hợp để sử dụng trên các trang web.</item>
         <item>
-        阅读模式(会员功能)：\n
-        可以读出浏览器打开的网页小说等，过滤无用内容，并且可以自动翻页。</item>
+        Chế độ đọc (chức năng thành viên):\n
+        Bạn có thể đọc các bài viết trên trang web do trình duyệt mở, lọc nội dung không mong muốn và chuyển trang tự động.</item>
         <item>
-        虚拟屏幕(会员功能)：\n
-        通过OCR识别屏幕上的内容，按文字位置显示结果，点击结果文字激活对应的焦点，长按按字拆分焦点，点击单字激活对应字的位置。\n
-        安卓7以上双击激活，安卓6以下三击激活。</item>
+        Màn hình ảo (chức năng thành viên):\n
+        OCR nhận dạng nội dung trên màn hình, hiển thị kết quả theo vị trí văn bản, nhấn vào văn bản kết quả để kích hoạt tiêu điểm tương ứng, nhấn và giữ từ để tách tiêu điểm và nhấn vào từ để kích hoạt vị trí của từ tương ứng.\n
+        Android 7 trở lên nhấp đúp để kích hoạt, Android 6 trợ xuống thì nhấn ba lần để kích hoạt.</item>
         <item>
-        文字识别(会员功能)：\n
-        通过OCR识别屏幕上的内容，并以列表形式显示结果，点击结果列表激活对应的焦点，长按后按字显示结果，点击单字激活对应字的位置。\n
-        安卓6以下不支持激活，仅能浏览结果。</item>
+        Nhận dạng văn bản (chức năng thành viên):\n
+        Nội dung trên màn hình được OCR nhận dạng và kết quả được hiển thị ở dạng danh sách, và danh sách kết quả được nhấn để kích hoạt tiêu điểm tương ứng, nhấn lâu theo sau là kết quả hiển thị từ và một từ được kích hoạt để kích hoạt vị trí của từ tương ứng.\n
+        Nhấn không được hỗ trợ trong Android 6 và chỉ có thể xem kết quả.</item>
         <item>
-        验证码识别(会员功能)：\n
-        触摸到验证码焦点，使用高级菜单，验证码识别，或者语音助手，验证码识别，可以识别英文或者数字验证码，识别结果自动复制到剪切板。</item>
+        Nhận dạng Captcha (chức năng thành viên):\n
+        Chạm vào tiêu điểm mã xác minh, sử dụng menu nâng cao, nhận dạng mã xác minh, hoặc trợ lý giọng nói, nhận dạng mã xác minh, có thể nhận dạng tiếng Anh hoặc mã xác minh kỹ thuật số, và kết quả nhận dạng được tự động sao chép vào khay nhớ tạm.</item>
         <item>
-        解说相机(会员功能)：\n
-        解说相机可以识别文字，场景，动物，植物，或者用于拍照引导，解说相机目前仅支持后置摄像头，使用音量加拍摄，音量减切换模式。</item>
+        Máy ảnh Jieshuo (chức năng thành viên):\n
+        Máy ảnh có thể nhận dạng văn bản, cảnh, động vật, thực vật hoặc hướng dẫn máy ảnh. Máy hiện chỉ hỗ trợ camera sau, sử dụng phím tăng âm lượng chụp, Dảm âm lượng chuyển đổi chế độ.</item>
         <item>
-        在列表项目间快速浏览：\n
-        在操作设置，左右快捷手势设置中启用 左右手势在列表中快速移动，即可在如QQ消息列表中，使用左或右手势快速的浏览消息。</item>
+        Điều hướng nhanh giữa các mục danh sách:\n
+        Trong cài đặt hoạt động, cài đặt cử chỉ phím tắt trái và phải cho phép cử chỉ trái và phải di chuyển nhanh trong danh sách, bạn có thể sử dụng cử chỉ trái hoặc phải để duyệt nhanh tin nhắn trong danh sách tin nhắn QQ chẳng hạn.</item>
         <item>
-        通知黑白名单：\n
-        通知黑名单可以过滤掉含有指定内容的通知，输入星号表示过滤该应用全部通知，\n
-        通知白名单可以允许读出含有指定内容的通知，即使已经关闭了通知朗读，输入星号表示允许该程序的全部通知。\n
-        关键字支持正则表达式。</item>
+        Thông báo danh sách đen/trắng:\n
+        Danh sách đen thông báo có thể lọc ra các thông báo chứa nội dung đã chỉ định và nhập dấu sao để lọc tất cả các thông báo của ứng dụng.\n
+        Danh sách trắng thông báo có thể cho phép đọc các thông báo chứa nội dung đã chỉ định, ngay cả khi thông báo đã bị đóng, việc nhập dấu sao cho biết rằng tất cả các thông báo cho chương trình đều được phép.\n
+        Từ khóa hỗ trợ biểu thức chính quy.</item>
         <item>
-        内容黑名单：\n
-        可以过滤指定内容的焦点内容，通常用于过滤一些非标准辅助功能说明。\n
-        基于效率考虑不支持正则表达式。</item>
+        danh sách đen nội dung:\n
+        Bạn có thể lọc nội dung tiêu điểm của nội dung được chỉ định, thường được sử dụng để lọc một số hướng dẫn trợ năng không đúng.\n
+        Cụm từ thông dụng không được hỗ trợ dựa trên các cân nhắc về hiệu quả.</item>
         <item>
-        网页内容过滤(会员功能)：\n
-        过滤网页中无用的图片注释，可以过滤网页中图片冗长无用的说明，\n
-        更强的过滤可以进一步过滤更多非必要的无用内容。</item>
+        Lọc nội dung web (chức năng thành viên):\n
+        Lọc các chú thích hình ảnh vô dụng trên trang lọc ra các hướng dẫn dài dòng và vô ích trên trang.\n
+        Lọc mạnh hơn có thể lọc thêm nội dung không cần thiết.</item>
         <item>
-        强力模式(会员功能)：\n
-        强力模式可以获得更多可操作焦点，\n
-        已知在诸如微信运动，微信朋友圈，淘宝足迹，华为路由器等软件带来更好体验。</item>
+        Chế độ mạnh mẽ (chức năng thành viên):\n
+        Chế độ mạnh mẽ giúp bạn tập trung hơn vào hoạt động,\n
+        Nó được biết là mang lại trải nghiệm tốt hơn trong phần mềm như WeChat Sports, WeChat Friends Circle, Taobao Footprint, Huawei Router, v.v..</item>
         <item>
-        虚拟导航(会员功能)：\n
-        虚拟导航可以将不可直接点击操作的内容的位置添加到导航列表，\n
-        请只添加不可变位置的焦点，在识别点击中点击识别的焦点输入名字即可添加，\n
-        仅支持安卓7以上。</item>
+        Điều hướng ảo (chức năng thành viên):\n
+        Điều hướng ảo có thể thêm vị trí của nội dung không thể nhấn trực tiếp vào danh sách điều hướng.\n
+        Vui lòng chỉ thêm tiêu điểm của vị trí không thay đổi, nhấn vào tên đầu vào tiêu điểm được nhận dạng trong phần nhận dạng nhấn để thêm,\n
+        Chỉ hỗ trợ Android 7 trở lên.</item>
         <item>
-        自定义手势：\n
-        可以自定义任何内置功能或者扩展功能作为手势，\n
-        通过导入手势包可以快速更换手势，\n
-        导入手势后需在操作设置，手势方案切换才能生效，\n
-        如果不熟悉操作建议在常用设置，自定义手势修改手势。</item>
+        Cử chỉ tùy chỉnh:\n
+        Bạn có thể tùy chỉnh mọi tính năng tích hợp hoặc mở rộng dưới dạng cử chỉ.\n
+        Nhanh chóng thay đổi cử chỉ bằng cách nhập bộ cử chỉ.\n
+        Sau khi cử chỉ được nhập, nó cần được đặt trong thao tác và chuyển đổi bộ cử chỉ có thể có hiệu lực.\n
+        Nếu bạn không quen với các thao tác trong cài đặt chung, hãy tùy chỉnh cử chỉ để sửa đổi cử chỉ.</item>
         <item>
-        两步手势(会员功能)：\n
-        两步手势是在传统手势操作完成后快速操作第二个手势的一种操作，\n
-        可以在操作设置，两步手势中开启或者自定义功能，\n
-        开启两步手势后第一步手势操作完成后有半秒钟时间延时，等待第二步操作，\n
-        请不要设置需要效率的手势，如移动焦点手势，使用两步手势。</item>
+        Cử chỉ hai bước (chức năng thành viên):\n
+        Cử chỉ hai bước là thao tác thực hiện nhanh cử chỉ thứ hai sau khi hoàn thành thao tác cử chỉ gốc.\n
+        Nó có thể được bật hoặc tùy chỉnh trong cài đặt hành động, cử chỉ nhiều phần,\n
+        Sau khi bật cử chỉ hai bước, sẽ có độ trễ nửa giây sau khi hoàn thành thao tác cử chỉ đầu tiên, chờ bước thứ hai.\n
+        Không đặt các cử chỉ yêu cầu nhanh, chẳng hạn như cử chỉ di chuyển tiêu điểm, sử dụng cử chỉ nhiều phần.</item>
         <item>
-        录制语音指令：\n
-        启动语音助手说 录制指令，依次说出要打开的程序或者点击焦点的关键字实现快速语音指令制作，当说完所有指令后说 结束录制，在提示输入指令名称后说出指令的名称，最后说 确定。\n
-        录制过程中有没能识别的指令重新说出即可，\n
-        录制的指令可以在高级设置，语音助手设置，语音指令设置中更改。</item>
-        <item>
-        自动朗读消息：\n
-        非会员可以在聊天软件可以自动朗读新消息。\n
-        会员还可以自动朗读直播软件的消息，目前支持抖音，火山，now等。\n
-        可以在内容设置，内容改变设置，自动朗读聊天信息中开关。</item>
+        Ghi lệnh Thoại:\n
+        Bắt đầu lệnh thoại, lần lượt nói chương trình sẽ được mở hoặc nhấp vào phím tiêu điểm để thực hiện lệnh thoại nhanh chóng. Khi tất cả các hướng dẫn đã hoàn thành, hãy nói để kết thúc ghi âm, sau lời nhắc nhập tên của lệnh, hãy nói tên của lệnh và cuối cùng nói xác định.\n
+        Nếu có một hướng dẫn không được nhận dạng trong quá trình ghi âm, bạn có thể nói lại nó.
+        Có thể thay đổi các lệnh đã ghi trong Cài đặt nâng cao, Cài đặt trợ lý giọng nói, Cài đặt lệnh thoại.</item>
 
     </string-array>
 
@@ -368,8 +364,8 @@
         function append(t1,t2)\n
         for k,v in ipairs(t2) do\n
         table.insert(t1,v)\n
-        end\n
-        end\n
+        end \n
+        end \n
         点击列表={}\n
         按钮列表={"%点击","%返回"}\n
         for n=1,10 do\n
@@ -518,7 +514,7 @@
         </item>
         <item>
         &lt; 小于号，在后边表示重复执行，重复点击按钮多少次，\n
-        如 \n
+        如
         下一曲&lt;10\n
         就重复点击下一曲十次，
         </item>
@@ -550,11 +546,6 @@
         </item>
         <item>
         %还可以执行脚本中指定的函数，函数返回true表示继续执行，false停止继续执行，
-        %自定义函数的名称，
-        </item>
-        <item>
-        %执行函数可以带参数，函数返回true表示继续执行，false停止继续执行，
-        %自定义函数的名称(参数)，
         </item>
         <item>
         []方括号包括的内容表示模拟直接点击，和使用辅助功能点击不同，直接点击可以解决一部分焦点不能点击的问题，\n
@@ -562,11 +553,6 @@
         模拟直接点击播放按钮，\n
         [%点击]\n
         模拟直接点击当前焦点
-        </item>
-        <item>
-        [t]方括号包含一个数字表示模拟长按当前焦点一定时间，参数是以毫秒为单位的时间\n
-        [6000]\n
-        模拟长按当前焦点6000毫秒，\n
         </item>
         <item>
         [x,y]方括号包含两个数字表示模拟点击指定位置，可以用整数表示绝对位置，或者用小数表示相对位置，\n
@@ -581,36 +567,14 @@
         模拟点击从左算 300 像素，从上算 500 像素的位置，持续 1000 毫秒
         </item>
         <item>
-        [x1,y1,n,a]方括号包含四个参数表示在a程序中用模拟点击x1，y1坐标n次，可以用整数表示绝对位置，或者用小数表示相对位置，\n
-        [300,500,100,抖音]\n
-        在抖音中模拟点击左算 300 像素，从上算 500 像素的位置，重复点击100次，如果中途退出抖音点击取消，
-        参数a可选前缀，
-            @程序名称 检测是否在该程序，
-            &amp;关键字 检测当前界面包含关键字，
-            !关键字 检测当前界面不包含关键字，
-        </item>
-        <item>
         [x1,y1,x2,y2,t]方括号包含五个数字表示用指定时间模拟从x1，y1滑动到x2,y2位置，可以用整数表示绝对位置，或者用小数表示相对位置，\n
         [300,500,300,800,1000]\n
         模拟从左算 300 像素，从上算 500 像素的位置，用 1000 毫秒时间滑动到 300,800 的位置，
         </item>
         <item>
-        [x1,y1,x2,y2,t,n] 模拟滑动还可以指定滑动次数\n
+        模拟滑动还可以指定滑动次数\n
         [300,500,300,800,1000,10]\n
         模拟从左算 300 像素，从上算 500 像素的位置，用 1000 毫秒时间滑动到 300,800 的位置，10 次,
-        </item>
-        <item>
-        [x1,y1,x2,y2,t,n,a]模拟滑动还可以限定指定的程序\n
-        [300,500,300,800,1000,10,抖音]\n
-        检测在抖音中，模拟从左算 300 像素，从上算 500 像素的位置，用 1000 毫秒时间滑动到 300,800 的位置，10 次,如果中途退出抖音滑动停止，
-        参数a可选前缀，
-            @程序名称 检测是否在该程序，
-            &amp;关键字 检测当前界面包含关键字，
-            !关键字 检测当前界面不包含关键字，
-        </item>
-        <item>
-        [x1,y1,x2,y2,r,g,b,d]方括号包含八个参数表示在矩形范围x1,y1,x2,y2中查找颜色r,g,b并点击,颜色误差范围d\n
-        [300,300,800,800,128,128,128,10]\n
         </item>
         <item>
         在手势执行中有时会有一些不同情况出现，比如打开QQ，点击解说读屏交流群，点击群资料卡，点击文件，\n
@@ -654,147 +618,131 @@
 
     <string-array name="gesture_help_items">
         <item>
-        手势操作要领：\n
-        单手势要直，动作要快\n
-        组合手势的第一部分手势要超过半个屏幕长度，第二部分只要方向对即可</item>
+        Thao tác cử chỉ cơ bản:\n
+        Các cử chỉ đơn phải thẳng và chuyển động phải nhanh\n
+        Phần đầu tiên của cử chỉ kết hợp phải dài hơn một nửa chiều dài của màn hình và phần thứ hai có thể được định hướng miễn là đúng.</item>
         <item>
-        组合手势：\n
-        先上后下 最后一个焦点\n
-        先下后上 第一个焦点\n
-        先左后右 任务切换\n
-        先右后左 返回\n
-        先上后右 操作菜单\n
-        先下后右 功能菜单\n
-        先上后左 扩展插件\n
-        先下后左 语音助手\n
-        先左后下 逐字浏览\n
-        先右后上 自动朗读\n
-        先左后上 打开通知栏\n
-        先右后下 列表浏览\n
+        cử chỉ kết hợp:\n
+        Vuốt xuống rồi vuốt lên. Đưa tiêu điểm xuống cuối cùng trên màn hình\n
+        Vuốt xuống rồi vuốt lên. Đưa tiêu điểm lên đầu trên màn hình\n
+        Vuốt sang trái rồi vuốt sang phải Chuyển đổi nhiệm vụ\n
+        Vuốt sang phải rồi vuốt sang trái. Quay lại\n
+        Vuốt lên rồi sang phải. Menu chức năng\n
+        First right and then right function menu\n
+        First, then left, extension\n
+        First, then left, voice assistant\n
+        First left, then left, word by word\n
+        Right first, then upper, automatically read aloud\n
+        First left and then open the notification bar\n
+        First right, then bottom, browse the list\n
+        Up twice click to browse\n
+        Twice swipe down
         </item>
         <item>
-        多指手势仅支持安卓11及以上，
-        双指双击，播放，暂停，
-        三指下滑，打开通知栏，
-        三指上滑，返回桌面，
-        三指左滑，最近任务，
-        三指右滑，控制中心，
-        四指下滑，到结尾，
-        四指上滑，到开头，
-        四指左滑，关闭多指手势，
-        四指右滑，模拟双击，
-        三指双击，自动浏览，
-        四指双击，阅读模式
+        Nhấn vào cử chỉ chế độ duyệt:\n
+        Nhấn để chuyển tiêu điểm\n
+        Chế độ duyệt lên\n
+        Chế độ duyệt xuống
         </item>
         <item>
-        点击浏览模式手势：\n
-        单击 切换焦点\n
-        向上 向上浏览模式\n
-        向下 向下浏览模式
+        Focus browsing mode gestures:\n
+        Up one focus\n
+        Down next focus
         </item>
         <item>
-        焦点浏览模式手势：\n
-        向上 上一个焦点\n
-        向下 下一个焦点
+        QQ WeChat call\n
+        Reject with left swipe\n
+        Answer with right swipe
         </item>
         <item>
-        QQ 微信来电\n
-        向左 拒绝\n
-        向右 接听
+        Phone QQ WeChat call\n
+        Hang up left\n
+        Answer right
         </item>
         <item>
-        电话 QQ 微信通话\n
-        向左 挂断\n
-        向右 免提
+        List\n
+        Page up to the left\n
+        Flip right to the bottom
         </item>
         <item>
-        列表\n
-        向左 向上翻页\n
-        向右 向下翻页
+        hộp thoại\n
+        Cancel left\n
+        OK right
         </item>
         <item>
-        对话框\n
-        向左 取消\n
-        向右 确定
+        Progress slider\n
+		Swipe left to decrease slider\n
+        Swipe right to increase slider
         </item>
         <item>
-        进度滑块\n
-        向左 减小\n
-        向右 增大
+        Edit box\n
+        Move the cursor forward\n
+        Move the cursor backward
         </item>
         <item>
-        编辑框\n
-        向左 向前移动光标\n
-        向右 向后移动光标
+        Word-by-word browse mode gestures:\n
+        Click to explain the current character\n
+        Up one line up\n
+        Down one line\n
+        Left previous character\n
+        Right next character\n
+        First left, last, last paragraph\n
+        First right, then next, next paragraph\n
+        First, then right, select text\n
+        Left first, then left, exit literally
         </item>
         <item>
-        逐字浏览模式手势：\n
-        单击 解释当前字符\n
-        向上 上一行\n
-        向下 下一行\n
-        向左 上一个字符\n
-        向右 下一个字符\n
-        先左后右 上一词语\n
-        先右后左 下一词语\n
-        先左后上 上一段落\n
-        先右后下 下一段落\n
-        先上后右 选择文字\n
-        先左后下 退出逐字浏览
+        Text selection gestures: \n
+        Single tap: read the current character.\n
+        Up swipe: Go to the previous line.\n
+        Down swipe: Go to the next line.\n
+        Left swipe: Go to the previous character.\n
+        Right swipe: Go to the next character.\n
+        Left up swipe: Go to the previous paragraph.\n
+        Right up swipe: Go to the next paragraph.\n
+        Up right swipe: Deselect all.\n
+        Down right swipe: Copy selection.\n
+        Up left swipe: Append copy.\n
+        Right down swipe: copy the whole text.
         </item>
         <item>
-        文字选择模式手势：\n
-        单击 解释当前字符\n
-        向上 上一行\n
-        向下 下一行\n
-        向左 上一个字符\n
-        向右 下一个字符\n
-        先左后右 上一词语\n
-        先右后左 下一词语\n
-        先左后上 上一段落\n
-        先右后下 下一段落\n
-        先上后右 取消选择\n
-        先下后右 复制\n
-        先上后左 追加复制\n
-        先右后上 复制全部
+        Node browsing mode gestures
+        Up swipe: go to the previous node.\n
+        Down swipe: Go to the next node.\n
+        Left swipe: go to the parent node.\n
+        Right swipe: Go to the child node.\n
+        Down left swipe: exit the node.
         </item>
         <item>
-        节点浏览模式手势：\n
-        向上 上一个节点\n
-        向下 下一个节点\n
-        向左 返回父节点\n
-        向右 进入子节点\n
-        先左后上 退出节点浏览
-        </item>
-        <item>
-        语音助手使用说明：\n
-        打开加应用名称，启动应用程序\n
-        内容加发送，可以在qq微信中直接发送信息\n
-        搜索加内容，在网上搜索内容\n
-        语音助手支持编辑菜单与插件功能的直接使用
+        Voice assistant manual: \n
+        Open AppName: Opens the given app
+        Send Content: allows direct sending to QQ and Wechat
+        Search for content: performs the online search for the given phrase
+        Voice assistant is extensible thanks to the editing menus and plugins.
         </item>
     </string-array>
     <string-array name="voice_helper_help_items">
-        <item>打开软件：打开qq</item>
-        <item>安装软件：安装微信</item>
-        <item>卸载软件：卸载微信</item>
-        <item>朗读当前屏幕所有内容：朗读全文</item>
-        <item>从下一个焦点开始朗读：自动朗读</item>
-        <item>当前环境亮度：当前亮度</item>
-        <item>点击当前焦点：点击</item>
-        <item>点击指定焦点：点击菜单</item>
-        <item>复制当前焦点文字：复制</item>
-        <item>翻译当前焦点文字为中文：翻译</item>
-        <item>翻译当前焦点文字为外语：翻译为英语</item>
-        <item>选取复制当前焦点文字：选取</item>
-        <item>在qq微信聊天窗口发送信息：你好发送</item>
-        <item>语音输入内容：输入内容</item>
-        <item>语音输入长内容：听写模式</item>
-        <item>查询天气：北京天气</item>
-        <item>查询火车：北京到广州火车票</item>
-        <item>查询菜谱：红烧肉做法</item>
-        <item>聊天：讲个笑话</item>
-        <item>复制语音助手返回内容：复制结果</item>
-        <item>还有更多功能等你挖掘</item>
+        <item>Open the given program: Open application name</item>
+        <item>Install the given program: install Application Name</item>
+        <item>Uninstall the given program: uninstall Application Name</item>
+        <item>Read Everything: Read the whole screen</item>
+        <item>Read aloud: read aloud and follow the cursor</item>
+        <item>Current Brightness: read the environment\'s brightness.</item>
+        <item>Click: activate the focused element.</item>
+        <item>Activate specified item: activate item with the specified name</item>
+        <item>Copy currently focused item: Copy the currently focused item to the clipboard</item>
+        <item>Translate: Translate the currently focused text.</item>
+        <item>Translate LanguageName: Translate the currently focused text to a given language</item>
+        <item>Select: Selects the given text</item>
+        <item>Send a message in the qq WeChat chat window: Hello send</item>
+        <item>ENter Text: Enters the spoken text in the text box</item>
+        <item>Long Input: Long dictation mode</item>
+        <item>Check weather: checks the weather</item>
+        <item>Check the ticket: checks the train tickets.</item>
+        <item>Tell the recipe: check the recipe for a given food.</item>
+        <item>Tell a joke: tells a random joke</item>
+        <item>Copy the response: copies the response of a given command.</item>
+        <item>There are more features waiting for being discovered.</item>
 
     </string-array>
 

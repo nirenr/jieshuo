@@ -489,6 +489,17 @@
         <item>Zazaqi</item>
         <item>Medieval French</item>
         <item>Zulu</item>
+
+        <item>奥利亚语</item>
+        <item>弗里西语</item>
+        <item>哈萨克语</item>
+        <item>海地克里奥尔语</item>
+        <item>马尔加什语</item>
+        <item>蒙古语</item>
+        <item>塞索托语</item>
+        <item>维吾尔语</item>
+        <item>乌兹别克语</item>
+
     </string-array>
     <string-array name="lang_values">
         <item>auto</item>
@@ -692,6 +703,17 @@
         <item>zaz</item>
         <item>frm</item>
         <item>zul</item>
+
+        <item>or</item>
+        <item>fy</item>
+        <item>kk</item>
+        <item>ht</item>
+        <item>mg</item>
+        <item>mn</item>
+        <item>st</item>
+        <item>ug</item>
+        <item>uz</item>
+
     </string-array>
     <string-array name="left_button">
         <item>Tolak</item>

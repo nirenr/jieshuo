@@ -178,7 +178,7 @@
         <item>@string/command_to_next_paragraph</item>
 
 
-       <item>@string/command_copy_to_cloud</item>
+        <item>@string/command_copy_to_cloud</item>
         <item>@string/command_paste_from_cloud</item>
         <item>@string/command_up_page</item>
         <item>@string/command_down_page</item>
@@ -502,178 +502,189 @@
         <item>Polaco</item>
         <item>Vietnamita</item>
 
-        <item>Irlandés.</item>
-        <item>¿occitano?</item>
-        <item>Albanés.</item>
-        <item>Idioma aken</item>
-        <item>Aragón.</item>
-        <item>Amhárico.</item>
-        <item>Assam.</item>
-        <item>Aymara.</item>
-        <item>Idioma azerbaiyano</item>
-        <item>Astoria.</item>
-        <item>Osetio.</item>
-        <item>O\' jebuseo</item>
-        <item>¡oh, Dios mío</item>
-        <item>Oromo.</item>
-        <item>Persa.</item>
-        <item>Bretón.</item>
-        <item>Bashkir.</item>
-        <item>Vasco.</item>
-        <item>Portugués brasileño</item>
-        <item>Bielorruso.</item>
-        <item>Bereber.</item>
-        <item>Bangbanya.</item>
-        <item>Sami del Norte</item>
-        <item>Sotto del Norte</item>
-        <item>Bemba.</item>
-        <item>¿en billings</item>
-        <item>Bislama.</item>
-        <item>Baluchi.</item>
-        <item>Islandés.</item>
-        <item>Bosnio.</item>
-        <item>Bojepur.</item>
-        <item>Chuvash.</item>
-        <item>Idioma conga</item>
-        <item>Tártaro.</item>
-        <item>Shan idioma</item>
-        <item>¿en Tetum</item>
-        <item>Di vichy</item>
-        <item>Alemán bajo</item>
-        <item>Filipino.</item>
-        <item>Sánscrito.</item>
-        <item>Friuli.</item>
-        <item>Fulani.</item>
-        <item>¿en francés</item>
-        <item>Gaélico.</item>
-        <item>Idioma congoleño</item>
+        <item>Gaélico irlandés</item>
+        <item>Occitano</item>
+        <item>Albanés</item>
+        <item>Akán</item>
+        <item>Aragonés</item>
+        <item>Amárico</item>
+        <item>Asamés</item>
+        <item>Aymara</item>
+        <item>Azerí</item>
+        <item>Asturiano</item>
+        <item>Osetio</item>
+        <item>Ojibwa</item>
+        <item>Odia</item>
+        <item>Oromo</item>
+        <item>Persa</item>
+        <item>Bretón</item>
+        <item>Bashkir</item>
+        <item>Basco</item>
+        <item>Portugués (Brasil)</item>
+        <item>Bielorruso</item>
+        <item>Bereber</item>
+        <item>Pampango</item>
+        <item>Sami norteño</item>
+        <item>Sotho norteño</item>
+        <item>Bemba</item>
+        <item>Birim</item>
+        <item>Bislama</item>
+        <item>Balochi</item>
+        <item>Islandés</item>
+        <item>Bosnio</item>
+        <item>Bojpurí</item>
+        <item>Chuvasio</item>
+        <item>Conga</item>
+        <item>Tártaro</item>
+        <item>Shan</item>
+        <item>Tetun</item>
+        <item>Maldivo</item>
+        <item>Bajo alemán</item>
+        <item>Filipino</item>
+        <item>Sánscrito</item>
+        <item>Friuliano</item>
+        <item>Fula</item>
+        <item>Feroés</item>
+        <item>Gaélico escocés</item>
+        <item>Congo</item>
         <item>Alto sorabo</item>
-        <item>Khmer.</item>
-        <item>Groenlandés.</item>
-        <item>Georgiano.</item>
-        <item>Gujarat.</item>
+        <item>Jemer</item>
+        <item>Groenlandés</item>
+        <item>Georgiano</item>
+        <item>Gujaratí</item>
         <item>Griego antiguo</item>
         <item>Inglés antiguo</item>
-        <item>Guaraní.</item>
-        <item>Hupa.</item>
-        <item>Kazakhin.</item>
-        <item>Haitiano.</item>
-        <item>Hausa.</item>
-        <item>Montenegrino.</item>
-        <item>Kirguís.</item>
-        <item>Gallego.</item>
-        <item>Francés canadiense</item>
-        <item>Catalán.</item>
-        <item>Kabir.</item>
-        <item>Kanada.</item>
-        <item>Kanuli.</item>
-        <item>Kashubi.</item>
-        <item>¿en cornualles</item>
-        <item>¿en kosa</item>
-        <item>Corso.</item>
-        <item>Crick.</item>
-        <item>Tártaro de Crimea</item>
-        <item>Klingon.</item>
-        <item>Croata.</item>
-        <item>Quechua.</item>
-        <item>Cachemir.</item>
-        <item>Koncani.</item>
-        <item>Kurdo.</item>
-        <item>Latín.</item>
-        <item>Idioma Lao</item>
-        <item>Latgale.</item>
-        <item>Letón.</item>
-        <item>Lingotes de limburgo</item>
-        <item>Lingala.</item>
-        <item>Idiomas oficiales de las naciones unidas</item>
-        <item>Luxemburgués.</item>
-        <item>Lusenya.</item>
-        <item>Idioma rwandés</item>
-        <item>Lituano.</item>
-        <item>Romanche.</item>
-        <item>Idioma romaní</item>
-        <item>Lenguaje lógico</item>
-        <item>Malayo.</item>
-        <item>Birmano.</item>
-        <item>Malayo.</item>
-        <item>Málagas.</item>
-        <item>Malayalam ( malayalam )</item>
-        <item>Macedonio.</item>
-        <item>Idioma de las islas Marshall</item>
-        <item>Maitland.</item>
-        <item>Manx.</item>
+        <item>Guaraní</item>
+        <item>Hupá</item>
+        <item>Hakka</item>
+        <item>Haitiano</item>
+        <item>Hausa</item>
+        <item>Montenegrino</item>
+        <item>Kyrgyz</item>
+        <item>Gallego</item>
+        <item>Francés (Canadá)</item>
+        <item>Catalán</item>
+        <item>Kabila</item>
+        <item>Kannada</item>
+        <item>Canurí</item>
+        <item>Cashubio</item>
+        <item>Córnico</item>
+        <item>Xhosa</item>
+        <item>Corso</item>
+        <item>Cree</item>
+        <item>Tártaro (Crimea)</item>
+        <item>Klingon</item>
+        <item>Croata</item>
+        <item>Quechua</item>
+        <item>Cachemirí</item>
+        <item>Konkaní</item>
+        <item>Curdo</item>
+        <item>Latín</item>
+        <item>Laociano</item>
+        <item>Latgalo (latgaliano)</item>
+        <item>Latvio (letón)</item>
+        <item>Limburgués</item>
+        <item>Lingala</item>
+        <item>Luganda</item>
+        <item>Luxemburgués</item>
+        <item>Lushanio</item>
+        <item>Ruandano (Kinyaruanda)</item>
+        <item>Lituano</item>
+        <item>Romanche</item>
+        <item>Romá (Romaní)</item>
+        <item>Lógica</item>
+        <item>Malayo</item>
+        <item>Birmano</item>
+        <item>Maratí</item>
+        <item>Malagacio</item>
+        <item>Malayalam</item>
+        <item>Macedonio</item>
+        <item>Marshallés</item>
+        <item>Maitilí</item>
+        <item>Gaélico manés</item>
         <item>Criollo mauriciano</item>
-        <item>Maorí.</item>
-        <item>Bengalí.</item>
-        <item>Maltés.</item>
-        <item>Miao.</item>
-        <item>Noruego.</item>
-        <item>Nápoles.</item>
+        <item>Maorí</item>
+        <item>Bengalí</item>
+        <item>Maltés</item>
+        <item>Hmong</item>
+        <item>Noruego</item>
+        <item>Napolitano</item>
         <item>Ndebele del sur</item>
-        <item>Afrikaans</item>
-        <item>Southern sotto</item>
-        <item>Nepalés.</item>
-        <item>Punjab.</item>
-        <item>Papiamento.</item>
-        <item>Pashto.</item>
-        <item>Chicheva.</item>
-        <item>Chewie..</item>
-        <item>Cherokee.</item>
-        <item>Sardinia.</item>
-        <item>Samoano.</item>
-        <item>Serbio - croata</item>
-        <item>Serbio.</item>
-        <item>Sanghai.</item>
-        <item>Cingalés.</item>
-        <item>Esperanto.</item>
-        <item>Noruego por escrito</item>
-        <item>Eslovaco.</item>
-        <item>Swahili.</item>
-        <item>Somalí.</item>
-        <item>Serbio ( cirílico )</item>
-        <item>Turco.</item>
-        <item>Tayiko.</item>
-        <item>Tamil.</item>
-        <item>Botón tagalog</item>
-        <item>Tigliana.</item>
-        <item>Telugu.</item>
-        <item>árabe tunecino</item>
-        <item>Turcomano.</item>
-        <item>Ucraniano.</item>
-        <item>Valón.</item>
-        <item>Galés.</item>
-        <item>Texto del proyecto de resolución</item>
-        <item>Botón wolof</item>
-        <item>Urdu.</item>
-        <item>Hebreo.</item>
-        <item>Frisón occidental</item>
-        <item>Cirílico.</item>
-        <item>Idioma griego</item>
-        <item>En sorabo</item>
-        <item>Hawaiano.</item>
+        <item>Neerlandés africano (Afrikáans)</item>
+        <item>Sotho sureño</item>
+        <item>Nepalí</item>
+        <item>Panyabí</item>
+        <item>Papiamento</item>
+        <item>Pastún</item>
+        <item>Chichewa</item>
+        <item>Chiviano</item>
+        <item>Cheroqui</item>
+        <item>Sardo</item>
+        <item>Samoano</item>
+        <item>Serbocroata</item>
+        <item>Serbio</item>
+        <item>Sanhaynés</item>
+        <item>Singalés</item>
+        <item>Esperanto</item>
+        <item>Noruego del libro</item>
+        <item>Eslovaco</item>
+        <item>Suajili</item>
+        <item>Somalí</item>
+        <item>Serbio (Cirílico)</item>
+        <item>Turco</item>
+        <item>Tayico</item>
+        <item>Támil</item>
+        <item>Tagalo</item>
+        <item>Tigrinya</item>
+        <item>Télugu</item>
+        <item>Árabe (Túnez)</item>
+        <item>Turcomano</item>
+        <item>Ucranio</item>
+        <item>Valón</item>
+        <item>Galés</item>
+        <item>Vinda</item>
+        <item>Voloviano</item>
+        <item>Urdú</item>
+        <item>Hebreo</item>
+        <item>Sephárico</item>
+        <item>Siliciano</item>
+        <item>Hiligaynon</item>
+        <item>Bajo sorabo</item>
+        <item>Hawayano</item>
         <item>Nuevo noruego</item>
-        <item>Idiomas escritos en áfrica occidental</item>
-        <item>¿en alemán</item>
-        <item>¿en sinaí</item>
-        <item>Idioma de cebú</item>
-        <item>Sirio.</item>
-        <item>Otros idiomas</item>
-        <item>Hindi.</item>
-        <item>Hindi.</item>
-        <item>Idiomas de trabajo: italiano</item>
-        <item>Idioma de internet</item>
-        <item>Botón Aceh</item>
-        <item>Idioma Ingushetia</item>
-        <item>Idioma Igbo</item>
-        <item>Multilingüismo en El Iraq</item>
-        <item>Yoruba.</item>
-        <item>Armenio.</item>
-        <item>Inuktitut.</item>
-        <item>Idioma iraní</item>
-        <item>Zazaki.</item>
-        <item>Botón francés medio</item>
-        <item>Zulú.</item>
-        <item>Java.</item>
+        <item>Lengua africana occidental escrita</item>
+        <item>Sindhí</item>
+        <item>Shona</item>
+        <item>Cebuano</item>
+        <item>Siríaco</item>
+        <item>Sundanés</item>
+        <item>Hindí</item>
+        <item>Indonesio</item>
+        <item>Yidis</item>
+        <item>interlingua</item>
+        <item>Azerí</item>
+        <item>Ingush</item>
+        <item>Ibo</item>
+        <item>Ido</item>
+        <item>Yoruba</item>
+        <item>Armenio</item>
+        <item>Inuctitut</item>
+        <item>Iraní</item>
+        <item>Zazaquí</item>
+        <item>Francés medieval</item>
+        <item>Zulú</item>
+        <item>Javanés</item>
+
+        <item>奥利亚语</item>
+        <item>弗里西语</item>
+        <item>哈萨克语</item>
+        <item>海地克里奥尔语</item>
+        <item>马尔加什语</item>
+        <item>蒙古语</item>
+        <item>塞索托语</item>
+        <item>维吾尔语</item>
+        <item>乌兹别克语</item>
+
     </string-array>
     <string-array name="lang_values">
         <item>auto</item>
@@ -878,6 +889,17 @@
         <item>frm</item>
         <item>zul</item>
         <item>jav</item>
+
+        <item>or</item>
+        <item>fy</item>
+        <item>kk</item>
+        <item>ht</item>
+        <item>mg</item>
+        <item>mn</item>
+        <item>st</item>
+        <item>ug</item>
+        <item>uz</item>
+
     </string-array>
 
     <string-array name="tts_engine_values">
@@ -1050,7 +1072,5 @@
         <item>traducción y reconocimiento de texto</item>
         <item>Ventanas.</item>
     </string-array>
-
-
 
 </resources>

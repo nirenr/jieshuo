@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="execute_command">
         <item>@string/command_nothing</item>
@@ -232,6 +232,8 @@
         <item>@string/favorites_menu_title</item>
         <item>@string/split_edit_title</item>
         <item>@string/command_long_copy</item>
+        <item>Open keyboard</item>
+
     </string-array>
     <string-array name="menu_def_items">
         <item>@string/split_menu_title</item>
@@ -273,25 +275,25 @@
         <item>@string/command_virtual_navigation</item>
     </string-array>
     <string-array name="left_button">
-        <item>Desligar</item>
-        <item>rejeitar</item>
-        <item>*Varra para rejeitar chamadas*</item>
-        <item>Finalizar chamada</item>
-        <item>Desligar chamada</item>
-        <item>Responder chamada</item>
-        <item>Finalizar chamada do QQ</item>
-        <item>Finalizar chamada QQ</item>
-        <item>Anterior</item>
-        <item>Faixa anterior</item>
-        <item>Navegar para cima</item>
+        <item>Gác máy</item>
+        <item>Từ chối</item>
+        <item>*Vuốt sang trái để từ chối*</item>
+        <item>Kết thúc cuộc gọi</item>
+        <item>Gác máy</item>
+        <item>Kết thúc cuộc gọi</item>
+        <item>结束QQ通话</item>
+        <item>结束QQ电话</item>
+        <item>Phương tiện trước</item>
+        <item>Phương tiện trước</item>
+        <item>Quay lại</item>
     </string-array>
     <string-array name="right_button">
-        <item>Responder chamada</item>
-        <item>*Varra para aceitar a chamada*</item>
-        <item>Mãos-livres</item>
-        <item>Alto-falante</item>
-        <item>Vai para o próximo</item>
-        <item>Próxima faixa</item>
+        <item>Trả lời</item>
+        <item>*Vuốt sang phải để trả lời*</item>
+        <item>Rảnh tay</item>
+        <item>Loa</item>
+        <item>Phương tiện tiếp</item>
+        <item>Phương tiện tiếp</item>
     </string-array>
 
     <string-array name="voice_recognizer_values">
@@ -301,10 +303,10 @@
         <item>2</item>
     </string-array>
     <string-array name="voice_recognizer_entries">
-        <item>System</item>
-        <item>Motor 1</item>
-        <item>Motor 2</item>
-        <item>Motor 3</item>
+        <item>Công cụ hệ thống</item>
+        <item>Công cụ 1</item>
+        <item>Công cụ 2</item>
+        <item>Công cụ 3</item>
     </string-array>
     <string-array name="tts_values">
         <item>0</item>
@@ -410,10 +412,10 @@
         <item>100</item>
     </string-array>
     <!--string-array name="tts_speaker_title">
-        <item>Voz Feminina</item>
-        <item>Voz Masculina</item>
-        <item>Feliz</item>
-        <item>Doce</item>
+        <item>giọng nữ</item>
+        <item>Giọng nam</item>
+        <item>Du Xiao Yao</item>
+        <item>Du Ya Ya</item>
     </string-array>
     <string-array name="tts_speaker">
         <item>0</item>
@@ -422,10 +424,10 @@
         <item>4</item>
     </string-array-->
     <string-array name="vibrate_intensity_entries">
-        <item>Fraco</item>
-        <item>Médio</item>
-        <item>Forte</item>
-        <item>Muito forte</item>
+        <item>Sáng</item>
+        <item>Trung bình</item>
+        <item>Mạnh</item>
+        <item>Rất mạnh</item>
     </string-array>
     <string-array name="vibrate_intensity_values">
         <item>12</item>
@@ -434,9 +436,9 @@
         <item>64</item>
     </string-array>
     <string-array name="long_click_entries">
-        <item>Curto</item>
-        <item>Médio</item>
-        <item>Longo</item>
+        <item>Ngắn</item>
+        <item>Trung bình</item>
+        <item>Dài</item>
     </string-array>
     <string-array name="long_click_values">
         <item>500</item>
@@ -444,10 +446,10 @@
         <item>1000</item>
     </string-array>
     <string-array name="edge_gesture_width_entries">
-        <item>Pequeno</item>
-        <item>Médio</item>
-        <item>Grande</item>
-        <item>Máximo</item>
+        <item>Nhỏ</item>
+        <item>Trung bình</item>
+        <item>Lớn</item>
+        <item>tối đa</item>
     </string-array>
     <string-array name="edge_gesture_width_values">
         <item>8</item>
@@ -456,225 +458,227 @@
         <item>20</item>
     </string-array>
     <string-array name="tts_speaker_entries">
-        <item>Xiaoyan</item>
-        <item>Xiaofeng</item>
+        <item>Xiao Yan</item>
+        <item>Xiao Feng</item>
     </string-array>
     <string-array name="tts_speaker_values">
         <item>xiaoyan</item>
         <item>xiaofeng</item>
     </string-array>
     <string-array name="advanced_menu_items">
-        <item>Tradução</item>
-        <item>Reconhecer cenas</item>
-        <item>Reconhecimento de Texto</item>
-        <item>Reconhecimento facial</item>
-        <item>Reconhecimento de CAPTCHA</item>
-        <item>Resultado do Reconhecimento</item>
-        <item>Descrição de imagem</item>
+        <item>Dịch tiêu điểm hiện tại và sao chép bản dịch</item>
+        <item>Nhận biết phong cảnh</item>
+        <item>Nhận dạng sau đó dịch văn bản của tiêu điểm hiện tại</item>
+        <item>Nhận dạng khuôn mặt</item>
+        <item>nhận dạng CAPTCHA</item>
+        <item>Xem kết quả nhận dạng</item>
+        <item>nhận dạng hình ảnh</item>
+        <item>Xác minh câu đố thanh trượt</item>
+        <item>nhận dạng câu đố</item>
     </string-array>
     <string-array name="lang_entries">
-        <item>Automático</item>
-        <item>Coreano</item>
-        <item>Chinês Simplificado</item>
-        <item>Chinês Tradicional</item>
-        <item>holandês</item>
-        <item>Tailandês</item>
-        <item>Grego</item>
-        <item>Italiano</item>
-        <item>Esloveno</item>
-        <item>Japonês</item>
-        <item>Inglês</item>
-        <item>Árabe</item>
-        <item>Cantonês</item>
-        <item>Húngaro</item>
-        <item>Estoniano</item>
-        <item>Rumano</item>
-        <item>Chinês</item>
-        <item>Checo</item>
-        <item>Alemão</item>
-        <item>Francês</item>
-        <item>Filandês</item>
-        <item>Português</item>
-        <item>Dinamarquês</item>
-        <item>Russo</item>
-        <item>Búlgaro</item>
-        <item>Espanhol</item>
-        <item>Sueco</item>
-        <item>Polonês</item>
-        <item>Vietnamita</item>
+        <item>Tự động</item>
+        <item>Hàn Quốc</item>
+        <item>Trung quốc phồn thể</item>
+        <item>Trung quốc dản thể</item>
+        <item>Hà Lan</item>
+        <item>Thái</item>
+        <item>Hy Lạp</item>
+        <item>Ý</item>
+        <item>Slovenia</item>
+        <item>Nhật</item>
+        <item>Anh</item>
+        <item>Ả Rập</item>
+        <item>Quảng Đông</item>
+        <item>Hungary</item>
+        <item>Estonia</item>
+        <item>Rumani</item>
+        <item>Trung quốc</item>
+        <item>Séc</item>
+        <item>Đức</item>
+        <item>Pháp</item>
+        <item>Phần Lan</item>
+        <item>Bồ Đào Nha</item>
+        <item>Đan Mạch</item>
+        <item>Nga</item>
+        <item>Bungari</item>
+        <item>Tây Ban Nha</item>
+        <item>Thụy Điển</item>
+        <item>Polish</item>
+        <item>Việt nam</item>
 
-        <item>爱尔兰语</item>
-        <item>奥克语</item>
-        <item>阿尔巴尼亚语</item>
-        <item>阿肯语</item>
-        <item>阿拉贡语</item>
-        <item>阿姆哈拉语</item>
-        <item>阿萨姆语</item>
-        <item>艾马拉语</item>
-        <item>阿塞拜疆语</item>
-        <item>阿斯图里亚斯语</item>
-        <item>奥塞梯语</item>
-        <item>奥杰布瓦语</item>
-        <item>奥里亚语</item>
-        <item>奥罗莫语</item>
-        <item>波斯语</item>
-        <item>布列塔尼语</item>
-        <item>巴什基尔语</item>
-        <item>巴斯克语</item>
-        <item>巴西葡萄牙语</item>
-        <item>白俄罗斯语</item>
-        <item>柏柏尔语</item>
-        <item>邦板牙语</item>
-        <item>北方萨米语</item>
-        <item>北索托语</item>
-        <item>本巴语</item>
-        <item>比林语</item>
-        <item>比斯拉马语</item>
-        <item>俾路支语</item>
-        <item>冰岛语</item>
-        <item>波斯尼亚语</item>
-        <item>博杰普尔语</item>
-        <item>楚瓦什语</item>
-        <item>聪加语</item>
-        <item>鞑靼语</item>
-        <item>掸语</item>
-        <item>德顿语</item>
-        <item>迪维希语</item>
-        <item>低地德语</item>
-        <item>菲律宾语</item>
-        <item>梵语</item>
-        <item>弗留利语</item>
-        <item>富拉尼语</item>
-        <item>法罗语</item>
-        <item>盖尔语</item>
-        <item>刚果语</item>
-        <item>高地索布语</item>
-        <item>高棉语</item>
-        <item>格陵兰语</item>
-        <item>格鲁吉亚语</item>
-        <item>古吉拉特语</item>
-        <item>古希腊语</item>
-        <item>古英语</item>
-        <item>瓜拉尼语</item>
-        <item>胡帕语</item>
-        <item>哈卡钦语</item>
-        <item>海地语</item>
-        <item>豪萨语</item>
-        <item>黑山语</item>
-        <item>吉尔吉斯语</item>
-        <item>加利西亚语</item>
-        <item>加拿大法语</item>
-        <item>加泰罗尼亚语</item>
-        <item>卡拜尔语</item>
-        <item>卡纳达语</item>
-        <item>卡努里语</item>
-        <item>卡舒比语</item>
-        <item>康瓦尔语</item>
-        <item>科萨语</item>
-        <item>科西嘉语</item>
-        <item>克里克语</item>
-        <item>克里米亚鞑靼语</item>
-        <item>克林贡语</item>
-        <item>克罗地亚语</item>
-        <item>克丘亚语</item>
-        <item>克什米尔语</item>
-        <item>孔卡尼语</item>
-        <item>库尔德语</item>
-        <item>拉丁语</item>
-        <item>老挝语</item>
-        <item>拉特加莱语</item>
-        <item>拉脱维亚语</item>
-        <item>林堡语</item>
-        <item>林加拉语</item>
-        <item>卢干达语</item>
-        <item>卢森堡语</item>
-        <item>卢森尼亚语</item>
-        <item>卢旺达语</item>
-        <item>立陶宛语</item>
-        <item>罗曼什语</item>
-        <item>罗姆语</item>
-        <item>逻辑语</item>
-        <item>马来语</item>
-        <item>缅甸语</item>
-        <item>马拉地语</item>
-        <item>马拉加斯语</item>
-        <item>马拉雅拉姆语</item>
-        <item>马其顿语</item>
-        <item>马绍尔语</item>
-        <item>迈蒂利语</item>
-        <item>曼克斯语</item>
-        <item>毛里求斯克里奥尔语</item>
-        <item>毛利语</item>
-        <item>孟加拉语</item>
-        <item>马耳他语</item>
-        <item>苗语</item>
-        <item>挪威语</item>
-        <item>那不勒斯语</item>
-        <item>南恩德贝莱语</item>
-        <item>南非荷兰语</item>
-        <item>南索托语</item>
-        <item>尼泊尔语</item>
-        <item>旁遮普语</item>
-        <item>帕皮阿门托语</item>
-        <item>普什图语</item>
-        <item>齐切瓦语</item>
-        <item>契维语</item>
-        <item>切罗基语</item>
-        <item>萨丁尼亚语</item>
-        <item>萨摩亚语</item>
-        <item>塞尔维亚-克罗地亚语</item>
-        <item>塞尔维亚语</item>
-        <item>桑海语</item>
-        <item>僧伽罗语</item>
-        <item>世界语</item>
-        <item>书面挪威语</item>
-        <item>斯洛伐克语</item>
-        <item>斯瓦希里语</item>
-        <item>索马里语</item>
-        <item>塞尔维亚语（西里尔）</item>
-        <item>土耳其语</item>
-        <item>塔吉克语</item>
-        <item>泰米尔语</item>
-        <item>他加禄语</item>
-        <item>提格利尼亚语</item>
-        <item>泰卢固语</item>
-        <item>突尼斯阿拉伯语</item>
-        <item>土库曼语</item>
-        <item>乌克兰语</item>
-        <item>瓦隆语</item>
-        <item>威尔士语</item>
-        <item>文达语</item>
-        <item>沃洛夫语</item>
-        <item>乌尔都语</item>
-        <item>希伯来语</item>
-        <item>西弗里斯语</item>
-        <item>西里西亚语</item>
-        <item>希利盖农语</item>
-        <item>下索布语</item>
-        <item>夏威夷语</item>
-        <item>新挪威语</item>
-        <item>西非书面语</item>
-        <item>信德语</item>
-        <item>修纳语</item>
-        <item>宿务语</item>
-        <item>叙利亚语</item>
-        <item>巽他语</item>
-        <item>印地语</item>
-        <item>印尼语</item>
-        <item>意第绪语</item>
-        <item>因特语</item>
-        <item>亚齐语</item>
-        <item>印古什语</item>
-        <item>伊博语</item>
-        <item>伊多语</item>
-        <item>约鲁巴语</item>
-        <item>亚美尼亚语</item>
-        <item>伊努克提图特语</item>
-        <item>伊朗语</item>
-        <item>扎扎其语</item>
-        <item>中古法语</item>
-        <item>祖鲁语</item>
-        <item>爪哇语</item>
+        <item>Irish</item>
+        <item>Orkish</item>
+        <item>Albanian</item>
+        <item>Akan</item>
+        <item>Aragonese</item>
+        <item>Amharic</item>
+        <item>Assamese</item>
+        <item>Aymara</item>
+        <item>Azeri</item>
+        <item>Asturian</item>
+        <item>Ossetian</item>
+        <item>Ojibwa</item>
+        <item>Oryan</item>
+        <item>Oromo</item>
+        <item>Persian</item>
+        <item>Breton</item>
+        <item>Bashkir</item>
+        <item>Basque</item>
+        <item>Brazilian Portuguese</item>
+        <item>Belarusian</item>
+        <item>Berber</item>
+        <item>Pampanga</item>
+        <item>Northern Sami</item>
+        <item>Northern Sotho</item>
+        <item>Bemba</item>
+        <item>Birim</item>
+        <item>Bislama</item>
+        <item>Balochian</item>
+        <item>Icelandic</item>
+        <item>Bosnian</item>
+        <item>Bhojpuri</item>
+        <item>Chuvash</item>
+        <item>Conga</item>
+        <item>Tatar</item>
+        <item>Shan</item>
+        <item>Detun</item>
+        <item>Dhivehi</item>
+        <item>Lowland German</item>
+        <item>Filipino</item>
+        <item>Sanskrit</item>
+        <item>Friuli</item>
+        <item>Fulani</item>
+        <item>Faroese</item>
+        <item>Gaelic</item>
+        <item>Congo</item>
+        <item>Highland Sorbian</item>
+        <item>Khmer</item>
+        <item>Greenlandic</item>
+        <item>Georgian</item>
+        <item>Gujarati</item>
+        <item>Ancient Greek</item>
+        <item>Old English</item>
+        <item>Guarani</item>
+        <item>Hupa</item>
+        <item>Hakachin</item>
+        <item>Haitian</item>
+        <item>Hausa</item>
+        <item>Montenegrin</item>
+        <item>Kyrgyz</item>
+        <item>Galician</item>
+        <item>Canadian French</item>
+        <item>Catalan</item>
+        <item>Kabairian</item>
+        <item>Kanadian</item>
+        <item>Kanuri</item>
+        <item>Kashubian</item>
+        <item>Kangwar</item>
+        <item>Corsa</item>
+        <item>Corsican</item>
+        <item>Creek</item>
+        <item>Crimea Tatar</item>
+        <item>Klingon</item>
+        <item>Croatian</item>
+        <item>Kechuan</item>
+        <item>Kashmiri</item>
+        <item>Konkani</item>
+        <item>Kurdish</item>
+        <item>Latin</item>
+        <item>Laotian</item>
+        <item>Latgalai</item>
+        <item>Latvian</item>
+        <item>Limburgish</item>
+        <item>Lingala</item>
+        <item>Luganda</item>
+        <item>Luxembourgish</item>
+        <item>Lushanian</item>
+        <item>Rwandan</item>
+        <item>Lithuanian</item>
+        <item>Romansh</item>
+        <item>Roma</item>
+        <item>Logic</item>
+        <item>Malay</item>
+        <item>Burmese</item>
+        <item>Marathi</item>
+        <item>Malagasy</item>
+        <item>Malayalam</item>
+        <item>Macedonian</item>
+        <item>Marshallese</item>
+        <item>Maitili</item>
+        <item>Manx</item>
+        <item>Mauritian Creole</item>
+        <item>Maori</item>
+        <item>Bengali</item>
+        <item>Maltese</item>
+        <item>Hmong</item>
+        <item>Norwegian</item>
+        <item>Neapolitan</item>
+        <item>South Ndebele</item>
+        <item>African Dutch</item>
+        <item>South Sotho</item>
+        <item>Nepali</item>
+        <item>Punjabi</item>
+        <item>Papi Amento</item>
+        <item>Pashto</item>
+        <item>Chichewa</item>
+        <item>Chivean</item>
+        <item>Cherokee</item>
+        <item>Sardinian</item>
+        <item>Samoan</item>
+        <item>Serbian-Croatian</item>
+        <item>Serbian</item>
+        <item>Sanghainese</item>
+        <item>Sinhalese</item>
+        <item>Asperanto</item>
+        <item>Written Norwegian</item>
+        <item>Slovak</item>
+        <item>Kiswahili</item>
+        <item>Somali</item>
+        <item>Serbian (Cyrillic)</item>
+        <item>Turkish</item>
+        <item>Tajik</item>
+        <item>Tamil</item>
+        <item>Tagalog</item>
+        <item>Tigrinya</item>
+        <item>Telugu</item>
+        <item>Tunisian Arabic</item>
+        <item>Turkmen</item>
+        <item>Ukrainian</item>
+        <item>Walloon</item>
+        <item>Welsh</item>
+        <item>Vinda</item>
+        <item>Volovian</item>
+        <item>Urdu</item>
+        <item>Hebrew</item>
+        <item>Sepharic</item>
+        <item>Cilician</item>
+        <item>Hiligaynon</item>
+        <item>Lower Sorbian</item>
+        <item>Hawaiian</item>
+        <item>New Norwegian</item>
+        <item>Western African written language</item>
+        <item>Sindhi</item>
+        <item>Shona</item>
+        <item>Cebuano</item>
+        <item>Syriac</item>
+        <item>Sundanese</item>
+        <item>Hindi</item>
+        <item>Indonesian</item>
+        <item>Yiddish</item>
+        <item>Inte</item>
+        <item>Azeri</item>
+        <item>Ingush</item>
+        <item>Ibo language</item>
+        <item>Ido language</item>
+        <item>Yoruba</item>
+        <item>Armenian</item>
+        <item>Inuktitut</item>
+        <item>Iranian</item>
+        <item>Zazaqi</item>
+        <item>Medieval French</item>
+        <item>Zulu</item>
+        <item>Javanese</item>
 
         <item>奥利亚语</item>
         <item>弗里西语</item>
@@ -904,22 +908,26 @@
     </string-array>
 
     <string-array name="tts_engine_values">
-        <item>system</item>
+        <item>hệ thống</item>
         <item>unisound</item>
+        <item>baidu</item>
     </string-array>
     <string-array name="tts_engine_entries">
-        <item>Sintetizador do Sistema</item>
-        <item>Yunzhisheng TTS</item>
+        <item>Công cụ giọng nói hệ thống</item>
+        <item>Uni sound</item>
+        <item>Baidu</item>
     </string-array>
     <string-array name="tts_engine_vip_values">
-        <item>system</item>
+        <item>Hệ thống</item>
         <item>iflytek</item>
         <item>unisound</item>
+        <item>baidu</item>
     </string-array>
     <string-array name="tts_engine_vip_entries">
-        <item>Sintetizador do Sistema</item>
-        <item>Xunfei TTS</item>
-        <item>Yunzhisheng TTS</item>
+        <item>Công cụ giọng nói hệ thống</item>
+        <item>IFlytek</item>
+        <item>Uni sound</item>
+        <item>Baidu Cloud TTS</item>
     </string-array>
     <string-array name="alarm_interval_values">
         <item>5</item>
@@ -929,11 +937,11 @@
         <item>60</item>
     </string-array>
     <string-array name="alarm_interval_entries">
-        <item>Cada 5 minutos</item>
-        <item>Cada 10 minutos</item>
-        <item>Cada 15 minutos</item>
-        <item>Cada 30 minutos</item>
-        <item>Cada 60 minutos</item>
+        <item>Cứ sau 5 phút</item>
+        <item>Cứ sau 10 phút</item>
+        <item>Cứ sau 15 phút</item>
+        <item>Cứ sau 30 phút</item>
+        <item>Mỗi tiếng</item>
     </string-array>
     <string-array name="timer_interval_values">
         <item>1</item>
@@ -942,10 +950,10 @@
         <item>15</item>
     </string-array>
     <string-array name="timer_interval_entries">
-        <item>1 minuto</item>
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>15 minutos</item>
+        <item>1 phút</item>
+        <item>5 phút</item>
+        <item>10 phút</item>
+        <item>15 phút</item>
     </string-array>
     <string-array name="alarm_hour_values">
         <item>0</item>
@@ -975,10 +983,10 @@
         <item>24</item>
     </string-array>
     <string-array name="recognizer_lang_entries">
-        <item>Chinês Simp</item>
-        <item>Chinês Trad</item>
-        <item>Português</item>
-     </string-array>
+        <item>Chinese simplified</item>
+        <item>Chinese cantonese</item>
+        <item>English</item>
+    </string-array>
     <string-array name="recognizer_lang_values">
         <item>zh_CN</item>
         <item>zh_GD</item>
@@ -998,88 +1006,89 @@
         <item>4</item>
         <item>5</item>
     </string-array>
-    <string-array name="web_type_title">
-        <item>Padrão</item>
-        <item>Cabeçalho</item>
-        <item>Link</item>
-        <item>Botão</item>
+    <string-array name="web_type_title" >
+        <item>Mặc định</item>
+        <item>tiêu đề</item>
+        <item>liên kết</item>
+        <item>nút</item>
 
-        <item>ponto de referência</item>
-        <item>Caixa de edição</item>
-        <item>foco</item>
-        <item>Controles</item>
-        <item>imagem</item>
-        <item>Caixa de verificação</item>
-        <item>Caixa combinada</item>
-        <item>Formulário</item>
-        <item>Lista</item>
-        <item>Item de lista</item>
+        <item>Mốc</item>
+        <item>hộp văn bản</item>
+        <item>Phần tử có thể tập trung</item>
+        <item>điều khiển</item>
+        <item>Hình ảnh</item>
+        <item>hộp kiểm</item>
+        <item>Danh sách thả xuống</item>
+        <item>Biểu mẫu</item>
+        <item>danh sách</item>
+        <item>Mục danh sách</item>
 
-        <item>Mudança de página</item>
-        <item>Visualizar</item>
+        <item>chế độ cuộn</item>
+        <item>Xem</item>
 
-        <item>Caractere</item>
-        <item>Palavra</item>
-        <item>Linha</item>
-        <item>Parágrafo</item>
-        <item>Página</item>
-        <item>Copiar / Adicionar</item>
-        <item>volume</item>
-        <item>Velocidade de fala</item>
-        <item>Traduzir</item>
-        <item>Janela</item>
+        <item>Kí tự</item>
+        <item>Từ</item>
+        <item>Dòng</item>
+        <item>đoạn</item>
+        <item>Trang</item>
+        <item>chế độ sao chép</item>
+        <item>âm lượng phương tiện</item>
+        <item>Tốc độ giọng nói</item>
+        <item>Dịch và OCR</item>
+        <item>Vùng màn hình</item>
+
     </string-array>
 
     <string-array name="hot_key_help_items" >
-        <item>CTRL+DPAD_UP: Foca o último item</item>
-        <item>CTRL+DPAD_DOWN: Foca o próximo item</item>
-        <item>CTRL+DPAD_LEFT: Aciona o atalho esquerdo</item>
-        <item>CTRL+DPAD_RIGHT: Aciona o atalho direito</item>
-        <item>CTRL+PAGE_UP: Rola para cima</item>
-        <item>CTRL+PAGE_DOWN: Rola para baixo</item>
-        <item>CTRL+H: Vai para a Home</item>
-        <item>CTRL+N: Vai para a barra de notificações</item>
-        <item>CTRL+P: Abre a lista de recentes</item>
-        <item>CTRL+SPACE: Clica em um item</item>
-        <item>CTRL+L: Mantêm pressionado</item>
-        <item>CTRL+Q: Abre a configuração rápida</item>
+        <item>CTRL+DPAD_UP: Phần tử trước</item>
+        <item>CTRL+DPAD_DOWN: Phần tử tiếp</item>
+        <item>CTRL+DPAD_LEFT: Phím tắt trước</item>
+        <item>CTRL+DPAD_RIGHT: Phím tắt tiếp</item>
+        <item>CTRL+PAGE_UP: Cuộn lên</item>
+        <item>CTRL+PAGE_DOWN: Cuộn xuống</item>
+        <item>CTRL+H: Màn hình chính</item>
+        <item>CTRL+N: thanh thông báo</item>
+        <item>CTRL+P: ứng dụng gần đây</item>
+        <item>CTRL+SPACE: Nhấn</item>
+        <item>CTRL+L: Nhấn lâu</item>
+        <item>CTRL+Q: Cài đặt nhanh</item>
 
-        <item>ALT+M: Abre o menu principal</item>
-        <item>ALT+A: Abre o menu ações</item>
-        <item>ALT+P: Abre o menu de Extensões</item>
-        <item>ALT+T: Abre o menu de Ferramentas e plugins</item>
-        <item>ALT+V: Abre o Assistente de Voz</item>
-        <item>ALT+S: Abre o menu de Edição</item>
-        <item>ALT+L: Navega por listas</item>
+        <item>ALT+M: Menu chính</item>
+        <item>ALT+A: Menu chức năng</item>
+        <item>ALT+P: Tiện ích mở rộng</item>
+        <item>ALT+T: Công cụ</item>
+        <item>ALT+V: trợ lý giọng nói</item>
+        <item>ALT+S: Chế độ chỉnh sửa chi tiết</item>
+        <item>ALT+L: Chế độ duyệt danh sách</item>
 
     </string-array>
       <string-array name="view_type_title" >
-        <item>padrão</item>
-        <item>texto</item>
-        <item>Botão</item>
-        <item>Caixa de edição</item>
+        <item>Mặc định</item>
+        <item>nhãn</item>
+        <item>nút</item>
+        <item>hộp văn bản</item>
 
-        <item>imagem</item>
-        <item>Caixa de verificação</item>
-        <item>Barra de progresso</item>
-        <item>Lista</item>
-        <item>Item de lista</item>
-        <item>Focável</item>
-        <item>Clicável</item>
-        <item>Nó </item>
-        <item>Barra de rolagem</item>
-        <item>Mover verticalmente</item>
+        <item>Hình ảnh</item>
+        <item>hộp kiểm</item>
+        <item>thanh tiến trình</item>
+        <item>danh sách</item>
+        <item>Mục danh sách</item>
+        <item>Phần tử có thể tập trung</item>
+        <item>Phần tử có thể nhấn</item>
+        <item>Nút</item>
+        <item>chế độ cuộn</item>
+        <item>điều hướng dọc</item>
 
-        <item>Caractere</item>
-        <item>Palavra</item>
-        <item>Linha</item>
-        <item>Parágrafo</item>
-        <item>Página </item>
-        <item>copiar / adicionar</item>
-        <item>volume</item>
-        <item>Velocidade de fala</item>
-        <item>Traduzir</item>
-        <item>Janela</item>
+        <item>Kí tự</item>
+        <item>Từ</item>
+        <item>Dòng</item>
+        <item>tiêu đề</item>
+        <item>Trang</item>
+        <item>chế độ sao chép</item>
+        <item>âm lượng phương tiện</item>
+        <item>Tốc độ giọng nói</item>
+        <item>Dịch và OCR</item>
+        <item>Vùng màn hình</item>
 
     </string-array>
 

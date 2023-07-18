@@ -2,7 +2,7 @@
 <resources>
   <!--Source: Activity title.
         Description: Title for the Settings activity.-->
-  <string name="tts_settings_label">Config del sintetizador eSpeak</string>
+  <string name="tts_settings_label">Configuración del sintetizador eSpeak</string>
   <!--Source: Preference title.
         Description: Title for the preference that controls default voice pitch.-->
   <string name="setting_default_pitch">Tono</string>

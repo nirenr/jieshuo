@@ -232,6 +232,8 @@
         <item>@string/favorites_menu_title</item>
         <item>@string/split_edit_title</item>
         <item>@string/command_long_copy</item>
+        <item>Open keyboard</item>
+
     </string-array>
     <string-array name="menu_def_items">
         <item>@string/split_menu_title</item>
@@ -274,24 +276,24 @@
     </string-array>
     <string-array name="left_button">
         <item>Прекини</item>
-        <item>Одбиј</item>
-        <item>*Превуци за одбијање позива*</item>
+        <item>Одби</item>
+        <item>*Превуците улево да бисте одбили*</item>
         <item>Заврши позив</item>
+        <item>Прекинути</item>
         <item>Прекини позив</item>
-        <item>Прекини позив</item>
+        <item>Заврши QQ позив</item>
         <item>Прекини QQ позив</item>
-        <item>Прекини QQ позив</item>
-        <item>Иди на претходну ставку</item>
         <item>Претходна песма</item>
-        <item>крећи се на горе</item>
+        <item>Претходна нумера</item>
+        <item>Кретање нагоре</item>
     </string-array>
     <string-array name="right_button">
-        <item>Одговори на позив</item>
-        <item>*Превуци за одговарање на позив*</item>
-        <item>Хандсфрее режим</item>
-        <item>Режим звучника</item>
-        <item>Иди на следећу ставку</item>
+        <item>Одговори</item>
+        <item>*Превуците удесно да бисте одговорили*</item>
+        <item>Hands-free</item>
+        <item>Звучник</item>
         <item>Следећа песма</item>
+        <item>Следећа нумера</item>
     </string-array>
 
     <string-array name="voice_recognizer_values">
@@ -301,10 +303,10 @@
         <item>2</item>
     </string-array>
     <string-array name="voice_recognizer_entries">
-        <item>система</item>
-        <item>препознавач 1</item>
-        <item>препознавач 2</item>
-        <item>препознавач 3</item>
+        <item>Системска јединица</item>
+        <item>Јединица 1</item>
+        <item>Јединица 2</item>
+        <item>Јединица 3</item>
     </string-array>
     <string-array name="tts_values">
         <item>0</item>
@@ -412,8 +414,8 @@
     <!--string-array name="tts_speaker_title">
         <item>Женски глас</item>
         <item>Мушки глас</item>
-        <item>Срећко</item>
-        <item>До Ја Ја</item>
+        <item>Ду Ксијао Јао</item>
+        <item>Ду Ја Ја</item>
     </string-array>
     <string-array name="tts_speaker">
         <item>0</item>
@@ -422,10 +424,10 @@
         <item>4</item>
     </string-array-->
     <string-array name="vibrate_intensity_entries">
-        <item>слабо</item>
-        <item>средње</item>
+        <item>Слабо</item>
+        <item>Средње</item>
         <item>Јако</item>
-        <item>Веома јако</item>
+        <item>Најјаче</item>
     </string-array>
     <string-array name="vibrate_intensity_values">
         <item>12</item>
@@ -434,9 +436,9 @@
         <item>64</item>
     </string-array>
     <string-array name="long_click_entries">
-        <item>кратак</item>
-        <item>средњи</item>
-        <item>дуг</item>
+        <item>Кратак</item>
+        <item>Средњи</item>
+        <item>Дуги</item>
     </string-array>
     <string-array name="long_click_values">
         <item>500</item>
@@ -444,10 +446,10 @@
         <item>1000</item>
     </string-array>
     <string-array name="edge_gesture_width_entries">
-        <item>мала</item>
-        <item>средња</item>
-        <item>велика</item>
-        <item>Дивовска</item>
+        <item>Мала</item>
+        <item>Средња</item>
+        <item>Велика</item>
+        <item>Максимална</item>
     </string-array>
     <string-array name="edge_gesture_width_values">
         <item>8</item>
@@ -456,36 +458,38 @@
         <item>20</item>
     </string-array>
     <string-array name="tts_speaker_entries">
-        <item>Ксиаојанн</item>
-        <item>Ксиаофенг</item>
+        <item>Ксиао Јан</item>
+        <item>Ксиао Фенг</item>
     </string-array>
     <string-array name="tts_speaker_values">
-        <item>ксиаојан</item>
-        <item>ксиаофенг</item>
+        <item>xiaoyan</item>
+        <item>xiaofeng</item>
     </string-array>
     <string-array name="advanced_menu_items">
-        <item>преводилац</item>
-        <item>препознавање сцена</item>
-        <item>Препознавање текста</item>
+        <item>Превођење тренутно фокусираног објекта</item>
+        <item>Препознавање пејзажа</item>
+        <item>Препознавање текста испод фокуса</item>
         <item>Препознавање лица</item>
-        <item>Препознавање кода са слике</item>
-        <item>Резултат препознавања</item>
-        <item>Опис слике</item>
+        <item>ЦАПТЦХА препознавање</item>
+        <item>Погледај резултате препознавања</item>
+        <item>Препознавање слике</item>
+        <item>Верификација слагалице клизача</item>
+        <item>Препознавање упита</item>
     </string-array>
     <string-array name="lang_entries">
-        <item>аутоматски</item>
-        <item>корејски</item>
-        <item>Поједностављени кинески</item>
-        <item>Традиционални кинески</item>
+        <item>Аутоматски</item>
+        <item>Корејски</item>
+        <item>Класични Кинески</item>
+        <item>Кинески традиционални</item>
         <item>Холандски</item>
-        <item>Тајландски</item>
+        <item>тајландски</item>
         <item>Грчки</item>
         <item>Италијански</item>
-        <item>Словенски</item>
+        <item>Словеначки</item>
         <item>Јапански</item>
-        <item>Енглески</item>
-        <item>Арапски</item>
-        <item>Кантонски</item>
+        <item>енглески</item>
+        <item>арапски</item>
+        <item>Кинески Кантонски</item>
         <item>Мађарски</item>
         <item>Естонски</item>
         <item>Румунски</item>
@@ -499,138 +503,138 @@
         <item>Руски</item>
         <item>Бугарски</item>
         <item>Шпански</item>
-        <item>шведски</item>
+        <item>Шведски</item>
         <item>Пољски</item>
         <item>Вијетнамски</item>
 
         <item>Ирски</item>
-        <item>奥克语</item>
+        <item>Orkish</item>
         <item>Албански</item>
-        <item>Акан</item>
-        <item>Арагонски</item>
-        <item>Амхарски</item>
-        <item>Асамски</item>
-        <item>Ајмара</item>
-        <item>азербејџански</item>
-        <item>астуријски</item>
-        <item>Осетски</item>
-        <item>奥杰布瓦语</item>
-        <item>奥里亚语</item>
-        <item>Оромо</item>
+        <item>Akan</item>
+        <item>Aragonese</item>
+        <item>амхарски</item>
+        <item>Assamese</item>
+        <item>Аимара</item>
+        <item>Азери</item>
+        <item>Asturian</item>
+        <item>Осетиски</item>
+        <item>Ojibwa</item>
+        <item>Oryan</item>
+        <item>Oromo</item>
         <item>Персијски</item>
-        <item>Бретонски</item>
-        <item>Башкирски</item>
-        <item>Баскијски</item>
+        <item>Breton</item>
+        <item>Башкир</item>
+        <item>баскијски</item>
         <item>Бразилски Португалски</item>
         <item>Белоруски</item>
-        <item>Берберски</item>
-        <item>Капампангански</item>
+        <item>Berber</item>
+        <item>Pampanga</item>
         <item>Северни Сами</item>
         <item>Северни Сото</item>
-        <item>Бемба</item>
-        <item>比林语</item>
-        <item>Бислама</item>
+        <item>Bemba</item>
+        <item>Birim</item>
+        <item>Bislama</item>
         <item>Белучки</item>
         <item>Исландски</item>
         <item>Босански</item>
         <item>Бхојпури</item>
-        <item>Чувашки</item>
-        <item>聪加语</item>
+        <item>Чуваши</item>
+        <item>Conga</item>
         <item>Татарски</item>
-        <item>Шански (Мјанмар)</item>
-        <item>德顿语</item>
-        <item>Дивехи (Малдивски)</item>
-        <item>Нисконемачки</item>
+        <item>Шан</item>
+        <item>Detun</item>
+        <item>Dhivehi</item>
+        <item>Низијски немачки</item>
         <item>Филипински</item>
         <item>Санскрит</item>
-        <item>Фурлански</item>
-        <item>Фулански</item>
-        <item>Фарски</item>
+        <item>Friuli</item>
+        <item>Fulani</item>
+        <item>Faroese</item>
         <item>Галски</item>
         <item>Конго</item>
-        <item>高地索布语</item>
-        <item>Кмерски (Камбоџански)</item>
+        <item>Highland Sorbian</item>
+        <item>кмерски</item>
         <item>Гренландски</item>
-        <item>Грузијски</item>
+        <item>Грузиски</item>
         <item>Гуџарати</item>
         <item>Старогрчки</item>
-        <item>Стари енглески</item>
-        <item>Гварани</item>
-        <item>胡帕语</item>
-        <item>哈卡钦语</item>
+        <item>Стари Енглески</item>
+        <item>Guarani</item>
+        <item>Hupa</item>
+        <item>Хакачин</item>
         <item>Хаићански</item>
-        <item>Хауса</item>
+        <item>Hausa</item>
         <item>Црногорски</item>
-        <item>Киргиски</item>
-        <item>Галицијски</item>
+        <item>киргиски</item>
+        <item>галицијски</item>
         <item>Канадски Француски</item>
         <item>Каталонски</item>
-        <item>卡拜尔语</item>
-        <item>Канадски</item>
-        <item>Канури</item>
-        <item>Кашупски</item>
-        <item>康瓦尔语</item>
-        <item>科萨语</item>
-        <item>Корзикански</item>
-        <item>克里克语</item>
-        <item>Кримски Татарски</item>
-        <item>克林贡语</item>
+        <item>Kabairian</item>
+        <item>Kanadian</item>
+        <item>Kanuri</item>
+        <item>Kashubian</item>
+        <item>Kangwar</item>
+        <item>Corsa</item>
+        <item>корзикански</item>
+        <item>Creek</item>
+        <item>кримски татарски</item>
+        <item>Klingon</item>
         <item>Хрватски</item>
-        <item>Кечуа</item>
-        <item>Кашмирски</item>
-        <item>Конкани</item>
+        <item>Кечуански</item>
+        <item>Кашмир</item>
+        <item>Konkani</item>
         <item>Курдски</item>
         <item>Латински</item>
-        <item>Лаоски</item>
-        <item>拉特加莱语</item>
-        <item>Летонски</item>
+        <item>Лаосиан</item>
+        <item>Латгале</item>
+        <item>Летоснки</item>
         <item>Лимбуршки</item>
         <item>Лингала</item>
-        <item>Луганда</item>
+        <item>Luganda</item>
         <item>Луксембуршки</item>
-        <item>Русински</item>
-        <item>Кињаруанда</item>
+        <item>Lushanian</item>
+        <item>Руандски</item>
         <item>Литвански</item>
-        <item>Романш</item>
+        <item>Ромаш</item>
         <item>Ромски</item>
-        <item>逻辑语</item>
+        <item>Логика</item>
         <item>Малајски</item>
         <item>Бурмански</item>
-        <item>Маратски</item>
+        <item>Марати</item>
         <item>Малгашки</item>
         <item>Малајалам</item>
         <item>Македонски</item>
         <item>Маршалски</item>
-        <item>Маитхили</item>
-        <item>Манкс</item>
-        <item>Маурицијански Креолски</item>
+        <item>Maitili</item>
+        <item>Manx</item>
+        <item>Маурицијански креолски</item>
         <item>Маори</item>
         <item>Бенгалски</item>
         <item>Малтешки</item>
-        <item>苗语</item>
+        <item>Hmong</item>
         <item>Норвешки</item>
-        <item>Наполитански</item>
-        <item>南恩德贝莱语</item>
-        <item>Африканс</item>
+        <item>Наполитан</item>
+        <item>Јужни Ндебеле</item>
+        <item>Афрички Холандски</item>
         <item>Јужни Сото</item>
         <item>Непалски</item>
         <item>Панџаби</item>
-        <item>Папијаменто</item>
+        <item>Papi Amento</item>
         <item>Паштунски</item>
-        <item>Нијанџа</item>
-        <item>契维语</item>
-        <item>切罗基语</item>
-        <item>Сардински</item>
-        <item>Самоански</item>
+        <item>Чичева</item>
+        <item>Чивеан</item>
+        <item>Черокее</item>
+        <item>Сардиниански</item>
+        <item>Самоан</item>
         <item>Српско-Хрватски</item>
         <item>Српски</item>
-        <item>Шангајски дијалект</item>
-        <item>Синхалски</item>
+        <item>Sanghainese</item>
+        <item>Синхалесе</item>
         <item>Есперанто</item>
-        <item>书面挪威语</item>
+        <item>Писани Норвешки</item>
         <item>Словачки</item>
-        <item>Свахили</item>
-        <item>Сомалијски</item>
+        <item>Кисвахили</item>
+        <item>сомалијски</item>
         <item>Српски (Ћирилица)</item>
         <item>Турски</item>
         <item>Таџички</item>
@@ -638,43 +642,54 @@
         <item>Тагалог</item>
         <item>Тигриња</item>
         <item>Телугу</item>
-        <item>Туниски Арапски</item>
+        <item>Туниски арапски</item>
         <item>Туркменистански</item>
         <item>Украјински</item>
         <item>Валонски</item>
         <item>Велшки</item>
-        <item>文达语</item>
-        <item>沃洛夫语</item>
+        <item>Vinda</item>
+        <item>Volovian</item>
         <item>Урду</item>
         <item>Хебрејски</item>
-        <item>西弗里斯语</item>
-        <item>西里西亚语</item>
-        <item>希利盖农语</item>
-        <item>Доњолужички</item>
+        <item>Сефарски</item>
+        <item>Cilician</item>
+        <item>Хилигаинон</item>
+        <item>Доњолужички језик</item>
         <item>Хавајски</item>
         <item>Нови Норвешки</item>
         <item>Западноафрички писани језик</item>
-        <item>Синти</item>
-        <item>修纳语</item>
-        <item>Цебуански</item>
+        <item>Синдхи</item>
+        <item>Shona</item>
+        <item>Цебуано</item>
         <item>Сиријски</item>
         <item>Сундански</item>
         <item>Хинди</item>
         <item>Индонежански</item>
-        <item>Џидиш</item>
-        <item>因特语</item>
-        <item>亚齐语</item>
-        <item>印古什语</item>
-        <item>伊博语</item>
-        <item>伊多语</item>
-        <item>约鲁巴语</item>
+        <item>Јидиш</item>
+        <item>Инте</item>
+        <item>Азери</item>
+        <item>Ингуш</item>
+        <item>Ибо језик</item>
+        <item>Идо језик</item>
+        <item>Јоруба</item>
         <item>Јерменски</item>
         <item>Инуктитут</item>
         <item>Ирански</item>
-        <item>扎扎其语</item>
-        <item>Средњи француски</item>
+        <item>Zazaqi</item>
+        <item>Средњевековни француски</item>
         <item>Зулу</item>
         <item>Јавански</item>
+
+        <item>奥利亚语</item>
+        <item>弗里西语</item>
+        <item>哈萨克语</item>
+        <item>海地克里奥尔语</item>
+        <item>马尔加什语</item>
+        <item>蒙古语</item>
+        <item>塞索托语</item>
+        <item>维吾尔语</item>
+        <item>乌兹别克语</item>
+
     </string-array>
     <string-array name="lang_values">
         <item>auto</item>
@@ -879,25 +894,40 @@
         <item>frm</item>
         <item>zul</item>
         <item>jav</item>
+
+        <item>or</item>
+        <item>fy</item>
+        <item>kk</item>
+        <item>ht</item>
+        <item>mg</item>
+        <item>mn</item>
+        <item>st</item>
+        <item>ug</item>
+        <item>uz</item>
+
     </string-array>
 
     <string-array name="tts_engine_values">
-        <item>system</item>
-        <item>unisound</item>
+        <item>систем</item>
+        <item>унисоунд</item>
+        <item>баиду</item>
     </string-array>
     <string-array name="tts_engine_entries">
-        <item>Говорна јединица система</item>
-        <item>Јунзхисхенг говорна јединица</item>
+        <item>Системска говорна јединица</item>
+        <item>Уни соунд</item>
+        <item>Баиду</item>
     </string-array>
     <string-array name="tts_engine_vip_values">
-        <item>system</item>
-        <item>iflytek</item>
-        <item>unisound</item>
+        <item>систем</item>
+        <item>Ифликет</item>
+        <item>унисоунд</item>
+        <item>баиду</item>
     </string-array>
     <string-array name="tts_engine_vip_entries">
-        <item>Говорна јединица система</item>
-        <item>Ксунфеи говорна јединица</item>
-        <item>Јунзхисхенг говорна јединица</item>
+        <item>Системска говорна јединица</item>
+        <item>ИФлитек</item>
+        <item>Уни соунд</item>
+        <item>Баиду Говорна јединица у Облаку</item>
     </string-array>
     <string-array name="alarm_interval_values">
         <item>5</item>
@@ -907,11 +937,11 @@
         <item>60</item>
     </string-array>
     <string-array name="alarm_interval_entries">
-        <item>сваких пет минута</item>
-        <item>сваких 10 минута</item>
-        <item>сваких 15 минута</item>
-        <item>сваких 30 минута</item>
-        <item>сваких 60 минута</item>
+        <item>Сваких 5 минута</item>
+        <item>Сваких 10 минута</item>
+        <item>Сваких 15 минута</item>
+        <item>Сваких 30 минута</item>
+        <item>Сваки сат</item>
     </string-array>
     <string-array name="timer_interval_values">
         <item>1</item>
@@ -953,8 +983,8 @@
         <item>24</item>
     </string-array>
     <string-array name="recognizer_lang_entries">
-        <item>Поједностављени кинески</item>
-        <item>Традиционални кинески</item>
+        <item>Кинески поједностављени</item>
+        <item>Кинески Кантонски</item>
         <item>Енглески</item>
     </string-array>
     <string-array name="recognizer_lang_values">
@@ -976,36 +1006,37 @@
         <item>4</item>
         <item>5</item>
     </string-array>
-    <string-array name="web_type_title">
+    <string-array name="web_type_title" >
         <item>Подразумевано</item>
-        <item>наслови</item>
+        <item>Наслови</item>
         <item>Линкови</item>
         <item>Дугмад</item>
 
         <item>Обележја</item>
-        <item>Оквири за уређивање</item>
-        <item>Фокус</item>
+        <item>Текстуални оквири</item>
+        <item>Ставке које се могу фокусирати</item>
         <item>Контроле</item>
         <item>Слике</item>
         <item>Поља за потврду</item>
         <item>Изборни оквири</item>
-        <item>表格</item>
-        <item>Листа</item>
-        <item>Ставка листе</item>
+        <item>Образци</item>
+        <item>Листе</item>
+        <item>Ставке листе</item>
 
-        <item>Листање ставки</item>
-        <item>Преглед</item>
+        <item>Режим померања</item>
+        <item>Погледи</item>
 
         <item>Знакови</item>
         <item>Речи</item>
         <item>Редови</item>
-        <item>Одломци</item>
+        <item>Пасуси</item>
         <item>Странице</item>
-        <item>Копирај</item>
+        <item>Режим копирања</item>
         <item>Јачина</item>
         <item>Брзина говора</item>
-        <item>Систем препознавања</item>
-        <item>窗口</item>
+        <item>ОЦр и превод</item>
+        <item>Област екрана</item>
+
     </string-array>
 
     <string-array name="hot_key_help_items" >
@@ -1016,48 +1047,48 @@
         <item>CTRL+PAGE_UP: Померање нагоре</item>
         <item>CTRL+PAGE_DOWN: Померање надоле</item>
         <item>CTRL+H: Почетни екран</item>
-        <item>CTRL+N: Центар са обавештењима</item>
+        <item>CTRL+N: Трака са обавештењима</item>
         <item>CTRL+P: Недавне апликације</item>
         <item>CTRL+SPACE: Клик</item>
-        <item>CTRL+L: Притисни</item>
+        <item>CTRL+L: Дуги притисак</item>
         <item>CTRL+Q: Брза подешавања</item>
 
         <item>ALT+M: Главни мени</item>
-        <item>ALT+A: Мени са радњама</item>
-        <item>ALT+P: Проширења (екстензије)</item>
-        <item>ALT+T: Алати</item>
+        <item>ALT+A: Мени функција</item>
+        <item>ALT+P: Додаци</item>
+        <item>ALT+T: Алатке</item>
         <item>ALT+V: Гласовни асистент</item>
         <item>ALT+S: Напредно уређивање</item>
-        <item>ALT+L: Прегледање листа</item>
+        <item>ALT+L: Режим прегледања листе</item>
 
     </string-array>
       <string-array name="view_type_title" >
         <item>Подразумевано</item>
-        <item>Текст</item>
+        <item>Ознаке</item>
         <item>Дугмад</item>
-        <item>текстуална поља</item>
+        <item>Текстуални оквири</item>
 
         <item>Слике</item>
         <item>Поља за потврду</item>
-        <item>Траке напредовања</item>
+        <item>Траке напредка</item>
         <item>Листе</item>
         <item>Ставке листе</item>
-        <item>Ставка која може бити фокусирана</item>
-        <item>Клик</item>
+        <item>Ставке које се могу фокусирати</item>
+        <item>Ставке на које се може кликнути</item>
         <item>Чворови</item>
-        <item>Клизачи</item>
-        <item>Померање вертикално</item>
+        <item>Режим померања</item>
+        <item>Вертикално кретање</item>
 
         <item>Знакови</item>
         <item>Речи</item>
         <item>Редови</item>
-        <item>Одломци</item>
+        <item>Наслови</item>
         <item>Странице</item>
-        <item>Копирај</item>
+        <item>Режим копирања</item>
         <item>Јачина</item>
         <item>Брзина говора</item>
-        <item>Систем препознавања</item>
-        <item>窗口</item>
+        <item>ОЦР и превод</item>
+        <item>Област екрана</item>
 
     </string-array>
 
