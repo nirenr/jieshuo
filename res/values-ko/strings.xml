@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Jieshuo+</string>
+    <string name="app_name">Jieshuo+ 스크린 리더</string>
     <string name="accessibility_service_description">
         Jieshuo+ 스크린 리더는 시각장애인이 안드로이드 스마트폰을 조금더 빠르고, 유용하게 사용할 수 있도록 돕는것을 목표로 다양한 기능을 제공하고 있는  화면 낭독 애플리케이션 입니다.\n
         Jieshuo+ 스크린 리더는 기존 화면 낭독 애플리케이션에 몇가지 시도와 혁신을 가미했으며, 익숙해지기 위해 약간의 시간이 필요할 수 있습니다.\n
@@ -13,7 +13,7 @@
         - 음성 비서: 타이핑, 채팅, 스마트폰 설정 등 대부분의 기능을 음성으로 제어해보세요.\n
         - 확장 기능: 사용자가 공유한 확장 기능을 내려받거나, 직접 만든 확장 기능을 추가하여 무궁무진한 가능성을 열어보세요..\n
         - 6가지 탐색 모드 제공: 언제나 원하는 방법으로 원하는 요소를 찾아보세요.\n
-        - 한손가락 터치를 통해 인터페이스를 탐색하고, 손가락을 떼면 요소가 활성화되는 모드 제공\n
+        - 한손가락 터치를 통해 인터페이스를 탐색하고, 손가락을 떼면 항목이 실행되는 모드 제공\n
         - 소리 구성표: 원하는 소리 구성표를 내려받거나 직접 만들어 귀를 즐겁게 해보세요.\n
         - 강력한 복사 기능: 필요한 콘텐츠를 원하는 만큼만 쉽게 복사해보세요.\n
         - 상황에 맞는 제스처를 통해 스마트폰 사용성 극대화\n
@@ -100,8 +100,8 @@
     <string name="use_touch_mode_title">터치로 탐색(전맹 시각장애인 사용자는 이 기능을 비활성화 하지 마세요!): </string>
     <string name="unknown_lable_title">레이블이 없는 요소 읽기</string>
     <string name="action_setting_title">동작 설정</string>
-    <string name="use_single_tap_title">한 번 탭하여 활성화: </string>
-    <string name="use_up_tap_title">손가락을 떼면 활성화: </string>
+    <string name="use_single_tap_title">한 번 탭하여 실행: </string>
+    <string name="use_up_tap_title">손가락을 떼면 실행: </string>
     <string name="sound_volume_title">소리 구성표 음량: </string>
     <string name="notification_bar_speak_title">알림 표시줄 알림 읽기: </string>
     <string name="notification_toast_speak_title">팝업 알림 읽기: </string>
@@ -115,8 +115,8 @@
     <string name="sound_package_title">소리 구성표</string>
     <string name="value_default">기본값</string>
     <string name="notification_app_name_speak_title">알림 발신자 읽기: </string>
-    <string name="use_up_tap_summary">초점을 받은 요소를 활성화하려면 화면에서 손가락을 떼세요. 일정 시간 이상 머물러 있으면 활성화되지 않습니다.</string>
-    <string name="use_tap_mode_title">한 번 탭하여 활성화: </string>
+    <string name="use_up_tap_summary">초점을 받은 항목을 실행하려면 화면에서 손가락을 떼세요. 일정 시간 이상 머물러 있으면 실행되지 않습니다.</string>
+    <string name="use_tap_mode_title">한 번 탭하여 실행: </string>
     <string name="vibrate_intensity_title">진동 강도: </string>
     <string name="use_progress_title">진행률 표시줄 자동 읽기: </string>
     <string name="use_scroll_list_index_title">목록 스크롤 시 현재 위치 실시간으로 읽기: </string>
@@ -134,15 +134,15 @@
     <string name="clipboard_manager_title">클립보드 관리</string>
     <string name="label_manager_title">사용자 레이블 관리</string>
     <string name="menu_manager_title">메인 메뉴 관리</string>
-    <string name="menu_up_tap_title">메뉴에서 손가락을 떼면 활성화</string>
-    <string name="navigation_up_tap_title">소프트웨어 탐색 키에서 손가락을 떼면 활성화</string>
+    <string name="menu_up_tap_title">메뉴에서 손가락을 떼면 실행</string>
+    <string name="navigation_up_tap_title">소프트웨어 탐색 키에서 손가락을 떼면 실행</string>
     <string name="only_notification_title">알림 표시줄에서만 예외적으로 피드백 허용: </string>
     <string name="send_log_title">로그 보내기</string>
     <string name="long_click_title">길게 누르기 딜레이 설정: </string>
     <string name="long_click_summary">길게 누르기 동작 시 얼마나 길게 눌러야 할 지 설정합니다.</string>
     <string name="split_select_title">선택</string>
-    <string name="use_up_long_click_title">길게눌러 활성화: </string>
-    <string name="use_up_long_click_summary">길게 누른 다음 화면에서 손가락을 떼면 활성화합니다.</string>
+    <string name="use_up_long_click_title">길게눌러 실행: </string>
+    <string name="use_up_long_click_summary">길게 누른 다음 화면에서 손가락을 떼면 실행합니다.</string>
     <string name="backup_manager_title">백업 관리</string>
     <string name="user_letter_map_title">사용자 정의 단어 사전 사용 (Jieshuo+를 다시 시작해야 합니다.): </string>
     <string name="tts_use_offline_title">온라인 음성 사용: </string>
@@ -161,13 +161,13 @@
     <string name="message_only_android5_last">안드로이드 5.0 이상부터 지원합니다.</string>
     <string name="notification_box">알림 상자</string>
     <string name="clear">지우기</string>
-    <string name="message_disabled_up_tap">"손가락을 떼면 활성화" 끔</string>
-    <string name="message_enabled_up_tap">"손가락을 떼면 활성화" 켬.</string>
+    <string name="message_disabled_up_tap">"손가락을 떼면 실행" 끔</string>
+    <string name="message_enabled_up_tap">"손가락을 떼면 실행" 켬.</string>
     <string name="message_no_found_edit_text">편집창을 찾을 수 없음.</string>
     <string name="message_voice_feedback_paused">말하기 끔</string>
     <string name="message_voice_feedback_resume">말하기 켬</string>
-    <string name="message_enable_tap_mode">"한 번 탭하여 활성화" 켬</string>
-    <string name="message_disabled_tap_mode">"한 번 탭하여 활성화" 끔</string>
+    <string name="message_enable_tap_mode">"한 번 탭하여 실행" 켬</string>
+    <string name="message_disabled_tap_mode">"한 번 탭하여 실행" 끔</string>
     <string name="directory_gestures">제스처</string>
     <string name="directory_temp">TMP</string>
     <string name="directory_plugins">확장기능</string>
@@ -219,7 +219,7 @@
     <string name="advanced_menu_title">고급 메뉴</string>
     <string name="quick_menu_title">바로가기 메뉴</string>
     <string name="check_update_title">업데이트 확인</string>
-    <string name="qq_group_summary">멤버십 상담 및 구매</string>
+    <string name="qq_group_summary">라이선스 상담 및 구매</string>
     <string name="favorites_menu_title">메뉴 즐겨찾기</string>
     <string name="favorites_manager_title">메뉴 즐겨찾기 관리</string>
     <string name="use_multi_menu_title">메뉴 여러줄로 보기: </string>
@@ -244,7 +244,7 @@
     <string name="click_settings_title">누르기 동작 설정</string>
     <string name="key_shortcut_setting_title">음량 버튼 단축키 설정</string>
     <string name="gesture_title">제스처 구성표 설정</string>
-    <string name="use_single_tap_summary">초점을 받은 요소를 한 번만 탭하여 활성화합니다.</string>
+    <string name="use_single_tap_summary">초점을 받은 항목을 한 번만 탭하여 실행합니다.</string>
     <string name="use_old_previous_summary">레거시 제스처로 초점을 전환합니다..</string>
     <string name="use_headset_key_summary">헤드셋 버튼을 짧게 눌러 항목 사이를 이동하고, 해드셋 버튼을 길게 눌러 음성 비서를 호출할 수 있습니다.</string>
     <string name="list_view_settings_title">목록 읽기 설정</string>
@@ -266,39 +266,39 @@
     <string name="use_edge_gesture_title">화면 측면 제스처 사용: </string>
     <string name="left_edge_gesture_title">왼쪽 끝에서 안쪽으로 쓸기</string>
     <string name="right_edge_gesture_title">오른쪽 끝에서 안쪽으로 쓸기</string>
-    <string name="right_edge_gesture_value_default">최근 앱</string>
-    <string name="left_edge_gesture_value_default">뒤로가기</string>
+
+
     <string name="use_edge_gesture_summary">화면 가장자리에서 한 손가락 또는 두 손가락으로 안쪽으로 살짝 밀면 동작합니다.</string>
     <string name="left_edge_gesture_summary">화면 왼쪽 측면 바로가기 사용자 정의</string>
     <string name="right_edge_gesture_summary">화면 오른쪽 측면 바로가기 사용자 정의</string>
-    <string name="down_volume_key_value_default">음성 비서</string>
+
     <string name="down_volume_key_title">음량 줄이기 버튼 길게 누르기</string>
     <string name="down_volume_key_summary">음량 줄이기 버튼 길게 누르기 바로가기 사용자 정의</string>
     <string name="up_volume_key_title">음량 키우기 버튼 길게 누르기</string>
     <string name="up_volume_key_summary">음량 키우기 버튼 길게 누르기 바로가기 사용자 정의</string>
-    <string name="up_volume_key_value_default">"손가락을 떼면 활성화" 토글</string>
+
     <string name="use_speak_call_phone_summary">전화 수신 시 발신자 이름 및 번호 읽기</string>
     <string name="use_speak_call_phone_title">발신자 정보: </string>
     <string name="use_speak_changed_volume_summary">음량 조절 시 변경된 음량 정보를 읽습니다.</string>
     <string name="use_speak_changed_volume_title">음량 프롬프트 읽기: </string>
     <string name="vip_qq_group_title">Jieshuo+ 스크린 리더 VIP QQ 그룹</string>
     <string name="qq_group2_title">Jieshuo+ 스크린 리더 공식 QQ 그룹</string>
-    <string name="right_long_edge_gesture_value_default">알림 표시줄</string>
-    <string name="left_long_edge_gesture_value_default">홈 화면</string>
+
+
     <string name="right_long_edge_gesture_title">오른쪽 끝에서 안쪽으로 느리게 쓸기</string>
     <string name="left_long_edge_gesture_title">왼쪽 끝에서 안쪽으로 느리게 쓸기</string>
     <string name="left_long_edge_gesture_summary">화면 왼쪽 측면 및 길게 누르기 바로가기 사용자 정의</string>
     <string name="right_long_edge_gesture_summary">화면 오른쪽 측면 및 길게 누르기 바로가기 사용자 정의</string>
     <string name="use_up_long_quick_menu_summary">초점을 받은 요소를 길게 누르면 바로 가기 메뉴가 표시됩니다.</string>
-    <string name="up_volume_short_key_value_default">음량 키우기</string>
+
     <string name="up_volume_short_key_title">음량 키우기 버튼 짧게 누르기: </string>
     <string name="up_volume_short_key_summary">음량 키우기 버튼을 짧게 눌러 사용하는 기능을 정의할 수 있습니다.</string>
-    <string name="down_volume_short_key_value_default">음량 줄이기</string>
+
     <string name="down_volume_short_key_title">음량 줄이기 버튼 짧게 누르기</string>
     <string name="down_volume_short_key_summary">음량 줄이기 버튼을 짧게 눌러 사용하는 기능을 정의할 수 있습니다.</string>
     <string name="use_ringtone_volume_title">발신자 정보 읽어줄 때 벨소리 음량 줄이기: </string>
     <string name="use_ringtone_volume_summary">발신자 정보를 읽을 때 밸소리 음량을 줄입니다.</string>
-    <string name="up_down_volume_short_key_value_default">음성 중지</string>
+
     <string name="up_down_volume_short_key_summary">음량 버튼 2개 동시에 누르기 바로가기 사용자 정의</string>
     <string name="up_down_volume_short_key_title">음량 버튼 2개 동시에 누르기</string>
     <string name="tts_engine_title">메인 음성 엔진</string>
@@ -373,7 +373,7 @@
     <string name="use_timer_vibrate_title">진동으로 타이머 알림</string>
     <string name="use_double_edge_gesture_title">두 손가락 측면 제스처로 메뉴 열기</string>
     <string name="use_raw_click_title">접근성 클릭 대신 다이렉트 클릭 사용</string>
-    <string name="use_raw_click_summary">다이렉트 클릭은 선택한 요소를 1초 이내에 탭하면 활성화됩니다. 특정 요소를 물리적으로 클릭하는 동작이 요구되는 경우, 이 옵션을 사용하면 접근성이 개선될 수 있습니다.</string>
+    <string name="use_raw_click_summary">다이렉트 클릭은 선택한 항목을 1초 이내에 탭하면 실행됩니다. 특정 요소를 물리적으로 클릭하는 동작이 요구되는 경우, 이 옵션을 사용하면 접근성이 개선될 수 있습니다.</string>
     <string name="has_vip_summary">%s 기능은 프리미엄 계정이 필요합니다.</string>
     <string name="vip_qq_kefu_title">Jieshuo+ 스크린리더 고객지원</string>
     <string name="vip_qq_kefu_summary">제품 상담, 구입 및 양도 등은 고객 서비스에 문의하세요.</string>
@@ -433,7 +433,7 @@
     <string name="upper_case_format_number2">대문자 %s, %d번째 글자</string>
     <string name="use_slow_speed_title">글자 단위 탐색 모드 사용 시 음성 속도 줄이기</string>
     <string name="has_vip_summary_gesture">단방향 쓸기 제스처는 무료 버전에서 사용자 정의 할 수 없습니다.</string>
-    <string name="message_has_vip_loop_click">무료 버전에서는 활성화 자동 지연 기능을 사용할 수 없습니다.</string>
+    <string name="message_has_vip_loop_click">무료 버전에서는 실행 자동 지연 기능을 사용할 수 없습니다.</string>
     <string name="command_click">클릭</string>
     <string name="command_long_click">길게 누르기</string>
     <string name="command_unlock">잠금 해제</string>
@@ -537,10 +537,10 @@
     <string name="message_clean_error">초기화에 실패했습니다.</string>
     <string name="message_edit_text_not_found">편집창을 찾을 수 없습니다.</string>
     <string name="rap_action_settings_title">스마트폰 뒷면 두 번 탭 설정</string>
-    <string name="back_rap_action_value_default">@string/command_now_time</string>
+
     <string name="back_rap_action_title">스마트폰 뒷면 두 번 탭 설정</string>
     <string name="back_rap_action_summary">스마트폰 뒷면을 두 번 탭하여 요청한 동작을 실행할 수 있도록 설정합니다.</string>
-    <string name="shake_action_value_default">@string/command_nothing</string>
+
     <string name="shake_action_title">흔들기 설정</string>
     <string name="shake_action_summary">스마트폰을 좌우로 흔들어 요청한 동작을 실행할 수 있도록 설정합니다.</string>
     <string name="shake_action_sens_title">흔들림 민감도: </string>
@@ -558,8 +558,8 @@
     <string name="command_clean">입력 값 초기화</string>
     <string name="command_select">선택</string>
     <string name="command_notification_box">알림상자</string>
-    <string name="command_up_tap">"손가락을 떼면 활성화"</string>
-    <string name="command_tap_mode">한 번 탭하여 활성화</string>
+    <string name="command_up_tap">"손가락을 떼면 실행"</string>
+    <string name="command_tap_mode">한 번 탭하여 실행</string>
     <string name="command_node_mode">객체 탐색 모드</string>
     <string name="command_to_home">홈화면</string>
     <string name="command_to_back">뒤로 가기</string>
@@ -593,25 +593,25 @@
     <string name="double_fling_right_gesture_title">오른쪽으로 쓸기</string>
     <string name="double_fling_down_gesture_title">아래로 쓸기</string>
     <string name="down_right_double_fling_setting">아래로 쓸고 이어 오른쪽으로 쓸기 제스처 설정</string>
-    <string name="down_right_double_fling_left_gesture_value_default">뒤로가기</string>
-    <string name="down_right_double_fling_up_gesture_value_default">홈 화면</string>
-    <string name="down_right_double_fling_right_gesture_value_default">[가상 탭]</string>
-    <string name="down_right_double_fling_down_gesture_value_default">알림 표시줄</string>
+
+
+
+
     <string name="down_left_double_fling_setting">아래로 쓸고 이어 왼쪽으로 쓸기 제스처 설정</string>
-    <string name="down_left_double_fling_left_gesture_value_default">@string/command_copy</string>
-    <string name="down_left_double_fling_up_gesture_value_default">@string/command_paste</string>
-    <string name="down_left_double_fling_right_gesture_value_default">@string/command_append_copy</string>
-    <string name="down_left_double_fling_down_gesture_value_default">@string/command_long_copy</string>
+
+
+
+
     <string name="use_down_right_double_fling_gesture_title">아래로 쓸고 이어 오른쪽으로 쓸기</string>
     <string name="use_down_left_double_fling_gesture_title">아래로 쓸고 이어 왼쪽으로 쓸기</string>
-    <string name="right_double_fling_setting">오른쪽으로 두 번 쓸기 제스처 설정</string>
-    <string name="use_right_double_fling_gesture_title">오른쪽으로 두 번 쓸기</string>
-    <string name="left_double_fling_setting">왼쪽으로 두 번 쓸기 제스처 설정</string>
-    <string name="use_left_double_fling_gesture_title">왼쪽으로 두 번 쓸기</string>
-    <string name="up_double_fling_setting">위로 두 번 쓸기 제스처 설정</string>
-    <string name="use_up_double_fling_gesture_title">위로 두 번 쓸기</string>
-    <string name="down_double_fling_setting">아래로 두 번 쓸기 제스처 설정</string>
-    <string name="use_down_double_fling_gesture_title">아래로 두 번 쓸기</string>
+    <string name="right_double_fling_setting">오른쪽으로 쓸기 제스처 설정</string>
+    <string name="use_right_double_fling_gesture_title">오른쪽으로 쓸기</string>
+    <string name="left_double_fling_setting">왼쪽으로 쓸기 제스처 설정</string>
+    <string name="use_left_double_fling_gesture_title">왼쪽으로 쓸기</string>
+    <string name="up_double_fling_setting">위로 쓸기 제스처 설정</string>
+    <string name="use_up_double_fling_gesture_title">위로 쓸기</string>
+    <string name="down_double_fling_setting">아래로 쓸기 제스처 설정</string>
+    <string name="use_down_double_fling_gesture_title">아래로 쓸기</string>
     <string name="up_left_double_fling_setting">위로 쓸고 이어 왼쪽으로 쓸기 제스처 설정</string>
     <string name="use_up_left_double_fling_gesture_title">위로 쓸고 이어 왼쪽으로 쓸기</string>
     <string name="up_right_double_fling_setting">위로 쓸고 이어 오른쪽으로 쓸기 제스처 설정</string>
@@ -649,10 +649,10 @@
     <string name="fingerprint_gesture_setting">지문 센서 제스처 설정</string>
     <string name="fingerprint_gesture_setting_summary">안드로이드 8 버전 이상의 지문 인식 센서가 스마트폰 뒷면에 내장된 기기만 사용 가능합니다.</string>
     <string name="use_fingerprint_gesture_title">지문 센서 제스처 사용.: </string>
-    <string name="fingerprint_left_gesture_value_default">뒤로 가기</string>
-    <string name="fingerprint_right_gesture_value_default">[가상 탭]</string>
-    <string name="fingerprint_up_gesture_value_default">이전 초점으로</string>
-    <string name="fingerprint_down_gesture_value_default">다음 초점으로</string>
+
+
+
+
     <string name="command_supper_mode">상세 탐색 모드</string>
     <string name="command_ocr_focus">초점 받은 요소 인식하기</string>
     <string name="navi">내비게이션</string>
@@ -661,10 +661,10 @@
     <string name="alarm_start_hour_title">알람 시작 시간</string>
     <string name="alarm_end_hour_title">알람 종료 시간</string>
     <string name="command_virtual_navigation">가상 내비게이션</string>
-    <string name="voice_helper_use_click_title">음성 비서로 요소 활성화</string>
+    <string name="voice_helper_use_click_title">음성 비서로 항목 실행</string>
     <string name="voice_helper_use_app_title">음성 비서로 애플리케이션 열기</string>
     <string name="voice_helper_use_app_summary">애플리케이션의 이름을 말하면 음성 비서가 열어줍니다. 이 설정이 꺼져 있을 때는 (애플리케이션 이름 열어)라고 말하세요.</string>
-    <string name="voice_helper_use_click_summary">요소의 이름을 말하면 그 요소를 활성화할 수 있습니다. 이 설정이 꺼져 있을 때는 (요소 이름 클릭해)라고 말하세요.</string>
+    <string name="voice_helper_use_click_summary">항목 이름을 말하면 그 항목을 실행할 수 있습니다. 이 설정이 꺼져 있을 때는 (항목 이름 클릭해)라고 말하세요.</string>
     <string name="edge_gesture_width_title">화면 측면 제스처 트리거 범위: </string>
     <string name="use_double_edge_gesture_summary">기존 사용자 정의 측면 제스처 바로가기는 비활성화됩니다.</string>
     <string name="left_edge_gesture_items_title">왼쪽 측면 바로가기 메뉴 사용자 정의</string>
@@ -721,7 +721,7 @@
     <string name="hint_closed">, 닫으려면 두 번 탭 하세요.</string>
     <string name="hint_opened">, 열려면 두 번 탭 하세요.</string>
     <string name="hint_changed">, 스위치를 전환하려면 두 번 탭 하세요.</string>
-    <string name="hint_double_click">, 두 번 탭</string>
+    <string name="hint_double_click">, 두 번 탭하여 </string>
     <string name="hint_activated">활성화</string>
     <string name="hint_double_click_activated">, 활성화 하려면 두 번 탭 하세요.</string>
     <string name="hint_node_move">이전 객체로 이동하려면 위로 쓸고, 다음 객체로 이동하려면 아래로 쓸고, 하위 객체로 이동하려면 왼쪽으로 쓸고, 상위 객체로 이동하려면 오른쪽으로 쓸면 됩니다.</string>
@@ -858,7 +858,7 @@
     <string name="close">닫기</string>
     <string name="multi_click">멀티 클릭 모드</string>
     <string name="command_raw_tap">다이렉트 클릭 사용</string>
-    <string name="msg_enabled_raw_tap">다이렉트 클릭 모드가 활성화되었습니다. 항목을 직접 탭하여 활성화 합니다.</string>
+    <string name="msg_enabled_raw_tap">다이렉트 클릭 모드가 활성화되었습니다. 항목을 직접 탭하여 실행합니다.</string>
     <string name="msg_disabled_raw_tap">다이렉트 클릭 모드를 중지합니다.</string>
     <string name="system_tts_scale_summary">음성 엔진의 속도를 크게 가속할 수 있습니다. 경고! 이 기능은 테스트중인 기능으로 모든 음성 엔진에서 동작하지 않을 수 있습니다!</string>
     <string name="send_email_title">이메일주소 946049229@qq.com</string>
@@ -922,7 +922,7 @@
     <string name="msg_add_error_has_lable">이미 레이블이 있는 객체입니다.</string>
     <string name="msg_label_added">레이블 등록됨.</string>
     <string name="msg_lable_add_error">레이블을 추가하는 동안 오류가 발생했습니다.</string>
-    <string name="msg_clicked">활성화됨</string>
+    <string name="msg_clicked">클릭함</string>
     <string name="msg_search_on_net">인터넷에서 검색</string>
     <string name="msg_send_not_found">보내기 버튼을 찾을 수 없음.</string>
     <string name="msg_search_on_store">스토어에서 검색</string>
@@ -934,7 +934,7 @@
     <string name="open_setup_setting_title">시작 설정 열기</string>
     <string name="check_notification_permissions_title">알림 표시 권한 상태 확인</string>
     <string name="denied_permissions_title">거부된 권한</string>
-    <string name="welcome_msg">Jieshuo+ 스크린 리더를 시작합니다. 이 애플리케이션은 시각장애인들이 스마트폰을 더 효율적으로 사용할 수 있도록 돕는 것을 목표로 합니다. 스크린 리더의 기본 설정을 진행하려면 \"설정 마법사\"를 활성화하고, 개인 정보 보호 정책을 보려면 \"권한 도움말\"을 활성화하세요. 그리고 애플리케이션을 종료하려면 \"종료\"를 활성화하세요.</string>
+    <string name="welcome_msg">Jieshuo+ 스크린 리더를 시작합니다. 이 애플리케이션은 시각장애인들이 스마트폰을 더 효율적으로 사용할 수 있도록 돕는 것을 목표로 합니다. 스크린 리더의 기본 설정을 진행하려면 \"설정 마법사\"를 클릭하고, 개인 정보 보호 정책을 보려면 \"권한 도움말\"을 클릭하세요. 그리고 애플리케이션을 종료하려면 \"종료\"를 클릭하세요.</string>
     <string name="use_left_right_msg">먼저 스크린 리더의 기본 제스처를 설정하겠습니다. 기본적으로 Jieshuo+ 스크린 리더는 위로 쓸어 이전 요소로 이동하고 아래로 쓸어 다음 요소로 이동하며 왼쪽 및 오른쪽으로 쓸어 바로가기를 실행합니다. 다른 스크린 리더 조작에 익숙한 경우 \다른 제스처를 선택하십시오. 왼쪽 및 오른쪽으로 쓸어 요소간 이동, 위 또는 아래로 쓸어 바로가기를 실행할 수 있습니다. 아래로 쓸기 동작을 이용하여 설정하고자 하는 값을 찾아 두 번 탭하세요.</string>
     <string name="usage_hints_msg">스크린 리더 사용 중 상호작용 힌트를 제공받을 지 여부를 선택할 수 있습니다. 상호작용 힌트는 요소를 선택하면 그 요소의 조작법을 알려줍니다. 스크린 리더 작동에 이미 익숙한 경우 더 빠른 환경을 위해 이 기능을 사용하지 않도록 설정할 수 있습니다.</string>
     <string name="use_list_index_msg">목록 요소에서 현재 목록의 총 항목 수와 탐색 중인 항목의 순서를 읽도록 설정할 수 있습니다.</string>
@@ -950,7 +950,7 @@
     <string name="use_single_tts_no">아니요, 두 개의 음성 엔진을 동시에 사용하겠습니다.</string>
     <string name="permission_title">권한 도움말</string>
     <string name="permission_msg">스마트폰 상태를 읽어 맞춤형 서비스 제공, 계정 인증을 통한 스마트폰 상태 모니터링, 빠른 전화 응답/거부를 위한 수신자 번호 제공 등.\n  안드로이드 8 이상에서의 더 빠른 전화 응답/거부.\n  검색 또는 음성으로 말한 번호를 인식하여 직접 전화를 걸 수 있도록 지원.\n  위치 정보를 통해 날씨, 현재 위치, 지도 및 내비게이션 등 위치 기반의 맞춤형 서비스 제공.\n  카메라를 통해 사진을 촬영하고 인식할 수 있도록 지원.\n  마이크를 통해 음성 비서에서 내 말을 인식할 수 있도록 지원.\n  연락처를 통해 전화를 걸고 발신자 번호를 통해 맞춤형 서비스를 받을 수 있도록 지원.\n 플로팅 창을 통해 메뉴, 대화 상자, 양식 등을 출력하고 커튼으로 가릴 수 있도록 지원.\n  확장 도구를 홈 화면에서 손쉽게 실행할 수 있도록 바로가기 생성 지원.\n  인앱에서 자동 업그레이드 지원.\n  네트워크를 통한 사용자 인증, 이미지 인식, 클라우드 레이블, 음성 인식 등의 서비스 제공.\n  스마트폰 재시작 이후에도 바로 사용할 수 있도록 시작 앱으로 등록.\n  스크린 리더가 말하는 중 화면이 잠기지 않도록 지원.\n  일부 기능은 권한을 허용하지 않으면 제대로 작동하지 않을 수 있습니다</string>
-    <string name="check_permissions_msg">Jieshuo+ 스크린 리더의 사용을 위해 몇 가지 권한이 필요합니다. 이에는 소리 구성표 확장을 위한 저장 권한, 사진 촬영을 위한 카메라 권한 등이 포함됩니다. 계속하려면 \"다음\"을 활성화하고, 소프트웨어를 종료하려면 \"취소\"를 활성화하세요.</string>
+    <string name="check_permissions_msg">Jieshuo+ 스크린 리더의 사용을 위해 몇 가지 권한이 필요합니다. 이에는 소리 구성표 확장을 위한 저장 권한, 사진 촬영을 위한 카메라 권한 등이 포함됩니다. 계속하려면 \"다음\"을 클릭하고, 소프트웨어를 종료하려면 \"취소\"를 클릭하세요.</string>
     <string name="next">다음</string>
     <string name="setup_setting_done">마법사가 설정을 완료했습니다.</string>
     <string name="setup_setting_done_msg"><![CDATA[언제든지 일반 설정에서 설정 마법사를 다시 시작할 수 있습니다.]]></string>
@@ -1000,12 +1000,12 @@
     <string name="choice_mode_multiple">텍스트 다중 선택</string>
     <string name="add_from_grid">그리드를 통해 추가</string>
     <string name="sound_settings_title">소리 구성표 설정</string>
-    <string name="sound_focus1">활성화 가능한 초점</string>
+    <string name="sound_focus1">실행 가능한 초점</string>
     <string name="sound_focus2">탐색 가능한 초점</string>
     <string name="sound_focus3">키보드 초점</string>
     <string name="sound_focus4">초점 불가능</string>
     <string name="sound_focus0">유형 탐색</string>
-    <string name="sound_click">활성화</string>
+    <string name="sound_click">클릭</string>
     <string name="sound_long_click">길게 누르기</string>
     <string name="sound_scroll_up">위로 스크롤</string>
     <string name="sound_scroll_down">아래로 스크롤</string>
@@ -1122,7 +1122,7 @@
     <string name="msg_multi_touch_mode_enabled">여러 손가락 제스처 사용 켬</string>
     <string name="msg_multi_touch_mode_disenabled">여러 손가락 제스처 사용 끔</string>
     <string name="activation_code_text">활성화 코드</string>
-    <string name="activate_title">멤버십 활성화</string>
+    <string name="activate_title">라이선스 활성화</string>
     <string name="select_app">앱 선택</string>
     <string name="command_to_split_screen">분할 화면</string>
     <string name="edit_activity">Jieshuo+ 편집기</string>
@@ -1295,10 +1295,10 @@
     <string name="nodeinfo_state_description">상태 설명:</string>
     <string name="nodeinfo_resource_name">리소스 ID:</string>
     <string name="nodeinfo_indoex">색인:</string>
-    <string name="nodeinfo_bounds_in_screen">위치: </string>
+    <string name="nodeinfo_bounds_in_screen">\"위치: \"</string>
     <string name="nodeinfo_parent">상위 객체</string>
-    <string name="nodeinfo_childs">하위 객체 </string>
-    <string name="nodeinfo_actions">동작: </string>
+    <string name="nodeinfo_childs">\"하위 객체 \"</string>
+    <string name="nodeinfo_actions">\"동작: \"</string>
     <string name="nodeinfo_clickable">활성화 가능</string>
     <string name="nodeinfo_not_click">활성화 불가능</string>
     <string name="nodeinfo_checkable">확인 가능</string>
@@ -1345,7 +1345,7 @@
     <string name="only_screen_off">화면 끔</string>
     <string name="screen_on_and_off">화면 토글</string>
     <string name="offline_ocr">오프라인 OCR</string>
-    <string name="custom_ocr">사용자 지정 확장 OCR</string>
+    <string name="custom_ocr">사용자 정의 확장 OCR</string>
     <string name="call_duration">통화 시간</string>
     <string name="command_speak_time">시간 알림</string>
     <string name="command_speak_net">네트워크 정보</string>
@@ -1384,15 +1384,15 @@
     <string name="command_start_log">로그 기록 시작</string>
     <string name="delete_log_title">로그 전체 삭제</string>
     <string name="use_custom_speak_clear_title">말하기 필터링 사용</string>
-    <string name="custom_speak_clear_title">사용자지정 말하기 필터링</string>
+    <string name="custom_speak_clear_title">사용자 정의 말하기 필터링</string>
     <string name="speak_clear_setting">말하기 필터링 설정</string>
     <string name="use_custom_speak_symbol_number_title">반복 문자 읽기 최적화 사용</string>
-    <string name="custom_speak_symbol_number_title">사용자지정 반복 문자 읽기</string>
+    <string name="custom_speak_symbol_number_title">사용자 정의 반복 문자 읽기</string>
     <string name="use_emoji_speak_clear_title">이모지 읽기 최적화</string>
     <string name="content_label_title">초점 레이블 관리</string>
     <string name="custom_node_name_title">초점 이름 관리</string>
     <string name="use_custom_node_name_title">초점 이름 사용</string>
-    <string name="custom_content_title">사용자지정 초점 콘텐츠 설정</string>
+    <string name="custom_content_title">사용자 정의 초점 콘텐츠 설정</string>
     <string name="directory_name">이름</string>
     <string name="use_emoji_speak_mode_title">이모지 말하기</string>
     <string name="use_no_bluetooth_title">블루투스 헤드폰 등에 연결되어 있어도 휴대폰 스피커로 말하기</string>
@@ -1406,7 +1406,7 @@
     <string name="split_word">단어별</string>
     <string name="incall_setting_title">통화 설정</string>
     <string name="speak_call_phone_index_title">발신번호 읽기 횟수</string>
-    <string name="edit_node_name">이름 변경</string>
+    <string name="edit_node_name">초점 이름 변경</string>
     <string name="edit_node">초점 콘텐츠 변경</string>
     <string name="use_input_method_no_touch_title">키보드가 표시되면 스크린리더 일시정지</string>
     <string name="use_input_method_speak_commit_space_title">스페이스 키를 눌러 가장 최근에 입력한 문자 읽기</string>
@@ -1499,118 +1499,162 @@
     <string name="use_show_text_title">말하기 내용 표시</string>
     <string name="use_window_title_changed_title">창 제목이 변경되면 말하기</string>
     <string name="do_not_prompt_again">다시 보지 않기</string>
-    <string name="use_custom_language_title">사용자지정 언어 사용</string>
-    <string name="msg_has_not_enabled">解说还没有启动，在辅助功能启用解说后才能为你提供服务，是否立即前往辅助功能开启解说，你也可以在稍后解说辅助功能设置中开启</string>
-    <string name="msg_has_not_enabled_33">注意，若您是安卓13的用户，那么您在“无障碍”或“辅助功能”中首次启动解说时，可能会跳出受限制的设置对话框，提示出于安全考虑，此设置不可用，请点击确认按钮后，打开解说的应用信息，点击右上角的更多选项，随后点击允许受限制的设置，随后再次到“无障碍”或“辅助功能”中启用解说即可，如若您的安卓13设备没有出现上述提示，可忽略本说明。\n</string>
-    <string name="use_edit_hint_title">读出编辑框的提示文字</string>
-    <string name="check_manage_files_permissions_title">检查文件管理权限</string>
-    <string name="check_alarm_permissions_title">检查闹钟与提醒权限</string>
-    <string name="setup_setting_file_permission_msg">读屏使用文件管理权限保存和读取插件，音效，工具和备份资源等</string>
-    <string name="setup_setting_not_file_permission">未获取文件管理权限</string>
-    <string name="setup_setting_has_file_permission">已获取文件管理权限</string>
-    <string name="setup_setting_not_alarm_permission">未获取闹钟与提醒权限</string>
-    <string name="setup_setting_has_alarm_permission">已获取闹钟与提醒权限</string>
-    <string name="setup_setting_alarm_permission_msg">读屏使用闹钟权限可以在你指定的时间播报时间或执行任务</string>
-    <string name="use_volume_on_long_speak_title">当朗读长文本时按音量键调节读屏音量</string>
-    <string name="message_title">提示</string>
-    <string name="msg_talkback_enabled">你已开启talkback，同时开启解说和talkback可能导致触摸异常，请在关闭talkback后恢复解说的触摸浏览。</string>
-    <string name="cur_timer_speak_title">预设计时器朗读设置</string>
-    <string name="use_speak_uts">已用时间</string>
-    <string name="use_speak_rts">剩余时间</string>
-    <string name="use_speak_nts">现在时间</string>
-    <string name="cur_timer_name">名称</string>
-    <string name="cur_timer_start_prompt">开始提示</string>
-    <string name="cur_timer_end_prompt">结束提示</string>
-    <string name="sound_power_connected">开始充电</string>
-    <string name="sound_power_disconnected">结束充电</string>
-    <string name="sound_power_full">充电完成</string>
-    <string name="sound_power_low">电量低</string>
-    <string name="sound_scroll_top">滚动到顶部</string>
-    <string name="sound_scroll_bottom">滚动到底部</string>
-    <string name="sound_raise_volume">增加音量</string>
-    <string name="sound_lower_volume">减小音量</string>
-    <string name="sound_copy">复制</string>
-    <string name="sound_paste">粘贴</string>
-    <string name="sound_previous_text">上个文字</string>
-    <string name="sound_next_text">下个文字</string>
-    <string name="sound_to_back">返回</string>
-    <string name="sound_has_action">可操作</string>
-    <string name="sound_has_link">含链接</string>
-    <string name="sound_feedback_paused">暂停反馈</string>
-    <string name="sound_feedback_resume">恢复反馈</string>
-    <string name="sound_auto_ocr_start">自动OCR识别</string>
-    <string name="sound_camera_screenshot">相机与截图</string>
-    <string name="stream_type_ring">铃声</string>
-    <string name="stream_type_music">媒体</string>
-    <string name="stream_type_alarm">闹钟</string>
-    <string name="stream_type_notification">通知</string>
-    <string name="stream_type_accessibility">无障碍</string>
-    <string name="move">移动</string>
-    <string name="msg_move_start">开始移动，触摸要移动的位置双击完成移动</string>
-    <string name="msg_move_done">已移动到第%d项</string>
-    <string name="timer_tts_setting_title">报时语音设置</string>
-    <string name="other_res">其他资源</string>
-    <string name="language_title">语言翻译</string>
-    <string name="msg_download_error">下载出错</string>
-    <string name="buy_with_alipay">使用支付宝跨境汇款购买会员</string>
-    <string name="buy_with_unipay">使用银行卡跨境汇款购买会员（使用人民币支付，享受等同中国用户人民币付款优惠）</string>
-    <string name="buy_with_paypal">使用PayPal购买会员</string>
-    <string name="msg_change_custom_gesture">切换为自定义手势才能修改,是否切换为自定义手势</string>
-    <string name="msg_import_strings">导入语言翻译将会覆盖合并你的语言设置，你可以先导出自己的设置后导入，是否直接导入</string>
-    <string name="browser">浏览</string>
-    <string name="stop">停止</string>
-    <string name="read_next_chapter">下一章</string>
-    <string name="read_previous_chapter">上一章</string>
-    <string name="read_history">历史记录</string>
-    <string name="clear_history">清除记录</string>
-    <string name="web_back">后退</string>
-    <string name="web_reload">刷新</string>
-    <string name="web_forward">前进</string>
-    <string name="web_enter_url">输入网址</string>
-    <string name="web_copy_url">复制网址</string>
-    <string name="web_are_you_open">允许打开吗</string>
-    <string name="web_download_info">类型: %s\n大小: %s</string>
-    <string name="web_direct_download">直接下载</string>
-    <string name="web_download_only_wifi">仅Wifi下载</string>
-    <string name="merge">合并</string>
-    <string name="overlay">覆盖</string>
-    <string name="msg_has_enabled">请先启用解说</string>
-    <string name="msg_read_done">读取完成</string>
-    <string name="are_you_delete_all_logs">确定删除全部日志吗</string>
-    <string name="msg_speech_error_audio">音频问题</string>
-    <string name="msg_speech_error_speech_timeout">怎么不说话呢</string>
-    <string name="msg_speech_error_client">其它客户端错误</string>
-    <string name="msg_speech_error_permissions">权限不足</string>
-    <string name="msg_speech_error_network">网络问题</string>
-    <string name="msg_speech_error_busy">引擎忙</string>
-    <string name="msg_speech_error_server">服务端错误</string>
-    <string name="msg_speech_error_network_timeout">网络连接超时</string>
-    <string name="msg_use_custom_node_name">开启使用焦点别名才能生效，是否开启</string>
-    <string name="msg_use_custom_dict_speak">开启使用自定义词典设置才能生效，是否开启</string>
-    <string name="msg_continuous_recognition">连续识别功能可以在点击按钮后，再次触摸或滚动屏幕后自动识别</string>
-    <string name="enter_progress">输入进度</string>
-    <string name="msg_press_again_exit">再按一次退出</string>
-    <string name="msg_set_text_to_speech_listener">插件希望监控你的语音合成状态</string>
-    <string name="msg_remove_text_to_speech_listener">插件已解除对语音合成的监控</string>
-    <string name="msg_set_speech_recognition_listener">插件希望监控你的语音识别状态</string>
-    <string name="msg_remove_speech_recognition_listener">插件已解除对语音识别的监控</string>
-    <string name="timer_start">直接开始</string>
-    <string name="trans_error">翻译出错</string>
-    <string name="incoming">来电</string>
-    <string name="net_2g_level">%s2G信号%d格</string>
-    <string name="net_4g_level">%s4G信号%d格</string>
-    <string name="net_3g_level">%s3G信号%d格</string>
-    <string name="net_5g_level">%s5G信号%d格</string>
-    <string name="wifi_level_5">WIFI信号 满格</string>
-    <string name="wifi_level_4">WIFI信号4格</string>
-    <string name="wifi_level_3">WIFI信号3格</string>
-    <string name="wifi_level_2">WIFI信号2格</string>
-    <string name="wifi_level_1">WIFI信号1格</string>
-    <string name="timer_rts">剩余</string>
-    <string name="timer_pause_and_now_time">计时已暂停，%s，%s</string>
-    <string name="battery_charging">正在充电</string>
-    <string name="default_gesture_setting_title">默认手势设置</string>
-    <string name="default_gesture_setting_summary">管理在手势方案设置为默认或自定义方案返回false时的行为</string>
-    <string name="use_action_menu_show_cursor_title">在操作菜单显示焦点自定义操作</string>
-    <string name="use_action_menu_show_ext_title">在操作菜单显示链接提取进度调节等扩展功能</string>
+    <string name="use_custom_language_title">사용자 정의 언어 사용</string>
+    <string name="msg_has_not_enabled">Jieshuo+가 시작되지 않아 서비스 이용이 불가능합니다. 지금 바로 접근성 설정으로 이동하여 Jieshuo+를 실행할 수 있습니다.</string>
+    <string name="msg_has_not_enabled_33">제한된 설정 허용이 필요한 경우, 확인 버튼을 누르고, Jieshuo+ 애플리케이션 정보 화면에 진입한 뒤 추가 옵션 버튼을 누르고, 제한된 설정 허용 버튼을 누른 뒤, 다시 Jieshuo+를 실행할 수 있습니다.</string>
+    <string name="use_edit_hint_title">편집창에 제공된 힌트 정보 읽기</string>
+    <string name="check_manage_files_permissions_title">파일 관리 권한 확인</string>
+    <string name="check_alarm_permissions_title">알람 및 미리 알림 권한 확인</string>
+    <string name="setup_setting_file_permission_msg">파일 관리 권한이 허용되면 확장 기능, 도구, 소리 구성표, 백업, 리소스 등을 저장하고 불러올 수 있습니다.</string>
+    <string name="setup_setting_not_file_permission">파일 관리 권한을 얻을 수 업습니다.</string>
+    <string name="setup_setting_has_file_permission">파일 관리 권한을 얻었습니다.</string>
+    <string name="setup_setting_not_alarm_permission">알람 및 미리 알림 권한을 얻을 수 없습니다.</string>
+    <string name="setup_setting_has_alarm_permission">알람 및 미리 알림 권한을 얻었습니다.</string>
+    <string name="setup_setting_alarm_permission_msg">지정한 시간에 시간 알림을 제공받거나 작업을 수행할 수 있는 권한입니다.</string>
+    <string name="use_volume_on_long_speak_title">긴 텍스트를 말하는 중에 음량 버튼을 눌러 말하기 음량 조절</string>
+    <string name="message_title">프롬프트</string>
+    <string name="msg_talkback_enabled">톡백을 실행했습니다. 톡백과 Jieshuo+가 동시에 실행되어 있으면 터치 동작에 예외가 발생할 수 있습니다.</string>
+    <string name="cur_timer_speak_title">타이머 알림 프리셋 설정</string>
+    <string name="use_speak_uts">사용 시간</string>
+    <string name="use_speak_rts">남은 시간</string>
+    <string name="use_speak_nts">현재 시간</string>
+    <string name="cur_timer_name">타이머 이름</string>
+    <string name="cur_timer_start_prompt">시작 프롬프트</string>
+    <string name="cur_timer_end_prompt">종료 프롬프트</string>
+    <string name="sound_power_connected">충전 시작됨</string>
+    <string name="sound_power_disconnected">충전 중지됨</string>
+    <string name="sound_power_full">충전 완료됨</string>
+    <string name="sound_power_low">배터리 잔량 부족</string>
+    <string name="sound_scroll_top">상단으로 스크롤</string>
+    <string name="sound_scroll_bottom">하단으로 스크롤</string>
+    <string name="sound_raise_volume">음량 키우기</string>
+    <string name="sound_lower_volume">음량 줄이기</string>
+    <string name="sound_copy">복사</string>
+    <string name="sound_paste">붙여넣기</string>
+    <string name="sound_previous_text">이전 글자</string>
+    <string name="sound_next_text">다음 글자</string>
+    <string name="sound_to_back">뒤로</string>
+    <string name="sound_has_action">동작 있음</string>
+    <string name="sound_has_link">링크 있음</string>
+    <string name="sound_feedback_paused">말하기 일시 정지</string>
+    <string name="sound_feedback_resume">말하기 재생</string>
+    <string name="sound_auto_ocr_start">자동 OCR 인식</string>
+    <string name="sound_camera_screenshot">카메라 스크린샷</string>
+    <string name="stream_type_ring">벨소리</string>
+    <string name="stream_type_music">미디어 스트리밍</string>
+    <string name="stream_type_alarm">알람</string>
+    <string name="stream_type_notification">알림</string>
+    <string name="stream_type_accessibility">접근성</string>
+    <string name="move">이동</string>
+    <string name="msg_move_start">이동할 위치를 터치한 뒤, 두번 탭하여 이동 완료하세요.</string>
+    <string name="msg_move_done">%d번째 위치로 이동했습니다.</string>
+    <string name="timer_tts_setting_title">타이머 알림음 설정</string>
+    <string name="other_res">기타 리소스</string>
+    <string name="language_title">언어 번역</string>
+    <string name="msg_download_error">다운로드 오류</string>
+    <string name="buy_with_alipay">알리페이 해외 송금을 사용하여 프리미엄 라이선스 얻기</string>
+    <string name="buy_with_paypal">使用PayPal을 사용하여 프리미엄 라이선스 얻기</string>
+    <string name="buy_with_unipay">유니언페이를 사용하여 프리미엄 라이선스 얻기(위안화로 결제하여 할인 혜택을 받으세요.)</string>
+    <string name="msg_change_custom_gesture">사용자 정의 제스처로 전환하여 지금 바로 설정할 수 있습니다.</string>
+    <string name="msg_import_strings">언어 번역을 가져오면 기존 언어 설정은 덮어쓰거나 병합됩니다.</string>
+    <string name="browser">찾아보기</string>
+    <string name="stop">중지</string>
+    <string name="read_next_chapter">다음 챕터</string>
+    <string name="read_previous_chapter">이전 챕터</string>
+    <string name="read_history">히스토리</string>
+    <string name="clear_history">히스토리 지우기</string>
+    <string name="web_back">뒤로</string>
+    <string name="web_reload">새로고침</string>
+    <string name="web_forward">앞으로</string>
+    <string name="web_enter_url">주소 입력</string>
+    <string name="web_copy_url">주소 복사</string>
+    <string name="web_are_you_open">열기를 허용하겠습니까?</string>
+    <string name="web_download_info">유형: %s, 크기: %s</string>
+    <string name="web_direct_download">직접 다운로드</string>
+    <string name="web_download_only_wifi">Wifi에서만</string>
+    <string name="overlay">오버레이</string>
+    <string name="merge">병합</string>
+    <string name="msg_has_enabled">Jieshuo+를 먼저 실행해야 합니다.</string>
+    <string name="msg_read_done">읽기 완료</string>
+    <string name="are_you_delete_all_logs">모든 로그를 삭제할까요?</string>
+    <string name="msg_speech_error_audio">오디오 오류</string>
+    <string name="msg_speech_error_speech_timeout">아무 말도 하지 않나요?></string>
+    <string name="msg_speech_error_client">클라이언트 내부 오류</string>
+    <string name="msg_speech_error_permissions">권한 부족</string>
+    <string name="msg_speech_error_network">네트워크 오류</string>
+    <string name="msg_speech_error_busy">엔진 사용 중</string>
+    <string name="msg_speech_error_server">서버 오류</string>
+    <string name="msg_speech_error_network_timeout">네트워크 시간 초과</string>
+    <string name="msg_use_custom_node_name">초점 이름을 사용할 지 여부를 정합니다.</string>
+    <string name="msg_use_custom_dict_speak">사용자 정의 사전 설정을 사용할 지 여부를 정합니다.</string>
+    <string name="msg_continuous_recognition">연속 인식 기능을 통해 버튼을 클릭하거나 화면을 다시 터치하거나 스크롤하면 자동으로 인식할 수 있습니다.</string>
+    <string name="enter_progress">진행 경과 입력</string>
+    <string name="msg_press_again_exit">종료하려면 한 번 더 누르세요.</string>
+    <string name="msg_set_text_to_speech_listener">음성 합성 모니터링 플러그인 켬</string>
+    <string name="msg_remove_text_to_speech_listener">음성 합성 모니터링 플러그인 끔</string>
+    <string name="msg_set_speech_recognition_listener">음성 인식 모니터링 플러그인 켬</string>
+    <string name="msg_remove_speech_recognition_listener">음성 인식 모니터링 플러그인 끔</string>
+    <string name="timer_start">직접 시작</string>
+    <string name="trans_error">번역 오류</string>
+    <string name="incoming">수신 전화</string>
+    <string name="net_2g_level">%s 2G 신호 %d단계</string>
+    <string name="net_4g_level">%s 4G 신호 %d단계</string>
+    <string name="net_3g_level">%s 3G 신호 %d단계</string>
+    <string name="net_5g_level">%s 5G 신호 %d단계</string>
+    <string name="wifi_level_5">WIFI 신호 5단계</string>
+    <string name="wifi_level_4">WIFI 신호 4단계</string>
+    <string name="wifi_level_3">WIFI 신호 3단계</string>
+    <string name="wifi_level_2">WIFI 신호 2단계</string>
+    <string name="wifi_level_1">WIFI 신호 1단계</string>
+    <string name="timer_rts">남음</string>
+    <string name="timer_pause_and_now_time">타이머 일시정지,%s，%s</string>
+    <string name="battery_charging">충전 중</string>
+    <string name="default_gesture_setting_title">기본 제스처 설정</string>
+    <string name="default_gesture_setting_summary">제스쳐 구성표가 기본값으로 설정되거나 사용자 지정 구성표가 false를 반환할 때 동작 관리</string>
+    <string name="use_action_menu_show_cursor_title">작업 메뉴에 초점 맞춤 작업 표시</string>
+    <string name="use_action_menu_show_ext_title">조작 메뉴에 링크 추출 진행률 조절 등의 확장 기능 표시</string>
+    <string name="find_next">查找下一个</string>
+    <string name="find_previous">查找上一个</string>
+
+    <string name="command_media_fast_forward">快进</string>
+    <string name="command_media_rewind">快退</string>
+    <string name="command_selection_mode">选择模式</string>
+    <string name="timer_format_title">报时时间格式</string>
+    <string name="timer_format_def">系统默认</string>
+    <string name="timer_format_12">12小时制</string>
+    <string name="timer_format_24">24小时制</string>
+    <string name="default_gesture_type_title">默认手势风格</string>
+    <string name="default_gesture_type_def_up_down">默认上/下切换焦点，左/右快捷手势风格</string>
+    <string name="default_gesture_type_web_up_down">仅在网页使用按类型浏览(左/右切换类型，上/下切换项目)</string>
+    <string name="default_gesture_type_web_up_down_new">仅在网页使用按类型浏览(先上后下/先下上后切换类型，左/右切换项目，上/下切换焦点)</string>
+    <string name="default_gesture_type_view_up_down">在所有视图使用按类型浏览(左/右切换类型，上/下切换项目)</string>
+    <string name="default_gesture_type_view_up_down_new">在所有视图使用按类型浏览(先上后下/先下上后切换类型，左/右切换项目，上/下切换焦点)</string>
+    <string name="default_gesture_type_def_left_right">默认左/右切换焦点，上/下快捷手势风格</string>
+    <string name="default_gesture_type_web_left_right">仅在网页使用按类型浏览(上/下切换类型，左/右切换项目)</string>
+    <string name="default_gesture_type_web_left_right_new">仅在网页使用按类型浏览(先上后下/先下上后切换类型，上/下切换项目，左/右切换焦点)</string>
+    <string name="default_gesture_type_view_left_right">在所有视图使用按类型浏览(上/下切换类型，左/右切换项目)</string>
+    <string name="default_gesture_type_view_left_right_new">在所有视图使用按类型浏览(先上后下/先下上后切换类型，上/下切换项目，左/右切换焦点)</string>
+    <string name="use_speak_state_title">先读出焦点状态</string>
+    <string name="alarm_hours_title">报时的时间</string>
+    <string name="notification_in_call_no_speak_title">通话时通知免打扰</string>
+    <string name="notification_in_auto_read_no_speak_title">自动浏览或阅读模式时通知免打扰</string>
+    <string name="timer_action_def_title">计时器默认操作</string>
+    <string name="timer_action_def_summary">当包含预设计时器时有效</string>
+    <string name="timer_item_formater">%s %d小时 %d分钟 %s</string>
+    <string name="use_ocr_auto_speak_title">自动朗读全屏文字识别或虚拟屏幕结果</string>
+    <string name="use_new_text_move_type_title">使用解说风格处理文字移动操作</string>
+    <string name="use_move_text_gesture_title">在激活的编辑框移动光标</string>
+    <string name="use_answer_phone_calls_incall_gesture_title">在来电界面接听挂断电话</string>
+    <string name="use_scroll_seek_gesture_title">在进度滑块调节进度</string>
+    <string name="use_scroll_list_gesture_title">在列表中滚动列表</string>
+    <string name="use_click_dialog_gesture_title">在对话框点击确定/取消按钮</string>
+    <string name="use_click_button_gesture_title">执行自定义快捷操作</string>
+    <string name="export_all_file">导出全部</string>
+    <string name="share_all">分享全部</string>
+    <string name="command_image_to_text">图片描述</string>
+    <string name="incall_tts_setting_title">来电报号语音设置</string>
+    <string name="reader_tts_setting_title">阅读模式语音设置</string>
+    <string name="char_mode_tts_setting_title">逐字浏览语音设置</string>
+    <string name="auto_read_tts_setting_title">自动浏览语音设置</string>
+    <string name="notification_tts_setting_title">通知语音设置</string>
 </resources>

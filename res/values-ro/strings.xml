@@ -260,39 +260,39 @@ Jieshuo Plus este al nostru în măsura în care este și al dumneavoastră. Cre
     <string name="use_edge_gesture_title">Utilizare gesturi margine</string>
     <string name="left_edge_gesture_title">Trageți cu degetul spre dreapta de la marginea stângă a ecranului</string>
     <string name="right_edge_gesture_title">Trageți cu degetul spre stânga de la marginea dreaptă a ecranului</string>
-    <string name="right_edge_gesture_value_default">Aplicații recente</string>
-    <string name="left_edge_gesture_value_default">Înapoi</string>
+
+
     <string name="use_edge_gesture_summary">,Stabilește dacă sunt activate gesturile de margine. Gesturile de margine sunt mișcări de glisare efectuate de pe marginea stângă sau dreaptă a ecranului cu unul sau două degete.</string>
     <string name="left_edge_gesture_summary">Permite setarea acțiunii care va fi declanșată atunci când se efectuează glisarea spre dreapta de la marginea stângă a ecranului</string>
     <string name="right_edge_gesture_summary">Permite setarea acțiunii care va fi declanșată atunci când se efectuează glisarea spre stânga de pe marginea din dreapta a ecranului</string>
-    <string name="down_volume_key_value_default">Asistent vocal</string>
+
     <string name="down_volume_key_title">Apăsare lungă buton reducere volum</string>
     <string name="down_volume_key_summary">Permite setarea acțiunii care va fi declanșată la apăsarea lungă a butonului de reducere a volumului</string>
     <string name="up_volume_key_title">Apăsare lungă buton creștere volum</string>
     <string name="up_volume_key_summary">Permite setarea acțiunii care va fi declanșată la apăsarea lungă a butonului de creștere a volumului</string>
-    <string name="up_volume_key_value_default">Comutare a opțiunii de ridicare a degetului de pe elementul focalizat pentru a-l activa</string>
+
     <string name="use_speak_call_phone_summary">Stabilește dacă numele și numărul apelantului sunt citite automat la primirea unui apel</string>
     <string name="use_speak_call_phone_title">Citire ID apelant</string>
     <string name="use_speak_changed_volume_summary">Stabilește dacă nivelul volumului este citit automat la schimbarea acestuia</string>
     <string name="use_speak_changed_volume_title">Enunțare nivel volum când se modifică</string>
     <string name="vip_qq_group_title">Grupul Jieshuo Plus VIP pe QQ</string>
     <string name="qq_group2_title">Grupul secundar al Jieshuo Plus pe QQ</string>
-    <string name="right_long_edge_gesture_value_default">Bară de notificări</string>
-    <string name="left_long_edge_gesture_value_default">Ecran pornire</string>
+
+
     <string name="right_long_edge_gesture_title">Trageți cu degetul spre stânga de la marginea dreaptă a ecranului și țineți apăsat</string>
     <string name="left_long_edge_gesture_title">Trageți cu degetul spre dreapta de la marginea stângă a ecranului și țineți apăsat</string>
     <string name="left_long_edge_gesture_summary">Permite setarea acțiunii care va fi declanșată la glisarea spre dreapta de la marginea stângă a ecranului și menținerea poziției pentru o secundă</string>
     <string name="right_long_edge_gesture_summary">Permite setarea acțiunii care va fi declanșată la glisarea spre stânga de la marginea dreaptă a ecranului și menținerea poziției pentru o secundă</string>
     <string name="use_up_long_quick_menu_summary">Stabilește dacă meniul de scurtături este afișat la menținerea degetului pe un element pentru mai mult timp</string>
-    <string name="up_volume_short_key_value_default">Creștere volum</string>
+
     <string name="up_volume_short_key_title">Apăsare scurtă buton creștere volum</string>
     <string name="up_volume_short_key_summary">Permite setarea unei acțiuni care să fie declanșată la apăsarea butonului de creștere a volumului în timp ce degetul este menținut pe ecran. În mod implicit, volumul este crescut ca de obicei.</string>
-    <string name="down_volume_short_key_value_default">Reducere volum</string>
+
     <string name="down_volume_short_key_title">Apăsare scurtă buton reducere volum</string>
     <string name="down_volume_short_key_summary">Permite setarea unei acțiuni care să fie declanșată la apăsarea butonului de reducere a volumului în timp ce degetul este menținut pe ecran. În mod implicit, volumul este redus ca de obicei.</string>
     <string name="use_ringtone_volume_title">Volum sonerie pentru enunțare</string>
     <string name="use_ringtone_volume_summary">Stabilește dacă volumul tonului de apel trebuie să fie utilizat pentru citirea ecranului apelurilor primite</string>
-    <string name="up_down_volume_short_key_value_default">Comutare gesturi</string>
+
     <string name="up_down_volume_short_key_summary">Permite setarea unei acțiuni care să fie declanșată la apăsarea simultană a celor două butoane de volum</string>
     <string name="up_down_volume_short_key_title">Apăsare simultană butoane volum</string>
     <string name="tts_engine_title">Motor TTS principal</string>
@@ -531,10 +531,10 @@ Jieshuo Plus este al nostru în măsura în care este și al dumneavoastră. Cre
     <string name="message_clean_error">Eroare curățare</string>
     <string name="message_edit_text_not_found">Casetă de text negăsită</string>
     <string name="rap_action_settings_title">Setări atingere dublă spate dispozitiv</string>
-    <string name="back_rap_action_value_default">@string/command_now_time</string>
+
     <string name="back_rap_action_title">Setări atingere dublă spate dispozitiv</string>
     <string name="back_rap_action_summary">Permite setarea unei acțiuni care să fie declanșată atunci când spatele telefonului este atins de două ori</string>
-    <string name="shake_action_value_default">@string/command_nothing</string>
+
     <string name="shake_action_title">Setări acțiuni scuturare</string>
     <string name="shake_action_summary">Permite setarea unei acțiuni care să fie declanșată atunci când dispozitivul este scuturat</string>
     <string name="shake_action_sens_title">Sensibilitate scuturare</string>
@@ -587,15 +587,15 @@ Jieshuo Plus este al nostru în măsura în care este și al dumneavoastră. Cre
     <string name="double_fling_right_gesture_title">Glisare la dreapta</string>
     <string name="double_fling_down_gesture_title">Glisare în jos</string>
     <string name="down_right_double_fling_setting">Gest compus în jos și în dreapta</string>
-    <string name="down_right_double_fling_left_gesture_value_default">Înapoi</string>
-    <string name="down_right_double_fling_up_gesture_value_default">Ecran pornire</string>
-    <string name="down_right_double_fling_right_gesture_value_default">[Click]</string>
-    <string name="down_right_double_fling_down_gesture_value_default">Bară de notificări</string>
+
+
+
+
     <string name="down_left_double_fling_setting">Gest compus în jos și în stânga</string>
-    <string name="down_left_double_fling_left_gesture_value_default">@string/command_copy</string>
-    <string name="down_left_double_fling_up_gesture_value_default">@string/command_paste</string>
-    <string name="down_left_double_fling_right_gesture_value_default">@string/command_append_copy</string>
-    <string name="down_left_double_fling_down_gesture_value_default">@string/command_long_copy</string>
+
+
+
+
     <string name="use_down_right_double_fling_gesture_title">Utilizați gestul compus în jos și la dreapta</string>
     <string name="use_down_left_double_fling_gesture_title">Utilizați gestul compus în jos și la stânga</string>
     <string name="right_double_fling_setting">Gest compus la dreapta</string>
@@ -643,10 +643,10 @@ Jieshuo Plus este al nostru în măsura în care este și al dumneavoastră. Cre
     <string name="fingerprint_gesture_setting">Gesturi cititor de amprente</string>
     <string name="fingerprint_gesture_setting_summary">,Stabilește dacă gesturile cititorului de amprente sunt recunoscute de cititorul de ecran. Vă rugăm să rețineți că această opțiune funcționează numai pe Android 8 și versiuni ulterioare și că funcționează doar dacă cititorul de amprente este plasat pe spatele dispozitivului.</string>
     <string name="use_fingerprint_gesture_title">Gesturi cititor amprentă</string>
-    <string name="fingerprint_left_gesture_value_default">Înapoi</string>
-    <string name="fingerprint_right_gesture_value_default">Click</string>
-    <string name="fingerprint_up_gesture_value_default">Anteriorul element focalizabil</string>
-    <string name="fingerprint_down_gesture_value_default">Următorul element focalizabil</string>
+
+
+
+
     <string name="command_supper_mode">Captură focalizare detaliată</string>
     <string name="command_ocr_focus">Recunoaștere obiect focalizat</string>
     <string name="navi">Navigare</string>
@@ -1327,6 +1327,7 @@ Dacă întâmpinați probleme dezactivați opțiunea.</string>
     <string name="expand">Extindere</string>
     <string name="fold">Restrângere</string>
     <string name="decoding">Decodare</string>
+    <string name="decode_start">Pornire Decodare %d</string>
     <string name="hide_dialog">Ascunde dialogul</string>
     <string name="back_up">Precedentul</string>
     <string name="make_dir">Dosar nou</string>
@@ -1597,7 +1598,51 @@ Dacă întâmpinați probleme dezactivați opțiunea.</string>
     <string name="timer_pause_and_now_time">计时已暂停，%s，%s</string>
     <string name="battery_charging">正在充电</string>
     <string name="default_gesture_setting_title">默认手势设置</string>
-    <string name="default_gesture_setting_summary">管理在手势方案设置为默认或自定义方案返回false时的行为</string>
+    <string name="default_gesture_setting_summary">管理在手势方案设置为默认，或自定义方案执行默认功能时的行为</string>
     <string name="use_action_menu_show_cursor_title">在操作菜单显示焦点自定义操作</string>
     <string name="use_action_menu_show_ext_title">在操作菜单显示链接提取进度调节等扩展功能</string>
+    <string name="find_next">查找下一个</string>
+    <string name="find_previous">查找上一个</string>
+    <string name="command_virtual_keyboard">Afișare tastatură</string>
+    <string name="command_media_fast_forward">快进</string>
+    <string name="command_media_rewind">快退</string>
+    <string name="command_selection_mode">选择模式</string>
+    <string name="timer_format_title">报时时间格式</string>
+    <string name="timer_format_def">系统默认</string>
+    <string name="timer_format_12">12小时制</string>
+    <string name="timer_format_24">24小时制</string>
+    <string name="default_gesture_type_title">默认手势风格</string>
+    <string name="default_gesture_type_def_up_down">默认上/下切换焦点，左/右快捷手势风格</string>
+    <string name="default_gesture_type_web_up_down">仅在网页使用按类型浏览(左/右切换类型，上/下切换项目)</string>
+    <string name="default_gesture_type_web_up_down_new">仅在网页使用按类型浏览(先上后下/先下上后切换类型，左/右切换项目，上/下切换焦点)</string>
+    <string name="default_gesture_type_view_up_down">在所有视图使用按类型浏览(左/右切换类型，上/下切换项目)</string>
+    <string name="default_gesture_type_view_up_down_new">在所有视图使用按类型浏览(先上后下/先下上后切换类型，左/右切换项目，上/下切换焦点)</string>
+    <string name="default_gesture_type_def_left_right">默认左/右切换焦点，上/下快捷手势风格</string>
+    <string name="default_gesture_type_web_left_right">仅在网页使用按类型浏览(上/下切换类型，左/右切换项目)</string>
+    <string name="default_gesture_type_web_left_right_new">仅在网页使用按类型浏览(先上后下/先下上后切换类型，上/下切换项目，左/右切换焦点)</string>
+    <string name="default_gesture_type_view_left_right">在所有视图使用按类型浏览(上/下切换类型，左/右切换项目)</string>
+    <string name="default_gesture_type_view_left_right_new">在所有视图使用按类型浏览(先上后下/先下上后切换类型，上/下切换项目，左/右切换焦点)</string>
+    <string name="use_speak_state_title">先读出焦点状态</string>
+    <string name="alarm_hours_title">报时的时间</string>
+    <string name="notification_in_call_no_speak_title">通话时通知免打扰</string>
+    <string name="notification_in_auto_read_no_speak_title">自动浏览或阅读模式时通知免打扰</string>
+    <string name="timer_action_def_title">计时器默认操作</string>
+    <string name="timer_action_def_summary">当包含预设计时器时有效</string>
+    <string name="timer_item_formater">%s %d小时 %d分钟 %s</string>
+    <string name="use_ocr_auto_speak_title">自动朗读全屏文字识别或虚拟屏幕结果</string>
+    <string name="use_new_text_move_type_title">使用解说风格处理文字移动操作</string>
+    <string name="use_move_text_gesture_title">在激活的编辑框移动光标</string>
+    <string name="use_answer_phone_calls_incall_gesture_title">在来电界面接听挂断电话</string>
+    <string name="use_scroll_seek_gesture_title">在进度滑块调节进度</string>
+    <string name="use_scroll_list_gesture_title">在列表中滚动列表</string>
+    <string name="use_click_dialog_gesture_title">在对话框点击确定/取消按钮</string>
+    <string name="use_click_button_gesture_title">执行自定义快捷操作</string>
+    <string name="export_all_file">导出全部</string>
+    <string name="share_all">分享全部</string>
+    <string name="command_image_to_text">图片描述</string>
+    <string name="incall_tts_setting_title">来电报号语音设置</string>
+    <string name="reader_tts_setting_title">阅读模式语音设置</string>
+    <string name="char_mode_tts_setting_title">逐字浏览语音设置</string>
+    <string name="auto_read_tts_setting_title">自动浏览语音设置</string>
+    <string name="notification_tts_setting_title">通知语音设置</string>
 </resources>

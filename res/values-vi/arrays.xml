@@ -5,6 +5,7 @@
         <item>@string/directory_plugins</item>
         <item>@string/directory_cmd</item>
         <item>@string/directory_tools</item>
+        <item>@string/directory_timer</item>
         <item>@string/app</item>
 
         <!--重要功能ok-->
@@ -178,12 +179,16 @@
         <item>@string/command_to_next_paragraph</item>
 
 
-       <item>@string/command_copy_to_cloud</item>
+        <item>@string/command_copy_to_cloud</item>
         <item>@string/command_paste_from_cloud</item>
         <item>@string/command_up_page</item>
         <item>@string/command_down_page</item>
         <item>@string/command_left_page</item>
         <item>@string/command_right_page</item>
+        <item>@string/command_media_fast_forward</item>
+        <item>@string/command_media_rewind</item>
+        <item>@string/command_selection_mode</item>
+        <item>@string/command_image_to_text</item>
 
         <!--item>极速浏览</item-->
 
@@ -424,7 +429,7 @@
         <item>4</item>
     </string-array-->
     <string-array name="vibrate_intensity_entries">
-        <item>Sáng</item>
+        <item>Nhẹ</item>
         <item>Trung bình</item>
         <item>Mạnh</item>
         <item>Rất mạnh</item>
@@ -980,12 +985,11 @@
         <item>21</item>
         <item>22</item>
         <item>23</item>
-        <item>24</item>
     </string-array>
     <string-array name="recognizer_lang_entries">
-        <item>Chinese simplified</item>
-        <item>Chinese cantonese</item>
-        <item>English</item>
+        <item>tiếng trung giản thể</item>
+        <item>tiếng Quảng Đông</item>
+        <item>Tiếng Anh</item>
     </string-array>
     <string-array name="recognizer_lang_values">
         <item>zh_CN</item>
@@ -1013,7 +1017,7 @@
         <item>nút</item>
 
         <item>Mốc</item>
-        <item>hộp văn bản</item>
+        <item>hộp chỉnh sửa</item>
         <item>Phần tử có thể tập trung</item>
         <item>điều khiển</item>
         <item>Hình ảnh</item>
@@ -1035,7 +1039,7 @@
         <item>âm lượng phương tiện</item>
         <item>Tốc độ giọng nói</item>
         <item>Dịch và OCR</item>
-        <item>Vùng màn hình</item>
+        <item>Khu vực trên màn hình</item>
 
     </string-array>
 
@@ -1066,7 +1070,7 @@
         <item>Mặc định</item>
         <item>nhãn</item>
         <item>nút</item>
-        <item>hộp văn bản</item>
+        <item>hộp chỉnh sửa</item>
 
         <item>Hình ảnh</item>
         <item>hộp kiểm</item>
@@ -1088,7 +1092,7 @@
         <item>âm lượng phương tiện</item>
         <item>Tốc độ giọng nói</item>
         <item>Dịch và OCR</item>
-        <item>Vùng màn hình</item>
+        <item>Khu vực trên màn hình</item>
 
     </string-array>
 

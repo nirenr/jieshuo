@@ -277,39 +277,39 @@
     <string name="use_edge_gesture_title">Koristi rubne geste: </string>
     <string name="left_edge_gesture_title">Postavke lijevog rubnog prečaca</string>
     <string name="right_edge_gesture_title">Postavke desnog rubnog prečaca</string>
-    <string name="right_edge_gesture_value_default">Nedavne aplikacije</string>
-    <string name="left_edge_gesture_value_default">Nazad</string>
+
+
     <string name="use_edge_gesture_summary">Geste koje se izvode na krajnjem rubu ekrana.</string>
     <string name="left_edge_gesture_summary">Prilagodite lijevi rubni prečac.</string>
     <string name="right_edge_gesture_summary">Prilagodite desni rubni prečac</string>
-    <string name="down_volume_key_value_default">Glasovni pomoćnik</string>
+
     <string name="down_volume_key_title">Dugo pritisni gumb za smanjivanje glasnoće</string>
     <string name="down_volume_key_summary">Prilagodite funkciju pritiska gumba za smanjivanje glasnoće.</string>
     <string name="up_volume_key_title">Dugo pritisnite gumb za pojačavanje</string>
     <string name="up_volume_key_summary">Pritisnite gumb za pojačavanje glasnoće</string>
-    <string name="up_volume_key_value_default">uključite ili isključite "odpuštanje prsta za aktivaciju"</string>
+
     <string name="use_speak_call_phone_summary">Izgovaraj identifikator pozivatelja: </string>
     <string name="use_speak_call_phone_title">Informacija o pozivatelju: </string>
     <string name="use_speak_changed_volume_summary">Čitaj poruku pri podešavanju glasnoće</string>
     <string name="use_speak_changed_volume_title">Čitaj poruku za glasnoću: </string>
     <string name="vip_qq_group_title">Jieshuo VBP QQ grupa</string>
     <string name="qq_group2_title">QQ grupa Jieshuo čitača ekrana</string>
-    <string name="right_long_edge_gesture_value_default">traka obavijesti</string>
-    <string name="left_long_edge_gesture_value_default">Početni zaslon</string>
+
+
     <string name="right_long_edge_gesture_title">Postavke povlačenja po desnom rubu zaslona</string>
     <string name="left_long_edge_gesture_title">Postavke povlačenja po lijevom rubu zaslona</string>
     <string name="left_long_edge_gesture_summary">Povucite s lijeva prema desnom rubu ekrana</string>
     <string name="right_long_edge_gesture_summary">Povucite s desna prema lijevom rubu ekrana.</string>
     <string name="use_up_long_quick_menu_summary">Prikažite izbornik prečaca prilikom dugog pritiska na stavku.</string>
-    <string name="up_volume_short_key_value_default">Pojačajte zvuk</string>
+
     <string name="up_volume_short_key_title">Kratak pritisak na tipke za pojačavanje zvuka: </string>
     <string name="up_volume_short_key_summary">Izaberi radnju koju želiš da bude izvršena pri kratkom pritisku gumba za povečavanje glasnoće. Ako želiš promjeniti glasnoću, koristi gumbe za glasnoću držeći prst na zaslonu</string>
-    <string name="down_volume_short_key_value_default">Smanjivanje glasnoće</string>
+
     <string name="down_volume_short_key_title">Kratki pritisak gumba za smanjivanje glasnoće: </string>
     <string name="down_volume_short_key_summary">Izaberi radnju koju želiš da bude izvršena pri kratkom pritisku gumba za smanjivanje glasnoće. Ako želiš promjeniti glasnoću, koristi gumbe za glasnoću držeći prst na zaslonu</string>
     <string name="use_ringtone_volume_title">Koristi glasnoću zvonjave: </string>
     <string name="use_ringtone_volume_summary">Koristi glasnoću zvonjave za određivanje glasnoće informacija o pozivatelju</string>
-    <string name="up_down_volume_short_key_value_default">Privremeno obustavi pregledavanje dodirom</string>
+
     <string name="up_down_volume_short_key_summary">Pauziraj ili ponovno pokreni pregledavanje dodirom</string>
     <string name="up_down_volume_short_key_title">Istovremeni pritisak obadva gumba za glasnoću</string>
     <string name="tts_engine_title">Glavna govorna jedinica</string>
@@ -560,11 +560,11 @@
 
 
     <string name="rap_action_settings_title">Dodirivanje stražnje strane telefona</string>
-    <string name="back_rap_action_value_default">@string/command_now_time</string>
+
     <string name="back_rap_action_title">Dvostruki dodir stražnje strane telefona</string>
     <string name="back_rap_action_summary">dvostruki  dodir stražnje strane telefona</string>
 
-    <string name="shake_action_value_default">@string/command_nothing</string>
+
     <string name="shake_action_title">Protresi</string>
     <string name="shake_action_summary">Protresite vaš uređaj horizontalno</string>
 
@@ -624,16 +624,16 @@
     <string name="double_fling_down_gesture_title">Postavke povlačenja prema dolje</string>
 
     <string name="down_right_double_fling_setting">Postavke višedijelne geste desno-dolje</string>
-    <string name="down_right_double_fling_left_gesture_value_default">nazad</string>
-    <string name="down_right_double_fling_up_gesture_value_default">Početni zaslon</string>
-    <string name="down_right_double_fling_right_gesture_value_default">[klik]</string>
-    <string name="down_right_double_fling_down_gesture_value_default">Panel obavijesti</string>
+
+
+
+
 
     <string name="down_left_double_fling_setting">Postavke višedijelne gest dole lijevo</string>
-    <string name="down_left_double_fling_left_gesture_value_default">@string/command_copy</string>
-    <string name="down_left_double_fling_up_gesture_value_default">@string/command_paste</string>
-    <string name="down_left_double_fling_right_gesture_value_default">@string/command_append_copy</string>
-    <string name="down_left_double_fling_down_gesture_value_default">@string/command_long_copy</string>
+
+
+
+
 
 
     <string name="use_down_right_double_fling_gesture_title">Koristite višedijelnu gestu dole desno</string>
@@ -705,10 +705,10 @@
     <string name="fingerprint_gesture_setting">Geste čitača otiska prsta settings</string>
     <string name="fingerprint_gesture_setting_summary">Ova je funkcija podržana na uređajima sa inačicom androida 8 ili novijim.</string>
     <string name="use_fingerprint_gesture_title">Koristi geste koje se izvode na čitaču otiska prsta: </string>
-    <string name="fingerprint_left_gesture_value_default">nazad</string>
-    <string name="fingerprint_right_gesture_value_default">[klik]</string>
-    <string name="fingerprint_up_gesture_value_default">prethodna stavka</string>
-    <string name="fingerprint_down_gesture_value_default">Sljedeća stavka</string>
+
+
+
+
     <string name="command_supper_mode">Način detaljiziranog kretanja</string>
     <string name="command_ocr_focus">Prepoznaj fokusiranu stavku prepoznavačem teksta.</string>
     <string name="navi">kretanje</string>
@@ -1565,118 +1565,163 @@
     <string name="use_window_title_changed_title">Pročitaj izmjene promjene prozora</string>
     <string name="do_not_prompt_again">Ne podsjećaj me ponovo</string>
     <string name="use_custom_language_title">Koristi prilagođene jezične pakete</string>
-    <string name="msg_has_not_enabled">解说还没有启动，在辅助功能启用解说后才能为你提供服务，是否立即前往辅助功能开启解说，你也可以在稍后解说辅助功能设置中开启</string>
-    <string name="msg_has_not_enabled_33">注意，若您是安卓13的用户，那么您在“无障碍”或“辅助功能”中首次启动解说时，可能会跳出受限制的设置对话框，提示出于安全考虑，此设置不可用，请点击确认按钮后，打开解说的应用信息，点击右上角的更多选项，随后点击允许受限制的设置，随后再次到“无障碍”或“辅助功能”中启用解说即可，如若您的安卓13设备没有出现上述提示，可忽略本说明。\n</string>
-    <string name="use_edit_hint_title">读出编辑框的提示文字</string>
-    <string name="check_manage_files_permissions_title">检查文件管理权限</string>
-    <string name="check_alarm_permissions_title">检查闹钟与提醒权限</string>
-    <string name="setup_setting_file_permission_msg">读屏使用文件管理权限保存和读取插件，音效，工具和备份资源等</string>
-    <string name="setup_setting_not_file_permission">未获取文件管理权限</string>
-    <string name="setup_setting_has_file_permission">已获取文件管理权限</string>
-    <string name="setup_setting_not_alarm_permission">未获取闹钟与提醒权限</string>
-    <string name="setup_setting_has_alarm_permission">已获取闹钟与提醒权限</string>
-    <string name="setup_setting_alarm_permission_msg">读屏使用闹钟权限可以在你指定的时间播报时间或执行任务</string>
-    <string name="use_volume_on_long_speak_title">当朗读长文本时按音量键调节读屏音量</string>
-    <string name="message_title">提示</string>
-    <string name="msg_talkback_enabled">你已开启talkback，同时开启解说和talkback可能导致触摸异常，请在关闭talkback后恢复解说的触摸浏览。</string>
-    <string name="cur_timer_speak_title">预设计时器朗读设置</string>
-    <string name="use_speak_uts">已用时间</string>
-    <string name="use_speak_rts">剩余时间</string>
-    <string name="use_speak_nts">现在时间</string>
-    <string name="cur_timer_name">名称</string>
-    <string name="cur_timer_start_prompt">开始提示</string>
-    <string name="cur_timer_end_prompt">结束提示</string>
-    <string name="sound_power_connected">开始充电</string>
-    <string name="sound_power_disconnected">结束充电</string>
-    <string name="sound_power_full">充电完成</string>
-    <string name="sound_power_low">电量低</string>
-    <string name="sound_scroll_top">滚动到顶部</string>
-    <string name="sound_scroll_bottom">滚动到底部</string>
-    <string name="sound_raise_volume">增加音量</string>
-    <string name="sound_lower_volume">减小音量</string>
-    <string name="sound_copy">复制</string>
-    <string name="sound_paste">粘贴</string>
-    <string name="sound_previous_text">上个文字</string>
-    <string name="sound_next_text">下个文字</string>
-    <string name="sound_to_back">返回</string>
-    <string name="sound_has_action">可操作</string>
-    <string name="sound_has_link">含链接</string>
-    <string name="sound_feedback_paused">暂停反馈</string>
-    <string name="sound_feedback_resume">恢复反馈</string>
-    <string name="sound_auto_ocr_start">自动OCR识别</string>
-    <string name="sound_camera_screenshot">相机与截图</string>
-    <string name="stream_type_ring">铃声</string>
-    <string name="stream_type_music">媒体</string>
-    <string name="stream_type_alarm">闹钟</string>
-    <string name="stream_type_notification">通知</string>
-    <string name="stream_type_accessibility">无障碍</string>
-    <string name="move">移动</string>
-    <string name="msg_move_start">开始移动，触摸要移动的位置双击完成移动</string>
-    <string name="msg_move_done">已移动到第%d项</string>
-    <string name="timer_tts_setting_title">报时语音设置</string>
-    <string name="other_res">其他资源</string>
-    <string name="language_title">语言翻译</string>
-    <string name="msg_download_error">下载出错</string>
-    <string name="buy_with_alipay">使用支付宝跨境汇款购买会员</string>
-    <string name="buy_with_unipay">使用银行卡跨境汇款购买会员（使用人民币支付，享受等同中国用户人民币付款优惠）</string>
-    <string name="buy_with_paypal">使用PayPal购买会员</string>
-    <string name="msg_change_custom_gesture">切换为自定义手势才能修改,是否切换为自定义手势</string>
-    <string name="msg_import_strings">导入语言翻译将会覆盖合并你的语言设置，你可以先导出自己的设置后导入，是否直接导入</string>
-    <string name="browser">浏览</string>
-    <string name="stop">停止</string>
-    <string name="read_next_chapter">下一章</string>
-    <string name="read_previous_chapter">上一章</string>
-    <string name="read_history">历史记录</string>
-    <string name="clear_history">清除记录</string>
-    <string name="web_back">后退</string>
-    <string name="web_reload">刷新</string>
-    <string name="web_forward">前进</string>
-    <string name="web_enter_url">输入网址</string>
-    <string name="web_copy_url">复制网址</string>
-    <string name="web_are_you_open">允许打开吗</string>
-    <string name="web_download_info">类型: %s\n大小: %s</string>
-    <string name="web_direct_download">直接下载</string>
-    <string name="web_download_only_wifi">仅Wifi下载</string>
-    <string name="merge">合并</string>
-    <string name="overlay">覆盖</string>
-    <string name="msg_has_enabled">请先启用解说</string>
-    <string name="msg_read_done">读取完成</string>
-    <string name="are_you_delete_all_logs">确定删除全部日志吗</string>
-    <string name="msg_speech_error_audio">音频问题</string>
-    <string name="msg_speech_error_speech_timeout">怎么不说话呢</string>
-    <string name="msg_speech_error_client">其它客户端错误</string>
-    <string name="msg_speech_error_permissions">权限不足</string>
-    <string name="msg_speech_error_network">网络问题</string>
-    <string name="msg_speech_error_busy">引擎忙</string>
-    <string name="msg_speech_error_server">服务端错误</string>
-    <string name="msg_speech_error_network_timeout">网络连接超时</string>
-    <string name="msg_use_custom_node_name">开启使用焦点别名才能生效，是否开启</string>
-    <string name="msg_use_custom_dict_speak">开启使用自定义词典设置才能生效，是否开启</string>
-    <string name="msg_continuous_recognition">连续识别功能可以在点击按钮后，再次触摸或滚动屏幕后自动识别</string>
-    <string name="enter_progress">输入进度</string>
-    <string name="msg_press_again_exit">再按一次退出</string>
-    <string name="msg_set_text_to_speech_listener">插件希望监控你的语音合成状态</string>
-    <string name="msg_remove_text_to_speech_listener">插件已解除对语音合成的监控</string>
-    <string name="msg_set_speech_recognition_listener">插件希望监控你的语音识别状态</string>
-    <string name="msg_remove_speech_recognition_listener">插件已解除对语音识别的监控</string>
-    <string name="timer_start">直接开始</string>
-    <string name="trans_error">翻译出错</string>
-    <string name="incoming">来电</string>
-    <string name="net_2g_level">%s2G信号%d格</string>
-    <string name="net_4g_level">%s4G信号%d格</string>
-    <string name="net_3g_level">%s3G信号%d格</string>
-    <string name="net_5g_level">%s5G信号%d格</string>
-    <string name="wifi_level_5">WIFI信号 满格</string>
-    <string name="wifi_level_4">WIFI信号4格</string>
-    <string name="wifi_level_3">WIFI信号3格</string>
-    <string name="wifi_level_2">WIFI信号2格</string>
-    <string name="wifi_level_1">WIFI信号1格</string>
-    <string name="timer_rts">剩余</string>
-    <string name="timer_pause_and_now_time">计时已暂停，%s，%s</string>
-    <string name="battery_charging">正在充电</string>
-    <string name="default_gesture_setting_title">默认手势设置</string>
-    <string name="default_gesture_setting_summary">管理在手势方案设置为默认或自定义方案返回false时的行为</string>
-    <string name="use_action_menu_show_cursor_title">在操作菜单显示焦点自定义操作</string>
-    <string name="use_action_menu_show_ext_title">在操作菜单显示链接提取进度调节等扩展功能</string>
+    <string name="msg_has_not_enabled">Jieshuo još nije uključen. program će raditi samo poslije uključenja odgovarajuće usluge pristupačnosti. Želite li uključiti Jieshuo sada? Takožer možete to učiniti poslije u postavkama pristupačnosti.</string>
+    <string name="msg_has_not_enabled_33">Upozorenje: ako koristite Android 13, poslije prvog pokretanja Jieshuo u postavkama pristupačnosti možete dobiti obavijest, da je ta akcija zablokirana iz sigurnosnih razloga. Poslije zatvaranja tog dijaloškog okvira, molimo otvorite dijaloški okvir informacija o aplikaciji Jieshuo, pritisnite u desnom gornjem kutu ekrana gumb "više i izaberite stavku "dozvoliti ograničene postavke". Poslije toga opet uključite Jieshuo u postavkama pristupačnosti.
+Ako koristite Android 13, ali niste dobili takvu obavijest, ignorirajte ovo upozorenje.</string>
+    <string name="use_edit_hint_title">Uvijek izgovori sugestije poljima uređivanja</string>
+    <string name="check_manage_files_permissions_title">Provjera dozvola za sustav datoteka</string>
+    <string name="check_alarm_permissions_title">Provjera dozvola za alarm i obavijesti</string>
+    <string name="setup_setting_file_permission_msg">Jieshuo koristi pristup sustavu datoteka kako biste mogli spremati dodatke, zvučne teme, podatke rezervnih kopija i drugo.</string>
+    <string name="setup_setting_not_file_permission">Nema dozvole za sustav datoteka.</string>
+    <string name="setup_setting_has_file_permission">Pristup sustavu datoteka je već dan.</string>
+    <string name="setup_setting_not_alarm_permission">Pristup alarmu i obavjestima nije dan</string>
+    <string name="setup_setting_has_alarm_permission">Pristup alarmu i obavijestima je već dan</string>
+    <string name="setup_setting_alarm_permission_msg">Jieshuo koristi dozvolu za pristup alarmu kako bi funkcije glasovnog sata i planera radile</string>
+    <string name="use_volume_on_long_speak_title">Pri čitanju dugog teksta reguliraj glasnoću govorne jedinice tipkama za glasnoću</string>
+    <string name="message_title">Upozorenje</string>
+    <string name="msg_talkback_enabled">Uključili ste TalkBack. Kada su Jieshuo i TalkBack uključeni, to može prouzročiti nepravilan rad gesti. Poslije isključenja Talkback Molimo ponovo uključite istraživanje dodirom u Jieshuo.</string>
+    <string name="cur_timer_speak_title">Postavke glasovnih obavijesti za šablone tajmera</string>
+    <string name="use_speak_uts">proteklo vrijeme</string>
+    <string name="use_speak_rts">preostalo vrijeme</string>
+    <string name="use_speak_nts">sada je</string>
+    <string name="cur_timer_name">Naziv</string>
+    <string name="cur_timer_start_prompt">Obavjest pri pokretanju</string>
+    <string name="cur_timer_end_prompt">Obavijest pri završetku</string>
+    <string name="sound_power_connected">Počtek punjenja</string>
+    <string name="sound_power_disconnected">Kraj punjenja</string>
+    <string name="sound_power_full">Kraj punjenja</string>
+    <string name="sound_power_low">Kritična razina baterije</string>
+    <string name="sound_scroll_top">Prelazak na početak</string>
+    <string name="sound_scroll_bottom">Prelazak na kraj</string>
+    <string name="sound_raise_volume">Povečanje glasnoće</string>
+    <string name="sound_lower_volume">Smanjenje glasnoće</string>
+    <string name="sound_copy">Kopiranje</string>
+    <string name="sound_paste">Lijepljenje</string>
+    <string name="sound_previous_text">Prethodni tekst</string>
+    <string name="sound_next_text">Slijedeći tekst</string>
+    <string name="sound_to_back">Povratak nazad</string>
+    <string name="sound_has_action">Dostupne akcije</string>
+    <string name="sound_has_link">Sadrži poveznicu</string>
+    <string name="sound_feedback_paused">Zaustavljen rad govorne jedinice</string>
+    <string name="sound_feedback_resume">Govorna jedinica opet radi</string>
+    <string name="sound_auto_ocr_start">Auotomatsko prepoznavanje teksta</string>
+    <string name="sound_camera_screenshot">Kamera i snimka zaslona</string>
+    <string name="stream_type_ring">Zvono</string>
+    <string name="stream_type_music">Multimedija</string>
+    <string name="stream_type_alarm">Alarm</string>
+    <string name="stream_type_notification">Obavijesti</string>
+    <string name="stream_type_accessibility">Pristupačnost</string>
+    <string name="move">Premjesti</string>
+    <string name="msg_move_start">Za premještanje dotaknite mjesto na koje želite premjestiti stavku i potvrdite akciju dodirom dva puta.</string>
+    <string name="msg_move_done">Premješteno na poziciju %d</string>
+    <string name="timer_tts_setting_title">Postavke govorne jedinice  pri čitanju obavijesti tajmera i sata</string>
+    <string name="other_res">Drugi resursi</string>
+    <string name="language_title">Datoteke prijevoda</string>
+    <string name="msg_download_error">Greška pri preuzimanju</string>
+    <string name="buy_with_alipay">Kupi premium uy pomoć AliPay-a</string>
+    <string name="buy_with_unipay">Kupi premium izravnim kartičnim transferom (plaćaš u juanima i dobijaš iste popuste, koje dobivaju i kineski korisnici).</string>
+    <string name="buy_with_paypal">Kupi premium uz pomoć PayPala</string>
+    <string name="msg_change_custom_gesture">Možeš uređivati samo personaliziranu shemu gesti. Želiš li se na nju prebaciti i nastaviti?</string>
+    <string name="msg_import_strings">Pri uvozu datoteke prijevoda vaše vlastite postavke prijevoda sučelja bit će zamijenjene. Možete ih sačuvati tako da ih najprije uvezete  u datoteku lokalizacije.</string>
+    <string name="browser">Idi</string>
+    <string name="stop">Zaustavi</string>
+    <string name="read_next_chapter">Sljedeće poglavlje</string>
+    <string name="read_previous_chapter">Prethodno poglavlje</string>
+    <string name="read_history">Povijest</string>
+    <string name="clear_history">Očisti povijest</string>
+    <string name="web_back">Nazad</string>
+    <string name="web_reload">Osvježiti</string>
+    <string name="web_forward">Naprijed</string>
+    <string name="web_enter_url">Unesi adresu URL</string>
+    <string name="web_copy_url">Kopirati adresu URL</string>
+    <string name="web_are_you_open">Dozvoljavate li otvaranje?</string>
+    <string name="web_download_info">Tip: %s Veličina: %s</string>
+    <string name="web_direct_download">Preuzeti</string>
+    <string name="web_download_only_wifi">Preuzimaj samo putem WiFi-ja</string>
+    <string name="merge">Spoji</string>
+    <string name="overlay">Zamjeni</string>
+    <string name="msg_has_enabled">Molimo najprije isključite jieshuo</string>
+    <string name="msg_read_done">Čitanje je gotovo.</string>
+    <string name="are_you_delete_all_logs">Želite li izbrisati zapisnik otklanjanja grešaka?</string>
+    <string name="msg_speech_error_audio">Greška audio</string>
+    <string name="msg_speech_error_speech_timeout">Niste ništa rekli</string>
+    <string name="msg_speech_error_client">Druga pogreška klijenta</string>
+    <string name="msg_speech_error_permissions">Nema dozvola</string>
+    <string name="msg_speech_error_network">Pogreška mreže</string>
+    <string name="msg_speech_error_busy">Sustav je zauzet</string>
+    <string name="msg_speech_error_server">Greška servera</string>
+    <string name="msg_speech_error_network_timeout">Vrijeme čekanja mreže je predugo</string>
+    <string name="msg_use_custom_node_name">Za primjenu potrebno je uključiti osobne oznake čvorova. Želite li to učiniti sada?</string>
+    <string name="msg_use_custom_dict_speak">Za primjeru potrebno je uključiti riječnik izgovora. Želite li to učiniti sada?</string>
+    <string name="msg_continuous_recognition">Funkcija neprekidnog prepoznavanja ponovno prepoznaje sve poslije svakog pritiska gumbi, aktivacije elemenata ili prelaza po ekranu.</string>
+    <string name="enter_progress">Značenje trake napredka</string>
+    <string name="msg_press_again_exit">Pritisnite još jednom za izlazak</string>
+    <string name="msg_set_text_to_speech_listener">Dodatak želi slijediti rezultat sinteze govora</string>
+    <string name="msg_remove_text_to_speech_listener">Dodatak želi zaustaviti sljeđenje sinteze govora</string>
+    <string name="msg_set_speech_recognition_listener">Dodatak želi pratiti rezultate prepoznavanja govora</string>
+    <string name="msg_remove_speech_recognition_listener">Dodatak želi zaustaviti praćenje rezultata prepoznavanja govora</string>
+    <string name="timer_start">Pokrenuti u modusu mjerača sekundi</string>
+    <string name="trans_error">Greška prijevoda</string>
+    <string name="incoming">Dolazni poziv</string>
+    <string name="net_2g_level">%s 2G signal %d crtica</string>
+    <string name="net_4g_level">%s 4G signal %d crtica</string>
+    <string name="net_3g_level">%s 3G signal %d crtica</string>
+    <string name="net_5g_level">%s 5G signal %d crtica</string>
+    <string name="wifi_level_5">Maksimalni signal Wi-fija</string>
+    <string name="wifi_level_4">4 crtice signalu Wi-Fija</string>
+    <string name="wifi_level_3">3 crtice signala Wi-Fija</string>
+    <string name="wifi_level_2">2 crtice signala Wi-Fija</string>
+    <string name="wifi_level_1">1 crtica сигналу Wi-Fija</string>
+    <string name="timer_rts">preostalo</string>
+    <string name="timer_pause_and_now_time">Tajmer je zaustavljen. %s, %s</string>
+    <string name="battery_charging">Baterija se puni</string>
+    <string name="default_gesture_setting_title">Postavke standardne sheme gesti</string>
+    <string name="default_gesture_setting_summary">Regulira ponašanje programa, pri izboru standardne sheme gesti, ili kada shema gesti dobiva značenje false.</string>
+    <string name="use_action_menu_show_cursor_title">Pokazivati akcije elementa u izborniku akcije Jieshuo</string>
+    <string name="use_action_menu_show_ext_title">Dozvoljava prikaz u izborniku akcija Jieshuo dodatne akcije (na primjer, upravljanje trakama napredka ili otvaranje linkova(, ako su dostupni za fokusirani element.</string>
+    <string name="find_next">查找下一个</string>
+    <string name="find_previous">查找上一个</string>
+
+    <string name="command_media_fast_forward">快进</string>
+    <string name="command_media_rewind">快退</string>
+    <string name="command_selection_mode">选择模式</string>
+    <string name="timer_format_title">报时时间格式</string>
+    <string name="timer_format_def">系统默认</string>
+    <string name="timer_format_12">12小时制</string>
+    <string name="timer_format_24">24小时制</string>
+    <string name="default_gesture_type_title">默认手势风格</string>
+    <string name="default_gesture_type_def_up_down">默认上/下切换焦点，左/右快捷手势风格</string>
+    <string name="default_gesture_type_web_up_down">仅在网页使用按类型浏览(左/右切换类型，上/下切换项目)</string>
+    <string name="default_gesture_type_web_up_down_new">仅在网页使用按类型浏览(先上后下/先下上后切换类型，左/右切换项目，上/下切换焦点)</string>
+    <string name="default_gesture_type_view_up_down">在所有视图使用按类型浏览(左/右切换类型，上/下切换项目)</string>
+    <string name="default_gesture_type_view_up_down_new">在所有视图使用按类型浏览(先上后下/先下上后切换类型，左/右切换项目，上/下切换焦点)</string>
+    <string name="default_gesture_type_def_left_right">默认左/右切换焦点，上/下快捷手势风格</string>
+    <string name="default_gesture_type_web_left_right">仅在网页使用按类型浏览(上/下切换类型，左/右切换项目)</string>
+    <string name="default_gesture_type_web_left_right_new">仅在网页使用按类型浏览(先上后下/先下上后切换类型，上/下切换项目，左/右切换焦点)</string>
+    <string name="default_gesture_type_view_left_right">在所有视图使用按类型浏览(上/下切换类型，左/右切换项目)</string>
+    <string name="default_gesture_type_view_left_right_new">在所有视图使用按类型浏览(先上后下/先下上后切换类型，上/下切换项目，左/右切换焦点)</string>
+    <string name="use_speak_state_title">先读出焦点状态</string>
+    <string name="alarm_hours_title">报时的时间</string>
+    <string name="notification_in_call_no_speak_title">通话时通知免打扰</string>
+    <string name="notification_in_auto_read_no_speak_title">自动浏览或阅读模式时通知免打扰</string>
+    <string name="timer_action_def_title">计时器默认操作</string>
+    <string name="timer_action_def_summary">当包含预设计时器时有效</string>
+    <string name="timer_item_formater">%s %d小时 %d分钟 %s</string>
+    <string name="use_ocr_auto_speak_title">自动朗读全屏文字识别或虚拟屏幕结果</string>
+    <string name="use_new_text_move_type_title">使用解说风格处理文字移动操作</string>
+    <string name="use_move_text_gesture_title">在激活的编辑框移动光标</string>
+    <string name="use_answer_phone_calls_incall_gesture_title">在来电界面接听挂断电话</string>
+    <string name="use_scroll_seek_gesture_title">在进度滑块调节进度</string>
+    <string name="use_scroll_list_gesture_title">在列表中滚动列表</string>
+    <string name="use_click_dialog_gesture_title">在对话框点击确定/取消按钮</string>
+    <string name="use_click_button_gesture_title">执行自定义快捷操作</string>
+    <string name="export_all_file">导出全部</string>
+    <string name="share_all">分享全部</string>
+    <string name="command_image_to_text">图片描述</string>
+    <string name="incall_tts_setting_title">来电报号语音设置</string>
+    <string name="reader_tts_setting_title">阅读模式语音设置</string>
+    <string name="char_mode_tts_setting_title">逐字浏览语音设置</string>
+    <string name="auto_read_tts_setting_title">自动浏览语音设置</string>
+    <string name="notification_tts_setting_title">通知语音设置</string>
 
 </resources>

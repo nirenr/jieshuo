@@ -277,39 +277,39 @@
     <string name="use_edge_gesture_title">از ژست‌های لبه ای استفاده شود.: </string>
     <string name="left_edge_gesture_title">ژست لبه ای کوتاه سمت چپ</string>
     <string name="right_edge_gesture_title">ژست لبه ای کوتاه سمت راست</string>
-    <string name="right_edge_gesture_value_default">برنامه‌های اخیر</string>
-    <string name="left_edge_gesture_value_default">بازگشت</string>
+
+
     <string name="use_edge_gesture_summary">ژست‌های حرکتی ویژه لبه ی صفحه. </string>
     <string name="left_edge_gesture_summary">سفارشی‌سازی ژست لبه ای کوتاه سمت چپ. </string>
     <string name="right_edge_gesture_summary">سفارشی‌سازی ژست لبه ای کوتاه سمت راست. </string>
-    <string name="down_volume_key_value_default">دستیار صوتی</string>
+
     <string name="down_volume_key_title">فشار طولانی دگمه کاهش صدا: </string>
     <string name="down_volume_key_summary">سفارشی‌سازی فشار طولانی دگمه کاهش صدا. </string>
     <string name="up_volume_key_title">فشار طولانی دگمه افزایش صدا: </string>
     <string name="up_volume_key_summary">سفارشی‌سازی فشار طولانی دگمه افزایش صدا. </string>
-    <string name="up_volume_key_value_default">تغییر در وضعیت "فعالسازی گزینه ها با برداشتن انگشت از صفحه"</string>
+
     <string name="use_speak_call_phone_summary">هنگام دریافت تماس، نام و شماره تماس‌گیرنده خوانده شود: </string>
     <string name="use_speak_call_phone_title">اطلاعات تماس‌گیرنده: </string>
     <string name="use_speak_changed_volume_summary">هنگام تغییر میزان صدا، درصد تغییرات خوانده شود. </string>
     <string name="use_speak_changed_volume_title">خواندن تغییرات میزان صدا: </string>
     <string name="vip_qq_group_title">گروه صفحه‌خوان commentary مخصوص کاربران پیشرفته  در QQ</string>
     <string name="qq_group2_title">گروه رسمی صفحه‌خوان commentary در QQ</string>
-    <string name="right_long_edge_gesture_value_default">پنل اعلانات</string>
-    <string name="left_long_edge_gesture_value_default">صفحه اصلی</string>
+
+
     <string name="right_long_edge_gesture_title"> ژست لبه ای طولانی سمت راست</string>
     <string name="left_long_edge_gesture_title">ژست لبه ای طولانی سمت چپ</string>
     <string name="left_long_edge_gesture_summary">انگشت خود را مدتی در لبه  چپ صفحه نگه دارید، سپس به راست بکشید</string>
     <string name="right_long_edge_gesture_summary">انگشت خود را مدتی در لبه  راست صفحه نگه دارید، سپس به چپ بکشید.</string>
     <string name="use_up_long_quick_menu_summary">هنگام فشار طولانی روی مورد فوکوس شده، منوی میانبر‌ها نشان داده شود.</string>
-    <string name="up_volume_short_key_value_default">افزایش میزان صدا</string>
+
     <string name="up_volume_short_key_title">فشار دادن دگمه افزایش صدا: </string>
     <string name="up_volume_short_key_summary">افزایش میزان صدا</string>
-    <string name="down_volume_short_key_value_default">کاهش میزان صدا</string>
+
     <string name="down_volume_short_key_title">فشار دادن دگمه کاهش میزان صدا: </string>
     <string name="down_volume_short_key_summary">کاهش میزان صدا</string>
     <string name="use_ringtone_volume_title">استفاده از میزان صدای زنگ: </string>
     <string name="use_ringtone_volume_summary">از میزان صدای زنگ برای خواندن نام تماس‌گیرنده استفاده شود. </string>
-    <string name="up_down_volume_short_key_value_default">تعلیق کاوش با لمس</string>
+
     <string name="up_down_volume_short_key_summary">توقف یا از‌سر‌گیری کاوش با لمس</string>
     <string name="up_down_volume_short_key_title">فشار دادن همزمان دگمه های تنظیم صدا</string>
     <string name="tts_engine_title">موتور متن به گفتار اصلی</string>
@@ -560,11 +560,11 @@
 
 
     <string name="rap_action_settings_title">ضربه زدن به پشت دستگاه </string>
-    <string name="back_rap_action_value_default">@string/command_now_time</string>
+
     <string name="back_rap_action_title">دو بار ضربه زدن به پشت دستگاه: </string>
     <string name="back_rap_action_summary">دو بار ضربه زدن به پشت دستگاه</string>
 
-    <string name="shake_action_value_default">@string/command_nothing</string>
+
     <string name="shake_action_title">تکان دادن</string>
     <string name="shake_action_summary">دستگاه خود را افقی تکان دهید </string>
 
@@ -624,16 +624,16 @@
     <string name="double_fling_down_gesture_title">اشاره به پایین</string>
 
     <string name="down_right_double_fling_setting">ژست حرکتی چند‌بخشی پایین راست</string>
-    <string name="down_right_double_fling_left_gesture_value_default">بازگشت</string>
-    <string name="down_right_double_fling_up_gesture_value_default">صفحه اصلی</string>
-    <string name="down_right_double_fling_right_gesture_value_default">[کیلیک]</string>
-    <string name="down_right_double_fling_down_gesture_value_default">پنل اعلان‌ها</string>
+
+
+
+
 
     <string name="down_left_double_fling_setting">ژست حرکتی چند‌بخشی پایین-چپ</string>
-    <string name="down_left_double_fling_left_gesture_value_default">@string/command_copy</string>
-    <string name="down_left_double_fling_up_gesture_value_default">@string/command_paste</string>
-    <string name="down_left_double_fling_right_gesture_value_default">@string/command_append_copy</string>
-    <string name="down_left_double_fling_down_gesture_value_default">@string/command_long_copy</string>
+
+
+
+
 
 
     <string name="use_down_right_double_fling_gesture_title">استفاده از ژست‌ حرکتی چند‌بخشی پایین-راست</string>
@@ -705,10 +705,10 @@
     <string name="fingerprint_gesture_setting">تنظیمات ژست‌های اثر انگشت</string>
     <string name="fingerprint_gesture_setting_summary">این ویژگی فقط برای اندروید 8 و بالاتر فعال است .</string>
     <string name="use_fingerprint_gesture_title">استفاده از ژست‌های حرکتی اجرا شده روی حسگر اثر انگشت : </string>
-    <string name="fingerprint_left_gesture_value_default">بازگشت</string>
-    <string name="fingerprint_right_gesture_value_default">[کلیک]</string>
-    <string name="fingerprint_up_gesture_value_default">مورد قبلی</string>
-    <string name="fingerprint_down_gesture_value_default">مورد بعدی</string>
+
+
+
+
     <string name="command_supper_mode">حالت ناوبری پر-جزئیات</string>
     <string name="command_ocr_focus">شناسایی مورد فوکوس شده با نویسه‌خوان نوری.</string>
     <string name="navi">ناوبری</string>
@@ -1673,8 +1673,52 @@
     <string name="timer_pause_and_now_time">计时已暂停，%s，%s</string>
     <string name="battery_charging">正在充电</string>
     <string name="default_gesture_setting_title">默认手势设置</string>
-    <string name="default_gesture_setting_summary">管理在手势方案设置为默认或自定义方案返回false时的行为</string>
+    <string name="default_gesture_setting_summary">管理在手势方案设置为默认，或自定义方案执行默认功能时的行为</string>
     <string name="use_action_menu_show_cursor_title">在操作菜单显示焦点自定义操作</string>
     <string name="use_action_menu_show_ext_title">在操作菜单显示链接提取进度调节等扩展功能</string>
+    <string name="find_next">查找下一个</string>
+    <string name="find_previous">查找上一个</string>
+
+    <string name="command_media_fast_forward">快进</string>
+    <string name="command_media_rewind">快退</string>
+    <string name="command_selection_mode">选择模式</string>
+    <string name="timer_format_title">报时时间格式</string>
+    <string name="timer_format_def">系统默认</string>
+    <string name="timer_format_12">12小时制</string>
+    <string name="timer_format_24">24小时制</string>
+    <string name="default_gesture_type_title">默认手势风格</string>
+    <string name="default_gesture_type_def_up_down">默认上/下切换焦点，左/右快捷手势风格</string>
+    <string name="default_gesture_type_web_up_down">仅在网页使用按类型浏览(左/右切换类型，上/下切换项目)</string>
+    <string name="default_gesture_type_web_up_down_new">仅在网页使用按类型浏览(先上后下/先下上后切换类型，左/右切换项目，上/下切换焦点)</string>
+    <string name="default_gesture_type_view_up_down">在所有视图使用按类型浏览(左/右切换类型，上/下切换项目)</string>
+    <string name="default_gesture_type_view_up_down_new">在所有视图使用按类型浏览(先上后下/先下上后切换类型，左/右切换项目，上/下切换焦点)</string>
+    <string name="default_gesture_type_def_left_right">默认左/右切换焦点，上/下快捷手势风格</string>
+    <string name="default_gesture_type_web_left_right">仅在网页使用按类型浏览(上/下切换类型，左/右切换项目)</string>
+    <string name="default_gesture_type_web_left_right_new">仅在网页使用按类型浏览(先上后下/先下上后切换类型，上/下切换项目，左/右切换焦点)</string>
+    <string name="default_gesture_type_view_left_right">在所有视图使用按类型浏览(上/下切换类型，左/右切换项目)</string>
+    <string name="default_gesture_type_view_left_right_new">在所有视图使用按类型浏览(先上后下/先下上后切换类型，上/下切换项目，左/右切换焦点)</string>
+    <string name="use_speak_state_title">先读出焦点状态</string>
+    <string name="alarm_hours_title">报时的时间</string>
+    <string name="notification_in_call_no_speak_title">通话时通知免打扰</string>
+    <string name="notification_in_auto_read_no_speak_title">自动浏览或阅读模式时通知免打扰</string>
+    <string name="timer_action_def_title">计时器默认操作</string>
+    <string name="timer_action_def_summary">当包含预设计时器时有效</string>
+    <string name="timer_item_formater">%s %d小时 %d分钟 %s</string>
+    <string name="use_ocr_auto_speak_title">自动朗读全屏文字识别或虚拟屏幕结果</string>
+    <string name="use_new_text_move_type_title">使用解说风格处理文字移动操作</string>
+    <string name="use_move_text_gesture_title">在激活的编辑框移动光标</string>
+    <string name="use_answer_phone_calls_incall_gesture_title">在来电界面接听挂断电话</string>
+    <string name="use_scroll_seek_gesture_title">在进度滑块调节进度</string>
+    <string name="use_scroll_list_gesture_title">在列表中滚动列表</string>
+    <string name="use_click_dialog_gesture_title">在对话框点击确定/取消按钮</string>
+    <string name="use_click_button_gesture_title">执行自定义快捷操作</string>
+    <string name="export_all_file">导出全部</string>
+    <string name="share_all">分享全部</string>
+    <string name="command_image_to_text">图片描述</string>
+    <string name="incall_tts_setting_title">来电报号语音设置</string>
+    <string name="reader_tts_setting_title">阅读模式语音设置</string>
+    <string name="char_mode_tts_setting_title">逐字浏览语音设置</string>
+    <string name="auto_read_tts_setting_title">自动浏览语音设置</string>
+    <string name="notification_tts_setting_title">通知语音设置</string>
 
 </resources>

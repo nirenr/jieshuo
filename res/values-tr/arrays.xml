@@ -10,6 +10,7 @@
         <item>@string/favorites_menu_title</item>
         <item>@string/split_edit_title</item>
         <item>@string/command_long_copy</item>
+        <!--item>@string/command_virtual_keyboard</item-->
     </string-array>
     <string-array name="advanced_menu_items">
         <item>Çeviri</item>
@@ -45,7 +46,6 @@
         <item>21</item>
         <item>22</item>
         <item>23</item>
-        <item>24</item>
     </string-array>
     <string-array name="alarm_interval_entries">
         <item>Her 5 dakika</item>
@@ -78,7 +78,9 @@
         <item>@string/directory_plugins</item>
         <item>@string/directory_cmd</item>
         <item>@string/directory_tools</item>
+        <item>@string/directory_timer</item>
         <item>@string/app</item>
+
 
         <!--重要功能ok-->
         <item>@string/profiles_title</item>
@@ -251,12 +253,16 @@
         <item>@string/command_to_next_paragraph</item>
 
 
-       <item>@string/command_copy_to_cloud</item>
+        <item>@string/command_copy_to_cloud</item>
         <item>@string/command_paste_from_cloud</item>
         <item>@string/command_up_page</item>
         <item>@string/command_down_page</item>
         <item>@string/command_left_page</item>
         <item>@string/command_right_page</item>
+        <item>@string/command_media_fast_forward</item>
+        <item>@string/command_media_rewind</item>
+        <item>@string/command_selection_mode</item>
+        <item>@string/command_image_to_text</item>
 
         <!--item>极速浏览</item-->
 
@@ -1042,7 +1048,7 @@
         <item>ALT+L: Liste tarama modu</item>
 
     </string-array>
-      <string-array name="view_type_title" >
+    <string-array name="view_type_title" >
         <item>Varsayılan</item>
         <item>Metinler</item>
         <item>Düğmeler</item>

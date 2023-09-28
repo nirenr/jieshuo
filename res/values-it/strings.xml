@@ -279,39 +279,39 @@
     <string name="use_edge_gesture_title">Usa i gesti sul bordo: </string>
     <string name="left_edge_gesture_title">Impostazioni scorrimento breve bordo sinistro</string>
     <string name="right_edge_gesture_title">Impostazioni scorrimento breve bordo destro</string>
-    <string name="right_edge_gesture_value_default">App recenti</string>
-    <string name="left_edge_gesture_value_default">Indietro</string>
+
+
     <string name="use_edge_gesture_summary">Se attivato, abilita i gesti sul bordo. Questi gesti si eseguono scorrendo con uno o due dita a partire dal bordo estremo destro o sinistro dello schermo.</string>
     <string name="left_edge_gesture_summary">Personalizza gesto breve bordo sinistro.</string>
     <string name="right_edge_gesture_summary">Personalizza gesto breve bordo destro.</string>
-    <string name="down_volume_key_value_default">Assistente vocale</string>
+
     <string name="down_volume_key_title">Pressione lunga del tasto volume giù</string>
     <string name="down_volume_key_summary">Associa funzione alla pressione lunga del tasto volume giù.</string>
     <string name="up_volume_key_title">Pressione lunga del tasto volume su</string>
     <string name="up_volume_key_summary">Associa funzione alla pressione lunga del tasto volume su.</string>
-    <string name="up_volume_key_value_default">Toggle "Solleva il dito per attivare"</string>
+
     <string name="use_speak_call_phone_summary">Annuncia il nome e il numero del chiamante quando arriva una chiamata: </string>
     <string name="use_speak_call_phone_title">ID chiamante: </string>
     <string name="use_speak_changed_volume_summary">Legge automaticamente il nuovo livello del volume dopo una variazione.</string>
     <string name="use_speak_changed_volume_title">Leggi la percentuale del volume: </string>
     <string name="vip_qq_group_title">Gruppo QQ per utenti Premium di Commentary Screen Reader</string>
     <string name="qq_group2_title">Gruppo QQ ufficiale</string>
-    <string name="right_long_edge_gesture_value_default">Barra delle notifiche</string>
-    <string name="left_long_edge_gesture_value_default">Schermata Home</string>
+
+
     <string name="right_long_edge_gesture_title">Impostazioni scorrimento lungo bordo destro</string>
     <string name="left_long_edge_gesture_title">Impostazioni scorrimento lungo bordo sinistro</string>
     <string name="left_long_edge_gesture_summary">Scorri a destra partendo dal bordo sinistro dello schermo.</string>
     <string name="right_long_edge_gesture_summary">Scorri a sinistra partendo dal bordo destro dello schermo.</string>
     <string name="use_up_long_quick_menu_summary">Mostra il menù scorciatoie quando si preme a lungo sull\'elemento focalizzato.</string>
-    <string name="up_volume_short_key_value_default">Aumenta il volume</string>
+
     <string name="up_volume_short_key_title">Pressione breve del tasto volume su: </string>
     <string name="up_volume_short_key_summary">Personalizza funzione tasto Volume Su per aumentare il volume accessibilità tenendo un dito sullo schermo.</string>
-    <string name="down_volume_short_key_value_default">Diminuisci il volume</string>
+
     <string name="down_volume_short_key_title">Pressione breve del tasto volume giù: </string>
     <string name="down_volume_short_key_summary">Personalizza funzione tasto Volume Giù per diminuire il volume accessibilità tenendo un dito sullo schermo.</string>
     <string name="use_ringtone_volume_title">Usa volume suoneria: </string>
     <string name="use_ringtone_volume_summary">Usa il volume della suoneria per leggere la schermata delle chiamate entranti</string>
-    <string name="up_down_volume_short_key_value_default">Sospendi esplorazione al tocco</string>
+
     <string name="up_down_volume_short_key_summary">Sospendi o riattiva esplorazione al tocco</string>
     <string name="up_down_volume_short_key_title">Pressione contemporanea dei tasti volume</string>
     <string name="tts_engine_title">Motore di sintesi vocale principale</string>
@@ -562,11 +562,11 @@
 
 
     <string name="rap_action_settings_title">Tocca il retro del telefono</string>
-    <string name="back_rap_action_value_default">@string/command_now_time</string>
+
     <string name="back_rap_action_title">Doppio tocco sul retro del telefono</string>
     <string name="back_rap_action_summary">Tocca due volte il retro del telefono</string>
 
-    <string name="shake_action_value_default">@string/command_nothing</string>
+
     <string name="shake_action_title">Scuotimento</string>
     <string name="shake_action_summary">Scuoti il telefono orizzontalmente</string>
 
@@ -626,16 +626,16 @@
     <string name="double_fling_down_gesture_title">Impostazioni scorrimento verso il basso</string>
 
     <string name="down_right_double_fling_setting">Impostazioni gesti in più parti verso il basso e verso destra</string>
-    <string name="down_right_double_fling_left_gesture_value_default">Torna indietro</string>
-    <string name="down_right_double_fling_up_gesture_value_default">Schermata Home</string>
-    <string name="down_right_double_fling_right_gesture_value_default">[Click]</string>
-    <string name="down_right_double_fling_down_gesture_value_default">Pannello notifiche</string>
+
+
+
+
 
     <string name="down_left_double_fling_setting">Impostazioni gesti in più parti verso il basso e verso sinistra</string>
-    <string name="down_left_double_fling_left_gesture_value_default">@string/command_copy</string>
-    <string name="down_left_double_fling_up_gesture_value_default">@string/command_paste</string>
-    <string name="down_left_double_fling_right_gesture_value_default">@string/command_append_copy</string>
-    <string name="down_left_double_fling_down_gesture_value_default">@string/command_long_copy</string>
+
+
+
+
 
     <string name="use_down_right_double_fling_gesture_title">Usa gesto in più parti verso il basso e verso destra</string>
     <string name="use_down_left_double_fling_gesture_title">Usa gesto in più parti verso il basso e verso sinistra</string>
@@ -699,10 +699,10 @@
     <string name="fingerprint_gesture_setting">Impostazioni gesti sul lettore di impronte</string>
     <string name="fingerprint_gesture_setting_summary">Se attivato, lo screen reader riconosce i gesti eseguiti sul lettore d\'impronta. Questa funzione è attiva su dispositivi con Android 8 o versioni superiori il cui lettore d\'impronta sia posto sul retro del dispositivo.</string>
     <string name="use_fingerprint_gesture_title">Usa gesti disponibili sul lettore di impronte: </string>
-    <string name="fingerprint_left_gesture_value_default">Torna indietro</string>
-    <string name="fingerprint_right_gesture_value_default">[Click]</string>
-    <string name="fingerprint_up_gesture_value_default">Elemento precedente</string>
-    <string name="fingerprint_down_gesture_value_default">Elemento successivo</string>
+
+
+
+
     <string name="command_supper_mode">Modalità cattura dettagliata del focus</string>
     <string name="command_ocr_focus">Riconosci l\'elemento focalizzato mediante l\'OCR.</string>
     <string name="navi">navigazione</string>
@@ -1667,8 +1667,52 @@ Nota: La reponsabilità di eventuali conseguenze indesiderate derivanti dall\'us
     <string name="timer_pause_and_now_time">计时已暂停，%s，%s</string>
     <string name="battery_charging">正在充电</string>
     <string name="default_gesture_setting_title">默认手势设置</string>
-    <string name="default_gesture_setting_summary">管理在手势方案设置为默认或自定义方案返回false时的行为</string>
+    <string name="default_gesture_setting_summary">管理在手势方案设置为默认，或自定义方案执行默认功能时的行为</string>
     <string name="use_action_menu_show_cursor_title">在操作菜单显示焦点自定义操作</string>
     <string name="use_action_menu_show_ext_title">在操作菜单显示链接提取进度调节等扩展功能</string>
+    <string name="find_next">查找下一个</string>
+    <string name="find_previous">查找上一个</string>
+
+    <string name="command_media_fast_forward">快进</string>
+    <string name="command_media_rewind">快退</string>
+    <string name="command_selection_mode">选择模式</string>
+    <string name="timer_format_title">报时时间格式</string>
+    <string name="timer_format_def">系统默认</string>
+    <string name="timer_format_12">12小时制</string>
+    <string name="timer_format_24">24小时制</string>
+    <string name="default_gesture_type_title">默认手势风格</string>
+    <string name="default_gesture_type_def_up_down">默认上/下切换焦点，左/右快捷手势风格</string>
+    <string name="default_gesture_type_web_up_down">仅在网页使用按类型浏览(左/右切换类型，上/下切换项目)</string>
+    <string name="default_gesture_type_web_up_down_new">仅在网页使用按类型浏览(先上后下/先下上后切换类型，左/右切换项目，上/下切换焦点)</string>
+    <string name="default_gesture_type_view_up_down">在所有视图使用按类型浏览(左/右切换类型，上/下切换项目)</string>
+    <string name="default_gesture_type_view_up_down_new">在所有视图使用按类型浏览(先上后下/先下上后切换类型，左/右切换项目，上/下切换焦点)</string>
+    <string name="default_gesture_type_def_left_right">默认左/右切换焦点，上/下快捷手势风格</string>
+    <string name="default_gesture_type_web_left_right">仅在网页使用按类型浏览(上/下切换类型，左/右切换项目)</string>
+    <string name="default_gesture_type_web_left_right_new">仅在网页使用按类型浏览(先上后下/先下上后切换类型，上/下切换项目，左/右切换焦点)</string>
+    <string name="default_gesture_type_view_left_right">在所有视图使用按类型浏览(上/下切换类型，左/右切换项目)</string>
+    <string name="default_gesture_type_view_left_right_new">在所有视图使用按类型浏览(先上后下/先下上后切换类型，上/下切换项目，左/右切换焦点)</string>
+    <string name="use_speak_state_title">先读出焦点状态</string>
+    <string name="alarm_hours_title">报时的时间</string>
+    <string name="notification_in_call_no_speak_title">通话时通知免打扰</string>
+    <string name="notification_in_auto_read_no_speak_title">自动浏览或阅读模式时通知免打扰</string>
+    <string name="timer_action_def_title">计时器默认操作</string>
+    <string name="timer_action_def_summary">当包含预设计时器时有效</string>
+    <string name="timer_item_formater">%s %d小时 %d分钟 %s</string>
+    <string name="use_ocr_auto_speak_title">自动朗读全屏文字识别或虚拟屏幕结果</string>
+    <string name="use_new_text_move_type_title">使用解说风格处理文字移动操作</string>
+    <string name="use_move_text_gesture_title">在激活的编辑框移动光标</string>
+    <string name="use_answer_phone_calls_incall_gesture_title">在来电界面接听挂断电话</string>
+    <string name="use_scroll_seek_gesture_title">在进度滑块调节进度</string>
+    <string name="use_scroll_list_gesture_title">在列表中滚动列表</string>
+    <string name="use_click_dialog_gesture_title">在对话框点击确定/取消按钮</string>
+    <string name="use_click_button_gesture_title">执行自定义快捷操作</string>
+    <string name="export_all_file">导出全部</string>
+    <string name="share_all">分享全部</string>
+    <string name="command_image_to_text">图片描述</string>
+    <string name="incall_tts_setting_title">来电报号语音设置</string>
+    <string name="reader_tts_setting_title">阅读模式语音设置</string>
+    <string name="char_mode_tts_setting_title">逐字浏览语音设置</string>
+    <string name="auto_read_tts_setting_title">自动浏览语音设置</string>
+    <string name="notification_tts_setting_title">通知语音设置</string>
 
 </resources>

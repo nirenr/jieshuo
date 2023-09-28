@@ -5,6 +5,7 @@
         <item>@string/directory_plugins</item>
         <item>@string/directory_cmd</item>
         <item>@string/directory_tools</item>
+        <item>@string/directory_timer</item>
         <item>@string/app</item>
 
         <!--重要功能ok-->
@@ -184,6 +185,10 @@
         <item>@string/command_down_page</item>
         <item>@string/command_left_page</item>
         <item>@string/command_right_page</item>
+        <item>@string/command_media_fast_forward</item>
+        <item>@string/command_media_rewind</item>
+        <item>@string/command_selection_mode</item>
+        <item>@string/command_image_to_text</item>
 
         <!--item>极速浏览</item-->
 
@@ -232,6 +237,7 @@
         <item>@string/favorites_menu_title</item>
         <item>@string/split_edit_title</item>
         <item>@string/command_long_copy</item>
+        <!--item>@string/command_virtual_keyboard</item-->
     </string-array>
     <string-array name="menu_def_items">
         <item>@string/split_menu_title</item>
@@ -972,7 +978,6 @@
         <item>21</item>
         <item>22</item>
         <item>23</item>
-        <item>24</item>
     </string-array>
     <string-array name="recognizer_lang_entries">
         <item>Chino simp</item>

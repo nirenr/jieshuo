@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Source: Activity title.
+        Description: Title for the Settings activity.-->
+  <string name="tts_settings_label">ESpeak TTS nustatymai</string>
+  <!--Source: Preference title.
+        Description: Title for the preference that controls default voice pitch.-->
+  <string name="setting_default_pitch">Balso tonas</string>
+  <!--Source: Preference title.
+        Description: Title for the preference that controls default speech rate.-->
+  <string name="setting_default_rate">Kalbos greitis</string>
+  <!--Source: Dialog text.
+        Description: Status message shown when installing voice data.-->
+  <string name="installing_voice_data">Diegiami balso duomenys...</string>
+  <!--Source: Dialog message.
+        Description: Alert dialog prompting the user to set eSpeak as their default TTS engine.-->
+  <string name="set_default_message">eSpeak nėra pagrindinis kalbos sintezatorius.</string>
+  <!--Source: Dialog message.
+        Description: Alert dialog telling the user that voice data installation failed.-->
+  <string name="voice_data_failed_message">Nepavyko įkelti balso duomenų.  Patikrinkite SD kortelę.</string>
+  <!--Source: Dialog message.
+        Description: Alert dialog telling the user that an unknown error has occurred.-->
+  <string name="error_message">Nepavyko paleisti eSpeak.</string>
+  <!--Source: Label text.
+        Description: Label informing the user of the current text-to-speech language.-->
+  <string name="current_tts_locale">Numatytoji kalba</string>
+  <!--Source: Label text.
+        Description: Label informing the user of how many voices are installed.-->
+  <string name="available_voices">Balso atmainos</string>
+  <!--Source: Button label.
+        Description: Button for launching eSpeak-specific settings.-->
+  <string name="engine_settings">eSpeak nustatymai</string>
+  <!--Source: Label text.
+        Description: Label informing the user that eSpeak is loading resources.-->
+  <string name="loading">Įkeliama Prašome palaukti...</string>
+  <!--Source: Spoken aloud.
+        Description: Sample text spoken aloud when the user is trying out a language.-->
+  <string name="sample_text">Taip kalbos sintezatorius skaito %s tekstą</string>
+  <string name="status">Būsena</string>
+  <string name="tts_version">eSpeak versija</string>
+  <string name="speak">Skaityti</string>
+  <string name="ssml">Atsisiųsti SSML šabloną</string>
+  <string name="synthesis_demo">Įveskite tekstą, kurį norite skaityti:</string>
+  <string name="espeak_volume">Garsas</string>
+  <string name="formatter_wpm">%s SVM</string>
+  <string name="formatter_percentage">%s%%</string>
+  <string name="resetToDefault">Nustatyti iš naujo</string>
+  <string name="espeak_pitch_range">Tono reguliavimas</string>
+  <string name="espeak_variant">Balso parinktis</string>
+  <string name="espeak_speak_punctuation">Skaityti skyrybos ženklus</string>
+  <string name="punctuation_all">Visus</string>
+  <string name="punctuation_custom">Vartotojo</string>
+  <string name="punctuation_custom_fmt">Vartotojo: %s</string>
+  <string name="punctuation_none">Nėra</string>
+  <string name="punctuation_characters">Skyrybos simboliai</string>
+  <string name="category">Kategorija</string>
+  <string name="variant">Variantas</string>
+  <string name="variant_male">Vyriškas</string>
+  <string name="variant_female">Moteriškas</string>
+  <string name="variant_default">Numatytas</string>
+  <string name="variant_n">Variantas %d</string>
+  <string name="variant_young">Jaunas</string>
+  <string name="variant_old">Senyvo amžiaus</string>
+  <string name="variant_croak">Užkimęs</string>
+  <string name="variant_whisper">Šnabždesys</string>
+  <string name="import_voice_title">eSpeak žodyno importavimas</string>
+  <string name="import_voice_description">Importuoti eSpeak žodyno failą iš SD kortelės</string>
+</resources>

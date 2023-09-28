@@ -502,4 +502,19 @@
     <string name="default_gesture_setting">default_gesture_setting</string>
     <string name="use_action_menu_show_cursor">use_action_menu_show_cursor</string>
     <string name="use_action_menu_show_ext">use_action_menu_show_ext</string>
+    <string name="timer_format">timer_format</string>
+    <string name="default_gesture_type">default_gesture_type</string>
+    <string name="use_speak_state">use_speak_state</string>
+    <string name="alarm_hours">alarm_hours</string>
+    <string name="notification_in_call_no_speak">notification_in_call_no_speak</string>
+    <string name="notification_in_auto_read_no_speak">notification_in_auto_read_no_speak</string>
+    <string name="timer_action_def">timer_action_def</string>
+    <string name="use_ocr_auto_speak">use_ocr_auto_speak</string>
+    <string name="use_new_text_move_type">use_new_text_move_type</string>
+    <string name="use_answer_phone_calls_incall_gesture">use_answer_phone_calls_incall_gesture</string>
+    <string name="use_move_text_gesture">use_move_text_gesture</string>
+    <string name="use_scroll_seek_gesture">use_scroll_seek_gesture</string>
+    <string name="use_scroll_list_gesture">use_scroll_list_gesture</string>
+    <string name="use_click_dialog_gesture">use_click_dialog_gesture</string>
+    <string name="use_click_button_gesture">use_click_button_gesture</string>
 </resources>

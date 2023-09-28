@@ -259,39 +259,39 @@
     <string name="use_edge_gesture_title">Používat okrajová gesta</string>
     <string name="left_edge_gesture_title">Přejeďte prstem doprava od levého okraje obrazovky</string>
     <string name="right_edge_gesture_title">Přejeďte prstem doleva od pravého okraje obrazovky</string>
-    <string name="right_edge_gesture_value_default">Naposledy spuštěné aplikace</string>
-    <string name="left_edge_gesture_value_default">Jít zpět</string>
+
+
     <string name="use_edge_gesture_summary">Určuje, zda jsou povolena okrajová gesta. Tato jsou prováděna přejetím prstu z úplného levého nebo pravého okraje obrazovky a to buď jedním nebo dvěma prsty</string>
     <string name="left_edge_gesture_summary">Umožňuje nastavit akci, která má být provedena při přejetí prstem vpravo od levého okraje obrazovky</string>
     <string name="right_edge_gesture_summary">Umožňuje nastavit akci, která má být provedena při přejetí prstem vlevo od pravého okraje obrazovky</string>
-    <string name="down_volume_key_value_default">Hlasový asistent</string>
+
     <string name="down_volume_key_title">Dlouhý stisk tlačítka volume minus</string>
     <string name="down_volume_key_summary">Umožňuje nadefinovat provedení akce na dlouhý stisk tlačítka volume minus</string>
     <string name="up_volume_key_title">Dlouhý stisk tlačítka volume plus</string>
     <string name="up_volume_key_summary">Umožňuje nadefinovat provedení akce na dlouhý stisk tlačítka volume plus</string>
-    <string name="up_volume_key_value_default">Přepněte aktivaci zvednutím prstu</string>
+
     <string name="use_speak_call_phone_summary">Určuje, zda bude během příchozího hovoru automaticky ohlašováno číslo a jméno volajícího</string>
     <string name="use_speak_call_phone_title">Hlásit ID volajícího</string>
     <string name="use_speak_changed_volume_summary">Určuje, zda bude ohlašována nová úroveň hlasitosti, když dojde ke změně</string>
     <string name="use_speak_changed_volume_title">Ohlašovat změny hlasitosti</string>
     <string name="vip_qq_group_title">Jieshuo Screenreader VIP diskusní QQ skupina</string>
     <string name="qq_group2_title">Druhá diskusní QQ skupina pro Jieshuo Screenreader</string>
-    <string name="right_long_edge_gesture_value_default">Panel oznámení</string>
-    <string name="left_long_edge_gesture_value_default">Domovská obrazovka</string>
+
+
     <string name="right_long_edge_gesture_title">Přejeďte prstem doleva od pravého okraje obrazovky a přidržte</string>
     <string name="left_long_edge_gesture_title">Přejeďte prstem doprava od levého okraje obrazovky a přidržte</string>
     <string name="left_long_edge_gesture_summary">Umožňuje nastavit akci, která má být spuštěna, když přejedete prstem vpravo z levého okraje obrazovky a konečná pozice je držena po dobu jedné sekundy</string>
     <string name="right_long_edge_gesture_summary">Umožňuje nastavit akci, která má být spuštěna, když přejedete prstem vlevo z pravého okraje obrazovky a konečná pozice je držena po dobu jedné sekundy</string>
     <string name="use_up_long_quick_menu_summary">Určuje, zda bude zobrazeno menu zkratek, jestliže ponecháte na daném prvku prst déle</string>
-    <string name="up_volume_short_key_value_default">Zvýšit hlasitost</string>
+
     <string name="up_volume_short_key_title">Krátký stisk tlačítka volume plus</string>
     <string name="up_volume_short_key_summary">Umožňuje nastavit provedení akce na stisk tlačítka volume plus, jestliže je prst v kontaktu s obrazovkou. Ve výchozím stavu dochází pouze ke standardnímu zvyšování hlasitosti</string>
-    <string name="down_volume_short_key_value_default">Snížit hlasitost</string>
+
     <string name="down_volume_short_key_title">Krátký stisk tlačítka volume minus</string>
     <string name="down_volume_short_key_summary">Umožňuje nastavit provedení akce na stisk tlačítka volume minus, jestliže je prst v kontaktu s obrazovkou. Ve výchozím stavu dochází pouze ke standardnímu snižování hlasitosti.</string>
     <string name="use_ringtone_volume_title">Použít hlasitost vyzvánění pro řeč</string>
     <string name="use_ringtone_volume_summary">Určuje, zda bude hlasitost vyzvánění použita pro vyčítání informací o volajícím</string>
-    <string name="up_down_volume_short_key_value_default">Přepínat gesta</string>
+
     <string name="up_down_volume_short_key_summary">Umožňuje nastavit spuštění akce, jestliže jsou tlačítka hlasitosti stisknuta současně </string>
     <string name="up_down_volume_short_key_title">Současný stisk obou tlačítek ovládání hlasitosti</string>
     <string name="tts_engine_title">Primární hlasový výstup</string>
@@ -530,10 +530,10 @@
     <string name="message_clean_error">Během mazání došlo k chybě</string>
     <string name="message_edit_text_not_found">Textové pole nebylo nalezeno</string>
     <string name="rap_action_settings_title">Nastavení dvojitého poklepu na záda zařízení</string>
-    <string name="back_rap_action_value_default">@string/command_now_time</string>
+
     <string name="back_rap_action_title">Nastavení dvojitého poklepu na záda zařízení</string>
     <string name="back_rap_action_summary">Umožňuje nastavit provedení akce, když dvakrát poklepete na zadní stranu zařízení</string>
-    <string name="shake_action_value_default">@string/command_nothing</string>
+
     <string name="shake_action_title">Nastavení akcí po zatřesení</string>
     <string name="shake_action_summary">Umožňuje nastavit provedení akce, když zatřesete zařízením</string>
     <string name="shake_action_sens_title">Intenzita třesení</string>
@@ -586,15 +586,15 @@
     <string name="double_fling_right_gesture_title">Nastavení pro švihnutí vpravo</string>
     <string name="double_fling_down_gesture_title">Nastavení pro švihnutí dolů</string>
     <string name="down_right_double_fling_setting">Nastavení pro složené gesto dolů a vpravo</string>
-    <string name="down_right_double_fling_left_gesture_value_default">Jít zpět</string>
-    <string name="down_right_double_fling_up_gesture_value_default">Domovská obrazovka</string>
-    <string name="down_right_double_fling_right_gesture_value_default">Klepnutí</string>
-    <string name="down_right_double_fling_down_gesture_value_default">Panel oznámení</string>
+
+
+
+
     <string name="down_left_double_fling_setting">Nastavení pro složené gesto dolů a vlevo</string>
-    <string name="down_left_double_fling_left_gesture_value_default">@string/command_copy</string>
-    <string name="down_left_double_fling_up_gesture_value_default">@string/command_paste</string>
-    <string name="down_left_double_fling_right_gesture_value_default">@string/command_append_copy</string>
-    <string name="down_left_double_fling_down_gesture_value_default">@string/command_long_copy</string>
+
+
+
+
     <string name="use_down_right_double_fling_gesture_title">Použít složené gesto dolů a vpravo</string>
     <string name="use_down_left_double_fling_gesture_title">Použít složené gesto dolů a vlevo</string>
     <string name="right_double_fling_setting">Nastavení pro pravé složené gesto</string>
@@ -642,10 +642,10 @@
     <string name="fingerprint_gesture_setting">Nastavení gest pro čtečku otisků prstů</string>
     <string name="fingerprint_gesture_setting_summary">Určuje, zda jsou odečítačem rozpoznána gesta prováděná na čtečce otisků prstů. Tato funkce je podporována pouze v Androidu 8.0 nebo vyšším. Pracuje korektně jen v případě, kdy je čtečka umístěna na zádech zařízení.</string>
     <string name="use_fingerprint_gesture_title">Používat gesta prováděná skrze čtečku otisků prstů</string>
-    <string name="fingerprint_left_gesture_value_default">Jít zpět</string>
-    <string name="fingerprint_right_gesture_value_default">Kliknutí</string>
-    <string name="fingerprint_up_gesture_value_default">Předchozí zaměřitelná položka</string>
-    <string name="fingerprint_down_gesture_value_default">Další zaměřitelná položka</string>
+
+
+
+
     <string name="command_supper_mode">Režim detailního zaměření</string>
     <string name="command_ocr_focus">Rozpoznat zaměřenou položku pomocí funkce OCR</string>
     <string name="navi">Navigace</string>
@@ -1600,13 +1600,57 @@
     <string name="wifi_level_3">signál wi-fi tři čárky</string>
     <string name="wifi_level_2">signál wi-fi dvě čárky</string>
     <string name="wifi_level_1">signál wi-fi jedna čárka</string>
-    <string name="timer_rts">剩余</string>
-    <string name="timer_pause_and_now_time">计时已暂停，%s，%s</string>
-    <string name="battery_charging">正在充电</string>
-    <string name="default_gesture_setting_title">默认手势设置</string>
-    <string name="default_gesture_setting_summary">管理在手势方案设置为默认或自定义方案返回false时的行为</string>
-    <string name="use_action_menu_show_cursor_title">在操作菜单显示焦点自定义操作</string>
-    <string name="use_action_menu_show_ext_title">在操作菜单显示链接提取进度调节等扩展功能</string>
+    <string name="timer_rts">Zbývá</string>
+    <string name="timer_pause_and_now_time">Časovač pozastaven, aktuální čas %s, %s</string>
+    <string name="battery_charging">Nabíjení</string>
+    <string name="default_gesture_setting_title">Výchozí nastavení gest</string>
+    <string name="default_gesture_setting_summary">Správa chování nastavení výchozího schématu gest a situace, kdy vlastní schéma vrátí chybovou hodnotu</string>
+    <string name="use_action_menu_show_cursor_title">Zobrazení vlastní akce pro zaměřenou položku v nabídce akcí</string>
+    <string name="use_action_menu_show_ext_title">Zobrazení rozšíření, jako je úprava průběhu extrakce odkazu, v nabídce akcí</string>
+    <string name="find_next">najít další</string>
+    <string name="find_previous">najít předchozí</string>
+    <string name="command_virtual_keyboard">Otevřít klávesnici</string>
+    <string name="command_media_fast_forward">rychle vpřed</string>
+    <string name="command_media_rewind">přetočit</string>
+    <string name="command_selection_mode">režim výběru</string>
+    <string name="timer_format_title">Formát času</string>
+    <string name="timer_format_def">Výchozí</string>
+    <string name="timer_format_12">12 hodin</string>
+    <string name="timer_format_24">24 hodin</string>
+    <string name="default_gesture_type_title">styl použití výchozích gest</string>
+    <string name="default_gesture_type_def_up_down">Švihání nahoru a dolů přepíná fokus, švihání vlevo a vpravo ovládá klávesové zkratky</string>
+    <string name="default_gesture_type_web_up_down">Použít procházení dle typu zvoleného prvku jen na webových stránkách, švihání vlevo a vpravo mění typ navigace, švihání nahoru a dolů zajišťuje pohyb mezi položkami</string>
+    <string name="default_gesture_type_web_up_down_new">Procházení dle typu zvoleného prvku se používá jen na webových stránkách. přejetí nahoru a dolů nebo dolů a nahoru mění typ navigace, švihání vlevo a vpravo zajišťuje pohyb po jednotlivých položkách, švihání nahoru a dolů přepíná fokus</string>
+    <string name="default_gesture_type_view_up_down">Používat procházení dle typu zvoleného prvku ve všech zobrazeních, švihání vlevo a vpravo mění typ navigace, švihání nahoru a dolů zajišťuje pohyb mezi položkami</string>
+    <string name="default_gesture_type_view_up_down_new">Používat procházení dle typu zvoleného prvku ve všech zobrazeních, přejetí nahoru a dolů nebo dolů a nahoru volí způsob navigace, švihání vlevo a vpravo přepíná jednotlivé položky, švihání nahoru a dolů mění fokus</string>
+    <string name="default_gesture_type_def_left_right">Švihání nahoru a dolů přepíná fokus, švihání vlevo a vpravo ovládá klávesové zkratky</string>
+    <string name="default_gesture_type_web_left_right">Použít procházení dle typu zvoleného prvku jen na webových stránkách, švihání nahoru a dolů mění typ navigace, švihání vlevo a vpravo zajišťuje pohyb mezi položkami</string>
+    <string name="default_gesture_type_web_left_right_new">Navigace dle typu zvoleného prvku se používá jen na webových stránkách, přejetí nahoru a dolů nebo dolů a nahoru mění typ navigace, švihání vlevo a vpravo zajišťuje pohyb mezi položkami, švihání nahoru a dolů přepíná fokus</string>
+    <string name="default_gesture_type_view_left_right">Použít procházení dle typu zvoleného prvku ve všech zobrazeních, švihání nahoru a dolů přepíná možnosti navigace, švihání vlevo a vpravo zajišťuje pohyb mezi položkami</string>
+    <string name="default_gesture_type_view_left_right_new">Použít navigaci dle typu zvoleného prvku ve všech zobrazeních, přejetí nahoru a dolů nebo dolů a nahoru přepíná možnosti navigace, švihání dolů a nahoru zajišťuje pohyb mezi položkami, švihání vlevo a vpravo mění fokus</string>
+    <string name="use_speak_state_title">Ohlásit nejprve stav zaškrtávacího pole</string>
+    <string name="alarm_hours_title">Čas zvonění</string>
+    <string name="notification_in_call_no_speak_title">Neohlašovat notifikace během probíhajícího hovoru</string>
+    <string name="notification_in_auto_read_no_speak_title">Neohlašovat notifikace během plynulého čtení nebo automatického procházení</string>
+    <string name="timer_action_def_title">Výchozí akce časovače</string>
+    <string name="timer_action_def_summary">Používá se v případě, kdy je časovač přednastaven</string>
+    <string name="timer_item_formater">%s %dhodiny %dminuty %s</string>
+    <string name="use_ocr_auto_speak_title">V celoobrazovkovém režimu automaticky předčítat výsledky rozpoznání textu a virtuální obrazovky</string>
+    <string name="use_new_text_move_type_title">Doprovázet hlasem zpracování operací pohybu textu</string>
+    <string name="use_move_text_gesture_title">Posouvat kurzor v aktivním editačním poli</string>
+    <string name="use_answer_phone_calls_incall_gesture_title">Přijmout a odmítnout telefonát na obrazovce příchozího hovoru</string>
+    <string name="use_scroll_seek_gesture_title">Upravit indikátor průběhu posuvníku</string>
+    <string name="use_scroll_list_gesture_title">Rolovat položky v aktuálním seznamu</string>
+    <string name="use_click_dialog_gesture_title">Indikovat kliknutí na ok nebo cancel v rámci dialogového okna</string>
+    <string name="use_click_button_gesture_title">Provádět operace vlastních zkratek</string>
+    <string name="export_all_file">Exportovat vše</string>
+    <string name="share_all">Sdílet vše</string>
+    <string name="command_image_to_text">Rozpoznání obrázku</string>
+    <string name="incall_tts_setting_title">来电报号语音设置</string>
+    <string name="reader_tts_setting_title">阅读模式语音设置</string>
+    <string name="char_mode_tts_setting_title">逐字浏览语音设置</string>
+    <string name="auto_read_tts_setting_title">自动浏览语音设置</string>
+    <string name="notification_tts_setting_title">通知语音设置</string>
 
 
 </resources>

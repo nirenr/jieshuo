@@ -12,7 +12,7 @@
         Heben Sie einfach den Finger an, um das aktuelle Element zu aktivieren. Navigieren Sie blitzschnell durch Ihre Apps, ohne sich komplizierte Gesten merken zu müssen.\n
 Markieren, Kopieren Ausschneiden und Einfügen: Bearbeiten Sie Ihre Texte einfach und Effizient.\n
 Erweiterte benutzerdefinierte Gesten: Legen Sie jeden Befehl auf Ihre bevorzugte Geste. Erstellen Sie anwendungsbezogene Gestenchemata und teilen Sie diese mit Ihren Freunden. .\n
-                        
+
         Installieren Sie Soundschemas, die jederzeit Ihre Ohren erfreuen werden.\n
         Flexibel konfigurierbare Benachrichtigungen: Sie werden nie wieder von Meldungen gestöhrt, die sie nicht benötigen.\n
         \n
@@ -276,39 +276,39 @@ Erweiterte benutzerdefinierte Gesten: Legen Sie jeden Befehl auf Ihre bevorzugte
     <string name="use_edge_gesture_title">Randgesten verwenden </string>
     <string name="left_edge_gesture_title">Vom linken Rand nach rechts wischen</string>
     <string name="right_edge_gesture_title">Vom rechten Rand nach links wischen</string>
-    <string name="right_edge_gesture_value_default">Zuletzt verwendete Apps</string>
-    <string name="left_edge_gesture_value_default">Zurück</string>
+
+
     <string name="use_edge_gesture_summary">Legt fest, ob Randgesten aktiviert werden sollen. Randgesten werden durch Wischen vom äußersten rechten oder linken Rand mit einem oder zwei fingern ausgeführt.</string>
     <string name="left_edge_gesture_summary">Legt den Befehl für das Wischen vom linken Rand fest.</string>
     <string name="right_edge_gesture_summary">Legt den Befehl für das Wischen vom rechten Rand fest.</string>
-    <string name="down_volume_key_value_default">Sprachassistent</string>
+
     <string name="down_volume_key_title">Langes Drücken der leiser-Taste</string>
     <string name="down_volume_key_summary">Legt den Befehl für langes Drücken der leiser-Taste fest.</string>
     <string name="up_volume_key_title">Langes Drücken der lauter-Taste</string>
     <string name="up_volume_key_summary">Legt den Befehl für langes Drücken der lauter-Taste fest.</string>
-    <string name="up_volume_key_value_default">Tippen und Entdecken umschalten."</string>
+
     <string name="use_speak_call_phone_summary">Spricht bei Anruf Namen und Nummer: </string>
     <string name="use_speak_call_phone_title">Namen oder Nummer des Anrufers ansagen: </string>
     <string name="use_speak_changed_volume_summary">Sagt Änderungen der Lautstärke an.</string>
     <string name="use_speak_changed_volume_title">Änderungen der Lautstärke ansagen: </string>
     <string name="vip_qq_group_title">Jieshuo Screenreader VIP QQ group</string>
     <string name="qq_group2_title">Jieshuo Screenreader\'s offizielle QQ Gruppe</string>
-    <string name="right_long_edge_gesture_value_default">Benachrichtigungsleiste</string>
-    <string name="left_long_edge_gesture_value_default">startbildschirm</string>
+
+
     <string name="right_long_edge_gesture_title">Vom rechten Rand nach links wischen und halten</string>
     <string name="left_long_edge_gesture_title">Vom linken Rand nach rechts wischen und halten</string>
     <string name="left_long_edge_gesture_summary">Legt den Befehl für das Wischen vom linken Rand nach rechts und Halten des Fingers für eine Sekunde fest</string>
     <string name="right_long_edge_gesture_summary">Legt den Befehl für das Wischen vom rechten Rand nach links und Halten des Fingers für eine Sekunde fest.</string>
     <string name="use_up_long_quick_menu_summary">Legt fest, ob beim langen Drücken auf ein Element das Menü für Schnellzugriff angezeigt werden soll.</string>
-    <string name="up_volume_short_key_value_default">lauter</string>
+
     <string name="up_volume_short_key_title">Kurzes Drücken der lauter-Taste: </string>
     <string name="up_volume_short_key_summary">Erlaubt das Festlegen eines Befehls für das Drücken der Lauter-Taste während gleichzeitig ein Finger auf dem Bildschirm liegt. In der Standardeinstellung erhöht diese Taste die Lautstärke.</string>
-    <string name="down_volume_short_key_value_default">Leiser</string>
+
     <string name="down_volume_short_key_title">Kurzes Drücken der Leiser-Taste: </string>
     <string name="down_volume_short_key_summary">Erlaubt das Festlegen eines Befehls für das Drücken der Leiser-Taste während gleichzeitig ein Finger auf dem Bildschirm liegt. Normalerweise verringert diese Taste die Lautstärke.</string>
     <string name="use_ringtone_volume_title">Klingelton Lautstärke Für Sprachausgabe verwenden: </string>
     <string name="use_ringtone_volume_summary">Verwendet die Klingeltonlautstärke zum Sprechen der Anrufinfo</string>
-    <string name="up_down_volume_short_key_value_default">Deaktiviert Tippen und Entdecken</string>
+
     <string name="up_down_volume_short_key_summary">Legt fest, welcher Befehl beim gleichzeitigen Drücken der Lauter- und Leiser-Taste ausgeführt werden soll.</string>
     <string name="up_down_volume_short_key_title">Gleichzeitiges Drücken der Lautstärketasten</string>
     <string name="tts_engine_title">Erste Sprachausgabe</string>
@@ -559,11 +559,11 @@ Erweiterte benutzerdefinierte Gesten: Legen Sie jeden Befehl auf Ihre bevorzugte
 
 
     <string name="rap_action_settings_title">auf die Rückseite des Telefons tippen</string>
-    <string name="back_rap_action_value_default">@string/command_now_time</string>
+
     <string name="back_rap_action_title">auf die Rückseite des Telefons zweimal tippen</string>
     <string name="back_rap_action_summary">Ermöglicht einen Befehl beim zweimaligen Drücken auf die Rückseite des Telefons auszuführen.</string>
 
-    <string name="shake_action_value_default">@string/command_nothing</string>
+
     <string name="shake_action_title">Schütteln</string>
     <string name="shake_action_summary">Erlaubt einen Befehl beim Schütteln des Telefons auszuführen.</string>
 
@@ -623,17 +623,17 @@ Erweiterte benutzerdefinierte Gesten: Legen Sie jeden Befehl auf Ihre bevorzugte
     <string name="double_fling_down_gesture_title">Einstellungen für nach unten wischen mehrteilige Geste</string>
 
     <string name="down_right_double_fling_setting">Einstellungen für nach unten, dann nach rechts wischen mehrteilige Geste</string>
-    <string name="down_right_double_fling_left_gesture_value_default">Zurück</string>
-    <string name="down_right_double_fling_up_gesture_value_default">Startbildschirm</string>
-    <string name="down_right_double_fling_right_gesture_value_default">[Click]</string>
 
-    <string name="down_right_double_fling_down_gesture_value_default">Benachrichtigungsleiste</string>
+
+
+
+
 
     <string name="down_left_double_fling_setting">Einstellungen für nach unten, dann nach links wischen mehrteilige Geste</string>
-    <string name="down_left_double_fling_left_gesture_value_default">@string/command_copy</string>
-    <string name="down_left_double_fling_up_gesture_value_default">@string/command_paste</string>
-    <string name="down_left_double_fling_right_gesture_value_default">@string/command_append_copy</string>
-    <string name="down_left_double_fling_down_gesture_value_default">@string/command_long_copy</string>
+
+
+
+
 
 
     <string name="use_down_right_double_fling_gesture_title">Nach unten, dann nach rechts wischen mehrteilige Geste verwenden</string>
@@ -705,10 +705,10 @@ Erweiterte benutzerdefinierte Gesten: Legen Sie jeden Befehl auf Ihre bevorzugte
     <string name="fingerprint_gesture_setting">Gesten für Fingerabdrucksensor</string>
     <string name="fingerprint_gesture_setting_summary">Legt fest, ob Jieshuo Screenreader den Fingerabdrucksensor für Gesten verwenden soll. Diese Funktion wird nur auf Geräten mit Android 8 und höher unterstützt.</string>
     <string name="use_fingerprint_gesture_title">Gesten auf Fingerabdrucksensor verwenden</string>
-    <string name="fingerprint_left_gesture_value_default">Zurück</string>
-    <string name="fingerprint_right_gesture_value_default">[Klick]</string>
-    <string name="fingerprint_up_gesture_value_default">Vorheriges Element</string>
-    <string name="fingerprint_down_gesture_value_default">Nächstes Element</string>
+
+
+
+
     <string name="command_supper_mode">Detailierte Navigation</string>
     <string name="command_ocr_focus">Texterkennung bei aktuellen Element ausführen.</string>
     <string name="navi">Navigation</string>
@@ -808,13 +808,7 @@ Erweiterte benutzerdefinierte Gesten: Legen Sie jeden Befehl auf Ihre bevorzugte
     <string name="saved">Gespeichert</string>
     <string name="edit_name">Namen eingeben</string>
     <string name="actions">Aktionen</string>
-    Sehr geehrte Damen und Herren, wir sind ein gemeinnütziger Verein, der an der Adresse Rosenhof
-    4, 09111 Chemnitz eine Beratungsstelle für blinde und sehbehinderte Menschen betreibt. Wir haben
-    nun in einem Nachbargebäude weitere Räume für ein Projekt angemietet, das von der Aktion Mensch
-    gefördert wird. Hier sind in der Förderung leider keine Kosten für Telefonie und Internet
-    enthalten. Wir möchten Sie deshalb auf diesem Weg bitten, uns ein günstiges Angebot über einen
-    Zweitanschluss, nur Internet zu unterbreiten. Über eine Kontaktaufnahme würde ich mich sehr
-    freuen. Rene Ludwig
+    <string name="share">Share</string>
     <string name="move_to_up">Nach oben</string>
     <string name="move_to_down">Nach unten</string>
     <string name="delete">Löschen</string>
@@ -1568,121 +1562,165 @@ Erweiterte benutzerdefinierte Gesten: Legen Sie jeden Befehl auf Ihre bevorzugte
     <string name="vr_camera_light">Helligkeit</string>
     <string name="vr_camera_zoom">Vergrößerung</string>
     <string name="use_show_text_title">Text vorlesen</string>
-    <string name="use_window_title_changed_title">Fenstertitel in neuem Fenster sprechen</string>
-    <string name="do_not_prompt_again">Tipps nicht mehr anzeigen</string>
-    <string name="use_custom_language_title">Benutzerdefinierte Übersetzung verwenden</string>
-    <string name="msg_has_not_enabled">解说还没有启动，在辅助功能启用解说后才能为你提供服务，是否立即前往辅助功能开启解说，你也可以在稍后解说辅助功能设置中开启</string>
-    <string name="msg_has_not_enabled_33">注意，若您是安卓13的用户，那么您在“无障碍”或“辅助功能”中首次启动解说时，可能会跳出受限制的设置对话框，提示出于安全考虑，此设置不可用，请点击确认按钮后，打开解说的应用信息，点击右上角的更多选项，随后点击允许受限制的设置，随后再次到“无障碍”或“辅助功能”中启用解说即可，如若您的安卓13设备没有出现上述提示，可忽略本说明。\n</string>
-    <string name="use_edit_hint_title">读出编辑框的提示文字</string>
-    <string name="check_manage_files_permissions_title">检查文件管理权限</string>
-    <string name="check_alarm_permissions_title">检查闹钟与提醒权限</string>
-    <string name="setup_setting_file_permission_msg">读屏使用文件管理权限保存和读取插件，音效，工具和备份资源等</string>
-    <string name="setup_setting_not_file_permission">未获取文件管理权限</string>
-    <string name="setup_setting_has_file_permission">已获取文件管理权限</string>
-    <string name="setup_setting_not_alarm_permission">未获取闹钟与提醒权限</string>
-    <string name="setup_setting_has_alarm_permission">已获取闹钟与提醒权限</string>
-    <string name="setup_setting_alarm_permission_msg">读屏使用闹钟权限可以在你指定的时间播报时间或执行任务</string>
-    <string name="use_volume_on_long_speak_title">当朗读长文本时按音量键调节读屏音量</string>
-    <string name="message_title">提示</string>
-    <string name="msg_talkback_enabled">你已开启talkback，同时开启解说和talkback可能导致触摸异常，请在关闭talkback后恢复解说的触摸浏览。</string>
-    <string name="cur_timer_speak_title">预设计时器朗读设置</string>
-    <string name="use_speak_uts">已用时间</string>
-    <string name="use_speak_rts">剩余时间</string>
-    <string name="use_speak_nts">现在时间</string>
-    <string name="cur_timer_name">名称</string>
-    <string name="cur_timer_start_prompt">开始提示</string>
-    <string name="cur_timer_end_prompt">结束提示</string>
-    <string name="sound_power_connected">开始充电</string>
-    <string name="sound_power_disconnected">结束充电</string>
-    <string name="sound_power_full">充电完成</string>
-    <string name="sound_power_low">电量低</string>
-    <string name="sound_scroll_top">滚动到顶部</string>
-    <string name="sound_scroll_bottom">滚动到底部</string>
-    <string name="sound_raise_volume">增加音量</string>
-    <string name="sound_lower_volume">减小音量</string>
-    <string name="sound_copy">复制</string>
-    <string name="sound_paste">粘贴</string>
-    <string name="sound_previous_text">上个文字</string>
-    <string name="sound_next_text">下个文字</string>
-    <string name="sound_to_back">返回</string>
-    <string name="sound_has_action">可操作</string>
-    <string name="sound_has_link">含链接</string>
-    <string name="sound_feedback_paused">暂停反馈</string>
-    <string name="sound_feedback_resume">恢复反馈</string>
-    <string name="sound_auto_ocr_start">自动OCR识别</string>
-    <string name="sound_camera_screenshot">相机与截图</string>
-    <string name="stream_type_ring">铃声</string>
-    <string name="stream_type_music">媒体</string>
-    <string name="stream_type_alarm">闹钟</string>
-    <string name="stream_type_notification">通知</string>
-    <string name="stream_type_accessibility">无障碍</string>
-    <string name="move">移动</string>
-    <string name="msg_move_start">开始移动，触摸要移动的位置双击完成移动</string>
-    <string name="msg_move_done">已移动到第%d项</string>
-    <string name="timer_tts_setting_title">报时语音设置</string>
-    <string name="other_res">其他资源</string>
-    <string name="language_title">语言翻译</string>
-    <string name="msg_download_error">下载出错</string>
-    <string name="buy_with_alipay">使用支付宝跨境汇款购买会员</string>
-    <string name="buy_with_unipay">使用银行卡跨境汇款购买会员（使用人民币支付，享受等同中国用户人民币付款优惠）</string>
-    <string name="buy_with_paypal">使用PayPal购买会员</string>
-    <string name="msg_change_custom_gesture">切换为自定义手势才能修改,是否切换为自定义手势</string>
-    <string name="msg_import_strings">导入语言翻译将会覆盖合并你的语言设置，你可以先导出自己的设置后导入，是否直接导入</string>
-    <string name="browser">浏览</string>
-    <string name="stop">停止</string>
-    <string name="read_next_chapter">下一章</string>
-    <string name="read_previous_chapter">上一章</string>
-    <string name="read_history">历史记录</string>
-    <string name="clear_history">清除记录</string>
-    <string name="web_back">后退</string>
-    <string name="web_reload">刷新</string>
-    <string name="web_forward">前进</string>
-    <string name="web_enter_url">输入网址</string>
-    <string name="web_copy_url">复制网址</string>
-    <string name="web_are_you_open">允许打开吗</string>
-    <string name="web_download_info">类型: %s\n大小: %s</string>
-    <string name="web_direct_download">直接下载</string>
-    <string name="web_download_only_wifi">仅Wifi下载</string>
-    <string name="merge">合并</string>
-    <string name="overlay">覆盖</string>
-    <string name="msg_has_enabled">请先启用解说</string>
-    <string name="msg_read_done">读取完成</string>
-    <string name="are_you_delete_all_logs">确定删除全部日志吗</string>
-    <string name="msg_speech_error_audio">音频问题</string>
-    <string name="msg_speech_error_speech_timeout">怎么不说话呢</string>
-    <string name="msg_speech_error_client">其它客户端错误</string>
-    <string name="msg_speech_error_permissions">权限不足</string>
-    <string name="msg_speech_error_network">网络问题</string>
-    <string name="msg_speech_error_busy">引擎忙</string>
-    <string name="msg_speech_error_server">服务端错误</string>
-    <string name="msg_speech_error_network_timeout">网络连接超时</string>
-    <string name="msg_use_custom_node_name">开启使用焦点别名才能生效，是否开启</string>
-    <string name="msg_use_custom_dict_speak">开启使用自定义词典设置才能生效，是否开启</string>
-    <string name="msg_continuous_recognition">连续识别功能可以在点击按钮后，再次触摸或滚动屏幕后自动识别</string>
-    <string name="enter_progress">输入进度</string>
-    <string name="msg_press_again_exit">再按一次退出</string>
-    <string name="msg_set_text_to_speech_listener">插件希望监控你的语音合成状态</string>
-    <string name="msg_remove_text_to_speech_listener">插件已解除对语音合成的监控</string>
-    <string name="msg_set_speech_recognition_listener">插件希望监控你的语音识别状态</string>
-    <string name="msg_remove_speech_recognition_listener">插件已解除对语音识别的监控</string>
-    <string name="timer_start">直接开始</string>
-    <string name="trans_error">翻译出错</string>
-    <string name="incoming">来电</string>
-    <string name="net_2g_level">%s2G信号%d格</string>
-    <string name="net_4g_level">%s4G信号%d格</string>
-    <string name="net_3g_level">%s3G信号%d格</string>
-    <string name="net_5g_level">%s5G信号%d格</string>
-    <string name="wifi_level_5">WIFI信号 满格</string>
-    <string name="wifi_level_4">WIFI信号4格</string>
-    <string name="wifi_level_3">WIFI信号3格</string>
-    <string name="wifi_level_2">WIFI信号2格</string>
-    <string name="wifi_level_1">WIFI信号1格</string>
-    <string name="timer_rts">剩余</string>
-    <string name="timer_pause_and_now_time">计时已暂停，%s，%s</string>
-    <string name="battery_charging">正在充电</string>
-    <string name="default_gesture_setting_title">默认手势设置</string>
-    <string name="default_gesture_setting_summary">管理在手势方案设置为默认或自定义方案返回false时的行为</string>
-    <string name="use_action_menu_show_cursor_title">在操作菜单显示焦点自定义操作</string>
-    <string name="use_action_menu_show_ext_title">在操作菜单显示链接提取进度调节等扩展功能</string>
+    <string name="use_window_title_changed_title">Fenstertitel bei Fensterwechsel sprechen</string>
+    <string name="do_not_prompt_again">Diesen Dialog nicht mehr anzeigen</string>
+    <string name="use_custom_language_title">Sprachen anpassen</string>
+    <string name="msg_has_not_enabled">Jieshuo Screenreader wurde noch nicht aktiviert. Der Screenreader funktioniert nur, wenn er in den Einstellungen für Bedienungshilfen als Dienst aktiviert wurde. Wollen Sie jetzt zu den Einstellungen wechseln oder den Screenreader später aktivieren?</string>
+    <string name="msg_has_not_enabled_33">Falls Sie Android 13 oder höher verwenden, müssen Sie zuerst den eingeschränkten Zugriff für Jieshuo Screenreader deaktivieren. Wechseln Sie hierfür zu den App Infos, und Aktivieren Sie dann oben Rechts das Menü "Weitere Optionen". Deaktivieren Sie hier den eingeschränkten Zugriff und kehren Sie dann zu den Bedienungshilfen zurück. Jieshuo kann nun aktiviert werden.\n</string>
+    <string name="use_edit_hint_title">Hinweistext in Eingabefeldern lesen</string>
+    <string name="check_manage_files_permissions_title">Berechtigungen für Dateizugriff prüfen</string>
+    <string name="check_alarm_permissions_title">Berechtigungen für Timer und Erinnerungen prüfen</string>
+    <string name="setup_setting_file_permission_msg">Jieshuo Screenreader verwendet die Berechtigung zur Dateiverwaltung, um Plugins, Soundeffekte, Tools und Backup-Ressourcen zu speichern und zu lesen.</string>
+    <string name="setup_setting_not_file_permission">Dateiverwaltungsrechte wurden nicht erteilt.</string>
+    <string name="setup_setting_has_file_permission">Dateiverwaltungsrechte wurden erteilt.</string>
+    <string name="setup_setting_not_alarm_permission">Berechtigungen für Timer und Erinnerungen wurden nicht erteilt.</string>
+    <string name="setup_setting_has_alarm_permission">Berechtigungen für Timer und Erinnerungen wurden erteilt.</string>
+    <string name="setup_setting_alarm_permission_msg">Jieshuo Screenreader verwendet die Berechtigung für Timer, um die Uhrzeit anzusagen oder Aufgaben zu bestimmten Zeiten auszuführen.</string>
+    <string name="use_volume_on_long_speak_title">Während Vorlesen Sprachlautstärke mit Lautstärketasten regeln</string>
+    <string name="message_title">Hinweis</string>
+    <string name="msg_talkback_enabled">Sie haben Talkback aktiviert. Bitte beachten Sie, dass das gleichzeitige Aktivieren von Talkback und Jieshuo Screenreader zu Problemen beim Ausführen von Touch-Gesten führen kann und deaktivieren Sie einen der beiden Screenreader.</string>
+    <string name="cur_timer_speak_title">Timer Funktionen</string>
+    <string name="use_speak_uts">Verstrichene Zeit</string>
+    <string name="use_speak_rts">Verbleibende Zeit</string>
+    <string name="use_speak_nts">Aktuelle Zeit</string>
+    <string name="cur_timer_name">Name des Timers</string>
+    <string name="cur_timer_start_prompt">Start</string>
+    <string name="cur_timer_end_prompt">Ende</string>
+    <string name="sound_power_connected">Laden gestartet.</string>
+    <string name="sound_power_disconnected">Laden gestopt</string>
+    <string name="sound_power_full">Voll aufgeladen</string>
+    <string name="sound_power_low">Niedriger Ladestand</string>
+    <string name="sound_scroll_top">Zum Anfang scrollen</string>
+    <string name="sound_scroll_bottom">Zum Ende scrollen</string>
+    <string name="sound_raise_volume">Lauter</string>
+    <string name="sound_lower_volume">Leiser</string>
+    <string name="sound_copy">Kopieren</string>
+    <string name="sound_paste">Einfügen</string>
+    <string name="sound_previous_text">Vorheriger Text</string>
+    <string name="sound_next_text">Nächster Text</string>
+    <string name="sound_to_back">Zurück</string>
+    <string name="sound_has_action">Aktionen verfügbar</string>
+    <string name="sound_has_link">Link</string>
+    <string name="sound_feedback_paused">Feedback pausiert</string>
+    <string name="sound_feedback_resume">Feedback fortgesetzt</string>
+    <string name="sound_auto_ocr_start">Automatische Texterkennung gestartet</string>
+    <string name="sound_camera_screenshot">Bildschirmfoto</string>
+    <string name="stream_type_ring">Klingelton</string>
+    <string name="stream_type_music">Medien</string>
+    <string name="stream_type_alarm">Wecker</string>
+    <string name="stream_type_notification">Mitteilungen</string>
+    <string name="stream_type_accessibility">Bedienungshilfen</string>
+    <string name="move">Bewegen</string>
+    <string name="msg_move_start">Bewegen gestartet. Doppeltippen Sie auf das gewünschte Element, um den Vorgang abzuschließen.击完成移动</string>
+    <string name="msg_move_done">An Position %d verschoben.</string>
+    <string name="timer_tts_setting_title"> Timer Sprachausgabe Einstellungen</string>
+    <string name="other_res">Weitere Resourzen</string>
+    <string name="language_title">Sprache für Übersetzung</string>
+    <string name="msg_download_error">Fehler beim Herunterladen</string>
+    <string name="buy_with_alipay">Mit Alipay kaufen</string>
+    <string name="buy_with_unipay">Mit Unipay kaufen</string>
+    <string name="buy_with_paypal">Mit Paypal kaufen</string>
+    <string name="msg_change_custom_gesture">Das Standard Gestenschema kann nicht geändert werden. Wollen Sie auf das benutzerdefinierte Gestenschema umschalten?</string>
+    <string name="msg_import_strings">Das Importieren von Sprachübersetzungen überschreibt Ihre aktuellen Spracheinstellungen. Sie können zuerst Ihre eigenen Einstellungen exportieren und dann importieren. Möchten Sie direkt importieren?</string>
+    <string name="browser">Browser</string>
+    <string name="stop">Anhalten</string>
+    <string name="read_next_chapter">Nächstes Kapitel</string>
+    <string name="read_previous_chapter">Vorheriges Kapitel</string>
+    <string name="read_history">Verlauf</string>
+    <string name="clear_history">Verlauf löschen</string>
+    <string name="web_back">Vorherige Seite</string>
+    <string name="web_reload">Seite aktualisieren</string>
+    <string name="web_forward">Vorwärts</string>
+    <string name="web_enter_url">Webadresse eingeben</string>
+    <string name="web_copy_url">Webadresse kopieren</string>
+    <string name="web_are_you_open">Möchten Sie die Seite öffnen?</string>
+    <string name="web_download_info">Typ: %s\nGröße: %s</string>
+    <string name="web_direct_download">Direkter Download</string>
+    <string name="web_download_only_wifi">Nur über WLAN laden</string>
+    <string name="merge">Zusammenführen</string>
+    <string name="overlay">Überschreiben</string>
+    <string name="msg_has_enabled">Bitte aktivieren Sie zuerst Jieshuo Screenreader.</string>
+    <string name="msg_read_done">Lesevorgang abgeschlossen.</string>
+    <string name="are_you_delete_all_logs">Wollen Sie wirklich alle Logdateien löschen?</string>
+    <string name="msg_speech_error_audio">Audiofehler</string>
+    <string name="msg_speech_error_speech_timeout">Warum funktioniert die Sprachausgabe nicht?</string>
+    <string name="msg_speech_error_client">Client Fehler</string>
+    <string name="msg_speech_error_permissions">Fehlende Berechtigungen</string>
+    <string name="msg_speech_error_network">Keine Netzwerkverbindung</string>
+    <string name="msg_speech_error_busy">Sprachausgabe wird von anderer Anwendung verwendet.</string>
+    <string name="msg_speech_error_server">Serverfehler</string>
+    <string name="msg_speech_error_network_timeout">Netzwerkprobleme sind aufgetreten</string>
+    <string name="msg_use_custom_node_name">Damit Ihre Anpassungen verwendet werden, müssen Sie die Verwendung von benutzerdefinierten Objektbeschriftungen aktivieren. Wollen Sie das jetzt tun?</string>
+    <string name="msg_use_custom_dict_speak">Damit Ihre Einträge wirksam werden, müssen Sie die Verwendung des Benutzerwörterbuchs zuerst aktivieren. Wollen Sie das jetzt tun?</string>
+    <string name="msg_continuous_recognition">Die kontinuierliche Texterkennung ermöglicht das Automatische Erkennen nach Klicken auf die Schaltfläche.</string>
+    <string name="enter_progress">Wert eingeben</string>
+    <string name="msg_press_again_exit">Zum Beenden erneut tippen</string>
+    <string name="msg_set_text_to_speech_listener">Das Plugin überwacht den Status Ihrer Sprachausgabe.</string>
+    <string name="msg_remove_text_to_speech_listener">Das Plugin hat die Überwachung Ihrer Sprachausgabe beendet.</string>
+    <string name="msg_set_speech_recognition_listener">Das Plugin überwacht die Spracherkennung</string>
+    <string name="msg_remove_speech_recognition_listener">Das Plugin hat die Überwachung Ihrer Spracherkennung beendet.</string>
+    <string name="timer_start">Timer Direkt starten</string>
+    <string name="trans_error">Fehler bei der Übersetzung</string>
+    <string name="incoming">Eingehender Anruf</string>
+    <string name="net_2g_level">2G Signal %s %d Balken</string>
+    <string name="net_4g_level">4G Signal %s %d Balken</string>
+    <string name="net_3g_level">3G Signal %s %d Balken</string>
+    <string name="net_5g_level">5G Signal %s %d Balken</string>
+    <string name="wifi_level_5">WLAN 5 Balken</string>
+    <string name="wifi_level_4">WLAN 4 Balken</string>
+    <string name="wifi_level_3">WLAN 3 Balken</string>
+    <string name="wifi_level_2">WLAN 2 Balken</string>
+    <string name="wifi_level_1">WLAN 1 Balken</string>
+    <string name="timer_rts">Verbleibende Zeit</string>
+    <string name="timer_pause_and_now_time">Timer wurde angehalten. %s %s</string>
+    <string name="battery_charging">Läd...</string>
+    <string name="default_gesture_setting_title">Standard Gesteneinstellungen</string>
+    <string name="default_gesture_setting_summary">Hier stellen Sie das Verhalten des Screenreaders bei Verwendung des Standard- oder benutzerdefinierten Gestenschemas ein.</string>
+    <string name="use_action_menu_show_cursor_title">Benutzerdefinierten Fokus im Funktionsmenü anzeigen</string>
+    <string name="use_action_menu_show_ext_title">Erweiterte Funktionen wie Linkliste im Funktionsmenü anzeigen</string>
+    <string name="find_next">查找下一个</string>
+    <string name="find_previous">查找上一个</string>
+    <string name="command_virtual_keyboard">Tastatur anzeigen</string>
+    <string name="command_media_fast_forward">快进</string>
+    <string name="command_media_rewind">快退</string>
+    <string name="command_selection_mode">选择模式</string>
+    <string name="timer_format_title">报时时间格式</string>
+    <string name="timer_format_def">系统默认</string>
+    <string name="timer_format_12">12小时制</string>
+    <string name="timer_format_24">24小时制</string>
+    <string name="default_gesture_type_title">默认手势风格</string>
+    <string name="default_gesture_type_def_up_down">默认上/下切换焦点，左/右快捷手势风格</string>
+    <string name="default_gesture_type_web_up_down">仅在网页使用按类型浏览(左/右切换类型，上/下切换项目)</string>
+    <string name="default_gesture_type_web_up_down_new">仅在网页使用按类型浏览(先上后下/先下上后切换类型，左/右切换项目，上/下切换焦点)</string>
+    <string name="default_gesture_type_view_up_down">在所有视图使用按类型浏览(左/右切换类型，上/下切换项目)</string>
+    <string name="default_gesture_type_view_up_down_new">在所有视图使用按类型浏览(先上后下/先下上后切换类型，左/右切换项目，上/下切换焦点)</string>
+    <string name="default_gesture_type_def_left_right">默认左/右切换焦点，上/下快捷手势风格</string>
+    <string name="default_gesture_type_web_left_right">仅在网页使用按类型浏览(上/下切换类型，左/右切换项目)</string>
+    <string name="default_gesture_type_web_left_right_new">仅在网页使用按类型浏览(先上后下/先下上后切换类型，上/下切换项目，左/右切换焦点)</string>
+    <string name="default_gesture_type_view_left_right">在所有视图使用按类型浏览(上/下切换类型，左/右切换项目)</string>
+    <string name="default_gesture_type_view_left_right_new">在所有视图使用按类型浏览(先上后下/先下上后切换类型，上/下切换项目，左/右切换焦点)</string>
+    <string name="use_speak_state_title">先读出焦点状态</string>
+    <string name="alarm_hours_title">报时的时间</string>
+    <string name="notification_in_call_no_speak_title">通话时通知免打扰</string>
+    <string name="notification_in_auto_read_no_speak_title">自动浏览或阅读模式时通知免打扰</string>
+    <string name="timer_action_def_title">计时器默认操作</string>
+    <string name="timer_action_def_summary">当包含预设计时器时有效</string>
+    <string name="timer_item_formater">%s %d小时 %d分钟 %s</string>
+    <string name="use_ocr_auto_speak_title">自动朗读全屏文字识别或虚拟屏幕结果</string>
+    <string name="use_new_text_move_type_title">使用解说风格处理文字移动操作</string>
+    <string name="use_move_text_gesture_title">在激活的编辑框移动光标</string>
+    <string name="use_answer_phone_calls_incall_gesture_title">在来电界面接听挂断电话</string>
+    <string name="use_scroll_seek_gesture_title">在进度滑块调节进度</string>
+    <string name="use_scroll_list_gesture_title">在列表中滚动列表</string>
+    <string name="use_click_dialog_gesture_title">在对话框点击确定/取消按钮</string>
+    <string name="use_click_button_gesture_title">执行自定义快捷操作</string>
+    <string name="export_all_file">导出全部</string>
+    <string name="share_all">分享全部</string>
+    <string name="command_image_to_text">图片描述</string>
+    <string name="incall_tts_setting_title">来电报号语音设置</string>
+    <string name="reader_tts_setting_title">阅读模式语音设置</string>
+    <string name="char_mode_tts_setting_title">逐字浏览语音设置</string>
+    <string name="auto_read_tts_setting_title">自动浏览语音设置</string>
+    <string name="notification_tts_setting_title">通知语音设置</string>
 
 </resources>
