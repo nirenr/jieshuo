@@ -1,0 +1,92 @@
+<?xml phiên bản="1.0" mã hóa="utf-8"?>
+<tài nguyên>
+  <!--
+        Nguồn: Tên hoạt động.
+        Mô tả: Tiêu đề cho hoạt động Cài đặt.
+    -->
+  <string name="tts_settings_label">Cài đặt eSpeak TTS</string>
+  <!--
+        Nguồn: Tiêu đề ưu tiên.
+        Mô tả: Tiêu đề cho tùy chọn kiểm soát cao độ giọng nói mặc định.
+    -->
+  <string name="setting_default_pitch">Cao độ</string>
+  <!--
+        Nguồn: Tiêu đề ưu tiên.
+        Mô tả: Tiêu đề cho tùy chọn kiểm soát tốc độ giọng nói mặc định.
+    -->
+  <string name="setting_default_rate">Tốc độ đọc</string>
+  <!--
+        Nguồn: Văn bản đối thoại.
+        Mô tả: Thông báo trạng thái hiển thị khi cài đặt dữ liệu thoại.
+    -->
+  <string name="installing_voice_data">Đang cài đặt dữ liệu giọng nói…</string>
+  <!--
+        Nguồn: Tin nhắn hộp thoại.
+        Mô tả: Hộp thoại cảnh báo nhắc người dùng đặt eSpeak làm công cụ TTS mặc định của họ.
+    -->
+  <string name="set_default_message">eSpeak không được đặt làm công cụ chuyển văn bản thành giọng nói mặc định của bạn.</string>
+  <!--
+        Nguồn: Tin nhắn hộp thoại.
+        Mô tả: Hộp thoại cảnh báo cho người dùng biết rằng cài đặt dữ liệu giọng nói không thành công.
+    -->
+  <string name="voice_data_failed_message">eSpeak không thể cài đặt dữ liệu thoại. Vui lòng kiểm tra thẻ SD của bạn.</string>
+  <!--
+        Nguồn: Tin nhắn hộp thoại.
+        Mô tả: Hộp thoại cảnh báo cho người dùng biết rằng đã xảy ra lỗi không xác định.
+    -->
+  <string name="error_message">Xin lỗi, eSpeak không khởi động được.</string>
+  <!--
+        Nguồn: Nhãn văn bản.
+        Mô tả: Nhãn thông báo cho người dùng về ngôn ngữ chuyển văn bản thành giọng nói hiện tại.
+    -->
+  <string name="current_tts_locale">Giọng mặc định</string>
+  <!--
+        Nguồn: Nhãn văn bản.
+        Mô tả: Nhãn thông báo cho người dùng biết có bao nhiêu giọng nói được cài đặt.
+    -->
+  <string name="available_voices">Đã cài đặt giọng nói</string>
+  <!--
+        Nguồn: Nhãn nút.
+        Mô tả: Nút để khởi chạy cài đặt dành riêng cho eSpeak.
+    -->
+  <string name="engine_settings">Cài đặt eSpeak TTS</string>
+  <!--
+        Nguồn: Nhãn văn bản.
+        Mô tả: Nhãn thông báo cho người dùng rằng eSpeak đang tải tài nguyên.
+    -->
+  <string name="loading">Đang tải, vui lòng đợi…</string>
+  <!--
+        Nguồn: Nói to.
+        Mô tả: Văn bản mẫu được đọc to khi người dùng đang thử một ngôn ngữ.
+    -->
+  <string name="sample_text">Đây là một mẫu văn bản được nói bằng %s</string>
+  <string name="status">Trạng thái</string>
+  <string name="tts_version">Phiên bản eSpeak</string>
+  <string name="speak">Nói</string>
+  <string name="ssml">Tải Mẫu SSML</string>
+  <string name="synthesis_demo">Nhập văn bản để nói:</string>
+  <string name="espeak_volume">Âm lượng</string>
+  <string name="formatter_wpm">%s WPM</string>
+  <string name="formatter_percentage">%s%%</string>
+  <string name="resetToDefault">Đặt về mặc định</string>
+  <string name="espeak_pitch_range">Biến thể cao độ</string>
+  <string name="espeak_variant">Biến thể giọng nói</string>
+  <string name="espeak_speak_punctuation">Nói dấu câu</string>
+  <string name="punctuation_all">Tất cả</string>
+  <string name="punctuation_custom">Tùy chỉnh</string>
+  <string name="punctuation_custom_fmt">Tùy chỉnh: %s</string>
+  <string name="punctuation_none">Không có</string>
+  <string name="punctuation_characters">Ký tự dấu câu</string>
+  <string name="category">Danh mục</string>
+  <string name="variant">Biến thể</string>
+  <string name="variant_male">Nam</string>
+  <string name="variant_woman">Nữ</string>
+  <string name="variant_default">Mặc định</string>
+  <string name="variant_n">Biến thể %d</string>
+  <string name="variant_young">Trẻ</string>
+  <string name="variant_old">Cũ</string>
+  <string name="variant_croak">Tiếng kêu</string>
+  <string name="variant_whisper">Thầm thì</string>
+  <string name="import_voice_title">Nhập từ điển eSpeak</string>
+  <string name="import_voice_description">Nhập tệp từ điển giọng nói eSpeak từ thẻ SD.</string>
+</tài nguyên>
