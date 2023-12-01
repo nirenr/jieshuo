@@ -1040,7 +1040,7 @@
         <item>CTRL+H: Inicio</item>
         <item>CTRL+N: Pantalla de notificaciones</item>
         <item>CTRL+P: Recientes</item>
-        <item>CTRL+SPACE: Hacer click</item>
+        <item>CTRL+SPACE: Hacer clic</item>
         <item>CTRL+L: Pulsación larga</item>
         <item>CTRL+Q: Configuración rápida</item>
         <item>ALT+M: Menú principal</item>
@@ -1049,7 +1049,7 @@
         <item>ALT+T: Herramientas y plugins</item>
         <item>ALT+V: Asistente de voz</item>
         <item>ALT+S: Edición dividida</item>
-        <item>ALT+L: Navegación en lista</item>
+        <item>ALT+L: Navegación en listas</item>
     </string-array>
     <string-array name="view_type_title">
         <item>Predeterminado</item>
