@@ -681,15 +681,15 @@
         <item>Zulú</item>
         <item>Javanés</item>
 
-        <item>奥利亚语</item>
-        <item>弗里西语</item>
-        <item>哈萨克语</item>
-        <item>海地克里奥尔语</item>
-        <item>马尔加什语</item>
-        <item>蒙古语</item>
-        <item>塞索托语</item>
-        <item>维吾尔语</item>
-        <item>乌兹别克语</item>
+        <item>Oriya</item>
+        <item>Frisio</item>
+        <item>Kazajo</item>
+        <item>Criollo haitiano</item>
+        <item>Madagascarí</item>
+        <item>Mongol</item>
+        <item>Sesoto</item>
+        <item>Uigur</item>
+        <item>Uzbeco</item>
 
     </string-array>
     <string-array name="lang_values">
@@ -1013,22 +1013,22 @@
         <item>Controles</item>
         <item>Imágenes</item>
         <item>Casillas de verificación</item>
-        <item>Cuadros combinados</item>
+        <item>Listas desplegables</item>
         <item>Tablas</item>
-        <item>listas</item>
+        <item>Listas</item>
         <item>Elementos de lista</item>
         <item>Desplazamiento</item>
-        <item>todo tipo de contenido</item>
-        <item>caracteres</item>
-        <item>palabras</item>
-        <item>líneaz</item>
+        <item>Todo tipo de contenido</item>
+        <item>Caracteres</item>
+        <item>Palabras</item>
+        <item>Líneas</item>
         <item>Párrafos</item>
-        <item>páginas</item>
-        <item>copiar y copiar adicional</item>
+        <item>Páginas</item>
+        <item>Copiar y agregar a la copia</item>
         <item>Volumen</item>
         <item>Velocidad de la voz</item>
-        <item>traducción y reconocimiento de texto</item>
-        <item>Ventanas.</item>
+        <item>Traducción y reconocimiento de texto</item>
+        <item>Ventanas</item>
     </string-array>
     <string-array name="hot_key_help_items">
         <item>CTRL+DPAD_UP: Último elemento</item>
@@ -1052,30 +1052,30 @@
         <item>ALT+L: Navegación en lista</item>
     </string-array>
     <string-array name="view_type_title">
-        <item>predeterminado</item>
+        <item>Predeterminado</item>
         <item>Texto</item>
-        <item>botones</item>
+        <item>Botones</item>
         <item>Cuadros de edición</item>
         <item>Imágenes.</item>
         <item>Casillas de verificación.</item>
         <item>Barra de progreso</item>
-        <item>listas</item>
+        <item>Listas</item>
         <item>Elementos de lista</item>
-        <item>enfocable</item>
-        <item>clickable</item>
-        <item>Nodo.</item>
-        <item>desplazamiento</item>
-        <item>navegación vertical</item>
-        <item>caracteres</item>
-        <item>palabras</item>
-        <item>líneas</item>
+        <item>Enfocable</item>
+        <item>Clickeable</item>
+        <item>Nodo</item>
+        <item>Desplazamiento</item>
+        <item>Navegación vertical</item>
+        <item>Caracteres</item>
+        <item>Palabras</item>
+        <item>Líneas</item>
         <item>Párrafos</item>
-        <item>páginas</item>
-        <item>Copiar y copiar adicional</item>
-        <item>Volumen.</item>
+        <item>Páginas</item>
+        <item>Copiar y agregar a la copia</item>
+        <item>Volumen</item>
         <item>Velocidad de la voz</item>
-        <item>traducción y reconocimiento de texto</item>
-        <item>Ventanas.</item>
+        <item>Traducción y reconocimiento de texto</item>
+        <item>Ventanas</item>
     </string-array>
 
 </resources>
