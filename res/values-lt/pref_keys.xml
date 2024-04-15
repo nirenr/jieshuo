@@ -376,7 +376,7 @@
     <string name="custom_sound_settings">custom_sound_settings</string>
     <string name="read_mode">read_mode</string>
     <string name="use_bottom_menu_edge_gesture">use_bottom_menu_edge_gesture</string>
-    <string name="lang">en</string>
+    <string name="lang">lt</string>
     <string name="hot_key_package">hot_key_package</string>
     <string name="custom_hot_key_settings">custom_hot_key_settings</string>
     <string name="hot_key_description">hot_key_description</string>
@@ -519,4 +519,17 @@
     <string name="use_scroll_list_gesture">use_scroll_list_gesture</string>
     <string name="use_click_dialog_gesture">use_click_dialog_gesture</string>
     <string name="use_click_button_gesture">use_click_button_gesture</string>
+    <string name="use_up_tap_prompt">use_up_tap_prompt</string>
+    <string name="double_fling_time">double_fling_time</string>
+    <string name="system_tts_stream_type">system_tts_stream_type</string>
+    <string name="use_virtual_screen_dim_background">use_virtual_screen_dim_background</string>
+    <string name="resume_on_notification_show">resume_on_notification_show</string>
+    <string name="resume_on_ringing">resume_on_ringing</string>
+    <string name="resume_on_screen_on">resume_on_screen_on</string>
+    <string name="back_break_auto_mode">back_break_auto_mode</string>
+    <string name="app_no_supper_sound_package">app_no_supper_sound_package</string>
+    <string name="use_split_line">use_split_line</string>
+    <string name="use_input_method_speak_word">use_input_method_speak_word</string>
+    <string name="trans_lua_engine">trans_lua_engine</string>
+    <string name="edit_trans_lua">edit_trans_lua</string>
 </resources>

@@ -129,7 +129,7 @@
     <string name="menu_manager_title">Gérer le menu principal</string>
     <string name="menu_up_tap_title">Levez le doigt Pour activer les éléments du menu principal et du menu d\'actions: </string>
     <string name="navigation_up_tap_title">Levez le doigt pour activer les touches de navigation logicielles: </string>
-    <string name="only_notification_title">Autoriser la réactivation du lecteur d\'écran à partir de la barre de notifications uniquement: </string>
+    <string name="only_notification_title">reprendre la parole et les gestes à partir de panneau de notification, Ou en appuyant simultanément sur les touches de volume:</string>
     <string name="send_log_title">Envoyer les journaux d\'utilisation</string>
     <string name="long_click_title">la durée à maintennais le doigt appuyé pour simuler une préssion prolongée: </string>
     <string name="long_click_summary">la durée après laquelle l\'action appui longue est activée</string>
@@ -209,7 +209,7 @@
     <string name="use_image_filter_title">Filtrer les images lors de la navigation sur les pages Web: </string>
     <string name="gesture_settings_title">paramètres du thème des gestes: </string>
     <string name="setup_plugin_title">Exécution automatique des plugins</string>
-    <string name="advanced_menu_title">menu ocr</string>
+    <string name="advanced_menu_title">menu de reconnaissance</string>
     <string name="quick_menu_title">Liste des fonctions affectées aux gestes dans le thème de l\'application en cours</string>
     <string name="check_update_title">Vérifier les mises à jour</string>
     <string name="qq_group_summary">parler à propos à cette application ou achetez-la</string>
@@ -235,7 +235,7 @@
     <string name="use_pager_scroll_summary">Défiler automatiquement à la page suivante lorsque vous atteignez la fin de la page actuelle</string>
     <string name="scroll_gesture_settings_title">Paramètres du focus</string>
     <string name="click_settings_title">Actions du clic sur l\'élément</string>
-    <string name="key_shortcut_setting_title">paramètres des touches du raccourci</string>
+    <string name="key_shortcut_setting_title">paramètres des touches de volume</string>
     <string name="gesture_title">paramètres des gestes</string>
     <string name="use_single_tap_summary">Le délai entre la mise en focus sur l’élément et le clic sur le ne doit pas dépasser dix secondes</string>
     <string name="use_old_previous_summary">De manière traditionnelle, l’accent est mis sur le simple retour du focus suivant.Après l’annulation, le nouveau mode de focus précédent sera utilisé et le focus sera renvoyé en fonction du niveau de focus.Il est plus facile de saisir la propriété du contenu lors de la navigation en permanence</string>
@@ -248,7 +248,7 @@
     <string name="use_node_info_summary">Lire des informations supplémentaires sur le noeud actuellement actif en mode de navigation de noeud</string>
     <string name="use_list_item_index_summary">Lire l\'index de l\'élément courant, Par indexation de la list</string>
     <string name="use_scroll_list_index_summary">Lire le nombre des éléments de menu à l\'écran actuel Lors du défilement par geste</string>
-    <string name="use_view_name_index_summary">Lire le type et le nom de l’élément actuel, s’il n’ya pas de nom, le lecteur d’écran essaiera de le deviner</string>
+    <string name="use_view_name_summary">Lire le type et le nom de l’élément actuel, s’il n’ya pas de nom, le lecteur d’écran essaiera de le deviner</string>
     <string name="unknown_lable_summary">Lire l\'ID de l\'élément actuel lorsqu\'il n\'est pas nommé ou non étiqueté</string>
     <string name="use_progress_summary">Lire automatiquement les changements de barre de progression lors de leur mise au point</string>
     <string name="use_content_changed_summary">Lire automatiquement l\'élément ciblé</string>
@@ -294,8 +294,8 @@
 
     <string name="up_down_volume_short_key_summary">Mettre en pause ou reprendre l\'exploration par toucher</string>
     <string name="up_down_volume_short_key_title">Appuyez simultanément sur les touches de volume haut et bas: </string>
-    <string name="tts_engine_title">Moteur principal: </string>
-    <string name="async_tts_engine_title">Moteur secondaire: </string>
+    <string name="tts_engine_title">Moteur principal</string>
+    <string name="async_tts_engine_title">Moteur secondaire</string>
     <string name="async_tts_engine_summary">Le moteur utilisé pour lire les notifications ou des informations supplémentaires. vous pouvez modifier ses paramètres individuellement</string>
     <string name="tts_engine_summary">Le moteur utilisé pour la lecture de contenu. vous pouvez modifier ses paramètres individuellement</string>
     <string name="timer_manager_title">Gérer le minuteur</string>
@@ -335,7 +335,7 @@
     <string name="use_number_speak_title">Lire les numéros par chiffre: </string>
     <string name="use_input_method_gesture_title">Choisissez des suggestions dans le clavier Google par des gestes: </string>
     <string name="use_input_method_gesture_summary">Passez d\'une suggestion à l\'autre, En balayant vers la droite ou vers la gauche. Choisissez une suggestion, en balayant vers le bas ou vers le haut</string>
-    <string name="use_volume_key_move_text_title">Utilisez les touches du volume pour déplacer le curseur en mode d\'édition, et Contrôler la barre du défilement: </string>
+    <string name="use_volume_key_move_text_title">Utilisez les touches du volume pour déplacer le curseur Dans la zone d\'édition, et Contrôler la barre du défilement:</string>
 
     <string name="user_text">Nom d\'utilisateur: 5 à 15 caractères latins</string>
     <string name="pass_text">Mot de passe: 6 à 15 caractères latins</string>
@@ -383,7 +383,7 @@
     <string name="voice_helper_use_gestures_title">Exécuter les fonctions personnalisées: </string>
     <string name="voice_helper_use_app_gestures_title">Exécuter les fonctions personnalisées approprié aux applications: </string>
     <string name="voice_helper_use_cmd_title">Exécuter les commandes vocales personnalisées: </string>
-    <string name="voice_helper_use_supper_cmd_title">Exécuter les commandes vocales supplémentaires: </string>
+    <string name="voice_helper_use_supper_cmd_title">Exécuter les commandes vocales supérieures:</string>
     <string name="voice_helper_use_plugin_title">Exécuter les plugins: </string>
     <string name="voice_helper_use_tool_title">Exécuter les outils: </string>
     <string name="message_has_vip">Cette fonction est uniquement disponible Dans la version payante</string>
@@ -393,8 +393,8 @@
     <string name="use_wake_lock_pro_summary">Si l\'option ci-dessus ne fonctionne pas, veuillez utiliser celle-ci</string>
     <string name="more_setting">Autres</string>
     <string name="kayword">Entrez un mot-clef</string>
-    <string name="notification_black_list_summary">Les notifications ajoutées à la liste noire ne seront pas prononcées.</string>
-    <string name="notification_while_list_summary"> Les notifications ajoutées à la liste blanche seront toujours prononcées, Même si la lecture des notifications est désactivée</string>
+    <string name="notification_black_list_summary">Les notifications ajoutées à la liste noire ne seront pas prononcées, Y compris les titres des fenêtres.</string>
+    <string name="notification_white_list_summary"> Les notifications ajoutées à la liste blanche seront toujours prononcées, Même si la lecture des notifications est désactivée</string>
     <string name="system_tts_volume_title">volume de synthèse vocale du système</string>
     <string name="notification_select_title">Types des notifications</string>
     <string name="message_disable_dim_screen">S\'il vous plaît désactiver le rideau en premier</string>
@@ -415,7 +415,7 @@
     <string name="message_append">Texte ajouté</string>
     <string name="text_format_settings_title">lectur des lettres</string>
     <string name="use_text_format_first_title">Lire le texte en premier en mode expliquer: </string>
-    <string name="use_text_format_char_number_title">Lire l\'index des lettres: </string>
+    <string name="use_text_format_char_number_title">Lire l\'index des lettres Lors de la navigation par caractères:</string>
     <string name="lower_case_format">%s Minuscule.%s </string>
     <string name="upper_case_format">%s majuscule.%s </string>
     <string name="lower_case_format_number">%s，Minuscule %s. Indexé %d</string>
@@ -657,8 +657,8 @@
     <string name="command_virtual_navigation">Navigation virtuelle</string>
     <string name="voice_helper_use_click_title">Activer directement l\'élément mentionné:</string>
     <string name="voice_helper_use_app_title">Ouvrir directement le programme mentionné: </string>
-    <string name="voice_helper_use_app_summary">Vous pouvez ouvrir le programme donné en disant simplement son nom. Si cette option est désactivée, dites "Ouvrir suivé de nom du programme" pour l\'ouvrir</string>
-    <string name="voice_helper_use_click_summary">Vous pouvez utiliser le nom de l\'élément pour l\'activer. Si cette option est désactivée, dites "activer suivé de nom de l\'élément" pour activer l\'élément donné</string>
+    <string name="voice_helper_use_app_summary">Vous pouvez ouvrir le programme donné en disant simplement son nom. Si cette option est désactivée, dites Ouvrir, suivé de nom du programme pour l\'ouvrir</string>
+    <string name="voice_helper_use_click_summary">Vous pouvez utiliser le nom de l\'élément pour l\'activer. Si cette option est désactivée, dites Cliquez, suivé de nom de l\'élément pour activer l\'élément donné. vous pouvez aussi l\'activé en disant une partie de nom</string>
     <string name="edge_gesture_width_title">Plage de déclenchement des geste du bords: </string>
     <string name="use_double_edge_gesture_summary"> L\'utilisation du menu du bords Avec 1 doigt, désactivera les gestes de bord</string>
     <string name="left_edge_gesture_items_title">Personnalisez le menu du bord gauche</string>
@@ -670,7 +670,7 @@
     <string name="use_small_filter_title">Filtrer les éléments indésirables: </string>
     <string name="jieshuo_bbs_summary"> Vous pouvez partager des commentaires concernant le lecteur d\'écran sur Le forum. </string>
     <string name="voice_recognizer_title">Moteur de reconnaissance: </string>
-    <string name="use_text_format_char_upper_title">indique les lettres majuscules: </string>
+    <string name="use_text_format_char_upper_title">Signaler les majuscules Lors de la navigation par caractères:</string>
     <string name="voice_helper_media_mute_mode_title">Couper le volume du média lorsque l\'assistant vocal est actif: </string>
     <string name="trans_lang_to_title">Langue cible: </string>
     <string name="recognizer_lang_title">Langue pour parler avec l\'assistant vocal: </string>
@@ -766,7 +766,7 @@
     <string name="voice_cmd_phone_to">Composer</string>
     <string name="voice_cmd_call">Appeler</string>
     <string name="voice_cmd_send">Envoyer</string>
-    <string name="open">Ouvrez</string>
+    <string name="open">ouvrir</string>
     <string name="voice_cmd_uninstall">désinstaller</string>
     <string name="voice_cmd_install">Installer</string>
     <string name="voice_cmd_input">écrire</string>
@@ -816,7 +816,7 @@
     <string name="camera_top_move_far">Soulevez l\'écran</string>
     <string name="camera_top_move_near">Soulever le dos</string>
     <string name="camera_bottom_up">Soulevez la partie inférieure</string>
-    <string name="use_text_format_read_word_title">Lire les lettre phonétique: </string>
+    <string name="use_text_format_read_word_title">Lire les lettres avec des exemples Lors de la navigation par caractères: </string>
     <string name="restore">restaurer</string>
     <string name="backup">sauvegarder</string>
     <string name="directory_camera">Camera</string>
@@ -1014,11 +1014,11 @@
     <string name="sound_dialog">Boite de dialogue: </string>
     <string name="sound_gesture_start">début des gestes supplémentaires: </string>
     <string name="sound_gesture_end">fin des gestes supplémentaires: </string>
-    <string name="recognition_start">début de la reconnaissance vocale: </string>
-    <string name="recognition_end">Fin de la reconnaissance vocale: </string>
-    <string name="recognition_success">Succès de la reconnaissance vocale: </string>
-    <string name="recognition_error">Erreur de reconnaissance vocale: </string>
-    <string name="recognition_cancel">annulation de la reconnaissance vocale: </string>
+    <string name="recognition_start">début de la reconnaissance:</string>
+    <string name="recognition_end">Fin de la reconnaissance:</string>
+    <string name="recognition_success">Succès de la reconnaissance:</string>
+    <string name="recognition_error">Erreur de reconnaissance:</string>
+    <string name="recognition_cancel">annulation de la reconnaissance:</string>
     <string name="command_quick_settings">paramètres rapides</string>
     <string name="command_take_screenshot">Capture d\'écran</string>
     <string name="command_off_screen2">fermez l\'écran</string>
@@ -1035,7 +1035,7 @@
     <string name="custom_hot_key_settings_title">Paramètres de Raccourcis clavier</string>
     <string name="app_hot_key_package_title">thèmes des raccourci pour les applications: </string>
     <string name="app_hot_key_package_summary">Activer ou désactiver des thèmes des raccourcis pour les applications</string>
-    <string name="directory_hot_key">Raccourcis clavier</string>
+    <string name="directory_hot_key">HotKeys</string>
     <string name="hot_key_summary">Appuyer sur une touche ou une chaîne de boutons. </string>
     <string name="sound_timer_end">fin du minuteur. </string>
     <string name="sound_timer_start">début du minuteur. </string>
@@ -1107,7 +1107,7 @@
     <string name="use_accessibility_volume_fix_summary">Si le volume est soudainement Diminué ou augmenté, sélectionnez cette option </string>
     <string name="msg_exit_game_mode">mode libre désactivé</string>
     <string name="privacy">Privacy policy</string>
-    <string name="show_download_title">Télécharger Jieshuo beta</string>
+    <string name="show_download_title">Téléchargez des ressources sur le site Web</string>
     <string name="version_msg">%s, \n taille de cette version: %s,\n Nombre de téléchargements: %s</string>
     <string name="user_new_password">Nouveau Mot de passe: 6 à 15 caractères latins</string>
     <string name="repassword_title">changer le mot de passe</string>
@@ -1140,7 +1140,7 @@
     <string name="search_engine_title">Moteur de recherche: </string>
     <string name="directory_notes">Notes</string>
     <string name="replace">Remplacer</string>
-    <string name="export_file">exporter comme un fichier</string>
+    <string name="export_file">exporter </string>
     <string name="replace_to">Remplacer par</string>
     <string name="replace_regex">Remplacement régulier</string>
     <string name="msg_replaced">texte remplacé</string>
@@ -1179,7 +1179,7 @@
     <string name="use_speak_call_time_summary">annoncer la durée après la fin d\'appel. veuillez vérifier l\'autorisation d\'accès au journal d\'appels</string>
     <string name="use_list_item_index_real_time_title">lire l\'index du première éléments sur l\'écran l\'heure du défilement: </string>
     <string name="add_favorites">Ajouter aux favoris</string>
-    <string name="save_as_file">exporter comme un fichier</string>
+    <string name="save_as_file">exporter comme un fichier Dans le dossier Notes</string>
     <string name="save_as_cloud">exporter comme une note sur le cloud</string>
  <string name="msg_toggle_tts">Moteur changé</string>
     <string name="curren_char_idx">%d lignes, %d caractères. </string>
@@ -1551,7 +1551,7 @@
     <string name="move">déplacer</string>
     <string name="msg_move_start">Déplacez le focus à l\'emplacement où vous souhaitez placer l\'élément, puis cliquer 2 fois.</string>
     <string name="msg_move_done">L’élément a été déplacé vers L\'emplacement %d</string>
-    <string name="timer_tts_setting_title">personnaliser la synthèse vocale.</string>
+    <string name="timer_tts_setting_title">personnaliser la synthèse vocale pour le minuteur et l\'horloge parlante</string>
     <string name="other_res">Autres ressources.</string>
     <string name="language_title">Traduction</string>
     <string name="msg_download_error">Erreur de téléchargement.</string>
@@ -1656,10 +1656,118 @@
     <string name="export_all_file">Exporter tout</string>
     <string name="share_all">partager tout</string>
     <string name="command_image_to_text">description de l\'image</string>
-    <string name="incall_tts_setting_title">来电报号语音设置</string>
-    <string name="reader_tts_setting_title">阅读模式语音设置</string>
-    <string name="char_mode_tts_setting_title">逐字浏览语音设置</string>
-    <string name="auto_read_tts_setting_title">自动浏览语音设置</string>
-    <string name="notification_tts_setting_title">通知语音设置</string>
+    <string name="incall_tts_setting_title">personnaliser la synthèse vocale Pour les appels entrants</string>
+    <string name="reader_tts_setting_title">personnaliser la synthèse vocale pour le Mode lecture</string>
+    <string name="char_mode_tts_setting_title">personnaliser la synthèse vocale pour le mode mot par mot</string>
+    <string name="auto_read_tts_setting_title">personnaliser la synthèse vocale pour la Navigation automatique</string>
+    <string name="notification_tts_setting_title">personnaliser la synthèse vocale pour les notifications</string>
+    <string name="use_up_tap_prompt_title">Indiquer par un bip sonnor la fin de durée de l\'activation:</string>
+    <string name="double_fling_time_title">durée maximale entre les deux étapes: </string>
+    <string name="jieshuo_beta_title">Jieshuo beta</string>
+    <string name="picture_description">description détaillée de l\'image</string>
+    <string name="auto_list_tts_setting_title">personnaliser la synthèse vocale pour la lecture automatique des messages</string>
+    <string name="more_tts_setting_title">personnaliser la synthèse vocale dans différents scénarios</string>
+    <string name="ocr_lang_zh">Chinois/Anglais</string>
+    <string name="ocr_lang_zh_rare">Chinois simplifié/traditionnel</string>
+    <string name="ocr_lang_auto">auto: </string>
+    <string name="ocr_lang_mix">Plusieurs langues: </string>
+    <string name="ocr_lang_jap">Japonais: </string>
+    <string name="ocr_lang_kor">Coréen: </string>
+    <string name="ocr_lang_spa">Espanol: </string>
+    <string name="ocr_lang_fre">Français: </string>
+    <string name="ocr_lang_ger">Allemand: </string>
+    <string name="ocr_lang_por">Portugais: </string>
+    <string name="ocr_lang_vie">Vietnamien: </string>
+    <string name="ocr_lang_may">malais:</string>
+    <string name="ocr_lang_rus">Russe: </string>
+    <string name="ocr_lang_ita">Italien: </string>
+    <string name="ocr_lang_hol">Néerlandais: </string>
+    <string name="ocr_lang_swe">Suédois: </string>
+    <string name="ocr_lang_fin">Finlandais: </string>
+    <string name="ocr_lang_dan">Danois: </string>
+    <string name="ocr_lang_nor">norvégien: </string>
+    <string name="ocr_lang_hun">Hongrois:</string>
+    <string name="ocr_lang_tha">thaïlandais: </string>
+    <string name="ocr_lang_hi">hindi: </string>
+    <string name="ocr_lang_ara">arabe: </string>
+    <string name="use_virtual_screen_dim_background_title">Afficher les résultats de l\'écran virtuel sur un fond noir: </string>
+    <string name="edit_ocr_lua_title">paramètres du moteur personnalisé</string>
+    <string name="ocr_lua_template">require \"import\"\nimport \"com.nirenr.talkman.ai.*\"\n--例子代码是帮助理解代码的伪代码，不能直接运行\nbs,listener=...--获取参数\ntask(function(bs)\n  function 识别函数(bs)\n    --虚拟构成识别结果\n    return {\n      length=2,\n      {\n        t=\"例子代码是帮助理解代码的伪代码\",\n        x=0,\n        y=300,\n        w=1000,\n        h=100,\n        s=50\n      },\n      {\n        t=\"不能直接运行\",\n        x=0,\n        y=600,\n        w=800,\n        h=100,\n        s=50\n      }\n    }\n  end\n\n  local ret=识别函数(bs)\n  local rets=OcrResult.OcrItem[ret.length]--构建返回值数组\n  for n=1,ret.length do\n    --注意java与lua数组开始索引不同\n    rets[n-1]=OcrResult.OcrItem(\n    ret[n].t,--文字内容\n    ret[n].x,--文字x坐标，距离屏幕左侧距离\n    ret[n].y,--文字y坐标，距离屏幕顶部距离\n    ret[n].w,--文字区域宽度\n    ret[n].h,--文字区域高度\n    ret[n].s--文字高度\n    )\n  end\n  return OcrResult(rets)--返回结果到主线程\nend,\nbs,--将图片的byte数组传入线程\nfunction(rets)\n  listener.onDone(rets)--在回调函数调用onDone通知读屏识别完成\nend)</string>
+    <string name="accessibility_service_description2">解说辅助服务和主服务功能完全相同，主要用于部分会检测读屏服务名的场景，两个服务不需要同时开启。</string>
+    <string name="resume_on_screen_on_title">reprendre la parole et les gestes  lors de l\'alummage de l\'écran:</string>
+    <string name="resume_on_notification_show_title">reprendre la parole et les gestes lorsque vous faites glisser le panneau de notification vers le bas:</string>
+    <string name="resume_on_ringing_title">reprendre la parole et les gestes lorsqu\'il y a un appel entrant:</string>
+    <string name="helper_supper_cmd_title">commandes vocales supérieures</string>
+    <string name="back_break_auto_mode_title">Arrêtez la navigation automatique en balayant Vers la droite puis vers la gauche:</string>
+    <string name="msg_export_all_file">Tous Vos paramètres et fichiers seront sauvegardés dans le fichier  %s afin d\'être envoyés au nouvels appareils pour les importer.  Veuillez ne pas le partager avec d\'autres pour protéger la confidentialité.</string>
+    <string name="msg_export_all_file_fail">La sauvegarde a échoué, veuillez réessayer</string>
+    <string name="import_all_title">Importez tous les paramètres et fichiers.</string>
+    <string name="msg_import_all">Cette opération écrasera tous les paramètres et ressources de Jieshuo</string>
+    <string name="app_service2">Jieshuo helper service</string>
+    <string name="app_no_supper_sound_package_title">Choisissez des applications dans lesquelles les super effets sonores ne sont pas utilisés:</string>
+    <string name="command_image_to_text2">description de l\'écran</string>
+    <string name="picture_description2">description détaillée de l\'écran</string>
+    <string name="use_split_line_title">Indexation des lignes et des paragraphes: </string>
+    <string name="msg_use_single_tts_enabled">Vous avez choisi d\'utiliser un seul moteur.</string>
+    <string name="msg_disable_use_single_tts">Cliquez sur OK, Ou décocher Utilisez un seul moteur: pour utiliser le %s personnalisé</string>
+    <string name="command_auto_list_speak">lecture automatique des messages</string>
+    <string name="command_auto_list_speak_history">historique des messages.</string>
+    <string name="msg_start_auto_list">la lecture automatique des messages a été activée Dans %s</string>
+    <string name="msg_stop_auto_list">la lecture automatique des messages a été désactivée Dans %s</string>
+    <string name="msg_username_typo">Le format du nom d\'utilisateur ou du mot de passe est incorrect</string>
+    <string name="msg_username_error">Erreur dans le nom d\'utilisateur ou le mot de passe.</string>
+    <string name="msg_invite_code_error">Le code d\'invitation est incorrect</string>
+    <string name="msg_username_used">Ce nom d\'utilisateur est déjà utilisé. Essayez un autre nom.</string>
+    <string name="msg_network_error">Erreur de connexion réseau. veuillez changer de réseau ou réessayer plus tard</string>
+    <string name="command_verification12">Déplacez automatiquement le curseur du puzzle</string>
+    <string name="command_recognition_edu">Identifiez les questions</string>
+    <string name="use_input_method_speak_word_title">Lire les lettres avec des exemples lors de la navigation au clavier:</string>
+    <string name="trans_lua_engine_title">Utiliser un moteur de traduction personnalisé:</string>
+    <string name="edit_trans_lua_title">Paramètres du moteur de traduction personnalisé</string>
+    <string name="trans_lua_template"><![CDATA[" require \"import\" \n import \"java.util.Locale\"\n local form,to,text,ltr=...\n local url=string.format(\"https://translate.google.com/m?sl=%s&tl=%s&hl=%s&q=%s\",from,to,Locale.getDefault().getCountry(),text)\n Http.get(url,function(code,text)\n   ltr.onTransResult(text:match(\"<[^<>]*\\\"result%-container\\\">([^<>]*)</div>\"))\n   end)"]]></string>
+    <string name="match_all">correspondance complète:</string>
+    <string name="match_start">correspondance au début du nom:</string>
+    <string name="match_end">correspondance à la fin du nom:</string>
+    <string name="match_contains">correspondance inconditionnelle:</string>
+    <string name="today">aujourd\'hui</string>
+    <string name="yesterday">hier</string>
+    <string name="before_yesterday">avant hier</string>
+    <string name="command_accept_call">décrocher</string>
+    <string name="command_end_call">raccrocher</string>
+    <string name="command_pause_a11y_volume">Basculer le volume d\'accessibilité</string>
+    <string name="msg_supper_cmd_only_voice_helper">Les commandes vocales supérieures ne peuvent être utilisées que via l\'assistant vocal.</string>
+    <string name="msg_no_a11y_volume">Le volume d\'accessibilité est désactivé dans les paramètres. Veuillez l\'activer afin d\'utiliser cette fonction.</string>
+    <string name="msg_a11y_volume_disabled">le volume d\'accessibilité a été suspendu.</string>
+    <string name="msg_a11y_volume_enabled">le volume d\'accessibilité a été repris..</string>
+    <string name="content_blacklist_description">Le contenu ajouté à la liste noire ne sera pas lu lors de la navigation.
+Il est utilisé pour filtrer les descriptions d\'accessibilité inutiles ou invalides. 
+Vous pouvez saisir une partie du nom de l\'élément afin de l\'ajouter à la liste noire et contrôler la correspondance via l\'astérisque. 
+Si l\'astérisque est après le texte saisi, cela signifie que la correspondance est au début du nom. 
+Exemple: 
+Image de profil pour* dans WhatsApp.
+Si l\'astérisque est devant le texte saisi, cela signifie que la correspondance est à la fin du nom.
+Exemple:
+*arrière-plan dans Facebook.
+Si le texte saisi est entre les deux astérisques, cela signifie que la correspondance est au début, à la fin ou au milieu du nom. 
+Exemple: 
+S\'il n\'y a pas d\'astérisque, cela signifie que la correspondance doit être complète.</string>
+    <string name="auto_speak_blacklist_description">Le contenu ajouté à la liste noire des messages ne sera pas lu lors de la lecture automatique des messages.
+Il est utilisé pour filtrer le spam ou les messages inappropriés. 
+Vous pouvez saisir une partie du nom de l\'élément afin de l\'ajouter à la liste noire et contrôler la correspondance via l\'astérisque. 
+Si l\'astérisque est après le texte saisi, cela signifie que la correspondance est au début du nom. 
+Si l\'astérisque est devant le texte saisi, cela signifie que la correspondance est à la fin du nom.
+Si le texte saisi est entre les deux astérisques, cela signifie que la correspondance est au début, à la fin ou au milieu du nom. 
+S\'il n\'y a pas d\'astérisque, cela signifie que la correspondance doit être complète.</string>
+    <string name="notification_black_list_description">Les notifications ajoutées à la liste noire ne seront pas prononcées, Y compris les titres des fenêtres.
+Mais cela sera enregistré dans la boîte de notification.
+La correzpondance supporte les expressions régulières.
+Si vous souhaitez bloquer la lecture de toutes les notifications pour une application spécifique, ajoutez un astérisque sans ajouter d\'autre contenu, ou  cliquez sur Tout.</string>
+    <string name="notification_white_list_description">Les notifications ajoutées à la liste blanche seront toujours prononcées, Même si la lecture des notifications est désactivée.
+La correzpondance supporte les expressions régulières.
+Si vous souhaitez lire toutes les notifications d\'une application spécifique, ajoutez un astérisque sans ajouter d\'autre contenu, ou  cliquez sur Tout.</string>
+    <string name="nodeinfo_long_clickable">可长按</string>
+    <string name="nodeinfo_not_long_click">不可长按</string>
+    <string name="nodeinfo_editable">可编辑</string>
+    <string name="nodeinfo_not_edit">不可编辑</string>
 
 </resources>

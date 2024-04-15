@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="execute_command">
+    <string-array  translatable="false" name="execute_command">
         <item>@string/command_nothing</item>
         <item>@string/directory_plugins</item>
         <item>@string/directory_cmd</item>
@@ -189,10 +189,20 @@
         <item>@string/command_media_rewind</item>
         <item>@string/command_selection_mode</item>
         <item>@string/command_image_to_text</item>
+        <item>@string/command_image_to_text2</item>
+        <item>@string/picture_description</item>
+        <item>@string/picture_description2</item>
+        <item>@string/command_auto_list_speak</item>
+        <item>@string/command_auto_list_speak_history</item>
+        <item>@string/command_quick_mode</item>
+        <item>@string/command_accept_call</item>
+        <item>@string/command_end_call</item>
+        <item>@string/command_pause_a11y_volume</item>
 
         <!--item>极速浏览</item-->
 
     </string-array>
+
     <string-array name="right_menu_items">
         <item>@string/command_click</item>
         <item>@string/command_long_click</item>

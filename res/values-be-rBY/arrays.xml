@@ -1,0 +1,902 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="right_menu_items">
+        <item>@string/command_click</item>
+        <item>@string/command_long_click</item>
+        <item>@string/command_start</item>
+        <item>@string/command_end</item>
+        <item>@string/command_copy</item>
+        <item>@string/command_append_copy</item>
+        <item>@string/command_paste</item>
+        <item>@string/clipboard_menu_title</item>
+        <item>@string/favorites_menu_title</item>
+        <item>@string/split_edit_title</item>
+        <item>@string/command_long_copy</item>
+        <item>@string/command_trans</item>
+        <item>@string/command_verification2</item>
+        <item>@string/command_timer_mode</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="left_menu_items">
+        <item>@string/command_auto_next</item>
+        <item>@string/command_read_mode</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/split_menu_title</item>
+        <item>@string/command_verbatim_speak2</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/command_all_select</item>
+        <item>@string/command_ocr_text</item>
+        <item>@string/plugin_title</item>
+        <item>@string/command_notification_box</item>
+        <item>@string/command_to_notifications</item>
+        <item>@string/command_long_edit</item>
+        <item>@string/command_gestures_edit</item>
+        <item>@string/command_virtual_screen</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="action_menu_items">
+        <item>@string/command_clean</item>
+        <item>@string/command_select</item>
+        <item>@string/command_copy</item>
+        <item>@string/command_append_copy</item>
+        <item>@string/command_paste</item>
+        <item>@string/clipboard_menu_title</item>
+        <item>@string/favorites_menu_title</item>
+        <item>@string/split_edit_title</item>
+        <item>@string/command_long_copy</item>
+        <!--item>@string/command_virtual_keyboard</item-->
+    </string-array>
+    <string-array name="menu_def_items">
+        <item>@string/split_menu_title</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/command_voice_helper</item>
+        <item>@string/plugin_title</item>
+        <item>@string/main_setting</item>
+        <item>@string/command_disable_feedback</item>
+    </string-array>
+    <string-array name="menu_items">
+        <item>@string/action_menu_title</item>
+        <item>@string/advanced_menu_title</item>
+        <item>@string/command_auto_next</item>
+        <item>@string/command_read_mode</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/command_node_mode</item>
+        <item>@string/split_menu_title</item>
+        <item>@string/command_verbatim_speak2</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/all_text_title</item>
+        <item>@string/command_all_select</item>
+        <item>@string/command_voice_helper</item>
+        <item>@string/command_ocr_text</item>
+        <item>@string/camera_title</item>
+        <item>@string/plugin_title</item>
+        <item>@string/tool_title</item>
+        <item>@string/main_setting</item>
+        <item>@string/command_disable_touch</item>
+        <item>@string/command_disable_feedback</item>
+        <item>@string/command_notification_box</item>
+        <item>@string/command_to_notifications</item>
+        <item>@string/command_long_edit</item>
+        <item>@string/command_gestures_edit</item>
+        <item>@string/command_enable_dim_screen</item>
+        <item>@string/command_virtual_screen</item>
+        <item>@string/command_quick_mode</item>
+        <item>@string/command_supper_mode</item>
+        <item>@string/command_virtual_navigation</item>
+    </string-array>
+    <string-array name="left_button">
+        <item>павесіць трубку</item>
+        <item>адхіліць</item>
+        <item>*Правядзіце, каб адхіліць уваходны званок*</item>
+        <item>Скончыць выклік</item>
+        <item>скончыць званок</item>
+        <item>Скончыць званок</item>
+        <item>Скончыць выклік QQ</item>
+        <item>Скончыць выклік QQ</item>
+        <item>Перайсці да папярэдняга элемента</item>
+        <item>Папярэдні трэк</item>
+        <item>Навігацыя ўгору</item>
+    </string-array>
+    <string-array name="right_button">
+        <item>Адказ на званок</item>
+        <item>*Правядзіце, каб адказаць на званок*</item>
+        <item>Рэжым гучнай сувязі</item>
+        <item>Рэжым дынаміка</item>
+        <item>Перайсці да наступнага элемента</item>
+        <item>Наступны трэк</item>
+    </string-array>
+
+    <string-array name="voice_recognizer_values">
+        <item>3</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="voice_recognizer_entries">
+        <item>System</item>
+        <item>Engine 1</item>
+        <item>Engine 2</item>
+        <item>Engine 3</item>
+    </string-array>
+    <string-array name="tts_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+        <item>64</item>
+        <item>65</item>
+        <item>66</item>
+        <item>67</item>
+        <item>68</item>
+        <item>69</item>
+        <item>70</item>
+        <item>71</item>
+        <item>72</item>
+        <item>73</item>
+        <item>74</item>
+        <item>75</item>
+        <item>76</item>
+        <item>77</item>
+        <item>78</item>
+        <item>79</item>
+        <item>80</item>
+        <item>81</item>
+        <item>82</item>
+        <item>83</item>
+        <item>84</item>
+        <item>85</item>
+        <item>86</item>
+        <item>87</item>
+        <item>88</item>
+        <item>89</item>
+        <item>90</item>
+        <item>91</item>
+        <item>92</item>
+        <item>93</item>
+        <item>94</item>
+        <item>95</item>
+        <item>96</item>
+        <item>97</item>
+        <item>98</item>
+        <item>99</item>
+        <item>100</item>
+    </string-array>
+    <!--string-array name="tts_speaker_title">
+        <item>Жаночы голас</item>
+        <item>Мужчынскі голас</item>
+        <item>Шчаслівы</item>
+        <item>Du ya ya</item>
+    </string-array>
+    <string-array name="tts_speaker">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array-->
+    <string-array name="vibrate_intensity_entries">
+        <item>Слабая</item>
+        <item>Сярэдняя</item>
+        <item>Моцная</item>
+        <item>Узмоцненая</item>
+    </string-array>
+    <string-array name="vibrate_intensity_values">
+        <item>12</item>
+        <item>32</item>
+        <item>48</item>
+        <item>64</item>
+    </string-array>
+    <string-array name="long_click_entries">
+        <item>кароткае</item>
+        <item>сярэдняе</item>
+        <item>доўгае</item>
+    </string-array>
+    <string-array name="long_click_values">
+        <item>500</item>
+        <item>750</item>
+        <item>1000</item>
+    </string-array>
+    <string-array name="edge_gesture_width_entries">
+        <item>маленькая</item>
+        <item>сярэдняя</item>
+        <item>вялікая</item>
+        <item>максімальная</item>
+    </string-array>
+    <string-array name="edge_gesture_width_values">
+        <item>8</item>
+        <item>12</item>
+        <item>16</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="tts_speaker_entries">
+        <item>Сяоянь</item>
+        <item>Сяофэн</item>
+    </string-array>
+    <string-array name="tts_speaker_values">
+        <item>xiaoyan</item>
+        <item>xiaofeng</item>
+    </string-array>
+    <string-array name="advanced_menu_items">
+        <item>пераклад</item>
+        <item>Распазнаванне сцэны</item>
+        <item>Распазнаванне тэкста</item>
+        <item>Распазнаванне твару</item>
+        <item>Распазнаванне кода з малюнка</item>
+        <item>Вынік распазнавання</item>
+        <item>Апісанне выявы</item>
+    </string-array>
+    <string-array name="lang_entries">
+        <item>аўта</item>
+        <item>карэйская</item>
+        <item>кітайская спрошчаная</item>
+        <item>кітайская традыцыйная</item>
+        <item>галандская</item>
+        <item>тайская</item>
+        <item>грэцкая</item>
+        <item>італьянская</item>
+        <item>славенская</item>
+        <item>японская</item>
+        <item>англійская</item>
+        <item>арабская</item>
+        <item>кантонская</item>
+        <item>венгерская</item>
+        <item>эстонская</item>
+        <item>румынская</item>
+        <item>кітайская</item>
+        <item>чэшская</item>
+        <item>нямецкая</item>
+        <item>французская</item>
+        <item>фінская</item>
+        <item>партугальская</item>
+        <item>дацкая</item>
+        <item>руская</item>
+        <item>балгарская</item>
+        <item>іспанская</item>
+        <item>шведская</item>
+        <item>польская</item>
+        <item>вьетнамская</item>
+
+        <item>ірландская</item>
+        <item>аксітанская</item>
+        <item>албанская</item>
+        <item>Кенійская</item>
+        <item>Арагонская</item>
+        <item>Амхарская</item>
+        <item>Асамская</item>
+        <item>аймара</item>
+        <item>Азербайджанская</item>
+        <item>астурыйская</item>
+        <item>асецінская</item>
+        <item>аджыбва</item>
+        <item>орыя</item>
+        <item>Арома</item>
+        <item>фарсі</item>
+        <item>Брэтонская</item>
+        <item>башкорская</item>
+        <item>баскская</item>
+        <item>бразільская партугальская</item>
+        <item>беларуская</item>
+        <item>берберская</item>
+        <item>Пампанга</item>
+        <item>паўночнасаамская</item>
+        <item>Паўночнасотская</item>
+        <item>Бэмба</item>
+        <item>Выстаўленне рахункаў</item>
+        <item>біслама</item>
+        <item>Белуджы</item>
+        <item>ісландская</item>
+        <item>баснійская</item>
+        <item>Бходжпурі</item>
+        <item>чувашская</item>
+        <item>Цонга</item>
+        <item>татарская</item>
+        <item>Шанская</item>
+        <item>Тэтум</item>
+        <item>Дзівехі</item>
+        <item>нізканям</item>
+        <item>філіпінская</item>
+        <item>санскрыт</item>
+        <item>фрыульская</item>
+        <item>Фулані</item>
+        <item>фарэрская</item>
+        <item>гэльская</item>
+        <item>кангалезская</item>
+        <item>верхнелужыцкая</item>
+        <item>камбаджыйская</item>
+        <item>грэнландская</item>
+        <item>грузінская</item>
+        <item>гуджараці</item>
+        <item>старажытнагрэцкая</item>
+        <item>стараанглійская</item>
+        <item>Гуарані</item>
+        <item>Хупа</item>
+        <item>хакачын</item>
+        <item>Гаіцянская</item>
+        <item>Хаўса</item>
+        <item>чарнагорская</item>
+        <item>кіргізская</item>
+        <item>галісійская</item>
+        <item>Канадская французская</item>
+        <item>каталонская</item>
+        <item>кабільская</item>
+        <item>каннада</item>
+        <item>Кануры</item>
+        <item>Кашубская</item>
+        <item>карнуолская</item>
+        <item>коса</item>
+        <item>Карсіканская</item>
+        <item>克里克语</item>
+        <item>крымска-татарская</item>
+        <item>Клінгонская</item>
+        <item>харвацкая</item>
+        <item>Кечуа</item>
+        <item>Кашмірская</item>
+        <item>Конкані</item>
+        <item>курдская</item>
+        <item>лацінская</item>
+        <item>Лаоская</item>
+        <item>Латгальская</item>
+        <item>Латышская</item>
+        <item>Лімбургская</item>
+        <item>Лінгала</item>
+        <item>Лугандыйская</item>
+        <item>Люксембургская</item>
+        <item>Люксенская</item>
+        <item>Кіньяруанда</item>
+        <item>літоўская</item>
+        <item>раманш</item>
+        <item>цыганская</item>
+        <item>逻辑语</item>
+        <item>малайская</item>
+        <item>бірманская</item>
+        <item>маратхі</item>
+        <item>малагасійская</item>
+        <item>Малаялам</item>
+        <item>Македонская</item>
+        <item>Маршалоўская</item>
+        <item>Майтхілі</item>
+        <item>Мэнская</item>
+        <item>маўрыкійская крэольская</item>
+        <item>Маоры</item>
+        <item>бенгальская</item>
+        <item>мальтыйская</item>
+        <item>Хмонг</item>
+        <item>нарвежская</item>
+        <item>неапалітанская</item>
+        <item>Паўднёвы ндэбеле</item>
+        <item>афрыкаанс</item>
+        <item>Паўднёвае сота</item>
+        <item>непальская</item>
+        <item>панджабі</item>
+        <item>Пап\'ямента</item>
+        <item>пушту</item>
+        <item>齐切瓦语</item>
+        <item>Чывійская</item>
+        <item>Чэрокі</item>
+        <item>сардзінская</item>
+        <item>самаанская</item>
+        <item>сербскахарвацкая</item>
+        <item>сербская</item>
+        <item>Сонхай</item>
+        <item>сінгальская</item>
+        <item>Эсперанта</item>
+        <item>нарвежская пісьмовая</item>
+        <item>славацкая</item>
+        <item>Суахілі</item>
+        <item>самалійская</item>
+        <item>сербская (кірыліца)</item>
+        <item>турэцкая</item>
+        <item>таджыкская</item>
+        <item>тамільская</item>
+        <item>тагальская</item>
+        <item>Тыгрынья</item>
+        <item>тэлугу</item>
+        <item>туніская арабская</item>
+        <item>туркменская</item>
+        <item>украінская</item>
+        <item>валонская</item>
+        <item>валійская</item>
+        <item>Венда</item>
+        <item>沃洛夫语</item>
+        <item>Урду</item>
+        <item>іўрыт</item>
+        <item>заходнефрызская</item>
+        <item>сілезская</item>
+        <item>Хілігайнон</item>
+        <item>ніжнелужыцкая</item>
+        <item>гавайская</item>
+        <item>нованарвежская</item>
+        <item>заходнеафрыканская пісьмовая</item>
+        <item>сіндхі</item>
+        <item>шона</item>
+        <item>себуанская</item>
+        <item>сірыйская</item>
+        <item>сунданская</item>
+        <item>Хіндзі</item>
+        <item>інданезійская</item>
+        <item>Ідыш</item>
+        <item>因特语</item>
+        <item>Ачэнская</item>
+        <item>інгуш</item>
+        <item>ігба</item>
+        <item>Іда</item>
+        <item>ёруба</item>
+        <item>армянская</item>
+        <item>інуктытут</item>
+        <item>іранская</item>
+        <item>Мова зазакі</item>
+        <item>Сярэднефранцузская</item>
+        <item>Зулу</item>
+        <item>яванская</item>
+
+        <item>орыя</item>
+        <item>фрызская</item>
+        <item>казахская</item>
+        <item>Гаіцянская крэольская</item>
+        <item>малагасійская</item>
+        <item>Мангольская</item>
+        <item>сесота</item>
+        <item>уйгурская</item>
+        <item>узбекская</item>
+
+    </string-array>
+    <string-array name="lang_values">
+        <item>auto</item>
+        <item>kor</item>
+        <item>wyw</item>
+        <item>cht</item>
+        <item>nl</item>
+        <item>th</item>
+        <item>el</item>
+        <item>it</item>
+        <item>slo</item>
+        <item>jp</item>
+        <item>en</item>
+        <item>ara</item>
+        <item>yue</item>
+        <item>hu</item>
+        <item>est</item>
+        <item>rom</item>
+        <item>zh</item>
+        <item>cs</item>
+        <item>de</item>
+        <item>fra</item>
+        <item>fin</item>
+        <item>pt</item>
+        <item>dan</item>
+        <item>ru</item>
+        <item>bul</item>
+        <item>spa</item>
+        <item>swe</item>
+        <item>pl</item>
+        <item>vie</item>
+
+        <item>gle</item>
+        <item>oci</item>
+        <item>alb</item>
+        <item>aka</item>
+        <item>arg</item>
+        <item>amh</item>
+        <item>asm</item>
+        <item>aym</item>
+        <item>aze</item>
+        <item>ast</item>
+        <item>oss</item>
+        <item>oji</item>
+        <item>ori</item>
+        <item>orm</item>
+        <item>per</item>
+        <item>bre</item>
+        <item>bak</item>
+        <item>baq</item>
+        <item>pot</item>
+        <item>bel</item>
+        <item>ber</item>
+        <item>pam</item>
+        <item>sme</item>
+        <item>ped</item>
+        <item>bem</item>
+        <item>bli</item>
+        <item>bis</item>
+        <item>bal</item>
+        <item>ice</item>
+        <item>bos</item>
+        <item>bho</item>
+        <item>chv</item>
+        <item>tso</item>
+        <item>tat</item>
+        <item>sha</item>
+        <item>tet</item>
+        <item>div</item>
+        <item>log</item>
+        <item>fil</item>
+        <item>san</item>
+        <item>fri</item>
+        <item>ful</item>
+        <item>fao</item>
+        <item>gla</item>
+        <item>kon</item>
+        <item>ups</item>
+        <item>hkm</item>
+        <item>kal</item>
+        <item>geo</item>
+        <item>guj</item>
+        <item>gra</item>
+        <item>eno</item>
+        <item>grn</item>
+        <item>hup</item>
+        <item>hak</item>
+        <item>ht</item>
+        <item>hau</item>
+        <item>mot</item>
+        <item>kir</item>
+        <item>glg</item>
+        <item>frn</item>
+        <item>cat</item>
+        <item>kab</item>
+        <item>kan</item>
+        <item>kau</item>
+        <item>kah</item>
+        <item>cor</item>
+        <item>xho</item>
+        <item>cos</item>
+        <item>cre</item>
+        <item>cri</item>
+        <item>kli</item>
+        <item>hrv</item>
+        <item>que</item>
+        <item>kas</item>
+        <item>kok</item>
+        <item>kur</item>
+        <item>lat</item>
+        <item>lao</item>
+        <item>lag</item>
+        <item>lav</item>
+        <item>lim</item>
+        <item>lin</item>
+        <item>lug</item>
+        <item>ltz</item>
+        <item>ruy</item>
+        <item>kin</item>
+        <item>lit</item>
+        <item>roh</item>
+        <item>ro</item>
+        <item>loj</item>
+        <item>may</item>
+        <item>bur</item>
+        <item>mar</item>
+        <item>mg</item>
+        <item>mal</item>
+        <item>mac</item>
+        <item>mah</item>
+        <item>mai</item>
+        <item>glv</item>
+        <item>mau</item>
+        <item>mao</item>
+        <item>ben</item>
+        <item>mlt</item>
+        <item>hmn</item>
+        <item>nor</item>
+        <item>nea</item>
+        <item>nbl</item>
+        <item>afr</item>
+        <item>sot</item>
+        <item>nep</item>
+        <item>pan</item>
+        <item>pap</item>
+        <item>pus</item>
+        <item>nya</item>
+        <item>twi</item>
+        <item>chr</item>
+        <item>srd</item>
+        <item>sm</item>
+        <item>sec</item>
+        <item>srp</item>
+        <item>sol</item>
+        <item>sin</item>
+        <item>epo</item>
+        <item>nob</item>
+        <item>sk</item>
+        <item>swa</item>
+        <item>som</item>
+        <item>src</item>
+        <item>tr</item>
+        <item>tgk</item>
+        <item>tam</item>
+        <item>tgl</item>
+        <item>tir</item>
+        <item>tel</item>
+        <item>tua</item>
+        <item>tuk</item>
+        <item>ukr</item>
+        <item>wln</item>
+        <item>wel</item>
+        <item>ven</item>
+        <item>wol</item>
+        <item>urd</item>
+        <item>heb</item>
+        <item>fry</item>
+        <item>sil</item>
+        <item>hil</item>
+        <item>los</item>
+        <item>haw</item>
+        <item>nno</item>
+        <item>nqo</item>
+        <item>snd</item>
+        <item>sna</item>
+        <item>ceb</item>
+        <item>syr</item>
+        <item>sun</item>
+        <item>hi</item>
+        <item>id</item>
+        <item>yid</item>
+        <item>ina</item>
+        <item>ach</item>
+        <item>ing</item>
+        <item>ibo</item>
+        <item>ido</item>
+        <item>yor</item>
+        <item>arm</item>
+        <item>iku</item>
+        <item>ir</item>
+        <item>zaz</item>
+        <item>frm</item>
+        <item>zul</item>
+        <item>jav</item>
+
+        <item>or</item>
+        <item>fy</item>
+        <item>kk</item>
+        <item>ht</item>
+        <item>mg</item>
+        <item>mn</item>
+        <item>st</item>
+        <item>ug</item>
+        <item>uz</item>
+
+    </string-array>
+
+    <string-array name="tts_engine_values">
+        <item>system</item>
+        <item>unisound</item>
+    </string-array>
+    <string-array name="tts_engine_entries">
+        <item>Сістэмны TTS</item>
+        <item>Юньжишэн TTS</item>
+    </string-array>
+    <string-array name="tts_engine_vip_values">
+        <item>system</item>
+        <item>iflytek</item>
+        <item>unisound</item>
+    </string-array>
+    <string-array name="tts_engine_vip_entries">
+        <item>System TTS</item>
+        <item>Xunfei TTS</item>
+        <item>Yunzhisheng TTS</item>
+    </string-array>
+    <string-array name="alarm_interval_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="alarm_interval_entries">
+        <item>Кожныя 5 хвілін</item>
+        <item>Кожныя 10 хвілін</item>
+        <item>Кожныя 15 хвілін</item>
+        <item>Кожныя 30 хвілін</item>
+        <item>Кожныя 60 хвілін</item>
+    </string-array>
+    <string-array name="timer_interval_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+    </string-array>
+    <string-array name="timer_interval_entries">
+        <item>1 хвіліна</item>
+        <item>5 хвілін</item>
+        <item>10 хвілін</item>
+        <item>15 хвілін</item>
+    </string-array>
+    <string-array name="alarm_hour_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="recognizer_lang_entries">
+        <item>Кітайская спрошчаная</item>
+        <item>Кітайская традыцыйная</item>
+        <item>Англійская</item>
+    </string-array>
+    <string-array name="recognizer_lang_values">
+        <item>zh_CN</item>
+        <item>zh_GD</item>
+        <item>en_GB</item>
+    </string-array>
+    <string-array name="tts_scale_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="tts_scale_entries">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="web_type_title">
+        <item>Па змаўчанні</item>
+        <item>Загалоўкі</item>
+        <item>Спасылкі</item>
+        <item>Кнопкі</item>
+
+        <item>Арыенцір</item>
+        <item>Акно рэдагавання</item>
+        <item>Фокус</item>
+        <item>Элементы кіравання</item>
+        <item>Малюнак</item>
+        <item>Сцяжок</item>
+        <item>Поле са спісам</item>
+        <item>Форма</item>
+        <item>Спіс</item>
+        <item>Элементы спісу</item>
+
+        <item>Старонкі</item>
+        <item>Прагляд</item>
+
+        <item>Сімвал</item>
+        <item>Слова</item>
+        <item>Радок</item>
+        <item>Абзац</item>
+        <item>Старонка</item>
+        <item>Капіяваць</item>
+        <item>Гучнасць</item>
+        <item>Хуткасць маўлення</item>
+        <item>Рухавічок распазнавання</item>
+        <item>Акно</item>
+    </string-array>
+
+    <string-array name="hot_key_help_items">
+        <item>CTRL+DPAD_UP: Перамясціць фокус да папярэдняга элемента.</item>
+        <item>CTRL+DPAD_DOWN: Перамясціць фокус да наступнага элемента.</item>
+        <item>CTRL+DPAD_LEFT: Левая функцыя ярлыка</item>
+        <item>CTRL+DPAD_RIGHT: Правая функцыя ярлыка</item>
+        <item>CTRL+PAGE_UP: Пракрутка ўгору</item>
+        <item>CTRL+PAGE_DOWN: Пракрутка ўніз</item>
+        <item>CTRL+H: Перайсці на галоўны экран</item>
+        <item>CTRL+N: Перайсці на панэль апавяшчэнняў</item>
+        <item>CTRL+P: Перайсці да нядаўніх прыкладанняў</item>
+        <item>CTRL+SPACE: Націсканне</item>
+        <item>CTRL+L: Доўгае націсканне</item>
+        <item>CTRL+Q: Хуткае наладжванне</item>
+
+        <item>ALT+M: Галоўнае меню</item>
+        <item>ALT+A: Меню дзеянняў</item>
+        <item>ALT+P: Пашырэнні</item>
+        <item>ALT+T: Інструменты пашырэння</item>
+        <item>ALT+V: Галасавы памочнік</item>
+        <item>ALT+S: Падзеленае рэдагаванне</item>
+        <item>ALT+L: Прагляд спісу</item>
+
+    </string-array>
+    <string-array name="view_type_title">
+        <item>Па змаўчанні</item>
+        <item>Тэкст</item>
+        <item>Кнопка</item>
+        <item>Акно рэдагавання</item>
+
+        <item>Малюнак</item>
+        <item>Сцяжок</item>
+        <item>Індыкатар выканання</item>
+        <item>Спіс</item>
+        <item>Элемент спісу</item>
+        <item>Факусуемы элемент</item>
+        <item>Клікабельны элемент</item>
+        <item>Вузел</item>
+        <item>Паўзунок</item>
+        <item>Перамяшчэнне па вертыкалі</item>
+
+
+        <item>Сімвал</item>
+        <item>Слова</item>
+        <item>Радок</item>
+        <item>Абзац</item>
+        <item>Старонка</item>
+        <item>Капіяваць</item>
+        <item>Гучнасць</item>
+        <item>Хуткасць маўлення</item>
+        <item>Рухавічок распазнавання</item>
+        <item>Акно</item>
+
+    </string-array>
+
+
+
+</resources>

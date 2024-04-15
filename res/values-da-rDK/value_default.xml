@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="right_edge_gesture_value_default">@string/command_to_recents</string>
+    <string name="left_edge_gesture_value_default">@string/command_to_back</string>
+
+    <string name="down_volume_key_value_default">@string/command_voice_helper</string>
+
+    <string name="up_volume_key_value_default">@string/command_up_tap</string>
+
+    <string name="right_long_edge_gesture_value_default">@string/command_to_notifications</string>
+    <string name="left_long_edge_gesture_value_default">@string/command_to_home</string>
+
+    <string name="up_volume_short_key_value_default">@string/command_raise_volume</string>
+
+    <string name="down_volume_short_key_value_default">@string/command_lower_volume</string>
+
+    <string name="up_down_volume_short_key_value_default">@string/command_disable_touch</string>
+
+    <string name="back_rap_action_value_default">@string/command_now_time</string>
+
+    <string name="shake_action_value_default">@string/command_nothing</string>
+
+    <string name="down_right_double_fling_left_gesture_value_default">@string/command_to_back</string>
+    <string name="down_right_double_fling_up_gesture_value_default">@string/command_to_home</string>
+    <string name="down_right_double_fling_right_gesture_value_default">@string/raw_click</string>
+    <string name="down_right_double_fling_down_gesture_value_default">@string/command_to_notifications</string>
+
+    <string name="down_left_double_fling_left_gesture_value_default">@string/command_copy</string>
+    <string name="down_left_double_fling_up_gesture_value_default">@string/command_paste</string>
+    <string name="down_left_double_fling_right_gesture_value_default">@string/command_append_copy</string>
+    <string name="down_left_double_fling_down_gesture_value_default">@string/command_long_copy</string>
+
+
+    <string name="fingerprint_left_gesture_value_default">@string/command_to_back</string>
+    <string name="fingerprint_right_gesture_value_default">@string/raw_click</string>
+    <string name="fingerprint_up_gesture_value_default">@string/command_to_previous_focus</string>
+    <string name="fingerprint_down_gesture_value_default">@string/command_to_next_focus</string>
+
+</resources>

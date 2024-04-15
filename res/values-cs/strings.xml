@@ -248,7 +248,7 @@
     <string name="use_node_info_summary">Určuje, zda se data relace mezi prvky čtou v režimu procházení objektů. Čtené informace se skládají z počtu podřízených prvků, které aktuální objekt má, plus několika dalších informací specifických pro daný objekt</string>
     <string name="use_list_item_index_summary">Určuje, zda index aktuálně zaměřené položky bude předčítán během navigace v seznamech</string>
     <string name="use_scroll_list_index_summary">Určuje, zda je předčítáno vizuální zobrazení počtu položek seznamu, jestliže je použito ruční rolování</string>
-    <string name="use_view_name_index_summary">Určuje, zda je název okna automaticky ohlašován. Jestliže okno nemá název, je místo toho nahlášen první zaměřitelný prvek na obrazovce</string>
+    <string name="use_view_name_summary">Určuje, zda je název okna automaticky ohlašován. Jestliže okno nemá název, je místo toho nahlášen první zaměřitelný prvek na obrazovce</string>
     <string name="unknown_lable_summary">Určuje, zda bude ohlašováno ID nepojmenovaného prvku, když nemá svůj název</string>
     <string name="use_progress_summary">Určuje, zda budou automaticky předčítány změny aktuálně zaměřeného indikátoru průběhu</string>
     <string name="use_content_changed_summary">Určuje, zda budou automaticky předčítány změny aktuálně zaměřeného prvku</string>
@@ -393,7 +393,7 @@
     <string name="more_setting">Více možností</string>
     <string name="kayword">Zadejte klíčové slovo</string>
     <string name="notification_black_list_summary">Oznámení zahrnující obsah z černé listiny nebudou nikdy ohlašována a to ani v případě, kdy je povoleno předčítání příchozích notifikací</string>
-    <string name="notification_while_list_summary">Oznámení zahrnující obsah z bílé listiny budou vždy ohlašována a to i v případě, kdy je zakázáno předčítání příchozích notifikací</string>
+    <string name="notification_white_list_summary">Oznámení zahrnující obsah z bílé listiny budou vždy ohlašována a to i v případě, kdy je zakázáno předčítání příchozích notifikací</string>
     <string name="system_tts_volume_title">Hlasitost systémového hlasového výstupu</string>
     <string name="notification_select_title">Nastavení ohlašování notifikací</string>
     <string name="message_disable_dim_screen">Nejprve prosím zakažte ztlumení obrazovky</string>
@@ -1638,19 +1638,117 @@
     <string name="use_ocr_auto_speak_title">V celoobrazovkovém režimu automaticky předčítat výsledky rozpoznání textu a virtuální obrazovky</string>
     <string name="use_new_text_move_type_title">Doprovázet hlasem zpracování operací pohybu textu</string>
     <string name="use_move_text_gesture_title">Posouvat kurzor v aktivním editačním poli</string>
-    <string name="use_answer_phone_calls_incall_gesture_title">Přijmout a odmítnout telefonát na obrazovce příchozího hovoru</string>
+    <string name="use_answer_phone_calls_incall_gesture_title">Přijmout nebo odmítnout telefonát na obrazovce příchozího hovoru</string>
     <string name="use_scroll_seek_gesture_title">Upravit indikátor průběhu posuvníku</string>
     <string name="use_scroll_list_gesture_title">Rolovat položky v aktuálním seznamu</string>
-    <string name="use_click_dialog_gesture_title">Indikovat kliknutí na ok nebo cancel v rámci dialogového okna</string>
+    <string name="use_click_dialog_gesture_title">Provést kliknutí na ok nebo cancel v rámci dialogového okna</string>
     <string name="use_click_button_gesture_title">Provádět operace vlastních zkratek</string>
     <string name="export_all_file">Exportovat vše</string>
     <string name="share_all">Sdílet vše</string>
     <string name="command_image_to_text">Rozpoznání obrázku</string>
-    <string name="incall_tts_setting_title">来电报号语音设置</string>
-    <string name="reader_tts_setting_title">阅读模式语音设置</string>
-    <string name="char_mode_tts_setting_title">逐字浏览语音设置</string>
-    <string name="auto_read_tts_setting_title">自动浏览语音设置</string>
-    <string name="notification_tts_setting_title">通知语音设置</string>
+    <string name="incall_tts_setting_title">Nastavení hlasového výstupu pro čtení čísla volajícího</string>
+    <string name="reader_tts_setting_title">Nastavení hlasového výstupu pro režim čtení</string>
+    <string name="char_mode_tts_setting_title">Nastavení hlasového výstupu pro čtení po znacích</string>
+    <string name="auto_read_tts_setting_title">Nastavení hlasového výstupu pro čtení automatického procházení</string>
+    <string name="notification_tts_setting_title">Nastavení hlasového výstupu pro čtení oznámení</string>
+    <string name="use_up_tap_prompt_title">Pro aktivaci položky zvednutím prstu indikovat zvukem časový limit</string>
+    <string name="double_fling_time_title">Přizpůsobit dobu čekání na druhé gesto při provádění složených gest</string>
+    <string name="jieshuo_beta_title">Stažení interních betaverzí</string>
+    <string name="picture_description">Popis obrázku</string>
+    <string name="auto_list_tts_setting_title">Nastavení hlasového výstupu pro automatické čtení zpráv</string>
+    <string name="more_tts_setting_title">Pokročilá nastavení hlasového výstupu</string>
+    <string name="ocr_lang_zh">Čínština a angličtina, smíšené</string>
+    <string name="ocr_lang_zh_rare">Tradiční a zjednodušená čínština</string>
+    <string name="ocr_lang_auto">auto</string>
+    <string name="ocr_lang_mix">Smíšené jazyky</string>
+    <string name="ocr_lang_jap">Japonština</string>
+    <string name="ocr_lang_kor">Korejština</string>
+    <string name="ocr_lang_spa">Španělština</string>
+    <string name="ocr_lang_fre">Francouzština</string>
+    <string name="ocr_lang_ger">Němčina</string>
+    <string name="ocr_lang_por">Portugalština</string>
+    <string name="ocr_lang_vie">Vietnamština</string>
+    <string name="ocr_lang_may">Malajština</string>
+    <string name="ocr_lang_rus">Ruština</string>
+    <string name="ocr_lang_ita">Italština</string>
+    <string name="ocr_lang_hol">Holandština</string>
+    <string name="ocr_lang_swe">Švédština</string>
+    <string name="ocr_lang_fin">Finština</string>
+    <string name="ocr_lang_dan">Dánština</string>
+    <string name="ocr_lang_nor">Norština</string>
+    <string name="ocr_lang_hun">Maďarština</string>
+    <string name="ocr_lang_tha">Thajština</string>
+    <string name="ocr_lang_hi">hindština</string>
+    <string name="ocr_lang_ara">Arabština</string>
+    <string name="use_virtual_screen_dim_background_title">Virtuální obrazovka používá černé pozadí</string>
+    <string name="edit_ocr_lua_title">Upravit vlastní rozšíření ocr enginu</string>
+    <string name="ocr_lua_template"><![CDATA[require \"import\"\nimport \"com.nirenr.talkman.ai.*\"\n--例子代码是帮助理解代码的伪代码，不能直接运行\nbs,listener=...--获取参数\ntask(function(bs)\n  function 识别函数(bs)\n    --虚拟构成识别结果\n    return {\n      length=2,\n      {\n        t=\"例子代码是帮助理解代码的伪代码\",\n        x=0,\n        y=300,\n        w=1000,\n        h=100,\n        s=50\n      },\n      {\n        t=\"不能直接运行\",\n        x=0,\n        y=600,\n        w=800,\n        h=100,\n        s=50\n      }\n    }\n  end\n\n  local ret=识别函数(bs)\n  local rets=OcrResult.OcrItem[ret.length]--构建返回值数组\n  for n=1,ret.length do\n    --注意java与lua数组开始索引不同\n    rets[n-1]=OcrResult.OcrItem(\n    ret[n].t,--文字内容\n    ret[n].x,--文字x坐标，距离屏幕左侧距离\n    ret[n].y,--文字y坐标，距离屏幕顶部距离\n    ret[n].w,--文字区域宽度\n    ret[n].h,--文字区域高度\n    ret[n].s--文字高度\n    )\n  end\n  return OcrResult(rets)--返回结果到主线程\nend,\nbs,--将图片的byte数组传入线程\nfunction(rets)\n  listener.onDone(rets)--在回调函数调用onDone通知读屏识别完成\nend)]]></string>
+    <string name="accessibility_service_description2">解说辅助服务和主服务功能完全相同，主要用于部分会检测读屏服务名的场景，两个服务不需要同时开启。</string>
+    <string name="resume_on_screen_on_title">Obnovit zpětnou vazbu, když je obrazovka zapnutá</string>
+    <string name="resume_on_notification_show_title">Obnovit zpětnou vazbu, když je stažena notifikační lišta</string>
+    <string name="resume_on_ringing_title">Obnovit zpětnou vazbu při příchozím hovoru</string>
+    <string name="helper_supper_cmd_title">Super hlasový příkaz</string>
+    <string name="back_break_auto_mode_title">Gesto návratu přeruší automatické procházení</string>
+    <string name="msg_export_all_file">Zálohujte všechna nastavení a soubory do souboru %s a odešlete jej do nového telefonu, abyste je všechna importovali. Soubor obsahuje všechna vaše data. Nesdílejte jej prosím s ostatními, abyste předešli narušení soukromí.</string>
+    <string name="msg_export_all_file_fail">Zálohování se nezdařilo, zkuste to znovu.</string>
+    <string name="import_all_title">Importovat kompletní zálohu odečítače Jieshuo?</string>
+    <string name="msg_import_all">Tato operace přepíše veškerá nastavení a všechny stažené zdroje</string>
+    <string name="app_service2">Jieshuo helper service</string>
+    <string name="app_no_supper_sound_package_title">V aplikacích, které nepoužívají super zvukové efekty, budou tyto dočasně zakázány.</string>
+    <string name="command_image_to_text2">Rozpoznání obrázku na celou obrazovku</string>
+    <string name="picture_description2">Popis obrázku na celou obrazovku</string>
+    <string name="use_split_line_title">Zobrazovat čísla řádků v rámci podrobné úpravy textu</string>
+    <string name="msg_use_single_tts_enabled">Bylo aktivováno použití jednoho hlasového výstupu</string>
+    <string name="msg_disable_use_single_tts">Chcete-li využívat vlastní %s, vypněte aktivaci použití jednoho hlasového výstupu</string>
+    <string name="command_auto_list_speak">Automaticky předčítat zprávy</string>
+    <string name="command_auto_list_speak_history">Automaticky předčítat historii zpráv</string>
+    <string name="msg_start_auto_list">zahájit automatické čtení %s zpráv</string>
+    <string name="msg_stop_auto_list">zastavit automatické čtení %s zpráv</string>
+    <string name="msg_username_typo">Formát uživatelského jména nebo hesla je nesprávný</string>
+    <string name="msg_username_error">Neplatné uživatelské jméno nebo heslo</string>
+    <string name="msg_invite_code_error">Kód pozvánky je neplatný</string>
+    <string name="msg_username_used">Toto uživatelské jméno již existuje</string>
+    <string name="msg_network_error">Chyba sítě: zkuste se připojit k jiné nebo akci opakujte později</string>
+    <string name="command_verification12">Ověření formou posuvníků</string>
+    <string name="command_recognition_edu">Test rozpoznání dokumentu</string>
+    <string name="use_input_method_speak_word_title">Ohlašovat vzorová slova vstupní metody</string>
+    <string name="trans_lua_engine_title">Použít vlastní překladový engine</string>
+    <string name="edit_trans_lua_title">Upravit vlastní překladový engine</string>
+    <string name="trans_lua_template"><![CDATA[" require \"import\" \n import \"java.util.Locale\"\n local form,to,text,ltr=...\n local url=string.format(\"https://translate.google.com/m?sl=%s&tl=%s&hl=%s&q=%s\",from,to,Locale.getDefault().getCountry(),text)\n Http.get(url,function(code,text)\n   ltr.onTransResult(text:match(\"<[^<>]*\\\"result%-container\\\">([^<>]*)</div>\"))\n   end)"]]></string>
+    <string name="match_all">Kompletní shoda</string>
+    <string name="match_start">Odpovídá začátku</string>
+    <string name="match_end">Odpovídá konci</string>
+    <string name="match_contains">Obsahuje shody</string>
+    <string name="today">Dnes</string>
+    <string name="yesterday">Včera</string>
+    <string name="before_yesterday">Předevčírem</string>
+    <string name="command_accept_call">Přijmout hovor</string>
+    <string name="command_end_call">Ukončit hovor</string>
+    <string name="command_pause_a11y_volume">Pozastavit hlasitost usnadnění</string>
+    <string name="msg_supper_cmd_only_voice_helper">Super hlasový příkaz lze vyvolat pouze v menu hlasového asistenta</string>
+    <string name="msg_no_a11y_volume">Hlasitost usnadnění není použita</string>
+    <string name="msg_a11y_volume_disabled">Hlasitost usnadnění je zakázána</string>
+    <string name="msg_a11y_volume_enabled">Hlasitost usnadnění je povolena</string>
+    <string name="content_blacklist_description">Obsah přidaný na černou listinu nebude při procházení načten,
+ Používá se k odfiltrování neužitečných nebo nesprávných informací o přístupnosti,
+ Klíčová slova lze přidat s hvězdičkami pro implementaci jednoduchých vzorů shody.
+ Klíčové slovo* označuje filtrování začínající klíčovým slovem
+ *Filtr klíčových slov končící klíčovým slovem
+ *Klíčová slova* Filtrujte všechna, která obsahují klíčová slova
+ Žádná hvězdička není úplná shoda</string>
+    <string name="auto_speak_blacklist_description">Obsah přidaný na černou listinu nebude přečten nahlas.
+ Používá se k filtrování obsahu, který nechcete číst nahlas v automatickém čtení.
+ Klíčová slova lze přidat s hvězdičkami pro implementaci jednoduchých vzorů shody.
+ Klíčové slovo* označuje filtrování začínající klíčovým slovem
+ *Filtr klíčových slov končící klíčovým slovem
+ *Klíčová slova* Filtrujte všechna, která obsahují klíčová slova
+ Žádná hvězdička není úplná shoda</string>
+    <string name="notification_black_list_description">Oznámení přidaná na černou listinu nebudou přečtena nahlas, ale budou zaznamenána v oznamovací liště. Klíčové slovo podporuje shodu regulárních výrazů Pokud klíčové slovo obsahuje pouze hvězdičku, nebudou všechna upozornění programu přečtena nahlas.</string>
+    <string name="notification_white_list_description">Oznámení přidaná na seznam povolených budou vždy přečtena, i když je čtení oznámení vypnuto. Klíčová slova podporují shodu regulárních výrazů. Pokud klíčové slovo obsahuje pouze hvězdičku, budou přečtena všechna oznámení programu.</string>
+    <string name="nodeinfo_long_clickable">可长按</string>
+    <string name="nodeinfo_not_long_click">不可长按</string>
+    <string name="nodeinfo_editable">可编辑</string>
+    <string name="nodeinfo_not_edit">不可编辑</string>
 
 
 </resources>

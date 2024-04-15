@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--
+        Source: Activity title.
+        Description: Title for the Settings activity.
+    -->
+  <string name="tts_settings_label">ий спийк ярьдаг программын тохиргоо</string>
+  <!--
+        Source: Preference title.
+        Description: Title for the preference that controls default voice pitch.
+    -->
+  <string name="setting_default_pitch">Авиа</string>
+  <!--
+        Source: Preference title.
+        Description: Title for the preference that controls default speech rate.
+    -->
+  <string name="setting_default_rate">Ярианы хурд</string>
+  <!--
+        Source: Dialog text.
+        Description: Status message shown when installing voice data.
+    -->
+  <string name="installing_voice_data">Дууны өгөгдлийг суулгаж байна…</string>
+  <!--
+        Source: Dialog message.
+        Description: Alert dialog prompting the user to set eSpeak as their default TTS engine.
+    -->
+  <string name="set_default_message">ий спийкийг таны өгөгдмөл ярьдаг программаар тохируулаагүй байна.</string>
+  <!--
+        Source: Dialog message.
+        Description: Alert dialog telling the user that voice data installation failed.
+    -->
+  <string name="voice_data_failed_message">ий спийк дуут өгөгдлийг суулгаж чадсангүй. Ээсдий картаа шалгана уу.</string>
+  <!--
+        Source: Dialog message.
+        Description: Alert dialog telling the user that an unknown error has occurred.
+    -->
+  <string name="error_message">Уучлаарай, ий спийк эхэлсэнгүй.</string>
+  <!--
+        Source: Label text.
+        Description: Label informing the user of the current text-to-speech language.
+    -->
+  <string name="current_tts_locale">Өгөгдмөл дуу хоолой</string>
+  <!--
+        Source: Label text.
+        Description: Label informing the user of how many voices are installed.
+    -->
+  <string name="available_voices">Суулгасан дуу хоолой</string>
+  <!--
+        Source: Button label.
+        Description: Button for launching eSpeak-specific settings.
+    -->
+  <string name="engine_settings">ий спийк ярьдаг программын тохиргоо</string>
+  <!--
+        Source: Label text.
+        Description: Label informing the user that eSpeak is loading resources.
+    -->
+  <string name="loading">Уншиж байна, түр хүлээнэ үү…</string>
+  <!--
+        Source: Spoken aloud.
+        Description: Sample text spoken aloud when the user is trying out a language.
+    -->
+  <string name="sample_text">Энэ бол %s хэлний бичвэрийн жишээ</string>
+  <string name="status">Төлөв</string>
+  <string name="tts_version">ий спийк хувилбар</string>
+  <string name="speak">Хэлэх</string>
+  <string name="ssml">SSML загварыг ачаалах</string>
+  <string name="synthesis_demo">Ярихдаа бичвэр оруулах:</string>
+  <string name="espeak_volume">Дуу</string>
+  <string name="formatter_wpm">%s WPM</string>
+  <string name="formatter_percentage">%s%%</string>
+  <string name="resetToDefault">Өгөгдмөл болгож тохируулах</string>
+  <string name="espeak_pitch_range">Авианы хэлбэлзэл</string>
+  <string name="espeak_variant">Дууны хувилбар</string>
+  <string name="espeak_speak_punctuation">Цэг таслал хэлэх</string>
+  <string name="punctuation_all">Бүгд</string>
+  <string name="punctuation_custom">Тохируулга</string>
+  <string name="punctuation_custom_fmt">Тохируулга: %s</string>
+  <string name="punctuation_none">Үгүй</string>
+  <string name="punctuation_characters">Цэг таслал тэмдэгтүүд</string>
+  <string name="category">Ангилал</string>
+  <string name="variant">Төрөл</string>
+  <string name="variant_male">Эрэгтэй</string>
+  <string name="variant_female">Эмэгтэй</string>
+  <string name="variant_default">Өгөгдмөл</string>
+  <string name="variant_n">Төрөл %d</string>
+  <string name="variant_young">Залуу</string>
+  <string name="variant_old">Нас тогтсон</string>
+  <string name="variant_croak">Чанга</string>
+  <string name="variant_whisper">Шивнэсэн</string>
+  <string name="import_voice_title">Ий спийк толь бичгийг импортлох</string>
+  <string name="import_voice_description">Ээс дий картаас ий спийк дуут толь бичгийн файлыг импортлох.</string>
+</resources>

@@ -149,7 +149,7 @@
     <string name="menu_manager_title">Main menu manager</string>
     <string name="menu_up_tap_title">Use Lift to Activate with Main and Functions menu items</string>
     <string name="navigation_up_tap_title">Use lift to activate software navigation keys</string>
-    <string name="only_notification_title">Allow resuming the screenreader exclusively from the notification bar</string>
+    <string name="only_notification_title">Allow resuming browse by touch or speech feedback and browse by touch exclusively from the notification bar or by simultaneous pressing of the volume keys</string>
     <string name="send_log_title">Send the debug logs to the developer</string>
     <string name="long_click_title">Holding duration </string>
     <string name="long_click_summary">Determines the duration for which the finger must remain on an element to be identified as a long press, when either the single tap or Lift to Activate option is enabled.</string>
@@ -268,7 +268,7 @@
     <string name="use_node_info_summary">Controls whether the relationship data between elements is read in the node browsing mode. The information read consists of number of child elements the current node has, plus some additional, node-specific information.</string>
     <string name="use_list_item_index_summary">Controls whether the index of the currently focused list item is read while navigating the list</string>
     <string name="use_scroll_list_index_summary">Controls whether the visual display range of the list is read automatically when scrolling commands are used</string>
-    <string name="use_view_name_index_summary">Specifies if the element type of the item under the focus is announced </string>
+    <string name="use_view_name_summary">Specifies if the element type of the item under the focus is announced </string>
     <string name="unknown_lable_summary">Controls whether the element\'s ID is read if it has no label</string>
     <string name="use_progress_summary">Controls whether changes to the currently focused progress bar are read automatically</string>
     <string name="use_content_changed_summary">Controls whether changes in the currently focused item are read automatically</string>
@@ -400,10 +400,10 @@
     <string name="add">Add</string>
     <string name="re_def_msg">Clicking \"OK\" will restore the default settings</string>
     <string name="use_double_fling_summary">Controls whether the multi-part gestures are used. To execute a multi-part gesture, you first execute the main gesture and after its done you execute the second gesture</string>
-    <string name="voice_helper_use_gestures_title">Allow to execute gestures from the currently selected gesture scheme with the voice assistant</string>
-    <string name="voice_helper_use_app_gestures_title">Allow to execute gestures from the currently active per-application gesture scheme with the voice assistant</string>
-    <string name="voice_helper_use_cmd_title">Allow to use voice commands with the voice assistant</string>
-    <string name="voice_helper_use_supper_cmd_title">Allow to use custom voice commands with the voice assistant</string>
+    <string name="voice_helper_use_gestures_title">Allow the execution of custom functions from global gesture schemes with the voice assistant</string>
+    <string name="voice_helper_use_app_gestures_title">Allow the execution of custom functions from per-app gesture schemes with the voice assistant</string>
+    <string name="voice_helper_use_cmd_title">Allow to use custom voice commands with the voice assistant</string>
+    <string name="voice_helper_use_supper_cmd_title">Allow to use super voice commands with the voice assistant</string>
     <string name="voice_helper_use_plugin_title">Allow to execute extensions with the voice assistant</string>
     <string name="voice_helper_use_tool_title">Allow to execute tools with the voice assistant</string>
     <string name="message_has_vip">Only available for users of the full version</string>
@@ -414,7 +414,7 @@
     <string name="more_setting">More</string>
     <string name="kayword">Enter keyword</string>
     <string name="notification_black_list_summary">Notifications containing black-listed content will never be read, even if notification reading is enabled</string>
-    <string name="notification_while_list_summary">Notifications containing white-listed content will always be read, even when notification reading is disabled</string>
+    <string name="notification_white_list_summary">Notifications containing white-listed content will always be read, even when notification reading is disabled</string>
     <string name="system_tts_volume_title">System TTS volume</string>
     <string name="notification_select_title">要朗读的通知</string>
 
@@ -883,7 +883,7 @@
     <string name="camera_top_move_far">raise screen</string>
     <string name="camera_top_move_near">raise phone\'s back</string>
 
-    <string name="use_text_format_read_word_title">Read letters with examples (Papa, Bravo...) </string>
+    <string name="use_text_format_read_word_title">Speak example words for letters in character navigation</string>
     <string name="restore">Restore</string>
     <string name="backup">Backup</string>
     <string name="directory_camera">Camera</string>
@@ -1081,12 +1081,12 @@
     <string name="sound_window_state">Window change</string>
     <string name="sound_dialog">Dialog box</string>
     <string name="sound_gesture_end">Edge gesture completion</string>
-    <string name="recognition_start">Speech recognition started</string>
+    <string name="recognition_start">Recognition started</string>
     <string name="sound_gesture_start">Edge gesture trigger</string>
-    <string name="recognition_end">Speech recognition stopped</string>
-    <string name="recognition_success">Speech recognition successful</string>
-    <string name="recognition_error">Speech recognition error</string>
-    <string name="recognition_cancel">Speech recognition cancelled</string>
+    <string name="recognition_end">Recognition stopped</string>
+    <string name="recognition_success">Recognition successful</string>
+    <string name="recognition_error">Recognition error</string>
+    <string name="recognition_cancel">Recognition cancelled</string>
     <string name="command_quick_settings">Quick settings</string>
     <string name="command_take_screenshot">Take a screenshot</string>
     <string name="command_off_screen2">Screen lock</string>
@@ -1714,7 +1714,7 @@ Swipe down then up or up then down to switch navigation type in all views, and s
     <string name="timer_action_def_summary">This setting is only valid when there are preset timers created.</string>
     <string name="timer_item_formater">%s. %d hours, %d minutes. Label: %s</string>
     <string name="use_ocr_auto_speak_title">Automatically read the recognized text when using the Virtual Screen or the current screen recognition.</string>
-    <string name="use_new_text_move_type_title">Use the enhanced selection mode</string>
+    <string name="use_new_text_move_type_title">Use the new text navigation and selection</string>
     <string name="use_move_text_gesture_title">Use shortcut gestures to move the cursor in text boxes</string>
     <string name="use_answer_phone_calls_incall_gesture_title">Use shortcut gestures to answer and end calls on the incoming call screen</string>
     <string name="use_scroll_seek_gesture_title">Use shortcut gestures to adjust sliders</string>
@@ -1723,11 +1723,112 @@ Swipe down then up or up then down to switch navigation type in all views, and s
     <string name="use_click_button_gesture_title">Use shortcut gestures to activate matching onscreen controls</string>
     <string name="export_all_file">Export all</string>
     <string name="share_all">Share all</string>
-    <string name="command_image_to_text">Image recognition</string>
-    <string name="incall_tts_setting_title">来电报号语音设置</string>
-    <string name="reader_tts_setting_title">阅读模式语音设置</string>
-    <string name="char_mode_tts_setting_title">逐字浏览语音设置</string>
-    <string name="auto_read_tts_setting_title">自动浏览语音设置</string>
-    <string name="notification_tts_setting_title">通知语音设置</string>
+    <string name="command_image_to_text">Describe currently focused item</string>
+    <string name="incall_tts_setting_title">Caller info TTS settings</string>
+    <string name="reader_tts_setting_title">Reading mode TTS settings</string>
+    <string name="char_mode_tts_setting_title">Character by Character Browsing mode TTS  settings</string>
+    <string name="auto_read_tts_setting_title">Automatic Browsing TTS settings</string>
+    <string name="notification_tts_setting_title">Notification reading TTS settings </string>
+    <string name="use_up_tap_prompt_title">Lift to activate timeout prompt</string>
+    <string name="double_fling_time_title">Multi-part gestures recognition duration</string>
+    <string name="jieshuo_beta_title">Beta versions</string>
+    <string name="picture_description">Detailed description of focused item</string>
+    <string name="auto_list_tts_setting_title">Chat messages auto-reading TTS settings</string>
+    <string name="more_tts_setting_title">Scenario-adaptive TTS configurations</string>
+    <string name="ocr_lang_zh">Mixed Chinese and English</string>
+    <string name="ocr_lang_zh_rare">Traditional and Simplified Chinese</string>
+    <string name="ocr_lang_auto">Automatic</string>
+    <string name="ocr_lang_mix">Mixed languages</string>
+    <string name="ocr_lang_jap">Japanese</string>
+    <string name="ocr_lang_kor">Korean</string>
+    <string name="ocr_lang_spa">Spanish</string>
+    <string name="ocr_lang_fre">French</string>
+    <string name="ocr_lang_ger">German</string>
+    <string name="ocr_lang_por">Portuguese</string>
+    <string name="ocr_lang_vie">Vietnamese</string>
+    <string name="ocr_lang_may">Malay</string>
+    <string name="ocr_lang_rus">Russian</string>
+    <string name="ocr_lang_ita">Italian</string>
+    <string name="ocr_lang_hol">Dutch</string>
+    <string name="ocr_lang_swe">Swedish</string>
+    <string name="ocr_lang_fin">Finnish</string>
+    <string name="ocr_lang_dan">Danish</string>
+    <string name="ocr_lang_nor">Norwegian</string>
+    <string name="ocr_lang_hun">Hungarian</string>
+    <string name="ocr_lang_tha">Thai</string>
+    <string name="ocr_lang_hi">Hindi</string>
+    <string name="ocr_lang_ara">Arabic</string>
+    <string name="use_virtual_screen_dim_background_title">Use a dark background for the Virtual Screen</string>
+    <string name="edit_ocr_lua_title">Edit custom OCR extensions</string>
+    <string name="ocr_lua_template"><![CDATA[require \"import\"\nimport \"com.nirenr.talkman.ai.*\"\n--例子代码是帮助理解代码的伪代码，不能直接运行\nbs,listener=...--获取参数\ntask(function(bs)\n  function 识别函数(bs)\n    --虚拟构成识别结果\n    return {\n      length=2,\n      {\n        t=\"例子代码是帮助理解代码的伪代码\",\n        x=0,\n        y=300,\n        w=1000,\n        h=100,\n        s=50\n      },\n      {\n        t=\"不能直接运行\",\n        x=0,\n        y=600,\n        w=800,\n        h=100,\n        s=50\n      }\n    }\n  end\n\n  local ret=识别函数(bs)\n  local rets=OcrResult.OcrItem[ret.length]--构建返回值数组\n  for n=1,ret.length do\n    --注意java与lua数组开始索引不同\n    rets[n-1]=OcrResult.OcrItem(\n    ret[n].t,--文字内容\n    ret[n].x,--文字x坐标，距离屏幕左侧距离\n    ret[n].y,--文字y坐标，距离屏幕顶部距离\n    ret[n].w,--文字区域宽度\n    ret[n].h,--文字区域高度\n    ret[n].s--文字高度\n    )\n  end\n  return OcrResult(rets)--返回结果到主线程\nend,\nbs,--将图片的byte数组传入线程\nfunction(rets)\n  listener.onDone(rets)--在回调函数调用onDone通知读屏识别完成\nend)]]></string>
+    <string name="accessibility_service_description2">解说辅助服务和主服务功能完全相同，主要用于部分会检测读屏服务名的场景，两个服务不需要同时开启。</string>
+    <string name="resume_on_screen_on_title">Resume browse by touch or speech feedback and browse by touch when the screen is turned on</string>
+    <string name="resume_on_notification_show_title">Resume browse by touch or speech feedback and browse by touch when opening the notification bar with a 1-finger down swipe from the top of the screen</string>
+    <string name="resume_on_ringing_title">Resume browse by touch or speech feedback and browse by touch when a call is received</string>
+    <string name="helper_supper_cmd_title">Super voice commands</string>
+    <string name="back_break_auto_mode_title">Use the back gesture (1-finger right then left swipe) to interrupt the automatic browsing function</string>
+    <string name="msg_export_all_file">This will export all Jieshuo settings and files to %s to be imported on a new phone. Please avoid sharing the exported archive with others because it contains your own data, including your login info.</string>
+    <string name="msg_export_all_file_fail">Failed to export. Please try again</string>
+    <string name="import_all_title">Import a complete backup?</string>
+    <string name="msg_import_all">This operation will overwrite your Jieshuo settings and resources</string>
+    <string name="app_service2">Jieshuo helper service</string>
+    <string name="app_no_supper_sound_package_title">Applications where Additional Sound Effects are not used
+(Additional Sound Effects will be temporarily disabled in the selected applications)</string>
+    <string name="command_image_to_text2">Describe entire screen</string>
+    <string name="picture_description2">Detailed description of entire screen</string>
+    <string name="use_split_line_title">Report line and paragraph numbers in Granular Editing Mode</string>
+    <string name="msg_use_single_tts_enabled">Single TTS engine option is enabled</string>
+    <string name="msg_disable_use_single_tts">You must disable the "Use a single TTS engine" option to use a %s. Do you want to proceed?</string>
+    <string name="command_auto_list_speak">Automatically read chat messages</string>
+    <string name="command_auto_list_speak_history">Automatic chat messages history</string>
+    <string name="msg_start_auto_list">Automatic message reading has started for %s </string>
+    <string name="msg_stop_auto_list">Automatic message reading has been stopped for %s </string>
+    <string name="msg_username_typo">Username or password format is incorrect</string>
+    <string name="msg_username_error">Wrong username or password</string>
+    <string name="msg_invite_code_error">The invitation code is incorrect</string>
+    <string name="msg_username_used">This username is already in use</string>
+    <string name="msg_network_error">Connection error</string>
+    <string name="command_verification12">Slider verification</string>
+    <string name="command_recognition_edu">Exam recognition</string>
+    <string name="use_input_method_speak_word_title">Speak example words for letters while typing</string>
+    <string name="trans_lua_engine_title">Use a custom translation engine</string>
+    <string name="edit_trans_lua_title">Edit custom translation engine</string>
+    <string name="trans_lua_template"><![CDATA[" require \"import\" \n import \"java.util.Locale\"\n local form,to,text,ltr=...\n local url=string.format(\"https://translate.google.com/m?sl=%s&tl=%s&hl=%s&q=%s\",from,to,Locale.getDefault().getCountry(),text)\n Http.get(url,function(code,text)\n   ltr.onTransResult(text:match(\"<[^<>]*\\\"result%-container\\\">([^<>]*)</div>\"))\n   end)"]]></string>
+    <string name="match_all">Exact text match</string>
+    <string name="match_start">Beginning of text match</string>
+    <string name="match_end">End of text match</string>
+    <string name="match_contains">Unrestricted match</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="before_yesterday">The day before yesterday</string>
+    <string name="command_accept_call">Answer call</string>
+    <string name="command_end_call">End call</string>
+    <string name="command_pause_a11y_volume">Suspend the use of accessibility volume</string>
+    <string name="msg_supper_cmd_only_voice_helper">超级语音指令只能在语音助手中调用</string>
+    <string name="msg_no_a11y_volume">You are not using accessibility volume</string>
+    <string name="msg_a11y_volume_disabled">Using media volume</string>
+    <string name="msg_a11y_volume_enabled">Using accessibility volume</string>
+    <string name="content_blacklist_description">The content added to the blacklist will not be read during browsing. This might help in filtering out unwanted content or buttons that are not labeled properly. 
+Keywords can be added with asterisks to implement simple matching patterns:
+• Keyword* filters content starting with the keyword.
+• *Keyword filters content ending with the keyword.
+• *keyword* filters content containing the keyword.
+• No asterisks indicate exact matching.</string>
+    <string name="auto_speak_blacklist_description">The content added to the blacklist will not be automatically spoken. This is used to filter out content that you do not want to be read during automatic message reading.
+Keywords can be added with asterisks to implement simple matching patterns:
+• Keyword* filters content starting with the keyword.
+• *Keyword filters content ending with the keyword.
+• *Keyword* filters content containing the keyword.
+• No asterisks indicate exact matching.</string>
+    <string name="notification_black_list_description">Notifications containing blacklisted text will not be read automatically, but they will still be recorded in the notification box. 
+Regular expressions are supported. 
+If only one asterisk is added, all notifications from the application will not be announced automatically.</string>
+    <string name="notification_white_list_description">Notifications containing whitelisted text will always be read automatically even if notification reading is disabled. 
+Regular expressions are supported.
+If only one asterisk is added all notifications from the application will be read automatically.</string>
+    <string name="nodeinfo_long_clickable">可长按</string>
+    <string name="nodeinfo_not_long_click">不可长按</string>
+    <string name="nodeinfo_editable">可编辑</string>
+    <string name="nodeinfo_not_edit">不可编辑</string>
 
 </resources>

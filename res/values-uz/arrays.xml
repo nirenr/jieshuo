@@ -1,0 +1,909 @@
+<resources>
+
+    <string-array name="right_menu_items">
+        <item>@string/command_click</item>
+        <item>@string/command_long_click</item>
+        <item>@string/command_start</item>
+        <item>@string/command_end</item>
+        <item>@string/command_copy</item>
+        <item>@string/command_append_copy</item>
+        <item>@string/command_paste</item>
+        <item>@string/clipboard_menu_title</item>
+        <item>@string/favorites_menu_title</item>
+        <item>@string/split_edit_title</item>
+        <item>@string/command_long_copy</item>
+        <item>@string/command_trans</item>
+        <item>@string/command_verification2</item>
+        <item>@string/command_timer_mode</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="left_menu_items">
+        <item>@string/command_auto_next</item>
+        <item>@string/command_read_mode</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/split_menu_title</item>
+        <item>@string/command_verbatim_speak2</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/command_all_select</item>
+        <item>@string/command_ocr_text</item>
+        <item>@string/plugin_title</item>
+        <item>@string/command_notification_box</item>
+        <item>@string/command_to_notifications</item>
+        <item>@string/command_long_edit</item>
+        <item>@string/command_gestures_edit</item>
+        <item>@string/command_virtual_screen</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="action_menu_items">
+        <item>@string/command_clean</item>
+        <item>@string/command_select</item>
+        <item>@string/command_copy</item>
+        <item>@string/command_append_copy</item>
+        <item>@string/command_paste</item>
+        <item>@string/clipboard_menu_title</item>
+        <item>@string/favorites_menu_title</item>
+        <item>@string/split_edit_title</item>
+        <item>@string/command_long_copy</item>
+        <item>Open keyboard</item>
+
+    </string-array>
+    <string-array name="menu_def_items">
+        <item>@string/split_menu_title</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/command_voice_helper</item>
+        <item>@string/plugin_title</item>
+        <item>@string/main_setting</item>
+        <item>@string/command_disable_feedback</item>
+    </string-array>
+    <string-array name="menu_items">
+        <item>@string/action_menu_title</item>
+        <item>@string/advanced_menu_title</item>
+        <item>@string/command_auto_next</item>
+        <item>@string/command_read_mode</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/command_node_mode</item>
+        <item>@string/split_menu_title</item>
+        <item>@string/command_verbatim_speak2</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/all_text_title</item>
+        <item>@string/command_all_select</item>
+        <item>@string/command_voice_helper</item>
+        <item>@string/command_ocr_text</item>
+        <item>@string/camera_title</item>
+        <item>@string/plugin_title</item>
+        <item>@string/tool_title</item>
+        <item>@string/main_setting</item>
+        <item>@string/command_disable_touch</item>
+        <item>@string/command_disable_feedback</item>
+        <item>@string/command_notification_box</item>
+        <item>@string/command_to_notifications</item>
+        <item>@string/command_long_edit</item>
+        <item>@string/command_gestures_edit</item>
+        <item>@string/command_enable_dim_screen</item>
+        <item>@string/command_virtual_screen</item>
+        <item>@string/command_quick_mode</item>
+        <item>@string/command_supper_mode</item>
+        <item>@string/command_virtual_navigation</item>
+    </string-array>
+    <string-array name="left_button">
+        <item>Qo`ng`iroqni tutib turish</item>
+        <item>Qo`ng`iroqni bekor qilish</item>
+        <item>*Qo`ng`iroqni bekor qilish uchun suring*</item>
+        <item>Qo`ng`iroqni yakunlash</item>
+        <item>Qo`ng`iroqni ushlab turish</item>
+        <item>Qo`ng`iroqni yakunlash</item>
+        <item>QQ qo`ng`irog`ini yakunlash</item>
+        <item>QQ qo`ng`irog`ini yakunlash</item>
+        <item>Oldingi media</item>
+        <item>Oldingi trek</item>
+        <item>Ortga</item>
+    </string-array>
+    <string-array name="right_button">
+        <item>Javob bermoq</item>
+        <item>*Javob berish uchun suring*</item>
+        <item>Jarangdor ovoz rejimi</item>
+        <item>Karnay rejimi</item>
+        <item>Keyingi media</item>
+        <item>Keyingi trek</item>
+    </string-array>
+
+    <string-array name="voice_recognizer_values">
+        <item>3</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="voice_recognizer_entries">
+        <item>System engine</item>
+        <item>Engine 1</item>
+        <item>Engine 2</item>
+        <item>Engine 3</item>
+    </string-array>
+    <string-array name="tts_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+        <item>64</item>
+        <item>65</item>
+        <item>66</item>
+        <item>67</item>
+        <item>68</item>
+        <item>69</item>
+        <item>70</item>
+        <item>71</item>
+        <item>72</item>
+        <item>73</item>
+        <item>74</item>
+        <item>75</item>
+        <item>76</item>
+        <item>77</item>
+        <item>78</item>
+        <item>79</item>
+        <item>80</item>
+        <item>81</item>
+        <item>82</item>
+        <item>83</item>
+        <item>84</item>
+        <item>85</item>
+        <item>86</item>
+        <item>87</item>
+        <item>88</item>
+        <item>89</item>
+        <item>90</item>
+        <item>91</item>
+        <item>92</item>
+        <item>93</item>
+        <item>94</item>
+        <item>95</item>
+        <item>96</item>
+        <item>97</item>
+        <item>98</item>
+        <item>99</item>
+        <item>100</item>
+    </string-array>
+    <!--string-array name="tts_speaker_title">
+        <item>Ayol ovozi</item>
+        <item>Erkak ovozi</item>
+        <item>Omadli</item>
+        <item>Du Ya Ya</item>
+    </string-array>
+    <string-array name="tts_speaker">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array-->
+    <string-array name="vibrate_intensity_entries">
+        <item>Yengil</item>
+        <item>O\'rta</item>
+        <item>Kuchli</item>
+        <item>Eng kuchli</item>
+    </string-array>
+    <string-array name="vibrate_intensity_values">
+        <item>12</item>
+        <item>32</item>
+        <item>48</item>
+        <item>64</item>
+    </string-array>
+    <string-array name="long_click_entries">
+        <item>Qisqa</item>
+        <item>O`rta</item>
+        <item>Uzun</item>
+    </string-array>
+    <string-array name="long_click_values">
+        <item>500</item>
+        <item>750</item>
+        <item>1000</item>
+    </string-array>
+    <string-array name="edge_gesture_width_entries">
+        <item>Kichik</item>
+        <item>O\'rta</item>
+        <item>Katta</item>
+        <item>Maksimal</item>
+    </string-array>
+    <string-array name="edge_gesture_width_values">
+        <item>8</item>
+        <item>12</item>
+        <item>16</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="tts_speaker_entries">
+        <item>Xiao Yan</item>
+        <item>Xiao Feng</item>
+    </string-array>
+    <string-array name="tts_speaker_values">
+        <item>xiaoyan</item>
+        <item>xiaofeng</item>
+    </string-array>
+    <string-array name="advanced_menu_items">
+        <item>Joriy fokusni tarjima qiling va tarjimadan nusxa oling</item>
+        <item>Manzarani tanish</item>
+        <item>Joriy fokus matnini tanib, keyin tarjima qiling</item>
+        <item>Yuzni tanish</item>
+        <item>CAPTCHA tanib olish</item>
+        <item>Tanib olish natijalarini ko\'rish</item>
+        <item>Rasmni aniqlash</item>
+        <item>Slayder boshqotirmasi bilan tekshirish</item>
+        <item>imtihonni aniqlash</item>
+    </string-array>
+    <string-array name="lang_entries">
+        <item>Automaik</item>
+        <item>Korea</item>
+        <item>Klassik Xitoy</item>
+        <item>Milliy Xitoy</item>
+        <item>German</item>
+        <item>Tailand</item>
+        <item>Grek</item>
+        <item>Italyan</item>
+        <item>Sloven</item>
+        <item>Yapon</item>
+        <item>Ingliz</item>
+        <item>Arab</item>
+        <item>Xitoy kanton</item>
+        <item>Bolgar</item>
+        <item>Eston</item>
+        <item>Roman</item>
+        <item>Xitoy</item>
+        <item>Chexiya</item>
+        <item>German</item>
+        <item>Fransuz</item>
+        <item>Finniland</item>
+        <item>Portugal</item>
+        <item>Danya</item>
+        <item>Rus</item>
+        <item>Bolgar</item>
+        <item>Ispan</item>
+        <item>Shved</item>
+        <item>Polsha</item>
+        <item>Vetnam</item>
+
+        <item>Irland</item>
+        <item>Orkish</item>
+        <item>Alban</item>
+        <item>Akan</item>
+        <item>Argon</item>
+        <item>Amhar</item>
+        <item>Assam</item>
+        <item>Aymara</item>
+        <item>Ozarbayjon</item>
+        <item>asturiya</item>
+        <item>Ossetin</item>
+        <item>Ojibva</item>
+        <item>Oryan</item>
+        <item>Oromiy</item>
+        <item>Fors</item>
+        <item>Breton</item>
+        <item>Bashqird</item>
+        <item>Bask</item>
+        <item>Braziliyan portugal</item>
+        <item>Belarus</item>
+        <item>Berber</item>
+        <item>Pampanga</item>
+        <item>Shimoliy Sami</item>
+        <item>Shimoliy Soto</item>
+        <item>Bemba</item>
+        <item>Birim</item>
+        <item>Bislama</item>
+        <item>Baluj</item>
+        <item>Island</item>
+        <item>Bosniya</item>
+        <item>Bxojpuri</item>
+        <item>Chuvash</item>
+        <item>Konga</item>
+        <item>Tatar</item>
+        <item>Shan</item>
+        <item>Detun</item>
+        <item>Dhivehi</item>
+        <item>Mahalliy nemis</item>
+        <item>Filippin</item>
+        <item>Sanskrit</item>
+        <item>Friuli</item>
+        <item>Fulani</item>
+        <item>Farer</item>
+        <item>Gel</item>
+        <item>Kongo</item>
+        <item>Togʻli sorb</item>
+        <item>Kxmer</item>
+        <item>Grenland</item>
+        <item>Gruzin</item>
+        <item>Gujarati</item>
+        <item>Qadimgi yunon</item>
+        <item>Qadimgi ingliz</item>
+        <item>Guarani</item>
+        <item>Hupa</item>
+        <item>Hakachin</item>
+        <item>Gaiti</item>
+        <item>Hausa</item>
+        <item>Chernogoriya</item>
+        <item>Qirg\'iz</item>
+        <item>Galisian</item>
+        <item>Kanada frantsuz</item>
+        <item>Katalan</item>
+        <item>Kabairian</item>
+        <item>Kanada</item>
+        <item>Kanuri</item>
+        <item>Kashubian</item>
+        <item>Kangvar</item>
+        <item>Korsa</item>
+        <item>Korsika</item>
+        <item>Krik</item>
+        <item>Qrim tatar</item>
+        <item>Klingon</item>
+        <item>Xorvat</item>
+        <item>Kechuan</item>
+        <item>Kashmir</item>
+        <item>Konkani</item>
+        <item>Kurd</item>
+        <item>Lotin</item>
+        <item>Laos</item>
+        <item>Latgalay</item>
+        <item>Latviya</item>
+        <item>Limburg</item>
+        <item>Lingala</item>
+        <item>Luganda</item>
+        <item>Lyuksemburg</item>
+        <item>Lushanian</item>
+        <item>Ruanda</item>
+        <item>Litva</item>
+        <item>Rimc</item>
+        <item>Roma</item>
+        <item>Logik</item>
+        <item>Malay</item>
+        <item>Birma</item>
+        <item>Marathi</item>
+        <item>Malagasiy</item>
+        <item>Malayalam</item>
+        <item>Makedon</item>
+        <item>Marshalles</item>
+        <item>Maitili</item>
+        <item>Manks</item>
+        <item>Mavrikiy kreoli</item>
+        <item>Maori</item>
+        <item>Bengal</item>
+        <item>Malta</item>
+        <item>Hmong</item>
+        <item>Norvegiya</item>
+        <item>Neapolitan</item>
+        <item>Janubiy Ndebele</item>
+        <item>Afrika Gollandiya</item>
+        <item>Janubiy Soto</item>
+        <item>Nepal</item>
+        <item>Punjobi</item>
+        <item>Papi Amento</item>
+        <item>Pushtu</item>
+        <item>Chicheva</item>
+        <item>Chivean</item>
+        <item>Cherokee</item>
+        <item>Sardin</item>
+        <item>Samoa</item>
+        <item>Serb-Xorvat</item>
+        <item>Serb</item>
+        <item>Sanghaincha</item>
+        <item>Singal</item>
+        <item>Asperanto</item>
+        <item>Mahalliy Norveg</item>
+        <item>Slovakiya</item>
+        <item>Kisvahili</item>
+        <item>Somali</item>
+        <item>Serb (kirill)</item>
+        <item>Turk</item>
+        <item>Tojik</item>
+        <item>Tamil</item>
+        <item>Tagalog</item>
+        <item>Tigrinya</item>
+        <item>Telugu</item>
+        <item>Tunis arab</item>
+        <item>Turkman</item>
+        <item>Ukraina</item>
+        <item>Valloon</item>
+        <item>Uels</item>
+        <item>Vinda</item>
+        <item>Volov</item>
+        <item>Urdu</item>
+        <item>Ibroniy</item>
+        <item>Sefar</item>
+        <item>Kilikiya</item>
+        <item>Xiligaynon</item>
+        <item>Quyi sorb</item>
+        <item>Gavayi</item>
+        <item>Yangi Norvegiya</item>
+        <item>G\'arbiy Afrika (yozuv tili)</item>
+        <item>Sindhi</item>
+        <item>Shona</item>
+        <item>Sebuano</item>
+        <item>Suriya</item>
+        <item>Sundan</item>
+        <item>Hind</item>
+        <item>Indoneziya</item>
+        <item>Yidish</item>
+        <item>Inte</item>
+        <item>Ozarbayjon</item>
+        <item>Ingushcha</item>
+        <item>Ibo </item>
+        <item>Ido </item>
+        <item>Yoruba</item>
+        <item>Armancha</item>
+        <item>Inuktitut</item>
+        <item>Eron</item>
+        <item>Zozoqi</item>
+        <item>O\'rta asr frantsuz</item>
+        <item>Zulu</item>
+        <item>Javan</item>
+
+        <item>奥利亚语</item>
+        <item>弗里西语</item>
+        <item>哈萨克语</item>
+        <item>海地克里奥尔语</item>
+        <item>马尔加什语</item>
+        <item>蒙古语</item>
+        <item>塞索托语</item>
+        <item>维吾尔语</item>
+        <item>乌兹别克语</item>
+
+    </string-array>
+    <string-array name="lang_values">
+        <item>auto</item>
+        <item>kor</item>
+        <item>wyw</item>
+        <item>cht</item>
+        <item>nl</item>
+        <item>th</item>
+        <item>el</item>
+        <item>it</item>
+        <item>slo</item>
+        <item>jp</item>
+        <item>en</item>
+        <item>ara</item>
+        <item>yue</item>
+        <item>hu</item>
+        <item>est</item>
+        <item>rom</item>
+        <item>zh</item>
+        <item>cs</item>
+        <item>de</item>
+        <item>fra</item>
+        <item>fin</item>
+        <item>pt</item>
+        <item>dan</item>
+        <item>ru</item>
+        <item>bul</item>
+        <item>spa</item>
+        <item>swe</item>
+        <item>pl</item>
+        <item>vie</item>
+
+        <item>gle</item>
+        <item>oci</item>
+        <item>alb</item>
+        <item>aka</item>
+        <item>arg</item>
+        <item>amh</item>
+        <item>asm</item>
+        <item>aym</item>
+        <item>aze</item>
+        <item>ast</item>
+        <item>oss</item>
+        <item>oji</item>
+        <item>ori</item>
+        <item>orm</item>
+        <item>per</item>
+        <item>bre</item>
+        <item>bak</item>
+        <item>baq</item>
+        <item>pot</item>
+        <item>bel</item>
+        <item>ber</item>
+        <item>pam</item>
+        <item>sme</item>
+        <item>ped</item>
+        <item>bem</item>
+        <item>bli</item>
+        <item>bis</item>
+        <item>bal</item>
+        <item>ice</item>
+        <item>bos</item>
+        <item>bho</item>
+        <item>chv</item>
+        <item>tso</item>
+        <item>tat</item>
+        <item>sha</item>
+        <item>tet</item>
+        <item>div</item>
+        <item>log</item>
+        <item>fil</item>
+        <item>san</item>
+        <item>fri</item>
+        <item>ful</item>
+        <item>fao</item>
+        <item>gla</item>
+        <item>kon</item>
+        <item>ups</item>
+        <item>hkm</item>
+        <item>kal</item>
+        <item>geo</item>
+        <item>guj</item>
+        <item>gra</item>
+        <item>eno</item>
+        <item>grn</item>
+        <item>hup</item>
+        <item>hak</item>
+        <item>ht</item>
+        <item>hau</item>
+        <item>mot</item>
+        <item>kir</item>
+        <item>glg</item>
+        <item>frn</item>
+        <item>cat</item>
+        <item>kab</item>
+        <item>kan</item>
+        <item>kau</item>
+        <item>kah</item>
+        <item>cor</item>
+        <item>xho</item>
+        <item>cos</item>
+        <item>cre</item>
+        <item>cri</item>
+        <item>kli</item>
+        <item>hrv</item>
+        <item>que</item>
+        <item>kas</item>
+        <item>kok</item>
+        <item>kur</item>
+        <item>lat</item>
+        <item>lao</item>
+        <item>lag</item>
+        <item>lav</item>
+        <item>lim</item>
+        <item>lin</item>
+        <item>lug</item>
+        <item>ltz</item>
+        <item>ruy</item>
+        <item>kin</item>
+        <item>lit</item>
+        <item>roh</item>
+        <item>ro</item>
+        <item>loj</item>
+        <item>may</item>
+        <item>bur</item>
+        <item>mar</item>
+        <item>mg</item>
+        <item>mal</item>
+        <item>mac</item>
+        <item>mah</item>
+        <item>mai</item>
+        <item>glv</item>
+        <item>mau</item>
+        <item>mao</item>
+        <item>ben</item>
+        <item>mlt</item>
+        <item>hmn</item>
+        <item>nor</item>
+        <item>nea</item>
+        <item>nbl</item>
+        <item>afr</item>
+        <item>sot</item>
+        <item>nep</item>
+        <item>pan</item>
+        <item>pap</item>
+        <item>pus</item>
+        <item>nya</item>
+        <item>twi</item>
+        <item>chr</item>
+        <item>srd</item>
+        <item>sm</item>
+        <item>sec</item>
+        <item>srp</item>
+        <item>sol</item>
+        <item>sin</item>
+        <item>epo</item>
+        <item>nob</item>
+        <item>sk</item>
+        <item>swa</item>
+        <item>som</item>
+        <item>src</item>
+        <item>tr</item>
+        <item>tgk</item>
+        <item>tam</item>
+        <item>tgl</item>
+        <item>tir</item>
+        <item>tel</item>
+        <item>tua</item>
+        <item>tuk</item>
+        <item>ukr</item>
+        <item>wln</item>
+        <item>wel</item>
+        <item>ven</item>
+        <item>wol</item>
+        <item>urd</item>
+        <item>heb</item>
+        <item>fry</item>
+        <item>sil</item>
+        <item>hil</item>
+        <item>los</item>
+        <item>haw</item>
+        <item>nno</item>
+        <item>nqo</item>
+        <item>snd</item>
+        <item>sna</item>
+        <item>ceb</item>
+        <item>syr</item>
+        <item>sun</item>
+        <item>hi</item>
+        <item>id</item>
+        <item>yid</item>
+        <item>ina</item>
+        <item>ach</item>
+        <item>ing</item>
+        <item>ibo</item>
+        <item>ido</item>
+        <item>yor</item>
+        <item>arm</item>
+        <item>iku</item>
+        <item>ir</item>
+        <item>zaz</item>
+        <item>frm</item>
+        <item>zul</item>
+        <item>jav</item>
+
+        <item>or</item>
+        <item>fy</item>
+        <item>kk</item>
+        <item>ht</item>
+        <item>mg</item>
+        <item>mn</item>
+        <item>st</item>
+        <item>ug</item>
+        <item>uz</item>
+
+    </string-array>
+
+    <string-array name="tts_engine_values">
+        <item>tizim</item>
+        <item>bir ovoz</item>
+        <item>baidu</item>
+    </string-array>
+    <string-array name="tts_engine_entries">
+        <item>Tizim sintezatori</item>
+        <item>bir ovozli</item>
+        <item>Baidu</item>
+    </string-array>
+    <string-array name="tts_engine_vip_values">
+        <item>Tizim</item>
+        <item>iflytek</item>
+        <item>bir ovozli</item>
+        <item>baidu</item>
+    </string-array>
+    <string-array name="tts_engine_vip_entries">
+        <item>Tizim sintezatori</item>
+        <item>IFlytek</item>
+        <item>Bir ovozli</item>
+        <item>Baidu Cloud TTS</item>
+    </string-array>
+    <string-array name="alarm_interval_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="alarm_interval_entries">
+        <item>Har 5 minutda</item>
+        <item>Har 10 minutda</item>
+        <item>Har 15 minutda</item>
+        <item>Har 30 minutda</item>
+        <item>Har 1 soatda</item>
+    </string-array>
+    <string-array name="timer_interval_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+    </string-array>
+    <string-array name="timer_interval_entries">
+        <item>1 Daqiqa</item>
+        <item>5 Daqiqa</item>
+        <item>10 Daqiqa</item>
+        <item>15 Daqiqa</item>
+    </string-array>
+    <string-array name="alarm_hour_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="recognizer_lang_entries">
+        <item>Xitoycha soddalashtirilgan</item>
+        <item>Xitoy kantoni</item>
+        <item>Ingliz</item>
+    </string-array>
+    <string-array name="recognizer_lang_values">
+        <item>zh_CN</item>
+        <item>zh_GD</item>
+        <item>en_GB</item>
+    </string-array>
+    <string-array name="tts_scale_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="tts_scale_entries">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="web_type_title">
+        <item>Standart</item>
+        <item>Sarlavhalar</item>
+        <item>Havolalar</item>
+        <item>Tugmalar</item>
+
+        <item>Cheklov belgisi</item>
+        <item>Matn maydonlari</item>
+        <item>Fokuslanuvchi elementlar</item>
+        <item>Boshqaruv</item>
+        <item>Rasmlar</item>
+        <item>Tekshiruv kataklari</item>
+        <item>Birlashtirilgan kataklar</item>
+        <item>Formalar</item>
+        <item>Roʻyxatlar</item>
+        <item>Roʻyxat elementlari</item>
+
+        <item>O\'tkazish rejimi</item>
+        <item>Ko\'rishlar</item>
+
+        <item>Belgilar</item>
+        <item>So\'zlar</item>
+        <item>Gaplar</item>
+        <item>Paragraflar</item>
+        <item>Sahifalar</item>
+        <item>Nusxalash</item>
+        <item>Media ovozi</item>
+        <item>sintezator tezligi</item>
+        <item>Tanib olish va tarjima</item>
+        <item>Ekran maydoni</item>
+
+
+    </string-array>
+
+    <string-array name="hot_key_help_items">
+        <item>CTRL+DPAD_UP: Oldingi element</item>
+        <item>CTRL+DPAD_DOWN: Keyingi element</item>
+        <item>CTRL+DPAD_LEFT: Chap yorliq</item>
+        <item>CTRL+DPAD_RIGHT: o‘ng yorliq </item>
+        <item>CTRL+PAGE_UP: Yuqoriga aylantirish</item>
+        <item>CTRL+PAGE_DOWN: pastga aylantirish</item>
+        <item>CTRL+H: Bosh ekran</item>
+        <item>CTRL+N: bildirishnoma paneli</item>
+        <item>CTRL+P: Oxirgi ilovalar</item>
+        <item>CTRL+SPACE:Bosish</item>
+        <item>CTRL+L: Uzoq tegib turish</item>
+        <item>CTRL+Q: Tezkor sozlamalar</item>
+
+        <item>ALT+M: Asosiy menyu</item>
+        <item>ALT+A: Funktsiya menyusi</item>
+        <item>ALT+P: kengaytmalar</item>
+        <item>ALT+T: Uskunalar</item>
+        <item>ALT+V: Ovozli yordamchi</item>
+        <item>ALT+S: Batafsil tahrirlash rejimi</item>
+        <item>ALT+L: Roʻyxatni koʻrish rejimi</item>
+
+    </string-array>
+    <string-array name="view_type_title">
+        <item>Standart</item>
+        <item>Yorliqlar</item>
+        <item>Tugmalar</item>
+        <item>Tahrirlash oynasi</item>
+
+        <item>Rasmlar</item>
+        <item>Tekshiruv oynasi</item>
+        <item>Taraqqiyot satrlari</item>
+        <item>Roʻyxatlar</item>
+        <item>Roʻyxat elementlari</item>
+        <item>Fokuslanuvchan elementlar</item>
+        <item>Bosish mumkin bo`lgan elementlar</item>
+        <item>Tugunlar</item>
+        <item>O\'tkazish rejimi</item>
+        <item>Vertikal yo`nalish</item>
+
+        <item>Belgilar</item>
+        <item>So\'zlar</item>
+        <item>Gaplar</item>
+        <item>Paragraflar</item>
+        <item>Sahifalar</item>
+        <item>Nusxalash</item>
+        <item>Media ovozi</item>
+        <item>TTS sintezator tezligi</item>
+        <item>Tanib olish va tarjima</item>
+        <item>Ekran maydonlari</item>
+
+    </string-array>
+
+
+</resources>

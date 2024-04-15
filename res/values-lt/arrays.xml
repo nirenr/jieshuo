@@ -10,7 +10,6 @@
         <item>@string/favorites_menu_title</item>
         <item>@string/split_edit_title</item>
         <item>@string/command_long_copy</item>
-        <!--item>@string/command_virtual_keyboard</item-->
     </string-array>
     <string-array name="advanced_menu_items">
         <item>vertimas</item>
@@ -61,110 +60,287 @@
         <item>30</item>
         <item>60</item>
     </string-array>
-    <string-array name="code_help_items">
-        <item>Naudodami Lua sintaksę ir Jieshuo Screenreader API, vienu gestu galite atlikti kelis veiksmus ir kurti turtingus papildinius.\n Jei esate susipažinę su lua ir androlua, galėsite sukurti gana sudėtingas funkcijas.  Šiame skyriuje aprašoma tik Jieshuo Screenreader API.</item>
-        <item>Bendra informacija\n  paslauga: Prieinamumo paslaugos paslauga yra ekrano skaitytuvo pagrindas, ja pagrįsti visi kiti veiksmai.</item>
-        <item>parametro aprašymas\n node - elementas su fokusu, funkcijos veiksmas taikomas šiam elementui.\n bool - vertė gali būti true arba false.\n text - teksto turinys.</item>
-        <item>return: return,nurodo, ar ekrano prieigos programa turi atlikti standartinį gestų veiksmą.\n Return true kad užfiksuotumėte gestą, false norėdami grįžti į ankstesnį lygį.  Jei grįžta atskiros programos gestas false, tada visuotinio gesto veiksmas bus atliktas, jei visuotinis gestas gražina false, tada bus atliktas standartinis gesto veiksmas.</item>
-        <item>Bendrosios komandos\n service.execute(command,node)\n Ši komanda naudojama paaiškinti, kaip veikia kai kurios integruotos komandos, siekiant supaprastinti kūrimo procesą.  Jei komanda sėkminga, ji gražina true, jei vykdymas nepavyksta, Gražina false.</item>
-        <item>service.postExecute(time,command,node)\n Komandos vykdymo delsa</item>
-        <item>text=service.getText(node)\n Gauti nurodyto elemento tekstinį turinį.</item>
-        <item>service.setText(node,text)\n Nustatyti nurodyto redagavimo lauko teksto turinį.</item>
-        <item>service.setText(text)\n Nustatyti redagavimo lauko teksto turinį kuriame yra fokusas.</item>
-        <item>service.copy()\n Kopijuoti sufokusuoto elemento tekstinį turinį į iškarpinę.</item>
-        <item>service.appendCopy()\n Pridėti prie iškarpinės turinio elemento teksto turinį, kuriame yra fokusas.</item>
-        <item>service.copy(text)\n Kopijuoti nurodytą tekstą į iškarpinę.</item>
-        <item>service.appendCopy(text)\n Pridėti nurodytą tekstą prie iškarpinės turinio.</item>
-        <item>service.paste()\n Įklijuoti iškarpinės turinį į dabartinio ekrano redagavimo lauką.</item>
-        <item>service.paste(node)\n Įklijuoti iškarpinės turinį į nurodytą redagavimo lauką.</item>
-        <item>service.toNext()\n Eiti į kitą elementą.</item>
-        <item>service.toNext(node,bool)\n Pereiti prie nurodyto mazgo elemento, jei bool yra true, tada bus ieškoma antrinių mazgų, jei false - tada ne.</item>
-        <item>service.toPrevious()\n Eiti į ankstesnį elementą.</item>
-        <item>service.toPrevious(node,bool)\n Pereiti prie nurodyto mazgo elemento, jei bool yra true, tada bus ieškoma antrinių mazgų, jei false - tada ne.</item>
-        <item>service.toNextChar()\n Pereiti prie kito simbolio.</item>
-        <item>service.toPreviousChar()\n Pereiti prie ankstesnio simbolio.</item>
-        <item>service.toNextLine()\n Pereiti į kitą eilutę.</item>
-        <item>service.toPreviousLine()\n Pereiti į ankstesnę eilutę.</item>
-        <item>service.toTextStart()\n Pereiti į teksto pradžią.</item>
-        <item>service.toTextEnd()\n Pereiti į teksto pabaigą.</item>
-        <item>service.toListViewStart()\n Eiti į sąrašo pradžią.</item>
-        <item>service.toListViewEnd()\n Eiti į sąrašo pabaigą.</item>
-        <item>service.getRootNodeInfo()\n Gauti mazgo informaciją.</item>
-        <item>service.ocr(node)\n Nurodyto elemento teksto atpažinimas (premium funkcija).</item>
-        <item>service.setTimerMode(bool)\n Įjungti arba išjungti laikmatį, jei bool yra true, tada įjungti, jei false - išjungti.</item>
-        <item>service.setAutoReadEnabled(bool)\n Įjungti arba išjungti skaitymo režimą, jei bool yra true, tada įjungti, jei false - išjungti.</item>
-        <item>service.setAutoNext(bool)\n Įjungti arba išjungti automatinį skaitymo režimą, jei bool yra true, tada įjungti, jei false - išjungti.</item>
-        <item>bool=service.isEditView(node)\n Nustatyti, ar nurodytas elementas yra redagavimo laukelis.</item>
-        <item>bool=service.isSeekBar(node)\n Nustatyti, ar nurodytas elementas yra slankiklis.</item>
-        <item>bool=service.isListView(node)\n Nustatyti, ar nurodytas elementas yra sąrašas.</item>
-        <item>bool=service.isInListView(node)\n Nustatyti, ar nurodytas mazgas yra sąrašo elementas.</item>
-        <item>bool=service.isInWebView(node)\n Nustatyti, ar nurodytas elementas yra tinklalapis.</item>
-        <item>bool=service.isClick(node)\n Nustatyti, ar galima spustelėti nurodytą elementą.</item>
-        <item>service.toClick()\n Paspausti dabartinį elementą, Android 7 naudokite imituotą tiesioginį palietimą.</item>
-        <item>service.toClick(node)\n Spustelėkite nurodytą elementą.</item>
-        <item>service.toLongClick()\n Ilgas esamo elemento paspaudimas.</item>
-        <item>service.toLongClick(node)\n Ilgas nurodyto elemento paspaudimas.</item>
-        <item>service.toBack()\n grįžti atgal.</item>
-        <item>service.toHome()\n Eiti į pagrindinį ekraną.</item>
-        <item>service.toNotification()\n Atidaryti pranešimų skydelį.</item>
-        <item>service.toParent()\n Atidaryti naujausių programų ekraną.</item>
-        <item>service.scrollBackward(node)\n slinkti žemyn.</item>
-        <item>service.scrollForward(node)\n slinkti aukštyn.</item>
-        <item>service.loadGesturePackage(name)\n Suaktyvinti gestų temą.</item>
-        <item>service.click(x,y)\n Tiesioginio palietimo imitavimas nurodytoje ekrano vietoje, galimas tik naudojant 7 ir naujesnės versijos Android..</item>
-        <item>service.longClick(x,y)\n Tiesioginio palietimo imitavimas su palaikymu nurodytoje ekrano vietoje, galimas tik naudojant 7 ir naujesnės versijos Android..</item>
-        <item>service.press(x,y,t)\n Tiesioginio palietimo imitavimas nurodytoje ekrano vietoje tam tikrą laiką, galimas tik naudojant 7 ir naujesnės versijos Android..</item>
-        <item>service.swipe(x1,y1,x2,y2,t)\n Imituoja perbraukimą iš vienos ekrano vietos į kitą, kuris užtrunka nurodytą laiką.  Galima tik naudojant 7 ir naujesnės versijos Android..</item>
+    <string-array name="code_help_items" formatted="false">
+        <item>"Naudodami Lua sintaksę ir Jieshuo Screenreader API, vienu gestu galite atlikti kelis veiksmus ir kurti turtingus papildinius.
+ Jei esate susipažinę su lua ir androlua, galėsite sukurti gana sudėtingas funkcijas. Šiame skyriuje aprašoma tik Jieshuo Screenreader API."</item>
+        <item>"Bendra informacija
+ paslauga: Prieinamumo paslaugos paslauga yra ekrano skaitytuvo pagrindas, ja pagrįsti visi kiti veiksmai."</item>
+        <item>"parametro aprašymas
+ node - elementas su fokusu, funkcijos veiksmas taikomas šiam elementui.
+ bool - vertė gali būti true arba false.
+ text - teksto turinys."</item>
+        <item>"return: return,nurodo, ar ekrano prieigos programa turi atlikti standartinį gestų veiksmą.
+ Return true kad užfiksuotumėte gestą, false norėdami grįžti į ankstesnį lygį. Jei grįžta atskiros programos gestas false, tada visuotinio gesto veiksmas bus atliktas, jei visuotinis gestas gražina false, tada bus atliktas standartinis gesto veiksmas."</item>
+        <item>"Bendrosios komandos
+ service.execute(command,node)
+ Ši komanda naudojama paaiškinti, kaip veikia kai kurios integruotos komandos, siekiant supaprastinti kūrimo procesą. Jei komanda sėkminga, ji gražina true, jei vykdymas nepavyksta, Gražina false."</item>
+        <item>"service.postExecute(time,command,node)
+ Komandos vykdymo delsa"</item>
+        <item>"text=service.getText(node)
+ Gauti nurodyto elemento tekstinį turinį."</item>
+        <item>"service.setText(node,text)
+ Nustatyti nurodyto redagavimo lauko teksto turinį."</item>
+        <item>"service.setText(text)
+ Nustatyti redagavimo lauko teksto turinį kuriame yra fokusas."</item>
+        <item>"service.copy()
+ Kopijuoti sufokusuoto elemento tekstinį turinį į iškarpinę."</item>
+        <item>"service.appendCopy()
+ Pridėti prie iškarpinės turinio elemento teksto turinį, kuriame yra fokusas."</item>
+        <item>"service.copy(text)
+ Kopijuoti nurodytą tekstą į iškarpinę."</item>
+        <item>"service.appendCopy(text)
+ Pridėti nurodytą tekstą prie iškarpinės turinio."</item>
+        <item>"service.paste()
+ Įklijuoti iškarpinės turinį į dabartinio ekrano redagavimo lauką."</item>
+        <item>"service.paste(node)
+ Įklijuoti iškarpinės turinį į nurodytą redagavimo lauką."</item>
+        <item>"service.toNext()
+ Eiti į kitą elementą."</item>
+        <item>"service.toNext(node,bool)
+ Pereiti prie nurodyto mazgo elemento, jei bool yra true, tada bus ieškoma antrinių mazgų, jei false - tada ne."</item>
+        <item>"service.toPrevious()
+ Eiti į ankstesnį elementą."</item>
+        <item>"service.toPrevious(node,bool)
+ Pereiti prie nurodyto mazgo elemento, jei bool yra true, tada bus ieškoma antrinių mazgų, jei false - tada ne."</item>
+        <item>"service.toNextChar()
+ Pereiti prie kito simbolio."</item>
+        <item>"service.toPreviousChar()
+ Pereiti prie ankstesnio simbolio."</item>
+        <item>"service.toNextLine()
+ Pereiti į kitą eilutę."</item>
+        <item>"service.toPreviousLine()
+ Pereiti į ankstesnę eilutę."</item>
+        <item>"service.toTextStart()
+ Pereiti į teksto pradžią."</item>
+        <item>"service.toTextEnd()
+ Pereiti į teksto pabaigą."</item>
+        <item>"service.toListViewStart()
+ Eiti į sąrašo pradžią."</item>
+        <item>"service.toListViewEnd()
+ Eiti į sąrašo pabaigą."</item>
+        <item>"service.getRootNodeInfo()
+ Gauti mazgo informaciją."</item>
+        <item>"service.ocr(node)
+ Nurodyto elemento teksto atpažinimas (premium funkcija)."</item>
+        <item>"service.setTimerMode(bool)
+ Įjungti arba išjungti laikmatį, jei bool yra true, tada įjungti, jei false - išjungti."</item>
+        <item>"service.setAutoReadEnabled(bool)
+ Įjungti arba išjungti skaitymo režimą, jei bool yra true, tada įjungti, jei false - išjungti."</item>
+        <item>"service.setAutoNext(bool)
+ Įjungti arba išjungti automatinį skaitymo režimą, jei bool yra true, tada įjungti, jei false - išjungti."</item>
+        <item>"bool=service.isEditView(node)
+ Nustatyti, ar nurodytas elementas yra redagavimo laukelis."</item>
+        <item>"bool=service.isSeekBar(node)
+ Nustatyti, ar nurodytas elementas yra slankiklis."</item>
+        <item>"bool=service.isListView(node)
+ Nustatyti, ar nurodytas elementas yra sąrašas."</item>
+        <item>"bool=service.isInListView(node)
+ Nustatyti, ar nurodytas mazgas yra sąrašo elementas."</item>
+        <item>"bool=service.isInWebView(node)
+ Nustatyti, ar nurodytas elementas yra tinklalapis."</item>
+        <item>"bool=service.isClick(node)
+ Nustatyti, ar galima spustelėti nurodytą elementą."</item>
+        <item>"service.toClick()
+ Paspausti dabartinį elementą, Android 7 naudokite imituotą tiesioginį palietimą."</item>
+        <item>"service.toClick(node)
+ Spustelėkite nurodytą elementą."</item>
+        <item>"service.toLongClick()
+ Ilgas esamo elemento paspaudimas."</item>
+        <item>"service.toLongClick(node)
+ Ilgas nurodyto elemento paspaudimas."</item>
+        <item>"service.toBack()
+ grįžti atgal."</item>
+        <item>"service.toHome()
+ Eiti į pagrindinį ekraną."</item>
+        <item>"service.toNotification()
+ Atidaryti pranešimų skydelį."</item>
+        <item>"service.toParent()
+ Atidaryti naujausių programų ekraną."</item>
+        <item>"service.scrollBackward(node)
+ slinkti žemyn."</item>
+        <item>"service.scrollForward(node)
+ slinkti aukštyn."</item>
+        <item>"service.loadGesturePackage(name)
+ Suaktyvinti gestų temą."</item>
+        <item>"service.click(x,y)
+ Tiesioginio palietimo imitavimas nurodytoje ekrano vietoje, galimas tik naudojant 7 ir naujesnės versijos Android.."</item>
+        <item>"service.longClick(x,y)
+ Tiesioginio palietimo imitavimas su palaikymu nurodytoje ekrano vietoje, galimas tik naudojant 7 ir naujesnės versijos Android.."</item>
+        <item>"service.press(x,y,t)
+ Tiesioginio palietimo imitavimas nurodytoje ekrano vietoje tam tikrą laiką, galimas tik naudojant 7 ir naujesnės versijos Android.."</item>
+        <item>"service.swipe(x1,y1,x2,y2,t)
+ Imituoja perbraukimą iš vienos ekrano vietos į kitą, kuris užtrunka nurodytą laiką. Galima tik naudojant 7 ir naujesnės versijos Android.."</item>
         <item>Operacijų vykdymo tvarkos valdymas.</item>
-        <item>if sąlyga then veiksmas\n end\n Veiksmai vykdomi, jei nurodyta sąlyga yra teisinga. \nPavyzdžiui,\n if service.isEditView(node) then service.execute(Split Edit,node)\n return true\n end\n Šis kodas reiškia: aktyvuoti išplėstinį redagavimo režimą, jei fokusas yra redagavimo laukelyje.</item>
-        <item>for n=1, pakartojimų skaičius iki\n  veiksmas\n end\n Pakartoti veiksmus tam tikrą skaičių kartų.\n Pavyzdžiui,\n for n=1,10 iki\n service.toBack()\n end\n Reiškia: vykdyti komandą Grįžti atgal 10 kartų.</item>
-        <item>nustatyti funkciją,\n function funkcijos pavadinimas (parametrai)\n funkcijos kodas\n end</item>
-        <item>Funkcija yra kodo blokas, kurį galima naudoti pakartotinai.\n  Pavyzdžiui, toliau pateikiamos funkcijos, skirtos duomenims į sąrašą įtraukti. \n function append(t1,t2)\n for k,v in ipairs(t2) do\n table.insert(t1,v)\n end \n end \n click list=()\n button list={ %Click,%return}\n for n=1,10 do\n append (click list, button list)\n end\nŠis kodas reiškia: pridėti turinį button list prie click list 10 kartų.</item>
-        <item>function slide()\n service.swipe(500,300,500,1000,1000)\n return true\n end\n Ši funkcija imituoja braukimą per  ekraną ir gali būti naudojama automatinio paspaudimo funkcijoms.\nservice.click({{>WeChat,%slide}})\n atidaryti WeChat і imituoti perbraukimus iš viršaus į apačią per ekraną.</item>
-        <item>automatinis paspaudimas,\n service.click({mygtukų sąrašas})\n automatiškai suranda ir paeiliui spaudžia mygtukus, kurių pavadinimai yra mygtukų sąraše.\n Kai kurie simboliai gali būti naudojami visų pirma mygtukų pavadinimuose\n # (grotelių ženklas) prieš mygtuko pavadinimą reiškia, kad tai yra vartotojo etiketė arba ID, \n * (žvaigždutė) prieš pavadinimą arba po jo reiškia, kad ten yra keletas kitų simbolių, \n # (grotelių ženklas) po pavadinimo reiškia mygtuko eilės numerį, \n @(simbolis eta) po pavadinimo reiškia, kad mygtuko reikia ieškoti tik nurodytoje programoje, \n $ (doleris) reiškia delsimo trukmę po operacijos pabaigos.\n  Palaikomi keli sąrašai ir paieška pagal serijos numerius.\n  Jei veiksmas sėkmingas, gražina true, kitaip false. \n Žiūrėkite aprašymą žemiau.</item>
-        <item>Paspaudimas su uždelsimu\n  service.postClick(laikas,{mygtukų sąrašas})\n  Paspaudus su nurodytu uždelsimu, laikas matuojamas milisekundėmis, mygtukų sąrašo formatas panašus į automatinio paspaudimo funkciją,\n  jokia vertė negrąžinama.</item>
-        <item>service.plugin(papildinio pavadinimas,node)\n Paleidus nurodytą papildinį,\n grąžinimo vertė priklauso nuo papildinio nustatymų.</item>
+        <item>"if sąlyga then veiksmas
+ end
+ Veiksmai vykdomi, jei nurodyta sąlyga yra teisinga. 
+Pavyzdžiui,
+ if service.isEditView(node) then service.execute(Split Edit,node)
+ return true
+ end
+ Šis kodas reiškia: aktyvuoti išplėstinį redagavimo režimą, jei fokusas yra redagavimo laukelyje."</item>
+        <item>"for n=1, pakartojimų skaičius iki
+ veiksmas
+ end
+ Pakartoti veiksmus tam tikrą skaičių kartų.
+ Pavyzdžiui,
+ for n=1,10 iki
+ service.toBack()
+ end
+ Reiškia: vykdyti komandą Grįžti atgal 10 kartų."</item>
+        <item>"nustatyti funkciją,
+ function funkcijos pavadinimas (parametrai)
+ funkcijos kodas
+ end"</item>
+        <item>"Funkcija yra kodo blokas, kurį galima naudoti pakartotinai.
+ Pavyzdžiui, toliau pateikiamos funkcijos, skirtos duomenims į sąrašą įtraukti. 
+ function append(t1,t2)
+ for k,v in ipairs(t2) do
+ table.insert(t1,v)
+ end 
+ end 
+ click list=()
+ button list={ %Click,%return}
+ for n=1,10 do
+ append (click list, button list)
+ end
+Šis kodas reiškia: pridėti turinį button list prie click list 10 kartų."</item>
+        <item>"function slide()
+ service.swipe(500,300,500,1000,1000)
+ return true
+ end
+ Ši funkcija imituoja braukimą per ekraną ir gali būti naudojama automatinio paspaudimo funkcijoms.
+service.click({{>WeChat,%slide}})
+ atidaryti WeChat і imituoti perbraukimus iš viršaus į apačią per ekraną."</item>
+        <item>"automatinis paspaudimas,
+ service.click({mygtukų sąrašas})
+ automatiškai suranda ir paeiliui spaudžia mygtukus, kurių pavadinimai yra mygtukų sąraše.
+ Kai kurie simboliai gali būti naudojami visų pirma mygtukų pavadinimuose
+ # (grotelių ženklas) prieš mygtuko pavadinimą reiškia, kad tai yra vartotojo etiketė arba ID, 
+ * (žvaigždutė) prieš pavadinimą arba po jo reiškia, kad ten yra keletas kitų simbolių, 
+ # (grotelių ženklas) po pavadinimo reiškia mygtuko eilės numerį, 
+ @(simbolis eta) po pavadinimo reiškia, kad mygtuko reikia ieškoti tik nurodytoje programoje, 
+ $ (doleris) reiškia delsimo trukmę po operacijos pabaigos.
+ Palaikomi keli sąrašai ir paieška pagal serijos numerius.
+ Jei veiksmas sėkmingas, gražina true, kitaip false. 
+ Žiūrėkite aprašymą žemiau."</item>
+        <item>"Paspaudimas su uždelsimu
+ service.postClick(laikas,{mygtukų sąrašas})
+ Paspaudus su nurodytu uždelsimu, laikas matuojamas milisekundėmis, mygtukų sąrašo formatas panašus į automatinio paspaudimo funkciją,
+ jokia vertė negrąžinama."</item>
+        <item>"service.plugin(papildinio pavadinimas,node)
+ Paleidus nurodytą papildinį,
+ grąžinimo vertė priklauso nuo papildinio nustatymų."</item>
         <item>Gestų interpretacija yra lanksčiausia naudojant automatinį paspaudimą, bazinė forma turi vaizdą:</item>
-        <item>mygtukų sąrašas=()\n service.click(mygtukų sąrašas)\n return true</item>
-        <item>Galite tiesiogiai naudoti dvi žemiau esančias eilutes, tereikia pakeisti mygtukų sąrašą.\n  Mygtukų sąraše yra mygtukų pavadinimų sąrašas su papildomais simboliais riestiniuose skliaustuose.</item>
+        <item>"mygtukų sąrašas=()
+ service.click(mygtukų sąrašas)
+ return true"</item>
+        <item>"Galite tiesiogiai naudoti dvi žemiau esančias eilutes, tereikia pakeisti mygtukų sąrašą.
+ Mygtukų sąraše yra mygtukų pavadinimų sąrašas su papildomais simboliais riestiniuose skliaustuose."</item>
         <item>paprasčiausias pavyzdys:</item>
-        <item>Button={OK}\nservice.click(button)\nreturn true</item>
+        <item>"Button={OK}
+service.click(button)
+return true"</item>
         <item>Šis kodas leidžia ekrane paspausti mygtuką OK,</item>
-        <item>Button={\nOK,\nAtlikta\n}\nservice.click(button)\nreturn true</item>
+        <item>"Button={
+OK,
+Atlikta
+}
+service.click(button)
+return true"</item>
         <item>Tai pirmojo lygio laužtiniai skliaustai, šis įrašas reiškia, kad bus paspaustas mygtukas Ok, jei tokio mygtuko nerasta, bus paspaustas mygtukas Atlikta.</item>
         <item>Kartais, norėdami pasiekti rezultatą, turime paspausti kelis mygtukus iš eilės, tai galima padaryti naudojant automatinį paspaudimą.</item>
-        <item>Button={\n{group information card,file}\n}\nservice.click(button)\nreturn true</item>
-        <item>Tai antrojo lygio laužtiniai skliaustai. Tarp jų esantys mygtukai bus spaudžiami eilės tvarka.  Funkcija bus nutraukta, jei sąraše bus rastas mygtukas, kurio ekrane nėra..</item>
+        <item>"Button={
+{group information card,file}
+}
+service.click(button)
+return true"</item>
+        <item>Tai antrojo lygio laužtiniai skliaustai. Tarp jų esantys mygtukai bus spaudžiami eilės tvarka. Funkcija bus nutraukta, jei sąraše bus rastas mygtukas, kurio ekrane nėra..</item>
         <item>Įdėtieji skliaustai leidžia paeiliui paspausti.</item>
         <item>Mygtukų sąraše galite naudoti kai kuriuos simbolius, kad pakeistumėte funkcijos veikimą.</item>
         <item>Dažniausiai naudojami yra: (žvaigždutė) - šis simbolis prieš mygtuko pavadinimą arba po jo rodo, kad ten gali būti bet kokių kitų simbolių</item>
         <item>Pavyzdžiui reikia spustelėti grupę QQ, kartais po grupės pavadinimo gali būti pranešimai apie naujus pranešimus, tada reikia parašyti:</item>
         <item>Grupės pavadinimas *</item>
-        <item>\# (Grotelės) - šis simbolis reiškia mygtuko numerį.  Kartais ekrane gali būti keli mygtukai tuo pačiu pavadinimu, tokiu atveju reikia naudoti groteles, kad nustatytumėte, kurį mygtuką reikia paspausti.</item>
-        <item>Pavyzdžiui, confirm#1, tai reiškia pirmasis mygtukas dabartiniame ekrane tokiu pavadinimu arba iš talpaus skaičiaus: confirm # 1, tai reiškia paskutinis mygtukas dabartiniame ekrane tokiu pavadinimu.  </item>
-        <item>Grotelių simbolis prieš mygtuko pavadinimą rodo, kad tai yra mygtuko identifikatorius arba etiketė, o ne mygtuko pavadinimas.  Pavyzdžiui, jei mygtukas neturi pavadinimo, galite patys pridėti etiketę ir naudoti ją funkcijose</item>
-        <item>Vertikalios juostos simbolis reiškia loginį ARBA, jei pirmasis mygtukas nerastas, bus paspaustas kitas.  Pavyzdžiui, jei reikia spustelėti mygtuką Ok arba mygtuką Atlikta, tada reikia rašyti: \n OK|Atlikta</item>
+        <item>\# (Grotelės) - šis simbolis reiškia mygtuko numerį. Kartais ekrane gali būti keli mygtukai tuo pačiu pavadinimu, tokiu atveju reikia naudoti groteles, kad nustatytumėte, kurį mygtuką reikia paspausti，</item>
+        <item>Pavyzdžiui, confirm#1, tai reiškia pirmasis mygtukas dabartiniame ekrane tokiu pavadinimu arba iš talpaus skaičiaus: confirm # 1, tai reiškia paskutinis mygtukas dabartiniame ekrane tokiu pavadinimu.</item>
+        <item>Grotelių simbolis prieš mygtuko pavadinimą rodo, kad tai yra mygtuko identifikatorius arba etiketė, o ne mygtuko pavadinimas. Pavyzdžiui, jei mygtukas neturi pavadinimo, galite patys pridėti etiketę ir naudoti ją funkcijose</item>
+        <item>"Vertikalios juostos simbolis reiškia loginį ARBA, jei pirmasis mygtukas nerastas, bus paspaustas kitas. Pavyzdžiui, jei reikia spustelėti mygtuką Ok arba mygtuką Atlikta, tada reikia rašyti: 
+ OK|Atlikta"</item>
         <item>&amp; reiškia, kad mygtukas bus paspaustas tik tuo atveju, jei ekrane bus rodomas turinys nurodytas po ženklo &amp;</item>
-        <item>OK&amp;*išeiti*\n reiškia, kad  mygtukas Ok bus paspaustas tik tuo atveju, jei ekrane taip pat yra žodis  išeiti \", pavyzdžiui, klausime, ar tikrai norite išeiti?\". </item>
-        <item>Šauktukas ir raktinis žodis po ženklo &amp; reiškia, kad mygtukas bus paspaustas tik tuo atveju, jei  ekrane nėrato žodžio. \n OK&amp;!*Atsijungti*\n reiškia mygtukas Ok bus paspaustas tik tuo atveju, jei ekrane nėra žodžio išeiti\".</item>
-        <item>Simbolis &amp; prieš pavadinimą naudojamas dabartinio elemento tipui patikrinti: \n elementas, kurį galima redaguoti\n elementas, kurį galima spustelėti\n sąrašas\n sąrašo elementas\n redagavimo laukelis\n Tai redagavimo laukas su įvesties metodo pasirinkimu.</item>
-        <item>$ (doleris) - šis simbolis po mygtuko pavadinimo nustato delsos trukmę nuo šio mygtuko paspaudimo iki kitos operacijos.</item>
-        <item>užrašas Group information card$2000,File\n reiškia: Paspausti mygtuką file po 2 sekundžiū mygtuko group information card paspaudimo.</item>
-        <item>&lt; (ženklas mažiau) po mygtuko pavadinimo reiškia paspaudimų skaičių.\n Pavyzdžiui, įrašas Stop&lt;10\n reiškia: paspausti sustabdymo mygtuką 10 kartų</item>
-        <item>Ženklas mažiau prieš mygtuko pavadinimą naudojamas fokusuoti jį toliau nespaudžiant.\n &lt;Ok\n reiškia rasti mygtuką Ok, bet nespausti jo.</item>
-        <item>Ženklas daugiau po mygtuko pavadinimo leidžia laukti nurodytą laiką.\n Group Information Card,File>10\n Šis įrašas reiškia: paspaudus group information card palaukite 10 sekundžių, kol mygtukas pasirodys ekrane file ir spustelėkite jį, kai tik jis bus pasiekiamas.  Jei tai neįvyks po 10 sekundžių, funkcija bus nutraukta.</item>
-        <item>Ženklas daugiau prieš tekstą naudojamas programoms atidaryti,\n</item>
-        <item>Procento ženklas leidžia atlikti ekrano skaitytuvo funkcijas.\n  Pavyzdžiui, \n %Kopijuoti\n atlieka kopijavimo funkciją, \n %Skaityti visą ekraną\n skaito dabartinio ekrano turinį.</item>
-        <item>% taip pat leidžia atlikti scenarijuje apibrėžtas funkcijas. Jei funkcija gražina true, tada vykdymas tęsiamas, jei false - vykdymas sustabdomas.</item>
-        <item>[]Jei elemento pavadinimas yra laužtiniuose skliaustuose, jis bus suaktyvintas imituojant tiesioginį palietimą, o ne pritaikymo neįgaliesiems palietimą. Tiesioginis palietimas gali padėti tais atvejais, kai elemento negalima aktyvuoti įprastu būdu.\n [Atkurti]\n imituoja tiesioginį paleidimo mygtuko paspaudimą,\n  [%tiesioginis palietimas]  n suaktyvinimas tiesiogiai palietus esamą elementą.</item>
-        <item>[x,y] Du skaičiai laužtiniuose skliaustuose leidžia imituoti tiesioginį palietimą tam tikroje ekrano vietoje. Norėdami pateikti absoliučias koordinates, galite naudoti sveikuosius skaičius.  arba skaičius nuo 0 iki 1 s kablelis, kad nustatytumėte santykinę padėtį.\n [300,500]\n imituoja paspaudimą taške su koordinatėmis: 300 pikselių horizontaliai ir 500 taškų vertikaliai iš viršutinio kairiojo ekrano kampo.\n [0.3,0.5]\n imituoja paspaudimą taške, esančiame 0.3 plotis ir 0,5 ekrano aukštis, palyginti su viršutiniu kairiuoju kampu.</item>
-        <item>[x,y,t] Trys skaičiai laužtiniuose skliaustuose reiškia paspaudimą tam tikrą laiką tam tikroje ekrano vietoje. Pirmieji du skaičiai, kaip ir ankstesniu atveju, yra koordinatės, o trečiasis - paspaudimas milisekundėmis.\n [300,500,1000]\nToks užrašas leidžia imituoti paspaudimą su trukme 1000 ms taške su koordinatėmis: 300 pikselių horizontaliai ir 500 taškų vertikaliai iš viršutinio kairiojo ekrano kampo.</item>
-        <item>[x1,y1,x2,y2,t] penki skaičiai laužtiniuose skliaustuose leidžia imituoti braukimą per ekraną nuo taško x1, y1 iki taško x2, y2, baigtas per nurodytą laiką.  Galite naudoti sveikuosius skaičius, norėdami nurodyti absoliučias koordinates pikseliais arba skaičių nuo 0 iki 1 s kablelis, nurodantis santykinę padėtį.  Ataskaitos taškas yra viršutiniame kairiajame ekrano kampe.. \n [ 300,500,300,800,1000]\n Šis užrašas reiškia braukimą iš taško su koordinatėmis imitaciją 300; 500 į tašką su koordinatėmis 300; 800, baigta per 1000 ms.</item>
-        <item>Perbraukimą galite imituoti kelis kartus.  Pavyzdžiui, įrašas:\n  [300,500,300,800,1000,10]\n  reiškia dešimties braukimų imitaciją iš taško, kurio koordinatės 300;  500 iki taško, kurio koordinatės 300;  800 atlikta per 1000 ms.</item>
-        <item>Atliekant funkcijas gali kilti įvairių situacijų, pavyzdžiui, reikia atidaryti QQ, paspausti commentary group, tada atidaryti grupės profilį group profile ir galiausiai paspausti mygtuką file.\n Jei grupėje yra skelbimų, tada atsidarius profilį scenarijaus vykdymas sustos, todėl kode būtina numatyti tokios situacijos tvarkymą.\n Žemiau pateiktame pavyzdyje gali būti netikslumų, jis pateiktas tik iliustruoti bendruosius rašymo funkcijų principus..</item>
-        <item>button={\n {>QQ,\n Commentary group*,\n {I have read the group announcement|I got it\n },\n Group profile,\n file\n }}</item>
-        <item>Skirtingos QQ versijos turi skirtingus mygtukus, skirtus skelbimų uždarymui grupėje.\n  Todėl kode, atidarius commentary group, galite pamatyti mygtukus laužtiniuose skliaustuose.  Šie mygtukai bus paspausti, jei jie yra ekrane, priešingu atveju ši operacija bus praleista, nedarant jokios įtakos tolesniam funkcijos vykdymui.\n  Jei funkcija apima sudėtingus scenarijus, galima naudoti kelių lygių laužtinių skliaustų įdėjimą.</item>
-        <item>button={\n{>QQ,\nCommentary group*,\n{{I have read the group announcement, confirm},\n{I got it, sure},\n},\nGroup profile,\nfile\n} }</item>
+        <item>"OK&amp;*išeiti*
+ reiškia, kad mygtukas Ok bus paspaustas tik tuo atveju, jei ekrane taip pat yra žodis išeiti \", pavyzdžiui, klausime, ar tikrai norite išeiti?\"."</item>
+        <item>"Šauktukas ir raktinis žodis po ženklo &amp; reiškia, kad mygtukas bus paspaustas tik tuo atveju, jei ekrane nėrato žodžio. 
+ OK&amp;!*Atsijungti*
+ reiškia mygtukas Ok bus paspaustas tik tuo atveju, jei ekrane nėra žodžio išeiti\"."</item>
+        <item>"Simbolis &amp; prieš pavadinimą naudojamas dabartinio elemento tipui patikrinti: 
+ elementas, kurį galima redaguoti
+ elementas, kurį galima spustelėti
+ sąrašas
+ sąrašo elementas
+ redagavimo laukelis
+ Tai redagavimo laukas su įvesties metodo pasirinkimu."</item>
+        <item>$ (doleris) - šis simbolis po mygtuko pavadinimo nustato delsos trukmę nuo šio mygtuko paspaudimo iki kitos operacijos，</item>
+        <item>"užrašas Group information card$2000,File
+ reiškia: Paspausti mygtuką file po 2 sekundžiū mygtuko group information card paspaudimo."</item>
+        <item>"&lt; (ženklas mažiau) po mygtuko pavadinimo reiškia paspaudimų skaičių.
+ Pavyzdžiui, įrašas Stop&lt;10
+ reiškia: paspausti sustabdymo mygtuką 10 kartų"</item>
+        <item>"Ženklas mažiau prieš mygtuko pavadinimą naudojamas fokusuoti jį toliau nespaudžiant.
+ &lt;Ok
+ reiškia rasti mygtuką Ok, bet nespausti jo."</item>
+        <item>"Ženklas daugiau po mygtuko pavadinimo leidžia laukti nurodytą laiką.
+ Group Information Card,File>10
+ Šis įrašas reiškia: paspaudus group information card palaukite 10 sekundžių, kol mygtukas pasirodys ekrane file ir spustelėkite jį, kai tik jis bus pasiekiamas. Jei tai neįvyks po 10 sekundžių, funkcija bus nutraukta."</item>
+        <item>"Ženklas daugiau prieš tekstą naudojamas programoms atidaryti,
+"</item>
+        <item>"Procento ženklas leidžia atlikti ekrano skaitytuvo funkcijas.
+ Pavyzdžiui, 
+ %Kopijuoti
+ atlieka kopijavimo funkciją, 
+ %Skaityti visą ekraną
+ skaito dabartinio ekrano turinį."</item>
+        <item>% taip pat leidžia atlikti scenarijuje apibrėžtas funkcijas. Jei funkcija gražina true, tada vykdymas tęsiamas, jei false - vykdymas sustabdomas，</item>
+        <item>"[]Jei elemento pavadinimas yra laužtiniuose skliaustuose, jis bus suaktyvintas imituojant tiesioginį palietimą, o ne pritaikymo neįgaliesiems palietimą. Tiesioginis palietimas gali padėti tais atvejais, kai elemento negalima aktyvuoti įprastu būdu.
+ [Atkurti]
+ imituoja tiesioginį paleidimo mygtuko paspaudimą,
+ [%tiesioginis palietimas] n suaktyvinimas tiesiogiai palietus esamą elementą."</item>
+        <item>"[x,y] Du skaičiai laužtiniuose skliaustuose leidžia imituoti tiesioginį palietimą tam tikroje ekrano vietoje. Norėdami pateikti absoliučias koordinates, galite naudoti sveikuosius skaičius. arba skaičius nuo 0 iki 1 s kablelis, kad nustatytumėte santykinę padėtį.
+ [300,500]
+ imituoja paspaudimą taške su koordinatėmis: 300 pikselių horizontaliai ir 500 taškų vertikaliai iš viršutinio kairiojo ekrano kampo.
+ [0.3,0.5]
+ imituoja paspaudimą taške, esančiame 0.3 plotis ir 0,5 ekrano aukštis, palyginti su viršutiniu kairiuoju kampu."</item>
+        <item>"[x,y,t] Trys skaičiai laužtiniuose skliaustuose reiškia paspaudimą tam tikrą laiką tam tikroje ekrano vietoje. Pirmieji du skaičiai, kaip ir ankstesniu atveju, yra koordinatės, o trečiasis - paspaudimas milisekundėmis.
+ [300,500,1000]
+Toks užrašas leidžia imituoti paspaudimą su trukme 1000 ms taške su koordinatėmis: 300 pikselių horizontaliai ir 500 taškų vertikaliai iš viršutinio kairiojo ekrano kampo."</item>
+        <item>"[x1,y1,x2,y2,t] penki skaičiai laužtiniuose skliaustuose leidžia imituoti braukimą per ekraną nuo taško x1, y1 iki taško x2, y2, baigtas per nurodytą laiką. Galite naudoti sveikuosius skaičius, norėdami nurodyti absoliučias koordinates pikseliais arba skaičių nuo 0 iki 1 s kablelis, nurodantis santykinę padėtį. Ataskaitos taškas yra viršutiniame kairiajame ekrano kampe.. 
+ [ 300,500,300,800,1000]
+ Šis užrašas reiškia braukimą iš taško su koordinatėmis imitaciją 300; 500 į tašką su koordinatėmis 300; 800, baigta per 1000 ms."</item>
+        <item>"Perbraukimą galite imituoti kelis kartus. Pavyzdžiui, įrašas:
+ [300,500,300,800,1000,10]
+ reiškia dešimties braukimų imitaciją iš taško, kurio koordinatės 300; 500 iki taško, kurio koordinatės 300; 800 atlikta per 1000 ms."</item>
+        <item>"Atliekant funkcijas gali kilti įvairių situacijų, pavyzdžiui, reikia atidaryti QQ, paspausti commentary group, tada atidaryti grupės profilį group profile ir galiausiai paspausti mygtuką file.
+ Jei grupėje yra skelbimų, tada atsidarius profilį scenarijaus vykdymas sustos, todėl kode būtina numatyti tokios situacijos tvarkymą.
+ Žemiau pateiktame pavyzdyje gali būti netikslumų, jis pateiktas tik iliustruoti bendruosius rašymo funkcijų principus.."</item>
+        <item>"button={
+ {>QQ,
+ Commentary group*,
+ {I have read the group announcement|I got it
+ },
+ Group profile,
+ file
+ }}"</item>
+        <item>"Skirtingos QQ versijos turi skirtingus mygtukus, skirtus skelbimų uždarymui grupėje.
+ Todėl kode, atidarius commentary group, galite pamatyti mygtukus laužtiniuose skliaustuose. Šie mygtukai bus paspausti, jei jie yra ekrane, priešingu atveju ši operacija bus praleista, nedarant jokios įtakos tolesniam funkcijos vykdymui.
+ Jei funkcija apima sudėtingus scenarijus, galima naudoti kelių lygių laužtinių skliaustų įdėjimą."</item>
+        <item>"button={
+{>QQ,
+Commentary group*,
+{{I have read the group announcement, confirm},
+{I got it, sure},
+},
+Group profile,
+file
+} }"</item>
     </string-array>
     <string-array name="edge_gesture_width_entries">
         <item>Mažas</item>
@@ -178,241 +354,155 @@
         <item>16</item>
         <item>20</item>
     </string-array>
-    <string-array name="execute_command">
-        <item>@string/command_nothing</item>
-        <item>@string/directory_plugins</item>
-        <item>@string/directory_cmd</item>
-        <item>@string/directory_tools</item>
-        <item>@string/directory_timer</item>
-        <item>@string/app</item>
-
-        <!--重要功能ok-->
-        <item>@string/profiles_title</item>
-        <item>@string/plugin_title</item>
-        <item>@string/tool_title</item>
-        <item>@string/main_menu</item>
-        <item>@string/advanced_menu_title</item>
-        <item>@string/quick_menu_title</item>
-        <item>@string/action_menu_title</item>
-        <item>@string/main_setting</item>
-        <item>@string/command_start_log</item>
-        <item>@string/command_gesture_help</item>
-
-        <!--功能开关ok-->
-        <item>@string/command_disable_touch</item>
-        <item>@string/command_disable_feedback</item>
-        <item>@string/command_disable_hotkey</item>
-        <item>@string/command_false_touch_prevention</item>
-        <item>@string/command_enable_dim_screen</item>
-        <item>@string/command_disable_edge_gesture_title</item>
-        <item>@string/command_disable_main_tts</item>
-        <item>@string/command_disable_async_tts</item>
-        <item>@string/command_incall_mode</item>
-        <item>@string/switch_multi_finger_gestures</item>
-
-        <!--语音操作ok-->
-        <item>@string/command_set_tts_engine</item>
-        <item>@string/command_toggle_tts_engine</item>
-        <item>@string/command_raise_scr_volume</item>
-        <item>@string/command_lower_scr_volume</item>
-        <item>@string/command_speed_to_fast</item>
-        <item>@string/command_speed_to_slow</item>
-        <item>@string/command_raise_volume</item>
-        <item>@string/command_lower_volume</item>
-        <item>@string/command_voice_helper</item>
-        <item>@string/command_voice_input</item>
-
-
-        <!--焦点操作ok-->
-        <item>@string/actions</item>
-        <item>@string/url_menu_title</item>
-        <item>@string/add_node_changed_list</item>
-        <item>@string/node_changed_list_manager</item>
-        <item>@string/edit_dict</item>
-        <item>@string/command_edit_node_name</item>
-        <item>@string/command_add_content_blacklist</item>
-        <item>@string/command_verbatim_speak2</item>
-        <item>@string/split_menu_title</item>
-        <item>@string/command_gestures_edit</item>
-
-
-        <!--ai功能ok-->
-        <item>@string/command_auto_trans</item>
-        <item>@string/command_recognition_caption</item>
-        <item>@string/use_ocr_title</item>
-        <item>@string/command_virtual_screen</item>
-        <item>@string/command_virtual_table</item>
-        <item>@string/command_ocr_text</item>
-        <item>@string/command_ocr_focus</item>
-        <item>@string/command_verification</item>
-        <item>@string/command_trans</item>
-        <item>@string/camera_title</item>
-
-
-        <!--其他操作ok-->
-        <item>@string/command_now_time</item>
-        <item>@string/command_timer_mode</item>
-        <item>@string/command_pasue_timer</item>
-        <item>@string/command_current_location</item>
-        <item>@string/command_speak_light</item>
-        <item>@string/command_speak_time</item>
-        <item>@string/command_speak_net</item>
-        <item>@string/command_to_head_set_key</item>
-        <item>@string/command_media_previous</item>
-        <item>@string/command_media_next</item>
-
-
-        <!--编辑操作ok-->
-        <item>@string/clipboard_menu_title</item>
-        <item>@string/favorites_menu_title</item>
-        <item>@string/command_paste</item>
-        <item>@string/command_copy</item>
-        <item>@string/command_append_copy</item>
-        <item>@string/command_long_copy</item>
-        <item>@string/command_clean</item>
-        <item>@string/split_edit_title</item>
-        <item>@string/command_long_edit</item>
-        <item>@string/command_all_select</item>
-
-
-        <!--系统操作ok-->
-        <item>@string/command_to_recents</item>
-        <item>@string/command_to_home</item>
-        <item>@string/command_to_back</item>
-        <item>@string/command_to_notifications</item>
-        <item>@string/command_quick_settings</item>
-        <item>@string/command_take_screenshot</item>
-        <item>@string/command_off_screen2</item>
-        <item>@string/command_power_dialog</item>
-        <item>@string/command_to_split_screen</item>
-        <item>@string/command_notification_box</item>
-
-        <!--执行操作-->
-        <item>@string/command_click</item>
-        <item>@string/command_long_click</item>
-        <item>@string/raw_click</item>
-        <item>@string/raw_long_click</item>
-        <item>@string/command_raw_double_tap</item>
-        <item>@string/raw_swipe_left</item>
-        <item>@string/raw_swipe_right</item>
-        <item>@string/raw_swipe_up</item>
-        <item>@string/raw_swipe_down</item>
-        <item>@string/command_virtual_navigation</item>
-
-        <!--浏览模式-->
-        <item>@string/char_mode</item>
-        <item>@string/list_mode_title</item>
-        <item>@string/all_text_title</item>
-        <item>@string/command_node_mode</item>
-        <item>@string/command_all_speak</item>
-        <item>@string/command_supper_mode</item>
-        <item>@string/command_raw_tap</item>
-        <item>@string/command_up_tap</item>
-        <item>@string/command_tap_mode</item>
-
-
-        <item>@string/command_read_mode</item>
-        <item>@string/command_auto_next</item>
-        <item>@string/auto_previous</item>
-
-        <item>@string/input_method</item>
-        <item>@string/command_show_input_method_picker</item>
-        <item>@string/command_speak_all_notification</item>
-        <item>@string/command_left_shortcut</item>
-        <item>@string/command_right_shortcut</item>
-        <item>@string/command_start</item>
-        <item>@string/command_end</item>
-
-
-        <item>@string/select_granularity_mode</item>
-        <!--导航类型-->
-        <item>@string/to_previous_granularity</item>
-        <item>@string/to_next_granularity</item>
-        <item>@string/to_previous_granularity_item</item>
-        <item>@string/to_next_granularity_item</item>
-        <item>@string/command_previous_window</item>
-        <item>@string/command_next_window</item>
-
-        <item>@string/command_to_previous_focus</item>
-        <item>@string/command_to_next_focus</item>
-        <item>@string/command_to_previous_scroll</item>
-        <item>@string/command_to_next_scroll</item>
-        <item>@string/command_to_previous_progress</item>
-        <item>@string/command_to_next_progress</item>
-
-
-        <item>@string/command_to_previous_section</item>
-        <item>@string/command_to_next_section</item>
-        <item>@string/command_to_previous_link</item>
-        <item>@string/command_to_next_link</item>
-        <item>@string/command_to_previous_control</item>
-        <item>@string/command_to_next_control</item>
-        <item>@string/command_to_previous_char</item>
-        <item>@string/command_to_next_char</item>
-        <item>@string/command_to_previous_word</item>
-        <item>@string/command_to_next_word</item>
-        <item>@string/command_to_previous_row</item>
-        <item>@string/command_to_next_row</item>
-        <item>@string/command_to_previous_paragraph</item>
-        <item>@string/command_to_next_paragraph</item>
-
-
-        <item>@string/command_copy_to_cloud</item>
-        <item>@string/command_paste_from_cloud</item>
-        <item>@string/command_up_page</item>
-        <item>@string/command_down_page</item>
-        <item>@string/command_left_page</item>
-        <item>@string/command_right_page</item>
-        <item>@string/command_media_fast_forward</item>
-        <item>@string/command_media_rewind</item>
-        <item>@string/command_selection_mode</item>
-        <item>@string/command_image_to_text</item>
-
-        <!--item>极速浏览</item-->
-
-    </string-array>
     <string-array name="gesture_help_items">
-        <item>Gestų pagrindai:\n  Vienetiniai gestai turi būti tiesioginiai, o judesiai – greiti\n  Pirmosios kampinio gesto dalies ilgis turi viršyti pusės ekrano dydį, o antroji turi būti atliekama stačiu kampu į pirmąją.</item>
-        <item>gestų deriniai:\n Pirmiausia aukštyn, tada žemyn – pereiti prie pirmojo elemento ekrane\n Pirmiausia žemyn, tada aukštyn – pereiti prie paskutinio elemento ekrane\n Pirmiausia kairėn, tada dešinėn – neseniai paleistų programų ekranas\n Pirmiausia į dešinę, tada į kairę – grįžti atgal\n Pirmiausia aukštyn, tada dešinėn – veiksmų meniu\n pirmiausia žemyn, tada dešinėn – pagrindinis meniu\n Pirmiausia aukštyn, tada kairėn – papildiniai\npirmiausia žemyn, tada kairėn - balso asistentas\n pirmiausia kairėn, tada žemyn – skaitymo režimas po žodį\n Pirmiausia dešinėn, tada aukštyn – automatinis elementų skaitymas iš viršaus į apačią\n pirmiausia kairėn, tada aukštyn – atidaryti pranešimų skydelį\n Pirmiausia dešinėn, tada žemyn – peržiūrėti turinį kaip sąrašą</item>
-        <item>Peržiūros režimo gestai:\n  spustelėkite nustatyti fokusavimą\n  braukite aukštyn, kad peržiūrėtumėte aukštyn\n  braukite žemyn, kad peržiūrėtumėte žemyn</item>
-        <item>Fokusavimo perkėlimo gestai:\n  Aukštyn – ankstesnis elementas\n  Žemyn – kitas elementas</item>
-        <item>QQ ir WeChat skambučiai\n  Dešinėn - priimti\n  Kairėn – atmesti</item>
-        <item>QQ ir WeChat skambučiai\n  Dešinėn - priimti\n  Kairėn – atmesti/ užbaigti</item>
-        <item>Sąrašai\n  Kairėn – slinkti atgal\n  dešinėn - slinkti į priekį</item>
-        <item>dialogai\n Atšaukti - braukite kairėn\n Spustelėti OK - braukite dešinėn</item>
-        <item>Darbas su slankikliais\n  Braukite kairėn, kad sumažintumėte slankiklį\n  Braukite dešinėn, kad padidintumėte slankiklį</item>
-        <item>Teksto naršymas redagavimo laukeliuose\n  Braukite kairėn, kad pereitumėte prie ankstesnio simbolio\n  Braukite dešinėn, kad pereitumėte prie kito simbolio</item>
-        <item>Žodžių skaitymo režimas:\n  Aukštyn – ankstesnė eilutė\n  žemyn - kita eilutė\n  Kairėn – ankstesnis simbolis\n  dešinėn – kitas simbolis\n  pirmiausia kairėn, tada dešinėn – ankstesnis žodis\n  iš pradžių į dešinę, paskui į kairę – kitas žodis\n  Pirmiausia aukštyn, tada dešinėn – pasirinkite tekstą\n  Iš pradžių į kairę, tada žemyn – išeiti iš režimo</item>
-        <item>Teksto pasirinkimo gestai:\n  Paliesti: skaityti esamą simbolį.\n  braukimas aukštyn: eiti į ankstesnę eilutę.\n  braukimas žemyn: Eiti į kitą eilutę.\n  braukimas kairėn: pereiti prie ankstesnio simbolio.\n  braukimas dešinėn: pereiti prie kito simbolio.\n  braukimas į kairę ir tada aukštyn: pereiti prie ankstesnės pastraipos.\n  braukimas į dešinę ir tada žemyn: pereiti prie kitos pastraipos.\n  braukimas aukštyn ir tada dešinėn: panaikinti pasirinkimą.\n  braukimas žemyn ir tada dešinėn: kopijavimo pasirinkimas.\n  braukimas aukštyn, tada kairėn: pridėti turinį į iškarpinę.\n  braukimas dešinėn ir tada žemyn: nukopijuoti visą tekstą.</item>
-        <item>Mazgo peržiūros gestai: braukite aukštyn: į ankstesnį mazgą.\n  Braukite žemyn: pereikite prie kito mazgo.\n  Braukite kairėn: eikite į pirminį mazgą.\n  Braukite dešinėn: pereikite prie antrinio mazgo.\n  Braukite žemyn, tada kairėn: išeikite iš mazgo.</item>
-        <item>Balso asistento naudojimas:\n  Atidaryti programos pavadinimą: atidarykite nurodytą programą.  Siųsti tekstą: tiesioginis turinio perdavimas per QQ ir Wechat.  Rasti užklausos tekstą: paieška internete.  Balso asistento funkcionalumą galima išplėsti naudojant funkcijas ir papildinius.</item>
+        <item>"Gestų pagrindai:
+ Vienetiniai gestai turi būti tiesioginiai, o judesiai – greiti
+ Pirmosios kampinio gesto dalies ilgis turi viršyti pusės ekrano dydį, o antroji turi būti atliekama stačiu kampu į pirmąją."</item>
+        <item>"gestų deriniai:
+ Pirmiausia aukštyn, tada žemyn – pereiti prie pirmojo elemento ekrane
+ Pirmiausia žemyn, tada aukštyn – pereiti prie paskutinio elemento ekrane
+ Pirmiausia kairėn, tada dešinėn – neseniai paleistų programų ekranas
+ Pirmiausia į dešinę, tada į kairę – grįžti atgal
+ Pirmiausia aukštyn, tada dešinėn – veiksmų meniu
+ pirmiausia žemyn, tada dešinėn – pagrindinis meniu
+ Pirmiausia aukštyn, tada kairėn – papildiniai
+pirmiausia žemyn, tada kairėn - balso asistentas
+ pirmiausia kairėn, tada žemyn – skaitymo režimas po žodį
+ Pirmiausia dešinėn, tada aukštyn – automatinis elementų skaitymas iš viršaus į apačią
+ pirmiausia kairėn, tada aukštyn – atidaryti pranešimų skydelį
+ Pirmiausia dešinėn, tada žemyn – peržiūrėti turinį kaip sąrašą"</item>
+        <item>"Peržiūros režimo gestai:
+ spustelėkite nustatyti fokusavimą
+ braukite aukštyn, kad peržiūrėtumėte aukštyn
+ braukite žemyn, kad peržiūrėtumėte žemyn"</item>
+        <item>"Fokusavimo perkėlimo gestai:
+ Aukštyn – ankstesnis elementas
+ Žemyn – kitas elementas"</item>
+        <item>"QQ ir WeChat skambučiai
+ Dešinėn - priimti
+ Kairėn – atmesti"</item>
+        <item>"QQ ir WeChat skambučiai
+ Dešinėn - priimti
+ Kairėn – atmesti/ užbaigti"</item>
+        <item>"Sąrašai
+ Kairėn – slinkti atgal
+ dešinėn - slinkti į priekį"</item>
+        <item>"dialogai
+ Atšaukti - braukite kairėn
+ Spustelėti OK - braukite dešinėn"</item>
+        <item>"Darbas su slankikliais
+ Braukite kairėn, kad sumažintumėte slankiklį
+ Braukite dešinėn, kad padidintumėte slankiklį"</item>
+        <item>"Teksto naršymas redagavimo laukeliuose
+ Braukite kairėn, kad pereitumėte prie ankstesnio simbolio
+ Braukite dešinėn, kad pereitumėte prie kito simbolio"</item>
+        <item>"Žodžių skaitymo režimas:
+ Aukštyn – ankstesnė eilutė
+ žemyn - kita eilutė
+ Kairėn – ankstesnis simbolis
+ dešinėn – kitas simbolis
+ pirmiausia kairėn, tada dešinėn – ankstesnis žodis
+ iš pradžių į dešinę, paskui į kairę – kitas žodis
+ Pirmiausia aukštyn, tada dešinėn – pasirinkite tekstą
+ Iš pradžių į kairę, tada žemyn – išeiti iš režimo"</item>
+        <item>"Teksto pasirinkimo gestai:
+ Paliesti: skaityti esamą simbolį.
+ braukimas aukštyn: eiti į ankstesnę eilutę.
+ braukimas žemyn: Eiti į kitą eilutę.
+ braukimas kairėn: pereiti prie ankstesnio simbolio.
+ braukimas dešinėn: pereiti prie kito simbolio.
+ braukimas į kairę ir tada aukštyn: pereiti prie ankstesnės pastraipos.
+ braukimas į dešinę ir tada žemyn: pereiti prie kitos pastraipos.
+ braukimas aukštyn ir tada dešinėn: panaikinti pasirinkimą.
+ braukimas žemyn ir tada dešinėn: kopijavimo pasirinkimas.
+ braukimas aukštyn, tada kairėn: pridėti turinį į iškarpinę.
+ braukimas dešinėn ir tada žemyn: nukopijuoti visą tekstą."</item>
+        <item>"Mazgo peržiūros gestai: braukite aukštyn: į ankstesnį mazgą.
+ Braukite žemyn: pereikite prie kito mazgo.
+ Braukite kairėn: eikite į pirminį mazgą.
+ Braukite dešinėn: pereikite prie antrinio mazgo.
+ Braukite žemyn, tada kairėn: išeikite iš mazgo."</item>
+        <item>"Balso asistento naudojimas:
+ Atidaryti programos pavadinimą: atidarykite nurodytą programą. Siųsti tekstą: tiesioginis turinio perdavimas per QQ ir Wechat. Rasti užklausos tekstą: paieška internete. Balso asistento funkcionalumą galima išplėsti naudojant funkcijas ir papildinius."</item>
     </string-array>
     <string-array name="help_items">
-        <item>Standartiniai gestai pagrindinėms navigacijos operacijoms:  n Braukti aukštyn – pereiti prie ankstesnio elemento. Braukti žemyn – pereiti prie kito elemento.  N Šiuos veiksmus galite pakeisti veiksmų nustatymuose.</item>
-        <item>Pagrindinis meniu:  n Braukite žemyn ir dešinėn, kad atidarytumėte meniu, braukite dešinėn, kad pamatytumėte daugiau parinkčių.  N Galite pakeisti meniu išvaizdą ir turinį išplėstiniuose programos nustatymuose.</item>
-        <item>Balso asistentas:\n  Balso asistentas įjungiamas braukiant žemyn ir į kairę, o komanda turi būti ištarta po pyptelėjimo.  Palietus ekraną suaktyvinamas momentinis atpažinimas\n  Norėdami sukonfigūruoti balso asistentą, eikite į programos meniu, pasirinkite išplėstinius nustatymus, balso asistento nustatymus.</item>
-        <item>Veiksmų meniu:\n  Perbraukus aukštyn ir dešinėn atidaromas veiksmų meniu, braukiant dešinėn išplečiamas meniu, o dukart palietus suaktyvinamas meniu elementas kurį pasirinkote.</item>
-        <item>papildyniai:\n Braukite aukštyn ir kairėn, kad atidarytumėte papildinių sąrašą, braukite dešinėn, kad atidarytumėte balso komandų sąrašą, norėdami pasirinkti atitinkamą elementą, dukart bakstelėkite jį.\n  Daugiau papildynių rasite papildomų išteklių atsisiuntimo skiltyje..\n Išplėstiniai nustatymai, balso asistento nustatymai, balso komandų nustatymai, nauji, pakeisti arba atsisiųsti.</item>
-        <item>Kopijuoti, pridėti turinį į , iškarpinę, iškarpinė ir mėgstamiausi:\n  Šios funkcijos yra veiksmų meniu.\n  kopija – nukopijuoja pasirinktą elementą į iškarpinę\n  Pridėti prie iškarpinės turinio – dabartinį turinį prideda prie paskutinio iškarpinės elemento,\n  Iškarpinės meniu yra visi neseniai nukopijuoti elementai, paspauskite norėdami įeiti į redagavimo lauką, paspauskite ir palaikykite, kad įtrauktumėte turinį į mėgstamiausius:\n  Mėgstamiausi, spustelėkite, kad įeitumėte į redagavimo lauką, ilgai paspauskite, kad redaguotumėte,\n  Išplėstiniuose nustatymuose, išteklių valdyme, galite ištrinti arba rezervuoti iškarpinės ir mėgstamiausių:\n turinį</item>
-        <item>Išplėstinis teksto kopijavimas (premium funkcija):\n  Išplėstinė kopijavimo funkcija leidžia kopijuoti ilgus elementų sąrašus.\n  Veiksmų meniu suaktyvinus išplėstinį kopijavimą, gali tekti šiek tiek palaukti, atsižvelgiant į sąrašo ilgį.  Kai kopijavimas bus baigtas, jums bus pranešta.\n  Galite priverstinai sustabdyti išplėstinį kopijavimą atlikdami bet kokį gestą.</item>
-        <item>Pasirinkti viską (Premium funkcija):\n  Funkcija pasirinkti viską naudinga kopijuojant dideles teksto dalis, pvz., tinklalapiuose.  Jį naudojant ekrano turinį galima suskirstyti į simbolius, žodžius ir pastraipas, reikiamas turinys pažymimas varnelėmis ir nukopijuojamas atitinkamu mygtuku.\n  Galite greitai pasirinkti keletą iš eilės einančių fragmentų, pirmiausia spustelėdami pirmąjį fragmentą, o tada – paskutinį.</item>
-        <item>Išplėstinis redagavimas (premium funkcija):\n  Kad būtų lengviau naršyti tekstą redagavimo laukeliuose ir iš jų, galite naudoti šią funkciją turiniui padalyti į simbolius arba žodžius.\n  Spustelėkite fragmentą, kad galėtumėte redaguoti, paspauskite ir palaikykite, kad išgirstumėte jo turinį paraidžiui arba ištrintumėte.  Spustelėkite Daugiau parinkčių – kelių pasirinkimų režimas, jei norite ištrinti, kopijuoti arba iškirpti kelis fragmentus vienu metu.\n  Jei šią funkciją naudojate ne redagavimo lauke, galite nukopijuoti redaguotą tekstą į iškarpinę.</item>
-        <item>Žiūrėti kaip sąrašą:\n  Norėdami matyti visą turinį kaip sąrašą, spustelėkite atitinkamą elementą, tai ypač tinka tinklalapiams.</item>
-        <item>Skaitymo režimas (Premium funkcija):\n  Galite skaityti straipsnius naršyklėje atidarytuose tinklalapiuose, praleisti nepageidaujamą turinį ir automatiškai slinkti puslapiais.</item>
-        <item>Virtualus ekranas (Premium funkcija):\n  Atpažinimo sistema atpažįsta turinį ekrane, parodo rezultatą pagal elementą, jį paspaudus aktyvuoja atitinkamą elementą, ilgai paspaudus etiketę nustatomas fokusas, o paspaudus ant etiketės aktyvuojamas atitinkamas elementas.\n  Jei naudojate Android 7 ar naujesnę versiją, dukart palieskite, kad suaktyvintumėte, o Android 6 ir senesnėse versijose – tris kartus.</item>
-        <item>Teksto atpažinimas (premium funkcija):\n  Turinio ekrane atpažinimas naudojant teksto atpažinimo sistemą.  Rezultatas rodomas kaip sąrašas, paspaudus ant teksto galima aktyvuoti jį atitinkantį objektą.  Ilgas paspaudimas leidžia perjungti į rodinį pagal žodžius, paspaudus žodį, suaktyvinama atitinkama padėtis ekrane.\n  Paspaudimas nepalaikomas 6 ir senesnėse versijose Android, kuri yra skirta tik peržiūrai.</item>
-        <item>Teksto iš vaizdo atpažinimas (premium funkcija):\n  Spustelėkite patvirtinimo kodą, įeikite į veiksmų meniu, suraskite Išplėstiniai nustatymai, Teksto iš vaizdo atpažinimas arba pasakykite balso asistentui „Atpažinti tekstą iš vaizdo“, palaikomas angliškų žodžių ar skaičių atpažinimas, atpažinimo rezultatas automatiškai nukopijuojamas į iškarpinę.</item>
-        <item>Jieshuo kamera (Premium funkcija):\n  Dabar fotoaparatas atpažįsta tekstą, įvykius, gyvūnus, augalus, voliutas arba pateikia informaciją, kaip teisingai nukreipti fotoaparatą norint fotografuoti.  Palaikoma tik galinė kamera. Norėdami fotografuoti, naudokite garso didinimo klavišą arba garso mažinimo klavišą, kad perjungtumėte režimus.</item>
-        <item>Greitas naršymas per sąrašo elementus:\n  Atidarykite Programos nustatymai – Veiksmų nustatymai – Papildomi gestų nustatymai ir pažymėkite langelį Kairėn ir dešinėn, kad galėtumėte greitai naršyti per sąrašo elementus.  Galite naudoti šią funkciją, pavyzdžiui, norėdami greitai pereiti per vaizdo įrašų sąrašą YouTube programoje.</item>
-        <item>Juodasis ir baltasis pranešimų sąrašas:\n Juodasis pranešimų sąrašas leidžia filtruoti įspėjimus su jūsų nurodytu turiniu, įveskite žvaigždutę, kad išfiltruotumėte visus programos pranešimus.\n Baltasis pranešimų sąrašas leidžia skaityti pranešimus su nurodytu turiniu, net jei nustatymuose pranešimų skaitymas išjungtas, žvaigždutės įtraukimas reiškia leidimą skaityti visus pranešimus iš programos.\n  Raktiniai žodžiai palaiko reguliariąsias išraiškas.</item>
-        <item>Juodasis turinio sąrašas:\n Galite filtruoti nurodytą turinį, paprastai taikomą filtruoti elementams, kurie neatitinka pritaikymo neįgaliesiems standartų.\n Reguliarūs posakiai nepalaikomi efektyvumo sumetimais.</item>
-        <item>Žiniatinklio turinio filtravimas (Premium funkcija):\n  Filtruoja nepageidaujamus vaizdus puslapyje, kad pašalintų perteklinį ir nereikalingą daugiažodiškumą.\n  Griežtas filtravimas gali išfiltruoti nereikalingą ar neesminį turinį.</item>
-        <item>Išsamus naršymo režimas (Premium funkcija):\n  Šis režimas leidžia padidinti fokusavimo valdymo detalumo lygį.\n  Žinoma, kad šis režimas pagerina tokių programų kaip WeChat Sports, WeChat Friends Circle, Taobao Footprint, Huawei Router ir kitų prieinamumą.</item>
-        <item>Virtualus naršymas (Premium funkcija):\n  Leidžia programoje sukurti elementų, kurių negalima tiesiogiai suaktyvinti, sąrašą (pvz., mygtuką, kurio negalima sufokusuoti).\n  Atminkite, kad galite pridėti tik pastovios padėties elementus.  Elemento padėtį ekrane galite nustatyti naudodami teksto atpažinimą arba nurodydami jo koordinates,\n  Palaikoma tik Android 7 ir naujesnė versija.</item>
-        <item>gestų suasmeninimas:\n  Galite savo nuožiūra pakeisti pradinę bet kurio gesto reikšmę, taip pat greitai pakeisti nustatymus importuodami gesto temą.\n  Po importavimo gestų tema turi būti suaktyvinta veiksmų nustatymuose.\n  Jei nesate patenkinti atskirai priskirtais gestais, galite juos pakeisti bendruosiuose programos nustatymuose.</item>
-        <item>Kombinuoti gestai (Premium funkcija):\n  Ši funkcija leidžia žymiai pagerinti gestų suasmeninimą.  Jei įjungta, atlikus vieną iš 16 standartinių gestų ekrano skaitytuvas lauks 0,5 sekundės, kol bus atliktas kitas gestas (braukimas aukštyn, žemyn, kairėn arba dešinėn).  Taigi vienam standartiniam gestui galima priskirti iki 5 skirtingų veiksmų.  Funkcijos parametrus galite įjungti ir keisti naudodami Programos nustatymus – Veiksmų nustatymai – kombinuoti gestai.\n  Nerekomenduojama naudoti greitos reakcijos reikalaujančius gestus, pvz., fokusavimo perkėlimą, kaip kombinuotus.</item>
-        <item>Balso komandų įrašymas:\n  Paleiskite balso asistentą ir duokite komandą pradėti įrašymą, nuosekliai ištarkite veiksmus, kuriuos turi atlikti sukurta komanda.  Po to duokite komandą užbaigti įrašymą ir nustatykite sukurtos komandos pavadinimą, o galiausiai patvirtinkite kūrimą.\n  Jei kai kurios instrukcijos neatpažįstamos kuriant, galite pakartoti.  Įrašytas komandas galima redaguoti kelyje Išplėstiniai nustatymai - Balso asistento nustatymai - Balso komandų nustatymai.</item>
-        <item>Automatinis pranešimų skaitymas:\n  Nemokamos versijos naudotojai šią funkciją gali naudoti tik pranešimų programose.\n  Premium vartotojai taip pat gali automatiškai skaityti naujienas tiesioginės transliacijos programose.  Šiuo metu palaikomi Douyin, Volcano, Now ir kt.\n  Šią funkciją galite konfigūruoti skiltyje Turinio peržiūros nustatymai – automatinio skaitymo nustatymai.</item>
+        <item>Standartiniai gestai pagrindinėms navigacijos operacijoms: n Braukti aukštyn – pereiti prie ankstesnio elemento. Braukti žemyn – pereiti prie kito elemento. N Šiuos veiksmus galite pakeisti veiksmų nustatymuose.</item>
+        <item>Pagrindinis meniu: n Braukite žemyn ir dešinėn, kad atidarytumėte meniu, braukite dešinėn, kad pamatytumėte daugiau parinkčių. N Galite pakeisti meniu išvaizdą ir turinį išplėstiniuose programos nustatymuose.</item>
+        <item>"Balso asistentas:
+ Balso asistentas įjungiamas braukiant žemyn ir į kairę, o komanda turi būti ištarta po pyptelėjimo. Palietus ekraną suaktyvinamas momentinis atpažinimas
+ Norėdami sukonfigūruoti balso asistentą, eikite į programos meniu, pasirinkite išplėstinius nustatymus, balso asistento nustatymus."</item>
+        <item>"Veiksmų meniu:
+ Perbraukus aukštyn ir dešinėn atidaromas veiksmų meniu, braukiant dešinėn išplečiamas meniu, o dukart palietus suaktyvinamas meniu elementas kurį pasirinkote."</item>
+        <item>"papildyniai:
+ Braukite aukštyn ir kairėn, kad atidarytumėte papildinių sąrašą, braukite dešinėn, kad atidarytumėte balso komandų sąrašą, norėdami pasirinkti atitinkamą elementą, dukart bakstelėkite jį.
+ Daugiau papildynių rasite papildomų išteklių atsisiuntimo skiltyje..
+ Išplėstiniai nustatymai, balso asistento nustatymai, balso komandų nustatymai, nauji, pakeisti arba atsisiųsti."</item>
+        <item>"Kopijuoti, pridėti turinį į , iškarpinę, iškarpinė ir mėgstamiausi:
+ Šios funkcijos yra veiksmų meniu.
+ kopija – nukopijuoja pasirinktą elementą į iškarpinę
+ Pridėti prie iškarpinės turinio – dabartinį turinį prideda prie paskutinio iškarpinės elemento,
+ Iškarpinės meniu yra visi neseniai nukopijuoti elementai, paspauskite norėdami įeiti į redagavimo lauką, paspauskite ir palaikykite, kad įtrauktumėte turinį į mėgstamiausius:
+ Mėgstamiausi, spustelėkite, kad įeitumėte į redagavimo lauką, ilgai paspauskite, kad redaguotumėte,
+ Išplėstiniuose nustatymuose, išteklių valdyme, galite ištrinti arba rezervuoti iškarpinės ir mėgstamiausių:
+ turinį"</item>
+        <item>"Išplėstinis teksto kopijavimas (premium funkcija):
+ Išplėstinė kopijavimo funkcija leidžia kopijuoti ilgus elementų sąrašus.
+ Veiksmų meniu suaktyvinus išplėstinį kopijavimą, gali tekti šiek tiek palaukti, atsižvelgiant į sąrašo ilgį. Kai kopijavimas bus baigtas, jums bus pranešta.
+ Galite priverstinai sustabdyti išplėstinį kopijavimą atlikdami bet kokį gestą."</item>
+        <item>"Pasirinkti viską (Premium funkcija):
+ Funkcija pasirinkti viską naudinga kopijuojant dideles teksto dalis, pvz., tinklalapiuose. Jį naudojant ekrano turinį galima suskirstyti į simbolius, žodžius ir pastraipas, reikiamas turinys pažymimas varnelėmis ir nukopijuojamas atitinkamu mygtuku.
+ Galite greitai pasirinkti keletą iš eilės einančių fragmentų, pirmiausia spustelėdami pirmąjį fragmentą, o tada – paskutinį."</item>
+        <item>"Išplėstinis redagavimas (premium funkcija):
+ Kad būtų lengviau naršyti tekstą redagavimo laukeliuose ir iš jų, galite naudoti šią funkciją turiniui padalyti į simbolius arba žodžius.
+ Spustelėkite fragmentą, kad galėtumėte redaguoti, paspauskite ir palaikykite, kad išgirstumėte jo turinį paraidžiui arba ištrintumėte. Spustelėkite Daugiau parinkčių – kelių pasirinkimų režimas, jei norite ištrinti, kopijuoti arba iškirpti kelis fragmentus vienu metu.
+ Jei šią funkciją naudojate ne redagavimo lauke, galite nukopijuoti redaguotą tekstą į iškarpinę."</item>
+        <item>"Žiūrėti kaip sąrašą:
+ Norėdami matyti visą turinį kaip sąrašą, spustelėkite atitinkamą elementą, tai ypač tinka tinklalapiams."</item>
+        <item>"Skaitymo režimas (Premium funkcija):
+ Galite skaityti straipsnius naršyklėje atidarytuose tinklalapiuose, praleisti nepageidaujamą turinį ir automatiškai slinkti puslapiais."</item>
+        <item>"Virtualus ekranas (Premium funkcija):
+ Atpažinimo sistema atpažįsta turinį ekrane, parodo rezultatą pagal elementą, jį paspaudus aktyvuoja atitinkamą elementą, ilgai paspaudus etiketę nustatomas fokusas, o paspaudus ant etiketės aktyvuojamas atitinkamas elementas.
+ Jei naudojate Android 7 ar naujesnę versiją, dukart palieskite, kad suaktyvintumėte, o Android 6 ir senesnėse versijose – tris kartus."</item>
+        <item>"Teksto atpažinimas (premium funkcija):
+ Turinio ekrane atpažinimas naudojant teksto atpažinimo sistemą. Rezultatas rodomas kaip sąrašas, paspaudus ant teksto galima aktyvuoti jį atitinkantį objektą. Ilgas paspaudimas leidžia perjungti į rodinį pagal žodžius, paspaudus žodį, suaktyvinama atitinkama padėtis ekrane.
+ Paspaudimas nepalaikomas 6 ir senesnėse versijose Android, kuri yra skirta tik peržiūrai."</item>
+        <item>"Teksto iš vaizdo atpažinimas (premium funkcija):
+ Spustelėkite patvirtinimo kodą, įeikite į veiksmų meniu, suraskite Išplėstiniai nustatymai, Teksto iš vaizdo atpažinimas arba pasakykite balso asistentui „Atpažinti tekstą iš vaizdo“, palaikomas angliškų žodžių ar skaičių atpažinimas, atpažinimo rezultatas automatiškai nukopijuojamas į iškarpinę."</item>
+        <item>"Jieshuo kamera (Premium funkcija):
+ Dabar fotoaparatas atpažįsta tekstą, įvykius, gyvūnus, augalus, voliutas arba pateikia informaciją, kaip teisingai nukreipti fotoaparatą norint fotografuoti. Palaikoma tik galinė kamera. Norėdami fotografuoti, naudokite garso didinimo klavišą arba garso mažinimo klavišą, kad perjungtumėte režimus."</item>
+        <item>"Greitas naršymas per sąrašo elementus:
+ Atidarykite Programos nustatymai – Veiksmų nustatymai – Papildomi gestų nustatymai ir pažymėkite langelį Kairėn ir dešinėn, kad galėtumėte greitai naršyti per sąrašo elementus. Galite naudoti šią funkciją, pavyzdžiui, norėdami greitai pereiti per vaizdo įrašų sąrašą YouTube programoje."</item>
+        <item>"Juodasis ir baltasis pranešimų sąrašas:
+ Juodasis pranešimų sąrašas leidžia filtruoti įspėjimus su jūsų nurodytu turiniu, įveskite žvaigždutę, kad išfiltruotumėte visus programos pranešimus.
+ Baltasis pranešimų sąrašas leidžia skaityti pranešimus su nurodytu turiniu, net jei nustatymuose pranešimų skaitymas išjungtas, žvaigždutės įtraukimas reiškia leidimą skaityti visus pranešimus iš programos.
+ Raktiniai žodžiai palaiko reguliariąsias išraiškas."</item>
+        <item>"Juodasis turinio sąrašas:
+ Galite filtruoti nurodytą turinį, paprastai taikomą filtruoti elementams, kurie neatitinka pritaikymo neįgaliesiems standartų.
+ Reguliarūs posakiai nepalaikomi efektyvumo sumetimais."</item>
+        <item>"Žiniatinklio turinio filtravimas (Premium funkcija):
+ Filtruoja nepageidaujamus vaizdus puslapyje, kad pašalintų perteklinį ir nereikalingą daugiažodiškumą.
+ Griežtas filtravimas gali išfiltruoti nereikalingą ar neesminį turinį."</item>
+        <item>"Išsamus naršymo režimas (Premium funkcija):
+ Šis režimas leidžia padidinti fokusavimo valdymo detalumo lygį.
+ Žinoma, kad šis režimas pagerina tokių programų kaip WeChat Sports, WeChat Friends Circle, Taobao Footprint, Huawei Router ir kitų prieinamumą."</item>
+        <item>"Virtualus naršymas (Premium funkcija):
+ Leidžia programoje sukurti elementų, kurių negalima tiesiogiai suaktyvinti, sąrašą (pvz., mygtuką, kurio negalima sufokusuoti).
+ Atminkite, kad galite pridėti tik pastovios padėties elementus. Elemento padėtį ekrane galite nustatyti naudodami teksto atpažinimą arba nurodydami jo koordinates,
+ Palaikoma tik Android 7 ir naujesnė versija."</item>
+        <item>"gestų suasmeninimas:
+ Galite savo nuožiūra pakeisti pradinę bet kurio gesto reikšmę, taip pat greitai pakeisti nustatymus importuodami gesto temą.
+ Po importavimo gestų tema turi būti suaktyvinta veiksmų nustatymuose.
+ Jei nesate patenkinti atskirai priskirtais gestais, galite juos pakeisti bendruosiuose programos nustatymuose."</item>
+        <item>"Kombinuoti gestai (Premium funkcija):
+ Ši funkcija leidžia žymiai pagerinti gestų suasmeninimą. Jei įjungta, atlikus vieną iš 16 standartinių gestų ekrano skaitytuvas lauks 0,5 sekundės, kol bus atliktas kitas gestas (braukimas aukštyn, žemyn, kairėn arba dešinėn). Taigi vienam standartiniam gestui galima priskirti iki 5 skirtingų veiksmų. Funkcijos parametrus galite įjungti ir keisti naudodami Programos nustatymus – Veiksmų nustatymai – kombinuoti gestai.
+ Nerekomenduojama naudoti greitos reakcijos reikalaujančius gestus, pvz., fokusavimo perkėlimą, kaip kombinuotus."</item>
+        <item>"Balso komandų įrašymas:
+ Paleiskite balso asistentą ir duokite komandą pradėti įrašymą, nuosekliai ištarkite veiksmus, kuriuos turi atlikti sukurta komanda. Po to duokite komandą užbaigti įrašymą ir nustatykite sukurtos komandos pavadinimą, o galiausiai patvirtinkite kūrimą.
+ Jei kai kurios instrukcijos neatpažįstamos kuriant, galite pakartoti. Įrašytas komandas galima redaguoti kelyje Išplėstiniai nustatymai - Balso asistento nustatymai - Balso komandų nustatymai."</item>
+        <item>"Automatinis pranešimų skaitymas:
+ Nemokamos versijos naudotojai šią funkciją gali naudoti tik pranešimų programose.
+ Premium vartotojai taip pat gali automatiškai skaityti naujienas tiesioginės transliacijos programose. Šiuo metu palaikomi Douyin, Volcano, Now ir kt.
+ Šią funkciją galite konfigūruoti skiltyje Turinio peržiūros nustatymai – automatinio skaitymo nustatymai."</item>
     </string-array>
     <string-array name="hot_key_help_items">
         <item>CTRL+DPAD_UP: Perkelti fokusą į ankstesnį elementą.</item>
@@ -505,7 +595,7 @@
         <item>žema vokiečių kalba</item>
         <item>filipiniečių</item>
         <item>Sanskritas</item>
-        <item>弗留利语</item>
+        <item>Friulijos</item>
         <item>Fulani</item>
         <item>Farerų</item>
         <item>gėlų</item>
@@ -534,7 +624,7 @@
         <item>Kornvalio</item>
         <item>Xhosa</item>
         <item>Korsikos</item>
-        <item>克里克语</item>
+        <item>Upelis</item>
         <item>Krymo totorių</item>
         <item>Klingonai</item>
         <item>kroatų</item>
@@ -624,7 +714,7 @@
         <item>hindi</item>
         <item>Indoneziečių</item>
         <item>jidiš</item>
-        <item>因特语</item>
+        <item>internetas</item>
         <item>Ačehas</item>
         <item>ingušų</item>
         <item>Igbo</item>
@@ -868,7 +958,7 @@
         <item>Baigti skambutį</item>
         <item>Baigti QQ skambutį</item>
         <item>Baigti QQ skambutį</item>
-        <item>Eiti į ankstesnį elementą</item>
+        <item>Ankstesnis elementas</item>
         <item>Ankstesnis takelis</item>
         <item>Naršyti aukštyn</item>
     </string-array>
@@ -953,7 +1043,7 @@
         <item>*Braukite, kad atsilieptumėte į skambutį*</item>
         <item>Laisvų rankų režimas</item>
         <item>Garsiakalbio režimas</item>
-        <item>Eiti į kitą elementą</item>
+        <item>Kitas elementas</item>
         <item>Sekantis takelis</item>
     </string-array>
     <string-array name="right_menu_items">
@@ -994,7 +1084,7 @@
         <item>unisound</item>
     </string-array>
     <string-array name="tts_engine_vip_entries">
-        <item>System TTS</item>
+        <item>Sisteminis TTS</item>
         <item>Xunfei TTS</item>
         <item>Yunzhisheng TTS</item>
     </string-array>
@@ -1170,12 +1260,12 @@
         <item>Atidaryti programos pavadinimą: atidaryti programą</item>
         <item>Įdiegti programos pavadinimą: įdiegti programą.</item>
         <item>Ištrinti programos pavadinimą: ištrinti programą.</item>
-        <item>Skaityti visą ekraną: skaityti ekrano turinį.</item>
+        <item>Skaityti visą ekraną: skaityti ekrano turinį</item>
         <item>Skaityti garsiai: skaityti ekrano turinį naudojant fokuso sekiimą.</item>
         <item>Dabartinis apšvietimas: nustatyti aplinkos apšvietimą</item>
         <item>Paspausti: suaktyvinti esamą elementą.</item>
         <item>Paspausti Elemento Pavadinimą: suaktyvinti nurodytą elementą</item>
-        <item>Kopijuoti Nukopijuoti esamo elemento tekstinį turinį į įškarpinę</item>
+        <item>Kopijuoti esamo elemento tekstinį turinį į įškarpinę</item>
         <item>Versti: išversti esamo elemento tekstinį turinį</item>
         <item>Versti kalbą: išversti dabartinio elemento tekstinį turinį į nurodytą kalbą</item>
         <item>Pasirinkti: pasirinkti tekstą</item>
@@ -1186,7 +1276,7 @@
         <item>Bilietai: patikrinkite, ar yra traukinio bilietų.</item>
         <item>Receptas Sužinokite nurodyto patiekalo receptą.</item>
         <item>Pajuokauk: klausyk atsitiktinio pokšto</item>
-        <item>Kopijuoti rezultatą: nukopijuoti komandos vykdymo rezultatą.</item>
+        <item>Kopijuoti rezultatą: nukopijuoti komandos vykdymo rezultatą</item>
         <item>Ir dar daug kitų funkcijų.</item>
     </string-array>
     <string-array name="voice_recognizer_entries">
