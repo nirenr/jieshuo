@@ -1679,135 +1679,176 @@ Ako koristite Android 13, ali niste dobili takvu obavijest, ignorirajte ovo upoz
     <string name="default_gesture_setting_summary">Regulira ponašanje programa, pri izboru standardne sheme gesti, ili kada shema gesti dobiva značenje false.</string>
     <string name="use_action_menu_show_cursor_title">Pokazivati akcije elementa u izborniku akcije Jieshuo</string>
     <string name="use_action_menu_show_ext_title">Dozvoljava prikaz u izborniku akcija Jieshuo dodatne akcije (na primjer, upravljanje trakama napredka ili otvaranje linkova(, ako su dostupni za fokusirani element.</string>
-    <string name="find_next">查找下一个</string>
-    <string name="find_previous">查找上一个</string>
+    <string name="find_next">Sljedeći rezultat</string>
+    <string name="find_previous">Prethodni rezultat</string>
 
-    <string name="command_media_fast_forward">快进</string>
-    <string name="command_media_rewind">快退</string>
-    <string name="command_selection_mode">选择模式</string>
-    <string name="timer_format_title">报时时间格式</string>
-    <string name="timer_format_def">系统默认</string>
-    <string name="timer_format_12">12小时制</string>
-    <string name="timer_format_24">24小时制</string>
-    <string name="default_gesture_type_title">默认手势风格</string>
-    <string name="default_gesture_type_def_up_down">上/下切换焦点，左/右快捷手势</string>
-    <string name="default_gesture_type_web_up_down">仅在网页使用按类型浏览(左/右切换类型，上/下切换项目)</string>
-    <string name="default_gesture_type_web_up_down_new">仅在网页使用按类型浏览(先上后下/先下上后切换类型，左/右切换项目，上/下切换焦点)</string>
-    <string name="default_gesture_type_view_up_down">在所有视图使用按类型浏览(左/右切换类型，上/下切换项目)</string>
-    <string name="default_gesture_type_view_up_down_new">在所有视图使用按类型浏览(先上后下/先下上后切换类型，左/右切换项目，上/下切换焦点)</string>
-    <string name="default_gesture_type_def_left_right">左/右切换焦点，上/下快捷手势</string>
-    <string name="default_gesture_type_web_left_right">仅在网页使用按类型浏览(上/下切换类型，左/右切换项目)</string>
-    <string name="default_gesture_type_web_left_right_new">仅在网页使用按类型浏览(先上后下/先下上后切换类型，上/下切换项目，左/右切换焦点)</string>
-    <string name="default_gesture_type_view_left_right">在所有视图使用按类型浏览(上/下切换类型，左/右切换项目)</string>
-    <string name="default_gesture_type_view_left_right_new">在所有视图使用按类型浏览(先上后下/先下上后切换类型，上/下切换项目，左/右切换焦点)</string>
-    <string name="use_speak_state_title">先读出焦点状态</string>
-    <string name="alarm_hours_title">报时的时间</string>
-    <string name="notification_in_call_no_speak_title">通话时通知免打扰</string>
-    <string name="notification_in_auto_read_no_speak_title">自动浏览或阅读模式时通知免打扰</string>
-    <string name="timer_action_def_title">计时器默认操作</string>
-    <string name="timer_action_def_summary">当包含预设计时器时有效</string>
-    <string name="timer_item_formater">%s %d小时 %d分钟 %s</string>
-    <string name="use_ocr_auto_speak_title">自动朗读全屏文字识别或虚拟屏幕结果</string>
-    <string name="use_new_text_move_type_title">使用解说风格处理文字移动操作</string>
-    <string name="use_move_text_gesture_title">在激活的编辑框移动光标</string>
-    <string name="use_answer_phone_calls_incall_gesture_title">在来电界面接听挂断电话</string>
-    <string name="use_scroll_seek_gesture_title">在进度滑块调节进度</string>
-    <string name="use_scroll_list_gesture_title">在列表中滚动列表</string>
-    <string name="use_click_dialog_gesture_title">在对话框点击确定/取消按钮</string>
-    <string name="use_click_button_gesture_title">执行自定义快捷操作</string>
-    <string name="export_all_file">导出全部</string>
-    <string name="share_all">分享全部</string>
-    <string name="command_image_to_text">图片描述</string>
-    <string name="incall_tts_setting_title">来电报号语音设置</string>
-    <string name="reader_tts_setting_title">阅读模式语音设置</string>
-    <string name="char_mode_tts_setting_title">逐字浏览语音设置</string>
-    <string name="auto_read_tts_setting_title">自动浏览语音设置</string>
-    <string name="notification_tts_setting_title">通知语音设置</string>
-    <string name="use_up_tap_prompt_title">抬手激活超时提示</string>
-    <string name="double_fling_time_title">两部手势等待时长</string>
-    <string name="jieshuo_beta_title">内测下载</string>
-    <string name="picture_description">图像理解</string>
-    <string name="auto_list_tts_setting_title">自动朗读消息语音设置</string>
-    <string name="more_tts_setting_title">更多语音库设置</string>
-    <string name="ocr_lang_zh">中英混合</string>
-    <string name="ocr_lang_zh_rare">中文生僻字、繁体字</string>
-    <string name="ocr_lang_auto">自动</string>
-    <string name="ocr_lang_mix">混合语种</string>
-    <string name="ocr_lang_jap">日语</string>
-    <string name="ocr_lang_kor">韩语</string>
-    <string name="ocr_lang_spa">西班牙语</string>
-    <string name="ocr_lang_fre">法语</string>
-    <string name="ocr_lang_ger">德语</string>
-    <string name="ocr_lang_por">葡萄牙语</string>
-    <string name="ocr_lang_vie">越语</string>
-    <string name="ocr_lang_may">马来语</string>
-    <string name="ocr_lang_rus">俄语</string>
-    <string name="ocr_lang_ita">意大利语</string>
-    <string name="ocr_lang_hol">荷兰语</string>
-    <string name="ocr_lang_swe">瑞典语</string>
-    <string name="ocr_lang_fin">芬兰语</string>
-    <string name="ocr_lang_dan">丹麦语</string>
-    <string name="ocr_lang_nor">挪威语</string>
-    <string name="ocr_lang_hun">匈牙利语</string>
-    <string name="ocr_lang_tha">泰语</string>
-    <string name="ocr_lang_hi">印地语</string>
-    <string name="ocr_lang_ara">阿拉伯语</string>
-    <string name="use_virtual_screen_dim_background_title">虚拟屏幕使用黑色背景</string>
-    <string name="edit_ocr_lua_title">编辑自定义扩展ocr引擎</string>
+    <string name="command_media_fast_forward">premotavanje u naprijed</string>
+    <string name="command_media_rewind">premotavanje u nazad</string>
+    <string name="command_selection_mode">način označavanja</string>
+    <string name="timer_format_title">Format čitanja vremena</string>
+    <string name="timer_format_def">Podrazumjevano za sustav</string>
+    <string name="timer_format_12">12-satni format</string>
+    <string name="timer_format_24">24-satni format</string>
+    <string name="default_gesture_type_title">Podrazumjevani stil gesti za kretanje</string>
+    <string name="default_gesture_type_def_up_down">podrazumjevano:
+povucite gore/dolje kako biste pomicali fokus, ili lijevo/desno kako biste izvodili prečace</string>
+    <string name="default_gesture_type_web_up_down">Osnovno kretanje po web stranicama:
+povucite u lijevo ili desno za prebacivanje tipa kretanja u web pregledu, ili gore/dolje za kretanje po označenom tipu elementa</string>
+    <string name="default_gesture_type_web_up_down_new">Alternativno kretanje po Web pregledu:
+Povucite prema dolje, a potom gore ili ili gore a potom prema dolje kako biste se prebacivali između tipa elementa u web pregledu, i povucite u lijevo  ili desno kako biste se kretali unutar označenog elementa. Koristite povlačenja prema gore/dolje za pomicnje fokusa.</string>
+    <string name="default_gesture_type_view_up_down">Osnovna globalna navigacija:
+Povucite u lijevo ili desno kako biste promijenili tip navigacije u svim pregledima, i prema dilje ili gore kako biste se kretali unutar označenog tipa</string>
+    <string name="default_gesture_type_view_up_down_new">Alternativna globalna navigacija:
+Povucite prema gore ili dolje, ili prema dolje ili gore za prebacivanje tipa navigacije u svim pregledima, povucite prema desno ili lijevo za premještanje unutar odabranog tipa. koristite povlačenja prema gore ili doje za mijenjanje fokusa</string>
+    <string name="default_gesture_type_def_left_right">Podrazumjevano2:
+povucite u desno ili lijevo za prebacivanje fokusa, i prema gore i dolje za izvođenje prečaca</string>
+    <string name="default_gesture_type_web_left_right">Osnovna navigacija po web pregledima2:
+Povucite prema dolje ili gore za prebacivanje tipa kretanja u web pregledima, i u lijevo ili desno za prebacivanje unutar označenog tipa</string>
+    <string name="default_gesture_type_web_left_right_new">Alternativna navigacija po web pregledima2:
+Povucite prema dolje a onda prema gore ili prema gore a onda dolje za prebacivanje tipova kretanja, i povucite prema lijevo ili desno kako biste se premještali unutar označenog tipa. Koristite povlačenja u lijevo ili desno za premještavanje fokusa.</string>
+    <string name="default_gesture_type_view_left_right">Globalno kretanje2:
+Povucite prema dolje ili gore kako biste prebacili tipove kretanja u svim pregledima, i povucite u lijevo ili desno za kreanjue u označenom tipu</string>
+    <string name="default_gesture_type_view_left_right_new">Alternativni način kretanja2:
+povucite prema dolje a potom rpema gore ili prema gore a potom dolje za prebacivanje tipa kretanja u svim pregledima, i povucite prema gore ili dolje za prebacivanje u označenom tipu. Koristite kretnje u lijevo ili desno za pomicanje fokusa</string>
+    <string name="use_speak_state_title">Prvo pročitaj stanje fokusiranog elementa</string>
+    <string name="alarm_hours_title">Aktivni sati</string>
+    <string name="notification_in_call_no_speak_title">Tijekom poziva ne čitaj obavijesti</string>
+    <string name="notification_in_auto_read_no_speak_title">Ne čitaj obavijesti automatski kada se koristi način čitanja ili način pregleda</string>
+    <string name="timer_action_def_title">Podrazumjevana radnja za funkciju tajmera</string>
+    <string name="timer_action_def_summary">Ova je postavka valjana samo kad su aktivni predefinirani tajmeri.</string>
+    <string name="timer_item_formater">%s. %d sati, %d minuta. Label: %s</string>
+    <string name="use_ocr_auto_speak_title">Automatski pročitaj prepoznati tekst pri korištenju virtualnog zaslona ili prepoznavanje trenutnog zaslona.</string>
+    <string name="use_new_text_move_type_title">Koristi novo kretanje i označavanje teksta</string>
+    <string name="use_move_text_gesture_title">Koristi prečace za kretanje po poljima uređivanja</string>
+    <string name="use_answer_phone_calls_incall_gesture_title">Koristi prečace za prihvaćanje ili odbijanje poziva na zaslonu dolaznog poziva</string>
+    <string name="use_scroll_seek_gesture_title">Koristi prečace za podešavanje klizača</string>
+    <string name="use_scroll_list_gesture_title">Koristi prečace za prebacivanje popisa</string>
+    <string name="use_click_dialog_gesture_title">Koristi prečace za prihvaćanje ili odbijanje promjena u dijaloškim okvirima</string>
+    <string name="use_click_button_gesture_title">Koristi prečace za aktiviranje kontrola koje se poklapaju na zaslonu</string>
+    <string name="export_all_file">Izvezi sve</string>
+    <string name="share_all">Podijeli sve</string>
+    <string name="command_image_to_text">Opiši trenutno fokusiranu stavku</string>
+    <string name="incall_tts_setting_title">Postavke izgovora naziva pozivatelja</string>
+    <string name="reader_tts_setting_title">Postavke govorne jedinice za način čitanja</string>
+    <string name="char_mode_tts_setting_title">Postavke govorne jedinice za čitanje znak po znak</string>
+    <string name="auto_read_tts_setting_title">Postavke govorne jedinice za automatski pregled</string>
+    <string name="notification_tts_setting_title">Postavke govorne jedinice za čitanje obavijesti </string>
+    <string name="use_up_tap_prompt_title">Podignite prst kako biste aktivirali poruku odgađanja</string>
+    <string name="double_fling_time_title">Trajanje prepoznavanja višedjelnih gesti</string>
+    <string name="jieshuo_beta_title">Beta verzije</string>
+    <string name="picture_description">Detaljni opis fokusirane stavke</string>
+    <string name="auto_list_tts_setting_title">Automatsko čitanje poruka za dopisivanje</string>
+    <string name="more_tts_setting_title">Adaptivne konfiguracije govorne jedinice</string>
+    <string name="ocr_lang_zh">Kineski i engleski</string>
+    <string name="ocr_lang_zh_rare">Tradicionalni i pojednostavljeni kineski</string>
+    <string name="ocr_lang_auto">Automatski</string>
+    <string name="ocr_lang_mix">Miješani jezici</string>
+    <string name="ocr_lang_jap">Japanski</string>
+    <string name="ocr_lang_kor">Korejski</string>
+    <string name="ocr_lang_spa">Španjolski</string>
+    <string name="ocr_lang_fre">Francuski</string>
+    <string name="ocr_lang_ger">Njemački</string>
+    <string name="ocr_lang_por">Portugalski</string>
+    <string name="ocr_lang_vie">Vijetnamski</string>
+    <string name="ocr_lang_may">Malajski</string>
+    <string name="ocr_lang_rus">Ruski</string>
+    <string name="ocr_lang_ita">Talijanski</string>
+    <string name="ocr_lang_hol">Nizozemski</string>
+    <string name="ocr_lang_swe">Švedski</string>
+    <string name="ocr_lang_fin">Finski</string>
+    <string name="ocr_lang_dan">Danski</string>
+    <string name="ocr_lang_nor">Norveški</string>
+    <string name="ocr_lang_hun">Mađarski</string>
+    <string name="ocr_lang_tha">Tajski</string>
+    <string name="ocr_lang_hi">Hindski</string>
+    <string name="ocr_lang_ara">Arabski</string>
+    <string name="use_virtual_screen_dim_background_title">Koristi tamnu pozadinu za virtualni zaslon</string>
+    <string name="edit_ocr_lua_title">Uredi prilagođene Ocr dodatke</string>
     <string name="ocr_lua_template">require \"import\"\nimport \"com.nirenr.talkman.ai.*\"\n--例子代码是帮助理解代码的伪代码，不能直接运行\nbs,listener=...--获取参数\ntask(function(bs)\n  function 识别函数(bs)\n    --虚拟构成识别结果\n    return {\n      length=2,\n      {\n        t=\"例子代码是帮助理解代码的伪代码\",\n        x=0,\n        y=300,\n        w=1000,\n        h=100,\n        s=50\n      },\n      {\n        t=\"不能直接运行\",\n        x=0,\n        y=600,\n        w=800,\n        h=100,\n        s=50\n      }\n    }\n  end\n\n  local ret=识别函数(bs)\n  local rets=OcrResult.OcrItem[ret.length]--构建返回值数组\n  for n=1,ret.length do\n    --注意java与lua数组开始索引不同\n    rets[n-1]=OcrResult.OcrItem(\n    ret[n].t,--文字内容\n    ret[n].x,--文字x坐标，距离屏幕左侧距离\n    ret[n].y,--文字y坐标，距离屏幕顶部距离\n    ret[n].w,--文字区域宽度\n    ret[n].h,--文字区域高度\n    ret[n].s--文字高度\n    )\n  end\n  return OcrResult(rets)--返回结果到主线程\nend,\nbs,--将图片的byte数组传入线程\nfunction(rets)\n  listener.onDone(rets)--在回调函数调用onDone通知读屏识别完成\nend)</string>
-    <string name="accessibility_service_description2">解说辅助服务和主服务功能完全相同，主要用于部分会检测读屏服务名的场景，两个服务不需要同时开启。</string>
-    <string name="resume_on_screen_on_title">当屏幕打开时恢复反馈</string>
-    <string name="resume_on_notification_show_title">当下拉显示通知栏时恢复反馈</string>
-    <string name="resume_on_ringing_title">当来电时恢复反馈</string>
-    <string name="helper_supper_cmd_title">超级语音指令</string>
-    <string name="back_break_auto_mode_title">返回手势打断自动浏览</string>
-    <string name="msg_export_all_file">将备份所有设置和文件到 %s 文件，发送到新手机可以全部导入，文件包含你的所有数据，请不要分享给其他人以免隐私泄露</string>
-    <string name="msg_export_all_file_fail">备份失败请重试</string>
-    <string name="import_all_title">导入解说完整备份吗</string>
-    <string name="msg_import_all">此操作会覆盖你的解说全部设置和资源</string>
-    <string name="app_service2">Jieshuo helper service</string>
-    <string name="app_no_supper_sound_package_title">不使用超级音效的应用(在选中的应用中超级音效会暂时屏蔽)</string>
-    <string name="command_image_to_text2">图片描述全屏</string>
-    <string name="picture_description2">图像理解全屏</string>
-    <string name="use_split_line_title">拆分编辑显示行号</string>
-    <string name="msg_use_single_tts_enabled">已开启使用单一语音库</string>
-    <string name="msg_disable_use_single_tts">关闭使用单一语音库功能才能使用自定义 %s</string>
-    <string name="command_auto_list_speak">自动朗读消息</string>
-    <string name="command_auto_list_speak_history">自动朗读消息记录</string>
-    <string name="msg_start_auto_list">开始自动朗读%s消息</string>
-    <string name="msg_stop_auto_list">停止自动朗读%s消息</string>
-    <string name="msg_username_typo">用户名或密码格式错误</string>
-    <string name="msg_username_error">用户名或密码错误</string>
-    <string name="msg_invite_code_error">邀请码不正确</string>
-    <string name="msg_username_used">用户名已经被占用</string>
-    <string name="msg_network_error">网络链接出错，请更换网络或稍后重试</string>
-    <string name="command_verification12">滑块验证</string>
-    <string name="command_recognition_edu">试卷识别</string>
-    <string name="use_input_method_speak_word_title">读出输入法按键的例词</string>
-    <string name="trans_lua_engine_title">使用自定义翻译引擎</string>
-    <string name="edit_trans_lua_title">编辑自定义翻译引擎</string>
+    <string name="accessibility_service_description2">Glavna usluga i pomočna su iste. Ne treba ih uključivati u istovremeno.</string>
+    <string name="resume_on_screen_on_title">Ponovno uključi istraživanje dodirom ili govornu povratnu informaciju i istraživanje dodirom kada je zaslon uključen</string>
+    <string name="resume_on_notification_show_title">Ponovno pokreni isttraživanje dodirom i govorne povratne informacije pri otvaranju područja obavijesti sa povlačenjem prsta prema dolje na zaslonu</string>
+    <string name="resume_on_ringing_title">Ponovno pokreni istraživanje dodirom ili govornu povratnu informaciju kada je primljen poziv</string>
+    <string name="helper_supper_cmd_title">Dodatne glasovne naredbe</string>
+    <string name="back_break_auto_mode_title">Koristite gestu za vraćanje (jednim prstom u desno pa lijevo) za prekidanje funkcije automatskog pregleda</string>
+    <string name="msg_export_all_file">Ovo će izvesti sve vaše postavke Jiesuo u  %s spremne za novi telefon. Izbjegavajte dijeljenje svoje arhive s drugima, jer sadrži vaše podatke, uključujući podatke za prijavu.</string>
+    <string name="msg_export_all_file_fail">Nije bilo moguće izvesti. Molimo pokušajte ponovno</string>
+    <string name="import_all_title">Želite li uvesti kompletnu sigurnosnu kopiju?</string>
+    <string name="msg_import_all">Ova će radnja nadpisati sve vaše resurse Jieshuo i postavke</string>
+    <string name="app_service2">Usluga Jieshuo helper</string>
+    <string name="app_no_supper_sound_package_title">Aplikacije u kojima se ne koriste dodatni zvučni efekti
+(Dodatni zvučni efekti bit će isključeni u označenim aplikacijama)</string>
+    <string name="command_image_to_text2">Opiši cijeli zaslon</string>
+    <string name="picture_description2">Detaljni opis cijelog zaslona</string>
+    <string name="use_split_line_title">Izgovori broj redka i odlomka u granularnom načinu uređivanja</string>
+    <string name="msg_use_single_tts_enabled">Opcija jednoe govorne jedinice ue uključena</string>
+    <string name="msg_disable_use_single_tts">Morate isključiti "opciju koristi jednu govornu jedinicu" kako biste koristili %s. Želite li nastaviti?</string>
+    <string name="command_auto_list_speak">Automatski čitaj poruke Chata</string>
+    <string name="command_auto_list_speak_history">Automatska povijest chata</string>
+    <string name="msg_start_auto_list">Automatsko čitanje poruka je počelo za %s </string>
+    <string name="msg_stop_auto_list">Automatsko čitanje poruka je započelo za %s </string>
+    <string name="msg_username_typo">Korisničko ime i lozinka su neispravni</string>
+    <string name="msg_username_error">Neispravno korisničko ime i lozinka</string>
+    <string name="msg_invite_code_error">Pozivnica je neispravna</string>
+    <string name="msg_username_used">Ovo se korisničko ime već koristi</string>
+    <string name="msg_network_error">Greška pri povezivanju</string>
+    <string name="command_verification12">Verifikacija klizačem</string>
+    <string name="command_recognition_edu">Ispitaj prepoznavanje</string>
+    <string name="use_input_method_speak_word_title">Čitaj fonetski prilikom upisivanja</string>
+    <string name="trans_lua_engine_title">Koristi prilagođenog prevoditelja</string>
+    <string name="edit_trans_lua_title">Uredi prilagođenog prevoditelja</string>
     <string name="trans_lua_template"><![CDATA[" require \"import\" \n import \"java.util.Locale\"\n local form,to,text,ltr=...\n local url=string.format(\"https://translate.google.com/m?sl=%s&tl=%s&hl=%s&q=%s\",from,to,Locale.getDefault().getCountry(),text)\n Http.get(url,function(code,text)\n   ltr.onTransResult(text:match(\"<[^<>]*\\\"result%-container\\\">([^<>]*)</div>\"))\n   end)"]]></string>
-    <string name="match_all">完整匹配</string>
-    <string name="match_start">匹配开头</string>
-    <string name="match_end">匹配结尾</string>
-    <string name="match_contains">包含匹配</string>
-    <string name="today">今天</string>
-    <string name="yesterday">昨天</string>
-    <string name="before_yesterday">前天</string>
-    <string name="command_accept_call">接听电话</string>
-    <string name="command_end_call">挂断电话</string>
-    <string name="command_pause_a11y_volume">暂停无障碍音量</string>
-    <string name="msg_supper_cmd_only_voice_helper">超级语音指令只能在语音助手中调用</string>
-    <string name="msg_no_a11y_volume">没有使用无障碍音量</string>
-    <string name="msg_a11y_volume_disabled">无障碍音量已停用</string>
-    <string name="msg_a11y_volume_enabled">无障碍音量已启用</string>
-    <string name="content_blacklist_description">添加到黑名单的内容将在浏览时不会获取内容，\n用于过滤无用或错误的辅助功能信息，\n关键字可以添加星号实现简单匹配模式，\n关键字* 表示以关键字开头的过滤\n*关键字 以关键字结尾的过滤\n*关键字* 包含关键字的都过滤\n没有星号是完整匹配</string>
-    <string name="auto_speak_blacklist_description">添加到黑名单的内容将不会朗读，\n用于过滤在自动朗读中不想朗读的内容，\n关键字可以添加星号实现简单匹配模式，\n关键字* 表示以关键字开头的过滤\n*关键字 以关键字结尾的过滤\n*关键字* 包含关键字的都过滤\n没有星号是完整匹配</string>
-    <string name="notification_black_list_description">添加到黑名单的通知将不会朗读，但是会记录在通知盒子，关键字支持正则表达式匹配，如果关键字仅包含一个星号则该程序的通知全部不朗读</string>
-    <string name="notification_white_list_description">添加到白名单的通知将始终朗读，即使已经关闭通知朗读，关键字支持正则表达式匹配，如果关键字仅包含一个星号则该程序的通知全部朗读</string>
-    <string name="nodeinfo_long_clickable">可长按</string>
-    <string name="nodeinfo_not_long_click">不可长按</string>
-    <string name="nodeinfo_editable">可编辑</string>
-    <string name="nodeinfo_not_edit">不可编辑</string>
+    <string name="match_all">Točan tekst match</string>
+    <string name="match_start">Poklapanje početka</string>
+    <string name="match_end">Poklapanje kraja</string>
+    <string name="match_contains">neograničeno poklapanje</string>
+    <string name="today">Danas</string>
+    <string name="yesterday">jučer</string>
+    <string name="before_yesterday">prekjučer</string>
+    <string name="command_accept_call">Odgovori</string>
+    <string name="command_end_call">odbij</string>
+    <string name="command_pause_a11y_volume">Ne koristi glasnoću pristupačnosti</string>
+    <string name="msg_supper_cmd_only_voice_helper">Napredne glasnovne komande mogu se koristiti samo u glasovnom pomočćniku</string>
+    <string name="msg_no_a11y_volume">Ne koristiš glasnoću pristupačnosti</string>
+    <string name="msg_a11y_volume_disabled">Koristim glasnoću multimedije</string>
+    <string name="msg_a11y_volume_enabled">Koristim glasnoću pristupačnosti</string>
+    <string name="content_blacklist_description">Prilikom listanja, sadržaj dodan u crnu listu se neće čitati. Ovo pomaže u filtriranju neželjenog sadržaja ili neoznačenih gumbi. 
+Keywords can be added with asterisks to implement simple matching patterns:
+• Keyword* filters content starting with the keyword.
+• *Keyword filters content ending with the keyword.
+• *keyword* filters content containing the keyword.
+• No asterisks indicate exact matching.</string>
+    <string name="auto_speak_blacklist_description">The content added to the blacklist will not be automatically spoken. This is used to filter out content that you do not want to be read during automatic message reading.
+Mogu se dodavati ključne riječi sa zvjezdicom za implementaciju jednostavnih izraza za poklapanje:
+• Ključna riječ* filtrira sadržaj sa ključnom riječi.
+• *ključna riječ koja završava ključnom riječi.
+• *ključna riječ* filtrira sadržaj koji sadrži ključnu riječ.
+• Ako nema zvjezdica, podrazumijeva se točno poklapanje.</string>
+    <string name="notification_black_list_description">Obavijesti koji sadrže tekst sa crne liste neće biti čitane automatski, ali će se prikazivati u području obavijesti. 
+Podržani su regularni izrazi. 
+Ako je dodana samo  jedna zvjezdica, niti jedna obavijest iz aplikacije neće biti pročitana.</string>
+    <string name="notification_white_list_description">Obavijesti koje sadrže test sa bijele liste će uvijek automatski biti pročitane čak iako je onemogućeno čitanje obavijesti. 
+REgularni izrazi su podržani.
+Ako je dodana samo jedna zvjezdica čitat će se sve obavijesti</string>
+    <string name="nodeinfo_long_clickable">Može biti pritisnuto dugo</string>
+    <string name="nodeinfo_not_long_click">Ne može biti pritisnuto dugo</string>
+    <string name="nodeinfo_editable">za uređivanje</string>
+    <string name="nodeinfo_not_edit">Nije za uređivanje</string>
+    <string name="sound_scroll_page">Listanje stranice</string>
+    <string name="use_auto_mode_move_list_view_item_title">Preskaći stavke povezane s trenutnom stavkom u načinu pregleda</string>
+    <string name="helper_tts_setting_title">Postavke govorne jedinice za odgovore glasovnog pomoćnika</string>
+    <string name="node_tts_setting_title">Postavke govorne jedinice za praćenje fokusa</string>
+    <string name="voice_helper_use_big_title">Pošaljite poruku Ai chatbotu</string>
+    <string name="chat_history">Povijest poruka</string>
+    <string name="command_recognition_icon">Prepoznavanje trenutne stavke</string>
+    <string name="command_long_hold">Dugi pritisak i držanje</string>
+    <string name="sound_progress">traka napredka</string>
+    <string name="sound_progress_100">100 posto napredka</string>
+    <string name="sound_clear_notification">Obriši sve obavijesti</string>
+    <string name="sound_talkman_start">Jieshuo je uključen</string>
+    <string name="sound_talkman_stop">Jieshuo je isključen</string>
+    <string name="sound_camera">Zavarač kamere</string>
+    <string name="voice_picture_description">Doznaj glasom o trenutnoj slici</string>
+    <string name="voice_picture_description2">Doznaj glasom o cijelom zaslonu</string>
 
 </resources>

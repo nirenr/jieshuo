@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Jieshuo+</string>
     <string name="accessibility_service_description">
-        El comentario es un software que pretende facilitar a los usuarios no videntes el uso de los teléfonos móviles con Android. Hemos realizado algunas innovaciones en el ámbito de la interacción humano-máquina. Sabemos que entender completamente nuestro software puede llevar tiempo, por lo que le animamos a explorar los ajustes para obtener ayuda o ponerse en contacto con nosotros.\n
+        Jieshuo es un software que pretende facilitar a los usuarios no videntes el uso de los teléfonos móviles con Android. Hemos realizado algunas innovaciones en el ámbito de la interacción humano-máquina. Sabemos que entender completamente nuestro software puede llevar tiempo, por lo que le animamos a explorar los ajustes para obtener ayuda o ponerse en contacto con nosotros.\n
         Algunas funciones están restringidas y sólo se desbloquearán tras adquirir la versión completa del programa. Para más detalles, visita el grupo oficial de Telegram o WhatsApp en tu idioma.\n
         \n
         Las funciones más notables del programa incluyen: \n
@@ -22,27 +22,27 @@
         Lectura automática de mensajes: leer automáticamente los mensajes de QQ, YY, Tiktok y muchos más.\n
         Lectura automática de subtítulos: ver películas internacionales nunca ha sido tan fácil Lee automáticamente los subtítulos de los vídeos y hazte la vida más fácil.\n
         Reconocimiento de CAPTCHA: utilizar las funciones avanzadas de inteligencia artificial para reconocer las imágenes CAPTCHA con la velocidad del rayo.\n
-        Cámara de comentario: Identifica todo lo que está frente a ti. Personas, escenas y objetos.\n
+        Cámara de Jieshuo: Identifica todo lo que está frente a ti. Personas, escenas y objetos.\n
         Filtrado de contenidos web: no deje que los contenidos sin importancia perturben su lectura. Filtrar imágenes, textos publicitarios y otros elementos no deseados.\n
         Lista de copias: diga adiós a esos tediosos métodos utilizados para copiar largas listas. Un clic es suficiente para copiar incluso la lista más larga.\n
-         Modo de lectura de artículo: torneado de página automático, filtrado de contenidos o modo de lectura en segundo plano. Deja que el comentario se convierta también en tu lector de E-Books.\n
+         Modo de lectura de artículo: torneado de página automático, filtrado de contenidos o modo de lectura en segundo plano. Deja que Jieshuo se convierta también en tu lector de E-Books.\n
         Esquemas por gesto: crear esquemas gestuales sólo para una aplicación. Esta función ofrece infinitas posibilidades.\n
         Lista de favoritos: ten acceso a tu contenido favorito, en cualquier lugar y en cualquier momento.\n
         Modo de edición granular: Edite el texto por caracteres, palabras, frases o párrafos más rápidamente, y realice todos los cambios deseados con precisión.\n
         Selección de texto completo: Selecciona por caracteres, palabras, frases o párrafos para copiar el texto justo donde quieras.\n
         Comandos de voz personalizados: Impulsado por el mismo motor que impulsa el sistema enchufable, le esperan infinitas posibilidades de actualización y ajuste del asistente de voz.\n
         Sistema de plugin automático: lanzar automáticamente varios plug-ins en los intervalos de tiempo especificados.\n
-        El comentario es tan nuestro como tuyo. Cree su propia experiencia de comentario con infinitas opciones de configuración.
+        Jieshuo es tan nuestro como tuyo. Cree su propia experiencia de Jieshuo con infinitas opciones de configuración.
     </string>
     <string name="about_title">Hebei Biyou Technology Co., Ltd.</string>
-    <string name="help_feed_summary">El comentario utiliza algunas tecnologías de terceros: Tencent Youtu, Tencent AI, Baidu Voice, Baidu Translation, Baidu LBS, Baidu MTJ y Andro Lua.</string>
+    <string name="help_feed_summary">Jieshuo utiliza algunas tecnologías de terceros: Tencent Youtu, Tencent AI, Baidu Voice, Baidu Translation, Baidu LBS, Baidu MTJ y Andro Lua.</string>
     <string name="menu_title">Menú</string>
     <string name="tts_speed_title">Velocidad de la voz: </string>
     <string name="tts_speed_summary">Cambia la velocidad de la voz.</string>
     <string name="usage_hints_title">Leer sugerencias: </string>
     <string name="usage_hints_summary">Lee sugerencias de interacción basadas en la aplicación con la que interactúas..</string>
     <string name="vibrate_title">Vibración: </string>
-    <string name="vibrate_summary">obtenga respuesta de vibración al utilizar el comentario.</string>
+    <string name="vibrate_summary">obtenga respuesta de vibración al utilizar Jieshuo.</string>
     <string name="use_proixmity_sensor_title">Usar sensor de proximidad: </string>
     <string name="use_proixmity_sensor_summary">Detiene la lectura al tocar el sensor de proximidad.</string>
     <string name="screen_off_speak_title">Leer notificaciones con pantalla apagada: </string>
@@ -79,7 +79,7 @@
     <string name="notification_type_status_started">"iniciado"</string>
     <string name="notification_type_status_stopped">"detenido"</string>
     <string name="acc_settings_title">Abrir ajustes de accesibilidad</string>
-    <string name="qq_group_title">Grupo oficial del comentario</string>
+    <string name="qq_group_title">Grupo oficial dJieshuo</string>
     <string name="audio_focus_title">Atenuación de audio: </string>
     <string name="voice_app_name">Asistente de voz</string>
     <string name="voice_helper_service_description">Usa tu teléfono con comandos de voz.</string>
@@ -150,7 +150,7 @@
     <string name="content_blacklist_title">Contenido de la lista negra</string>
     <string name="no_phone_permission">Sin permisos.</string>
     <string name="message_time_out">denegado</string>
-    <string name="message_welcome">Comentario activado.</string>
+    <string name="message_welcome">Se activó Jieshuo.</string>
     <string name="message_in_dim_screen">Activar pantalla atenuada</string>
     <string name="message_out_dim_screen">Desactivar pantalla atenuada</string>
     <string name="message_only_android5_last">Solamente se soporta Android 5 y posterior!</string>
@@ -276,8 +276,8 @@
     <string name="use_speak_call_phone_title">Información del llamante: </string>
     <string name="use_speak_changed_volume_summary">Lea el aviso al ajustar el volumen</string>
     <string name="use_speak_changed_volume_title">Aviso de volumen: </string>
-    <string name="vip_qq_group_title">Grupo QQ VIP del comentario</string>
-    <string name="qq_group2_title">Grupo QQ secundario del comentario</string>
+    <string name="vip_qq_group_title">Grupo QQ VIP dJieshuo</string>
+    <string name="qq_group2_title">Grupo QQ secundario dJieshuo</string>
 
 
     <string name="right_long_edge_gesture_title">Ajuste de deslizamiento hacia el lado derechho.</string>
@@ -327,7 +327,7 @@
     <string name="use_custom_gesture_title">Usar gestos personalizados</string>
     <string name="custom_gesture_settings_title">Ajustes de gestos personalizados</string>
     <string name="use_foreground_pro_title">Pantalla antibloqueo mejorada</string>
-    <string name="use_foreground_pro_summary">Si el teléfono está apagado y la hibernación se profundiza, puede probar esta opción. Cuando apague la pantalla, establezca la ventana del comentario en primer plano.</string>
+    <string name="use_foreground_pro_summary">Si el teléfono está apagado y la hibernación se profundiza, puede probar esta opción. Cuando apague la pantalla, establezca la ventana dJieshuo en primer plano.</string>
     <string name="use_power_save_title">Modo ahorro de energía</string>
     <string name="use_power_save_summary">Reduce el consumo de batería</string>
     <string name="power_settings_title">Ajustes de energía</string>
@@ -357,7 +357,7 @@
     <string name="restore_settings_title">Ajustes de restauración</string>
     <string name="restore_settings_summary">Al restaurar los ajustes, se sobreescribirán las opciones actuales</string>
     <string name="backup_settings_summary">La copia de seguridad de los ajustes sobreescribirá la última copia de seguridad</string>
-    <string name="jieshuo_bbs_title">Foro del comentario</string>
+    <string name="jieshuo_bbs_title">Foro dJieshuo</string>
     <string name="use_symbol_speak_title">Anunciar puntuación</string>
     <string name="use_cloud_label_title">Compartir etiquetas</string>
     <string name="use_cloud_label_summary">Comparte y descarga etiquetas personalizadas desde el servidor</string>
@@ -370,7 +370,7 @@
     <string name="use_raw_click_title">Usar toque directo en lugar de toque de accesibilidad</string>
     <string name="use_raw_click_summary">En Android 7 y superior, esta función puede resolver problemas con algunas aplicaciones que no reaccionan a la entrada.</string>
     <string name="has_vip_summary">%s solo está disponible para usuarios premium</string>
-    <string name="vip_qq_kefu_title">Soporte del comentario</string>
+    <string name="vip_qq_kefu_title">Soporte dJieshuo</string>
     <string name="vip_qq_kefu_summary">Consulta, compra, transferencia, transferencia, pase la certificación de servicio al cliente</string>
     <string name="use_speak_changed_window_title">Leer todo el contenido de la ventana al cambiar</string>
     <string name="use_timer_sound_title">Indicador de sonido del temporizador</string>
@@ -566,7 +566,7 @@
     <string name="command_voice_input">Dictado por voz</string>
     <string name="command_ocr">Reconocer imagen</string>
     <string name="command_ocr_text">Reconocer texto</string>
-    <string name="camera_title">Cámara del comentario</string>
+    <string name="camera_title">Cámara dJieshuo</string>
     <string name="command_disable_touch">Suspender exploración táctil</string>
     <string name="command_disable_feedback">Suspender respuesta de voz</string>
     <string name="command_to_notifications">Ir a notificaciones</string>
@@ -581,7 +581,7 @@
     <string name="main_menu">Menú principal</string>
     <string name="auto_read">Lectura automática</string>
     <string name="list_mode_title">Navegación en lista</string>
-    <string name="main_setting">Ajustes del comentario</string>
+    <string name="main_setting">Ajustes dJieshuo</string>
     <string name="battery_level">Nivel de batería: %d</string>
     <string name="double_fling_left_gesture_title">Ajuste de deslizamiento a la izquierda</string>
     <string name="double_fling_up_gesture_title">Ajuste de deslizamiento hacia arriba</string>
@@ -672,7 +672,7 @@
     <string name="use_edge_gesture_menu_title">Usar el menú de borde</string>
     <string name="use_left_edge_gesture_quick_menu_title">Usar el menú de acceso directo de una sola aplicación en el borde izquierdo</string>
     <string name="use_small_filter_title">Filtrar elementos no deseados</string>
-    <string name="jieshuo_bbs_summary">Comparta retroalimentación del comentario en nuestro foro</string>
+    <string name="jieshuo_bbs_summary">Comparta retroalimentación dJieshuo en nuestro foro</string>
     <string name="voice_recognizer_title">Motor de reconocimiento: </string>
     <string name="use_text_format_char_upper_title">Avisar en mayúsculas</string>
     <string name="voice_helper_media_mute_mode_title">Bloquear el sonido de los medios cuando el asistente de voz está en ejecución</string>
@@ -682,7 +682,7 @@
     <string name="use_float_menu_title">Usar menú flotante</string>
     <string name="tts_scale_title">Tasa de habla</string>
     <string name="auto_previous">Auto anterior</string>
-    <string name="code_help_title">Referencia del API del comentario</string>
+    <string name="code_help_title">Referencia del API dJieshuo</string>
     <string name="sign_up">Registrarse</string>
     <string name="login">Iniciar sesión</string>
     <string name="back">Atrás</string>
@@ -928,12 +928,12 @@
     <string name="setup_setting_title">Asistente de configuración</string>
     <string name="check_overlay_permissions_title">Compruebe el estado de permisos usado para las ventanas flotantes del programa</string>
     <string name="check_battery_permissions_title">Compruebe los permisos de optimización de la batería para el correcto funcionamiento del programa</string>
-    <string name="open_application_info_title">Abrir la página de información sobre el  comentario</string>
+    <string name="open_application_info_title">Abrir la página de información sobre Jieshuo</string>
     <string name="open_setup_setting_title">Abrir el asistente de configuración</string>
     <string name="check_notification_permissions_title">Compruebe los permisos de notificación</string>
     <string name="denied_permissions_title">Permiso denegado</string>
-    <string name="welcome_msg">Este es el comentario, El mejor software de lectura de pantalla para Android. Elija una de las tres opciones: Asistente de configuración: permite configurar los ajustes básicos para ayudarlo a comenzar rápidamente. Haga clic en Ver permisos para leer sobre varios permisos y salir para salir del asistente.</string>
-    <string name="use_left_right_msg">El comentario soporta varios modos de navegación. El predeterminado es usar los gestos de deslizamiento hacia arriba y hacia abajo como los gestos de movimiento predeterminados. Sin embargo, si está acostumbrado a deslizar hacia la izquierda y hacia la derecha para el movimiento (similar a TalkBack u otros lectores de pantalla basados en él), puede configurarlo aquí también. Desliza el dedo hacia la izquierda ahora para usar el conjunto de gestos predeterminado, o desliza el dedo hacia la derecha para usar el conjunto de gestos alternativo.</string>
+    <string name="welcome_msg">Este es Jieshuo, El mejor software de lectura de pantalla para Android. Elija una de las tres opciones: Asistente de configuración: permite configurar los ajustes básicos para ayudarlo a comenzar rápidamente. Haga clic en Ver permisos para leer sobre varios permisos y salir para salir del asistente.</string>
+    <string name="use_left_right_msg">Jieshuo soporta varios modos de navegación. El predeterminado es usar los gestos de deslizamiento hacia arriba y hacia abajo como los gestos de movimiento predeterminados. Sin embargo, si está acostumbrado a deslizar hacia la izquierda y hacia la derecha para el movimiento (similar a TalkBack u otros lectores de pantalla basados en él), puede configurarlo aquí también. Desliza el dedo hacia la izquierda ahora para usar el conjunto de gestos predeterminado, o desliza el dedo hacia la derecha para usar el conjunto de gestos alternativo.</string>
     <string name="usage_hints_msg">Las sugerencias de uso pueden ayudar a un usuario novato a familiarizarse con el uso del lector de pantalla. Si es la primera vez que usa su teléfono móvil, le recomendamos habilitar esta opción para una experiencia perfecta. Sin embargo, si usted es un usuario móvil experimentado, le recomendamos desactivar esta opción para una experiencia más concisa.</string>
     <string name="use_list_index_msg">Leer el índice del elemento enfocado actualmente en una lista puede ayudarlo a orientarse mejor en la longitud y su posición actual en la lista. Aunque sea así, las indicaciones de lectura serán más largas y algunas personas pueden encontrarlo difícil o perturbador.</string>
     <string name="notification_speak_msg">La lectura de las notificaciones permitirá que el lector de pantalla lea las notificaciones entrantes. Active esta opción para que todas las notificaciones sean leídas. Si no desea que le molesten, le recomendamos desactivar esta opción.</string>
@@ -947,7 +947,7 @@
     <string name="use_single_tts_ok">Se utilizará un solo motor TTS</string>
     <string name="use_single_tts_no">Se utilizarán dos motores TTS</string>
     <string name="permission_title">Descripción del permiso:</string>
-    <string name="permission_msg">Leer estado del teléfono: Se utiliza para proporcionar servicios únicos, como la autenticación de la cuenta para generar el ID de usuario. ， Teléfono: se usa para monitoriar el estado de las llamadas y ofrecer respuestas rápidas, identificador de llamadas, responder o rechazar llamadas entrantes.\n  Contestar teléfono: proporciona una respuesta rápida en android 8 y superior/rechazar llamadas y otras funciones.\n  Realizar llamadas: Permite realizar llamadas con el asistente de voz.\n  Permiso de ubicación: Se utiliza para proporcionar servicios personalizados basados en la  ubicación, como el clima local, servicios de mapas y navegación en la ubicación actual y características futuras.\n  Cámara: Se utiliza para tomar fotografías y varias funciones de reconocimiento.\n  Grabar audio, micrófono: Se usa para el asistente de voz, dictado por voz y comandos de voz.\n  Contactos: Permite realizar llamadas con comandos de voz y menciona los nombres de contactos al recibir llamadas.\n  Pantalla en pantalla: Se usa para mostrar menús, cuadros de diálogo y formularios, así como la función de pantalla atenuada.\n  Accesos directos en el escritorio: Se usa para los plugins, herramientas y extensiones, aplicaciones ligeras, proporciona funciones agregadas al escritorio para facilitar el inicio.\n  Instalar apps desconocidas: Se usa para la actualización automática del programa.\n  Acceso a la red: Autenticación de usuario, reconocimiento de imagen, etiquetas en la nube y reconocimiento de voz.\n  Ejecutarse al inicio: Permite iniciar el comentario tan pronto se inicie el dispositivo.\n  Evitar que el dispositivo se bloquee: Evitar que la pantalla se apague mientras se lee contenido.\n  Denegar permisos puede hacer que algunas características no funcionen correctamente.</string>
+    <string name="permission_msg">Leer estado del teléfono: Se utiliza para proporcionar servicios únicos, como la autenticación de la cuenta para generar el ID de usuario. ， Teléfono: se usa para monitoriar el estado de las llamadas y ofrecer respuestas rápidas, identificador de llamadas, responder o rechazar llamadas entrantes.\n  Contestar teléfono: proporciona una respuesta rápida en android 8 y superior/rechazar llamadas y otras funciones.\n  Realizar llamadas: Permite realizar llamadas con el asistente de voz.\n  Permiso de ubicación: Se utiliza para proporcionar servicios personalizados basados en la  ubicación, como el clima local, servicios de mapas y navegación en la ubicación actual y características futuras.\n  Cámara: Se utiliza para tomar fotografías y varias funciones de reconocimiento.\n  Grabar audio, micrófono: Se usa para el asistente de voz, dictado por voz y comandos de voz.\n  Contactos: Permite realizar llamadas con comandos de voz y menciona los nombres de contactos al recibir llamadas.\n  Pantalla en pantalla: Se usa para mostrar menús, cuadros de diálogo y formularios, así como la función de pantalla atenuada.\n  Accesos directos en el escritorio: Se usa para los plugins, herramientas y extensiones, aplicaciones ligeras, proporciona funciones agregadas al escritorio para facilitar el inicio.\n  Instalar apps desconocidas: Se usa para la actualización automática del programa.\n  Acceso a la red: Autenticación de usuario, reconocimiento de imagen, etiquetas en la nube y reconocimiento de voz.\n  Ejecutarse al inicio: Permite iniciar Jieshuo tan pronto se inicie el dispositivo.\n  Evitar que el dispositivo se bloquee: Evitar que la pantalla se apague mientras se lee contenido.\n  Denegar permisos puede hacer que algunas características no funcionen correctamente.</string>
     <string name="check_permissions_msg">Haga clic en Siguiente para conceder permisos básicos o cancelar para salir.</string>
     <string name="next">Próximo paso</string>
     <string name="setup_setting_done">La configuración se completó</string>
@@ -992,7 +992,7 @@
     <string name="install_shortcut">Añadir acceso directo al escritorio</string>
     <string name="msg_select_end">Fin</string>
     <string name="msg_select_start">Inicio</string>
-    <string name="msg_plugin_run_error">Primero inicie el plugin de servicio de accesibilidad del comentario para ejecutar esta función</string>
+    <string name="msg_plugin_run_error">Primero inicie el plugin de servicio de accesibilidad dJieshuo para ejecutar esta función</string>
     <string name="input_file_name">Introducir nombre de archivo</string>
     <string name="input_project_name">Introducir nombre de proyecto</string>
     <string name="use_loop_move_title">Usar desplazamiento circular</string>
@@ -1112,7 +1112,7 @@
     <string name="use_accessibility_volume_fix_summary">Si el volumen sin barreras se sube o baja de manera repentina, podrás utilizar este ajuste</string>
     <string name="msg_exit_game_mode">Salió del modo jugador</string>
     <string name="privacy">Privacidad</string>
-    <string name="show_download_title">Descargando comentario</string>
+    <string name="show_download_title">Descargar Jieshuo</string>
     <string name="version_msg">%s\nTamaño:%s\nDescargas totales:%s</string>
     <string name="user_new_password">Nueva contraseña (solo se admiten 6 o 15 letras o números del alfabeto latino)</string>
     <string name="repassword_title">Cambiar contraseña</string>
@@ -1176,10 +1176,10 @@
     <string name="command_to_previous_paragraph">párrafo anterior</string>
     <string name="command_to_head_set_key">reproducir pausa</string>
     <string name="msg_selected_from_to">Seleccionado desde %d hasta %d</string>
-    <string name="album_activity">Album del comentario</string>
+    <string name="album_activity">Album dJieshuo</string>
     <string name="command_toggle_tts_engine">Cambiar el motor tts actual</string>
     <string name="command_speak_light">leer brillo</string>
-    <string name="use_recording_stop_title">Silenciar al comentario cuando se está grabando</string>
+    <string name="use_recording_stop_title">Silenciar a Jieshuo cuando se está grabando</string>
     <string name="use_speak_call_time_title">Decir la duración de la llamada telefónica finalizada</string>
     <string name="use_speak_call_time_summary">Controla si la duración de la llamada se lee automáticamente cuando finaliza la llamada. Esta función requiere permiso para leer registros de llamadas</string>
     <string name="use_list_item_index_real_time_title">Leer el índice del elemento de la lista actualmente enfocado mientras se desplaza por una lista</string>
@@ -1288,9 +1288,9 @@
     <string name="use_navigation_gesture_title">Utilizar gestos de navegación a pantalla completa con un dedo</string>
     <string name="use_navigation_gesture_summary">Desliza el dedo hacia arriba desde la parte inferior de la pantalla para ejecutar gestos a pantalla completa (Android 11 y superior</string>
     <string name="msg_import">Importado %s</string>
-    <string name="wallpaper_description">Si no desea conceder permisos adicionales, por favor, establezca al comentario como su fondo de pantalla</string>
-    <string name="wallpaper_title">Usar fondo de pantalla de comentario (beta)</string>
-    <string name="wallpaper_summary">Algunos teléfonos tienen restricciones de batería extremas activadas por defecto. Si el módulo de optimización de la batería mata al lector de pantalla, al habilitar esta opción, el comentario se convertirá en el anfitrión del fondo de pantalla, reduciendo este efecto</string>
+    <string name="wallpaper_description">Si no desea conceder permisos adicionales, por favor, establezca a Jieshuo como su fondo de pantalla</string>
+    <string name="wallpaper_title">Usar fondo de pantalla de Jieshuo (beta)</string>
+    <string name="wallpaper_summary">Algunos teléfonos tienen restricciones de batería extremas activadas por defecto. Si el módulo de optimización de la batería mata al lector de pantalla, al habilitar esta opción, Jieshuo se convertirá en el anfitrión del fondo de pantalla, reduciendo este efecto</string>
     <string name="nodeinfo_type">Tipo:</string>
     <string name="nodeinfo_text">Texto:</string>
     <string name="nodeinfo_content_description">Descripción del contenido de accesibilidad:</string>
@@ -1502,8 +1502,8 @@
     <string name="use_window_title_changed_title">Cambio del título de la ventana de lectura en voz alta</string>
     <string name="do_not_prompt_again">No preguntar de nuevo</string>
     <string name="use_custom_language_title">Idiomas personalizados</string>
-    <string name="msg_has_not_enabled">El comentario aún no se inició. Solo estará disponible para ti una vez que actives el lector de pantalla en las configuraciones de accesibilidad. ¿Deseas ir ahora a las configuraciones de accesibilidad para activar el lector de pantalla o prefieres activarlo más tarde en el menú de ajustes de la función de lector de pantalla?</string>
-    <string name="msg_has_not_enabled_33">Advertencia: Si usted es usuario de Android 13, al activar el comentario por primera vez en \'Accesibilidad\' o \'Funciones de asistencia\', es posible que aparezca un cuadro de diálogo de configuración restringida. Se le informará que esta configuración no está disponible por motivos de seguridad. Después de hacer clic en el botón de confirmación, abra la información de la aplicación del comentario, haga clic en la opción \'Más\' en la esquina superior derecha y luego seleccione \'Permitir configuración restringida\'. Luego, vuelva a la sección de \'Accesibilidad\' o \'Funciones de asistencia\' para activar el comentario. Si su dispositivo Android 13 no muestra la advertencia mencionada anteriormente, puede ignorar esta instrucción.\n</string>
+    <string name="msg_has_not_enabled">Jieshuo aún no se inició. Solo estará disponible para ti una vez que actives el lector de pantalla en las configuraciones de accesibilidad. ¿Deseas ir ahora a las configuraciones de accesibilidad para activar el lector de pantalla o prefieres activarlo más tarde en el menú de ajustes de la función de lector de pantalla?</string>
+    <string name="msg_has_not_enabled_33">Advertencia: Si usted es usuario de Android 13, al activar Jieshuo por primera vez en \'Accesibilidad\' o \'Funciones de asistencia\', es posible que aparezca un cuadro de diálogo de configuración restringida. Se le informará que esta configuración no está disponible por motivos de seguridad. Después de hacer clic en el botón de confirmación, abra la información de la aplicación dJieshuo, haga clic en la opción \'Más\' en la esquina superior derecha y luego seleccione \'Permitir configuración restringida\'. Luego, vuelva a la sección de \'Accesibilidad\' o \'Funciones de asistencia\' para activar Jieshuo. Si su dispositivo Android 13 no muestra la advertencia mencionada anteriormente, puede ignorar esta instrucción.\n</string>
     <string name="use_edit_hint_title">Leer en voz alta el texto del cuadro de edición</string>
     <string name="check_manage_files_permissions_title">Comprobación de los privilegios de gestión de archivos</string>
     <string name="check_alarm_permissions_title">Comprobar los permisos de alarma y recordatorio</string>
@@ -1512,10 +1512,10 @@
     <string name="setup_setting_has_file_permission">Se han adquirido privilegios de gestión de archivos</string>
     <string name="setup_setting_not_alarm_permission">Permisos de alarma y recordatorio no concedidos</string>
     <string name="setup_setting_has_alarm_permission">Se han concedido permisos de alarma y recordatorio</string>
-    <string name="setup_setting_alarm_permission_msg">El comentario puede usar el permiso del despertador para transmitir la hora o realizar tareas en el momento que especifique</string>
+    <string name="setup_setting_alarm_permission_msg">Jieshuo puede usar el permiso del despertador para transmitir la hora o realizar tareas en el momento que especifique</string>
     <string name="use_volume_on_long_speak_title">Ajustar el volumen del lecctor de pantalla usando las teclas de volumen cuando estés leyendo un texto largo en voz alta</string>
     <string name="message_title">Presentación</string>
-    <string name="msg_talkback_enabled">Has activado al comentario, y tener comentario y TalkBack activados al mismo tiempo podría ocasionar problemas con la funcionalidad táctil. Por favor, desactiva TalkBack para poder volver a utilizar la función táctil del comentario una vez más.</string>
+    <string name="msg_talkback_enabled">Has activado Jieshuo, y tener Jieshuo y TalkBack activados al mismo tiempo podría ocasionar problemas con la funcionalidad táctil. Por favor, desactiva TalkBack para poder volver a utilizar la función táctil dJieshuo una vez más.</string>
     <string name="cur_timer_speak_title">Temporizador preestablecido Ajustes de lectura en voz alta</string>
     <string name="use_speak_uts">tiempo transcurrido</string>
     <string name="use_speak_rts">tiempo restante</string>
@@ -1576,7 +1576,7 @@
     <string name="web_download_only_wifi">Descargar solo con WIFI</string>
     <string name="merge">Fusionar</string>
     <string name="overlay">sobrescribir</string>
-    <string name="msg_has_enabled">Primero activa el comentario</string>
+    <string name="msg_has_enabled">Primero activa Jieshuo</string>
     <string name="msg_read_done">Leer completo.</string>
     <string name="are_you_delete_all_logs">¿Estás seguro de que quieres borrar todos los registros?</string>
     <string name="msg_speech_error_audio">Problemas de audio</string>
@@ -1615,134 +1615,151 @@
     <string name="default_gesture_setting_summary">Gestionar el comportamiento cuando un esquema de gestos está configurado por defecto o un esquema personalizado devuelve false.</string>
     <string name="use_action_menu_show_cursor_title">Personalización del enfoque de la pantalla en el menú de funcionamiento</string>
     <string name="use_action_menu_show_ext_title">Las funciones ampliadas, como el ajuste del progreso de extracción de enlaces, se muestran en el menú de funcionamiento.</string>
-    <string name="find_next">查找下一个</string>
-    <string name="find_previous">查找上一个</string>
+    <string name="find_next">Siguiente resultado</string>
+    <string name="find_previous">Resultado anterior</string>
 
-    <string name="command_media_fast_forward">快进</string>
-    <string name="command_media_rewind">快退</string>
-    <string name="command_selection_mode">选择模式</string>
-    <string name="timer_format_title">报时时间格式</string>
-    <string name="timer_format_def">系统默认</string>
-    <string name="timer_format_12">12小时制</string>
-    <string name="timer_format_24">24小时制</string>
-    <string name="default_gesture_type_title">默认手势风格</string>
-    <string name="default_gesture_type_def_up_down">上/下切换焦点，左/右快捷手势</string>
-    <string name="default_gesture_type_web_up_down">仅在网页使用按类型浏览(左/右切换类型，上/下切换项目)</string>
-    <string name="default_gesture_type_web_up_down_new">仅在网页使用按类型浏览(先上后下/先下上后切换类型，左/右切换项目，上/下切换焦点)</string>
-    <string name="default_gesture_type_view_up_down">在所有视图使用按类型浏览(左/右切换类型，上/下切换项目)</string>
-    <string name="default_gesture_type_view_up_down_new">在所有视图使用按类型浏览(先上后下/先下上后切换类型，左/右切换项目，上/下切换焦点)</string>
-    <string name="default_gesture_type_def_left_right">左/右切换焦点，上/下快捷手势</string>
-    <string name="default_gesture_type_web_left_right">仅在网页使用按类型浏览(上/下切换类型，左/右切换项目)</string>
-    <string name="default_gesture_type_web_left_right_new">仅在网页使用按类型浏览(先上后下/先下上后切换类型，上/下切换项目，左/右切换焦点)</string>
-    <string name="default_gesture_type_view_left_right">在所有视图使用按类型浏览(上/下切换类型，左/右切换项目)</string>
-    <string name="default_gesture_type_view_left_right_new">在所有视图使用按类型浏览(先上后下/先下上后切换类型，上/下切换项目，左/右切换焦点)</string>
-    <string name="use_speak_state_title">先读出焦点状态</string>
-    <string name="alarm_hours_title">报时的时间</string>
-    <string name="notification_in_call_no_speak_title">通话时通知免打扰</string>
-    <string name="notification_in_auto_read_no_speak_title">自动浏览或阅读模式时通知免打扰</string>
-    <string name="timer_action_def_title">计时器默认操作</string>
-    <string name="timer_action_def_summary">当包含预设计时器时有效</string>
-    <string name="timer_item_formater">%s %d小时 %d分钟 %s</string>
-    <string name="use_ocr_auto_speak_title">自动朗读全屏文字识别或虚拟屏幕结果</string>
-    <string name="use_new_text_move_type_title">使用解说风格处理文字移动操作</string>
-    <string name="use_move_text_gesture_title">在激活的编辑框移动光标</string>
-    <string name="use_answer_phone_calls_incall_gesture_title">在来电界面接听挂断电话</string>
-    <string name="use_scroll_seek_gesture_title">在进度滑块调节进度</string>
-    <string name="use_scroll_list_gesture_title">在列表中滚动列表</string>
-    <string name="use_click_dialog_gesture_title">在对话框点击确定/取消按钮</string>
-    <string name="use_click_button_gesture_title">执行自定义快捷操作</string>
-    <string name="export_all_file">导出全部</string>
-    <string name="share_all">分享全部</string>
-    <string name="command_image_to_text">图片描述</string>
-    <string name="incall_tts_setting_title">来电报号语音设置</string>
-    <string name="reader_tts_setting_title">阅读模式语音设置</string>
-    <string name="char_mode_tts_setting_title">逐字浏览语音设置</string>
-    <string name="auto_read_tts_setting_title">自动浏览语音设置</string>
-    <string name="notification_tts_setting_title">通知语音设置</string>
-    <string name="use_up_tap_prompt_title">抬手激活超时提示</string>
-    <string name="double_fling_time_title">两部手势等待时长</string>
-    <string name="jieshuo_beta_title">内测下载</string>
-    <string name="picture_description">图像理解</string>
-    <string name="auto_list_tts_setting_title">自动朗读消息语音设置</string>
-    <string name="more_tts_setting_title">更多语音库设置</string>
-    <string name="ocr_lang_zh">中英混合</string>
-    <string name="ocr_lang_zh_rare">中文生僻字、繁体字</string>
-    <string name="ocr_lang_auto">自动</string>
-    <string name="ocr_lang_mix">混合语种</string>
-    <string name="ocr_lang_jap">日语</string>
-    <string name="ocr_lang_kor">韩语</string>
-    <string name="ocr_lang_spa">西班牙语</string>
-    <string name="ocr_lang_fre">法语</string>
-    <string name="ocr_lang_ger">德语</string>
-    <string name="ocr_lang_por">葡萄牙语</string>
-    <string name="ocr_lang_vie">越语</string>
-    <string name="ocr_lang_may">马来语</string>
-    <string name="ocr_lang_rus">俄语</string>
-    <string name="ocr_lang_ita">意大利语</string>
-    <string name="ocr_lang_hol">荷兰语</string>
-    <string name="ocr_lang_swe">瑞典语</string>
-    <string name="ocr_lang_fin">芬兰语</string>
-    <string name="ocr_lang_dan">丹麦语</string>
-    <string name="ocr_lang_nor">挪威语</string>
-    <string name="ocr_lang_hun">匈牙利语</string>
-    <string name="ocr_lang_tha">泰语</string>
-    <string name="ocr_lang_hi">印地语</string>
-    <string name="ocr_lang_ara">阿拉伯语</string>
-    <string name="use_virtual_screen_dim_background_title">虚拟屏幕使用黑色背景</string>
-    <string name="edit_ocr_lua_title">编辑自定义扩展ocr引擎</string>
-    <string name="ocr_lua_template">require \"import\"\nimport \"com.nirenr.talkman.ai.*\"\n--例子代码是帮助理解代码的伪代码，不能直接运行\nbs,listener=...--获取参数\ntask(function(bs)\n  function 识别函数(bs)\n    --虚拟构成识别结果\n    return {\n      length=2,\n      {\n        t=\"例子代码是帮助理解代码的伪代码\",\n        x=0,\n        y=300,\n        w=1000,\n        h=100,\n        s=50\n      },\n      {\n        t=\"不能直接运行\",\n        x=0,\n        y=600,\n        w=800,\n        h=100,\n        s=50\n      }\n    }\n  end\n\n  local ret=识别函数(bs)\n  local rets=OcrResult.OcrItem[ret.length]--构建返回值数组\n  for n=1,ret.length do\n    --注意java与lua数组开始索引不同\n    rets[n-1]=OcrResult.OcrItem(\n    ret[n].t,--文字内容\n    ret[n].x,--文字x坐标，距离屏幕左侧距离\n    ret[n].y,--文字y坐标，距离屏幕顶部距离\n    ret[n].w,--文字区域宽度\n    ret[n].h,--文字区域高度\n    ret[n].s--文字高度\n    )\n  end\n  return OcrResult(rets)--返回结果到主线程\nend,\nbs,--将图片的byte数组传入线程\nfunction(rets)\n  listener.onDone(rets)--在回调函数调用onDone通知读屏识别完成\nend)</string>
-    <string name="accessibility_service_description2">解说辅助服务和主服务功能完全相同，主要用于部分会检测读屏服务名的场景，两个服务不需要同时开启。</string>
-    <string name="resume_on_screen_on_title">当屏幕打开时恢复反馈</string>
-    <string name="resume_on_notification_show_title">当下拉显示通知栏时恢复反馈</string>
-    <string name="resume_on_ringing_title">当来电时恢复反馈</string>
-    <string name="helper_supper_cmd_title">超级语音指令</string>
-    <string name="back_break_auto_mode_title">返回手势打断自动浏览</string>
-    <string name="msg_export_all_file">将备份所有设置和文件到 %s 文件，发送到新手机可以全部导入，文件包含你的所有数据，请不要分享给其他人以免隐私泄露</string>
-    <string name="msg_export_all_file_fail">备份失败请重试</string>
-    <string name="import_all_title">导入解说完整备份吗</string>
-    <string name="msg_import_all">此操作会覆盖你的解说全部设置和资源</string>
+    <string name="command_media_fast_forward">Avance rápido</string>
+    <string name="command_media_rewind">Retroceder</string>
+    <string name="command_selection_mode">Modo selección</string>
+    <string name="timer_format_title">Formato de lectura de hora</string>
+    <string name="timer_format_def">Por defecto del sistema</string>
+    <string name="timer_format_12">Formato de 12 horas</string>
+    <string name="timer_format_24">Formato de 24 horas (formato militar)</string>
+    <string name="default_gesture_type_title">Estilo por defecto de gestos de navegación</string>
+    <string name="default_gesture_type_def_up_down">Por defecto: Desliza el dedo hacia abajo/arriba para mover el foco, y hacia la derecha/izquierda para realizar gestos de acceso directo.</string>
+    <string name="default_gesture_type_web_up_down">Navegación con granularidad básica WebView: Deslice el dedo hacia la derecha/izquierda para cambiar el tipo de navegación en WebViews, y hacia abajo/arriba para desplazarse dentro del tipo seleccionado.</string>
+    <string name="default_gesture_type_web_up_down_new">Navegación de granularidad alternativa WebView: Desliza el dedo hacia abajo y luego hacia arriba o hacia arriba y luego hacia abajo para cambiar el tipo de navegación en WebViews, y desliza el dedo hacia la derecha/izquierda para moverte dentro del tipo seleccionado.</string>
+    <string name="default_gesture_type_view_up_down">Navegación global de granularidad básica: Desliza el dedo hacia la derecha/izquierda para cambiar el tipo de navegación en todas las vistas, y hacia abajo((/arriba) para desplazarte dentro del tipo seleccionado.</string>
+    <string name="default_gesture_type_view_up_down_new">Navegación global de granularidad alternativa: Desliza el dedo hacia abajo y luego hacia arriba o hacia arriba y luego hacia abajo para cambiar el tipo de navegación en todas las vistas, desliza el dedo hacia la derecha/izquierda para moverte dentro del tipo seleccionado. Desliza el dedo arriba/abajo para enfocar</string>
+    <string name="default_gesture_type_def_left_right">Por defecto2: Desliza el dedo a derecha/izquierda para mover el foco, y abajo/arriba para realizar gestos de acceso directo.</string>
+    <string name="default_gesture_type_web_left_right">WebView Navegación de granularidad básica2: Deslice el dedo hacia abajo/arriba para cambiar el tipo de navegación en WebViews, y hacia la derecha/izquierda para desplazarse dentro del tipo seleccionado.</string>
+    <string name="default_gesture_type_web_left_right_new">WebView Navegación de granularidad alternativa2: Desliza el dedo hacia abajo y luego hacia arriba o hacia arriba y luego hacia abajo para cambiar de tipo de navegación, y desliza el dedo hacia abajo o hacia arriba para moverte dentro del tipo seleccionado. Desliza el dedo a derecha e izquierda para enfocar</string>
+    <string name="default_gesture_type_view_left_right">Navegación global de granularidad básica2: Desliza el dedo hacia abajo/arriba para cambiar de tipo de navegación en todas las vistas, y desliza el dedo hacia la derecha/izquierda para moverte dentro del tipo seleccionado.</string>
+    <string name="default_gesture_type_view_left_right_new">Navegación global de granularidad alternativa2: Desliza el dedo hacia abajo y luego hacia arriba o hacia arriba y luego hacia abajo para cambiar el tipo de navegación en todas las vistas, y desliza el dedo hacia abajo o hacia arriba para moverte dentro del tipo seleccionado. Desliza el dedo a derecha/izquierda para mover el foco</string>
+    <string name="use_speak_state_title">Leer primero el estado del foco</string>
+    <string name="alarm_hours_title">Horas activas</string>
+    <string name="notification_in_call_no_speak_title">No verbalizar notificaciones automáticamente cuando está en llamadas</string>
+    <string name="notification_in_auto_read_no_speak_title">No leer automáticamente las notificaciones cuando se utiliza el modo Lectura o la Navegación automática.</string>
+    <string name="timer_action_def_title">Acción por defecto de función de temporizador</string>
+    <string name="timer_action_def_summary">Este ajuste sólo es válido cuando hay temporizadores predefinidos creados</string>
+    <string name="timer_item_formater">%s. %d horas, %d minutos. Etiqueta: %s</string>
+    <string name="use_ocr_auto_speak_title">Leer automáticamente el texto reconocido al utilizar la pantalla virtual o el reconocimiento de la pantalla actual.</string>
+    <string name="use_new_text_move_type_title">Utilizar el modo selección mejorado</string>
+    <string name="use_move_text_gesture_title">Utilizar gestos de acceso directo para mover el cursor en los cuadros de texto</string>
+    <string name="use_answer_phone_calls_incall_gesture_title">Utilizar gestos de acceso directo para responder y finalizar llamadas en la pantalla de llamadas entrantes.</string>
+    <string name="use_scroll_seek_gesture_title">Utilizar Gestos para ajustar los controles deslizantes</string>
+    <string name="use_scroll_list_gesture_title">Lista de desplazamiento dentro de la lista</string>
+    <string name="use_click_dialog_gesture_title">Haga clic en el botón Aceptar/Cancelar en el cuadro de diálogo.</string>
+    <string name="use_click_button_gesture_title">Realizar operaciones de acceso directo personalizadas</string>
+    <string name="export_all_file">Exportar todo</string>
+    <string name="share_all">Compartir todo</string>
+    <string name="command_image_to_text">Imagen a texto</string>
+    <string name="incall_tts_setting_title">Ajuste de voz de llamada entrante</string>
+    <string name="reader_tts_setting_title">Ajuste de síntesis de modo lectura</string>
+    <string name="char_mode_tts_setting_title">Ajuste de síntesis de modo caracter</string>
+    <string name="auto_read_tts_setting_title">Ajuste de síntesis de voz de lectura automática</string>
+    <string name="notification_tts_setting_title">Ajuste de síntesis de voz de notificación</string>
+    <string name="use_up_tap_prompt_title">Aviso de espera de levantar para activar</string>
+    <string name="double_fling_time_title">Duración del reconocimiento de gestos multipartidos</string>
+    <string name="jieshuo_beta_title">Versiones beta</string>
+    <string name="picture_description">Descripción detallada de enfocado</string>
+    <string name="auto_list_tts_setting_title">Configuración TTS de lectura automática de mensajes de chat</string>
+    <string name="more_tts_setting_title">Configuraciones TTS adaptadas a cada escenario</string>
+    <string name="ocr_lang_zh">Chino e inglés mixto</string>
+    <string name="ocr_lang_zh_rare">Chino tradicional y simplificado</string>
+    <string name="ocr_lang_auto">Automático</string>
+    <string name="ocr_lang_mix">Idiomas mixtos</string>
+    <string name="ocr_lang_jap">Japonés</string>
+    <string name="ocr_lang_kor">Coreano</string>
+    <string name="ocr_lang_spa">Español</string>
+    <string name="ocr_lang_fre">Francés</string>
+    <string name="ocr_lang_ger">Alemán</string>
+    <string name="ocr_lang_por">Portugués</string>
+    <string name="ocr_lang_vie">Vietnamita</string>
+    <string name="ocr_lang_may">Malayo</string>
+    <string name="ocr_lang_rus">Ruso</string>
+    <string name="ocr_lang_ita">Italiano</string>
+    <string name="ocr_lang_hol">Neerlandés</string>
+    <string name="ocr_lang_swe">Sueco</string>
+    <string name="ocr_lang_fin">Finés</string>
+    <string name="ocr_lang_dan">Danés</string>
+    <string name="ocr_lang_nor">Noruego</string>
+    <string name="ocr_lang_hun">Húngaro</string>
+    <string name="ocr_lang_tha">Tailandés</string>
+    <string name="ocr_lang_hi">Hindi</string>
+    <string name="ocr_lang_ara">Árabe</string>
+    <string name="use_virtual_screen_dim_background_title">Utilizar fondo oscuro para pantalla virtual</string>
+    <string name="edit_ocr_lua_title">Editar extensiones personalizadas de OCR</string>
+    <string name="ocr_lua_template">require \"import\"\nimport \"com.nirenr.talkman.ai.*\"\n--El código de ejemplo es un pseudocódigo para ayudar a comprender el código y no se puede ejecutar directamente.\nbs,listener=...--Obtener parámetros\ntask(function(bs)\n  function función de identificación(bs)\n    --Resultados del reconocimiento de composición virtual.\n    return {\n      length=2,\n      {\n        t=\"El código de ejemplo es un pseudocódigo para ayudar a comprender el código.\",\n        x=0,\n        y=300,\n        w=1000,\n        h=100,\n        s=50\n      },\n      {\n        t=\"no se puede ejecutar directamente\",\n        x=0,\n        y=600,\n        w=800,\n        h=100,\n        s=50\n      }\n    }\n  end\n\n  local ret=función de identificación(bs)\n  local rets=OcrResult.OcrItem[ret.length]--Construir matriz de valores de retorno\n  for n=1,ret.length do\n    --Tenga en cuenta que el índice inicial de las matrices en Java y Lua es diferente.\n    rets[n-1]=OcrResult.OcrItem(\n    ret[n].t,--Contenido del personaje\n    ret[n].x,--Texto x coordenada, distancia desde el lado izquierdo de la pantalla\n    ret[n].y,--Coordenada y del texto, distancia desde la parte superior de la pantalla\n    ret[n].w,--ancho del área de texto\n    ret[n].h,--altura del área de texto\n    ret[n].s--Altura del texto\n    )\n  end\n  return OcrResult(rets)--Devolver resultados al hilo principal\nend,\nbs,--Pasar la matriz de bytes de la imagen al hilo.\nfunction(rets)\n  listener.onDone(rets)--Llame a onDone en la función de devolución de llamada para notificar que se completa el reconocimiento de lectura de pantalla.\nend)</string>
+    <string name="accessibility_service_description2">La función de asistencia para la descripción y la función principal de los servicios son completamente idénticas, principalmente utilizadas en escenarios donde algunos detectarán el nombre del servicio de lectura de pantalla. No es necesario activar ambos servicios al mismo tiempo.</string>
+    <string name="resume_on_screen_on_title">Reanudar la navegación táctil o mediante comentarios de voz y navegar táctilmente cuando la pantalla esté encendida</string>
+    <string name="resume_on_notification_show_title">Reanudar la navegación táctil o por voz y navegación táctil al abrir la barra de notificaciones deslizando un dedo hacia abajo desde la parte superior de la pantalla.</string>
+    <string name="resume_on_ringing_title">Reanudación de la navegación táctil o por voz y navegación táctil al recibir una llamada</string>
+    <string name="helper_supper_cmd_title">Súper comandos de voz</string>
+    <string name="back_break_auto_mode_title">Utilizar gesto de retroceso (deslizar un dedo a la derecha y luego a la izquierda) para interrumpir la función de navegación automática.</string>
+    <string name="msg_export_all_file">Esto exportará todos los ajustes y archivos de Jieshuo a %s para ser importados en un nuevo teléfono. Evite compartir el archivo exportado con otras personas, ya que contiene sus propios datos, incluida su información de acceso.</string>
+    <string name="msg_export_all_file_fail">Falló al exportar. Intenta de nuevo</string>
+    <string name="import_all_title">Importar una copia de seguridad completa</string>
+    <string name="msg_import_all">Esta operación sobrescribirá la configuración y los recursos de Jieshuo.</string>
     <string name="app_service2">Jieshuo helper service</string>
-    <string name="app_no_supper_sound_package_title">不使用超级音效的应用(在选中的应用中超级音效会暂时屏蔽)</string>
-    <string name="command_image_to_text2">图片描述全屏</string>
-    <string name="picture_description2">图像理解全屏</string>
-    <string name="use_split_line_title">拆分编辑显示行号</string>
-    <string name="msg_use_single_tts_enabled">已开启使用单一语音库</string>
-    <string name="msg_disable_use_single_tts">关闭使用单一语音库功能才能使用自定义 %s</string>
-    <string name="command_auto_list_speak">自动朗读消息</string>
-    <string name="command_auto_list_speak_history">自动朗读消息记录</string>
-    <string name="msg_start_auto_list">开始自动朗读%s消息</string>
-    <string name="msg_stop_auto_list">停止自动朗读%s消息</string>
-    <string name="msg_username_typo">用户名或密码格式错误</string>
-    <string name="msg_username_error">用户名或密码错误</string>
-    <string name="msg_invite_code_error">邀请码不正确</string>
-    <string name="msg_username_used">用户名已经被占用</string>
-    <string name="msg_network_error">网络链接出错，请更换网络或稍后重试</string>
-    <string name="command_verification12">滑块验证</string>
-    <string name="command_recognition_edu">试卷识别</string>
-    <string name="use_input_method_speak_word_title">读出输入法按键的例词</string>
-    <string name="trans_lua_engine_title">使用自定义翻译引擎</string>
-    <string name="edit_trans_lua_title">编辑自定义翻译引擎</string>
+    <string name="app_no_supper_sound_package_title">Aplicaciones donde no se utilizan efectos de sonido adicionales (Los efectos de sonido adicionales se desactivarán temporalmente en las aplicaciones seleccionadas)</string>
+    <string name="command_image_to_text2">Describir la pantalla completa</string>
+    <string name="picture_description2">Descripción detallada de toda la pantalla.</string>
+    <string name="use_split_line_title">Anunciar números de línea y párrafo en el modo de edición granular</string>
+    <string name="msg_use_single_tts_enabled">La opción de motor TTS único está habilitada</string>
+    <string name="msg_disable_use_single_tts">Debe desactivar la opción "Utilizar un único motor TTS". para utilizar un %s. ¿Quieres continuar?</string>
+    <string name="command_auto_list_speak">Leer mensajes de chat automáticamente</string>
+    <string name="command_auto_list_speak_history">Historial de mensajes de chat automático</string>
+    <string name="msg_start_auto_list">La lectura automática de mensajes ha comenzado para %s</string>
+    <string name="msg_stop_auto_list">La lectura automática de mensajes se ha detenido para %s</string>
+    <string name="msg_username_typo">El formato de nombre de usuario o contraseña es incorrecto</string>
+    <string name="msg_username_error">Nombre de usuario o contraseña inválido</string>
+    <string name="msg_invite_code_error">Código de invitación incorrecto</string>
+    <string name="msg_username_used">Este nombre de usuario ya está en uso</string>
+    <string name="msg_network_error">Error de conexión. Cambie la red o vuelva a intentarlo más tarde</string>
+    <string name="command_verification12">Verificación deslizador</string>
+    <string name="command_recognition_edu">Reconocimiento de exámenes</string>
+    <string name="use_input_method_speak_word_title">Pronunciar palabras de ejemplo para letras mientras escribes</string>
+    <string name="trans_lua_engine_title">Utilizar un motor de traducción personalizado</string>
+    <string name="edit_trans_lua_title">Editar motor de traducción personalizado</string>
     <string name="trans_lua_template"><![CDATA[" require \"import\" \n import \"java.util.Locale\"\n local form,to,text,ltr=...\n local url=string.format(\"https://translate.google.com/m?sl=%s&tl=%s&hl=%s&q=%s\",from,to,Locale.getDefault().getCountry(),text)\n Http.get(url,function(code,text)\n   ltr.onTransResult(text:match(\"<[^<>]*\\\"result%-container\\\">([^<>]*)</div>\"))\n   end)"]]></string>
-    <string name="match_all">完整匹配</string>
-    <string name="match_start">匹配开头</string>
-    <string name="match_end">匹配结尾</string>
-    <string name="match_contains">包含匹配</string>
-    <string name="today">今天</string>
-    <string name="yesterday">昨天</string>
-    <string name="before_yesterday">前天</string>
-    <string name="command_accept_call">接听电话</string>
-    <string name="command_end_call">挂断电话</string>
-    <string name="command_pause_a11y_volume">暂停无障碍音量</string>
-    <string name="msg_supper_cmd_only_voice_helper">超级语音指令只能在语音助手中调用</string>
-    <string name="msg_no_a11y_volume">没有使用无障碍音量</string>
-    <string name="msg_a11y_volume_disabled">无障碍音量已停用</string>
-    <string name="msg_a11y_volume_enabled">无障碍音量已启用</string>
-    <string name="content_blacklist_description">添加到黑名单的内容将在浏览时不会获取内容，\n用于过滤无用或错误的辅助功能信息，\n关键字可以添加星号实现简单匹配模式，\n关键字* 表示以关键字开头的过滤\n*关键字 以关键字结尾的过滤\n*关键字* 包含关键字的都过滤\n没有星号是完整匹配</string>
-    <string name="auto_speak_blacklist_description">添加到黑名单的内容将不会朗读，\n用于过滤在自动朗读中不想朗读的内容，\n关键字可以添加星号实现简单匹配模式，\n关键字* 表示以关键字开头的过滤\n*关键字 以关键字结尾的过滤\n*关键字* 包含关键字的都过滤\n没有星号是完整匹配</string>
-    <string name="notification_black_list_description">添加到黑名单的通知将不会朗读，但是会记录在通知盒子，关键字支持正则表达式匹配，如果关键字仅包含一个星号则该程序的通知全部不朗读</string>
-    <string name="notification_white_list_description">添加到白名单的通知将始终朗读，即使已经关闭通知朗读，关键字支持正则表达式匹配，如果关键字仅包含一个星号则该程序的通知全部朗读</string>
-    <string name="nodeinfo_long_clickable">可长按</string>
-    <string name="nodeinfo_not_long_click">不可长按</string>
-    <string name="nodeinfo_editable">可编辑</string>
-    <string name="nodeinfo_not_edit">不可编辑</string>
+    <string name="match_all">Coincidencia exacta de texto</string>
+    <string name="match_start">Inicio de la coincidencia de texto</string>
+    <string name="match_end">Fin de la coincidencia de texto</string>
+    <string name="match_contains">Coincidencia sin restricción</string>
+    <string name="today">Hoy</string>
+    <string name="yesterday">Ayer</string>
+    <string name="before_yesterday">Antier</string>
+    <string name="command_accept_call">Responder llaada</string>
+    <string name="command_end_call">Finalizar llamada</string>
+    <string name="command_pause_a11y_volume">Suspender el uso del volumen de accesibilidad</string>
+    <string name="msg_supper_cmd_only_voice_helper">Los súper comandos de voz solo se pueden invocar en el asistente de voz</string>
+    <string name="msg_no_a11y_volume">No estás usando el volumen de accesibilidad</string>
+    <string name="msg_a11y_volume_disabled">Usando el volumen de medios</string>
+    <string name="msg_a11y_volume_enabled">Usando el volumen de accesibilidad</string>
+    <string name="content_blacklist_description">El contenido añadido a la lista negra no se leerá durante la navegación. Esto podría ayudar a filtrar contenido no deseado o botones que no están etiquetados correctamente. Se pueden agregar palabras clave con asteriscos para implementar patrones de coincidencia simples: • Palabra clave* filtra el contenido que comienza con la palabra clave. • *La palabra clave filtra el contenido que termina con la palabra clave. • *palabra clave* filtra el contenido que contiene la palabra clave. • Ningún asterisco indica una coincidencia exacta.</string>
+    <string name="auto_speak_blacklist_description">El contenido agregado a la lista negra no se pronunciará automáticamente. Esto se utiliza para filtrar el contenido que no desea que se lea durante la lectura automática de mensajes. Se pueden agregar palabras clave con asteriscos para implementar patrones de coincidencia simples: • Palabra clave* filtra el contenido que comienza con la palabra clave. • *La palabra clave filtra el contenido que termina con la palabra clave. • *Palabra clave* filtra el contenido que contiene la palabra clave. Ningún asterisco indica una coincidencia exacta.</string>
+    <string name="notification_black_list_description">Las notificaciones que contengan texto en la lista negra no se leerán automáticamente, pero aún así se registrarán en el cuadro de notificación. Se admiten expresiones regulares. Si solo se agrega un asterisco, no todas las notificaciones de la aplicación se anunciarán automáticamente.</string>
+    <string name="notification_white_list_description">Las notificaciones que contengan texto incluido en la lista blanca siempre se leerán automáticamente incluso si la lectura de notificaciones está deshabilitada. Se admiten expresiones regulares. Si solo se agrega un asterisco, todas las notificaciones de la aplicación se leerán automáticamente.</string>
+    <string name="nodeinfo_long_clickable">Se puede presionar durante mucho tiempo</string>
+    <string name="nodeinfo_not_long_click">No se puede presionar por mucho tiempo</string>
+    <string name="nodeinfo_editable">Editable</string>
+    <string name="nodeinfo_not_edit">Ineditable</string>
+    <string name="sound_scroll_page">翻页</string>
+    <string name="use_auto_mode_move_list_view_item_title">在自动浏览中使用列表项目间快速移动</string>
+    <string name="helper_tts_setting_title">语音助手语音设置</string>
+    <string name="node_tts_setting_title">焦点监控语音设置</string>
+    <string name="voice_helper_use_big_title">使用生成式大模式</string>
+    <string name="chat_history">对话记录</string>
+    <string name="command_recognition_icon">图标识别</string>
+    <string name="command_long_hold">点击按住</string>
+    <string name="sound_progress">进度</string>
+    <string name="sound_progress_100">进度100</string>
+    <string name="sound_clear_notification">清除全部通知</string>
+    <string name="sound_talkman_start">解说启动</string>
+    <string name="sound_talkman_stop">解说停止</string>
+    <string name="sound_camera">相机快门</string>
+    <string name="voice_picture_description">语音询问</string>
+    <string name="voice_picture_description2">语音询问全屏</string>
+
 </resources>

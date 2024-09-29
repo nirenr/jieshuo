@@ -1578,7 +1578,7 @@
     <string name="setup_setting_alarm_permission_msg">Use as permissões de alarme de acesso ao alarme e lembretes para que o Jieshuo desperte e leia as notificações conforme você programe.</string>
     <string name="use_volume_on_long_speak_title">Ao ler textos longos, pressione as teclas de volume para definir as configurações de leitura.</string>
     <string name="message_title">Dica</string>
-    <string name="msg_talkback_enable">Você ativou o TalkBack e o Jieshuo. Executar os dois leitores de tela ao mesmo tempo ocasionará anormalidades. Por favor, Desative o TalkBack antes de ativar o Jieshuo.</string>
+    <string name="msg_talkback_enabled">Você ativou o TalkBack e o Jieshuo. Executar os dois leitores de tela ao mesmo tempo ocasionará anormalidades. Por favor, Desative o TalkBack antes de ativar o Jieshuo.</string>
     <string name="cur_timer_speak_title">Configurações padrões de leitura </string>
     <string name="use_speak_uts">Tempo</string>
     <string name="use_speak_rts">Tempo restante</string>
@@ -1677,137 +1677,226 @@
     <string name="default_gesture_setting_title">Configurações de gestos padrões</string>
     <string name="default_gesture_setting_summary">Os gestos padrões são substituídos pelos gestos personalizados.</string>
     <string name="use_action_menu_show_cursor_title">Exibir o foco do menu  ações</string>
-    <string name="use_action_menu_show_ext_title">Funções de expansão, como ajuste do progresso da extração de links no menu de operação</string>
-    <string name="find_next">查找下一个</string>
-    <string name="find_previous">查找上一个</string>
+    <string name="use_action_menu_show_ext_title">Exibir funções avançadas como o ajuste de progresso da listagem de links no menu principal</string>
+    <string name="find_next">Localizar próxima</string>
+    <string name="find_previous">Localizar anterior</string>
 
-    <string name="command_media_fast_forward">快进</string>
-    <string name="command_media_rewind">快退</string>
-    <string name="command_selection_mode">选择模式</string>
-    <string name="timer_format_title">报时时间格式</string>
-    <string name="timer_format_def">系统默认</string>
-    <string name="timer_format_12">12小时制</string>
-    <string name="timer_format_24">24小时制</string>
-    <string name="default_gesture_type_title">默认手势风格</string>
-    <string name="default_gesture_type_def_up_down">上/下切换焦点，左/右快捷手势</string>
-    <string name="default_gesture_type_web_up_down">仅在网页使用按类型浏览(左/右切换类型，上/下切换项目)</string>
-    <string name="default_gesture_type_web_up_down_new">仅在网页使用按类型浏览(先上后下/先下上后切换类型，左/右切换项目，上/下切换焦点)</string>
-    <string name="default_gesture_type_view_up_down">在所有视图使用按类型浏览(左/右切换类型，上/下切换项目)</string>
-    <string name="default_gesture_type_view_up_down_new">在所有视图使用按类型浏览(先上后下/先下上后切换类型，左/右切换项目，上/下切换焦点)</string>
-    <string name="default_gesture_type_def_left_right">左/右切换焦点，上/下快捷手势</string>
-    <string name="default_gesture_type_web_left_right">仅在网页使用按类型浏览(上/下切换类型，左/右切换项目)</string>
-    <string name="default_gesture_type_web_left_right_new">仅在网页使用按类型浏览(先上后下/先下上后切换类型，上/下切换项目，左/右切换焦点)</string>
-    <string name="default_gesture_type_view_left_right">在所有视图使用按类型浏览(上/下切换类型，左/右切换项目)</string>
-    <string name="default_gesture_type_view_left_right_new">在所有视图使用按类型浏览(先上后下/先下上后切换类型，上/下切换项目，左/右切换焦点)</string>
-    <string name="use_speak_state_title">先读出焦点状态</string>
-    <string name="alarm_hours_title">报时的时间</string>
-    <string name="notification_in_call_no_speak_title">通话时通知免打扰</string>
-    <string name="notification_in_auto_read_no_speak_title">自动浏览或阅读模式时通知免打扰</string>
-    <string name="timer_action_def_title">计时器默认操作</string>
-    <string name="timer_action_def_summary">当包含预设计时器时有效</string>
-    <string name="timer_item_formater">%s %d小时 %d分钟 %s</string>
-    <string name="use_ocr_auto_speak_title">自动朗读全屏文字识别或虚拟屏幕结果</string>
-    <string name="use_new_text_move_type_title">使用解说风格处理文字移动操作</string>
-    <string name="use_move_text_gesture_title">在激活的编辑框移动光标</string>
-    <string name="use_answer_phone_calls_incall_gesture_title">在来电界面接听挂断电话</string>
-    <string name="use_scroll_seek_gesture_title">在进度滑块调节进度</string>
-    <string name="use_scroll_list_gesture_title">在列表中滚动列表</string>
-    <string name="use_click_dialog_gesture_title">在对话框点击确定/取消按钮</string>
-    <string name="use_click_button_gesture_title">执行自定义快捷操作</string>
-    <string name="export_all_file">导出全部</string>
-    <string name="share_all">分享全部</string>
-    <string name="command_image_to_text">图片描述</string>
-    <string name="incall_tts_setting_title">来电报号语音设置</string>
-    <string name="reader_tts_setting_title">阅读模式语音设置</string>
-    <string name="char_mode_tts_setting_title">逐字浏览语音设置</string>
-    <string name="auto_read_tts_setting_title">自动浏览语音设置</string>
-    <string name="notification_tts_setting_title">通知语音设置</string>
-    <string name="use_up_tap_prompt_title">抬手激活超时提示</string>
-    <string name="double_fling_time_title">两部手势等待时长</string>
-    <string name="jieshuo_beta_title">内测下载</string>
-    <string name="picture_description">图像理解</string>
-    <string name="auto_list_tts_setting_title">自动朗读消息语音设置</string>
-    <string name="more_tts_setting_title">更多语音库设置</string>
-    <string name="ocr_lang_zh">中英混合</string>
-    <string name="ocr_lang_zh_rare">中文生僻字、繁体字</string>
-    <string name="ocr_lang_auto">自动</string>
-    <string name="ocr_lang_mix">混合语种</string>
-    <string name="ocr_lang_jap">日语</string>
-    <string name="ocr_lang_kor">韩语</string>
-    <string name="ocr_lang_spa">西班牙语</string>
-    <string name="ocr_lang_fre">法语</string>
-    <string name="ocr_lang_ger">德语</string>
-    <string name="ocr_lang_por">葡萄牙语</string>
-    <string name="ocr_lang_vie">越语</string>
-    <string name="ocr_lang_may">马来语</string>
-    <string name="ocr_lang_rus">俄语</string>
-    <string name="ocr_lang_ita">意大利语</string>
-    <string name="ocr_lang_hol">荷兰语</string>
-    <string name="ocr_lang_swe">瑞典语</string>
-    <string name="ocr_lang_fin">芬兰语</string>
-    <string name="ocr_lang_dan">丹麦语</string>
-    <string name="ocr_lang_nor">挪威语</string>
-    <string name="ocr_lang_hun">匈牙利语</string>
-    <string name="ocr_lang_tha">泰语</string>
-    <string name="ocr_lang_hi">印地语</string>
-    <string name="ocr_lang_ara">阿拉伯语</string>
-    <string name="use_virtual_screen_dim_background_title">虚拟屏幕使用黑色背景</string>
-    <string name="edit_ocr_lua_title">编辑自定义扩展ocr引擎</string>
-    <string name="ocr_lua_template">require \"import\"\nimport \"com.nirenr.talkman.ai.*\"\n--例子代码是帮助理解代码的伪代码，不能直接运行\nbs,listener=...--获取参数\ntask(function(bs)\n  function 识别函数(bs)\n    --虚拟构成识别结果\n    return {\n      length=2,\n      {\n        t=\"例子代码是帮助理解代码的伪代码\",\n        x=0,\n        y=300,\n        w=1000,\n        h=100,\n        s=50\n      },\n      {\n        t=\"不能直接运行\",\n        x=0,\n        y=600,\n        w=800,\n        h=100,\n        s=50\n      }\n    }\n  end\n\n  local ret=识别函数(bs)\n  local rets=OcrResult.OcrItem[ret.length]--构建返回值数组\n  for n=1,ret.length do\n    --注意java与lua数组开始索引不同\n    rets[n-1]=OcrResult.OcrItem(\n    ret[n].t,--文字内容\n    ret[n].x,--文字x坐标，距离屏幕左侧距离\n    ret[n].y,--文字y坐标，距离屏幕顶部距离\n    ret[n].w,--文字区域宽度\n    ret[n].h,--文字区域高度\n    ret[n].s--文字高度\n    )\n  end\n  return OcrResult(rets)--返回结果到主线程\nend,\nbs,--将图片的byte数组传入线程\nfunction(rets)\n  listener.onDone(rets)--在回调函数调用onDone通知读屏识别完成\nend)</string>
-    <string name="accessibility_service_description2">解说辅助服务和主服务功能完全相同，主要用于部分会检测读屏服务名的场景，两个服务不需要同时开启。</string>
-    <string name="resume_on_screen_on_title">当屏幕打开时恢复反馈</string>
-    <string name="resume_on_notification_show_title">当下拉显示通知栏时恢复反馈</string>
-    <string name="resume_on_ringing_title">当来电时恢复反馈</string>
-    <string name="helper_supper_cmd_title">超级语音指令</string>
-    <string name="back_break_auto_mode_title">返回手势打断自动浏览</string>
-    <string name="msg_export_all_file">将备份所有设置和文件到 %s 文件，发送到新手机可以全部导入，文件包含你的所有数据，请不要分享给其他人以免隐私泄露</string>
-    <string name="msg_export_all_file_fail">备份失败请重试</string>
+    <string name="command_media_fast_forward">Avançar</string>
+    <string name="command_media_rewind">Voltar</string>
+    <string name="command_selection_mode">Modo de seleção</string>
+    <string name="timer_format_title">Configurar o formato da hora</string>
+    <string name="timer_format_def">Padrão do sistema</string>
+    <string name="timer_format_12">12 Horas</string>
+    <string name="timer_format_24">24 Horas</string>
+    <string name="default_gesture_type_title">Estilo padrão para gestos de navegação</string>
+    <string name="default_gesture_type_def_up_down">Padrão:
+Varra para baixo/cima para mover o foco, e para a direita/esquerda para realizar gestos de atalho”.</string>
+    <string name="default_gesture_type_web_up_down">Navegação e granularidade na Web:
+Varra para a direita/esquerda para navegar na página, e abaixo/acima para selecionar as opções</string>
+    <string name="default_gesture_type_web_up_down_new">Modo alternativo de navegação e granularidade na Web:
+Varra para baixo e depois para cima ou para cima e depois para baixo para alternar o modo de navegação na web, e varra para a direita/esquerda para selecionar uma opção. Varra acima/abaixo para mover o foco.</string>
+    <string name="default_gesture_type_view_up_down">Granularidade Geral:
+Varra para esquerda/direita para navegar, e cima/baixo para selecionar as opções.</string>
+    <string name="default_gesture_type_view_up_down_new">Granularidade alternativa geral:
+Varra para baixo e depois para cima ou para cima e depois para baixo para alternar entre os tipos de navegação em qualquer janela. Varra para a direita/esquerda para se mover dentro do modo selecionado. Varra para cima/baixo para mover o foco.</string>
+    <string name="default_gesture_type_def_left_right">Gesto padrão Direita/esquerda:
+Varra da esquerda/direita para mover o foco, e acima/abaixo para executar as ações.</string>
+    <string name="default_gesture_type_web_left_right">Granularidade padrão na Web:
+Varra abaixo/acima para alternar entre os modos de navegação na web, e a direita/esquerda para navegar.</string>
+    <string name="default_gesture_type_web_left_right_new">Granularidade na Web padrão 2:
+Varra para baixo/cima ou cima/baixo para alternar entre os modos de navegação, e varra para baixo/cima para navegar. Varra para a direita/esquerda para mover o foco.</string>
+    <string name="default_gesture_type_view_left_right">Granularidade Geral 2:
+Varra para baixo/cima para alternar entre os modos de navegação em todas as janelas, e varra para a direita/esquerda para navegar.</string>
+    <string name="default_gesture_type_view_left_right_new">Granularidade geral alternativa 2:
+Varra para baixo e para cima ou para cima e para baixo para alternar entre os modos de navegação em todas as janelas, e varra para baixo/para cima para navegar. Varra para direita/esquerda para mover o foco.</string>
+    <string name="use_speak_state_title">Ler o status do item focado primeiro</string>
+    <string name="alarm_hours_title">Selecione as horas do alarme</string>
+    <string name="notification_in_call_no_speak_title">Não ler notificações durante as chamadas</string>
+    <string name="notification_in_auto_read_no_speak_title">Não ler notificações durante a navegação automática ou em modo de leitura</string>
+    <string name="timer_action_def_title">Ação padrão do Cronômetro</string>
+    <string name="timer_action_def_summary">Esta configuração é válida apenas quando há alarmes criados</string>
+    <string name="timer_item_formater">%s %d horas %d minutos %s</string>
+    <string name="use_ocr_auto_speak_title">Ler automaticamente o texto reconhecido ao usar a tela virtual ou o reconhecimento de tela automático.</string>
+    <string name="use_new_text_move_type_title">Use a nova navegação e seleção de texto</string>
+    <string name="use_move_text_gesture_title">Usar gestos para mover o foco em campos editáveis</string>
+    <string name="use_answer_phone_calls_incall_gesture_title">Atender ou recusar chamadas com gestos na tela de ligações recebidas.</string>
+    <string name="use_scroll_seek_gesture_title">Ajustar barras de progresso através de gestos</string>
+    <string name="use_scroll_list_gesture_title">Navegar em lista através de gestos</string>
+    <string name="use_click_dialog_gesture_title">Tocar através de gestos nos botões OK/Cancelar, Sim/Não em caixas de diálogo</string>
+    <string name="use_click_button_gesture_title">Usar gestos para ativar controles nas telas correspondentes</string>
+    <string name="export_all_file">Exportar tudo</string>
+    <string name="share_all">Compartilhar tudo</string>
+    <string name="command_image_to_text">Descrever o item focado</string>
+    <string name="incall_tts_setting_title">Configurações de recebimento de chamadas</string>
+    <string name="reader_tts_setting_title">Configurações de voz no modo de leitura</string>
+    <string name="char_mode_tts_setting_title">Configurações de voz para modo de leitura caractere a caractere</string>
+    <string name="auto_read_tts_setting_title">Configurações de voz para o modo de navegação automática</string>
+    <string name="notification_tts_setting_title">Configurações de voz para notificações</string>
+    <string name="use_up_tap_prompt_title">Tempo de espera para acionar o levantar para ativar</string>
+    <string name="double_fling_time_title">Tiempo Tempo de espera para o gesto duplo</string>
+    <string name="jieshuo_beta_title">Download das versões beta do Jieshuo</string>
+    <string name="picture_description">Descrição detalhada do item focado</string>
+    <string name="auto_list_tts_setting_title">Configurações de voz para leitura automática de chats</string>
+    <string name="more_tts_setting_title">Outras configurações de voz</string>
+    <string name="ocr_lang_zh">Alternar de chinês para inglês</string>
+    <string name="ocr_lang_zh_rare">Caracteres raros e tradicionais chineses</string>
+    <string name="ocr_lang_auto">Automático</string>
+    <string name="ocr_lang_mix">Alternância de idiomas</string>
+    <string name="ocr_lang_jap">Japonês</string>
+    <string name="ocr_lang_kor">Coreano</string>
+    <string name="ocr_lang_spa">Espanhol</string>
+    <string name="ocr_lang_fre">Francês</string>
+    <string name="ocr_lang_ger">Alemão</string>
+    <string name="ocr_lang_por">Português</string>
+    <string name="ocr_lang_vie">Vietnamita</string>
+    <string name="ocr_lang_may">Malaio</string>
+    <string name="ocr_lang_rus">Russo</string>
+    <string name="ocr_lang_ita">Italiano</string>
+    <string name="ocr_lang_hol">Holandês</string>
+    <string name="ocr_lang_swe">Sueco</string>
+    <string name="ocr_lang_fin">Filandês</string>
+    <string name="ocr_lang_dan">Dinamarquês</string>
+    <string name="ocr_lang_nor">Norueguês</string>
+    <string name="ocr_lang_hun">Húngaro</string>
+    <string name="ocr_lang_tha">Tailandês</string>
+    <string name="ocr_lang_hi">Hindi</string>
+    <string name="ocr_lang_ara">Árabe</string>
+    <string name="use_virtual_screen_dim_background_title">Uso Usar fundo escuro na tela virtual</string>
+    <string name="edit_ocr_lua_title">editar complemento personalizado do motor OCR</string>
+    <string name="ocr_lua_template">require "import"
+import "com.nirenr.talkman.ai.*"
+-- Este código de exemplo é didático para ajudar no intendimento. Não deve ser exeecutado diretamente.
+bs,listener=...-- obtêm parâmetros
+task(function(bs)
+ function funcao_reconhecemento(bs)
+ -- Simula o resultado do reconhecimento
+ return {
+ length=2,
+ {
+  {
+ t="Este é um código de exemplo para ajudar no intendimento",
+ x=0,
+ y=300,
+ w=1000,
+ h=100,
+ s=50
+ },
+ {
+ t="Não é possível executar direto",
+ x=0,
+ y=600,
+ w=800,
+ h=100,
+ s=50
+ }
+ }
+ end
+
+ local ret=funcao_reconhecimento(bs)
+ local rets=OcrResult.OcrItem[ret.length]-- cria matriz de valores de retorno
+ for n=1,ret.length do
+ -- Atente-se que os índices das matrizes em Java e em Lua iniciam com números 
+ rets[n-1]=OcrResult.OcrItem(
+ ret[n].t,-- Conteúdo do texto
+ ret[n].x,-- Coordenada x do texto, distância desde o canto esquerdo da tela
+ ret[n].y,-- Coordenada y do texto, distância desde o início da tela 
+ ret[n].w,-- Largura da área do texto
+ ret[n].h,-- Altura da área do texto
+ ret[n].s-- Altura do texto
+ )
+ end
+ return OcrResult(rets)-- Retorna o resultado ao hilo principal
+end,
+bs,-- Passa a matriz de bytes da imagem para o hilo
+function(rets)
+ listener.onDone(rets)-- Chama a função de devolução onDone para notificar que o reconhecimento da tela foi concluído
+end)
+</string>
+    <string name="accessibility_service_description2">O Serviço de Assistência do Jieshuo têm a mesma funcionalidade do aplicativo, é usado principalmente quando alguma função do aparelho por diversos motivos não detectam o nome do serviço de leitura de tela, podendo causar alguma anormalidade. O serviço e o aplicativo não precisam ser executados juntos.</string>
+    <string name="resume_on_screen_on_title">Reativar o Jieshuo assim que a tela for ativada</string>
+    <string name="resume_on_notification_show_title">Reativar o Jieshuo através da barra de notificações</string>
+    <string name="resume_on_ringing_title">Reativar o Jieshupo ao receber uma chamada</string>
+    <string name="helper_supper_cmd_title">Super comando de voz</string>
+    <string name="back_break_auto_mode_title">Usar o gesto de voltar para interromper a navegação automática</string>
+    <string name="msg_export_all_file">Faz o backup de todas as suas configurações no arquivo %s. Você poderá importá-lo em um novo dispositivo para restaurar todos os seus dados. 
+Atenção!
+Não compartilhe este arquivo com ninguém,  para evitar o vazamento de informações pessoais.</string>
+    <string name="msg_export_all_file_fail">Houve um erro ao fazer o backup. Por favor tente novamente.</string>
     <string name="import_all_title">导入解说完整备份吗</string>
-    <string name="msg_import_all">此操作会覆盖你的解说全部设置和资源</string>
-    <string name="app_service2">Jieshuo helper service</string>
-    <string name="app_no_supper_sound_package_title">不使用超级音效的应用(在选中的应用中超级音效会暂时屏蔽)</string>
-    <string name="command_image_to_text2">图片描述全屏</string>
-    <string name="picture_description2">图像理解全屏</string>
-    <string name="use_split_line_title">拆分编辑显示行号</string>
-    <string name="msg_use_single_tts_enabled">已开启使用单一语音库</string>
-    <string name="msg_disable_use_single_tts">关闭使用单一语音库功能才能使用自定义 %s</string>
-    <string name="command_auto_list_speak">自动朗读消息</string>
-    <string name="command_auto_list_speak_history">自动朗读消息记录</string>
-    <string name="msg_start_auto_list">开始自动朗读%s消息</string>
-    <string name="msg_stop_auto_list">停止自动朗读%s消息</string>
-    <string name="msg_username_typo">用户名或密码格式错误</string>
-    <string name="msg_username_error">用户名或密码错误</string>
-    <string name="msg_invite_code_error">邀请码不正确</string>
-    <string name="msg_username_used">用户名已经被占用</string>
-    <string name="msg_network_error">网络链接出错，请更换网络或稍后重试</string>
-    <string name="command_verification12">滑块验证</string>
-    <string name="command_recognition_edu">试卷识别</string>
-    <string name="use_input_method_speak_word_title">读出输入法按键的例词</string>
-    <string name="trans_lua_engine_title">使用自定义翻译引擎</string>
-    <string name="edit_trans_lua_title">编辑自定义翻译引擎</string>
+    <string name="msg_import_all">Esta operação substituirá todas as configurações e recursos do Jieshuo</string>
+    <string name="app_service2">Serviço de Assistência do Jieshuo</string>
+    <string name="app_no_supper_sound_package_title">Aplicativo sem super efeitos de som (Os super efeitos de som foram desativados temporariamente neste aplicativo)
+</string>
+    <string name="command_image_to_text2">Descrição de toda a tela</string>
+    <string name="picture_description2">Descrição detalhada de toda a tela</string>
+    <string name="use_split_line_title">Informa o número de linhas e parágrafos no modo de granularidade em campos editáveis</string>
+    <string name="msg_use_single_tts_enabled">Usar apenas um sintetizador</string>
+    <string name="msg_disable_use_single_tts">Você deve desabilitar o uso de um só sintetizador para ativar o %s. Deseja desativar agora?</string>
+    <string name="command_auto_list_speak">Ler mensagens de chats automaticamente</string>
+    <string name="command_auto_list_speak_history">Ler histórico de mensagens de chats automaticamente</string>
+    <string name="msg_start_auto_list">Leitura automática das mensagens do %s iniciada</string>
+    <string name="msg_stop_auto_list">Leitura automática das mensagens do %s parada</string>
+    <string name="msg_username_typo">O formato do nome de usuário ou da senha é inválido</string>
+    <string name="msg_username_error">Nome de usuário ou senha incorreto</string>
+    <string name="msg_invite_code_error">Código de convite inválido</string>
+    <string name="msg_username_used">Este nome de usuário já existe.</string>
+    <string name="msg_network_error">Erro de conexão. utilize outra conexão, ou tente novamente mais tarde.</string>
+    <string name="command_verification12">Controle deslisante de verificação</string>
+    <string name="command_recognition_edu">Reconhecer provas</string>
+    <string name="use_input_method_speak_word_title">Usar leitura fonética ao digitar</string>
+    <string name="trans_lua_engine_title">Usar motor de tradução personalizado</string>
+    <string name="edit_trans_lua_title">Editar motor de tradução personalizado</string>
     <string name="trans_lua_template"><![CDATA[" require \"import\" \n import \"java.util.Locale\"\n local form,to,text,ltr=...\n local url=string.format(\"https://translate.google.com/m?sl=%s&tl=%s&hl=%s&q=%s\",from,to,Locale.getDefault().getCountry(),text)\n Http.get(url,function(code,text)\n   ltr.onTransResult(text:match(\"<[^<>]*\\\"result%-container\\\">([^<>]*)</div>\"))\n   end)"]]></string>
-    <string name="match_all">完整匹配</string>
-    <string name="match_start">匹配开头</string>
-    <string name="match_end">匹配结尾</string>
-    <string name="match_contains">包含匹配</string>
-    <string name="today">今天</string>
-    <string name="yesterday">昨天</string>
-    <string name="before_yesterday">前天</string>
-    <string name="command_accept_call">接听电话</string>
-    <string name="command_end_call">挂断电话</string>
-    <string name="command_pause_a11y_volume">暂停无障碍音量</string>
-    <string name="msg_supper_cmd_only_voice_helper">超级语音指令只能在语音助手中调用</string>
-    <string name="msg_no_a11y_volume">没有使用无障碍音量</string>
-    <string name="msg_a11y_volume_disabled">无障碍音量已停用</string>
-    <string name="msg_a11y_volume_enabled">无障碍音量已启用</string>
-    <string name="content_blacklist_description">添加到黑名单的内容将在浏览时不会获取内容，\n用于过滤无用或错误的辅助功能信息，\n关键字可以添加星号实现简单匹配模式，\n关键字* 表示以关键字开头的过滤\n*关键字 以关键字结尾的过滤\n*关键字* 包含关键字的都过滤\n没有星号是完整匹配</string>
-    <string name="auto_speak_blacklist_description">添加到黑名单的内容将不会朗读，\n用于过滤在自动朗读中不想朗读的内容，\n关键字可以添加星号实现简单匹配模式，\n关键字* 表示以关键字开头的过滤\n*关键字 以关键字结尾的过滤\n*关键字* 包含关键字的都过滤\n没有星号是完整匹配</string>
-    <string name="notification_black_list_description">添加到黑名单的通知将不会朗读，但是会记录在通知盒子，关键字支持正则表达式匹配，如果关键字仅包含一个星号则该程序的通知全部不朗读</string>
-    <string name="notification_white_list_description">添加到白名单的通知将始终朗读，即使已经关闭通知朗读，关键字支持正则表达式匹配，如果关键字仅包含一个星号则该程序的通知全部朗读</string>
-    <string name="nodeinfo_long_clickable">可长按</string>
-    <string name="nodeinfo_not_long_click">不可长按</string>
-    <string name="nodeinfo_editable">可编辑</string>
-    <string name="nodeinfo_not_edit">不可编辑</string>
+    <string name="match_all">Correspondência total</string>
+    <string name="match_start">Correspondência no início</string>
+    <string name="match_end">Correspondência no finalfinal</string>
+    <string name="match_contains">Correspondências inrestritas</string>
+    <string name="today">Hoje</string>
+    <string name="yesterday">Ontem</string>
+    <string name="before_yesterday">Antes de ontem</string>
+    <string name="command_accept_call">Aceitar chamada</string>
+    <string name="command_end_call">Encerrar chamada</string>
+    <string name="command_pause_a11y_volume">Pausar volume de acessibilidade</string>
+    <string name="msg_supper_cmd_only_voice_helper">Os super comandos de voz só podem ser usados com o Assistente.</string>
+    <string name="msg_no_a11y_volume">O volume de acessibilidade não está em uso</string>
+    <string name="msg_a11y_volume_disabled">Usando o volume de mídia.</string>
+    <string name="msg_a11y_volume_enabled">Usando o volume de acessibilidade</string>
+    <string name="content_blacklist_description">O conteúdo adicionado à lista negra não será lido durante a navegação. Isso pode ajudar a filtrar conteúdo indesejado ou botões que não estão devidamente rotulados. Palavras-chave podem ser adicionadas com asteriscos para implementar padrões de correspondência simples: 
+ • Palavra-chave* filtra conteúdo que começa com a palavra-chave.
+ • *Palavra-chave filtra conteúdo que termina com a palavra-chave.
+ • palavra-chave filtra conteúdo que contém a palavra-chave.
+ • Sem asteriscos indica correspondência exata.</string>
+    <string name="auto_speak_blacklist_description">O conteúdo adicionado à lista negra não será falado automaticamente. Isso é usado para filtrar o conteúdo que você não quer que seja lido durante a navegação automática. Palavras-chave podem ser adicionadas com asteriscos para implementar padrões de correspondência simples:
+ • Palavra-chave* filtra o conteúdo que começa com a palavra-chave.
+ • *Palavra-chave filtra o conteúdo que termina com a palavra-chave.
+ • Palavra-chave filtra o conteúdo que contém a palavra-chave.
+ • Sem asteriscos indica correspondência exata.</string>
+    <string name="notification_black_list_description">O conteúdo adicionado à lista negra não será falado automaticamente. Isso é usado para filtrar o conteúdo que você não quer que seja lido durante a leitura de notificações . Palavras-chave podem ser adicionadas com asteriscos para implementar padrões de correspondência simples:
+ • Palavra-chave* filtra o conteúdo que começa com a palavra-chave.
+ • *Palavra-chave filtra o conteúdo que termina com a palavra-chave.
+ • Palavra-chave filtra o conteúdo que contém a palavra-chave.
+ • Sem asteriscos indica correspondência exata.</string>
+    <string name="notification_white_list_description">As notificações que possuam textos na lista branca serão sempre lidas automaticamente, mesmo que a leitura de notificações esteja desativada. Expressões regulares são suportadas. Se apenas um asterisco for adicionado, todas as notificações do aplicativo serão lidas automaticamente.</string>
+    <string name="nodeinfo_long_clickable">Toque longo</string>
+    <string name="nodeinfo_not_long_click">Não é possível efetuar toque longo</string>
+    <string name="nodeinfo_editable">Editável</string>
+    <string name="nodeinfo_not_edit">Não editável</string>
+    <string name="sound_scroll_page">翻页</string>
+    <string name="use_auto_mode_move_list_view_item_title">在自动浏览中使用列表项目间快速移动</string>
+    <string name="helper_tts_setting_title">语音助手语音设置</string>
+    <string name="node_tts_setting_title">焦点监控语音设置</string>
+    <string name="voice_helper_use_big_title">使用生成式大模式</string>
+    <string name="chat_history">对话记录</string>
+    <string name="command_recognition_icon">图标识别</string>
+    <string name="command_long_hold">点击按住</string>
+    <string name="sound_progress">进度</string>
+    <string name="sound_progress_100">进度100</string>
+    <string name="sound_clear_notification">清除全部通知</string>
+    <string name="sound_talkman_start">解说启动</string>
+    <string name="sound_talkman_stop">解说停止</string>
+    <string name="sound_camera">相机快门</string>
+    <string name="voice_picture_description">语音询问</string>
+    <string name="voice_picture_description2">语音询问全屏</string>
 
 
 </resources>

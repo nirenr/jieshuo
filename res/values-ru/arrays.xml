@@ -1,902 +1,1039 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string-array name="right_menu_items">
-        <item>@string/command_click</item>
-        <item>@string/command_long_click</item>
-        <item>@string/command_start</item>
-        <item>@string/command_end</item>
-        <item>@string/command_copy</item>
-        <item>@string/command_append_copy</item>
-        <item>@string/command_paste</item>
-        <item>@string/clipboard_menu_title</item>
-        <item>@string/favorites_menu_title</item>
-        <item>@string/split_edit_title</item>
-        <item>@string/command_long_copy</item>
-        <item>@string/command_trans</item>
-        <item>@string/command_verification2</item>
-        <item>@string/command_timer_mode</item>
-        <item>@string/cancel</item>
-    </string-array>
-    <string-array name="left_menu_items">
-        <item>@string/command_auto_next</item>
-        <item>@string/command_read_mode</item>
-        <item>@string/list_mode_title</item>
-        <item>@string/split_menu_title</item>
-        <item>@string/command_verbatim_speak2</item>
-        <item>@string/command_all_speak</item>
-        <item>@string/command_all_select</item>
-        <item>@string/command_ocr_text</item>
-        <item>@string/plugin_title</item>
-        <item>@string/command_notification_box</item>
-        <item>@string/command_to_notifications</item>
-        <item>@string/command_long_edit</item>
-        <item>@string/command_gestures_edit</item>
-        <item>@string/command_virtual_screen</item>
-        <item>@string/cancel</item>
-    </string-array>
-    <string-array name="action_menu_items">
-        <item>@string/command_clean</item>
-        <item>@string/command_select</item>
-        <item>@string/command_copy</item>
-        <item>@string/command_append_copy</item>
-        <item>@string/command_paste</item>
-        <item>@string/clipboard_menu_title</item>
-        <item>@string/favorites_menu_title</item>
-        <item>@string/split_edit_title</item>
-        <item>@string/command_long_copy</item>
-        <!--item>@string/command_virtual_keyboard</item-->
-    </string-array>
-    <string-array name="menu_def_items">
-        <item>@string/split_menu_title</item>
-        <item>@string/list_mode_title</item>
-        <item>@string/command_all_speak</item>
-        <item>@string/command_voice_helper</item>
-        <item>@string/plugin_title</item>
-        <item>@string/main_setting</item>
-        <item>@string/command_disable_feedback</item>
-    </string-array>
-    <string-array name="menu_items">
-        <item>@string/action_menu_title</item>
-        <item>@string/advanced_menu_title</item>
-        <item>@string/command_auto_next</item>
-        <item>@string/command_read_mode</item>
-        <item>@string/list_mode_title</item>
-        <item>@string/command_node_mode</item>
-        <item>@string/split_menu_title</item>
-        <item>@string/command_verbatim_speak2</item>
-        <item>@string/command_all_speak</item>
-        <item>@string/all_text_title</item>
-        <item>@string/command_all_select</item>
-        <item>@string/command_voice_helper</item>
-        <item>@string/command_ocr_text</item>
-        <item>@string/camera_title</item>
-        <item>@string/plugin_title</item>
-        <item>@string/tool_title</item>
-        <item>@string/main_setting</item>
-        <item>@string/command_disable_touch</item>
-        <item>@string/command_disable_feedback</item>
-        <item>@string/command_notification_box</item>
-        <item>@string/command_to_notifications</item>
-        <item>@string/command_long_edit</item>
-        <item>@string/command_gestures_edit</item>
-        <item>@string/command_enable_dim_screen</item>
-        <item>@string/command_virtual_screen</item>
-        <item>@string/command_quick_mode</item>
-        <item>@string/command_supper_mode</item>
-        <item>@string/command_virtual_navigation</item>
-    </string-array>
-    <string-array name="left_button">
-        <item>повесить трубку</item>
-        <item>отклонить</item>
-        <item>*Проведите, чтобы отклонить входящий звонок*</item>
-        <item>Завершить вызов</item>
-        <item>завершить звонок</item>
-        <item>Завершить звонок</item>
-        <item>Завершить вызов QQ</item>
-        <item>Завершить вызов QQ</item>
-        <item>Перейти к предыдущему элементу</item>
-        <item>Предыдущий трек</item>
-        <item>Навигация вверх</item>
-    </string-array>
-    <string-array name="right_button">
-        <item>Ответ на звонок</item>
-        <item>*Проведите, чтобы ответить на звонок*</item>
-        <item>Режим громкой связи</item>
-        <item>Режим динамика</item>
-        <item>Перейти к следующему элементу</item>
-        <item>Следующий трек</item>
-    </string-array>
-
-    <string-array name="voice_recognizer_values">
-        <item>3</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="voice_recognizer_entries">
-        <item>System</item>
-        <item>Engine 1</item>
-        <item>Engine 2</item>
-        <item>Engine 3</item>
-    </string-array>
-    <string-array name="tts_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-        <item>14</item>
-        <item>15</item>
-        <item>16</item>
-        <item>17</item>
-        <item>18</item>
-        <item>19</item>
-        <item>20</item>
-        <item>21</item>
-        <item>22</item>
-        <item>23</item>
-        <item>24</item>
-        <item>25</item>
-        <item>26</item>
-        <item>27</item>
-        <item>28</item>
-        <item>29</item>
-        <item>30</item>
-        <item>31</item>
-        <item>32</item>
-        <item>33</item>
-        <item>34</item>
-        <item>35</item>
-        <item>36</item>
-        <item>37</item>
-        <item>38</item>
-        <item>39</item>
-        <item>40</item>
-        <item>41</item>
-        <item>42</item>
-        <item>43</item>
-        <item>44</item>
-        <item>45</item>
-        <item>46</item>
-        <item>47</item>
-        <item>48</item>
-        <item>49</item>
-        <item>50</item>
-        <item>51</item>
-        <item>52</item>
-        <item>53</item>
-        <item>54</item>
-        <item>55</item>
-        <item>56</item>
-        <item>57</item>
-        <item>58</item>
-        <item>59</item>
-        <item>60</item>
-        <item>61</item>
-        <item>62</item>
-        <item>63</item>
-        <item>64</item>
-        <item>65</item>
-        <item>66</item>
-        <item>67</item>
-        <item>68</item>
-        <item>69</item>
-        <item>70</item>
-        <item>71</item>
-        <item>72</item>
-        <item>73</item>
-        <item>74</item>
-        <item>75</item>
-        <item>76</item>
-        <item>77</item>
-        <item>78</item>
-        <item>79</item>
-        <item>80</item>
-        <item>81</item>
-        <item>82</item>
-        <item>83</item>
-        <item>84</item>
-        <item>85</item>
-        <item>86</item>
-        <item>87</item>
-        <item>88</item>
-        <item>89</item>
-        <item>90</item>
-        <item>91</item>
-        <item>92</item>
-        <item>93</item>
-        <item>94</item>
-        <item>95</item>
-        <item>96</item>
-        <item>97</item>
-        <item>98</item>
-        <item>99</item>
-        <item>100</item>
-    </string-array>
-    <!--string-array name="tts_speaker_title">
-        <item>Женский голос</item>
-        <item>мужской голос</item>
-        <item>Счастливый</item>
-        <item>Du ya ya</item>
-    </string-array>
-    <string-array name="tts_speaker">
-        <item>0</item>
-        <item>1</item>
-        <item>3</item>
-        <item>4</item>
-    </string-array-->
-    <string-array name="vibrate_intensity_entries">
-        <item>Слабая</item>
-        <item>Средняя</item>
-        <item>Сильная</item>
-        <item>Усиленная</item>
-    </string-array>
-    <string-array name="vibrate_intensity_values">
-        <item>12</item>
-        <item>32</item>
-        <item>48</item>
-        <item>64</item>
-    </string-array>
-    <string-array name="long_click_entries">
-        <item>короткое</item>
-        <item>Средние</item>
-        <item>долгое</item>
-    </string-array>
-    <string-array name="long_click_values">
-        <item>500</item>
-        <item>750</item>
-        <item>1000</item>
-    </string-array>
-    <string-array name="edge_gesture_width_entries">
-        <item>Маленькая</item>
-        <item>Средняя</item>
-        <item>большая</item>
-        <item>максимальная</item>
-    </string-array>
-    <string-array name="edge_gesture_width_values">
-        <item>8</item>
-        <item>12</item>
-        <item>16</item>
-        <item>20</item>
-    </string-array>
-    <string-array name="tts_speaker_entries">
-        <item>Сяоянь</item>
-        <item>Сяофэн</item>
-    </string-array>
-    <string-array name="tts_speaker_values">
-        <item>xiaoyan</item>
-        <item>xiaofeng</item>
-    </string-array>
-    <string-array name="advanced_menu_items">
-        <item>перевод</item>
-        <item>Распознавание сцены</item>
-        <item>Распознавание текста</item>
-        <item>Распознавание лица</item>
-        <item>Распознавание кода с картинки</item>
-        <item>Результат распознавания</item>
-        <item>Описание изображения</item>
-    </string-array>
-    <string-array name="lang_entries">
-        <item>авто</item>
-        <item>корейский</item>
-        <item>китайский упрощенный</item>
-        <item>Китайский традиционный</item>
-        <item>Голландский</item>
-        <item>тайский</item>
-        <item>греческий</item>
-        <item>итальянский</item>
-        <item>словенский</item>
-        <item>японский</item>
-        <item>английский</item>
-        <item>арабский</item>
-        <item>кантонский</item>
-        <item>Венгерский</item>
-        <item>эстонский</item>
-        <item>румынский</item>
-        <item>китайский</item>
-        <item>чешский</item>
-        <item>Немецкий</item>
-        <item>Французский</item>
-        <item>финский</item>
-        <item>португальский</item>
-        <item>датский</item>
-        <item>русский</item>
-        <item>болгарский</item>
-        <item>испанский</item>
-        <item>шведский</item>
-        <item>польский</item>
-        <item>вьетнамский</item>
-
-        <item>爱尔兰语</item>
-        <item>奥克语</item>
-        <item>阿尔巴尼亚语</item>
-        <item>阿肯语</item>
-        <item>阿拉贡语</item>
-        <item>阿姆哈拉语</item>
-        <item>阿萨姆语</item>
-        <item>艾马拉语</item>
-        <item>阿塞拜疆语</item>
-        <item>阿斯图里亚斯语</item>
-        <item>奥塞梯语</item>
-        <item>奥杰布瓦语</item>
-        <item>奥里亚语</item>
-        <item>奥罗莫语</item>
-        <item>波斯语</item>
-        <item>布列塔尼语</item>
-        <item>巴什基尔语</item>
-        <item>巴斯克语</item>
-        <item>巴西葡萄牙语</item>
-        <item>白俄罗斯语</item>
-        <item>柏柏尔语</item>
-        <item>邦板牙语</item>
-        <item>北方萨米语</item>
-        <item>北索托语</item>
-        <item>本巴语</item>
-        <item>比林语</item>
-        <item>比斯拉马语</item>
-        <item>俾路支语</item>
-        <item>冰岛语</item>
-        <item>波斯尼亚语</item>
-        <item>博杰普尔语</item>
-        <item>楚瓦什语</item>
-        <item>聪加语</item>
-        <item>鞑靼语</item>
-        <item>掸语</item>
-        <item>德顿语</item>
-        <item>迪维希语</item>
-        <item>低地德语</item>
-        <item>菲律宾语</item>
-        <item>梵语</item>
-        <item>弗留利语</item>
-        <item>富拉尼语</item>
-        <item>法罗语</item>
-        <item>盖尔语</item>
-        <item>刚果语</item>
-        <item>高地索布语</item>
-        <item>高棉语</item>
-        <item>格陵兰语</item>
-        <item>格鲁吉亚语</item>
-        <item>古吉拉特语</item>
-        <item>古希腊语</item>
-        <item>古英语</item>
-        <item>瓜拉尼语</item>
-        <item>胡帕语</item>
-        <item>哈卡钦语</item>
-        <item>海地语</item>
-        <item>豪萨语</item>
-        <item>黑山语</item>
-        <item>吉尔吉斯语</item>
-        <item>加利西亚语</item>
-        <item>加拿大法语</item>
-        <item>加泰罗尼亚语</item>
-        <item>卡拜尔语</item>
-        <item>卡纳达语</item>
-        <item>卡努里语</item>
-        <item>卡舒比语</item>
-        <item>康瓦尔语</item>
-        <item>科萨语</item>
-        <item>科西嘉语</item>
-        <item>克里克语</item>
-        <item>克里米亚鞑靼语</item>
-        <item>克林贡语</item>
-        <item>克罗地亚语</item>
-        <item>克丘亚语</item>
-        <item>克什米尔语</item>
-        <item>孔卡尼语</item>
-        <item>库尔德语</item>
-        <item>拉丁语</item>
-        <item>老挝语</item>
-        <item>拉特加莱语</item>
-        <item>拉脱维亚语</item>
-        <item>林堡语</item>
-        <item>林加拉语</item>
-        <item>卢干达语</item>
-        <item>卢森堡语</item>
-        <item>卢森尼亚语</item>
-        <item>卢旺达语</item>
-        <item>立陶宛语</item>
-        <item>罗曼什语</item>
-        <item>罗姆语</item>
-        <item>逻辑语</item>
-        <item>马来语</item>
-        <item>缅甸语</item>
-        <item>马拉地语</item>
-        <item>马拉加斯语</item>
-        <item>马拉雅拉姆语</item>
-        <item>马其顿语</item>
-        <item>马绍尔语</item>
-        <item>迈蒂利语</item>
-        <item>曼克斯语</item>
-        <item>毛里求斯克里奥尔语</item>
-        <item>毛利语</item>
-        <item>孟加拉语</item>
-        <item>马耳他语</item>
-        <item>苗语</item>
-        <item>挪威语</item>
-        <item>那不勒斯语</item>
-        <item>南恩德贝莱语</item>
-        <item>南非荷兰语</item>
-        <item>南索托语</item>
-        <item>尼泊尔语</item>
-        <item>旁遮普语</item>
-        <item>帕皮阿门托语</item>
-        <item>普什图语</item>
-        <item>齐切瓦语</item>
-        <item>契维语</item>
-        <item>切罗基语</item>
-        <item>萨丁尼亚语</item>
-        <item>萨摩亚语</item>
-        <item>塞尔维亚-克罗地亚语</item>
-        <item>塞尔维亚语</item>
-        <item>桑海语</item>
-        <item>僧伽罗语</item>
-        <item>世界语</item>
-        <item>书面挪威语</item>
-        <item>斯洛伐克语</item>
-        <item>斯瓦希里语</item>
-        <item>索马里语</item>
-        <item>塞尔维亚语（西里尔）</item>
-        <item>土耳其语</item>
-        <item>塔吉克语</item>
-        <item>泰米尔语</item>
-        <item>他加禄语</item>
-        <item>提格利尼亚语</item>
-        <item>泰卢固语</item>
-        <item>突尼斯阿拉伯语</item>
-        <item>土库曼语</item>
-        <item>乌克兰语</item>
-        <item>瓦隆语</item>
-        <item>威尔士语</item>
-        <item>文达语</item>
-        <item>沃洛夫语</item>
-        <item>乌尔都语</item>
-        <item>希伯来语</item>
-        <item>西弗里斯语</item>
-        <item>西里西亚语</item>
-        <item>希利盖农语</item>
-        <item>下索布语</item>
-        <item>夏威夷语</item>
-        <item>新挪威语</item>
-        <item>西非书面语</item>
-        <item>信德语</item>
-        <item>修纳语</item>
-        <item>宿务语</item>
-        <item>叙利亚语</item>
-        <item>巽他语</item>
-        <item>印地语</item>
-        <item>印尼语</item>
-        <item>意第绪语</item>
-        <item>因特语</item>
-        <item>亚齐语</item>
-        <item>印古什语</item>
-        <item>伊博语</item>
-        <item>伊多语</item>
-        <item>约鲁巴语</item>
-        <item>亚美尼亚语</item>
-        <item>伊努克提图特语</item>
-        <item>伊朗语</item>
-        <item>扎扎其语</item>
-        <item>中古法语</item>
-        <item>祖鲁语</item>
-        <item>爪哇语</item>
-
-        <item>奥利亚语</item>
-        <item>弗里西语</item>
-        <item>哈萨克语</item>
-        <item>海地克里奥尔语</item>
-        <item>马尔加什语</item>
-        <item>蒙古语</item>
-        <item>塞索托语</item>
-        <item>维吾尔语</item>
-        <item>乌兹别克语</item>
-
-    </string-array>
-    <string-array name="lang_values">
-        <item>auto</item>
-        <item>kor</item>
-        <item>wyw</item>
-        <item>cht</item>
-        <item>nl</item>
-        <item>th</item>
-        <item>el</item>
-        <item>it</item>
-        <item>slo</item>
-        <item>jp</item>
-        <item>en</item>
-        <item>ara</item>
-        <item>yue</item>
-        <item>hu</item>
-        <item>est</item>
-        <item>rom</item>
-        <item>zh</item>
-        <item>cs</item>
-        <item>de</item>
-        <item>fra</item>
-        <item>fin</item>
-        <item>pt</item>
-        <item>dan</item>
-        <item>ru</item>
-        <item>bul</item>
-        <item>spa</item>
-        <item>swe</item>
-        <item>pl</item>
-        <item>vie</item>
-
-        <item>gle</item>
-        <item>oci</item>
-        <item>alb</item>
-        <item>aka</item>
-        <item>arg</item>
-        <item>amh</item>
-        <item>asm</item>
-        <item>aym</item>
-        <item>aze</item>
-        <item>ast</item>
-        <item>oss</item>
-        <item>oji</item>
-        <item>ori</item>
-        <item>orm</item>
-        <item>per</item>
-        <item>bre</item>
-        <item>bak</item>
-        <item>baq</item>
-        <item>pot</item>
-        <item>bel</item>
-        <item>ber</item>
-        <item>pam</item>
-        <item>sme</item>
-        <item>ped</item>
-        <item>bem</item>
-        <item>bli</item>
-        <item>bis</item>
-        <item>bal</item>
-        <item>ice</item>
-        <item>bos</item>
-        <item>bho</item>
-        <item>chv</item>
-        <item>tso</item>
-        <item>tat</item>
-        <item>sha</item>
-        <item>tet</item>
-        <item>div</item>
-        <item>log</item>
-        <item>fil</item>
-        <item>san</item>
-        <item>fri</item>
-        <item>ful</item>
-        <item>fao</item>
-        <item>gla</item>
-        <item>kon</item>
-        <item>ups</item>
-        <item>hkm</item>
-        <item>kal</item>
-        <item>geo</item>
-        <item>guj</item>
-        <item>gra</item>
-        <item>eno</item>
-        <item>grn</item>
-        <item>hup</item>
-        <item>hak</item>
-        <item>ht</item>
-        <item>hau</item>
-        <item>mot</item>
-        <item>kir</item>
-        <item>glg</item>
-        <item>frn</item>
-        <item>cat</item>
-        <item>kab</item>
-        <item>kan</item>
-        <item>kau</item>
-        <item>kah</item>
-        <item>cor</item>
-        <item>xho</item>
-        <item>cos</item>
-        <item>cre</item>
-        <item>cri</item>
-        <item>kli</item>
-        <item>hrv</item>
-        <item>que</item>
-        <item>kas</item>
-        <item>kok</item>
-        <item>kur</item>
-        <item>lat</item>
-        <item>lao</item>
-        <item>lag</item>
-        <item>lav</item>
-        <item>lim</item>
-        <item>lin</item>
-        <item>lug</item>
-        <item>ltz</item>
-        <item>ruy</item>
-        <item>kin</item>
-        <item>lit</item>
-        <item>roh</item>
-        <item>ro</item>
-        <item>loj</item>
-        <item>may</item>
-        <item>bur</item>
-        <item>mar</item>
-        <item>mg</item>
-        <item>mal</item>
-        <item>mac</item>
-        <item>mah</item>
-        <item>mai</item>
-        <item>glv</item>
-        <item>mau</item>
-        <item>mao</item>
-        <item>ben</item>
-        <item>mlt</item>
-        <item>hmn</item>
-        <item>nor</item>
-        <item>nea</item>
-        <item>nbl</item>
-        <item>afr</item>
-        <item>sot</item>
-        <item>nep</item>
-        <item>pan</item>
-        <item>pap</item>
-        <item>pus</item>
-        <item>nya</item>
-        <item>twi</item>
-        <item>chr</item>
-        <item>srd</item>
-        <item>sm</item>
-        <item>sec</item>
-        <item>srp</item>
-        <item>sol</item>
-        <item>sin</item>
-        <item>epo</item>
-        <item>nob</item>
-        <item>sk</item>
-        <item>swa</item>
-        <item>som</item>
-        <item>src</item>
-        <item>tr</item>
-        <item>tgk</item>
-        <item>tam</item>
-        <item>tgl</item>
-        <item>tir</item>
-        <item>tel</item>
-        <item>tua</item>
-        <item>tuk</item>
-        <item>ukr</item>
-        <item>wln</item>
-        <item>wel</item>
-        <item>ven</item>
-        <item>wol</item>
-        <item>urd</item>
-        <item>heb</item>
-        <item>fry</item>
-        <item>sil</item>
-        <item>hil</item>
-        <item>los</item>
-        <item>haw</item>
-        <item>nno</item>
-        <item>nqo</item>
-        <item>snd</item>
-        <item>sna</item>
-        <item>ceb</item>
-        <item>syr</item>
-        <item>sun</item>
-        <item>hi</item>
-        <item>id</item>
-        <item>yid</item>
-        <item>ina</item>
-        <item>ach</item>
-        <item>ing</item>
-        <item>ibo</item>
-        <item>ido</item>
-        <item>yor</item>
-        <item>arm</item>
-        <item>iku</item>
-        <item>ir</item>
-        <item>zaz</item>
-        <item>frm</item>
-        <item>zul</item>
-        <item>jav</item>
-
-        <item>or</item>
-        <item>fy</item>
-        <item>kk</item>
-        <item>ht</item>
-        <item>mg</item>
-        <item>mn</item>
-        <item>st</item>
-        <item>ug</item>
-        <item>uz</item>
-
-    </string-array>
-
-    <string-array name="tts_engine_values">
-        <item>system</item>
-        <item>unisound</item>
-    </string-array>
-    <string-array name="tts_engine_entries">
-        <item>Системный TTS</item>
-        <item>Юньжишэн TTS</item>
-    </string-array>
-    <string-array name="tts_engine_vip_values">
-        <item>system</item>
-        <item>iflytek</item>
-        <item>unisound</item>
-    </string-array>
-    <string-array name="tts_engine_vip_entries">
-        <item>System TTS</item>
-        <item>Xunfei TTS</item>
-        <item>Yunzhisheng TTS</item>
-    </string-array>
-    <string-array name="alarm_interval_values">
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>30</item>
-        <item>60</item>
-    </string-array>
-    <string-array name="alarm_interval_entries">
-        <item>Каждые 5 минут</item>
-        <item>Каждые 10 минут</item>
-        <item>Каждые 15 минут</item>
-        <item>Каждые 30 минут</item>
-        <item>Каждые 60 минут</item>
-    </string-array>
-    <string-array name="timer_interval_values">
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-    </string-array>
-    <string-array name="timer_interval_entries">
-        <item>1 минута</item>
-        <item>5 минут</item>
-        <item>10 минут</item>
-        <item>15 минут</item>
-    </string-array>
-    <string-array name="alarm_hour_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-        <item>14</item>
-        <item>15</item>
-        <item>16</item>
-        <item>17</item>
-        <item>18</item>
-        <item>19</item>
-        <item>20</item>
-        <item>21</item>
-        <item>22</item>
-        <item>23</item>
-    </string-array>
-    <string-array name="recognizer_lang_entries">
-        <item>Китайский упрощённый</item>
-        <item>Китайский традиционный</item>
-        <item>Английский</item>
-    </string-array>
-    <string-array name="recognizer_lang_values">
-        <item>zh_CN</item>
-        <item>zh_GD</item>
-        <item>en_GB</item>
-    </string-array>
-    <string-array name="tts_scale_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-    </string-array>
-    <string-array name="tts_scale_entries">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-    </string-array>
-    <string-array name="web_type_title">
-        <item>Поумолчанию</item>
-        <item>Заголовки</item>
-        <item>Ссылки</item>
-        <item>Кнопки</item>
-
-        <item>Ориентир</item>
-        <item>Окно редактирования</item>
-        <item>Фокус</item>
-        <item>Элементы управления</item>
-        <item>картинка</item>
-        <item>Флажок</item>
-        <item>Поле со списком</item>
-        <item>форма</item>
-        <item>Список</item>
-        <item>Элементы списка</item>
-
-        <item>Страницы</item>
-        <item>Просмотр</item>
-
-        <item>Символ</item>
-        <item>Слова</item>
-        <item>Строка</item>
-        <item>Абзац</item>
-        <item>Страница</item>
-        <item>Копировать</item>
-        <item>Громкость</item>
-        <item>Скорость речи</item>
-        <item>Движок распознавания</item>
-        <item>Окно</item>
-    </string-array>
-
-    <string-array name="hot_key_help_items">
-        <item>CTRL+DPAD_UP: Переместить фокус к предыдущему элементу.</item>
-        <item>CTRL+DPAD_DOWN: Переместить фокус к следующему элементу.</item>
-        <item>CTRL+DPAD_LEFT: Левая функция ярлыка</item>
-        <item>CTRL+DPAD_RIGHT: Правая функция ярлыка</item>
-        <item>CTRL+PAGE_UP: Прокрутка вверх</item>
-        <item>CTRL+PAGE_DOWN: Прокрутить вниз</item>
-        <item>CTRL+H: Перейти на главный экран</item>
-        <item>CTRL+N: Перейти на панель уведомлений</item>
-        <item>CTRL+P: Перейти к недавним приложениям</item>
-        <item>CTRL+SPACE: Нажатие</item>
-        <item>CTRL+L: Длительное нажатие</item>
-        <item>CTRL+Q: Быстрая настройка</item>
-
-        <item>ALT+M: Главное меню</item>
-        <item>ALT+A: Меню действий</item>
-        <item>ALT+P: Расширения</item>
-        <item>ALT+T: Инструменты Расширения</item>
-        <item>ALT+V: Голосовой помощник</item>
-        <item>ALT+S: Разделенное редактирование.</item>
-        <item>ALT+L: Просмотр списка</item>
-
-    </string-array>
-    <string-array name="view_type_title">
-        <item>По умолчанию</item>
-        <item>Текст</item>
-        <item>Кнопка</item>
-        <item>Окно редактирования</item>
-
-        <item>Картинка</item>
-        <item>Флаг</item>
-        <item>Индикатор выполнения</item>
-        <item>Список</item>
-        <item>Элемент списка</item>
-        <item>Фокусируемый элемент</item>
-        <item>Кликабельный элемент</item>
-        <item>Узел</item>
-        <item>Ползунок</item>
-        <item>Перемещение по вертикали</item>
-
-
-        <item>Символ</item>
-        <item>Слово</item>
-        <item>Строка</item>
-        <item>Абзац</item>
-        <item>Страница</item>
-        <item>Копировать</item>
-        <item>Громкость</item>
-        <item>Скорость речи</item>
-        <item>Движок распознавания</item>
-        <item>Окно</item>
-
-    </string-array>
-
-
+	<string-array name="action_menu_items">
+		<item>@string/command_clean</item>
+		<item>@string/command_select</item>
+		<item>@string/command_copy</item>
+		<item>@string/command_append_copy</item>
+		<item>@string/command_paste</item>
+		<item>@string/clipboard_menu_title</item>
+		<item>@string/favorites_menu_title</item>
+		<item>@string/split_edit_title</item>
+		<item>@string/command_long_copy</item>
+	</string-array>
+	<string-array name="advanced_menu_items">
+		<item>перевод</item>
+		<item>Распознавание сцены</item>
+		<item>Распознавание текста</item>
+		<item>Распознавание лица</item>
+		<item>Распознавание кода с картинки</item>
+		<item>Результат распознавания</item>
+		<item>Описание изображения</item>
+	</string-array>
+	<string-array name="alarm_hour_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+		<item>7</item>
+		<item>8</item>
+		<item>9</item>
+		<item>10</item>
+		<item>11</item>
+		<item>12</item>
+		<item>13</item>
+		<item>14</item>
+		<item>15</item>
+		<item>16</item>
+		<item>17</item>
+		<item>18</item>
+		<item>19</item>
+		<item>20</item>
+		<item>21</item>
+		<item>22</item>
+		<item>23</item>
+	</string-array>
+	<string-array name="alarm_interval_entries">
+		<item>Каждые 5 минут</item>
+		<item>Каждые 10 минут</item>
+		<item>Каждые 15 минут</item>
+		<item>Каждые 30 минут</item>
+		<item>Каждые 60 минут</item>
+	</string-array>
+	<string-array name="alarm_interval_values">
+		<item>5</item>
+		<item>10</item>
+		<item>15</item>
+		<item>30</item>
+		<item>60</item>
+	</string-array>
+	<string-array name="code_help_items" formatted="false">
+		<item>Использование синтаксиса Lua и собственного API Jieshuo Screenreader позволяет выполнять несколько действий одним жестом и создавать многофункциональные плагины.\nЕсли вы знакомы с lua и androlua, вы сможете создавать довольно сложные функции. В этом разделе описан только собственный API Jieshuo Screenreader.</item>
+		<item>общие сведения\n service: служба специальных возможностей service является основой работы программы экранного доступа, все остальные действия базируются на ней.</item>
+		<item>описание параметров\n node - элемент, на котором установлен фокус, действие функции находит применение именно к этому элементу.\n bool - значение может быть true или false.\n text - текстовое содержимое.</item>
+		<item>return: return,визначає, чи має програма екранного доступу виконати стандартну дію жесту.\n Return true для перехоплення жесту, false для повернення на попередній рівень. Якщо жест для окремого додатка повертає false, то буде виконано дію глобального жесту, якщо глобальний жест повертає false, то буде виконано стандартну дію жесту.</item>
+		<item>Распространенные команды\n service.execute(command,node)\n Эта команда используется для объяснения работы некоторых встроенных команд с целью упрощения процесса разработки. Если команда выполнена успешно, то она возвращает true, если выполнение неудачное, то возвращается false.</item>
+		<item>service.postExecute(time,command,node)\n Задержка выполнения команды</item>
+		<item>text=service.getText(node)\n Получить текстовое содержимое указанного элемента.</item>
+		<item>service.setText(node,text)\n Установить текстовое содержимое указанного поля редактирования.</item>
+		<item>service.setText(text)\n Установить текстовое содержимое поля редактирования, на котором находится фокус.</item>
+		<item>service.copy()\n Копировать в буфер обмена текстовое содержимое элемента, на котором находится фокус.</item>
+		<item>service.appendCopy()\n Добавить к содержимому буфера обмена текстовое содержимое элемента, на котором находится фокус.</item>
+		<item>service.copy(text)\n Копировать указанный текст в буфер обмена.</item>
+		<item>service.appendCopy(text)\n Добавить указанный текст к содержимому буфера обмена.</item>
+		<item>service.paste()\n Вставить содержимое буфера обмена в поле редактирования на текущем экране.</item>
+		<item>service.paste(node)\n Вставить содержимое буфера обмена в указанное поле редактирования.</item>
+		<item>service.toNext()\n Перейти к следующему элементу.</item>
+		<item>service.toNext(node,bool)\n Перейти к указанному элементу узла, если bool является true, то будут искаться дочерние узлы, если false - то нет.</item>
+		<item>service.toPrevious()\n Перейти к предыдущему элементу.</item>
+		<item>service.toPrevious(node,bool)\n Переход к указанному элементу узла, если bool является true, то будут искаться дочерние узлы, если false - то нет.</item>
+		<item>service.toNextChar()\n Переход к следующему символу.</item>
+		<item>service.toPreviousChar()\n Переход к предыдущему символу.</item>
+		<item>service.toNextLine()\n Переход к следующей строке.</item>
+		<item>service.toPreviousLine()\n Переход к предыдущей строке.</item>
+		<item>service.toTextStart()\n Переход в начало текста.</item>
+		<item>service.toTextEnd()\n Переход в конец текста.</item>
+		<item>service.toListViewStart()\n Переход в начало списка.</item>
+		<item>service.toListViewEnd()\n Перехід у кінець списку.</item>
+		<item>service.getRootNodeInfo()\n Получить информацию об узле.</item>
+		<item>service.ocr(node)\n Распознавание текста указанного элемента (премиум-функция).</item>
+		<item>service.setTimerMode(bool)\n Включение или выключение таймера, если bool является true, то включить, если false - выключить.</item>
+		<item>service.setAutoReadEnabled(bool)\n Включение или выключение режима чтения, если bool является true, то включить, если false - выключить.</item>
+		<item>service.setAutoNext(bool)\n Включение или выключение режима автоматического чтения, если bool является true, то включить, если false - выключить.</item>
+		<item>bool=service.isEditView(node)\n Определить, является ли указанный элемент полем редактирования.</item>
+		<item>bool=service.isSeekBar(node)\n Определить, является ли указанный элемент ползунком.</item>
+		<item>bool=service.isListView(node)\n Определить, является ли указанный элемент списком.</item>
+		<item>bool=service.isInListView(node)\n Определить, является ли указанный узел элементом списка.</item>
+		<item>bool=service.isInWebView(node)\n Определить, является ли указанный элемент веб-страницей.</item>
+		<item>bool=service.isClick(node)\n Определить, можно ли нажать на указанный элемент.</item>
+		<item>service.toClick()\n Нажать на текущий элемент, на Android 7 используйте имитацию прямого прикосновения.</item>
+		<item>service.toClick(node)\n Нажать на указанный элемент.</item>
+		<item>service.toLongClick()\n Нажать с удержанием на текущий элемент.</item>
+		<item>service.toLongClick(node)\n Нажать с удержанием на указанный элемент.</item>
+		<item>service.toBack()\n вернуться назад.</item>
+		<item>service.toHome()\n Перейти на главный экран.</item>
+		<item>service.toNotification()\n Открыть панель уведомлений.</item>
+		<item>service.toParent()\n Открыть экран недавних приложений.</item>
+		<item>service.scrollBackward(node)\n прокрутить вниз.</item>
+		<item>service.scrollForward(node)\n прокрутить вверх.</item>
+		<item>service.loadGesturePackage(name)\n Активировать тему жестов.</item>
+		<item>service.click(x,y)\n Имитация прямого касания в указанном месте экрана, доступно только в Android 7 и выше.</item>
+		<item>service.longClick(x,y)\n Имитация прямого касания с удержанием в указанном месте экрана, доступно только в Android 7 и выше.</item>
+		<item>service.press(x,y,t)\n Имитация прямого касания в указанном месте экрана в течение указанного времени, доступно только в Android 7 и выше.</item>
+		<item>service.swipe(x1,y1,x2,y2,t)\n Имитация смахивания от одного места экрана к другому, что выполняется за указанное время. Доступно только в Android 7 и выше.</item>
+		<item>Управление порядком выполнения операций.</item>
+		<item>if условие then действие\n end\n Действия выполняются, если указанное условие истинна. \n Например,\n if service.isEditView(node) then service.execute(Split Edit,node)\n return true\n end\n Этот код означает: активировать режим расширенного редактирования, если фокус находится на поле редактирования.</item>
+		<item>for n=1, количество повторений do\n действие\n end\n Повторить действия определенное количество раз.\n Например,\n for n=1,10 do\n service.toBack()\n end\n Означает: выполнить команду Вернуться назад 10 раз.</item>
+		<item>задать функцию,\n function имя функции (параметры)\n код функции\n end</item>
+		<item>Функция - это блок кода, который можно повторно использовать. \n Например, ниже приведены функции для добавления данных в список. \n function append(t1,t2)\n for k,v in ipairs(t2) do\n table.insert(t1,v)\n end \n end \n click list=()\n button list={ %Click,%return}\n for n=1,10 do\n append (click list, button list)\n end\n Этот код означает: добавить содержимое button list к click list 10 раз.</item>
+		<item>function slide()\n service.swipe(500,300,500,1000,1000)\n return true\n end\n Эта функция имитирует смахивания по экрану и может использоваться в функциях автоматического нажатия.\nservice.click({{>WeChat,%slide}})\n открыть WeChat і имитировать смахивания сверху вниз по экрану.</item>
+		<item>автоматическое нажатие,\n service.click({список кнопок})\n автоматически находит и поочередно нажимает кнопки, названия которых содержатся в списке кнопок.\n В названиях кнопок можно использовать некоторые символы, в частности\n # (решетка) перед названием кнопки, означает, что это метка пользователя или идентификатор, \n * (звездочка) перед или после названия означает, что там имеются какие-либо другие символы, \n # (решетка) после названия означает порядковый номер кнопки, \n @(собачка) после названия означает, что кнопку необходимо искать только в указанном приложении, \n $ (доллар) означает продолжительность задержки после выполнения операции. \n Поддерживаются множественные списки и поиск по порядковым номерам.\n Если действия успешно выполнены, то возвращается true, иначе false. \n Смотрите описание ниже.</item>
+		<item>Нажатие с задержкой,\n service.postClick(время,{список кнопок})\n Нажатие с указанной задержкой, время измеряется в миллисекундах, формат списка кнопок аналогичный функции автоматического нажатия,\n никакого значения не возвращается.</item>
+		<item>service.plugin(название плагина,node)\n Запуск указанного плагина,\n возвращаемое значение зависит от настроек плагина.</item>
+		<item>Интерпретация жестов наиболее гибкая с использованием автоматического нажатия, базовая форма имеет вид:</item>
+		<item>список кнопок=()\n service.click(список кнопок)\n return true</item>
+		<item>Можно непосредственно использовать две строки, которые приведены ниже, вам необходимо лишь изменить список кнопок. \n Список кнопок содержит перечень названий кнопок с дополнительными символами в фигурных скобках.</item>
+		<item>простейший пример:</item>
+		<item>Button={OK}\nservice.click(button)\nreturn true</item>
+		<item>Этот код позволяет нажать на экране кнопку OK,</item>
+		<item>Button={\nOK,\nГотово\n}\nservice.click(button)\nreturn true</item>
+		<item>Это фигурные скобки первого уровня, такая запись означает, что будет нажата кнопка Ok, если такой кнопки не будет найдено, то будет нажата кнопка Готово.</item>
+		<item>Иногда для достижения результата нам нужно нажать последовательно несколько кнопок, это можно сделать с помощью автоматического нажатия.</item>
+		<item>Button={\n{group information card,file}\n}\nservice.click(button)\nreturn true</item>
+		<item>Это фигурные скобки второго уровня. Кнопки, содержащиеся между ними, будут последовательно нажиматься. Выполнение функции будет прекращено, если в списке попадется кнопка, которой нет на экране.</item>
+		<item>Вложенные скобки позволяют осуществлять последовательные нажатия.</item>
+		<item>В списке кнопок можно использовать некоторые символы для модификации работы функции.</item>
+		<item>Чаще всего применяемыми являются: (звездочка) - этот символ перед названием кнопки или после нее показывает, что там могут содержаться любые другие символы</item>
+		<item>Например, вам необходимо нажать на группу в QQ, иногда после названия группы может быть уведомления о новых сообщениях, тогда вам необходимо написать:</item>
+		<item>Название группы *</item>
+		<item>\# (Решетка) - этот символ означает номер кнопки. Иногда на экране может быть несколько кнопок с одинаковым названием, тогда вам необходимо использовать решетку, чтобы определить, на какую именно кнопку вам нужно нажать.</item>
+		<item>Например, confirm#1, что означает первую на текущем экране кнопку с таким названием, или от  емкое число: confirm # 1, что означает последнюю на текущем экране кнопку с таким названием.  </item>
+		<item>Символ решетки перед названием кнопки показывает, что это идентификатор или метка кнопки, а не ее название. Например, если кнопка не имеет названия, то вы можете сами добавить метку и использовать ее в функциях</item>
+		<item>Символ вертикальной черты означает логическое ИЛИ, то есть если не будет найдено первой кнопки, то будет нажата другая. Например, если вам нужно нажать на кнопку Ok или кнопку Готово, то надо написать: \n OK|Готово</item>
+		<item>&amp; означает, что кнопка будет нажата только если на экране присутствует содержимое, указанное после знака &amp;</item>
+		<item>OK&amp;*выйти*\n означает, что кнопка Ok будет нажата только в том случае, когда на экране будет также слово  выйти \", например в вопросе  Вы действительно хотите выйти?\". </item>
+		<item>Восклицательный знак и ключевое слово после знака &amp; означает, что кнопка будет нажата только, если это слово отсутствует на экране. \n OK&amp;!*выйти*\n означает, что кнопка Ok будет нажата только в том случае, если на экране нет слова  выйти\".</item>
+		<item>Символ &amp; перед названием используется для проверки типа текущего элемента: \n элемент, который можно редактировать\n элемент, который можно нажать\n список\n элемент списка\n поле редактирования\n Это поле редактирования с выбором метода ввода.</item>
+		<item>$ (доллар) - этот знак после названия кнопки определяет продолжительность задержки между нажатием этой кнопки и последующей операцией.</item>
+		<item>запись Group information card$2000,File\n означает: нажать кнопку file через 2 секунды после нажатия кнопки group information card.</item>
+		<item>&lt; (знак меньше) после названия кнопки означает количество нажатий.\n Например, запись Стоп&lt;10\n означает: нажать кнопку Стоп 10 раз</item>
+		<item>Знак меньше перед названием кнопки используется для установки на нее фокуса без дальнейшего нажатия.\n &lt;Ok\n значит найти кнопку Ok, но не нажимать на нее.</item>
+		<item>Знак больше после названия кнопки позволяет подождать указанный промежуток времени.\n Group Information Card,File>10\n Такая запись означает: после нажатия group information card в течение 10 секунд ожидать появления на экране кнопки file и нажать на нее, как только она станет доступной. Если этого не произойдет через 10 секунд, то выполнение функции будет прекращено.</item>
+		<item>Знак больше перед текстом используется для открытия приложений,\n</item>
+		<item>Знак процента позволяет выполнять функции программы экранного доступа. \n Например, \n %Копировать\n выполняет функцию копирования, \n %Читать весь экран\n зачитывает содержимое текущего экрана.</item>
+		<item>% также позволяет выполнять функции определенные в скрипте. Если функция возвращает true, то выполнение продолжается, если false - выполнение прекращается.</item>
+		<item>[]Если название элемента находится в квадратных скобках, то он будет активирован с помощью имитации прямого касания, а не касания специальных возможностей. Прямое касание может помочь в случаях, когда элемент не удается активировать обычным способом.\n [Воспроизвести]\n имитирует нажатия прямым касанием кнопки Воспроизвести,\n [%прямое касание]  n активация прямым касанием текущего элемента.</item>
+		<item>[x,y] Два числа в квадратных скобках позволяют имитировать прямое касание в заданном месте экрана. Вы можете воспользоваться целыми числами, чтобы задать абсолютные координаты. или числами от 0 до 1 с десятичной точкой, чтобы задать относительную позицию.\n [300,500]\n имитирует нажатие в точке с координатами: 300 пикселей по горизонтали и 500 точек по вертикали от левого верхнего угла экрана.\n [0.3,0.5]\n имитирует нажатие в точке, находящейся на 0.3 ширины и 0,5 высоты экрана относительно левого верхнего угла.</item>
+		<item>[x,y,t] Три числа в квадратных скобках означают нажатия в течение указанного времени в заданном месте экрана. Первые два числа - это, как в предыдущем случае, координаты, а третье - при нажатии в миллисекундах.\n [300,500,1000]\n Такая запись позволяет имитировать нажатие длительностью 1000 мс в точке с координатами: 300 пикселей по горизонтали и 500 точек по вертикали от левого верхнего угла экрана.</item>
+		<item>[x1,y1,x2,y2,t] пять чисел в квадратных скобках позволяют имитировать смахивания по экрану от точки x1, y1 до точки x2, y2, выполненное за указанное время. Можно использовать целые числа для обозначения абсолютных координат в пикселях или числа от 0 до 1 с десятичной точкой для обозначения относительной позиции. Началом отсчета является верхний левый угол экрана. \n [ 300,500,300,800,1000]\n Эта запись означает имитацию смахивания от точки с координатами 300; 500 в точку с координатами 300; 800, выполненное за 1000 мс.</item>
+		<item>Имитацию смахивания можно выполнять несколько раз. Например, запись:\n [300,500,300,800,1000,10]\n означает имитацию десяти смахиваний от точки с координатами 300; 500 в точку с координатами 300; 800, выполненных за 1000 мс каждое.</item>
+		<item>При выполнении функций могут возникать различные ситуации, например, необходимо открыть QQ, нажать commentary group, затем открыть профиль группы group profile и напоследок нажать кнопку file.\n Если в группе есть объявления, то выполнение скрипта остановится после открытия профиля, поэтому необходимо в коде предусмотреть обработку такой ситуации.\n Пример ниже может содержать неточности, он приведен только для иллюстрации общих принципов написания функций.</item>
+		<item>button={\n {>QQ,\n Commentary group*,\n {I have read the group announcement|I got it\n },\n Group profile,\n file\n }}</item>
+		<item>Различные версии QQ имеют разные кнопки для закрытия объявлений в группе.\n Поэтому в коде после открытия группы commentary group, вы можете увидеть кнопки в фигурных скобках. Эти кнопки будут нажаты, если они будут на экране, в противном случае эта операция будет пропущена без всякого влияния на дальнейшее выполнение функции.\n Если функция предполагает сложные сценарии, то можно использовать несколько уровней вложений фигурных скобок.</item>
+		<item>button={\n{>QQ,\nCommentary group*,\n{{I have read the group announcement, confirm},\n{I got it, sure},\n},\nGroup profile,\nfile\n} }</item>
+	</string-array>
+	<string-array name="edge_gesture_width_entries">
+		<item>Маленькая</item>
+		<item>Средняя</item>
+		<item>большая</item>
+		<item>максимальная</item>
+	</string-array>
+	<string-array name="edge_gesture_width_values">
+		<item>8</item>
+		<item>12</item>
+		<item>16</item>
+		<item>20</item>
+	</string-array>
+	<string-array name="gesture_help_items">
+		<item>Основы работы с жестами:\n Одинарные жесты должны быть прямыми, а движения - быстрыми\n Длина первой части углового жеста должна превышать размер половины экрана, а вторую необходимо выполнять под прямым углом к ​​первой.</item>
+		<item>комбинации жестов:\n Сначала вверх, потом вниз - перейти к первому элементу на экране\n Сначала вниз, потом вверх - перейти к последнему элементу на экране\n Сначала влево, затем вправо - экран недавно запущенных приложений\n Сначала вправо, потом влево - вернуться назад\n Сначала вверх, потом вправо - меню действий\n сначала вниз, затем вправо - главное меню\n сначала вверх, затем влево - плагины\n сначала вниз, потом влево - голосовой помощник\n сначала влево, затем вниз - режим чтения по словам\n Сначала вправо, затем вверх - автоматическое чтение элементов сверху вниз\n сначала влево, затем вверх - открыть панель уведомлений\n Сначала вправо, затем вниз - просмотреть содержимое в виде списка</item>
+		<item>Жесты режима просмотра:\n нажмите установить фокус\n проведите вверх для просмотра вверх\n проведите вниз для просмотра вниз</item>
+		<item>Жесты перемещения фокуса:\n Вверх - предыдущий элемент\n Вниз - следующий элемент</item>
+		<item>Звонки QQ и WeChat\n Вправо - принять\n Влево - отклонить</item>
+		<item>Звонки QQ и WeChat\n Вправо - принять\n Влево - отклонить/ завершить</item>
+		<item>Списки\n Влево - прокрутить назад\n вправо - прокрутить вперед</item>
+		<item>диалоги\n Отменить - проведите влево\n Нажать OK - проведите вправо</item>
+		<item>Работа с ползунками\n Проведите влево для уменьшения ползунка\n Проведите вправо для увеличения ползунка</item>
+		<item>Навигация по тексту в полях редактирования\n Проведите влево для перемещения к предыдущему символу\n Проведите вправо для перемещения к следующему символу</item>
+		<item>Режим чтения по словам:\n Вверх - предыдущая строка\n вниз - следующая строка\n Влево - предыдущий символ\n Вправо - следующий символ\n сначала влево, потом вправо - предыдущее слово\n сначала вправо, потом влево - следующее слово\n Сначала вверх, потом вправо - выбрать текст\n Сначала влево, затем вниз - выйти из режима</item>
+		<item>Жесты для выделения текста: \n Касание: прочитать текущий символ.\n Смахивание вверх: перейти к предыдущей строке.\n Смахивание вниз: Перейти к следующей строки.\n Смахивание влево: перейти к предыдущему символу.\n Смахивание вправо: перейти к следующему символу.\n Смахивание влево, а затем вверх: к предыдущему абзацу.\n Смахивание вправо, а затем вниз: перейти к следующему абзацу.\n Смахивание вверх, а затем вправо: отменить выделение.\n Смахивание вниз, а затем вправо: скопировать выделенное.\n Смахивание вверх, а затем влево: добавить содержимое в буфер обмена.\n Смахивание вправо, а затем вниз: скопировать весь текст.</item>
+		<item>Жесты режима просмотра узлов: Смахивание вверх: к предыдущему узлу.\n Смахивание вниз: перейти к следующему узлу.\n Смахивание влево: перейти к родительскому узлу.\n Смахивание вправо: перейти к дочернему узлу.\n Смахивание вниз, а затем влево: выйти из узла.</item>
+		<item>Использование голосового помощника: \n Открыть Название приложения: открытие указанного приложения. Отправить текст: непосредственное передача содержимого через QQ и Wechat. Найти Текст запроса: поиск в сети. Функциональность голосового помощника можно расширить с помощью функций и плагинов.</item>
+	</string-array>
+	<string-array name="help_items">
+		<item>Стандартные жесты основных навигационных операций:  n Смахивание вверх - переход к предыдущему элементу. Смахивание вниз - переход к следующему элементу.  N Вы можете изменить это поведение в настройках действий.</item>
+		<item>Главное меню:  n Выполните жест вниз и вправо, чтобы открыть меню, проведите вправо, чтобы просмотреть дополнительные параметры.  N Вы можете изменить вид и содержимое меню в расширенных настройках приложения.</item>
+		<item>голосовой помощник:\n Голосовой помощник активируется смахиванием вниз и влево, а команду нужно произнести после звукового сигнала. Касание экрана активирует мгновенное распознавание\n Для настройки голосового помощника войдите в меню программы выберите расширенные настройки, настройки голосового помощника, настройки возможностей голосового помощника.\n</item>
+		<item>Меню действий: \n Смахивание вверх и вправо открывает меню действий, смахивание вправо разворачивает меню, а двойное касание активирует элемент меню, на котором вы остановились.</item>
+		<item>плагины:\n Жест вверх и влево используется для открытия списка плагинов, для открытия списка голосовых команд смахните вправо, а для выбора соответствующего пункта дважды его коснитесь.\n Вы можете найти больше плагинов в разделе загрузки дополнительных ресурсов.\n Расширенные настройки, настройки голосового помощника, настройки голосовых команд, новые, измененные или загруженные.</item>
+		<item>Копировать, добавить содержимое в буфер обмена, буфер обмена и избранное:\n Эти функции находятся в меню действий.\n копировать — копирует выделенный элемент в буфер обмена\n Добавить к содержимому буфера обмена - добавляет текущее содержимое к последнему элементу в буфер обмена,\n Меню буфера обмена содержит все недавно скопированные элементы, нажмите, чтобы войти в поле редактирования, нажмите и удерживайте, чтобы добавить содержимое в избранное\n Избранное, нажмите, чтобы войти в поле редактирования, нажмите и удерживайте для редактирования,\n В расширенных настройках, Управлении ресурсами можно удалять или резервировать содержимое буфера обмена и избранное</item>
+		<item>Расширенное копирование текста (премиум-функция):\n Расширенное копирования позволяет копировать длинные списки элементов. \n После активации расширенного копирования в Меню действий, вам нужно немного подождать, в зависимости от длины списка. Когда копирования будет завершено, Вы будете уведомлены об этом. \n Вы можете принудительно прервать расширенное копирования, выполнив любой жест.</item>
+		<item>Выбрать все (премиум-функция):\n Функция выбрать все удобна для копирования больших фрагментов текста, например, на веб-страницах. При ее использовании содержимое экрана может быть разделено на символы, слова и абзацы, необходимое содержимое выбирается флажками и копируется соответствующей кнопкой. \n Быстро выделить несколько последовательных фрагментов можно нажав сначала на первом фрагменте, а затем на последнем.</item>
+		<item>Расширенное редактирование (премиум-функция):\n Для облегчения навигации по тексту в полях редактирования и вне их с помощью этой функции вы можете разделить содержимое на символы или слова. \n Нажмите на фрагменте для редактирования, нажмите с удержанием, чтобы прослушать его содержание по буквам или удалить. Нажмите Дополнительные параметры - Режим множественного выбора, чтобы удалить, копировать или вырезать сразу несколько фрагментов.\n Если вы воспользуетесь этой функцией вне поля редактирования, то сможете скопировать отредактированный текст в буфер обмена.</item>
+		<item>Посмотреть как список: \n Для отображения всего содержимого в виде списка, нажмите на соответствующий пункт, это особенно подходит для веб-страниц.</item>
+		<item>Режим чтения (премиум-функция):\n Вы можете читать статьи на открытых в браузере веб-страницах, пропуская нежелательное содержимое и автоматически прокручивать страницы.</item>
+		<item>Виртуальный экран (премиум-функция):\n Система распознавания распознает содержимое на экране, показывает результат по элементам, активируется соответствующий элемент нажатием на него, долгое нажатие на метку устанавливает фокус, а нажатие на метку активирует соответствующий элемент.\n В Android 7 или более новых дважды коснитесь для активации в Android 6 и старше - трижды.</item>
+		<item>Распознавания текста (премиум-функция):\n Распознавания содержимого на экране системой распознавания текста. Результат отображается в виде списка, нажав на текст, вы можете активировать соответствующий ему объект. Долгое нажатие позволяет перейти в режим просмотра по словам, нажатие на слово активирует соответствующую ему позицию на экране.\n Нажатие не поддерживаются в Android 6 и более старых версиях, там доступен только просмотр.</item>
+		<item>Распознавание кода с картинки (премиум-функция):\n Нажмите на проверочный код, войдите в Меню действий, найдите Расширенные настройки, Распознавание кода с картинки, или скажите голосовому помощнику «Распознать код с картинки», поддерживается распознавание английских слов или цифр, результат распознавания автоматически копируется в буфер обмена.</item>
+		<item>Jieshuo камера (премиум-функция):\n Сейчас камера распознает текст, события, животные, растения, волюты или даёт информацию, как правильно навести камеру, чтобы сделать фото. Поддерживается только задняя камера, используйте клавишу увеличения громкости для съемки или уменьшения громкости для переключения режимов.</item>
+		<item>Быстрый переход по элементам списка:\n Откройте Настройки программы - Настройка действий - Дополнительные настройки жестов и отметьте флажок Влево и вправо быстрое перелистывание между элементами списков. Вы можете использовать эту функцию, например, для быстрого перемещения по списку роликов в приложении YouTube.</item>
+		<item>Черный и белый списки уведомлений:\n Черный список уведомлений позволяет отфильтровать оповещения с указанным вами содержимым, введите звездочку, чтобы отфильтровать все уведомления программы.\n Белый список уведомлений позволяет чтения уведомлений с указанным содержимым, даже если чтение уведомлений отключено в настройках, введение звездочки означает разрешение на чтение всех извещений от программы.\n Ключевые слова поддерживают регулярные выражения.</item>
+		<item>Черный список контента:\n Вы можете фильтровать указанный вами контент, обычно применимо для фильтрации элементов, которые не соответствуют стандартам доступности.\n Регулярные выражения не поддерживаются из соображений эффективности.</item>
+		<item>Фильтрация веб-контента (премиум-функция):\n Фильтрует ненужные изображения на странице, чтобы устранить лишнее и ненужное многословие. \n Строгая фильтрация может фильтровать ненужный или несущественный контент.</item>
+		<item>Режим детальной навигации (премиум-функция):\n Этот режим позволяет увеличить уровень детализации при управлении фокусом.\n Известно, что в этом режиме улучшается доступность таких приложений как WeChat Sports, WeChat Friends Circle, Taobao Footprint, Huawei Router и другие.</item>
+		<item>Виртуальная навигация (премиум-функция):\n Позволяет создать список элементов в приложении, которые не удается активировать непосредственно (например, кнопка, на которую невозможно установить фокус).\n Обратите внимание, добавлять можно только элементы с постоянной позицией. Определить позицию элемента на экране можно либо с помощью распознавания текста, или указав его координаты,\n Поддерживается только Android 7 и выше.</item>
+		<item>персонализация жестов:\n По желанию вы можете изменить изначальное значение любого жеста, а также быстро изменять настройки, импортировав тему жестов.\n После импорта, тему жестов необходимо активировать в настройках действий.\n Если вас не устраивает отдельно назначенные жесты, то вы можете изменить их в общих настройках приложения.</item>
+		<item>Комбинированные жесты (премиум-функция):\n Эта функция позволяет значительно расширить возможности персонализации жестов. Если она включена, то после выполнения одного из 16 стандартных жестов, программа экранного доступа будет в течение 0.5 секунды ожидать выполнения еще одного жеста (смахивание вверх, вниз, влево или вправо). Таким образом, на один стандартный жест можно назначить выполнение до 5 различных действий. Включить и изменить параметры функции можно через Настройки программы - Настройка действий - комбинированные жесты. \n Не рекомендуется использовать в качестве комбинированных жесты, требующие быстрой реакции, например, жесты перемещения фокуса.</item>
+		<item>Запись голосовых команд:\n Запустите голосовой помощник и дайте команду для начала записи, последовательно произнесите действия, которые должна выполнять создаваемая команда. После этого дайте команду завершить запись и задайте имя созданной команды, и напоследок подтвердите создание.\n Если при создании какие-то инструкции будут не распознаны, вы можете повторить. Записанные команды можно редактировать по пути Расширенные настройки - Настройка голосового помощника - Настройка голосовых команд.</item>
+		<item>Автоматическое чтение уведомлений:\n Пользователи бесплатной версии могут пользоваться этой функцией только в приложениях для обмена сообщениями.\n Премиум-пользователи могут также автоматически читать новости в приложениях с трансляциями вживую. Сейчас поддерживаются Douyin, Volcano, Now и т.д.\n Вы можете настроить эту функцию в Настройках представления контента - Настройка автоматического чтения.</item>
+	</string-array>
+	<string-array name="hot_key_help_items">
+		<item>CTRL+DPAD_UP: Переместить фокус к предыдущему элементу.</item>
+		<item>CTRL+DPAD_DOWN: Переместить фокус к следующему элементу.</item>
+		<item>CTRL+DPAD_LEFT: Левая функция ярлыка</item>
+		<item>CTRL+DPAD_RIGHT: Правая функция ярлыка</item>
+		<item>CTRL+PAGE_UP: Прокрутка вверх</item>
+		<item>CTRL+PAGE_DOWN: Прокрутить вниз</item>
+		<item>CTRL+H: Перейти на главный экран</item>
+		<item>CTRL+N: Перейти на панель уведомлений</item>
+		<item>CTRL+P: Перейти к недавним приложениям</item>
+		<item>CTRL+SPACE: Нажатие</item>
+		<item>CTRL+L: Длительное нажатие</item>
+		<item>CTRL+Q: Быстрая настройка</item>
+		<item>ALT+M: Главное меню</item>
+		<item>ALT+A: Меню действий</item>
+		<item>ALT+P: Расширения</item>
+		<item>ALT+T: Инструменты Расширения</item>
+		<item>ALT+V: Голосовой помощник</item>
+		<item>ALT+S: Разделенное редактирование.</item>
+		<item>ALT+L: Просмотр списка</item>
+	</string-array>
+	<string-array name="lang_entries">
+		<item>Автоматически</item>
+		<item>Корейский</item>
+		<item>Классический китайский</item>
+		<item>Китайский традиционный</item>
+		<item>Голландский</item>
+		<item>Тайский</item>
+		<item>Греческий</item>
+		<item>Итальянский</item>
+		<item>Словенский</item>
+		<item>Японский</item>
+		<item>Английский</item>
+		<item>Арабский</item>
+		<item>Кантонский</item>
+		<item>Венгерский</item>
+		<item>Эстонский</item>
+		<item>Румынский</item>
+		<item>Китайский</item>
+		<item>Чешский</item>
+		<item>Немецкий</item>
+		<item>Французский</item>
+		<item>Финский</item>
+		<item>Португальский</item>
+		<item>Датский</item>
+		<item>Русский</item>
+		<item>Болгарский</item>
+		<item>Испанский</item>
+		<item>Шведский</item>
+		<item>Польский</item>
+		<item>Вьетнамский</item>
+		<item>Ирландский</item>
+		<item>Окситанский</item>
+		<item>Албанский</item>
+		<item>Аканский</item>
+		<item>Арагонский</item>
+		<item>Амхарский</item>
+		<item>А самский</item>
+		<item>Аймара</item>
+		<item>Азербайджанский</item>
+		<item>Астурийский</item>
+		<item>Осетинский</item>
+		<item>Оджибва</item>
+		<item>Ория</item>
+		<item>Оромо</item>
+		<item>Персидский</item>
+		<item>Бретонский</item>
+		<item>Башкирский</item>
+		<item>Баскский</item>
+		<item>Бразильский португальский</item>
+		<item>Белорусский</item>
+		<item>Берберский</item>
+		<item>Пампанга</item>
+		<item>Северносаамский</item>
+		<item>Северный Сото\n\n</item>
+		<item>Бемба</item>
+		<item>Биллингва</item>
+		<item>Бислама</item>
+		<item>Белуджи</item>
+		<item>Исландский</item>
+		<item>Боснийский</item>
+		<item>Бходжпури</item>
+		<item>Чувашский</item>
+		<item>Тсонга</item>
+		<item>Татарский</item>
+		<item>Шанский</item>
+		<item>Тетум</item>
+		<item>Дивехи</item>
+		<item>Нижненемецкий</item>
+		<item>Филиппинский</item>
+		<item>Санскрит</item>
+		<item>Фриульский</item>
+		<item>Фулани</item>
+		<item>Фарерский</item>
+		<item>Гэльский</item>
+		<item>Конголезский</item>
+		<item>Верхнелужицкий</item>
+		<item>Кхмерский</item>
+		<item>Гренландский</item>
+		<item>Грузинский</item>
+		<item>Гуджарати</item>
+		<item>Древнегреческий</item>
+		<item>Древнеанглийский</item>
+		<item>Гуарани</item>
+		<item>Хупа</item>
+		<item>Хакачин</item>
+		<item>Гаитянский</item>
+		<item>Хауса</item>
+		<item>Черногорский</item>
+		<item>Киргизский</item>
+		<item>Галисийский</item>
+		<item>Канадский французский</item>
+		<item>Каталанский</item>
+		<item>Кабильский</item>
+		<item>Каннада</item>
+		<item>Канури</item>
+		<item>Кашубский</item>
+		<item>Корнуолл</item>
+		<item>Коса</item>
+		<item>Корсиканский</item>
+		<item>Крикский</item>
+		<item>Крымскотатарский</item>
+		<item>Клингонский</item>
+		<item>Хорватский</item>
+		<item>Кечуа</item>
+		<item>Кашмири</item>
+		<item>Конкани</item>
+		<item>Курдский</item>
+		<item>Латинский</item>
+		<item>Лаосский</item>
+		<item>Латгалай</item>
+		<item>Латышский</item>
+		<item>Лимбургский</item>
+		<item>Лингала</item>
+		<item>Луганда</item>
+		<item>Люксембургский</item>
+		<item>Люксенский</item>
+		<item>Киньяруанда</item>
+		<item>Литовский</item>
+		<item>Ретроманский</item>
+		<item>Ромский</item>
+		<item>Логический</item>
+		<item>Малайский</item>
+		<item>Бирманский</item>
+		<item>Маратхи</item>
+		<item>Малагасийский</item>
+		<item>Малаялам</item>
+		<item>Македонский</item>
+		<item>Маршалльский</item>
+		<item>Майтхили</item>
+		<item>Мэнский</item>
+		<item>Маврикийский креольский</item>
+		<item>Маори</item>
+		<item>Бенгальский</item>
+		<item>Мальтийский</item>
+		<item>Хмонг</item>
+		<item>Норвежский</item>
+		<item>Неаполитанский</item>
+		<item>Южный ндебеле</item>
+		<item>Африкаанс</item>
+		<item>Южный сото</item>
+		<item>Непальский</item>
+		<item>Панджаби</item>
+		<item>Папьяменто</item>
+		<item>Пушту</item>
+		<item>Чичева</item>
+		<item>Чиви</item>
+		<item>Чероки</item>
+		<item>Сардинский</item>
+		<item>Самоанский</item>
+		<item>Сербохорватский</item>
+		<item>Сербский</item>
+		<item>Сангайский</item>
+		<item>Сингальский</item>
+		<item>Эсперанто</item>
+		<item>Письменный норвежский</item>
+		<item>Словацкий</item>
+		<item>Суахили</item>
+		<item>Сомали</item>
+		<item>Сербский (кириллица)</item>
+		<item>Турецкий</item>
+		<item>Таджикский</item>
+		<item>Тамильский</item>
+		<item>Тагальский</item>
+		<item>Тигринья\n</item>
+		<item>Телугу</item>
+		<item>Тунисский арабский\n\n</item>
+		<item>Туркменский</item>
+		<item>Украинский</item>
+		<item>Валлонский\n</item>
+		<item>Валлийский</item>
+		<item>Венда</item>
+		<item>Волов</item>
+		<item>Урду</item>
+		<item>Иврит</item>
+		<item>Западнофризский</item>
+		<item>Силезский</item>
+		<item>Хилигайнон</item>
+		<item>Нижнелжицкий</item>
+		<item>Гавайский</item>
+		<item>Новый норвежский</item>
+		<item>Письменный западноафриканский</item>
+		<item>Синдхи</item>
+		<item>Шона</item>
+		<item>Кебуанский</item>
+		<item>Сирийский</item>
+		<item>Сунданский</item>
+		<item>Хинди</item>
+		<item>Индонезийский</item>
+		<item>Идиш</item>
+		<item>Интерлингва</item>
+		<item>Ачехский</item>
+		<item>Ингушский</item>
+		<item>Игбо</item>
+		<item>Ида</item>
+		<item>йоруба</item>
+		<item>Армянский</item>
+		<item>Инуктитут</item>
+		<item>Иранский</item>
+		<item>Зазаки</item>
+		<item>Среднефранцузски</item>
+		<item>Зулу</item>
+		<item>Яванский</item>
+		<item>Ория</item>
+		<item>Фризский</item>
+		<item>Казахский</item>
+		<item>Гаитянский Креольский\n\n</item>
+		<item>Малагасийский</item>
+		<item>Монгольский</item>
+		<item>Сесото</item>
+		<item>Уйгурский</item>
+		<item>Узбекский</item>
+	</string-array>
+	<string-array name="lang_values">
+		<item>auto</item>
+		<item>kor</item>
+		<item>wyw</item>
+		<item>cht</item>
+		<item>nl</item>
+		<item>th</item>
+		<item>el</item>
+		<item>it</item>
+		<item>slo</item>
+		<item>jp</item>
+		<item>en</item>
+		<item>ara</item>
+		<item>yue</item>
+		<item>hu</item>
+		<item>est</item>
+		<item>rom</item>
+		<item>zh</item>
+		<item>cs</item>
+		<item>de</item>
+		<item>fra</item>
+		<item>fin</item>
+		<item>pt</item>
+		<item>dan</item>
+		<item>ru</item>
+		<item>bul</item>
+		<item>spa</item>
+		<item>swe</item>
+		<item>pl</item>
+		<item>vie</item>
+		<item>gle</item>
+		<item>oci</item>
+		<item>alb</item>
+		<item>aka</item>
+		<item>arg</item>
+		<item>amh</item>
+		<item>asm</item>
+		<item>aym</item>
+		<item>aze</item>
+		<item>ast</item>
+		<item>oss</item>
+		<item>oji</item>
+		<item>ori</item>
+		<item>orm</item>
+		<item>per</item>
+		<item>bre</item>
+		<item>bak</item>
+		<item>baq</item>
+		<item>pot</item>
+		<item>bel</item>
+		<item>ber</item>
+		<item>pam</item>
+		<item>sme</item>
+		<item>ped</item>
+		<item>bem</item>
+		<item>bli</item>
+		<item>bis</item>
+		<item>bal</item>
+		<item>ice</item>
+		<item>bos</item>
+		<item>bho</item>
+		<item>chv</item>
+		<item>tso</item>
+		<item>tat</item>
+		<item>sha</item>
+		<item>tet</item>
+		<item>div</item>
+		<item>log</item>
+		<item>fil</item>
+		<item>san</item>
+		<item>fri</item>
+		<item>ful</item>
+		<item>fao</item>
+		<item>gla</item>
+		<item>kon</item>
+		<item>ups</item>
+		<item>hkm</item>
+		<item>kal</item>
+		<item>geo</item>
+		<item>guj</item>
+		<item>gra</item>
+		<item>eno</item>
+		<item>grn</item>
+		<item>hup</item>
+		<item>hak</item>
+		<item>ht</item>
+		<item>hau</item>
+		<item>mot</item>
+		<item>kir</item>
+		<item>glg</item>
+		<item>frn</item>
+		<item>cat</item>
+		<item>kab</item>
+		<item>kan</item>
+		<item>kau</item>
+		<item>kah</item>
+		<item>cor</item>
+		<item>xho</item>
+		<item>cos</item>
+		<item>cre</item>
+		<item>cri</item>
+		<item>kli</item>
+		<item>hrv</item>
+		<item>que</item>
+		<item>kas</item>
+		<item>kok</item>
+		<item>kur</item>
+		<item>lat</item>
+		<item>lao</item>
+		<item>lag</item>
+		<item>lav</item>
+		<item>lim</item>
+		<item>lin</item>
+		<item>lug</item>
+		<item>ltz</item>
+		<item>ruy</item>
+		<item>kin</item>
+		<item>lit</item>
+		<item>roh</item>
+		<item>ro</item>
+		<item>loj</item>
+		<item>may</item>
+		<item>bur</item>
+		<item>mar</item>
+		<item>mg</item>
+		<item>mal</item>
+		<item>mac</item>
+		<item>mah</item>
+		<item>mai</item>
+		<item>glv</item>
+		<item>mau</item>
+		<item>mao</item>
+		<item>ben</item>
+		<item>mlt</item>
+		<item>hmn</item>
+		<item>nor</item>
+		<item>nea</item>
+		<item>nbl</item>
+		<item>afr</item>
+		<item>sot</item>
+		<item>nep</item>
+		<item>pan</item>
+		<item>pap</item>
+		<item>pus</item>
+		<item>nya</item>
+		<item>twi</item>
+		<item>chr</item>
+		<item>srd</item>
+		<item>sm</item>
+		<item>sec</item>
+		<item>srp</item>
+		<item>sol</item>
+		<item>sin</item>
+		<item>epo</item>
+		<item>nob</item>
+		<item>sk</item>
+		<item>swa</item>
+		<item>som</item>
+		<item>src</item>
+		<item>tr</item>
+		<item>tgk</item>
+		<item>tam</item>
+		<item>tgl</item>
+		<item>tir</item>
+		<item>tel</item>
+		<item>tua</item>
+		<item>tuk</item>
+		<item>ukr</item>
+		<item>wln</item>
+		<item>wel</item>
+		<item>ven</item>
+		<item>wol</item>
+		<item>urd</item>
+		<item>heb</item>
+		<item>fry</item>
+		<item>sil</item>
+		<item>hil</item>
+		<item>los</item>
+		<item>haw</item>
+		<item>nno</item>
+		<item>nqo</item>
+		<item>snd</item>
+		<item>sna</item>
+		<item>ceb</item>
+		<item>syr</item>
+		<item>sun</item>
+		<item>hi</item>
+		<item>id</item>
+		<item>yid</item>
+		<item>ina</item>
+		<item>ach</item>
+		<item>ing</item>
+		<item>ibo</item>
+		<item>ido</item>
+		<item>yor</item>
+		<item>arm</item>
+		<item>iku</item>
+		<item>ir</item>
+		<item>zaz</item>
+		<item>frm</item>
+		<item>zul</item>
+		<item>jav</item>
+		<item>or</item>
+		<item>fy</item>
+		<item>kk</item>
+		<item>ht</item>
+		<item>mg</item>
+		<item>mn</item>
+		<item>st</item>
+		<item>ug</item>
+		<item>uz</item>
+	</string-array>
+	<string-array name="left_button">
+		<item>повесить трубку</item>
+		<item>отклонить</item>
+		<item>*Проведите, чтобы отклонить входящий звонок*</item>
+		<item>Завершить вызов</item>
+		<item>завершить звонок</item>
+		<item>Завершить звонок</item>
+		<item>Завершить вызов QQ</item>
+		<item>Завершить вызов QQ</item>
+		<item>Перейти к предыдущему элементу</item>
+		<item>Предыдущий трек</item>
+		<item>Навигация вверх</item>
+	</string-array>
+	<string-array name="left_menu_items">
+		<item>@string/command_auto_next</item>
+		<item>@string/command_read_mode</item>
+		<item>@string/list_mode_title</item>
+		<item>@string/split_menu_title</item>
+		<item>@string/command_verbatim_speak2</item>
+		<item>@string/command_all_speak</item>
+		<item>@string/command_all_select</item>
+		<item>@string/command_ocr_text</item>
+		<item>@string/plugin_title</item>
+		<item>@string/command_notification_box</item>
+		<item>@string/command_to_notifications</item>
+		<item>@string/command_long_edit</item>
+		<item>@string/command_gestures_edit</item>
+		<item>@string/command_virtual_screen</item>
+		<item>@string/cancel</item>
+	</string-array>
+	<string-array name="long_click_entries">
+		<item>короткое</item>
+		<item>Средние</item>
+		<item>долгое</item>
+	</string-array>
+	<string-array name="long_click_values">
+		<item>500</item>
+		<item>750</item>
+		<item>1000</item>
+	</string-array>
+	<string-array name="menu_def_items">
+		<item>@string/split_menu_title</item>
+		<item>@string/list_mode_title</item>
+		<item>@string/command_all_speak</item>
+		<item>@string/command_voice_helper</item>
+		<item>@string/plugin_title</item>
+		<item>@string/main_setting</item>
+		<item>@string/command_disable_feedback</item>
+	</string-array>
+	<string-array name="menu_items">
+		<item>@string/action_menu_title</item>
+		<item>@string/advanced_menu_title</item>
+		<item>@string/command_auto_next</item>
+		<item>@string/command_read_mode</item>
+		<item>@string/list_mode_title</item>
+		<item>@string/command_node_mode</item>
+		<item>@string/split_menu_title</item>
+		<item>@string/command_verbatim_speak2</item>
+		<item>@string/command_all_speak</item>
+		<item>@string/all_text_title</item>
+		<item>@string/command_all_select</item>
+		<item>@string/command_voice_helper</item>
+		<item>@string/command_ocr_text</item>
+		<item>@string/camera_title</item>
+		<item>@string/plugin_title</item>
+		<item>@string/tool_title</item>
+		<item>@string/main_setting</item>
+		<item>@string/command_disable_touch</item>
+		<item>@string/command_disable_feedback</item>
+		<item>@string/command_notification_box</item>
+		<item>@string/command_to_notifications</item>
+		<item>@string/command_long_edit</item>
+		<item>@string/command_gestures_edit</item>
+		<item>@string/command_enable_dim_screen</item>
+		<item>@string/command_virtual_screen</item>
+		<item>@string/command_quick_mode</item>
+		<item>@string/command_supper_mode</item>
+		<item>@string/command_virtual_navigation</item>
+	</string-array>
+	<string-array name="recognizer_lang_entries">
+		<item>Китайский упрощённый</item>
+		<item>Китайский традиционный</item>
+		<item>Английский</item>
+	</string-array>
+	<string-array name="recognizer_lang_values">
+		<item>zh_CN</item>
+		<item>zh_GD</item>
+		<item>en_GB</item>
+	</string-array>
+	<string-array name="right_button">
+		<item>Ответ на звонок</item>
+		<item>*Проведите, чтобы ответить на звонок*</item>
+		<item>Режим громкой связи</item>
+		<item>Режим динамика</item>
+		<item>Перейти к следующему элементу</item>
+		<item>Следующий трек</item>
+	</string-array>
+	<string-array name="right_menu_items">
+		<item>@string/command_click</item>
+		<item>@string/command_long_click</item>
+		<item>@string/command_start</item>
+		<item>@string/command_end</item>
+		<item>@string/command_copy</item>
+		<item>@string/command_append_copy</item>
+		<item>@string/command_paste</item>
+		<item>@string/clipboard_menu_title</item>
+		<item>@string/favorites_menu_title</item>
+		<item>@string/split_edit_title</item>
+		<item>@string/command_long_copy</item>
+		<item>@string/command_trans</item>
+		<item>@string/command_verification2</item>
+		<item>@string/command_timer_mode</item>
+		<item>@string/cancel</item>
+	</string-array>
+	<string-array name="timer_interval_entries">
+		<item>1 минута</item>
+		<item>5 минут</item>
+		<item>10 минут</item>
+		<item>15 минут</item>
+	</string-array>
+	<string-array name="timer_interval_values">
+		<item>1</item>
+		<item>5</item>
+		<item>10</item>
+		<item>15</item>
+	</string-array>
+	<string-array name="tts_engine_entries">
+		<item>Системный TTS</item>
+		<item>Юньжишэн TTS</item>
+	</string-array>
+	<string-array name="tts_engine_values">
+		<item>system</item>
+		<item>unisound</item>
+	</string-array>
+	<string-array name="tts_engine_vip_entries">
+		<item>System TTS</item>
+		<item>Xunfei TTS</item>
+		<item>Yunzhisheng TTS</item>
+	</string-array>
+	<string-array name="tts_engine_vip_values">
+		<item>system</item>
+		<item>iflytek</item>
+		<item>unisound</item>
+	</string-array>
+	<string-array name="tts_scale_entries">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+	</string-array>
+	<string-array name="tts_scale_values">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+	</string-array>
+	<string-array name="tts_speaker_entries">
+		<item>Сяоянь</item>
+		<item>Сяофэн</item>
+	</string-array>
+	<string-array name="tts_speaker_values">
+		<item>xiaoyan</item>
+		<item>xiaofeng</item>
+	</string-array>
+	<string-array name="tts_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+		<item>7</item>
+		<item>8</item>
+		<item>9</item>
+		<item>10</item>
+		<item>11</item>
+		<item>12</item>
+		<item>13</item>
+		<item>14</item>
+		<item>15</item>
+		<item>16</item>
+		<item>17</item>
+		<item>18</item>
+		<item>19</item>
+		<item>20</item>
+		<item>21</item>
+		<item>22</item>
+		<item>23</item>
+		<item>24</item>
+		<item>25</item>
+		<item>26</item>
+		<item>27</item>
+		<item>28</item>
+		<item>29</item>
+		<item>30</item>
+		<item>31</item>
+		<item>32</item>
+		<item>33</item>
+		<item>34</item>
+		<item>35</item>
+		<item>36</item>
+		<item>37</item>
+		<item>38</item>
+		<item>39</item>
+		<item>40</item>
+		<item>41</item>
+		<item>42</item>
+		<item>43</item>
+		<item>44</item>
+		<item>45</item>
+		<item>46</item>
+		<item>47</item>
+		<item>48</item>
+		<item>49</item>
+		<item>50</item>
+		<item>51</item>
+		<item>52</item>
+		<item>53</item>
+		<item>54</item>
+		<item>55</item>
+		<item>56</item>
+		<item>57</item>
+		<item>58</item>
+		<item>59</item>
+		<item>60</item>
+		<item>61</item>
+		<item>62</item>
+		<item>63</item>
+		<item>64</item>
+		<item>65</item>
+		<item>66</item>
+		<item>67</item>
+		<item>68</item>
+		<item>69</item>
+		<item>70</item>
+		<item>71</item>
+		<item>72</item>
+		<item>73</item>
+		<item>74</item>
+		<item>75</item>
+		<item>76</item>
+		<item>77</item>
+		<item>78</item>
+		<item>79</item>
+		<item>80</item>
+		<item>81</item>
+		<item>82</item>
+		<item>83</item>
+		<item>84</item>
+		<item>85</item>
+		<item>86</item>
+		<item>87</item>
+		<item>88</item>
+		<item>89</item>
+		<item>90</item>
+		<item>91</item>
+		<item>92</item>
+		<item>93</item>
+		<item>94</item>
+		<item>95</item>
+		<item>96</item>
+		<item>97</item>
+		<item>98</item>
+		<item>99</item>
+		<item>100</item>
+	</string-array>
+	<string-array name="vibrate_intensity_entries">
+		<item>Слабая</item>
+		<item>Средняя</item>
+		<item>Сильная</item>
+		<item>Усиленная</item>
+	</string-array>
+	<string-array name="vibrate_intensity_values">
+		<item>12</item>
+		<item>32</item>
+		<item>48</item>
+		<item>64</item>
+	</string-array>
+	<string-array name="view_type_title">
+		<item>По умолчанию</item>
+		<item>Тексты</item>
+		<item>Кнопки</item>
+		<item>Поля редактирования</item>
+		<item>Изображения</item>
+		<item>Флажки</item>
+		<item>Индикаторы выполнения</item>
+		<item>Списки</item>
+		<item>Элементы списка</item>
+		<item>Фокусируемые элементы</item>
+		<item>Кликабельные элементы</item>
+		<item>Узлы</item>
+		<item>Прокрутка</item>
+		<item>Вертикальное перемещение</item>
+		<item>Символы</item>
+		<item>Слова</item>
+		<item>Строки</item>
+		<item>Абзацы</item>
+		<item>Страницы</item>
+		<item>Копирование</item>
+		<item>Громкость</item>
+		<item>Скорость речи</item>
+		<item>Распознавание и перевод</item>
+		<item>Окна</item>
+	</string-array>
+	<string-array name="voice_helper_help_items">
+		<item>Открыть Название приложения: открыть приложение</item>
+		<item>Установить Название приложения: установить приложение.</item>
+		<item>Удалить Название приложения: удалить приложение.</item>
+		<item>Прочитать весь экран: прочитать содержимое экрана.</item>
+		<item>Прочитать вслух: Читать содержимое экрана с отслеживанием фокуса.</item>
+		<item>Текущая освещенность: Определить окружающую освещенность</item>
+		<item>Нажать: Активировать текущий элемент.</item>
+		<item>Нажать Название элемента: Активировать заданный элемент</item>
+		<item>Копировать Копировать текстовое содержимое текущего элемента в буфер обмена</item>
+		<item>Перевести: перевести текстовое содержимое текущего элемента</item>
+		<item>Перевести Язык: перевести текстовое содержимое текущего элемента на указанный язык</item>
+		<item>Выбрать: выбрать текст</item>
+		<item>Отправить Текст сообщения: Отправить сообщение в окне qq или WeChat</item>
+		<item>Ввести Текст: ввести текст в поле редактирования</item>
+		<item>Диктовать Режим голосового ввода для длинных текстов</item>
+		<item>Погода Узнать текущую погоду</item>
+		<item>Билеты: Проверить наличие железнодорожных билетов.</item>
+		<item>Рецепт Узнать рецепт указанного блюда.</item>
+		<item>Пошути: Прослушать случайную шутку</item>
+		<item>Копировать результат: копировать результат выполнения команды.</item>
+		<item>И еще много других функций.</item>
+	</string-array>
+	<string-array name="voice_recognizer_entries">
+		<item>System</item>
+		<item>Engine 1</item>
+		<item>Engine 2</item>
+		<item>Engine 3</item>
+	</string-array>
+	<string-array name="voice_recognizer_values">
+		<item>3</item>
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+	</string-array>
+	<string-array name="web_type_title">
+		<item>Поумолчанию</item>
+		<item>Заголовки</item>
+		<item>Ссылки</item>
+		<item>Кнопки</item>
+		<item>Ориентиры</item>
+		<item>Поля редактирования</item>
+		<item>Фокус</item>
+		<item>Элементы управления</item>
+		<item>Изображения</item>
+		<item>Флажки</item>
+		<item>Поля со спискам</item>
+		<item>форма</item>
+		<item>Списки</item>
+		<item>Элементы списка</item>
+		<item>Прокрутка страницы</item>
+		<item>Просмотр</item>
+		<item>Символы</item>
+		<item>Слова</item>
+		<item>Строки</item>
+		<item>Абзацы</item>
+		<item>Страницы</item>
+		<item>Копирование</item>
+		<item>Громкость</item>
+		<item>Скорость речи</item>
+		<item>Распознавание и перевод</item>
+		<item>Окна</item>
+	</string-array>
 
 </resources>

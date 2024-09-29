@@ -489,8 +489,8 @@
     <string name="command_to_next_focus">Next focusable element</string>
     <string name="command_to_previous_page">Previous page</string>
     <string name="command_to_next_page">Next page</string>
-    <string name="command_to_previous_scroll">Scroll up</string>
-    <string name="command_to_next_scroll">Scroll down</string>
+    <string name="command_to_previous_scroll">Scroll back</string>
+    <string name="command_to_next_scroll">Scroll forward</string>
     <string name="command_to_previous_progress">Decrease slider value</string>
     <string name="command_to_next_progress">Increase slider value</string>
     <string name="command_lower_volume">Decrease media volume</string>
@@ -616,7 +616,7 @@
     <string name="main_menu">Main menu</string>
     <string name="auto_read">Automatic reading</string>
     <string name="list_mode_title">List browsing</string>
-    <string name="main_setting">Jieshuo settings</string>
+    <string name="main_setting">Screen reader settings</string>
     <string name="battery_level">Battery level: %d</string>
 
 
@@ -925,7 +925,7 @@
     <string name="system_tts_scale_summary">This function is still in beta. It allows to accelerate the TTS engine beyond its maximum available rate. It is not guaranteed to support all TTS engines</string>
     <string name="send_email_title">Email 946049229@qq.com</string>
 
-    <string name="voice_helper_use_blot_title">Use the artificial chat assistant</string>
+    <string name="voice_helper_use_blot_title">Enable online handling for unrecognized commands</string>
 
     <string name="message_recognition_empty">I did not understand your message</string>
     <string name="voice_helper_exit">Goodbye</string>
@@ -1804,7 +1804,7 @@ Swipe down then up or up then down to switch navigation type in all views, and s
     <string name="command_accept_call">Answer call</string>
     <string name="command_end_call">End call</string>
     <string name="command_pause_a11y_volume">Suspend the use of accessibility volume</string>
-    <string name="msg_supper_cmd_only_voice_helper">超级语音指令只能在语音助手中调用</string>
+    <string name="msg_supper_cmd_only_voice_helper">Super voice commands can only be called in voice assistant</string>
     <string name="msg_no_a11y_volume">You are not using accessibility volume</string>
     <string name="msg_a11y_volume_disabled">Using media volume</string>
     <string name="msg_a11y_volume_enabled">Using accessibility volume</string>
@@ -1826,9 +1826,25 @@ If only one asterisk is added, all notifications from the application will not b
     <string name="notification_white_list_description">Notifications containing whitelisted text will always be read automatically even if notification reading is disabled. 
 Regular expressions are supported.
 If only one asterisk is added all notifications from the application will be read automatically.</string>
-    <string name="nodeinfo_long_clickable">可长按</string>
-    <string name="nodeinfo_not_long_click">不可长按</string>
-    <string name="nodeinfo_editable">可编辑</string>
-    <string name="nodeinfo_not_edit">不可编辑</string>
+    <string name="nodeinfo_long_clickable">Can be long pressed</string>
+    <string name="nodeinfo_not_long_click">Cannot be long pressed</string>
+    <string name="nodeinfo_editable">Editable</string>
+    <string name="nodeinfo_not_edit">Not editable</string>
+    <string name="sound_scroll_page">Scroll page</string>
+    <string name="use_auto_mode_move_list_view_item_title">Skip reading item-related controls in Automatic Browsing mode</string>
+    <string name="helper_tts_setting_title">Voice Assistant responses TTS settings</string>
+    <string name="node_tts_setting_title">Focus monitoring TTS settings</string>
+    <string name="voice_helper_use_big_title">Send prompts to the AI chatbot</string>
+    <string name="chat_history">Chat history</string>
+    <string name="command_recognition_icon">Recognize the focused icon</string>
+    <string name="command_long_hold">Long press and hold</string>
+    <string name="sound_progress">Progress indicator</string>
+    <string name="sound_progress_100">100 percent progress</string>
+    <string name="sound_clear_notification">Clear all notifications</string>
+    <string name="sound_talkman_start">Jieshuo turned on</string>
+    <string name="sound_talkman_stop">Jieshuo turned off</string>
+    <string name="sound_camera">Camera shutter</string>
+    <string name="voice_picture_description">Inquire by voice about current focus</string>
+    <string name="voice_picture_description2">Inquire by Voice About the Entire Screen</string>
 
 </resources>

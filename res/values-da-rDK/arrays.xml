@@ -88,25 +88,25 @@
         <item>@string/command_virtual_navigation</item>
     </string-array>
     <string-array name="left_button">
+        <item>Læg på</item>
+        <item>Afslut</item>
+        <item>*Stryg til venstre for at afbryde*</item>
+        <item>Afslut opkald</item>
         <item>Hang up</item>
-        <item>Decline</item>
-        <item>*Swipe left to decline*</item>
-        <item>End call</item>
-        <item>Hang up</item>
-        <item>End call</item>
+        <item>Slut opkald</item>
         <item>结束QQ通话</item>
         <item>结束QQ电话</item>
-        <item>Previous media</item>
-        <item>Previous track</item>
-        <item>Go back</item>
+        <item>Forrige medie</item>
+        <item>Forrige spor</item>
+        <item>Gå tilbage</item>
     </string-array>
     <string-array name="right_button">
-        <item>Answer</item>
-        <item>*Swipe right to answer*</item>
-        <item>Hands-free</item>
-        <item>Speaker</item>
-        <item>Next media</item>
-        <item>Next track</item>
+        <item>Besvar</item>
+        <item>*Stryg til højre for at besvare*</item>
+        <item>Højtaler</item>
+        <item>Besvar opkald</item>
+        <item>Næste medie</item>
+        <item>Næste spor</item>
     </string-array>
 
     <string-array name="voice_recognizer_values">
@@ -116,10 +116,10 @@
         <item>2</item>
     </string-array>
     <string-array name="voice_recognizer_entries">
-        <item>System engine</item>
-        <item>Engine 1</item>
-        <item>Engine 2</item>
-        <item>Engine 3</item>
+        <item>System stemme</item>
+        <item>Stemme 1</item>
+        <item>Stemme 2</item>
+        <item>Stemme 3</item>
     </string-array>
     <string-array name="tts_values">
         <item>0</item>
@@ -225,8 +225,8 @@
         <item>100</item>
     </string-array>
     <!--string-array name="tts_speaker_title">
-        <item>Female voice</item>
-        <item>Male voice</item>
+        <item>Kvindlig stemme</item>
+        <item>Mandlig stemme</item>
         <item>Du Xiao Yao</item>
         <item>Du Ya Ya</item>
     </string-array>
@@ -237,10 +237,10 @@
         <item>4</item>
     </string-array-->
     <string-array name="vibrate_intensity_entries">
-        <item>Light</item>
-        <item>Medium</item>
-        <item>Strong</item>
-        <item>Strongest</item>
+        <item>Svag</item>
+        <item>Mellem</item>
+        <item>Stærk</item>
+        <item>Kraftig</item>
     </string-array>
     <string-array name="vibrate_intensity_values">
         <item>12</item>
@@ -249,9 +249,9 @@
         <item>64</item>
     </string-array>
     <string-array name="long_click_entries">
-        <item>Short</item>
-        <item>Medium</item>
-        <item>Long</item>
+        <item>Kort</item>
+        <item>Mellem</item>
+        <item>Lang</item>
     </string-array>
     <string-array name="long_click_values">
         <item>500</item>
@@ -259,10 +259,10 @@
         <item>1000</item>
     </string-array>
     <string-array name="edge_gesture_width_entries">
-        <item>Small</item>
-        <item>Medium</item>
-        <item>Big</item>
-        <item>Maximum</item>
+        <item>Lille</item>
+        <item>Mellem</item>
+        <item>Stor</item>
+        <item>Maksimal</item>
     </string-array>
     <string-array name="edge_gesture_width_values">
         <item>8</item>
@@ -279,233 +279,233 @@
         <item>xiaofeng</item>
     </string-array>
     <string-array name="advanced_menu_items">
-        <item>Translate current focus and copy the translation</item>
-        <item>Recognize scenery</item>
-        <item>Recognize then translate the text of current focus</item>
-        <item>Face recognition</item>
-        <item>CAPTCHA recognition</item>
-        <item>View recognition results</item>
-        <item>Image recognition</item>
-        <item>Slider puzzle verification</item>
-        <item>Exam recognition</item>
+        <item>Oversæt nuværende element og kopier oversættelsen</item>
+        <item>scenebeskrivelse</item>
+        <item>Tekstgenkendelse</item>
+        <item>Ansigtsgenkendelse</item>
+        <item>Identificer CAPTCHA</item>
+        <item>Se genkendelsesresultater</item>
+        <item>Billedegenkendelse</item>
+        <item>Skyderbekræftigelse</item>
+        <item>Identificer eksamens opgaver og lignende</item>
     </string-array>
     <string-array name="lang_entries">
-        <item>Automatic</item>
-        <item>Korean</item>
-        <item>Classical Chinese</item>
-        <item>Chinese traditional</item>
-        <item>Dutch</item>
-        <item>Thai</item>
-        <item>Greek</item>
-        <item>Italian</item>
-        <item>Slovenian</item>
-        <item>Japanese</item>
-        <item>English</item>
-        <item>Arabic</item>
-        <item>Chinese Cantonese</item>
-        <item>Hungarian</item>
-        <item>Estonian</item>
-        <item>Romanian</item>
-        <item>Chinese</item>
-        <item>Czech</item>
-        <item>German</item>
-        <item>French</item>
-        <item>Finnish</item>
-        <item>Portuguese</item>
-        <item>Danish</item>
-        <item>Russian</item>
-        <item>Bulgarian</item>
-        <item>Spanish</item>
-        <item>Svedish</item>
-        <item>Polish</item>
-        <item>Vietnamese</item>
+        <item>Automatisk</item>
+        <item>Koreansk</item>
+        <item>Klassisk Kinesisk</item>
+        <item>Forenklet kinesisk</item>
+        <item>Hollandsk</item>
+        <item>Thailandsk</item>
+        <item>Græsk</item>
+        <item>Italiensk</item>
+        <item>Slovensk</item>
+        <item>Japansk</item>
+        <item>Engelsk</item>
+        <item>Arabisk</item>
+        <item>Kantonesisk kinesisk</item>
+        <item>Ungarsk</item>
+        <item>Estisk</item>
+        <item>rumænsk</item>
+        <item>Kinesisk</item>
+        <item>Tjekkisk</item>
+        <item>Tysk</item>
+        <item>Fransk</item>
+        <item>Finsk</item>
+        <item>Portugisisk</item>
+        <item>Dansk</item>
+        <item>Russisk</item>
+        <item>Bulgarsk</item>
+        <item>Spansk</item>
+        <item>Svensk</item>
+        <item>Polsk</item>
+        <item>Vietnamesisk</item>
 
-        <item>Irish</item>
-        <item>Orkish</item>
-        <item>Albanian</item>
+        <item>Irsk</item>
+        <item>Orkis</item>
+        <item>Albansk</item>
         <item>Akan</item>
-        <item>Aragonese</item>
-        <item>Amharic</item>
-        <item>Assamese</item>
+        <item>Aragonsk</item>
+        <item>Amharisk</item>
+        <item>Assamesisk</item>
         <item>Aymara</item>
-        <item>Azeri</item>
-        <item>Asturian</item>
-        <item>Ossetian</item>
+        <item>Aserbajdsjansk</item>
+        <item>Asterisk</item>
+        <item>Ossetisk</item>
         <item>Ojibwa</item>
-        <item>Oryan</item>
+        <item>Orion</item>
         <item>Oromo</item>
-        <item>Persian</item>
-        <item>Breton</item>
-        <item>Bashkir</item>
-        <item>Basque</item>
-        <item>Brazilian Portuguese</item>
-        <item>Belarusian</item>
-        <item>Berber</item>
-        <item>Pampanga</item>
-        <item>Northern Sami</item>
-        <item>Northern Sotho</item>
+        <item>Persisk</item>
+        <item>Bretonsk</item>
+        <item>Baskirisjk</item>
+        <item>Baskisk</item>
+        <item>Brasiliansk portugisisk</item>
+        <item>Hviderussisk</item>
+        <item>Berbisk</item>
+        <item>Filippinsk</item>
+        <item>Samisk</item>
+        <item>Sotho</item>
         <item>Bemba</item>
         <item>Birim</item>
         <item>Bislama</item>
-        <item>Balochian</item>
-        <item>Icelandic</item>
-        <item>Bosnian</item>
+        <item>Baluchistan</item>
+        <item>Islandsk</item>
+        <item>Bosnisk</item>
         <item>Bhojpuri</item>
         <item>Chuvash</item>
         <item>Conga</item>
-        <item>Tatar</item>
+        <item>Tatarisk</item>
         <item>Shan</item>
         <item>Detun</item>
         <item>Dhivehi</item>
-        <item>Lowland German</item>
+        <item>Plattysk</item>
         <item>Filipino</item>
         <item>Sanskrit</item>
-        <item>Friuli</item>
+        <item>Friulisk</item>
         <item>Fulani</item>
-        <item>Faroese</item>
-        <item>Gaelic</item>
+        <item>Færøsk</item>
+        <item>Gælisk</item>
         <item>Congo</item>
-        <item>Highland Sorbian</item>
+        <item>Sorbian</item>
         <item>Khmer</item>
-        <item>Greenlandic</item>
-        <item>Georgian</item>
+        <item>Grønlandsk</item>
+        <item>Georgisk</item>
         <item>Gujarati</item>
-        <item>Ancient Greek</item>
-        <item>Old English</item>
-        <item>Guarani</item>
+        <item>Oldgræsk</item>
+        <item>Angelsaksisk (oldengelsk)</item>
+        <item>Guaraní</item>
         <item>Hupa</item>
         <item>Hakachin</item>
-        <item>Haitian</item>
+        <item>Haitiansk</item>
         <item>Hausa</item>
-        <item>Montenegrin</item>
-        <item>Kyrgyz</item>
-        <item>Galician</item>
-        <item>Canadian French</item>
-        <item>Catalan</item>
+        <item>Montenegrinsk</item>
+        <item>Kirgisisk</item>
+        <item>Galicisk</item>
+        <item>Canadisk fransk</item>
+        <item>Catalansk</item>
         <item>Kabairian</item>
-        <item>Kanadian</item>
+        <item>Canadisk</item>
         <item>Kanuri</item>
-        <item>Kashubian</item>
+        <item>Kasjubisk</item>
         <item>Kangwar</item>
         <item>Corsa</item>
-        <item>Corsican</item>
+        <item>Korsikansk</item>
         <item>Creek</item>
-        <item>Crimea Tatar</item>
+        <item>Krimtatarisk</item>
         <item>Klingon</item>
-        <item>Croatian</item>
+        <item>Kroatisk</item>
         <item>Kechuan</item>
-        <item>Kashmiri</item>
+        <item>Kashmirisk</item>
         <item>Konkani</item>
-        <item>Kurdish</item>
-        <item>Latin</item>
-        <item>Laotian</item>
+        <item>Kurdisk</item>
+        <item>Latinsk</item>
+        <item>Lao</item>
         <item>Latgalai</item>
-        <item>Latvian</item>
+        <item>Lettisk</item>
         <item>Limburgish</item>
         <item>Lingala</item>
         <item>Luganda</item>
-        <item>Luxembourgish</item>
+        <item>Luxembourgsk</item>
         <item>Lushanian</item>
         <item>Rwandan</item>
-        <item>Lithuanian</item>
-        <item>Romansh</item>
-        <item>Roma</item>
+        <item>Litauisk</item>
+        <item>Rætoromansk</item>
+        <item>Romani</item>
         <item>Logic</item>
-        <item>Malay</item>
-        <item>Burmese</item>
+        <item>Malajisk</item>
+        <item>Burmesisk</item>
         <item>Marathi</item>
-        <item>Malagasy</item>
+        <item>Malagassisk</item>
         <item>Malayalam</item>
-        <item>Macedonian</item>
-        <item>Marshallese</item>
+        <item>Makedonsk</item>
+        <item>Marshallesisk</item>
         <item>Maitili</item>
         <item>Manx</item>
-        <item>Mauritian Creole</item>
+        <item>Mauritisk kreolsk</item>
         <item>Maori</item>
         <item>Bengali</item>
-        <item>Maltese</item>
+        <item>Maltesisk</item>
         <item>Hmong</item>
-        <item>Norwegian</item>
-        <item>Neapolitan</item>
-        <item>South Ndebele</item>
-        <item>African Dutch</item>
-        <item>South Sotho</item>
-        <item>Nepali</item>
+        <item>Norsk</item>
+        <item>Napolitansk</item>
+        <item>Ndebele</item>
+        <item>Afrikaans</item>
+        <item>Sotho</item>
+        <item>Nepalesisk</item>
         <item>Punjabi</item>
         <item>Papi Amento</item>
         <item>Pashto</item>
         <item>Chichewa</item>
         <item>Chivean</item>
         <item>Cherokee</item>
-        <item>Sardinian</item>
-        <item>Samoan</item>
-        <item>Serbian-Croatian</item>
-        <item>Serbian</item>
+        <item>Sardisk</item>
+        <item>Samoansk</item>
+        <item>Serbokroatisk</item>
+        <item>Serbisk</item>
         <item>Sanghainese</item>
-        <item>Sinhalese</item>
+        <item>Singalesisk</item>
         <item>Asperanto</item>
-        <item>Written Norwegian</item>
-        <item>Slovak</item>
+        <item>Skriftlig norsk</item>
+        <item>Slovakisk</item>
         <item>Kiswahili</item>
         <item>Somali</item>
-        <item>Serbian (Cyrillic)</item>
-        <item>Turkish</item>
-        <item>Tajik</item>
+        <item>Serbisk (Cyrillic)</item>
+        <item>Tyrkisk</item>
+        <item>Tadsjikisk</item>
         <item>Tamil</item>
         <item>Tagalog</item>
-        <item>Tigrinya</item>
+        <item>Tigrinsk</item>
         <item>Telugu</item>
-        <item>Tunisian Arabic</item>
-        <item>Turkmen</item>
-        <item>Ukrainian</item>
+        <item>Tunisisk Arabisk</item>
+        <item>Turkmensk</item>
+        <item>Ukrainsk</item>
         <item>Walloon</item>
-        <item>Welsh</item>
+        <item>Walisisk</item>
         <item>Vinda</item>
         <item>Volovian</item>
         <item>Urdu</item>
-        <item>Hebrew</item>
+        <item>Hebraisk</item>
         <item>Sepharic</item>
         <item>Cilician</item>
         <item>Hiligaynon</item>
-        <item>Lower Sorbian</item>
-        <item>Hawaiian</item>
-        <item>New Norwegian</item>
-        <item>Western African written language</item>
+        <item>Neder Sorbisk</item>
+        <item>Hawaiiansk</item>
+        <item>Nynorsk</item>
+        <item>Skriftlig vest afrikansk</item>
         <item>Sindhi</item>
         <item>Shona</item>
         <item>Cebuano</item>
-        <item>Syriac</item>
-        <item>Sundanese</item>
+        <item>Syrisk</item>
+        <item>Sundanesisk</item>
         <item>Hindi</item>
-        <item>Indonesian</item>
+        <item>Indonesisk</item>
         <item>Yiddish</item>
         <item>Inte</item>
         <item>Azeri</item>
         <item>Ingush</item>
-        <item>Ibo language</item>
-        <item>Ido language</item>
+        <item>Igbo</item>
+        <item>Ido</item>
         <item>Yoruba</item>
-        <item>Armenian</item>
-        <item>Inuktitut</item>
-        <item>Iranian</item>
+        <item>Armensk</item>
+        <item>Inuktitut (inuit)</item>
+        <item>Iransk</item>
         <item>Zazaqi</item>
         <item>Medieval French</item>
         <item>Zulu</item>
-        <item>Javanese</item>
+        <item>Javanesisk</item>
 
-        <item>奥利亚语</item>
-        <item>弗里西语</item>
-        <item>哈萨克语</item>
-        <item>海地克里奥尔语</item>
-        <item>马尔加什语</item>
-        <item>蒙古语</item>
-        <item>塞索托语</item>
-        <item>维吾尔语</item>
-        <item>乌兹别克语</item>
+        <item>Oriya</item>
+        <item>Frisisk</item>
+        <item>Kasakhisk</item>
+        <item>Haitisk kreol</item>
+        <item>Madagaskisk</item>
+        <item>Mongolsk</item>
+        <item>Sesotho</item>
+        <item>Uigh</item>
+        <item>Usbekisk</item>
 
     </string-array>
     <string-array name="lang_values">
-        <item>auto</item>
+        <item>Automatisk</item>
         <item>kor</item>
         <item>wyw</item>
         <item>cht</item>
@@ -527,7 +527,7 @@
         <item>fra</item>
         <item>fin</item>
         <item>pt</item>
-        <item>dan</item>
+        <item>dk</item>
         <item>ru</item>
         <item>bul</item>
         <item>spa</item>
@@ -726,21 +726,21 @@
         <item>baidu</item>
     </string-array>
     <string-array name="tts_engine_entries">
-        <item>System TTS engine</item>
+        <item>System stemme</item>
         <item>Uni sound</item>
         <item>Baidu</item>
     </string-array>
     <string-array name="tts_engine_vip_values">
         <item>system</item>
-        <item>iflytek</item>
-        <item>unisound</item>
+        <item>iFLYTEK</item>
+        <item>uni sound</item>
         <item>baidu</item>
     </string-array>
     <string-array name="tts_engine_vip_entries">
-        <item>System TTS engine</item>
-        <item>IFlytek</item>
+        <item>System stemme</item>
+        <item>iFLYTEK</item>
         <item>Uni sound</item>
-        <item>Baidu Cloud TTS</item>
+        <item>Baidu Cloud TTS-stemme</item>
     </string-array>
     <string-array name="alarm_interval_values">
         <item>5</item>
@@ -750,11 +750,11 @@
         <item>60</item>
     </string-array>
     <string-array name="alarm_interval_entries">
-        <item>Every 5 minutes</item>
-        <item>Every 10 minutes</item>
-        <item>Every 15 minutes</item>
-        <item>Every 30 minutes</item>
-        <item>Every hour</item>
+        <item>Hvert femte minut</item>
+        <item>Hvert tiende minut</item>
+        <item>Hvert kvarter</item>
+        <item>Hver halve time</item>
+        <item>Hver time</item>
     </string-array>
     <string-array name="timer_interval_values">
         <item>1</item>
@@ -763,42 +763,42 @@
         <item>15</item>
     </string-array>
     <string-array name="timer_interval_entries">
-        <item>1 minute</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>15 minutes</item>
+        <item>1 minut</item>
+        <item>5 minutter</item>
+        <item>10 minutter</item>
+        <item>15 minutter</item>
     </string-array>
     <string-array name="alarm_hour_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-        <item>14</item>
-        <item>15</item>
-        <item>16</item>
-        <item>17</item>
-        <item>18</item>
-        <item>19</item>
-        <item>20</item>
-        <item>21</item>
-        <item>22</item>
-        <item>23</item>
-        <item>24</item>
+        <item>Midnat</item>
+        <item>Klokken 1</item>
+        <item>Klokken 2</item>
+        <item>Midt om natten</item>
+        <item>Klokken 4</item>
+        <item>Klokken 5</item>
+        <item>Morgen</item>
+        <item>Klokken 7</item>
+        <item>Klokken 8</item>
+        <item>Formiddag</item>
+        <item>Klokken 10</item>
+        <item>Klokken 11</item>
+        <item>Middag</item>
+        <item>Klokken 13</item>
+        <item>Klokken 14</item>
+        <item>Eftermiddag</item>
+        <item>Klokken 16</item>
+        <item>Klokken 17</item>
+        <item>Aften</item>
+        <item>Klokken 19</item>
+        <item>Klokken 20</item>
+        <item>Senaften</item>
+        <item>Klokken 22</item>
+        <item>Klokken 23</item>
+        <item>Midnat</item>
     </string-array>
     <string-array name="recognizer_lang_entries">
-        <item>Chinese simplified</item>
-        <item>Chinese cantonese</item>
-        <item>English</item>
+        <item>Forenklet kinesisk</item>
+        <item>Kantonesisk kinesisk</item>
+        <item>Engelsk</item>
     </string-array>
     <string-array name="recognizer_lang_values">
         <item>zh_CN</item>
@@ -820,88 +820,88 @@
         <item>5</item>
     </string-array>
     <string-array name="web_type_title" >
-        <item>Default</item>
-        <item>Headings</item>
+        <item>Standard</item>
+        <item>Overskrifter</item>
         <item>Links</item>
-        <item>Buttons</item>
+        <item>Knapper</item>
 
-        <item>Landmarks</item>
-        <item>Text boxes</item>
-        <item>Focusable elements</item>
-        <item>Controls</item>
-        <item>Images</item>
-        <item>Check boxes</item>
-        <item>Combo boxes</item>
-        <item>Forms</item>
-        <item>Lists</item>
-        <item>List items</item>
+        <item>Landmærker</item>
+        <item>Tekstfelter</item>
+        <item>Fokuselementer</item>
+        <item>Kontrolelementer</item>
+        <item>Billeder</item>
+        <item>Afkrydsningsfelter</item>
+        <item>Combo boxe</item>
+        <item>Informationer</item>
+        <item>Lister</item>
+        <item>Listepunkter</item>
 
-        <item>Scrolling mode</item>
-        <item>Views</item>
+        <item>Rulning</item>
+        <item>Overblik</item>
 
-        <item>Characters</item>
-        <item>Words</item>
-        <item>Sentences</item>
-        <item>Paragraphs</item>
-        <item>Pages</item>
-        <item>Copying mode</item>
-        <item>Media volume</item>
-        <item>TTS rate</item>
-        <item>OCr and translation</item>
-        <item>Screen areas</item>
+        <item>Tegn</item>
+        <item>Ord</item>
+        <item>Linjer</item>
+        <item>Sætninger</item>
+        <item>Sider</item>
+        <item>Kopieringsfunktion</item>
+        <item>Medielydstyrke</item>
+        <item>Talehastighed</item>
+        <item>OCR og oversætttelse</item>
+        <item>Skærmområder</item>
 
     </string-array>
 
     <string-array name="hot_key_help_items" >
-        <item>CTRL+DPAD_UP: Previous element</item>
-        <item>CTRL+DPAD_DOWN: Next element</item>
-        <item>CTRL+DPAD_LEFT: Left shortcut</item>
-        <item>CTRL+DPAD_RIGHT: Right shortcut</item>
-        <item>CTRL+PAGE_UP: Scroll up</item>
-        <item>CTRL+PAGE_DOWN: Scroll down</item>
-        <item>CTRL+H: Home screen</item>
-        <item>CTRL+N: Notification bar</item>
-        <item>CTRL+P: Recent applications</item>
-        <item>CTRL+SPACE: Click</item>
-        <item>CTRL+L: Long press</item>
-        <item>CTRL+Q: Quick settings</item>
+        <item>Ctrl + Piletast op: flyt fokusmarkøren til det forrige 	element.</item>
+        <item>Ctrl + Piletast ned: flyt fokusmarkkøren til det næste element.</item>
+        <item>Ctrl + Venstre piletast: venstre bevægelsesgenvej.</item>
+        <item>Ctrl + Højre piletast: højre bevægelsesgenvej.</item>
+        <item>Ctrl + Side op: rul en side op.</item>
+        <item>Ctrl + Side ned: rul en side ned.</item>
+        <item>Ctrl + H: hjem.</item>
+        <item>Ctrl + N: notifikationscenter.</item>
+        <item>Ctrl + P: seneste apps.</item>
+        <item>Ctrl + Mellemrum: aktivere fokuseret element.</item>
+        <item>Ctrl + L: tryk og hold på fokuseret element.</item>
+        <item>Ctrl + Q: kvikmenu.</item>
 
-        <item>ALT+M: Main menu</item>
-        <item>ALT+A: Function menu</item>
-        <item>ALT+P: Extensions</item>
-        <item>ALT+T: Tools</item>
-        <item>ALT+V: Voice assistant</item>
-        <item>ALT+S: Granular editing mode</item>
-        <item>ALT+L: List browsing mode</item>
+        <item>Alt + M: Jieshuo menu.</item>
+        <item>Alt + A: funktionsmenu.</item>
+        <item>Alt + P: udvidelser.</item>
+        <item>Alt + T: Tilføjelsesprogrammer.</item>
+        <item>Alt + V: tale assistent.</item>
+        <item>Alt + S: tekstredigering.</item>
+        <item>Alt + L: listeopstilling.</item>
 
     </string-array>
     <string-array name="view_type_title" >
-        <item>Default</item>
-        <item>Labels</item>
-        <item>Buttons</item>
-        <item>Text boxes</item>
+        <item>Standard</item>
+        <item>Etiketter</item>
+        <item>Knapper</item>
+        <item>Tekstfelter</item>
 
-        <item>Images</item>
-        <item>Check boxes</item>
-        <item>Progress bars</item>
-        <item>Lists</item>
-        <item>List items</item>
-        <item>Focusable elements</item>
-        <item>Clickable elements</item>
-        <item>Nodes</item>
-        <item>Scrolling mode</item>
-        <item>Vertical navigation</item>
+        <item>Billeder</item>
+        <item>Afkrydsningsfelter</item>
+        <item>Proceslinjer</item>
+        <item>Lister</item>
+        <item>Listepunkter</item>
+        <item>Fokuselementer</item>
+        <item>Elementer der kan trykkes</item>
+        <item>Notes</item>
+        <item>Rulning</item>
+        <item>Vertikalnavigering</item>
 
-        <item>Characters</item>
-        <item>Words</item>
-        <item>Sentences</item>
-        <item>Paragraphs</item>
-        <item>Pages</item>
-        <item>Copying mode</item>
-        <item>Media volume</item>
-        <item>TTS rate</item>
-        <item>OCr and translation</item>
-        <item>Screen areas</item>
+        <item>Tegn</item>
+        <item>Ord</item>
+        <item>Linjer</item>
+        <item>Sætninger</item>
+        <item>Sider</item>
+        <item>Kopieringsfunktion</item>
+        <item>Medielydstyrke</item>
+        <item>Talehastighed</item>
+        <item>OCR og oversættelse</item>
+        <item>Skærmområder</item>
 
     </string-array>
 

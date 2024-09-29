@@ -1096,8 +1096,8 @@
     <string name="use_bottom_menu_edge_gesture_summary">Жести нижнього краю можуть виконувати такі функції, як перехід на головний екран, відкриття панелі сповіщень, відкриття недавніх додатків.</string>
     <string name="use_bottom_menu_edge_gesture_title">Жести нижнього краю</string>
     <string name="all">Усі</string>
-    <string name="create_hot_key">Створити загальну схему комбінацій клавіш</string>
-    <string name="create_app_hot_key">Створити схему комбінацій клавіш для додатка</string>
+    <string name="create_hot_key">Створити загальну схему</string>
+    <string name="create_app_hot_key">Створити схему для додатка</string>
     <string name="hot_key">Комбінація клавіш</string>
     <string name="hot_key_package_title">Схеми комбінацій клавіш</string>
     <string name="hot_key_description_title">Опис схеми комбінацій клавіш</string>
@@ -1118,8 +1118,8 @@
     <string name="to_previous_granularity">Попередній тип навігації</string>
     <string name="to_next_granularity">Наступний тип навігації</string>
     <string name="select_granularity_mode">Виберіть тип навігації: </string>
-    <string name="web_type_move_title">Вибрати елементи навігації для веб-сторінок</string>
-    <string name="view_type_move_title">Вибрати елементи навігації для стандартного перегляду</string>
+    <string name="web_type_move_title">Типи елементів навігації для веб-сторінок</string>
+    <string name="view_type_move_title">Типи елементів навігації для стандартного перегляду</string>
     <string name="notification_in_touch_no_speak_title">Не читати сповіщення, якщо палець торкається екрана</string>
 
     <string name="use_keep_type_move_title">Зберігати тип елементів навігації при зміні вікна</string>
@@ -1485,8 +1485,8 @@
     <string name="command_edit_node_name">Редагувати мітку поточного елемента</string>
     <string name="command_pasue_timer">Призупинити таймер</string>
     <string name="command_show_input_method_picker">Вибрати клавіатуру</string>
-    <string name="command_raise_scr_volume">Збільшити гучність програми екранного доступу</string>
-    <string name="command_lower_scr_volume">Зменшити гучність програми екранного доступу</string>
+    <string name="command_raise_scr_volume">Збільшити гучність мовлення</string>
+    <string name="command_lower_scr_volume">Зменшити гучність мовлення</string>
     <string name="command_speed_to_fast">Збільшити швидкість мовлення</string>
     <string name="command_speed_to_slow">Зменшити швидкість мовлення</string>
     <string name="use_fast_node_title">Швидкий режим</string>
@@ -1584,7 +1584,7 @@
     <string name="message_title">Повідомлення</string>
     <string name="msg_talkback_enabled">Ви увімкнули TalkBack. Одночасне увімкнення TalkBack і Jieshuo може призвести до неправильної роботи жестів. Будь ласка, відновіть дослідження дотиком у Jieshuo після вимкнення TalkBack.</string>
     <string name="cur_timer_speak_title">Налаштування голосових сповіщень для шаблонів таймера</string>
-    <string name="use_speak_uts">Час, що сплив</string>
+    <string name="use_speak_uts">Час, що минув</string>
     <string name="use_speak_rts">Час , що залишився</string>
     <string name="use_speak_nts">Поточний час</string>
     <string name="cur_timer_name">Назва</string>
@@ -1608,7 +1608,7 @@
     <string name="sound_feedback_paused">Призупинення роботи Jieshuo</string>
     <string name="sound_feedback_resume">Відновлення роботи Jieshuo</string>
     <string name="sound_auto_ocr_start">Автоматичне розпізнавання тексту</string>
-    <string name="sound_camera_screenshot">Камера та знімок екрана</string>
+    <string name="sound_camera_screenshot">Знімок екрана</string>
     <string name="stream_type_ring">Дзвінок</string>
     <string name="stream_type_music">Медіа</string>
     <string name="stream_type_alarm">Будильник</string>
@@ -1695,14 +1695,14 @@
     <string name="timer_format_24">24-годинний</string>
     <string name="default_gesture_type_title">Стиль жестів навігації</string>
     <string name="default_gesture_type_def_up_down">Стандартний вертикальний (жести вгору та вниз для звичайної навігації, жести вліво та вправо для виконання швидких дій)</string>
-    <string name="default_gesture_type_web_up_down">Вертикальний зі зміною типів елементів лише на веб-сторінках (жести вліво та вправо для зміни типу елемента, жести вгору та вниз для переходу по елементах вибраного типу)</string>
+    <string name="default_gesture_type_web_up_down">Базовий вертикальний зі зміною типів елементів лише на веб-сторінках (жести вліво та вправо для зміни типу елемента, жести вгору та вниз для переходу по елементах вибраного типу)</string>
     <string name="default_gesture_type_web_up_down_new">Сучасний вертикальний зі зміною типів елементів лише на веб-сторінках (жести вгору-вниз та вниз-вгору для зміни типу елемента, жести вліво та вправо для переходу між елементами вибраного типу, жести вгору та вниз для звичайної навігації)</string>
-    <string name="default_gesture_type_view_up_down">Вертикальний зі зміною типів елементів у всіх видах перегляду (жести вліво та вправо для зміни типу елемента, жести вгору та вниз для переходу по елементах вибраного типу)</string>
+    <string name="default_gesture_type_view_up_down">Базовий вертикальний зі зміною типів елементів у всіх видах перегляду (жести вліво та вправо для зміни типу елемента, жести вгору та вниз для переходу по елементах вибраного типу)</string>
     <string name="default_gesture_type_view_up_down_new">Сучасний вертикальний зі зміною типів елементів у всіх видах перегляду (жести вгору-вниз та вниз-вгору для зміни типу елемента, жести вліво та вправо для переходу між елементами вибраного типу, жести вгору та вниз для звичайної навігації)</string>
     <string name="default_gesture_type_def_left_right">Стандартний горизонтальний (жести вліво та вправо для звичайної навігації, жести вгору та вниз для виконання швидких дій)</string>
-    <string name="default_gesture_type_web_left_right">Горизонтальний зі зміною типів елементів лише на веб-сторінках (жести вгору та вниз для зміни типу елемента, жести вліво та вправо для переходу між елементами обраного типу)</string>
+    <string name="default_gesture_type_web_left_right">Базовий горизонтальний зі зміною типів елементів лише на веб-сторінках (жести вгору та вниз для зміни типу елемента, жести вліво та вправо для переходу між елементами обраного типу)</string>
     <string name="default_gesture_type_web_left_right_new">Сучасний горизонтальний зі зміною типів елементів лише на веб-сторінках (жести вгору-вниз та вниз-вгору для зміни типу елемента, жести вгору та вниз для переходу по елементах вибраного типу, жести вліво та вправо для звичайної навігації)</string>
-    <string name="default_gesture_type_view_left_right">Горизонтальний зі зміною типів елементів у всіх видах перегляду (жести вгору та вниз для зміни типу елемента, жести вліво та вправо для переходу по елементах вибраного типу)</string>
+    <string name="default_gesture_type_view_left_right">Базовий горизонтальний зі зміною типів елементів у всіх видах перегляду (жести вгору та вниз для зміни типу елемента, жести вліво та вправо для переходу по елементах вибраного типу)</string>
     <string name="default_gesture_type_view_left_right_new">Сучасний горизонтальний зі зміною типів елементів у всіх видах перегляду (жести вгору-вниз та вниз-вгору для зміни типу елемента, жести вгору та вниз для переходу по елементах вибраного типу, жести вліво та вправо для звичайної навігації)</string>
     <string name="use_speak_state_title">Промовляти інформацію про стан елементів перед назвами чи вмістом</string>
     <string name="alarm_hours_title">Години сповіщень голосового годинника</string>
@@ -1821,9 +1821,25 @@
 Якщо символ * не використовується, то фільтруватимуться елементи, вміст яких повністю збігається зі вказаним виразом.</string>
     <string name="notification_black_list_description">Сповіщення додані до чорного списку не будуть промовлятися, але будуть збережені у центрі сповіщень. Ключові слова підтримують регулярні вирази. Якщо вираз містить тільки символ "зірочка", то всі сповіщення вказаного додатка не будуть промовлятися.</string>
     <string name="notification_white_list_description">Сповіщення додані до білого списку будуть завжди промовлятися. навіть якщо читання сповіщень вимкнено. Ключові слова підтримують регулярні вирази. Якщо вираз містить тільки символ "зірочка", то всі сповіщення вказаного додатка будуть промовлятися.</string>
-    <string name="nodeinfo_long_clickable">可长按</string>
-    <string name="nodeinfo_not_long_click">不可长按</string>
-    <string name="nodeinfo_editable">可编辑</string>
-    <string name="nodeinfo_not_edit">不可编辑</string>
+    <string name="nodeinfo_long_clickable">Доступний для довгого натискання</string>
+    <string name="nodeinfo_not_long_click">Недоступний для довгого натискання</string>
+    <string name="nodeinfo_editable">Доступний для редагування</string>
+    <string name="nodeinfo_not_edit">Недоступний для редагування</string>
+    <string name="sound_scroll_page">Зміна сторінки</string>
+    <string name="use_auto_mode_move_list_view_item_title">Швидкий перехід по елементах списку в режимі автоматичного перегляду</string>
+    <string name="helper_tts_setting_title">Налаштування синтезатора для голосового помічника</string>
+    <string name="node_tts_setting_title">Налаштування синтезатора для режиму моніторингу фокуса</string>
+    <string name="voice_helper_use_big_title">Використовувати велику мовну модель</string>
+    <string name="chat_history">Історія спілкування та перекладу</string>
+    <string name="command_recognition_icon">Розпізнавання іконок</string>
+    <string name="command_long_hold">Натискання й утримування</string>
+    <string name="sound_progress">Перебіг</string>
+    <string name="sound_progress_100">Перебіг 100</string>
+    <string name="sound_clear_notification">Очищення всіх сповіщень</string>
+    <string name="sound_talkman_start">Запуск Jieshuo</string>
+    <string name="sound_talkman_stop">Вимкнення Jieshuo</string>
+    <string name="sound_camera">Затвор камери</string>
+    <string name="voice_picture_description">Голосовий запит опису зображення</string>
+    <string name="voice_picture_description2">Голосовий запит опису вмісту екрана</string>
 
 </resources>

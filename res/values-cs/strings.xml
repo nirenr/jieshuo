@@ -56,7 +56,7 @@
     <string name="use_key_shortcut_title">Používat tlačítka hlasitosti</string>
     <string name="use_key_shortcut_summary">Určuje, zda budou tlačítka hlasitosti použita jako zkratkové klávesy pro odečítač Jieshuo</string>
     <string name="tts_speaker_title">Hlasový výstup</string>
-    <string name="tts_speaker_summary">Ovládá aktuálně předvolený  hlasový výstup</string>
+    <string name="tts_speaker_summary">Ovládá aktuálně předvolený hlasový výstup</string>
     <string name="tts_settings_title">Nastavení řeči</string>
     <string name="feed_setting_title">Nastavení zpětné vazby</string>
     <string name="content_setting_title">Nastavení prezentace obsahu</string>
@@ -73,7 +73,7 @@
     <string name="value_stream_notification">Oznámení</string>
     <string name="value_stream_dtmf">DTMF tóny</string>
     <string name="value_googletv_screen_saver">Spořič obrazovky</string>
-    <string name="template_charging">"Nabíjení %1$s, úroveň nabití baterie je %2$s."</string>
+    <string name="template_charging">Nabíjení %1$s, úroveň nabití baterie je %2$s.</string>
     <string name="notification_type_status_started">Zahájeno</string>
     <string name="notification_type_status_stopped">Zastaveno</string>
     <string name="acc_settings_title">Nastavení usnadnění</string>
@@ -98,7 +98,7 @@
     <string name="sound_volume_title">Hlasitost zvukového schématu</string>
     <string name="notification_bar_speak_title">Automaticky předčítat oznámení z notifikačního panelu</string>
     <string name="notification_toast_speak_title">Automaticky předčítat bublinové notifikace</string>
-    <string name="notification_announcement_speak_title">Automaticky předčítat  interní oznámení odečítače</string>
+    <string name="notification_announcement_speak_title">Automaticky předčítat interní oznámení odečítače</string>
     <string name="notification_settings_title">Nastavení předčítání oznámení</string>
     <string name="help_feed_title">Nápověda a zpětná vazba</string>
     <string name="advanced_setting_title">Pokročilá nastavení</string>
@@ -134,11 +134,11 @@
     <string name="long_click_title">Časová prodleva dvojitého klepnutí a přidržení</string>
     <string name="long_click_summary">Určuje časový úsek, po kterém je aktivována funkce dlouhého kliknutí</string>
     <string name="split_select_title">Podrobný výběrový režim</string>
-    <string name="use_up_long_click_title">Provést akci  dlouhého kliknutí, jestliže prst zůstane na daném prvku delší dobu</string>
-    <string name="use_up_long_click_summary">Určuje, zda bude provedena simulace dlouhého kliknutí. Dojde k tomu v případě, kdy prst zůstane na daném prvku déle než jednu sekundu </string>
+    <string name="use_up_long_click_title">Provést akci dlouhého kliknutí, jestliže prst zůstane na daném prvku delší dobu</string>
+    <string name="use_up_long_click_summary">Určuje, zda bude provedena simulace dlouhého kliknutí. Dojde k tomu v případě, kdy prst zůstane na daném prvku déle než jednu sekundu</string>
     <string name="backup_manager_title">Správce záloh</string>
     <string name="user_letter_map_title">Používat uživatelskou fonetickou databázi (je vyžadován restart)</string>
-    <string name="tts_use_offline_title">Používat vysoce kvalitní cloudový  hlasový výstup</string>
+    <string name="tts_use_offline_title">Používat vysoce kvalitní cloudový hlasový výstup</string>
     <string name="tts_use_offline_summary">Určuje, zda bude použit cloudový hlasový výstup. Jestliže není dostupné Wi-Fi připojení, je hlas automaticky přepnut na offline modul nižší kvality.</string>
     <string name="gesture_package_title">Schéma gest</string>
     <string name="long_text_title">Fulltextový režim úprav textu</string>
@@ -255,7 +255,7 @@
     <string name="use_content_tree_changed_summary">Určuje, zda budou automaticky hlášeny změny v aktuálním okně</string>
     <string name="content_blacklist_summary">Povolením této funkce můžete opravit problém související s přidáváním vlastních popisků</string>
     <string name="use_image_filter_summary">Určuje, zda budou filtrovány obrázky, jež neobsahují alternativní popis</string>
-    <string name="use_supper_filter_summary">Určuje, zda bude  filtrován nečínský obsah během procházení webových stránek</string>
+    <string name="use_supper_filter_summary">Určuje, zda bude filtrován nečínský obsah během procházení webových stránek</string>
     <string name="use_edge_gesture_title">Používat okrajová gesta</string>
     <string name="left_edge_gesture_title">Přejeďte prstem doprava od levého okraje obrazovky</string>
     <string name="right_edge_gesture_title">Přejeďte prstem doleva od pravého okraje obrazovky</string>
@@ -292,7 +292,7 @@
     <string name="use_ringtone_volume_title">Použít hlasitost vyzvánění pro řeč</string>
     <string name="use_ringtone_volume_summary">Určuje, zda bude hlasitost vyzvánění použita pro vyčítání informací o volajícím</string>
 
-    <string name="up_down_volume_short_key_summary">Umožňuje nastavit spuštění akce, jestliže jsou tlačítka hlasitosti stisknuta současně </string>
+    <string name="up_down_volume_short_key_summary">Umožňuje nastavit spuštění akce, jestliže jsou tlačítka hlasitosti stisknuta současně</string>
     <string name="up_down_volume_short_key_title">Současný stisk obou tlačítek ovládání hlasitosti</string>
     <string name="tts_engine_title">Primární hlasový výstup</string>
     <string name="async_tts_engine_title">Sekundární hlasový výstup</string>
@@ -300,7 +300,7 @@
     <string name="tts_engine_summary">Umožňuje nastavit primární hlasový výstup pro vyčítání obsahu obrazovky. Pokud zvolený výstup nepracuje korektně, bude použit první dostupný.</string>
     <string name="timer_manager_title">Správce časovače</string>
     <string name="use_foreground_title">Blokovat automatické ukončení odečítače</string>
-    <string name="use_foreground_summary">Doporučujeme aktivovat tuto volbu v případě, kdy dochází k násilnému ukončování odečítače prostřednictvím  agresivních šetřičů energie</string>
+    <string name="use_foreground_summary">Doporučujeme aktivovat tuto volbu v případě, kdy dochází k násilnému ukončování odečítače prostřednictvím agresivních šetřičů energie</string>
     <string name="use_speak_qq_changed_title">Automaticky ohlašovat zprávy z QQ nebo We chatu</string>
     <string name="use_speak_qq_changed_summary">Určuje, zda budou automaticky předčítány příchozí zprávy z IM aplikací, kterými jsou například QQ nebo We chat</string>
     <string name="left_button_default_value">Zavěsit | Odmítnout | * Přejetím odmítnete hovor * | Ukončit hovor | Zavěsit hovor | Zavěsit hovor | Ukončit hovor QQ | Ukončit hovor QQ | Přepnout na předchozí skladbu | Předchozí skladbu | Navigovat nahoru | Zrušit a handsfree</string>
@@ -358,7 +358,7 @@
     <string name="jieshuo_bbs_title">Diskusní fórum pro Jieshuo Screenreader</string>
     <string name="use_symbol_speak_title">Hlásit interpunkce</string>
     <string name="use_cloud_label_title">Používat cloudové popisky</string>
-    <string name="use_cloud_label_summary">Určuje, zda jsou  vytvořené popisky automaticky stahovány a nahrávány na server</string>
+    <string name="use_cloud_label_summary">Určuje, zda jsou vytvořené popisky automaticky stahovány a nahrávány na server</string>
     <string name="directory_helper">Asistent</string>
     <string name="helper_manager_title">Správce hlasového asistenta</string>
     <string name="alarm_interval_title">Interval ohlašování času</string>
@@ -366,7 +366,7 @@
     <string name="use_timer_vibrate_title">Použít vibrační oznámení</string>
     <string name="use_double_edge_gesture_title">Použít dvouprsté okrajové menu</string>
     <string name="use_raw_click_title">Použít přímé klepnutí místo dvojitého</string>
-    <string name="use_raw_click_summary">Určuje, zda bude použito jedno kliknutí místo dvojitého. Tato možnost simuluje fyzické kliknutí na pozici prvku, což může zlepšit přístupnost některých aplikací </string>
+    <string name="use_raw_click_summary">Určuje, zda bude použito jedno kliknutí místo dvojitého. Tato možnost simuluje fyzické kliknutí na pozici prvku, což může zlepšit přístupnost některých aplikací</string>
     <string name="has_vip_summary">%s je dostupné jen pro uživatele plné verze</string>
     <string name="vip_qq_kefu_title">Zákaznická podpora pro Jieshuo Screenreader</string>
     <string name="vip_qq_kefu_summary">Konzultace, nákup, převod licencí, certifikovaný servis a podpora. Kontaktujte prosím vždy pouze ověřenou osobu.</string>
@@ -397,7 +397,7 @@
     <string name="system_tts_volume_title">Hlasitost systémového hlasového výstupu</string>
     <string name="notification_select_title">Nastavení ohlašování notifikací</string>
     <string name="message_disable_dim_screen">Nejprve prosím zakažte ztlumení obrazovky</string>
-    <string name="start_long_copy"> kopírování celé obrazovky zahájeno</string>
+    <string name="start_long_copy">kopírování celé obrazovky zahájeno</string>
     <string name="runnimg_background">Odečítač Jieshuo běží na pozadí</string>
     <string name="description">Popis</string>
     <string name="gestures_description_not_found">Soubor s nápovědou pro gesta nebyl nalezen</string>
@@ -437,10 +437,10 @@
     <string name="command_send_log">Odeslat protokoly</string>
     <string name="command_gesture_setting">Nastavení schématu gest</string>
     <string name="command_voice_setting">Nastavení řeči</string>
-    <string name="command_action_setting">@string/action_setting_title</string>
-    <string name="command_feedback_setting">@string/feed_setting_title</string>
-    <string name="command_content_setting">@string/content_setting_title</string>
-    <string name="command_notification_setting">@string/notification_settings_title</string>
+    <string name="command_action_setting">Nastavení operací</string>
+    <string name="command_feedback_setting">Nastavení zpětné vazby</string>
+    <string name="command_content_setting">Nastavení prezentace obsahu</string>
+    <string name="command_notification_setting">Nastavení předčítání oznámení</string>
     <string name="command_help_feed_setting">Nápověda a zpětná vazba</string>
     <string name="command_left_shortcut">Levá klávesová zkratka</string>
     <string name="command_right_shortcut">Pravá klávesová zkratka</string>
@@ -450,7 +450,7 @@
     <string name="command_current_location">Aktuální poloha</string>
     <string name="command_verification">Extrahovat text z obrázku</string>
     <string name="command_verification2">Rozpoznat text z obrázku</string>
-    <string name="command_verification3">Identifikovat text  z obrázku</string>
+    <string name="command_verification3">Identifikovat text z obrázku</string>
     <string name="feed_back_disabled">Hlasová zpětná vazba byla pozastavena</string>
     <string name="command_gesture_help">Popis schématu gest</string>
     <string name="command_gesture_help2">¨Nápověda pro gesta</string>
@@ -656,8 +656,8 @@
     <string name="command_virtual_navigation">Virtuální navigace</string>
     <string name="voice_helper_use_click_title">Povolit přímé kliknutí na daný prvek pomocí hlasového asistenta</string>
     <string name="voice_helper_use_app_title">Povolit přímé spuštění aplikace pomocí hlasového asistenta</string>
-    <string name="voice_helper_use_app_summary">Určuje, zda bude spuštěna určitá aplikace, jestliže vyslovíte její název. Není -li tato možnost zaškrtnuta, použijte klíčové slovo \ "open \" s názvem aplikace, kterou chcete otevřít</string>
-    <string name="voice_helper_use_click_summary">Určuje, zda bude kliknuto na určitý prvek, jestliže vyslovíte jeho název. Není -li tato možnost zaškrtnuta, použijte klíčové slovo \ "click \" s názvem prvku, na který chcete kliknout</string>
+    <string name="voice_helper_use_app_summary">Určuje, zda bude spuštěna určitá aplikace, jestliže vyslovíte její název. Není -li tato možnost zaškrtnuta, použijte klíčové slovo  open " s názvem aplikace, kterou chcete otevřít</string>
+    <string name="voice_helper_use_click_summary">Určuje, zda bude kliknuto na určitý prvek, jestliže vyslovíte jeho název. Není -li tato možnost zaškrtnuta, použijte klíčové slovo  click " s názvem prvku, na který chcete kliknout</string>
     <string name="edge_gesture_width_title">Vertikální rozsah pro aktivaci okrajových gest</string>
     <string name="use_double_edge_gesture_summary">Určuje, zda je nabídka okrajových gest vytažena dvěma prsty. Když je tato možnost zaškrtnutá, je možné jedním prstem obsloužit další akce okrajových gest</string>
     <string name="left_edge_gesture_items_title">Přizpůsobit nabídku pro levé okrajové gesto</string>
@@ -861,7 +861,7 @@
     <string name="voice_input_mode">Režim hlasového diktování</string>
     <string name="voice_helper_record_start">Nahrát makro</string>
     <string name="voice_helper_record_stop">Ukončit nahrávání</string>
-    <string name="voice_helper_record_message">nahrávání spuštěno. Vyslovte instrukci jednu po druhé a nakonec řekněte "stop recording" pro ukončení procesu</string>
+    <string name="voice_helper_record_message">nahrávání spuštěno. Vyslovte instrukci jednu po druhé a nakonec řekněte stop recording pro ukončení procesu</string>
     <string name="voice_helper_record_done">Nahrávání dokončeno.</string>
     <string name="msg_save_error">Při ukládání došlo k chybě.</string>
     <string name="msg_has_vip_voice_cmd">Uživatelé bezplatné verze mohou nahrát maximálně 10 hlasových příkazů</string>
@@ -928,7 +928,7 @@
     <string name="check_notification_permissions_title">Zkontrolovat stav oprávnění pro oznámení.</string>
     <string name="denied_permissions_title">Oprávnění není uděleno</string>
     <string name="welcome_msg">Vítá vás Jieshuo screen reader, jeden z nejefektivnějších odečítačů obrazovky pro OS Android. Zvolte jednu z následujících tří možností: Průvodce nastavením - proveďte základní konfiguraci odečítače, která vám pomůže s úvodním přizpůsobením aplikace. Klepněte na zobrazit oprávnění, abyste zjistili, která jsou odečítačem vyžadována. Zavřít průvodce můžete klepnutím na tlačítko ukončit.</string>
-    <string name="use_left_right_msg">Nejprve je nutné nakonfigurovat základní provozní režim odečítače. Ve výchozím nastavení používá Jieshuo Screenreader švihnutí nahoru pro přechod na předchozí prvek, švihnutím dolů se přesunete na další prvek. Švihnutím doleva nebo doprava provedete takzvané zkratky. Pokud jste zvyklí na opačný způsob navigace, vyberte možnost \ "obráceného schématu ovládání \". Mějte na paměti, že když je tato funkce aktivní, švihnutí nahoru provede takzvanou levou zkratku, zatímco švihnutím dolů se vykoná zkratka pravá. Nyní zvolte variantu, kterou chcete používat a dvojitým klepnutím ji aktivujte</string>
+    <string name="use_left_right_msg">Nejprve je nutné nakonfigurovat základní provozní režim odečítače. Ve výchozím nastavení používá Jieshuo Screenreader švihnutí nahoru pro přechod na předchozí prvek, švihnutím dolů se přesunete na další prvek. Švihnutím doleva nebo doprava provedete takzvané zkratky. Pokud jste zvyklí na opačný způsob navigace, vyberte možnost  obráceného schématu ovládání ". Mějte na paměti, že když je tato funkce aktivní, švihnutí nahoru provede takzvanou levou zkratku, zatímco švihnutím dolů se vykoná zkratka pravá. Nyní zvolte variantu, kterou chcete používat a dvojitým klepnutím ji aktivujte</string>
     <string name="usage_hints_msg">Nyní se rozhodnete, zda budete od odečítače obrazovky dostávat tipy k použití. Tyto nápovědné texty jsou krátké rady vyslovené na jakémkoli zaměřeném prvku. Mohou vám pomoci s obsluhou zařízení, ale pokud jste již obeznámeni se systémem Android, doporučujeme je vypnout. Přejete si dostávat tyto tipy?</string>
     <string name="use_list_index_msg">Seznamy jsou velmi důležitou součástí uživatelského rozhraní systému Android. Nyní se rozhodnete, zda chcete, aby odečítač obrazovky předčítal různé informace o aktuálním seznamu, zejména index aktuálně zaměřeného prvku nebo rozsah zobrazení seznamu. Přejete si tyto informace dostávat?</string>
     <string name="notification_speak_msg">Vyberte, zda má odečítač obrazovky hlásit notifikace. Mezi oznámení patří příchozí zprávy SMS, předpovědi počasí nebo jakékoli jiné informace generované vaším zařízením. Doporučujeme čtení příchozích oznámení povolit, ale jestliže nechcete být během práce rušeni, můžete jej ponechat vypnuté. Stojí za zmínku, že Jieshuo Screenreader má funkci nazvanou notifikační box, která může výrazně usnadnit práci s notifikacemi na některých zařízeních</string>
@@ -943,13 +943,13 @@
     <string name="use_single_tts_no">Použít dva hlasové výstupy</string>
     <string name="permission_title">Nápověda pro oprávnění</string>
     <string name="permission_msg">Pro další detaily nahlédněte do souboru s uživatelskou příručkou</string>
-    <string name="check_permissions_msg">Jieshuo Screenreader ke svému fungování potřebuje některá základní oprávnění, například oprávnění úložiště se používá ke čtení zvukových schémat, rozšíření nebo jiných externích dat ze zařízení. Pokračujte kliknutím na tlačítko \ "Další krok \" a udělte všechna požadovaná oprávnění, nebo kliknutím na \ "Zrušit \" ukončete aplikaci</string>
+    <string name="check_permissions_msg">Jieshuo Screenreader ke svému fungování potřebuje některá základní oprávnění, například oprávnění úložiště se používá ke čtení zvukových schémat, rozšíření nebo jiných externích dat ze zařízení. Pokračujte kliknutím na tlačítko  Další krok " a udělte všechna požadovaná oprávnění, nebo kliknutím na  Zrušit " ukončete aplikaci</string>
     <string name="next">Další krok</string>
     <string name="setup_setting_done">Nastavení je kompletní.</string>
-    <string name="setup_setting_done_msg">Jestliže budete průvodce prvním spuštěním chtít spustit v budoucnu znovu, otevřete nastavení programu a zde sekci obecná nastavení. Tady klepněte na položku "průvodce nastavením."</string>
+    <string name="setup_setting_done_msg">Jestliže budete průvodce prvním spuštěním chtít spustit v budoucnu znovu, otevřete nastavení programu a zde sekci obecná nastavení. Tady klepněte na položku průvodce nastavením.</string>
     <string name="setup_setting_continue">Pokračujte v konfiguraci</string>
     <string name="setup_setting_not_permission">základní oprávnění nebyla udělena.</string>
-    <string name="setup_setting_not_permission_msg">Odečítač obrazovky nebude fungovat bez některých základních oprávnění, jež jste dosud neudělili. Kliknutím na \ "Pokračovat \" udělíte všechna požadovaná oprávnění a budete provedeni průvodcem nastavení, kliknutím na \ "Udělit oprávnění \" akceptujete všechna požadovaná oprávnění a ukončíte průvodce, zatímco kliknutím na \ "Konec \" dojde k situaci, kdy nebudou některé funkce odečítače pracovat korektně.</string>
+    <string name="setup_setting_not_permission_msg">Odečítač obrazovky nebude fungovat bez některých základních oprávnění, jež jste dosud neudělili. Kliknutím na  Pokračovat " udělíte všechna požadovaná oprávnění a budete provedeni průvodcem nastavení, kliknutím na  Udělit oprávnění " akceptujete všechna požadovaná oprávnění a ukončíte průvodce, zatímco kliknutím na  Konec " dojde k situaci, kdy nebudou některé funkce odečítače pracovat korektně.</string>
     <string name="setup_setting_set_permission_and_exit">Udělit oprávnění a ukončit průvodce</string>
     <string name="setup_setting_not_notification_permission">Oprávnění pro zobrazování oznámení nebylo uděleno</string>
     <string name="setup_setting_notification_permission_msg">Odečítač používá oprávnění k zobrazení příchozích oznámení. Dále pro zobrazování ikon upozornění používaných například k obnovení funkce gest, použití funkcí prevence automatického ukončení aplikace agresivními šetřiči energie a jiné. Udělení tohoto oprávnění pomůže zvýšit stabilitu programu na vašem zařízení</string>
@@ -1041,7 +1041,7 @@
     <string name="use_view_type_move_summary">Určuje, zda je ve standardním zobrazení systému Android povolena navigace dle typu zvoleného prvku. Pokud je tato možnost aktivována, jsou pro změnu typu mapována výchozí gesta zkratek. Jestliže dojde ke konfliktu při používání gest, můžete schéma upravit a opravit problémy ručně</string>
     <string name="command_raw_double_tap">[dvojité klepnutí]</string>
     <string name="to_previous_granularity_item">předchozí aktuálně zvolený typ prvku</string>
-    <string name="to_next_granularity_item">další  aktuálně zvolený typ prvku</string>
+    <string name="to_next_granularity_item">další aktuálně zvolený typ prvku</string>
     <string name="to_previous_granularity">předchozí typ prvku</string>
     <string name="to_next_granularity">další typ prvku</string>
     <string name="select_granularity_mode">zvolte prvek navigace</string>
@@ -1105,11 +1105,13 @@
     <string name="use_accessibility_volume_fix_summary">Pokud hlasitost přístupnosti často kolísá, můžete zkusit povolit tuto možnost</string>
     <string name="privacy">Zásady ochrany osobních údajů</string>
     <string name="show_download_title">Stáhnout Jieshuo screen reader</string>
-    <string name="version_msg">%s\nVelikost:%s\nPočet stažení:%s</string>
+    <string name="version_msg">%s
+Velikost:%s
+Počet stažení:%s</string>
     <string name="user_new_password">Nové heslo (6 až 15 latinských znaků)</string>
     <string name="repassword_title">Změnit heslo</string>
     <string name="msg_not_empty">Toto pole nemůže zůstat prázdné!</string>
-    <string name="msg_unknown_error">Došlo k neznámé chybě. Zkuste to znovu později nebo kontaktujte zákaznickou podporu. \ N</string>
+    <string name="msg_unknown_error">Došlo k neznámé chybě. Zkuste to znovu později nebo kontaktujte zákaznickou podporu.  N</string>
     <string name="msg_timer_mode_pause">Časovač pozastaven</string>
     <string name="msg_timer_mode_resume">Časovač obnoven</string>
     <string name="msg_multi_touch_mode_enabled">Víceprstá gesta povolena</string>
@@ -1174,7 +1176,7 @@
     <string name="use_recording_stop_title">Ztlumit Jieshuo Screenreader během aktivního nahrávání</string>
     <string name="use_speak_call_time_title">Hlásit délku ukončeného telefonního hovoru</string>
     <string name="use_speak_call_time_summary">Určuje, zda se po dokončení hovoru automaticky přečte jeho doba trvání. Tato funkce vyžaduje oprávnění ke čtení protokolu hovorů</string>
-    <string name="use_list_item_index_real_time_title">Hlásit index aktuálně zaměřené položky  během rolování seznamu</string>
+    <string name="use_list_item_index_real_time_title">Hlásit index aktuálně zaměřené položky během rolování seznamu</string>
     <string name="add_favorites">Přidat k oblíbeným</string>
     <string name="save_as_file">Uložit jako místní soubor</string>
     <string name="save_as_cloud">Uložit jako cloudovou poznámku</string>
@@ -1289,10 +1291,10 @@
     <string name="nodeinfo_state_description">Popis stavu:</string>
     <string name="nodeinfo_resource_name">Název zdroje:</string>
     <string name="nodeinfo_indoex">Pořadí:</string>
-    <string name="nodeinfo_bounds_in_screen">Souřadnice obrazovky: </string>
+    <string name="nodeinfo_bounds_in_screen">Souřadnice obrazovky:</string>
     <string name="nodeinfo_parent">nadřazený objekt</string>
     <string name="nodeinfo_childs">Podřízené objekty</string>
-    <string name="nodeinfo_actions">Akce přístupnosti: </string>
+    <string name="nodeinfo_actions">Akce přístupnosti:</string>
     <string name="nodeinfo_clickable">Kliknutelné</string>
     <string name="nodeinfo_not_click">Nekliknutelné</string>
     <string name="nodeinfo_checkable">zaškrtnutelné</string>
@@ -1440,16 +1442,16 @@
     <string name="command_speak_all_notification">Přečíst všechna oznámení</string>
     <string name="msg_start_log">Klepněte na OK pro povolení funkce logování. Jestliže zaznamenáte potíže při používání aplikace, odešlete protokoly událostí vývojáři</string>
     <string name="msg_loging">Protokolování událostí</string>
-    <string name="emoji_speak_mode0">Zpracovávat emodži  prostřednictvím  hlasového výstupu</string>
+    <string name="emoji_speak_mode0">Zpracovávat emodži prostřednictvím hlasového výstupu</string>
     <string name="emoji_speak_mode1">Zpracovávat emodži prostřednictvím odečítače obrazovky</string>
     <string name="emoji_speak_mode2">Neohlašovat symboly emodži</string>
     <string name="use_log_summary">Povolením této funkce zajistíte záznam informací o chybových hlášeních, může ale dojít ke snížení výkonu odečítače</string>
     <string name="stat_info">Statistiky výkonu</string>
-    <string name="event_stat_info">Bylo zaznamenáno celkem %d událostí, s průměrnou dobou %d milisekund. </string>
-    <string name="touch_stat_info">Procházení dotykem použito celkem%d, průměrné zpoždění %d milisekund. </string>
-    <string name="hover_stat_info">Dotyky na obrazovce celkem %d, s průměrnou dobou %d milisekund. </string>
-    <string name="gesture_stat_info">Bylo zaznamenáno celkem %d gest, s průměrnou dobou %d milisekund. </string>
-    <string name="search_stat_info">Nalezeno prvků celkem %d, s průměrnou dobou %d milisekund. </string>
+    <string name="event_stat_info">Bylo zaznamenáno celkem %d událostí, s průměrnou dobou %d milisekund.</string>
+    <string name="touch_stat_info">Procházení dotykem použito celkem%d, průměrné zpoždění %d milisekund.</string>
+    <string name="hover_stat_info">Dotyky na obrazovce celkem %d, s průměrnou dobou %d milisekund.</string>
+    <string name="gesture_stat_info">Bylo zaznamenáno celkem %d gest, s průměrnou dobou %d milisekund.</string>
+    <string name="search_stat_info">Nalezeno prvků celkem %d, s průměrnou dobou %d milisekund.</string>
     <string name="zoom_in">Přiblížit</string>
     <string name="zoom_out">Oddálit</string>
     <string name="msg_timer_no_run">Časovač není spuštěn</string>
@@ -1476,14 +1478,14 @@
     <string name="vr_camera">Asistence kamery VR</string>
     <string name="language_setting_title">Nastavení jazykových dat</string>
     <string name="vr_dialog_title">Důležité informace</string>
-    <string name="vr_dialog_message">Funkci podpory VR je třeba používat s brýlemi pro VR a dálkovým ovladačem. Tuto funkci by měli používat slabozrací uživatelé, aby jim pomohla vidět okolí, jako jsou televize, počítače, knihy.\n
-     Kvůli zvýšené přesnosti a nízké obnovovací frekvenci není tato funkce vhodná ve scénářích, jako je chůze a cestování.\n
-     Pokud potřebujete sledovat okolní prostředí, jako jsou cedule autobusových zastávek, stanice metra, směrové tabule atd., nezapomeňte funkci použít pouze tehdy, když zastavíte a jste si jisti bezpečností svého okolí.\n
-     Návod k použití: \n
-     Displej telefonu je rozdělen na dvě části. Položte levou stranu telefonu do očního boxu VR. Pomocí kláves se šipkami na dálkovém ovladači přepněte položky zobrazení a stisknutím tlačítka OK spusťte identifikaci.\n
-     Pomocí tlačítek hlasitosti na telefonu upravte úroveň zvětšení.\n
-     Vzhledem k různým druhům boxů na trhu mohou některé z nich blokovat kameru, což má za následek rozmazaný nebo zakrytý výhled. Pro doporučení vhodného zařízení můžete předem kontaktovat zákaznický servis.\n
-     Poznámka: Nesprávné použití funkce může mít nepředvídatelné následky.</string>
+    <string name="vr_dialog_message">Funkci podpory VR je třeba používat s brýlemi pro VR a dálkovým ovladačem. Tuto funkci by měli používat slabozrací uživatelé, aby jim pomohla vidět okolí, jako jsou televize, počítače, knihy.
+ Kvůli zvýšené přesnosti a nízké obnovovací frekvenci není tato funkce vhodná ve scénářích, jako je chůze a cestování.
+ Pokud potřebujete sledovat okolní prostředí, jako jsou cedule autobusových zastávek, stanice metra, směrové tabule atd., nezapomeňte funkci použít pouze tehdy, když zastavíte a jste si jisti bezpečností svého okolí.
+ Návod k použití: 
+ Displej telefonu je rozdělen na dvě části. Položte levou stranu telefonu do očního boxu VR. Pomocí kláves se šipkami na dálkovém ovladači přepněte položky zobrazení a stisknutím tlačítka OK spusťte identifikaci.
+ Pomocí tlačítek hlasitosti na telefonu upravte úroveň zvětšení.
+ Vzhledem k různým druhům boxů na trhu mohou některé z nich blokovat kameru, což má za následek rozmazaný nebo zakrytý výhled. Pro doporučení vhodného zařízení můžete předem kontaktovat zákaznický servis.
+ Poznámka: Nesprávné použití funkce může mít nepředvídatelné následky.</string>
     <string name="vr_camera_ae">Expozice</string>
     <string name="vr_camera_flash_on">Blesk zapnut</string>
     <string name="vr_camera_flash_off">Blesk vypnut</string>
@@ -1563,7 +1565,8 @@
     <string name="web_enter_url">zadejte adresu</string>
     <string name="web_copy_url">kopírovat odkaz</string>
     <string name="web_are_you_open">chcete otevřít?</string>
-    <string name="web_download_info">Typ: %s\nVelikost: %s</string>
+    <string name="web_download_info">Typ: %s
+Velikost: %s</string>
     <string name="web_direct_download">stáhnout</string>
     <string name="web_download_only_wifi">stahovat jen přes Wi-Fi</string>
     <string name="merge">sloučit</string>
@@ -1645,7 +1648,7 @@
     <string name="use_click_button_gesture_title">Provádět operace vlastních zkratek</string>
     <string name="export_all_file">Exportovat vše</string>
     <string name="share_all">Sdílet vše</string>
-    <string name="command_image_to_text">Rozpoznání obrázku</string>
+    <string name="command_image_to_text">Rozpoznat obrázek pod fokusem</string>
     <string name="incall_tts_setting_title">Nastavení hlasového výstupu pro čtení čísla volajícího</string>
     <string name="reader_tts_setting_title">Nastavení hlasového výstupu pro režim čtení</string>
     <string name="char_mode_tts_setting_title">Nastavení hlasového výstupu pro čtení po znacích</string>
@@ -1654,7 +1657,7 @@
     <string name="use_up_tap_prompt_title">Pro aktivaci položky zvednutím prstu indikovat zvukem časový limit</string>
     <string name="double_fling_time_title">Přizpůsobit dobu čekání na druhé gesto při provádění složených gest</string>
     <string name="jieshuo_beta_title">Stažení interních betaverzí</string>
-    <string name="picture_description">Popis obrázku</string>
+    <string name="picture_description">Popsat obrázek pod fokusem</string>
     <string name="auto_list_tts_setting_title">Nastavení hlasového výstupu pro automatické čtení zpráv</string>
     <string name="more_tts_setting_title">Pokročilá nastavení hlasového výstupu</string>
     <string name="ocr_lang_zh">Čínština a angličtina, smíšené</string>
@@ -1695,8 +1698,8 @@
     <string name="msg_import_all">Tato operace přepíše veškerá nastavení a všechny stažené zdroje</string>
     <string name="app_service2">Jieshuo helper service</string>
     <string name="app_no_supper_sound_package_title">V aplikacích, které nepoužívají super zvukové efekty, budou tyto dočasně zakázány.</string>
-    <string name="command_image_to_text2">Rozpoznání obrázku na celou obrazovku</string>
-    <string name="picture_description2">Popis obrázku na celou obrazovku</string>
+    <string name="command_image_to_text2">Rozpoznat obrázek celé obrazovky</string>
+    <string name="picture_description2">Popsat obrázek celé obrazovky</string>
     <string name="use_split_line_title">Zobrazovat čísla řádků v rámci podrobné úpravy textu</string>
     <string name="msg_use_single_tts_enabled">Bylo aktivováno použití jednoho hlasového výstupu</string>
     <string name="msg_disable_use_single_tts">Chcete-li využívat vlastní %s, vypněte aktivaci použití jednoho hlasového výstupu</string>
@@ -1710,7 +1713,7 @@
     <string name="msg_username_used">Toto uživatelské jméno již existuje</string>
     <string name="msg_network_error">Chyba sítě: zkuste se připojit k jiné nebo akci opakujte později</string>
     <string name="command_verification12">Ověření formou posuvníků</string>
-    <string name="command_recognition_edu">Test rozpoznání dokumentu</string>
+    <string name="command_recognition_edu">Rozpoznat dokument</string>
     <string name="use_input_method_speak_word_title">Ohlašovat vzorová slova vstupní metody</string>
     <string name="trans_lua_engine_title">Použít vlastní překladový engine</string>
     <string name="edit_trans_lua_title">Upravit vlastní překladový engine</string>
@@ -1729,26 +1732,30 @@
     <string name="msg_no_a11y_volume">Hlasitost usnadnění není použita</string>
     <string name="msg_a11y_volume_disabled">Hlasitost usnadnění je zakázána</string>
     <string name="msg_a11y_volume_enabled">Hlasitost usnadnění je povolena</string>
-    <string name="content_blacklist_description">Obsah přidaný na černou listinu nebude při procházení načten,
- Používá se k odfiltrování neužitečných nebo nesprávných informací o přístupnosti,
- Klíčová slova lze přidat s hvězdičkami pro implementaci jednoduchých vzorů shody.
- Klíčové slovo* označuje filtrování začínající klíčovým slovem
- *Filtr klíčových slov končící klíčovým slovem
- *Klíčová slova* Filtrujte všechna, která obsahují klíčová slova
- Žádná hvězdička není úplná shoda</string>
-    <string name="auto_speak_blacklist_description">Obsah přidaný na černou listinu nebude přečten nahlas.
- Používá se k filtrování obsahu, který nechcete číst nahlas v automatickém čtení.
- Klíčová slova lze přidat s hvězdičkami pro implementaci jednoduchých vzorů shody.
- Klíčové slovo* označuje filtrování začínající klíčovým slovem
- *Filtr klíčových slov končící klíčovým slovem
- *Klíčová slova* Filtrujte všechna, která obsahují klíčová slova
- Žádná hvězdička není úplná shoda</string>
+    <string name="content_blacklist_description">Obsah přidaný na černou listinu nebude při procházení načten, Používá se k odfiltrování neužitečných nebo nesprávných informací o přístupnosti, Klíčová slova lze přidat s hvězdičkami pro implementaci jednoduchých vzorů shody. Klíčové slovo* označuje filtrování začínající klíčovým slovem *Filtr klíčových slov končící klíčovým slovem *Klíčová slova* Filtrujte všechna, která obsahují klíčová slova Žádná hvězdička není úplná shoda</string>
+    <string name="auto_speak_blacklist_description">Obsah přidaný na černou listinu nebude přečten nahlas. Používá se k filtrování obsahu, který nechcete číst nahlas v automatickém čtení. Klíčová slova lze přidat s hvězdičkami pro implementaci jednoduchých vzorů shody. Klíčové slovo* označuje filtrování začínající klíčovým slovem *Filtr klíčových slov končící klíčovým slovem *Klíčová slova* Filtrujte všechna, která obsahují klíčová slova Žádná hvězdička není úplná shoda</string>
     <string name="notification_black_list_description">Oznámení přidaná na černou listinu nebudou přečtena nahlas, ale budou zaznamenána v oznamovací liště. Klíčové slovo podporuje shodu regulárních výrazů Pokud klíčové slovo obsahuje pouze hvězdičku, nebudou všechna upozornění programu přečtena nahlas.</string>
     <string name="notification_white_list_description">Oznámení přidaná na seznam povolených budou vždy přečtena, i když je čtení oznámení vypnuto. Klíčová slova podporují shodu regulárních výrazů. Pokud klíčové slovo obsahuje pouze hvězdičku, budou přečtena všechna oznámení programu.</string>
-    <string name="nodeinfo_long_clickable">可长按</string>
-    <string name="nodeinfo_not_long_click">不可长按</string>
-    <string name="nodeinfo_editable">可编辑</string>
-    <string name="nodeinfo_not_edit">不可编辑</string>
+    <string name="nodeinfo_long_clickable">Dlouze kliknutelné</string>
+    <string name="nodeinfo_not_long_click">Nelze dlouze kliknout</string>
+    <string name="nodeinfo_editable">Editovatelné</string>
+    <string name="nodeinfo_not_edit">Nelze editovat</string>
+    <string name="sound_scroll_page">Otáčení stránky</string>
+    <string name="use_auto_mode_move_list_view_item_title">Při automatickém procházení rychle přepínat mezi položkami seznamu</string>
+    <string name="helper_tts_setting_title">Nastavení hlasového výstupu pro hlasového asistenta</string>
+    <string name="node_tts_setting_title">Nastavení hlasového výstupu pro sledování fokusu</string>
+    <string name="voice_helper_use_big_title">Používat generativní model umělé inteligence</string>
+    <string name="chat_history">Historie konverzace</string>
+    <string name="command_recognition_icon">Rozpoznat ikonu</string>
+    <string name="command_long_hold">Kliknout a přidržet</string>
+    <string name="sound_progress">průběh</string>
+    <string name="sound_progress_100">Indikátor průběhu100</string>
+    <string name="sound_clear_notification">Vymazat všechna oznámení</string>
+    <string name="sound_talkman_start">Spuštění odečítače</string>
+    <string name="sound_talkman_stop">Vypnutí odečítače</string>
+    <string name="sound_camera">Závěrka fotoaparátu</string>
+    <string name="voice_picture_description">Hlasový dotaz na položku pod fokusem</string>
+    <string name="voice_picture_description2">Hlasový dotaz na celou obrazovku</string>
 
 
 </resources>

@@ -199,6 +199,12 @@
         <item>@string/command_end_call</item>
         <item>@string/command_pause_a11y_volume</item>
 
+        <item>@string/chat_history</item>
+        <item>@string/command_long_hold</item>
+        <item>@string/command_recognition_icon</item>
+        <item>@string/voice_picture_description</item>
+        <item>@string/voice_picture_description2</item>
+
         <!--item>极速浏览</item-->
 
     </string-array>
@@ -995,7 +1001,6 @@
         <item>21</item>
         <item>22</item>
         <item>23</item>
-        <item>24</item>
     </string-array>
     <string-array name="recognizer_lang_entries">
         <item>Chinese simplified</item>

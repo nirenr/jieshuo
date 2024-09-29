@@ -3,111 +3,80 @@
 
     <string-array name="help_items">
         <item>
-        Basic browsing operations:\n
-        By default, swiping up navigates to the previous item. Swiping down navigates to the next item.\n
-        However you can change this behavior in the action settings.</item>
+        Standard navigering med fokusmarkøren:\n
+        Et stryg op med en enkelt finger, flytter som standard fokusmarkøren til det forrige element. Et stryg ned med en enkelt finger, flytter som standard fokusmarkøren til det næste element.\n
+        Du kan ændre hvordan fokusmarkøren skal navigerer inde i Jieshuos grundlæggende indstillinger, eller ved at vælge din foretrukne navigeringsmetode ved at gå ind i bevægelse og navigering, bevægelseshåndtering, navigeringsmetode.</item>
         <item>
-Main Menu: \n
-        By default, use the down right swipe to open the menu, swipe right to expand more options.\n
-        You can display all menu items at once by customizing it in the settings.</item>
+Jieshuo menu: \n
+        Et stryg ned og så til højre med en enkelt finger, åbner som standard Jieshuo menuen. Når Jieshuo menuen er åbnet, vil der som standard være otte funktioner som du kan tilgå.   Det er muligt at udvide Jieshuo menuens  funktioner, flyt fokusmarkøren til mere, tryk to gange med en enkelt finger på det pågældende element, hvilket udvider Jieshuo menuen, i alt kan den udvides op til to gange, hvorved alle funktioner herefter vil blive vist.\n
+        Du kan selv tilpasse hvilke funktioner Jieshuo menuen skal vise, ved at gå ind i avancerede funktioner, Jieshuo menu og funktionsmenu.</item>
         <item>
-        voice assistant:\n
-        By default, the voice assistant is activated with the down left swipe gesture and the command is spoken after the sound. Tapping the screen will force the immediate recognition\n
-        The voice assistant can be customized in advanced settings, voice assistant settings, voice assistant capabilities settings.\n</item>
+        tale assistent:\n
+        Som standard aktiveres tale assistenten ved et stryg ned og så til venstre med en enkelt finger, en lyd vil blive afspillet som en Identifikation på at tale assistenten lytter, herefter kan du sige handlingen du ønsker udført. Et enkelt tryk på skærmen med en enkelt finger imens tale assistenten lytter, afbryder tale assistenten\n
+        Du kan tilpasse tale assistentens funktioner og muligheder ved at gå ind i avancerede funktioner, tale assistent og oversættelse.\n</item>
         <item>
-Actions menu: \n
-        By default, up right swipe opens the action menu, right swipe expands the menu and double tap activates the focused menu option.</item>
+Funktionsmenu: \n
+        Som standard åbnes funktionsmenuen ved et stryg op og så til højre med en enkelt finger. Du kan vælge og få vist forskellige elementer i funktionsmenuen, ved at gå ind i avancerede funktioner, jieshuo menu og funktionsmenu.</item>
         <item>
-        Extensions:\n
-        By default, the first and last left gestures are used to open the extension list, and then right-slide to open the voice command list, and double-click to execute the corresponding function.\n
-        You can find more plugins in the resource download.\n
-        Advanced settings, voice assistant settings, voice command settings, new, modified or downloaded </item>
+        Udvidelser:\n
+        Som standard åbnes udvidelsesvinduet ved et stryg op og så til venstre med en enkelt finger.\n
+        Du kan hente udvidelser ved at gå ind under hent indhold til Jieshuo, udvidelser.</item>
         <item>
-        Copy, append copy, clipboard and favorites:\n
-        These functions can be found in the operation menu.\n
-        Copy, copy the focus to the clipboard\n
-        Append copy to append the focus content to the last item of the clipboard,\n
-        Clipboard, record the most recently copied content, click to enter the edit box, long press to add content to favorites\n
-        Favorites, click to enter the edit box, long press to edit,\n
-        In advanced settings, resource management can delete or backup clipboard and favorites</item>
+        Kopier til udklipsholder, tilføj til udklipsholder, udklipsholder og opslagstavle:\n
+        Du finder de pågældende funktioner inde i funktionsmenuen.\n
+        Kopier til udklipsholder: kopierer det fokuserede element til  udklipsholderen.\n
+        Tilføj til udklipsholder: kopierer det fokuserede element efter det tidligere kopieret indhold i udklipsholderen.\n
+        Udklipsholder: Administrer kopieret indhold i udklipsholderen, står du placeret på et tekstfelt, kan du trykke to gange med en enkelt finger på et element, for at indsætte indholdet, foretag et langt tryk, for at tilføje indhold til din opslagstavle, redigere tekst, slette tekst, gemme tekst internt på din enhed, eller tilføj til notesblokken.\n
+        Opslagstavle: Tilgå opslagstavlen, for at se vigtig indhold du har tilføjet hertil, står du placeret på et tekstfelt, kan du trykke to gange med en enkelt finger på et element, for at indsætte indholdet, foretag et langt tryk, for at kopiere til udklipsholderen, redigere tekst, slette tekst, gemme tekst internt på din enhed, eller tilføj til notesblokken.\n
+        Du kan sikkerhedskopierer eller  slette alt indhold I udklipsholderen og opslagstavlen, ved at gå ind i avancerede funktioner, overførsler, administrer udklipsholderen</item>
         <item>
-        Long copy (premium users only):\n
-        Long copy can copy long list content.\n
-        After the long copy is activated in the operation menu, you need to wait for different time according to the length of the list. When the copy is completed, you will be prompted to complete the long copy.\n
-        During long copying, you can force abort by swiping any gesture.</item>
+        Listekopiering (kun tilgængelig i den fulde version):\n
+        Listekopiering kan kopiere indhold fra fokusmarkørens placering til det sidste element fokusmarkøren indrammer.\n
+        Efter listekopiering er startet, skal du vente til processen er fuldført, varigheden på en listekopiering varierer af mængden på det indhold der kopieres. Når processen er fuldført, vil du blive informeret omkring  antallet af linjer og elementer der er blevet kopieret til udklipsholderen.\n
+        Under en listekopiering kan du stoppe processen ved at stryge i hvilken som helst retning med en enkelt finger.</item>
         <item>
-        Full text selection (Premium users only):\n
-        Full-text selection is mainly suitable for copying some content from web pages or longer content.
-        The full text selection can split the content by word, sentence, and segment form, select the required content through the check box form, and finally copy,\n
-        In the content list, you can long press an item as the starting point, and then long press the end of the selection to quickly select multiple consecutive items.</item>
+        Fuld adgang til tekstmarkering (kun tilgængelig i den fulde version):\n
+        Tekstmarkering kan hjælpe med kopiering af indhold på eksempelvis en webside, eller et længere tekstafsnit.
+        Med tekstmarkerings funktionen kan du sorterer indholdet op i tegn, ord, linjer og sætninger, hvorefter du kan markere dele af teksten du ønsker og herefter kopierer den til udklipsholderen.\n
+        Når tekstmarkerings funktionen er åbnet, kan du udføre et langt tryk på et element for at sætte en startmarkering, udfør et langt tryk på det element hvor slutmarkeringen skal sættes, alle elementer imellem start og slutmarkeringen vil derved blive valgt.</item>
         <item>
-        Advanced editing (member function):\n
-        You can edit the focus content according to words, sentences, paragraphs or full text in the edit box or non-edit box to facilitate quick positioning and modification.\n
-        Click on the split edit list to edit it, long press to make the entry more detailed split.\n
-        Edit box can be clicked to enter the edit box, and the non-edit box can only be saved to the clipboard by copying.</item>
+        Tekstredigering (kun tilgængelig i den fulde version):\n
+        Du kan redigere tekst, alt fra tegn, ord, linjer, sætninger, eller hele teksten i tekstfelter eller tekst du læser.\n
+        Tryk to gange med en enkelt finger på et element for at redigere det,  udfør et langt tryk på et element for at få yderligere funktioner fremvist til det specifikke element.\n
+        Det er også muligt at gemme redigerede tekst internt på enheden. Tryk to gange med en enkelt finger på eksporter, navngiv teksten du gerne vil gemme, afslut nu processen ved at trykke to gange med en enkelt finger på ok.</item>
         <item>
-        List browsing:\n
-        Display all the focus as a list, click to activate the corresponding focus, especially suitable for use on web pages.</item>
+        Listopstilling:\n
+        Få vist hele skærmbilledet i en listevisning, tryk på et element du gerne vil aktivere, hvorefter handlingen omgående udføres. Når funktionen listeopstilling er tilgået, kan du søge efter specifikt indhold, vises ingen søgeresultater, kan du trykke på rulle knapperne, hvorved listeopstilling vil rulle ned eller op, indtil indhold med et matchende resultat vises. Listeopstilling er praktisk ved navigering på en webside, da det i visse situationer, gør indhold mere overskueligt.</item>
         <item>
-        Reading mode (member function):\n
-        You can read webpage articles opened by the browser, filter unwanted content, and turn pages automatically.</item>
+        Læsetilstand (kun tilgængelig i den fulde version):\n
+        Du kan læse websiders artikler I din browser, filtrer uønsket indhold fra, og få læst indhold automatisk op.</item>
         <item>
-        Virtual screen (member function):\n
-        The OCR recognizes the content on the screen, displays the result according to the text position, clicks the result text to activate the corresponding focus, long presses the word to split the focus, and clicks the word to activate the position of the corresponding word.\n
-        Android 7 or above double-click to activate, Android 6 below three times to activate.</item>
+        Jieshuo kamera (kun tilgængelig i den fulde version):\n
+        Funktionen Jieshuo kamera kan identificerer scener, tekst, ansigter, billeder, dyr, planter, frugt og grøntsager, valuta, eller hjælpe dig med kameravejledning. Jieshuo kamera kan kun bruges med enhedens bagerste kamera, et tryk på lydstyrke op-tasten påbegynder registreringsprocessen, et tryk på lydstyrke ned-tasten skifter imellem de forskellige registreringsfunktioner.</item>
         <item>
-        Text recognition (member function):\n
-        The content on the screen is recognized by the OCR, and the result is displayed in a list form, and the result list is clicked to activate the corresponding focus, the long press is followed by the word display result, and the single word is activated to activate the position of the corresponding word.\n
-        Clicking is not supported under Android 6 and only results can be viewed.</item>
+        Hurtignavigering igennem lister:\n
+        Jieshuos Bevægelsesgenveje er bevægelser der gør navigering igennem lister langt hurtigere, eksempelvis inde i Facebook, Telegram og YouTube. Bevægelsesgenveje springer overflødige elementer over, for at gøre navigeringen mere simpel, hvilket gør læsning af indhold mere behagelig. Brug den højre bevægelsesgenvej for at navigere i en liste, brug den venstre bevægelsesgenvej for at navigere tilbage i en liste. Du kan finde flere indstillinger til Jieshuos bevægelsesgenveje, ved at gå ind under bevægelse og navigering, bevægelseshåndtering, bevægelsesgenveje.</item>
         <item>
-        Captcha identification (member function):\n
-        Touch the verification code focus, use advanced menu, verification code identification, or voice assistant, verification code identification, can recognize English or digital verification code, and the recognition result is automatically copied to the clipboard.</item>
+        Systemdialoger der aldrig skal læses op og altid skal læses op:\n
+        Systemdialoger der aldrig skal læses op kan filtrere  systemdialoger indeholdende specifikt indhold.\n
+        Systemdialoger der altid skal læses op kan hjælpe med at læse systemdialoger indeholdende specifikt indhold.</item>
         <item>
-        Jieshuo camera (member function):\n
-        The camera can recognize text, scenes, animals, plants, or for camera guidance. The camera currently supports only the rear camera, using volume plus shooting, volume minus switching mode.</item>
+        Fokusmarkør systemdialoger der aldrig skal læses op:\n
+        Du kan filtrere fokusmarkørens indhold til det specifikke element, det bruges primært til at filtrere tilgængelighedsvejledninger fra.</item>
         <item>
-        Quickly navigate between list items:\n
-        In the operation settings, left and right shortcut gesture settings enable the left and right gestures to move quickly in the list, you can use the left or right gesture to quickly browse the message in the list of QQ messages, for example.</item>
+        Filtrer billeder på websider med manglende alternative billedbeskrivelser (kun tilgængelig i den fulde version):\n
+        Billeder der mangler en alternativ billedbeskrivelse på en webside, skal filtreres. Denne filtrering gør det nemmere og hurtigere at konstatere indholdet ikke indeholder en alternativ billedbeskrivelse, hvilket hjælper med unødvendig information omkring det aktuelle billede.</item>
         <item>
-        Notification black/whitelist:\n
-        The notification blacklist can filter out notifications containing the specified content, and input an asterisk to filter all notifications of the application.\n
-        The notification whitelist can allow reading of notifications containing the specified content, even if the notification has been closed, entering an asterisk indicates that all notifications for the program are allowed.\n
-        Keywords support regular expressions.</item>
+        Tilpas og hent bevægelsestemaer:\n
+        Du kan tilpasse indbyggede og udvidet funktioner til bevægelser.\n
+        Det er en mulighed at hente et nyt bevægelsestema, hvilket giver adgang til nye bevægelser. Du henter et nyt bevægelsestema, ved at gå ind i hent indhold til Jieshuo, bevægelsestema.\n
+        Efter bevægelsestemaet er blevet hentet, skal det vælges som dit bevægelsestema, før du kan bruge det. For at vælge et bevægelsestema, skal du gå ind i bevægelse og navigering, bevægelsestema.\n
+        Hvis du ønsker at oprette dit eget bevægelsestema, er det også en mulighed. For at oprette dit eget bevægelsestema, skal du gå ind i bevægelse og navigering, administrer bevægelsestemaer, opret nyt bevægelsestema. Efter et bevægelsestema er oprettet, kan du efterfølgende gå ind og tilpasse bevægelser efter dine egene preferencer. For at kunne tilpasse bevægelser i et specifikt bevægelsestema, skal du gå ind i bevægelse og navigering, tilpas bevægelsestema.</item>
         <item>
-        Content blacklist:\n
-        You can filter the focus content of the specified content, usually used to filter some non-standard accessibility instructions.\n
-        Regular expressions are not supported based on efficiency considerations.</item>
-        <item>
-        Web content filtering (member function):\n
-        Filters the useless image annotations on the page to filter out the lengthy and useless instructions on the page.\n
-        Stronger filtering can further filter out unnecessary non-essential content.</item>
-        <item>
-        Powerful mode (member function):\n
-        Powerful mode gives you more operational focus,\n
-        It is known to bring better experiences in software such as WeChat Sports, WeChat Friends Circle, Taobao Footprint, Huawei Router and so on.</item>
-        <item>
-        Virtual navigation (member function):\n
-        Virtual navigation can add the location of content that cannot be directly clicked to the navigation list.\n
-        Please add only the focus of the immutable position, click on the recognized focus input name in the recognition click to add,\n
-        Only supports Android 7 or above.</item>
-        <item>
-        Custom gestures:\n
-        You can customize any built-in or extended features as gestures.\n
-        Quickly change gestures by importing a gesture pack.\n
-        After the gesture is imported, it needs to be set in the operation, and the gesture scheme switching can take effect.\n
-        If you are not familiar with the operation suggestions in the common settings, customize the gesture to modify the gesture.</item>
-        <item>
-        Two-step gestures (member function):\n
-        A two-step gesture is an operation that quickly operates a second gesture after a traditional gesture operation is completed.\n
-        It can be turned on or customized in the action settings, two-step gestures,\n
-        After the two-step gesture is turned on, there is a half-second delay after the first gesture operation is completed, waiting for the second step.\n
-        Don\'t set gestures that require efficiency, such as moving focus gestures, using two-step gestures.</item>
-        <item>
-        Record voice commands:\n
-        Start the voice assistant to say the recording command, say the program to be opened in turn or click the key of the focus to realize the rapid voice command production. When all the instructions are finished, say to end the recording, after the prompt to enter the name of the command, say the name of the command, and finally say determine.\n
-        If there is an unrecognized instruction during the recording process, you can re-speak it.
-        Recorded commands can be changed in Advanced Settings, Voice Assistant Settings, Voice Command Settings.</item>
-
+        Flerparts-bevægelser (kun tilgængelig i den fulde version):\n
+        En flerparts-bevægelse er en bevægelse der skal udføres indenfor en bestemt tidsperiode, efter en anden bevægelse er udført.\n
+        Flerparts-bevægelser kan slåes til ved at du går ind i bevægelse og navigering, bevægelseshåndtering.\n
+        Efter flerparts-bevægelser er slået til, har du som standard et halvt sekund til at udføre flerparts-bevægelsen du ønsker, denne tidsperiode kan du ændrer ved at gå ind i bevægelse og navigering, bevægelseshåndtering, varighed for flerparts-bevægelse. Du kan vælge hvilke handlinger der skal udføres til en specifik flerpartsbevægelse, ved at gå ind i bevægelse og navigering, bevægelseshåndtering, flerparts-bevægelser.</item>
     </string-array>
 
     <string-array name="code_help_items">
@@ -618,131 +587,83 @@ Actions menu: \n
 
     <string-array name="gesture_help_items">
         <item>
-        Gesture operation essentials:\n
-        Single gestures should be straight, and movements should be fast\n
-        The first part of the combined gesture should be longer than half the length of the screen, and the second part can be oriented as long as it is right.</item>
+        Standardbevægelser:\n
+        Bevægelser med en enkelt finger skal udføres lige og bevægelsen skal foregå i et almindeligt tempo.\n
+        Bevægelser med en enkelt finger bruges f.eks. til at flytte fokusmarkøren, og benytte bevægelsesgenveje. Vær opmærksom på, at denne hjælpebeskrivelse forholder sig til at invertering af bevægelser ikke er valgt.</item>
         <item>
-        Combination gesture:\n
-        First up, down, last focus\n
-        First down, first, first focus\n
-        First left and right task switching\n
-        Right, then left, back\n
-        First up and then right operation menu\n
-        First right and then right function menu\n
-        First, then left, extension\n
-        First, then left, voice assistant\n
-        First left, then left, word by word\n
-        Right first, then upper, automatically read aloud\n
-        First left and then open the notification bar\n
-        First right, then bottom, browse the list\n
-        Up twice click to browse\n
-        Twice swipe down
+        En enkelt finger frem og tilbage:\n
+        Stryg op og så ned med en enkelt finger: flyt fokusmarkøren til det første element i skærmbilledet.\n
+        Stryg ned og så op med en enkelt finger: flyt fokusmarkøren til det sidste element i skærmbilledet.\n
+        Stryg til venstre og så højre med en enkelt finger: seneste apps.\n
+        Stryg til højre og så venstre med en enkelt finger: gå tilbage til det forrige skærmbillede.\n
+        Stryg op og så til højre med en enkelt finger: funktionsmenu.\n
+        Stryg ned og så til højre med en enkelt finger: Jieshuo menu.\n
+        Stryg op og så til venstre med en enkelt finger: udvidelser.\n
+        Stryg ned og så til venstre med en enkelt finger: tale assistent.\n
+        Stryg til venstre og så ned med en enkelt finger: tekstnavigeringsmarkør.\n
+        Stryg til venstre og så op med en enkelt finger: notifikationscenter.\n
+        Stryg til højre og så op med en enkelt finger: læs fra det næste element.\n
+        Stryg til højre og så ned med en enkelt finger: listeopstilling.\n
         </item>
         <item>
-        Click on the browse mode gesture:\n
-        Click to switch focus\n
-        Browse up mode\n
-        Browse down mode
+        Almindelig navigering med fokusmarkøren:\n
+        Stryg ned med en enkelt finger: flyt fokusmarkøren til det næste element.\n
+        Stryg op med en enkelt finger: flyt fokusmarkøren til det forrige element.
         </item>
         <item>
-        Focus browsing mode gestures:\n
-        Up one focus\n
-        Down next focus
+        Justering af en skyders værdi:\n
+		Stryg til venstre  med en enkelt finger: sænk skyderens værdi.\n
+        Stryg til højre med en enkelt finger: forøg skyderens værdi.
         </item>
         <item>
-        QQ WeChat call\n
-        Reject with left swipe\n
-        Answer with right swipe
+        Tekstfelter:\n
+        Stryg til højre med en enkelt finger: flyt tekstmarkøren fremad tegn for tegn.\n
+        Stryg til venstre med en enkelt finger: flyt tekstmarkøren tilbage tegn for tegn.
         </item>
         <item>
-        Phone QQ WeChat call\n
-        Hang up left\n
-        Answer right
+        Bevægelser  med Tekstnavigeringsmarkøren:\n
+        Stryg ned med en enkelt finger: flyt tekstnavigeringsmarkøren fremad en linje af gangen.\n
+        Stryg op med en enkelt finger: flyt tekstnavigeringsmarkøren tilbage en linje af gangen.\n
+        Stryg til højre med en enkelt finger: naviger fremad tegn for tegn.\n
+        Stryg til venstre med en enkelt finger: naviger tilbage tegn for tegn.\n
+        Stryg til højre og så ned med en enkelt finger: flyt en sætning fremad af gangen.\n
+        Stryg til venstre og så op med en enkelt finger: Går en sætning tilbage af gangen.\n
+        Stryg op og så til højre med en enkelt finger: tilgå markeringsmarkøren.\n
+        Stryg til venstre og så ned med en enkelt finger: luk tekstnavigeringsmarkøren og vend tilbage til skærmfokusmarkøren..
         </item>
         <item>
-        List\n
-        Page up to the left\n
-        Flip right to the bottom
+        Bevægelser når markeringsmarkøren er aktiv: \n
+        Tryk en gang med en enkelt finger: læs valgt tekst op.\n
+        Stryg op med en enkelt finger: markerer en linje frem af gangen.\n
+        Stryg ned med en enkelt finger: markerer en linje tilbage af gangen.\n
+        Stryg til højre med en enkelt finger: markerer et tegn frem af gangen.\n
+        Stryg til venstre med en enkelt finger: markerer et tegn tilbage af gangen.\n
+        Stryg til venstre og så ned med en enkelt finger: markerer en sætning frem af gangen.\n
+        Stryg til højre og så op med en enkelt finger: markerer en sætning af gangen.\n
+        Stryg op og så til højre med en enkelt finger: luk markeringsmarkøren og vend tilbage til tekstnavigeringsmarkøren.\n
+        Stryg ned og så til højre med en enkelt finger: kopier markeret tekst til udklipsholder.\n
+        Stryg op og så til venstre med en enkelt finger: tilføj markeret indhold til udklipsholder.\n
+        Stryg til højre og så op med en enkelt finger: kopier alt tekst til udklipsholderen.
         </item>
         <item>
-        Dialog\n
-        Cancel left\n
-        OK right
-        </item>
-        <item>
-        Progress slider\n
-		Swipe left to decrease slider\n
-        Swipe right to increase slider
-        </item>
-        <item>
-        Edit box\n
-        Move the cursor forward\n
-        Move the cursor backward
-        </item>
-        <item>
-        Word-by-word browse mode gestures:\n
-        Click to explain the current character\n
-        Up one line up\n
-        Down one line\n
-        Left previous character\n
-        Right next character\n
-        First left, last, last paragraph\n
-        First right, then next, next paragraph\n
-        First, then right, select text\n
-        Left first, then left, exit literally
-        </item>
-        <item>
-        Text selection gestures: \n
-        Single tap: read the current character.\n
-        Up swipe: Go to the previous line.\n
-        Down swipe: Go to the next line.\n
-        Left swipe: Go to the previous character.\n
-        Right swipe: Go to the next character.\n
-        Left up swipe: Go to the previous paragraph.\n
-        Right up swipe: Go to the next paragraph.\n
-        Up right swipe: Deselect all.\n
-        Down right swipe: Copy selection.\n
-        Up left swipe: Append copy.\n
-        Right down swipe: copy the whole text.
-        </item>
-        <item>
-        Node browsing mode gestures
-        Up swipe: go to the previous node.\n
-        Down swipe: Go to the next node.\n
-        Left swipe: go to the parent node.\n
-        Right swipe: Go to the child node.\n
-        Down left swipe: exit the node.
-        </item>
-        <item>
-        Voice assistant manual: \n
-        Open AppName: Opens the given app
-        Send Content: allows direct sending to QQ and Wechat
-        Search for content: performs the online search for the given phrase
-        Voice assistant is extensible thanks to the editing menus and plugins.
+        Tale assistent: \n
+        Åbn + navn på specifik app: åbn specifik app du ønsker.
+        Sig send + tekst du gerne vil sende: sender hvad du har sagt inde i dine beskedapps, eksempelvis beskeder, Messenger og WhatsApp.
+        Sig søg efter + hvad du gerne vil søge efter: udfør en online søgning efter det indhold du beder om.
+        Tale assistenten kan udvides med funktioner, ved at du går ind i avancerede funktioner, tale assistent og oversættelse, tale assistent funktioner. Tale assistenten kan også tilgå og bruge dine udvidelser og Tilføjelsesprogrammer.
         </item>
     </string-array>
     <string-array name="voice_helper_help_items">
-        <item>Open the given program: Open application name</item>
-        <item>Install the given program: install Application Name</item>
-        <item>Uninstall the given program: uninstall Application Name</item>
-        <item>Read Everything: Read the whole screen</item>
-        <item>Read aloud: read aloud and follow the cursor</item>
-        <item>Current Brightness: read the environment\'s brightness.</item>
-        <item>Click: activate the focused element.</item>
-        <item>Activate specified item: activate item with the specified name</item>
-        <item>Copy currently focused item: Copy the currently focused item to the clipboard</item>
-        <item>Translate: Translate the currently focused text.</item>
-        <item>Translate LanguageName: Translate the currently focused text to a given language</item>
-        <item>Select: Selects the given text</item>
-        <item>Send a message in the qq WeChat chat window: Hello send</item>
-        <item>ENter Text: Enters the spoken text in the text box</item>
-        <item>Long Input: Long dictation mode</item>
-        <item>Check weather: checks the weather</item>
-        <item>Check the ticket: checks the train tickets.</item>
-        <item>Tell the recipe: check the recipe for a given food.</item>
-        <item>Tell a joke: tells a random joke</item>
-        <item>Copy the response: copies the response of a given command.</item>
-        <item>There are more features waiting for being discovered.</item>
+        <item>Åbn app: åbn specifik app du beder tale assistenten om at åbne for dig.</item>
+        <item>Sig installer + den app du gerne vil hente: åbner den givende app i play butik, hvorefter den kan installeres.</item>
+        <item>Sig afinstallere + programmet der skal afinstalleres: kommandoen vil afinstallerer et givende program på din enhed.</item>
+        <item>Sig læs hele skærmen op: læser hele skærmbilledet op.</item>
+        <item>Sig læs fra det næste element: læser fra det næste element.</item>
+        <item>Registrer tændt lys: informerer dine nuværende omgivelsers lysniveau.</item>
+        <item>Tryk: aktiverer det fokuserede element.</item>
+        <item>Sig aktiver + navn på element: aktivere et specifikt element du beder tale assistenten om.</item>
+        <item>Sig kopier til udklipsholder: kopierer det fokuserede element til udklipsholderen.</item>
+        <item>Sig oversæt: kommandoen vil oversætte det fokuserede element, efterfølgende kan du tilgå  resultatet i udklipsholderen.</item>
 
     </string-array>
 

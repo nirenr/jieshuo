@@ -1718,97 +1718,165 @@
     <string name="use_click_button_gesture_title">Realizar operaciones de acceso directo personalizadas</string>
     <string name="export_all_file">exportar todo el archivo</string>
     <string name="share_all">Compartir todo</string>
-    <string name="command_image_to_text">Describe la imágeh</string>
+    <string name="command_image_to_text">Describe la imágen</string>
     <string name="incall_tts_setting_title">Ajuste de voz del número de llamada entrante</string>
     <string name="reader_tts_setting_title">Ajuste de voz en modo lectura</string>
     <string name="char_mode_tts_setting_title">Explorar configuración de voz del modo palabra por palabra en modo lectura</string>
     <string name="auto_read_tts_setting_title">Ajustes de voz en la navegación automática</string>
     <string name="notification_tts_setting_title">Ajustes de voz para las notificaciones</string>
-    <string name="use_up_tap_prompt_title">抬手激活超时提示</string>
-    <string name="double_fling_time_title">两部手势等待时长</string>
-    <string name="jieshuo_beta_title">内测下载</string>
-    <string name="picture_description">图像理解</string>
-    <string name="auto_list_tts_setting_title">自动朗读消息语音设置</string>
-    <string name="more_tts_setting_title">更多语音库设置</string>
-    <string name="ocr_lang_zh">中英混合</string>
-    <string name="ocr_lang_zh_rare">中文生僻字、繁体字</string>
-    <string name="ocr_lang_auto">自动</string>
-    <string name="ocr_lang_mix">混合语种</string>
-    <string name="ocr_lang_jap">日语</string>
-    <string name="ocr_lang_kor">韩语</string>
-    <string name="ocr_lang_spa">西班牙语</string>
-    <string name="ocr_lang_fre">法语</string>
-    <string name="ocr_lang_ger">德语</string>
-    <string name="ocr_lang_por">葡萄牙语</string>
-    <string name="ocr_lang_vie">越语</string>
-    <string name="ocr_lang_may">马来语</string>
-    <string name="ocr_lang_rus">俄语</string>
-    <string name="ocr_lang_ita">意大利语</string>
-    <string name="ocr_lang_hol">荷兰语</string>
-    <string name="ocr_lang_swe">瑞典语</string>
-    <string name="ocr_lang_fin">芬兰语</string>
-    <string name="ocr_lang_dan">丹麦语</string>
-    <string name="ocr_lang_nor">挪威语</string>
-    <string name="ocr_lang_hun">匈牙利语</string>
-    <string name="ocr_lang_tha">泰语</string>
-    <string name="ocr_lang_hi">印地语</string>
-    <string name="ocr_lang_ara">阿拉伯语</string>
-    <string name="use_virtual_screen_dim_background_title">虚拟屏幕使用黑色背景</string>
-    <string name="edit_ocr_lua_title">编辑自定义扩展ocr引擎</string>
-    <string name="ocr_lua_template">require \"import\"\nimport \"com.nirenr.talkman.ai.*\"\n--例子代码是帮助理解代码的伪代码，不能直接运行\nbs,listener=...--获取参数\ntask(function(bs)\n  function 识别函数(bs)\n    --虚拟构成识别结果\n    return {\n      length=2,\n      {\n        t=\"例子代码是帮助理解代码的伪代码\",\n        x=0,\n        y=300,\n        w=1000,\n        h=100,\n        s=50\n      },\n      {\n        t=\"不能直接运行\",\n        x=0,\n        y=600,\n        w=800,\n        h=100,\n        s=50\n      }\n    }\n  end\n\n  local ret=识别函数(bs)\n  local rets=OcrResult.OcrItem[ret.length]--构建返回值数组\n  for n=1,ret.length do\n    --注意java与lua数组开始索引不同\n    rets[n-1]=OcrResult.OcrItem(\n    ret[n].t,--文字内容\n    ret[n].x,--文字x坐标，距离屏幕左侧距离\n    ret[n].y,--文字y坐标，距离屏幕顶部距离\n    ret[n].w,--文字区域宽度\n    ret[n].h,--文字区域高度\n    ret[n].s--文字高度\n    )\n  end\n  return OcrResult(rets)--返回结果到主线程\nend,\nbs,--将图片的byte数组传入线程\nfunction(rets)\n  listener.onDone(rets)--在回调函数调用onDone通知读屏识别完成\nend)</string>
+    <string name="use_up_tap_prompt_title">Tiempo de espera en levantar la mano para activar</string>
+    <string name="double_fling_time_title">Tiempo de espera para el doble gesto</string>
+    <string name="jieshuo_beta_title">Descarga de la versión Beta</string>
+    <string name="picture_description">Descripción de imágenes</string>
+    <string name="auto_list_tts_setting_title">Ajuste para la lectura automática de los mensajes de voz</string>
+    <string name="more_tts_setting_title">Más ajustes</string>
+    <string name="ocr_lang_zh">Intercambiar de chino a inglés</string>
+    <string name="ocr_lang_zh_rare">Caracteres raros y tradicionales chinos</string>
+    <string name="ocr_lang_auto">Automático</string>
+    <string name="ocr_lang_mix">Intercambio de idiomas</string>
+    <string name="ocr_lang_jap">Japonés</string>
+    <string name="ocr_lang_kor">Coreano</string>
+    <string name="ocr_lang_spa">Español</string>
+    <string name="ocr_lang_fre">Francés </string>
+    <string name="ocr_lang_ger">Alemán</string>
+    <string name="ocr_lang_por">Portugués</string>
+    <string name="ocr_lang_vie">Vietnamita</string>
+    <string name="ocr_lang_may">Malayo</string>
+    <string name="ocr_lang_rus">Ruso</string>
+    <string name="ocr_lang_ita">Italiano</string>
+    <string name="ocr_lang_hol">Holandés</string>
+    <string name="ocr_lang_swe">Sueco</string>
+    <string name="ocr_lang_fin">Finés</string>
+    <string name="ocr_lang_dan">Danés</string>
+    <string name="ocr_lang_nor">Noruego</string>
+    <string name="ocr_lang_hun">Húngaro</string>
+    <string name="ocr_lang_tha">Tailandés</string>
+    <string name="ocr_lang_hi">Hindi</string>
+    <string name="ocr_lang_ara">Árabe</string>
+    <string name="use_virtual_screen_dim_background_title">Uso de fondo negro en pantalla virtual</string>
+    <string name="edit_ocr_lua_title">editar complemento personalizado del motor OCR</string>
+    <string name="ocr_lua_template">require "import"
+import "com.nirenr.talkman.ai.*"
+-- El código de ejemplo es seudocódigo para ayudar a entender el código, no se puede ejecutar directamente
+bs,listener=...-- Obtener parámetros
+task(function(bs)
+ function función_reconocimiento(bs)
+ -- Simular el resultado del reconocimiento
+ return {
+ length=2,
+ {
+  {
+ t="El código de ejemplo es seudocódigo para ayudar a entender el código",
+ x=0,
+ y=300,
+ w=1000,
+ h=100,
+ s=50
+ },
+ {
+ t="No se puede ejecutar directamente",
+ x=0,
+ y=600,
+ w=800,
+ h=100,
+ s=50
+ }
+ }
+ end
+
+ local ret=función_reconocimiento(bs)
+ local rets=OcrResult.OcrItem[ret.length]-- Construir matriz de valores de retorno
+ for n=1,ret.length do
+ -- Tener en cuenta que los índices de matriz en Java y Lua comienzan en diferentes números
+ rets[n-1]=OcrResult.OcrItem(
+ ret[n].t,-- Contenido del texto
+ ret[n].x,-- Coordenada x del texto, distancia desde el borde izquierdo de la pantalla
+ ret[n].y,-- Coordenada y del texto, distancia desde la parte superior de la pantalla
+ ret[n].w,-- Ancho del área del texto
+ ret[n].h,-- Altura del área del texto
+ ret[n].s-- Altura del texto
+ )
+ end
+ return OcrResult(rets)-- Devolver el resultado al hilo principal
+end,
+bs,-- Pasar la matriz de bytes de la imagen al hilo
+function(rets)
+ listener.onDone(rets)-- Llamar a la función de devolución de llamada onDone para notificar que el reconocimiento de pantalla ha finalizado
+end)
+</string>
     <string name="accessibility_service_description2">解说辅助服务和主服务功能完全相同，主要用于部分会检测读屏服务名的场景，两个服务不需要同时开启。</string>
-    <string name="resume_on_screen_on_title">当屏幕打开时恢复反馈</string>
-    <string name="resume_on_notification_show_title">当下拉显示通知栏时恢复反馈</string>
-    <string name="resume_on_ringing_title">当来电时恢复反馈</string>
-    <string name="helper_supper_cmd_title">超级语音指令</string>
-    <string name="back_break_auto_mode_title">返回手势打断自动浏览</string>
-    <string name="msg_export_all_file">将备份所有设置和文件到 %s 文件，发送到新手机可以全部导入，文件包含你的所有数据，请不要分享给其他人以免隐私泄露</string>
-    <string name="msg_export_all_file_fail">备份失败请重试</string>
-    <string name="import_all_title">导入解说完整备份吗</string>
-    <string name="msg_import_all">此操作会覆盖你的解说全部设置和资源</string>
+    <string name="resume_on_screen_on_title">Reanudar Jieshuo al encender la pantalla</string>
+    <string name="resume_on_notification_show_title">Reanudar Jieshuo desde la barra de notificaciones</string>
+    <string name="resume_on_ringing_title">Reanudar Jieshuo al recibir una llamada</string>
+    <string name="helper_supper_cmd_title">Súper comando de voz</string>
+    <string name="back_break_auto_mode_title">Retroceder para interrumpir la navegación automática</string>
+    <string name="msg_export_all_file">Hacer una copia de seguridad de todos los ajustes y archivos en el archivo %s. Puedes importarlo en un nuevo teléfono para restaurar todos tus datos. Por favor, no lo compartas con otras personas para evitar la divulgación de información privada.
+</string>
+    <string name="msg_export_all_file_fail">error al hacer la copia de seguridad. por favor, inténtalo de nuevo.</string>
+    <string name="import_all_title">¿Importar copia de seguridad completa de Jieshuo?</string>
+    <string name="msg_import_all">Esta operación sobre escribirá los ajustes y recursos de yeshuo</string>
     <string name="app_service2">Jieshuo helper service</string>
-    <string name="app_no_supper_sound_package_title">不使用超级音效的应用(在选中的应用中超级音效会暂时屏蔽)</string>
+    <string name="app_no_supper_sound_package_title">Aplicación sin super efectos de sonido (los super efectos de sonido  se desactivarán temporalmente en la aplicación seleccionada)
+</string>
     <string name="command_image_to_text2">图片描述全屏</string>
-    <string name="picture_description2">图像理解全屏</string>
-    <string name="use_split_line_title">拆分编辑显示行号</string>
-    <string name="msg_use_single_tts_enabled">已开启使用单一语音库</string>
-    <string name="msg_disable_use_single_tts">关闭使用单一语音库功能才能使用自定义 %s</string>
-    <string name="command_auto_list_speak">自动朗读消息</string>
-    <string name="command_auto_list_speak_history">自动朗读消息记录</string>
-    <string name="msg_start_auto_list">开始自动朗读%s消息</string>
-    <string name="msg_stop_auto_list">停止自动朗读%s消息</string>
-    <string name="msg_username_typo">用户名或密码格式错误</string>
-    <string name="msg_username_error">用户名或密码错误</string>
-    <string name="msg_invite_code_error">邀请码不正确</string>
-    <string name="msg_username_used">用户名已经被占用</string>
-    <string name="msg_network_error">网络链接出错，请更换网络或稍后重试</string>
-    <string name="command_verification12">滑块验证</string>
-    <string name="command_recognition_edu">试卷识别</string>
-    <string name="use_input_method_speak_word_title">读出输入法按键的例词</string>
-    <string name="trans_lua_engine_title">使用自定义翻译引擎</string>
-    <string name="edit_trans_lua_title">编辑自定义翻译引擎</string>
+    <string name="picture_description2">Descripción de la imagen a pantalla completa</string>
+    <string name="use_split_line_title">La edición dividida muestra los números de línea</string>
+    <string name="msg_use_single_tts_enabled">Se ha habilitado el uso para una sola síntesis de voz</string>
+    <string name="msg_disable_use_single_tts">Desactivar la función para usar una sola síntesis de voz %s personalizado</string>
+    <string name="command_auto_list_speak">Leer mensajes en voz alta</string>
+    <string name="command_auto_list_speak_history">Leer historial de mensajes en voz alta</string>
+    <string name="msg_start_auto_list">Comenzar a leer los mensajes automáticamente de %s</string>
+    <string name="msg_stop_auto_list">Detener la lectura automática de los mensajes d%s</string>
+    <string name="msg_username_typo">Formato de nombre de usuario o contraseña incorrecto</string>
+    <string name="msg_username_error">Nombre de usuario o contraseña incorrectos</string>
+    <string name="msg_invite_code_error">Código de invitación incorrecto</string>
+    <string name="msg_username_used">El nombre de usuario ya está en uso</string>
+    <string name="msg_network_error">Error de conexión de red, cambie de red o intente lo más tarde</string>
+    <string name="command_verification12">Verificar control deslizante</string>
+    <string name="command_recognition_edu">Reconocer papel de examen</string>
+    <string name="use_input_method_speak_word_title">Leer la fonética de la letra al escribir en el teclado</string>
+    <string name="trans_lua_engine_title">Utilizar motor de traducción personalizado</string>
+    <string name="edit_trans_lua_title">Editar motor de traducción personalizado</string>
     <string name="trans_lua_template"><![CDATA[" require \"import\" \n import \"java.util.Locale\"\n local form,to,text,ltr=...\n local url=string.format(\"https://translate.google.com/m?sl=%s&tl=%s&hl=%s&q=%s\",from,to,Locale.getDefault().getCountry(),text)\n Http.get(url,function(code,text)\n   ltr.onTransResult(text:match(\"<[^<>]*\\\"result%-container\\\">([^<>]*)</div>\"))\n   end)"]]></string>
-    <string name="match_all">完整匹配</string>
-    <string name="match_start">匹配开头</string>
-    <string name="match_end">匹配结尾</string>
-    <string name="match_contains">包含匹配</string>
-    <string name="today">今天</string>
-    <string name="yesterday">昨天</string>
-    <string name="before_yesterday">前天</string>
-    <string name="command_accept_call">接听电话</string>
-    <string name="command_end_call">挂断电话</string>
-    <string name="command_pause_a11y_volume">暂停无障碍音量</string>
-    <string name="msg_supper_cmd_only_voice_helper">超级语音指令只能在语音助手中调用</string>
-    <string name="msg_no_a11y_volume">没有使用无障碍音量</string>
-    <string name="msg_a11y_volume_disabled">无障碍音量已停用</string>
-    <string name="msg_a11y_volume_enabled">无障碍音量已启用</string>
-    <string name="content_blacklist_description">添加到黑名单的内容将在浏览时不会获取内容，\n用于过滤无用或错误的辅助功能信息，\n关键字可以添加星号实现简单匹配模式，\n关键字* 表示以关键字开头的过滤\n*关键字 以关键字结尾的过滤\n*关键字* 包含关键字的都过滤\n没有星号是完整匹配</string>
-    <string name="auto_speak_blacklist_description">添加到黑名单的内容将不会朗读，\n用于过滤在自动朗读中不想朗读的内容，\n关键字可以添加星号实现简单匹配模式，\n关键字* 表示以关键字开头的过滤\n*关键字 以关键字结尾的过滤\n*关键字* 包含关键字的都过滤\n没有星号是完整匹配</string>
-    <string name="notification_black_list_description">添加到黑名单的通知将不会朗读，但是会记录在通知盒子，关键字支持正则表达式匹配，如果关键字仅包含一个星号则该程序的通知全部不朗读</string>
-    <string name="notification_white_list_description">添加到白名单的通知将始终朗读，即使已经关闭通知朗读，关键字支持正则表达式匹配，如果关键字仅包含一个星号则该程序的通知全部朗读</string>
+    <string name="match_all">Coincidencia completa</string>
+    <string name="match_start">Coincidencia al principio</string>
+    <string name="match_end">Coincidencia al final</string>
+    <string name="match_contains">Contiene coincidencias</string>
+    <string name="today">Hoy</string>
+    <string name="yesterday">Ayer</string>
+    <string name="before_yesterday">Anteayer</string>
+    <string name="command_accept_call">Aceptar llamada</string>
+    <string name="command_end_call">Finalizar llamada</string>
+    <string name="command_pause_a11y_volume">Pausar volumen de accesibilidad</string>
+    <string name="msg_supper_cmd_only_voice_helper">Los Súper comandos de voz solo se pueden usar con el asistente</string>
+    <string name="msg_no_a11y_volume">No se está utilizando el volumen de accesibilidad</string>
+    <string name="msg_a11y_volume_disabled">Se ha desactivado el volumen de accesibilidad</string>
+    <string name="msg_a11y_volume_enabled">Se ha activado el volumen de accesibilidad</string>
+    <string name="content_blacklist_description">No se accederá al contenido agregado a la lista negra durante la navegación y se utiliza para filtrar información de accesibilidad inútil o incorrecta. Las palabras clave se pueden agregar con asteriscos para implementar patrones de coincidencia simples. La palabra clave * representa el filtrado * de palabras clave que comienzan con palabras clave. Filtros que terminan con un La palabra clave *palabra clave* incluye palabras clave y se filtra sin asterisco, lo que constituye una coincidencia exacta.</string>
+    <string name="auto_speak_blacklist_description">El contenido agregado a la lista negra no se leerá en voz alta. Se utiliza para filtrar contenido que no desea leer en voz alta en la lectura automática. Las palabras clave se pueden agregar con un asterisco para implementar un modo de coincidencia simple. Palabra clave * significa filtrar comenzando con palabras clave . *Las palabras clave comienzan con palabras clave. La *palabra clave* filtrante al final se filtra si contiene la palabra clave y no hay asterisco, es una coincidencia exacta.</string>
+    <string name="notification_black_list_description">las notificacionesAgregadas a la lista negra   no se leerán, pero se registrarán en el cuadro de notificaciones. Las palabras clave admiten coincidencia con expresiones regulares. Si la palabra clave contiene solo un asterisco, todas las notificaciones de esa aplicación no serán leídas.</string>
+    <string name="notification_white_list_description">las notificaciones agregadas a la lista blanca   siempre se leerán, incluso si la lectura de notificaciones está desactivada. Las palabras clave admiten coincidencia con expresiones regulares. Si la palabra clave contiene solo un asterisco, todas las notificaciones de esa aplicación serán leídas.
+ 
+</string>
     <string name="nodeinfo_long_clickable">可长按</string>
     <string name="nodeinfo_not_long_click">不可长按</string>
     <string name="nodeinfo_editable">可编辑</string>
     <string name="nodeinfo_not_edit">不可编辑</string>
+    <string name="sound_scroll_page">翻页</string>
+    <string name="use_auto_mode_move_list_view_item_title">在自动浏览中使用列表项目间快速移动</string>
+    <string name="helper_tts_setting_title">语音助手语音设置</string>
+    <string name="node_tts_setting_title">焦点监控语音设置</string>
+    <string name="voice_helper_use_big_title">使用生成式大模式</string>
+    <string name="chat_history">对话记录</string>
+    <string name="command_recognition_icon">图标识别</string>
+    <string name="command_long_hold">点击按住</string>
+    <string name="sound_progress">进度</string>
+    <string name="sound_progress_100">进度100</string>
+    <string name="sound_clear_notification">清除全部通知</string>
+    <string name="sound_talkman_start">解说启动</string>
+    <string name="sound_talkman_stop">解说停止</string>
+    <string name="sound_camera">相机快门</string>
+    <string name="voice_picture_description">语音询问</string>
+    <string name="voice_picture_description2">语音询问全屏</string>
 
 </resources>

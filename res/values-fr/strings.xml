@@ -33,7 +33,7 @@
         Le commentaire est votre lecteur d’écran flexible, configurable à l’infini!
     </string>
     <string name="about_title">Hebei Biyou Technology Co., Ltd: </string>
-    <string name="help_feed_summary">jieshuo utilise certaines technologies tierces: Tencent AI, Baidu AI, Baidu TTS, Baidu Translator, Baidu MTS, Andro LUA Plus, ETC, google translate.</string>
+    <string name="help_feed_summary">jieshuo utilise certaines technologies tierces: Tencent AI, Baidu AI, Baidu TTS, Baidu Translator, Baidu MTS, Andro LUA Plus, google translate.</string>
     <string name="menu_title">Menu</string>
     <string name="tts_speed_title">Vitesse: </string>
     <string name="tts_speed_summary">Taux de parole TTS</string>
@@ -153,7 +153,7 @@
     <string name="message_out_dim_screen">Rideau désactivée</string>
     <string name="message_only_android5_last">Seulement Android 5 et supérieur sont pris en charge!</string>
     <string name="notification_box">Boîte de notifications</string>
-    <string name="clear">Effacer toutes les notifications</string>
+    <string name="clear">vider la liste</string>
     <string name="message_disabled_up_tap">L\'activation par levée du doigt est désactivée</string>
     <string name="message_enabled_up_tap">L\'activation par levée de doigt est activée</string>
     <string name="message_no_found_edit_text">Zone de texte introuvable</string>
@@ -1291,7 +1291,7 @@
     <string name="nodeinfo_content_description">Description de l\'accessibilité: </string>
     <string name="nodeinfo_state_description">Description de l\'état:</string>
     <string name="nodeinfo_resource_name">resource name: </string>
-    <string name="nodeinfo_indoex">indoex:</string>
+    <string name="nodeinfo_indoex">index:</string>
     <string name="nodeinfo_bounds_in_screen">Emplacement: </string>
     <string name="nodeinfo_parent">racine: </string>
     <string name="nodeinfo_childs">Sous noeud: </string>
@@ -1542,7 +1542,7 @@
     <string name="sound_feedback_paused">suspension de parole: </string>
     <string name="sound_feedback_resume">reprise de parole: </string>
     <string name="sound_auto_ocr_start">Reconnaissance  automatique de O C R: </string>
-    <string name="sound_camera_screenshot">Prendre une photo, ou Capture d\'écran: </string>
+    <string name="sound_camera_screenshot">Capture d\'écran:</string>
     <string name="stream_type_ring">Sonnerie: </string>
     <string name="stream_type_music">Média: </string>
     <string name="stream_type_alarm">Alarme: </string>
@@ -1765,9 +1765,25 @@ Si vous souhaitez bloquer la lecture de toutes les notifications pour une applic
     <string name="notification_white_list_description">Les notifications ajoutées à la liste blanche seront toujours prononcées, Même si la lecture des notifications est désactivée.
 La correzpondance supporte les expressions régulières.
 Si vous souhaitez lire toutes les notifications d\'une application spécifique, ajoutez un astérisque sans ajouter d\'autre contenu, ou  cliquez sur Tout.</string>
-    <string name="nodeinfo_long_clickable">可长按</string>
-    <string name="nodeinfo_not_long_click">不可长按</string>
-    <string name="nodeinfo_editable">可编辑</string>
-    <string name="nodeinfo_not_edit">不可编辑</string>
+    <string name="nodeinfo_long_clickable">Élément cliquable longuement</string>
+    <string name="nodeinfo_not_long_click">élément non cliquable longuement</string>
+    <string name="nodeinfo_editable">Éditable</string>
+    <string name="nodeinfo_not_edit">Non éditable</string>
+    <string name="sound_scroll_page">Défilement  des pages:</string>
+    <string name="use_auto_mode_move_list_view_item_title">Se déplacer rapidement entre les éléments de la liste Lors de la Navigation automatique:</string>
+    <string name="helper_tts_setting_title">personnaliser la synthèse vocale pour l\'assistant vocal</string>
+    <string name="node_tts_setting_title">personnaliser la synthèse vocale pour   la surveillance du focus</string>
+    <string name="voice_helper_use_big_title">Traitement des commandes vocales par AI lorsque celles-ci ne correspondent pas aux commandes intégrées ou personnalisées:</string>
+    <string name="chat_history">historique des chats</string>
+    <string name="command_recognition_icon">Reconnaissance d\'icônes</string>
+    <string name="command_long_hold">pression prolongée et maintenue</string>
+    <string name="sound_progress">progression:</string>
+    <string name="sound_progress_100">Progression terminée:</string>
+    <string name="sound_clear_notification">Effacer toutes les notifications:</string>
+    <string name="sound_talkman_start">Activation Jieshuo:</string>
+    <string name="sound_talkman_stop">Désactivation Jieshuo:</string>
+    <string name="sound_camera">Prendre une photo:</string>
+    <string name="voice_picture_description">interroger vocalement sur le contenu de focus actuel</string>
+    <string name="voice_picture_description2">interroger vocalement sur le contenu de l\'écran actuel</string>
 
 </resources>

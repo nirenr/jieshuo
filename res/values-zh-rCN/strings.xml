@@ -1584,7 +1584,7 @@
     <string name="sound_feedback_paused">暂停反馈</string>
     <string name="sound_feedback_resume">恢复反馈</string>
     <string name="sound_auto_ocr_start">自动OCR识别</string>
-    <string name="sound_camera_screenshot">相机与截图</string>
+    <string name="sound_camera_screenshot">截图</string>
     <string name="stream_type_ring">铃声</string>
     <string name="stream_type_music">媒体</string>
     <string name="stream_type_alarm">闹钟</string>
@@ -1671,14 +1671,14 @@
     <string name="default_gesture_type_title">默认手势风格</string>
     <string name="default_gesture_type_def_up_down">上/下切换焦点，左/右快捷手势</string>
     <string name="default_gesture_type_web_up_down">仅在网页使用按类型浏览(左/右切换类型，上/下切换项目)</string>
-    <string name="default_gesture_type_web_up_down_new">仅在网页使用按类型浏览(先上后下/先下上后切换类型，左/右切换项目，上/下切换焦点)</string>
+    <string name="default_gesture_type_web_up_down_new">仅在网页使用按类型浏览(先上后下/先下后上切换类型，左/右切换项目，上/下切换焦点)</string>
     <string name="default_gesture_type_view_up_down">在所有视图使用按类型浏览(左/右切换类型，上/下切换项目)</string>
-    <string name="default_gesture_type_view_up_down_new">在所有视图使用按类型浏览(先上后下/先下上后切换类型，左/右切换项目，上/下切换焦点)</string>
+    <string name="default_gesture_type_view_up_down_new">在所有视图使用按类型浏览(先上后下/先下后上切换类型，左/右切换项目，上/下切换焦点)</string>
     <string name="default_gesture_type_def_left_right">左/右切换焦点，上/下快捷手势</string>
     <string name="default_gesture_type_web_left_right">仅在网页使用按类型浏览(上/下切换类型，左/右切换项目)</string>
-    <string name="default_gesture_type_web_left_right_new">仅在网页使用按类型浏览(先上后下/先下上后切换类型，上/下切换项目，左/右切换焦点)</string>
+    <string name="default_gesture_type_web_left_right_new">仅在网页使用按类型浏览(先上后下/先下后上切换类型，上/下切换项目，左/右切换焦点)</string>
     <string name="default_gesture_type_view_left_right">在所有视图使用按类型浏览(上/下切换类型，左/右切换项目)</string>
-    <string name="default_gesture_type_view_left_right_new">在所有视图使用按类型浏览(先上后下/先下上后切换类型，上/下切换项目，左/右切换焦点)</string>
+    <string name="default_gesture_type_view_left_right_new">在所有视图使用按类型浏览(先上后下/先下后上切换类型，上/下切换项目，左/右切换焦点)</string>
     <string name="use_speak_state_title">先读出焦点状态</string>
     <string name="alarm_hours_title">报时的时间</string>
     <string name="notification_in_call_no_speak_title">通话时通知免打扰</string>
@@ -1788,5 +1788,21 @@
     <string name="nodeinfo_not_long_click">不可长按</string>
     <string name="nodeinfo_editable">可编辑</string>
     <string name="nodeinfo_not_edit">不可编辑</string>
+    <string name="sound_scroll_page">翻页</string>
+    <string name="use_auto_mode_move_list_view_item_title">在自动浏览中使用列表项目间快速移动</string>
+    <string name="helper_tts_setting_title">语音助手语音设置</string>
+    <string name="node_tts_setting_title">焦点监控语音设置</string>
+    <string name="voice_helper_use_big_title">使用生成式大模式</string>
+    <string name="chat_history">对话记录</string>
+    <string name="command_recognition_icon">图标识别</string>
+    <string name="command_long_hold">点击按住</string>
+    <string name="sound_progress">进度</string>
+    <string name="sound_progress_100">进度100</string>
+    <string name="sound_clear_notification">清除全部通知</string>
+    <string name="sound_talkman_start">解说启动</string>
+    <string name="sound_talkman_stop">解说停止</string>
+    <string name="sound_camera">相机快门</string>
+    <string name="voice_picture_description">语音询问</string>
+    <string name="voice_picture_description2">语音询问全屏</string>
 
 </resources>

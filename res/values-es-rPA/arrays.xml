@@ -490,15 +490,15 @@
         <item>Zulú</item>
         <item>Javanés</item>
 
-        <item>奥利亚语</item>
-        <item>弗里西语</item>
-        <item>哈萨克语</item>
-        <item>海地克里奥尔语</item>
-        <item>马尔加什语</item>
-        <item>蒙古语</item>
-        <item>塞索托语</item>
-        <item>维吾尔语</item>
-        <item>乌兹别克语</item>
+        <item>Odia</item>
+        <item>Frisón</item>
+        <item>kazajo</item>
+        <item>criollo haitiano</item>
+        <item>madagascarí</item>
+        <item>mongol</item>
+        <item>sesoto</item>
+        <item>uigur</item>
+        <item>uzbeko</item>
 
     </string-array>
     <string-array name="lang_values">
@@ -722,8 +722,8 @@
         <item>unisound</item>
     </string-array>
     <string-array name="tts_engine_entries">
-        <item>System TTS</item>
-        <item>Yunzhisheng TTS</item>
+        <item>TTS del sistema</item>
+        <item>Yunzhisheng (Unisound) TTS</item>
     </string-array>
     <string-array name="tts_engine_vip_values">
         <item>system</item>
@@ -731,9 +731,9 @@
         <item>unisound</item>
     </string-array>
     <string-array name="tts_engine_vip_entries">
-        <item>System TTS</item>
-        <item>Xunfei TTS</item>
-        <item>Yunzhisheng TTS</item>
+        <item>TTS del sistema</item>
+        <item>Xunfei (iflytek) TTS</item>
+        <item>Yunzhisheng (Unisound) TTS</item>
     </string-array>
     <string-array name="alarm_interval_values">
         <item>5</item>
@@ -895,5 +895,6 @@
         <item>Ventana</item>
 
     </string-array>
+
 
 </resources>

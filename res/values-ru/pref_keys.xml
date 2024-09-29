@@ -532,6 +532,8 @@
     <string name="use_input_method_speak_word">use_input_method_speak_word</string>
     <string name="trans_lua_engine">trans_lua_engine</string>
     <string name="edit_trans_lua">edit_trans_lua</string>
+    <string name="use_auto_mode_move_list_view_item">use_auto_mode_move_list_view_item</string>
+    <string name="voice_helper_use_big">voice_helper_use_big</string>
 
 
 </resources>

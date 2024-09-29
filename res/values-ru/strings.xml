@@ -412,7 +412,7 @@
     <string name="more_setting">Дополнительные функции</string>
     <string name="kayword">Введите ключевое слово</string>
     <string name="notification_black_list_summary">Уведомления, содержащиеся в черном списке, не будут озвучиваться.</string>
-    <string name="notification_while_list_summary">Уведомления, содержащиеся в белом списке, будут всегда озвучиваться.</string>
+    <string name="notification_white_list_summary">Уведомления, содержащиеся в белом списке, всегда будут озвучиваться.</string>
     <string name="system_tts_volume_title">Громкость системного синтезатора речи.</string>
     <string name="notification_select_title">Настройки чтения уведомлений</string>
 
@@ -1786,8 +1786,28 @@
     <string name="msg_a11y_volume_disabled">Громкость специальных возможностей отключена</string>
     <string name="msg_a11y_volume_enabled">Громкость специальных возможностей включена</string>
     <string name="content_blacklist_description">Содержимое, добавленное в чёрный список, не будет доступна при навигации. Используется для фильтрации бесполезной или неверной информации о специальных возможностях. Ключевые слова можно добавлять со звёздочкой для реализации простых шаблонов совпадения. *Ключевое слово указывает на фильтрацию, начинающуюся с ключевого слово.*Ключевое слово указывает на фильтрацию, оканчивающиеся ключевым словом.*Ключевое слово* фильтрует всё, содержащее ключевое слово. Без звёздочки указывает на полное совпадение.</string>
-    <string name="auto_speak_blacklist_description">Содержимое, добавленное в черный список, не будет озвучиваться. Используется для фильтрации содержимого при автоматическом чтении. Ключевые слова можно добавлять со звёздочкой для реализации простых шаблонов совпадение. *Ключевое слово указывает на фильтрацию, начинающуюся с ключевого слово. Кключевое слово* указывает  фильтрацию, оканчивающиеся ключевым словом. *Ключевое слово* фильтрует всё, содержащее ключевые слова. Без звёздочки является полным совпадением.</string>
+    <string name="auto_speak_blacklist_description">Содержимое, добавленное в черный список, не будет озвучиваться. Используется для фильтрации содержимого при автоматическом чтении. Ключевые слова можно добавлять со звёздочкой для реализации простых шаблонов совпадение. *Ключевое слово указывает на фильтрацию, начинающуюся с ключевого слово. Кключевое слово* указывает фильтрацию, оканчивающиеся ключевым словом. *Ключевое слово* фильтрует всё, содержащее ключевые слова. Без звёздочки является полным совпадением.</string>
     <string name="notification_black_list_description">Уведомления, добавленные в черный список, не будут озвучиваться, но будут записаны в окно уведомлений. Ключевые слова поддерживают соответствие регулярным выражениям. Если ключевое слово содержит только звездочку, все уведомления приложение не будут озвучиваться.</string>
     <string name="notification_white_list_description">Уведомления, добавленные в белый список, всегда будут озвучиваться, даже если озвучивание уведомлений отключено. Ключевые слова поддерживают соответствие регулярным выражением, если ключевые слова содержат только одну звездочку, все уведомления приложение будут озвучиваться..</string>
+    <string name="nodeinfo_long_clickable">Возможно длительно нажать</string>
+    <string name="nodeinfo_not_long_click">Невозможно длительно нажать</string>
+    <string name="nodeinfo_editable">Возможно отредактировать</string>
+    <string name="nodeinfo_not_edit">Невозможно отредактировать</string>
+    <string name="sound_scroll_page">翻页</string>
+    <string name="use_auto_mode_move_list_view_item_title">在自动浏览中使用列表项目间快速移动</string>
+    <string name="helper_tts_setting_title">语音助手语音设置</string>
+    <string name="node_tts_setting_title">焦点监控语音设置</string>
+    <string name="voice_helper_use_big_title">使用生成式大模式</string>
+    <string name="chat_history">对话记录</string>
+    <string name="command_recognition_icon">图标识别</string>
+    <string name="command_long_hold">点击按住</string>
+    <string name="sound_progress">进度</string>
+    <string name="sound_progress_100">进度100</string>
+    <string name="sound_clear_notification">清除全部通知</string>
+    <string name="sound_talkman_start">解说启动</string>
+    <string name="sound_talkman_stop">解说停止</string>
+    <string name="sound_camera">相机快门</string>
+    <string name="voice_picture_description">语音询问</string>
+    <string name="voice_picture_description2">语音询问全屏</string>
 
 </resources>

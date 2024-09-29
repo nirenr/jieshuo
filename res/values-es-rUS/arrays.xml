@@ -45,7 +45,6 @@
         <item>21</item>
         <item>22</item>
         <item>23</item>
-        <item>24</item>
     </string-array>
     <string-array name="alarm_interval_entries">
         <item>Cada 5 minutos</item>
@@ -1047,4 +1046,5 @@
         <item>Traducción y reconocimiento de texto</item>
         <item>Ventanas</item>
     </string-array>
+
 </resources>
