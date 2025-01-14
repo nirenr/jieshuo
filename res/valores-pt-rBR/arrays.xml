@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="execute_command">
+        <item>@string/command_nothing</item>
+        <item>@string/directory_plugins</item>
+        <item>@string/directory_cmd</item>
+        <item>@string/directory_tools</item>
+        <item>@string/app</item>
+        <item>@string/select_granularity_mode</item>
+        <item>@string/to_previous_granularity</item>
+        <item>@string/to_next_granularity</item>
+        <item>@string/to_previous_granularity_item</item>
+        <item>@string/to_next_granularity_item</item>
+
+        <item>@string/command_auto_trans</item>
+        <item>@string/command_recognition_caption</item>
+        <item>@string/add_node_changed_list</item>
+        <item>@string/node_changed_list_manager</item>
+
+        <item>@string/command_raw_tap</item>
+        <item>@string/command_to_previous_focus</item>
+        <item>@string/command_to_next_focus</item>
+        <item>@string/command_start</item>
+        <item>@string/command_end</item>
+        <item>@string/command_left_shortcut</item>
+        <item>@string/command_right_shortcut</item>
+        <item>@string/command_to_previous_scroll</item>
+        <item>@string/command_to_next_scroll</item>
+        <item>@string/command_to_previous_progress</item>
+        <item>@string/command_to_next_progress</item>
+        <item>@string/command_to_previous_section</item>
+        <item>@string/command_to_next_section</item>
+        <item>@string/command_to_previous_link</item>
+        <item>@string/command_to_next_link</item>
+        <item>@string/command_to_previous_control</item>
+        <item>@string/command_to_next_control</item>
+        <item>@string/command_lower_volume</item>
+        <item>@string/command_raise_volume</item>
+        <item>@string/command_now_time</item>
+        <item>@string/command_timer_mode</item>
+        <item>@string/command_current_location</item>
+        <item>@string/command_virtual_screen</item>
+        <item>@string/command_verification</item>
+        <item>@string/command_gesture_help</item>
+        <item>@string/command_trans</item>
+        <item>@string/command_enable_dim_screen</item>
+        <item>@string/clipboard_menu_title</item>
+        <item>@string/favorites_menu_title</item>
+        <item>@string/input_method</item>
+        <item>@string/command_paste</item>
+        <item>@string/command_copy</item>
+        <item>@string/command_long_copy</item>
+        <item>@string/command_append_copy</item>
+        <item>@string/command_clean</item>
+        <item>@string/command_notification_box</item>
+        <item>@string/command_up_tap</item>
+        <item>@string/command_supper_mode</item>
+        <item>@string/command_tap_mode</item>
+        <item>@string/command_node_mode</item>
+        <item>@string/command_to_recents</item>
+        <item>@string/command_to_home</item>
+        <item>@string/command_to_back</item>
+        <item>@string/command_click</item>
+        <item>@string/command_long_click</item>
+        <item>@string/command_long_edit</item>
+        <item>@string/advanced_menu_title</item>
+        <item>@string/quick_menu_title</item>
+        <item>@string/action_menu_title</item>
+        <item>@string/main_menu</item>
+        <item>@string/command_read_mode</item>
+        <item>@string/command_verbatim_speak2</item>
+        <item>@string/char_mode</item>
+        <item>@string/command_auto_next</item>
+        <item>@string/auto_previous</item>
+        <item>@string/split_menu_title</item>
+        <item>@string/split_edit_title</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/all_text_title</item>
+        <item>@string/command_all_select</item>
+        <item>@string/command_voice_helper</item>
+        <item>@string/command_voice_input</item>
+        <item>@string/plugin_title</item>
+        <item>@string/tool_title</item>
+        <item>@string/command_ocr_text</item>
+        <item>@string/command_ocr_focus</item>
+        <item>@string/camera_title</item>
+        <item>@string/main_setting</item>
+        <item>@string/command_disable_touch</item>
+        <item>@string/command_disable_feedback</item>
+        <item>@string/command_to_notifications</item>
+        <item>@string/command_gestures_edit</item>
+        <item>@string/command_virtual_navigation</item>
+        <item>@string/url_menu_title</item>
+        <item>@string/actions</item>
+
+        <item>@string/raw_click</item>
+        <item>@string/raw_long_click</item>
+        <item>@string/raw_swipe_left</item>
+        <item>@string/raw_swipe_right</item>
+        <item>@string/raw_swipe_up</item>
+        <item>@string/raw_swipe_down</item>
+        <item>@string/command_quick_settings</item>
+        <item>@string/command_take_screenshot</item>
+        <item>@string/command_off_screen2</item>
+        <item>@string/command_power_dialog</item>
+        <item>@string/command_raw_double_tap</item>
+        <item>@string/command_to_split_screen</item>
+        <item>@string/switch_multi_finger_gestures</item>
+
+        <item>@string/command_to_next_char</item>
+        <item>@string/command_to_previous_char</item>
+        <item>@string/command_to_next_word</item>
+        <item>@string/command_to_previous_word</item>
+        <item>@string/command_to_next_row</item>
+        <item>@string/command_to_previous_row</item>
+        <item>@string/command_to_next_paragraph</item>
+        <item>@string/command_to_previous_paragraph</item>
+        <item>@string/command_to_head_set_key</item>
+        <item>@string/edit_dict</item>
+        <item>@string/command_toggle_tts_engine</item>
+        <item>@string/command_speak_light</item>
+        <item>@string/command_add_content_blacklist</item>
+
+        <item>@string/command_media_previous</item>
+        <item>@string/command_media_next</item>
+        <item>@string/command_previous_window</item>
+        <item>@string/command_next_window</item>
+        <item>@string/command_set_tts_engine</item>
+        <item>@string/profiles_title</item>
+        <item>@string/use_ocr_title</item>
+        <item>@string/command_disable_hotkey</item>
+        <item>@string/command_speak_time</item>
+        <item>@string/command_speak_net</item>
+        <item>@string/command_false_touch_prevention</item>
+        <item>@string/command_disable_main_tts</item>
+        <item>@string/command_disable_async_tts</item>
+        <item>@string/command_start_log</item>
+        <item>@string/command_virtual_table</item>
+        <item>@string/command_incall_mode</item>
+        <item>@string/command_edit_node_name</item>
+        <item>@string/command_pasue_timer</item>
+        <item>@string/command_show_input_method_picker</item>
+        <item>@string/command_raise_scr_volume</item>
+        <item>@string/command_lower_scr_volume</item>
+        <item>@string/command_speed_to_fast</item>
+        <item>@string/command_speed_to_slow</item>
+        <item>@string/command_speak_all_notification</item>
+
+        </string-array>
+    <string-array name="right_menu_items">
+        <item>@string/command_click</item>
+        <item>@string/command_long_click</item>
+        <item>@string/command_start</item>
+        <item>@string/command_end</item>
+        <item>@string/command_copy</item>
+        <item>@string/command_append_copy</item>
+        <item>@string/command_paste</item>
+        <item>@string/clipboard_menu_title</item>
+        <item>@string/favorites_menu_title</item>
+        <item>@string/split_edit_title</item>
+        <item>@string/command_long_copy</item>
+        <item>@string/command_trans</item>
+        <item>@string/command_verification2</item>
+        <item>@string/command_timer_mode</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="left_menu_items">
+        <item>@string/command_auto_next</item>
+        <item>@string/command_read_mode</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/split_menu_title</item>
+        <item>@string/command_verbatim_speak2</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/command_all_select</item>
+        <item>@string/command_ocr_text</item>
+        <item>@string/plugin_title</item>
+        <item>@string/command_notification_box</item>
+        <item>@string/command_to_notifications</item>
+        <item>@string/command_long_edit</item>
+        <item>@string/command_gestures_edit</item>
+        <item>@string/command_virtual_screen</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="action_menu_items">
+        <item>@string/command_clean</item>
+        <item>@string/command_select</item>
+        <item>@string/command_copy</item>
+        <item>@string/command_append_copy</item>
+        <item>@string/command_paste</item>
+        <item>@string/clipboard_menu_title</item>
+        <item>@string/favorites_menu_title</item>
+        <item>@string/split_edit_title</item>
+        <item>@string/command_long_copy</item>
+    </string-array>
+    <string-array name="menu_def_items">
+        <item>@string/split_menu_title</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/command_voice_helper</item>
+        <item>@string/plugin_title</item>
+        <item>@string/main_setting</item>
+        <item>@string/command_disable_feedback</item>
+    </string-array>
+    <string-array name="menu_items">
+        <item>@string/action_menu_title</item>
+        <item>@string/advanced_menu_title</item>
+        <item>@string/command_auto_next</item>
+        <item>@string/command_read_mode</item>
+        <item>@string/list_mode_title</item>
+        <item>@string/command_node_mode</item>
+        <item>@string/split_menu_title</item>
+        <item>@string/command_verbatim_speak2</item>
+        <item>@string/command_all_speak</item>
+        <item>@string/all_text_title</item>
+        <item>@string/command_all_select</item>
+        <item>@string/command_voice_helper</item>
+        <item>@string/command_ocr_text</item>
+        <item>@string/camera_title</item>
+        <item>@string/plugin_title</item>
+        <item>@string/tool_title</item>
+        <item>@string/main_setting</item>
+        <item>@string/command_disable_touch</item>
+        <item>@string/command_disable_feedback</item>
+        <item>@string/command_notification_box</item>
+        <item>@string/command_to_notifications</item>
+        <item>@string/command_long_edit</item>
+        <item>@string/command_gestures_edit</item>
+        <item>@string/command_enable_dim_screen</item>
+        <item>@string/command_virtual_screen</item>
+        <item>@string/command_quick_mode</item>
+        <item>@string/command_supper_mode</item>
+        <item>@string/command_virtual_navigation</item>
+    </string-array>
+    <string-array name="left_button">
+        <item>Desligar</item>
+        <item>rejeitar</item>
+        <item>*Varra para rejeitar chamadas*</item>
+        <item>Finalizar chamada</item>
+        <item>Desligar chamada</item>
+        <item>Responder chamada</item>
+        <item>Finalizar chamada do QQ</item>
+        <item>Finalizar chamada QQ</item>
+        <item>Anterior</item>
+        <item>Faixa anterior</item>
+        <item>Navegar para cima</item>
+    </string-array>
+    <string-array name="right_button">
+        <item>Responder chamada</item>
+        <item>*Varra para aceitar a chamada*</item>
+        <item>Mãos-livres</item>
+        <item>Alto-falante</item>
+        <item>Vai para o próximo</item>
+        <item>Próxima faixa</item>
+    </string-array>
+
+    <string-array name="voice_recognizer_values">
+        <item>3</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="voice_recognizer_entries">
+        <item>System</item>
+        <item>Motor 1</item>
+        <item>Motor 2</item>
+        <item>Motor 3</item>
+    </string-array>
+    <string-array name="tts_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+        <item>64</item>
+        <item>65</item>
+        <item>66</item>
+        <item>67</item>
+        <item>68</item>
+        <item>69</item>
+        <item>70</item>
+        <item>71</item>
+        <item>72</item>
+        <item>73</item>
+        <item>74</item>
+        <item>75</item>
+        <item>76</item>
+        <item>77</item>
+        <item>78</item>
+        <item>79</item>
+        <item>80</item>
+        <item>81</item>
+        <item>82</item>
+        <item>83</item>
+        <item>84</item>
+        <item>85</item>
+        <item>86</item>
+        <item>87</item>
+        <item>88</item>
+        <item>89</item>
+        <item>90</item>
+        <item>91</item>
+        <item>92</item>
+        <item>93</item>
+        <item>94</item>
+        <item>95</item>
+        <item>96</item>
+        <item>97</item>
+        <item>98</item>
+        <item>99</item>
+        <item>100</item>
+    </string-array>
+    <!--string-array name="tts_speaker_title">
+        <item>Voz Feminina</item>
+        <item>Voz Masculina</item>
+        <item>Feliz</item>
+        <item>Doce</item>
+    </string-array>
+    <string-array name="tts_speaker">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array-->
+    <string-array name="vibrate_intensity_entries">
+        <item>Fraco</item>
+        <item>Médio</item>
+        <item>Forte</item>
+        <item>Muito forte</item>
+    </string-array>
+    <string-array name="vibrate_intensity_values">
+        <item>12</item>
+        <item>32</item>
+        <item>48</item>
+        <item>64</item>
+    </string-array>
+    <string-array name="long_click_entries">
+        <item>Curto</item>
+        <item>Médio</item>
+        <item>Longo</item>
+    </string-array>
+    <string-array name="long_click_values">
+        <item>500</item>
+        <item>750</item>
+        <item>1000</item>
+    </string-array>
+    <string-array name="edge_gesture_width_entries">
+        <item>Pequeno</item>
+        <item>Médio</item>
+        <item>Grande</item>
+        <item>Máximo</item>
+    </string-array>
+    <string-array name="edge_gesture_width_values">
+        <item>8</item>
+        <item>12</item>
+        <item>16</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="tts_speaker_entries">
+        <item>Xiaoyan</item>
+        <item>Xiaofeng</item>
+    </string-array>
+    <string-array name="tts_speaker_values">
+        <item>xiaoyan</item>
+        <item>xiaofeng</item>
+    </string-array>
+    <string-array name="advanced_menu_items">
+        <item>Tradução</item>
+        <item>Reconhecer cenas</item>
+        <item>Reconhecimento de Texto</item>
+        <item>Reconhecimento facial</item>
+        <item>Reconhecimento de CAPTCHA</item>
+        <item>Resultado do Reconhecimento</item>
+        <item>Descrição de imagem</item>
+    </string-array>
+    <string-array name="lang_entries">
+        <item>Automático</item>
+        <item>Coreano</item>
+        <item>Chinês Simplificado</item>
+        <item>Chinês Tradicional</item>
+        <item>holandês</item>
+        <item>Tailandês</item>
+        <item>Grego</item>
+        <item>Italiano</item>
+        <item>Esloveno</item>
+        <item>Japonês</item>
+        <item>Inglês</item>
+        <item>Árabe</item>
+        <item>Cantonês</item>
+        <item>Húngaro</item>
+        <item>Estoniano</item>
+        <item>Rumano</item>
+        <item>Chinês</item>
+        <item>Checo</item>
+        <item>Alemão</item>
+        <item>Francês</item>
+        <item>Filandês</item>
+        <item>Português</item>
+        <item>Dinamarquês</item>
+        <item>Russo</item>
+        <item>Búlgaro</item>
+        <item>Espanhol</item>
+        <item>Sueco</item>
+        <item>Polonês</item>
+        <item>Vietnamita</item>
+
+        <item>irlandês</item>
+        <item>occitano</item>
+        <item>albanês</item>
+        <item>Akan</item>
+        <item>aragonês</item>
+        <item>amárico</item>
+        <item>Assamês</item>
+        <item>Aymara</item>
+        <item>azerbaijano</item>
+        <item>asturiano</item>
+        <item>Yas da Ossétia</item>
+        <item>Ojibwa</item>
+        <item>Língua Oriya</item>
+        <item>Oromo</item>
+        <item>Persa</item>
+        <item>Bretanha</item>
+        <item>Bashkir</item>
+        <item>Basco</item>
+        <item>Português do Brasil</item>
+        <item>bielorrusso</item>
+        <item>Berbere</item>
+        <item>Pampanga</item>
+        <item>Sami do Norte</item>
+        <item>Norte Sotho</item>
+        <item>Linguagem Bemba</item>
+        <item>Bilin</item>
+        <item>Bislama</item>
+        <item>Baluchi</item>
+        <item>Islandês</item>
+        <item>Bósnio</item>
+        <item>Bhojpuri</item>
+        <item>Chuvash</item>
+        <item>Chongga</item>
+        <item>Tártaro</item>
+        <item>Língua Shan</item>
+        <item>Tétum</item>
+        <item>Dhivehi</item>
+        <item>Alemão baixo</item>
+        <item>Filipino</item>
+        <item>Sânscrito</item>
+        <item>Friulian</item>
+        <item>Fulani</item>
+        <item>Faroês</item>
+        <item>Gaélico</item>
+        <item>Congo</item>
+        <item>Sérvio das Terras Altas</item>
+        <item>Khmer</item>
+        <item>Groenlandês</item>
+        <item>Georgiano</item>
+        <item>Gujarati</item>
+        <item>Grego antigo</item>
+        <item>inglês antigo</item>
+        <item>Guarani</item>
+        <item>Hoopa</item>
+        <item>Hakkachin</item>
+        <item>Haitiano</item>
+        <item>Hausa</item>
+        <item>Montenegrino</item>
+        <item>Quirguistão</item>
+        <item>galego</item>
+        <item>Canadá Francês</item>
+        <item>Catalão</item>
+        <item>Cabyle</item>
+        <item>Canadá</item>
+        <item>Kanuri</item>
+        <item>Cassubiano</item>
+        <item>Corish</item>
+        <item>Xhosa</item>
+        <item>Córsega</item>
+        <item>Craque</item>
+        <item>Tártaro da Criméia</item>
+        <item>Klingon</item>
+        <item>Croata</item>
+        <item>quíchua</item>
+        <item>Caxemira</item>
+        <item>concani</item>
+        <item>Curdo</item>
+        <item>Latim</item>
+        <item>Laos</item>
+        <item>Latgalês</item>
+        <item>Letão</item>
+        <item>Limburguês</item>
+        <item>Lingala</item>
+        <item>Luganda</item>
+        <item>Luxemburguês</item>
+        <item>Russo</item>
+        <item>Ruanda</item>
+        <item>Lituano</item>
+        <item>Romanche</item>
+        <item>Romanos</item>
+        <item>Lógico</item>
+        <item>Malaio</item>
+        <item>birmanês</item>
+        <item>Marata</item>
+        <item>malgaxe</item>
+        <item>Malayalam</item>
+        <item>macedônio</item>
+        <item>Marechal</item>
+        <item>Idioma Maitili</item>
+        <item>Linguagem manx</item>
+        <item>Criolo Maurício</item>
+        <item>Maori</item>
+        <item>Bengali</item>
+        <item>Maltês</item>
+        <item>Linguagem Hmong</item>
+        <item>Norueguês</item>
+        <item>Napolitano</item>
+        <item>Sul de Ndebele</item>
+        <item>Africâner</item>
+        <item>Sul do Sul</item>
+        <item>Nepalês</item>
+        <item>Punjabi</item>
+        <item>Papiamento</item>
+        <item>Pashto</item>
+        <item>Chichewa</item>
+        <item>Twi language</item>
+        <item>Cherokee</item>
+        <item>Sardenha</item>
+        <item>Samoano</item>
+        <item>Servo-Croata</item>
+        <item>Sérvio</item>
+        <item>Songhai</item>
+        <item>Cingalês</item>
+        <item>Esperanto</item>
+        <item>Escrita em norueguês</item>
+        <item>Eslovaco</item>
+        <item>Suaíli</item>
+        <item>Somali</item>
+        <item>Sérvio (Cirílico)</item>
+        <item>Turco</item>
+        <item>Tajique</item>
+        <item>Tâmil</item>
+        <item>Tagálogo</item>
+        <item>Tigrinya</item>
+        <item>Télugo</item>
+        <item>árabe tunisiano</item>
+        <item>Língua turcomena</item>
+        <item>Ucraniano</item>
+        <item>Valão</item>
+        <item>Galês</item>
+        <item>Vinda</item>
+        <item>Wolof</item>
+        <item>Urdu</item>
+        <item>hebraico</item>
+        <item>Frísia Ocidental</item>
+        <item>Silésia</item>
+        <item>Hiligaynon</item>
+        <item>Baixo sérvio</item>
+        <item>Havaiano</item>
+        <item>Novo norueguês</item>
+        <item>Escritos da África Ocidental</item>
+        <item>Sindi</item>
+        <item>Shona</item>
+        <item>Cebuano</item>
+        <item>Síria</item>
+        <item>Sudanês</item>
+        <item>Híndi</item>
+        <item>Indonésio</item>
+        <item>iídiche</item>
+        <item>Internet</item>
+        <item>Aceh</item>
+        <item>Ingush</item>
+        <item>Ibo</item>
+        <item>Linguagem Edo</item>
+        <item>iorubá</item>
+        <item>armênio</item>
+        <item>Inuktitut</item>
+        <item>iraniano</item>
+        <item>zazaqi</item>
+        <item>wah francês médio</item>
+        <item>Zulu</item>
+        <item>javanês</item>
+    </string-array>
+    <string-array name="lang_values">
+        <item>auto</item>
+        <item>kor</item>
+        <item>wyw</item>
+        <item>cht</item>
+        <item>nl</item>
+        <item>th</item>
+        <item>el</item>
+        <item>it</item>
+        <item>slo</item>
+        <item>jp</item>
+        <item>en</item>
+        <item>ara</item>
+        <item>yue</item>
+        <item>hu</item>
+        <item>est</item>
+        <item>rom</item>
+        <item>zh</item>
+        <item>cs</item>
+        <item>de</item>
+        <item>fra</item>
+        <item>fin</item>
+        <item>pt</item>
+        <item>dan</item>
+        <item>ru</item>
+        <item>bul</item>
+        <item>spa</item>
+        <item>swe</item>
+        <item>pl</item>
+        <item>vie</item>
+
+        <item>gle</item>
+        <item>oci</item>
+        <item>alb</item>
+        <item>aka</item>
+        <item>arg</item>
+        <item>amh</item>
+        <item>asm</item>
+        <item>aym</item>
+        <item>aze</item>
+        <item>ast</item>
+        <item>oss</item>
+        <item>oji</item>
+        <item>ori</item>
+        <item>orm</item>
+        <item>per</item>
+        <item>bre</item>
+        <item>bak</item>
+        <item>baq</item>
+        <item>pot</item>
+        <item>bel</item>
+        <item>ber</item>
+        <item>pam</item>
+        <item>sme</item>
+        <item>ped</item>
+        <item>bem</item>
+        <item>bli</item>
+        <item>bis</item>
+        <item>bal</item>
+        <item>ice</item>
+        <item>bos</item>
+        <item>bho</item>
+        <item>chv</item>
+        <item>tso</item>
+        <item>tat</item>
+        <item>sha</item>
+        <item>tet</item>
+        <item>div</item>
+        <item>log</item>
+        <item>fil</item>
+        <item>san</item>
+        <item>fri</item>
+        <item>ful</item>
+        <item>fao</item>
+        <item>gla</item>
+        <item>kon</item>
+        <item>ups</item>
+        <item>hkm</item>
+        <item>kal</item>
+        <item>geo</item>
+        <item>guj</item>
+        <item>gra</item>
+        <item>eno</item>
+        <item>grn</item>
+        <item>hup</item>
+        <item>hak</item>
+        <item>ht</item>
+        <item>hau</item>
+        <item>mot</item>
+        <item>kir</item>
+        <item>glg</item>
+        <item>frn</item>
+        <item>cat</item>
+        <item>kab</item>
+        <item>kan</item>
+        <item>kau</item>
+        <item>kah</item>
+        <item>cor</item>
+        <item>xho</item>
+        <item>cos</item>
+        <item>cre</item>
+        <item>cri</item>
+        <item>kli</item>
+        <item>hrv</item>
+        <item>que</item>
+        <item>kas</item>
+        <item>kok</item>
+        <item>kur</item>
+        <item>lat</item>
+        <item>lao</item>
+        <item>lag</item>
+        <item>lav</item>
+        <item>lim</item>
+        <item>lin</item>
+        <item>lug</item>
+        <item>ltz</item>
+        <item>ruy</item>
+        <item>kin</item>
+        <item>lit</item>
+        <item>roh</item>
+        <item>ro</item>
+        <item>loj</item>
+        <item>may</item>
+        <item>bur</item>
+        <item>mar</item>
+        <item>mg</item>
+        <item>mal</item>
+        <item>mac</item>
+        <item>mah</item>
+        <item>mai</item>
+        <item>glv</item>
+        <item>mau</item>
+        <item>mao</item>
+        <item>ben</item>
+        <item>mlt</item>
+        <item>hmn</item>
+        <item>nor</item>
+        <item>nea</item>
+        <item>nbl</item>
+        <item>afr</item>
+        <item>sot</item>
+        <item>nep</item>
+        <item>pan</item>
+        <item>pap</item>
+        <item>pus</item>
+        <item>nya</item>
+        <item>twi</item>
+        <item>chr</item>
+        <item>srd</item>
+        <item>sm</item>
+        <item>sec</item>
+        <item>srp</item>
+        <item>sol</item>
+        <item>sin</item>
+        <item>epo</item>
+        <item>nob</item>
+        <item>sk</item>
+        <item>swa</item>
+        <item>som</item>
+        <item>src</item>
+        <item>tr</item>
+        <item>tgk</item>
+        <item>tam</item>
+        <item>tgl</item>
+        <item>tir</item>
+        <item>tel</item>
+        <item>tua</item>
+        <item>tuk</item>
+        <item>ukr</item>
+        <item>wln</item>
+        <item>wel</item>
+        <item>ven</item>
+        <item>wol</item>
+        <item>urd</item>
+        <item>heb</item>
+        <item>fry</item>
+        <item>sil</item>
+        <item>hil</item>
+        <item>los</item>
+        <item>haw</item>
+        <item>nno</item>
+        <item>nqo</item>
+        <item>snd</item>
+        <item>sna</item>
+        <item>ceb</item>
+        <item>syr</item>
+        <item>sun</item>
+        <item>hi</item>
+        <item>id</item>
+        <item>yid</item>
+        <item>ina</item>
+        <item>ach</item>
+        <item>ing</item>
+        <item>ibo</item>
+        <item>ido</item>
+        <item>yor</item>
+        <item>arm</item>
+        <item>iku</item>
+        <item>ir</item>
+        <item>zaz</item>
+        <item>frm</item>
+        <item>zul</item>
+        <item>jav</item>
+    </string-array>
+
+    <string-array name="tts_engine_values">
+        <item>system</item>
+        <item>unisound</item>
+    </string-array>
+    <string-array name="tts_engine_entries">
+        <item>Sintetizador do Sistema</item>
+        <item>Yunzhisheng TTS</item>
+    </string-array>
+    <string-array name="tts_engine_vip_values">
+        <item>system</item>
+        <item>iflytek</item>
+        <item>unisound</item>
+    </string-array>
+    <string-array name="tts_engine_vip_entries">
+        <item>Sintetizador do Sistema</item>
+        <item>Xunfei TTS</item>
+        <item>Yunzhisheng TTS</item>
+    </string-array>
+    <string-array name="alarm_interval_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="alarm_interval_entries">
+        <item>Cada 5 minutos</item>
+        <item>Cada 10 minutos</item>
+        <item>Cada 15 minutos</item>
+        <item>Cada 30 minutos</item>
+        <item>Cada 60 minutos</item>
+    </string-array>
+    <string-array name="timer_interval_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+    </string-array>
+    <string-array name="timer_interval_entries">
+        <item>1 minuto</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+    </string-array>
+    <string-array name="alarm_hour_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="recognizer_lang_entries">
+        <item>Chinês Simp</item>
+        <item>Chinês Trad</item>
+        <item>Português</item>
+     </string-array>
+    <string-array name="recognizer_lang_values">
+        <item>zh_CN</item>
+        <item>zh_GD</item>
+        <item>en_GB</item>
+    </string-array>
+    <string-array name="tts_scale_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="tts_scale_entries">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="web_type_title">
+        <item>Padrão</item>
+        <item>Cabeçalho</item>
+        <item>Link</item>
+        <item>Botão</item>
+
+        <item>ponto de referência</item>
+        <item>Caixa de edição</item>
+        <item>foco</item>
+        <item>Controles</item>
+        <item>imagem</item>
+        <item>Caixa de verificação</item>
+        <item>Caixa combinada</item>
+        <item>Formulário</item>
+        <item>Lista</item>
+        <item>Item de lista</item>
+
+        <item>Mudança de página</item>
+        <item>Visualizar</item>
+
+        <item>Caractere</item>
+        <item>Palavra</item>
+        <item>Linha</item>
+        <item>Parágrafo</item>
+        <item>Página</item>
+        <item>Copiar / Adicionar</item>
+        <item>volume</item>
+        <item>Velocidade de fala</item>
+        <item>Traduzir</item>
+        <item>Janela</item>
+    </string-array>
+
+    <string-array name="hot_key_help_items" >
+        <item>CTRL+DPAD_UP: Foca o último item</item>
+        <item>CTRL+DPAD_DOWN: Foca o próximo item</item>
+        <item>CTRL+DPAD_LEFT: Aciona o atalho esquerdo</item>
+        <item>CTRL+DPAD_RIGHT: Aciona o atalho direito</item>
+        <item>CTRL+PAGE_UP: Rola para cima</item>
+        <item>CTRL+PAGE_DOWN: Rola para baixo</item>
+        <item>CTRL+H: Vai para a Home</item>
+        <item>CTRL+N: Vai para a barra de notificações</item>
+        <item>CTRL+P: Abre a lista de recentes</item>
+        <item>CTRL+SPACE: Clica em um item</item>
+        <item>CTRL+L: Mantêm pressionado</item>
+        <item>CTRL+Q: Abre a configuração rápida</item>
+
+        <item>ALT+M: Abre o menu principal</item>
+        <item>ALT+A: Abre o menu ações</item>
+        <item>ALT+P: Abre o menu de Extensões</item>
+        <item>ALT+T: Abre o menu de Ferramentas e plugins</item>
+        <item>ALT+V: Abre o Assistente de Voz</item>
+        <item>ALT+S: Abre o menu de Edição</item>
+        <item>ALT+L: Navega por listas</item>
+
+    </string-array>
+      <string-array name="view_type_title" >
+        <item>padrão</item>
+        <item>texto</item>
+        <item>Botão</item>
+        <item>Caixa de edição</item>
+
+        <item>imagem</item>
+        <item>Caixa de verificação</item>
+        <item>Barra de progresso</item>
+        <item>Lista</item>
+        <item>Item de lista</item>
+        <item>Focável</item>
+        <item>Clicável</item>
+        <item>Nó </item>
+        <item>Barra de rolagem</item>
+        <item>Mover verticalmente</item>
+
+        <item>Caractere</item>
+        <item>Palavra</item>
+        <item>Linha</item>
+        <item>Parágrafo</item>
+        <item>Página </item>
+        <item>copiar / adicionar</item>
+        <item>volume</item>
+        <item>Velocidade de fala</item>
+        <item>Traduzir</item>
+        <item>Janela</item>
+
+    </string-array>
+
+
+
+</resources>

@@ -924,7 +924,7 @@
     <string name="msg_enabled_raw_tap">Modo Apontador iniciado, toque diretamente na tela e aguarde 1 segundo para que o item focado seja ativado</string>
     <string name="msg_disabled_raw_tap">Modo apontador finalizado</string>
     <string name="system_tts_scale_summary">Esta funcionalidade está em teste, ela acelera o mecanismo de voz do sistema, porém, poderá não funcionar com todos os mecanismos de voz</string>
-    <string name="send_email_title">Email jieshuo@ciata.ong.br</string>
+    <string name="send_email_title">E-mail suporte@ciata.org.br</string>
 
     <string name="voice_helper_use_blot_title">Usar Robô</string>
     <string name="message_recognition_empty">Não entendi o que você falou</string>
@@ -1682,7 +1682,7 @@
     <string name="find_previous">Localizar anterior</string>
 
     <string name="command_media_fast_forward">Avançar</string>
-    <string name="command_media_rewind">Voltar</string>
+    <string name="command_media_rewind">Retroceder</string>
     <string name="command_selection_mode">Modo de seleção</string>
     <string name="timer_format_title">Configurar o formato da hora</string>
     <string name="timer_format_def">Padrão do sistema</string>
@@ -1881,22 +1881,22 @@ Não compartilhe este arquivo com ninguém,  para evitar o vazamento de informa�
     <string name="nodeinfo_not_long_click">Não é possível efetuar toque longo</string>
     <string name="nodeinfo_editable">Editável</string>
     <string name="nodeinfo_not_edit">Não editável</string>
-    <string name="sound_scroll_page">翻页</string>
-    <string name="use_auto_mode_move_list_view_item_title">在自动浏览中使用列表项目间快速移动</string>
-    <string name="helper_tts_setting_title">语音助手语音设置</string>
-    <string name="node_tts_setting_title">焦点监控语音设置</string>
-    <string name="voice_helper_use_big_title">使用生成式大模式</string>
-    <string name="chat_history">对话记录</string>
-    <string name="command_recognition_icon">图标识别</string>
-    <string name="command_long_hold">点击按住</string>
-    <string name="sound_progress">进度</string>
-    <string name="sound_progress_100">进度100</string>
-    <string name="sound_clear_notification">清除全部通知</string>
-    <string name="sound_talkman_start">解说启动</string>
-    <string name="sound_talkman_stop">解说停止</string>
-    <string name="sound_camera">相机快门</string>
-    <string name="voice_picture_description">语音询问</string>
-    <string name="voice_picture_description2">语音询问全屏</string>
+    <string name="sound_scroll_page">Rolar página</string>
+    <string name="use_auto_mode_move_list_view_item_title">Usar rolagem automática em listas no modo de navegação automática</string>
+    <string name="helper_tts_setting_title">Configuração de voz do Assistente</string>
+    <string name="node_tts_setting_title">Configurações de voz para monitoramento de foco</string>
+    <string name="voice_helper_use_big_title">Usar Inteligência Artificial</string>
+    <string name="chat_history">Histórico do chat</string>
+    <string name="command_recognition_icon">Identificar o ícone focado</string>
+    <string name="command_long_hold">Tocar e manter precionado</string>
+    <string name="sound_progress">Indicador de progresso</string>
+    <string name="sound_progress_100">100 porcento</string>
+    <string name="sound_clear_notification">Limpar todas as notificações</string>
+    <string name="sound_talkman_start">Jieshuo ativado</string>
+    <string name="sound_talkman_stop">Jieshuo Desativado</string>
+    <string name="sound_camera">obturador da câmera</string>
+    <string name="voice_picture_description">Pesquisar por voz o item focado</string>
+    <string name="voice_picture_description2">Pesquisar por voz em toda a tela</string>
 
 
 </resources>
