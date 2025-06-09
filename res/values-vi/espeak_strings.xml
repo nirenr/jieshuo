@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--
+        Nguồn: Tiêu đề hoạt động.
+        Mô tả: Tiêu đề cho hoạt động Cài đặt.
+    -->
+  <string name="tts_settings_label">Cài đặt eSpeak TTS</string>
+  <!--
+        Nguồn: Tiêu đề tùy chọn.
+        Mô tả: Tiêu đề cho tùy chọn điều khiển cao độ giọng nói mặc định.
+    -->
+  <string name="setting_default_pitch">Cao độ</string>
+  <!--
+        Nguồn: Tiêu đề tùy chọn.
+        Mô tả: Tiêu đề cho tùy chọn điều khiển tốc độ nói mặc định.
+    -->
+  <string name="setting_default_rate">Tốc độ nói</string>
+  <!--
+        Nguồn: Văn bản hộp thoại.
+        Mô tả: Thông báo trạng thái hiển thị khi đang cài đặt dữ liệu giọng nói.
+    -->
+  <string name="installing_voice_data">Đang cài đặt dữ liệu giọng nói…</string>
+  <!--
+        Nguồn: Thông điệp hộp thoại.
+        Mô tả: Hộp thoại cảnh báo người dùng đặt eSpeak làm công cụ chuyển văn bản thành giọng nói mặc định.
+    -->
+  <string name="set_default_message">eSpeak chưa được đặt làm công cụ chuyển văn bản thành giọng nói mặc định.</string>
+  <!--
+        Nguồn: Thông điệp hộp thoại.
+        Mô tả: Hộp thoại thông báo cho người dùng rằng việc cài đặt dữ liệu giọng nói đã thất bại.
+    -->
+  <string name="voice_data_failed_message">eSpeak không thể cài đặt dữ liệu giọng nói. Vui lòng kiểm tra thẻ SD.</string>
+  <!--
+        Nguồn: Thông điệp hộp thoại.
+        Mô tả: Hộp thoại thông báo cho người dùng rằng đã xảy ra lỗi không xác định.
+    -->
+  <string name="error_message">Xin lỗi, eSpeak không thể khởi động.</string>
+  <!--
+        Nguồn: Văn bản nhãn.
+        Mô tả: Nhãn thông báo cho người dùng về ngôn ngữ chuyển văn bản thành giọng nói hiện tại.
+    -->
+  <string name="current_tts_locale">Giọng nói mặc định</string>
+  <!--
+        Nguồn: Văn bản nhãn.
+        Mô tả: Nhãn thông báo cho người dùng về số lượng giọng nói đã được cài đặt.
+    -->
+  <string name="available_voices">Giọng nói đã cài đặt</string>
+  <!--
+        Nguồn: Nhãn nút.
+        Mô tả: Nút để mở cài đặt riêng cho eSpeak.
+    -->
+  <string name="engine_settings">Cài đặt eSpeak TTS</string>
+  <!--
+        Nguồn: Văn bản nhãn.
+        Mô tả: Nhãn thông báo cho người dùng rằng eSpeak đang tải tài nguyên.
+    -->
+  <string name="loading">Đang tải, vui lòng đợi…</string>
+  <!--
+        Nguồn: Đọc to.
+        Mô tả: Văn bản mẫu được đọc to khi người dùng thử nghiệm một ngôn ngữ.
+    -->
+  <string name="sample_text">Đây là mẫu văn bản được đọc bằng %s</string>
+  <string name="status">Trạng thái</string>
+  <string name="tts_version">Phiên bản eSpeak</string>
+  <string name="speak">Đọc</string>
+  <string name="ssml">Tải mẫu SSML</string>
+  <string name="synthesis_demo">Nhập văn bản để đọc:</string>
+  <string name="espeak_volume">Âm lượng</string>
+  <string name="formatter_wpm">%s từ/phút</string>
+  <string name="formatter_percentage">%s%%</string>
+  <string name="resetToDefault">Đặt về mặc định</string>
+  <string name="espeak_pitch_range">Biến thiên cao độ</string>
+  <string name="espeak_variant">Biến thể giọng nói</string>
+  <string name="espeak_speak_punctuation">Đọc dấu câu</string>
+  <string name="punctuation_all">Tất cả</string>
+  <string name="punctuation_custom">Tùy chỉnh</string>
+  <string name="punctuation_custom_fmt">Tùy chỉnh: %s</string>
+  <string name="punctuation_none">Không</string>
+  <string name="punctuation_characters">Ký tự dấu câu</string>
+  <string name="category">Danh mục</string>
+  <string name="variant">Biến thể</string>
+  <string name="variant_male">Nam</string>
+  <string name="variant_female">Nữ</string>
+  <string name="variant_default">Mặc định</string>
+  <string name="variant_n">Biến thể %d</string>
+  <string name="variant_young">Trẻ</string>
+  <string name="variant_old">Già</string>
+  <string name="variant_croak">Khàn</string>
+  <string name="variant_whisper">Thì thầm</string>
+  <string name="import_voice_title">Nhập từ điển eSpeak</string>
+  <string name="import_voice_description">Nhập tệp từ điển giọng nói eSpeak từ thẻ SD.</string>
+</resources>

@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="help_items">
+        <item>
+        Thao tác duyệt cơ bản:\n
+        Mặc định, vuốt lên để di chuyển đến mục trước đó. Vuốt xuống để di chuyển đến mục tiếp theo.\n
+        Tuy nhiên bạn có thể thay đổi hành vi này trong cài đặt thao tác.</item>
+        <item>
+        Menu Chính: \n
+        Mặc định, vuốt phải xuống để mở menu, vuốt phải để mở rộng thêm tùy chọn.\n
+        Bạn có thể hiển thị tất cả mục menu cùng lúc bằng cách tùy chỉnh trong cài đặt.</item>
+        <item>
+        Trợ lý giọng nói:\n
+        Mặc định, trợ lý giọng nói được kích hoạt bằng cách vuốt xuống bên trái và lệnh được phát âm sau âm thanh. Nhấn vào màn hình sẽ buộc nhận diện ngay lập tức\n
+        Trợ lý giọng nói có thể được tùy chỉnh trong cài đặt nâng cao, cài đặt trợ lý giọng nói, cài đặt khả năng của trợ lý giọng nói.\n</item>
+        <item>
+        Menu hành động: \n
+        Mặc định, vuốt lên bên phải để mở menu hành động, vuốt sang phải để mở rộng menu và nhấn đúp để kích hoạt tùy chọn menu đang tập trung.</item>
+        <item>
+        Tiện ích mở rộng:\n
+        Mặc định, cử chỉ bên trái đầu tiên và cuối cùng được sử dụng để mở danh sách tiện ích mở rộng, sau đó vuốt sang phải để mở danh sách lệnh giọng nói, và nhấn đúp để thực hiện chức năng tương ứng.\n
+        Bạn có thể tìm thêm plugin trong phần tải xuống tài nguyên.\n
+        Cài đặt nâng cao, cài đặt trợ lý giọng nói, cài đặt lệnh giọng nói, mới, đã chỉnh sửa hoặc tải xuống </item>
+        <item>
+        Sao chép, thêm sao chép, bảng t clipboard và yêu thích:\n
+        Các chức năng này có thể được tìm thấy trong menu thao tác.\n
+        Sao chép, sao chép tiêu điểm vào bảng t clipboard\n
+        Thêm sao chép để thêm nội dung tiêu điểm vào mục cuối cùng của bảng t clipboard,\n
+        Bảng t clipboard, ghi lại nội dung đã sao chép gần đây nhất, nhấn để vào ô chỉnh sửa, nhấn và giữ để thêm nội dung vào yêu thích\n
+        Yêu thích, nhấn để vào ô chỉnh sửa, nhấn và giữ để chỉnh sửa,\n
+        Trong cài đặt nâng cao, quản lý tài nguyên có thể xóa hoặc sao lưu bảng t clipboard và yêu thích</item>
+        <item>
+        Sao chép dài (chỉ dành cho người dùng cao cấp):\n
+        Sao chép dài có thể sao chép nội dung danh sách dài.\n
+        Sau khi sao chép dài được kích hoạt trong menu thao tác, bạn cần chờ đợi trong khoảng thời gian khác nhau tùy theo độ dài của danh sách. Khi quá trình sao chép hoàn tất, bạn sẽ nhận được thông báo hoàn tất sao chép dài.\n
+        Trong quá trình sao chép dài, bạn có thể buộc hủy bằng cách vuốt bất kỳ cử chỉ nào.</item>
+        <item>
+        Chọn văn bản đầy đủ (chỉ dành cho người dùng cao cấp):\n
+        Chọn văn bản đầy đủ chủ yếu phù hợp để sao chép một số nội dung từ các trang web hoặc nội dung dài hơn.
+        Chọn văn bản đầy đủ có thể chia tách nội dung theo từ, câu và đoạn, chọn nội dung cần thiết thông qua hình thức hộp kiểm, và cuối cùng sao chép,\n
+        Trong danh sách nội dung, bạn có thể nhấn và giữ một mục làm điểm bắt đầu, và sau đó nhấn và giữ cuối cùng của lựa chọn để nhanh chóng chọn nhiều mục liên tiếp.</item>
+        <item>
+        Chỉnh sửa nâng cao (chức năng thành viên):\n
+        Bạn có thể chỉnh sửa nội dung tiêu điểm theo từ, câu, đoạn hoặc toàn bộ văn bản trong ô chỉnh sửa hoặc ô không chỉnh sửa để thuận tiện cho việc định vị và sửa đổi nhanh chóng.\n
+        Nhấn vào danh sách chỉnh sửa tách để chỉnh sửa, nhấn và giữ để làm cho mục nhập chi tiết hơn.\n
+        Ô chỉnh sửa có thể được nhấn để vào ô chỉnh sửa, và ô không chỉnh sửa chỉ có thể được lưu vào bảng t clipboard bằng cách sao chép.</item>
+        <item>
+        Duyệt danh sách:\n
+        Hiển thị tất cả tiêu điểm dưới dạng danh sách, nhấn để kích hoạt tiêu điểm tương ứng, đặc biệt phù hợp để sử dụng trên các trang web.</item>
+        <item>
+        Chế độ đọc (chức năng thành viên):\n
+        Bạn có thể đọc các bài viết trên trang web được mở bởi trình duyệt, lọc nội dung không mong muốn, và tự động chuyển trang.</item>
+        <item>
+        Màn hình ảo (chức năng thành viên):\n
+        OCR nhận diện nội dung trên màn hình, hiển thị kết quả theo vị trí văn bản, nhấn vào văn bản kết quả để kích hoạt tiêu điểm tương ứng, nhấn và giữ từ để tách tiêu điểm, và nhấn vào từ để kích hoạt vị trí của từ tương ứng.\n
+        Android 7 trở lên nhấn đúp để kích hoạt, Android 6 trở xuống nhấn ba lần để kích hoạt.</item>
+        <item>
+        Nhận diện văn bản (chức năng thành viên):\n
+        Nội dung trên màn hình được nhận diện bởi OCR, và kết quả được hiển thị dưới dạng danh sách, và danh sách kết quả được nhấn để kích hoạt tiêu điểm tương ứng, nhấn và giữ sẽ hiển thị kết quả từ, và nhấn vào từ để kích hoạt vị trí của từ tương ứng.\n
+        Nhấn vào không được hỗ trợ trên Android 6 và chỉ có thể xem kết quả.</item>
+        <item>
+        Nhận diện captcha (chức năng thành viên):\n
+        Chạm vào tiêu điểm mã xác nhận, sử dụng menu nâng cao, nhận diện mã xác nhận, hoặc trợ lý giọng nói, nhận diện mã xác nhận, có thể nhận diện mã xác nhận bằng tiếng Anh hoặc số, và kết quả nhận diện sẽ được tự động sao chép vào bảng t clipboard.</item>
+        <item>
+        Camera Jieshuo (chức năng thành viên):\n
+        Camera có thể nhận diện văn bản, cảnh vật, động vật, thực vật, hoặc để hướng dẫn chụp ảnh. Camera hiện tại chỉ hỗ trợ camera sau, sử dụng âm lượng tăng để chụp, âm lượng giảm để chuyển đổi chế độ.</item>
+        <item>
+        Điều hướng nhanh giữa các mục trong danh sách:\n
+        Trong cài đặt thao tác, cài đặt cử chỉ tắt và phải để cho phép các cử chỉ trái và phải di chuyển nhanh trong danh sách, bạn có thể sử dụng cử chỉ trái hoặc phải để duyệt nhanh tin nhắn trong danh sách tin nhắn QQ, chẳng hạn.</item>
+        <item>
+        Danh sách đen/trắng thông báo:\n
+        Danh sách đen thông báo có thể lọc ra các thông báo chứa nội dung chỉ định, và nhập dấu hoa thị để lọc tất cả thông báo của ứng dụng.\n
+        Danh sách trắng thông báo có thể cho phép đọc các thông báo chứa nội dung chỉ định, ngay cả khi thông báo đã bị đóng, nhập dấu hoa thị có nghĩa là tất cả thông báo cho chương trình đều được phép.\n
+        Từ khóa hỗ trợ biểu thức chính quy.</item>
+        <item>
+        Danh sách đen nội dung:\n
+        Bạn có thể lọc nội dung tiêu điểm của nội dung chỉ định, thường được sử dụng để lọc một số hướng dẫn truy cập không chuẩn.\n
+        Biểu thức chính quy không được hỗ trợ dựa trên các cân nhắc về hiệu suất.</item>
+        <item>
+        Lọc nội dung web (chức năng thành viên):\n
+        Lọc các chú thích hình ảnh vô dụng trên trang để lọc ra các hướng dẫn dài dòng và vô dụng trên trang.\n
+        Lọc mạnh hơn có thể lọc thêm nội dung không cần thiết.</item>
+        <item>
+        Chế độ mạnh mẽ (chức năng thành viên):\n
+        Chế độ mạnh mẽ mang đến cho bạn nhiều tiêu điểm thao tác hơn,\n
+        Được biết đến là mang lại trải nghiệm tốt hơn trong các phần mềm như WeChat Sports, WeChat Friends Circle, Taobao Footprint, Huawei Router và nhiều phần mềm khác.</item>
+        <item>
+        Điều hướng ảo (chức năng thành viên):\n
+        Điều hướng ảo có thể thêm vị trí của nội dung không thể nhấp trực tiếp vào danh sách điều hướng.\n
+        Vui lòng chỉ thêm các tiêu điểm của vị trí không thay đổi, nhấn vào tên đầu vào nhận diện của tiêu điểm đã nhận diện để thêm,\n
+        Chỉ hỗ trợ Android 7 trở lên.</item>
+        <item>
+        Cử chỉ tùy chỉnh:\n
+        Bạn có thể tùy chỉnh bất kỳ tính năng tích hợp hoặc mở rộng nào dưới dạng cử chỉ.\n
+        Thay đổi nhanh cử chỉ bằng cách nhập gói cử chỉ.\n
+        Sau khi cử chỉ được nhập, nó cần được thiết lập trong thao tác, và việc chuyển đổi chế độ cử chỉ có thể có hiệu lực.\n
+        Nếu bạn không quen với các gợi ý thao tác trong cài đặt chung, hãy tùy chỉnh cử chỉ để sửa đổi cử chỉ.</item>
+        <item>
+        Cử chỉ hai bước (chức năng thành viên):\n
+        Một cử chỉ hai bước là một thao tác nhanh chóng thực hiện một cử chỉ thứ hai sau khi hoàn thành thao tác cử chỉ truyền thống.\n
+        Nó có thể được bật hoặc tùy chỉnh trong cài đặt hành động, cử chỉ hai bước,\n
+        Sau khi cử chỉ hai bước được bật, sẽ có một độ trễ nửa giây sau khi hoàn thành thao tác cử chỉ đầu tiên, chờ đợi bước thứ hai.\n
+        Đừng đặt các cử chỉ yêu cầu hiệu suất, chẳng hạn như cử chỉ di chuyển tiêu điểm, sử dụng cử chỉ hai bước.</item>
+        <item>
+        Ghi lại lệnh giọng nói:\n
+        Bắt đầu trợ lý giọng nói để nói lệnh ghi âm, nói tên chương trình cần mở lần lượt hoặc nhấn phím của tiêu điểm để thực hiện việc sản xuất lệnh giọng nói nhanh chóng. Khi tất cả các lệnh đã hoàn tất, hãy nói để kết thúc ghi âm, sau khi có thông báo hãy nhập tên lệnh, nói tên lệnh, và cuối cùng nói xác nhận.\n
+        Nếu có lệnh không được nhận diện trong quá trình ghi âm, bạn có thể nói lại nó.
+        Các lệnh đã ghi có thể được thay đổi trong Cài đặt Nâng cao, Cài đặt Trợ lý Giọng nói, Cài đặt Lệnh Giọng nói.</item>
+
+    </string-array>
+
+    <string-array name="code_help_items">
+        <item>
+        Giải thích về cử chỉ đa chức năng và plugin sử dụng cú pháp lua kết hợp với API riêng của Jieshuo để thực hiện nhiều chức năng với một cử chỉ.\n
+        Nếu bạn quen thuộc với lua và androlua, bạn có thể thực hiện nhiều chức năng hơn, tài liệu này chỉ giải thích phần API riêng.
+        </item>
+        <item>
+        Khái niệm cơ bản, \n
+        service, dịch vụ hỗ trợ, là lõi của dịch vụ đọc màn hình này, các chức năng khác nhau đều dựa trên dịch vụ này làm trung tâm.
+        </item>
+        <item>
+        Giải thích về các loại tham số, \n
+        node, tiêu điểm hiện tại, tức là nút hiện tại nhận được tiêu điểm hỗ trợ, hầu hết các thao tác đều nhắm vào tiêu điểm này.\n
+        bool, giá trị boolean, true hoặc false.\n
+        text, nội dung văn bản.
+        </item>
+        <item>
+        return, trả về, thông báo cho dịch vụ đọc màn hình bạn có muốn dịch vụ thực hiện hành động mặc định của cử chỉ đó hay không.\n
+        Trả về true thì chặn cử chỉ đó, false trả về lớp trước đó để thực hiện, như trong cử chỉ của chương trình đơn lẻ trả về false, thì sẽ được xử lý bởi cử chỉ toàn cầu, cử chỉ toàn cầu trả về false, sẽ được cử chỉ mặc định xử lý.
+        </item>
+        <item>
+        Các lệnh thường dùng, \n
+        service.execute("lệnh",node)\n
+        Lệnh này được tích hợp sẵn trong dịch vụ để đơn giản hóa phát triển, nếu thực hiện thành công trả về true, thất bại trả về false.
+        </item>
+        <item>
+        service.postExecute(thời gian,"lệnh",node)\n
+        Lệnh thực hiện trì hoãn,
+        </item>
+        <item>
+        text=service.getText(node)\n
+        Lấy thông tin văn bản của nút chỉ định.
+        </item>
+        <item>
+        service.setText(node,text)\n
+        Đặt nội dung văn bản cho ô nhập của tiêu điểm chỉ định.
+        </item>
+        <item>
+        service.setText(text)\n
+        Đặt nội dung văn bản cho ô nhập của tiêu điểm hiện tại trên màn hình.
+        </item>
+        <item>
+        service.copy()\n
+        Sao chép nội dung văn bản của tiêu điểm hiện tại vào bảng t clipboard.
+        </item>
+        <item>
+        service.appendCopy()\n
+        Thêm sao chép nội dung văn bản của tiêu điểm hiện tại vào bảng t clipboard.
+        </item>
+        <item>
+        service.copy(text)\n
+        Sao chép nội dung văn bản chỉ định vào bảng t clipboard.
+        </item>
+        <item>
+        service.appendCopy(text)\n
+        Thêm sao chép nội dung văn bản chỉ định vào bảng t clipboard.
+        </item>
+        <item>
+        service.paste()\n
+        Dán nội dung từ bảng t clipboard vào ô nhập của giao diện hiện tại.
+        </item>
+        <item>
+        service.paste(node)\n
+        Dán nội dung từ bảng t clipboard vào ô nhập chỉ định.
+        </item>
+        <item>
+        service.toNext()\n
+        Tiêu điểm tiếp theo.
+        </item>
+        <item>
+        service.toNext(node,bool)\n
+        Tiêu điểm tiếp theo của nút chỉ định, bool là true tìm kiếm nút con, là false không tìm kiếm nút con.
+        </item>
+        <item>
+        service.toPrevious()\n
+        Tiêu điểm trước đó.
+        </item>
+        <item>
+        service.toPrevious(node,bool)\n
+        Tiêu điểm trước đó của nút chỉ định, bool là true tìm kiếm nút con, là false không tìm kiếm nút con.
+        </item>
+        <item>
+        service.toNextChar()\n
+        Ký tự tiếp theo.
+        </item>
+        <item>
+        service.toPreviousChar()\n
+        Ký tự trước đó.
+        </item>
+        <item>
+        service.toNextLine()\n
+        Dòng tiếp theo.
+        </item>
+        <item>
+        service.toPreviousLine()\n
+        Dòng trước đó.
+        </item>
+        <item>
+        service.toTextStart()\n
+        Đến đầu văn bản.
+        </item>
+        <item>
+        service.toTextEnd()\n
+        Đến cuối văn bản.
+        </item>
+        <item>
+        service.toListViewStart()\n
+        Đến đầu danh sách.
+        </item>
+        <item>
+        service.toListViewEnd()\n
+        Đến cuối danh sách.
+        </item>
+        <item>
+        service.getRootNodeInfo()\n
+        Lấy nút gốc.
+        </item>
+        <item>
+        service.ocr(node)\n
+        Nhận diện văn bản nút chỉ định, chỉ dành cho thành viên.
+        </item>
+        <item>
+        service.setTimerMode(bool)\n
+        Bật hoặc tắt chế độ hẹn giờ, bool là true bật, false tắt.
+        </item>
+        <item>
+        service.setAutoReadEnabled(bool)\n
+        Bật hoặc tắt chế độ đọc tự động, bool là true bật, false tắt.
+        </item>
+        <item>
+        service.setAutoNext(bool)\n
+        Bật hoặc tắt chế độ duyệt tự động, bool là true bật, false tắt.
+        </item>
+        <item>
+        bool=service.isEditView(node)\n
+        Kiểm tra xem nút hiện tại có phải là ô chỉnh sửa hay không.
+        </item>
+        <item>
+        bool=service.isSeekBar(node)\n
+        Kiểm tra xem nút hiện tại có phải là thanh trượt tiến độ hay không.
+        </item>
+        <item>
+        bool=service.isListView(node)\n
+        Kiểm tra xem nút hiện tại có phải là danh sách hay không.
+        </item>
+        <item>
+        bool=service.isInListView(node)\n
+        Kiểm tra xem nút hiện tại có nằm trong danh sách hay không.
+        </item>
+        <item>
+        bool=service.isInWebView(node)\n
+        Kiểm tra xem nút hiện tại có nằm trong trang web hay không.
+        </item>
+        <item>
+        bool=service.isClick(node)\n
+        Kiểm tra xem nút hiện tại có thể nhấp hay không.
+        </item>
+        <item>
+        service.toClick()\n
+        Nhấp vào tiêu điểm hiện tại, trên Android 7 trở lên ưu tiên sử dụng mô phỏng nhấn tay vào tiêu điểm.
+        </item>
+        <item>
+        service.toClick(node)\n
+        Nhấp vào nút chỉ định.
+        </item>
+        <item>
+        service.toLongClick()\n
+        Nhấn giữ tiêu điểm hiện tại.
+        </item>
+        <item>
+        service.toLongClick(node)\n
+        Nhấn giữ nút chỉ định.
+        </item>
+        <item>
+        service.toBack()\n
+        Quay lại.
+        </item>
+        <item>
+        service.toHome()\n
+        Quay về màn hình chính.
+        </item>
+        <item>
+        service.toNotification()\n
+        Mở thanh thông báo.
+        </item>
+        <item>
+        service.toParent()\n
+        Mở danh sách tác vụ gần đây.
+        </item>
+        <item>
+        service.scrollBackward(node)\n
+        Cuộn ngược.
+        </item>
+        <item>
+        service.scrollForward(node)\n
+        Cuộn tới.
+        </item>
+        <item>
+        service.loadGesturePackage(name)\n
+        Tải gói cử chỉ.
+        </item>
+        <item>
+        service.click(x,y)\n
+        Mô phỏng nhấn tay vào vị trí chỉ định trên màn hình, chỉ áp dụng cho Android 7 trở lên.
+        </item>
+        <item>
+        service.longClick(x,y)\n
+        Mô phỏng nhấn giữ tay vào vị trí chỉ định trên màn hình, chỉ áp dụng cho Android 7 trở lên.
+        </item>
+        <item>
+        service.press(x,y,t)\n
+        Mô phỏng nhấn tay vào vị trí chỉ định trên màn hình trong khoảng thời gian nhất định, chỉ áp dụng cho Android 7 trở lên.
+        </item>
+        <item>
+        service.swipe(x1,y1,x2,y2,t)\n
+        Mô phỏng tay từ một vị trí này đến một vị trí khác trong khoảng thời gian chỉ định, chỉ áp dụng cho Android 7 trở lên.
+        </item>
+        <item>
+        Câu lệnh điều khiển mã.
+        </item>
+        <item>
+        if điều kiện then
+        Mã cần thực hiện\n
+        end\n
+        Thực hiện mã ở giữa khi điều kiện chỉ định được thỏa mãn.\n
+        Như, \n
+        if service.isEditView(node) then
+          service.execute("拆分编辑",node)\n
+        return true\n
+        end\n
+        Câu lệnh này có nghĩa là, khi tiêu điểm là ô chỉnh sửa thì mở chỉnh sửa tách.
+        </item>
+        <item>
+        for n=1,số lần lặp lại do\n
+        Mã cần thực hiện\n
+        end\n
+        Lặp lại mã chỉ định một số lần nhất định\n
+        Như, \n
+        for n=1,10 do\n
+        service.toBack()\n
+        end\n
+        Lặp lại quay lại 10 lần.
+        </item>
+        <item>
+        Định nghĩa hàm, \n
+        function tên_hàm(tham số)\n
+        Mã hàm\n
+        end
+        </item>
+        <item>
+        Hàm là khối chức năng của mã, có thể tái sử dụng mã một cách hiệu quả.\n
+        Như, dưới đây là một hàm để thêm dữ liệu vào danh sách, trong mã cử chỉ, có thể được sử dụng để thêm mã lặp lại vào một danh sách.\n
+        function append(t1,t2)\n
+        for k,v in ipairs(t2) do\n
+        table.insert(t1,v)\n
+        end \n
+        end \n
+        Nhấn vào danh sách={}\n
+        Danh sách nút={"%nhấn","%quay lại"}\n
+        for n=1,10 do\n
+        append(Nhấn vào danh sách,Danh sách nút)\n
+        end\n
+        Lặp lại thêm nội dung của danh sách nút vào danh sách Nhấn vào 10 lần.
+        </item>
+        <item>
+        function vuốt()\n
+        service.swipe(500,300,500,1000,1000)\n
+        return true\n
+        end\n
+        Mô phỏng tay vuốt trên màn hình, có thể sử dụng trong mã cử chỉ, \n
+        service.click({{">微信","%滑动"}})\n
+        Mở WeChat mô phỏng vuốt từ trên xuống dưới trên màn hình.
+        </item>
+        <item>
+        Nhấp tự động, \n
+        service.click({Danh sách nút})\n
+        Tự động lần lượt tìm và nhấp vào các nút trong danh sách nút,\n
+        Tên nút hỗ trợ một số ký hiệu để thay thế,\n
+        Như thêm #(dấu thăng) ở phía trước, biểu thị tìm kiếm là thẻ tùy chỉnh,\n
+        Thêm *(dấu sao) ở phía trước hoặc phía sau biểu thị còn có ký tự khác ở phía trước hoặc phía sau,\n
+        Thêm #(dấu thăng) ở phía sau biểu thị thứ tự nút,\n
+        Thêm @(vòng tròn a) chỉ tìm trong một chương trình nhất định,\n
+        Thêm $(dollar) biểu thị độ trễ sau khi thực hiện xong.\n
+        Tham số hỗ trợ nhiều bảng, theo thứ tự tìm kiếm,\n
+        Nếu tìm thấy trả về true, thất bại trả về false.\n
+        Giải thích chi tiết xem phần sau,
+        </item>
+        <item>
+        Nhấp trì hoãn, \n
+        service.postClick(thời gian,{Danh sách nút})\n
+        Thực hiện nhấp sau một khoảng thời gian nhất định, đơn vị thời gian là mili giây, danh sách nút định nghĩa giống như click,\n
+        Không có giá trị trả về.
+        </item>
+        <item>
+        service.plugin("tên plugin",node)\n
+        Thực hiện một plugin, \n
+        Trả về giá trị tùy chỉnh được trả về bởi plugin.
+        </item>
+        <item>
+        Giải thích cử chỉ để nhấp tự động linh hoạt nhất, hình thức cơ bản là
+        </item>
+        <item>
+        Danh sách nút={}\n
+        service.click(Danh sách nút)\n
+        return true
+        </item>
+        <item>
+        Hai dòng dưới đây là cố định, bạn chỉ cần sửa đổi danh sách nút,\n
+        Định dạng danh sách nút là một số tên nút và ký hiệu được bao quanh bởi dấu ngoặc nhọn tiếng Anh hoặc còn gọi là dấu ngoặc lớn,
+        </item>
+        <item>
+        Ví dụ đơn giản nhất,
+        </item>
+        <item>
+        Danh sách nút={"Xác nhận"}\n
+        service.click(Danh sách nút)\n
+        return true
+        </item>
+        <item>
+        Mã này có thể nhấp vào nút xác nhận trên màn hình,
+        </item>
+        <item>
+        Danh sách nút={\n
+        "Xác nhận",\n
+        "Hoàn thành"\n
+        }
+        service.click(Danh sách nút)\n
+        return true
+        </item>
+        <item>
+        Đây là dấu ngoặc nhọn cấp một, nếu có xác nhận thì nhấp vào xác nhận, nếu không có xác nhận thì nhấp vào hoàn thành, nếu không có xác nhận, thì tiếp tục tìm hoàn thành, và cứ thế tiếp tục
+        </item>
+        <item>
+        Đôi khi chúng ta cần nhấp liên tiếp vào một loạt các nút để thực hiện một số chức năng, đây cũng là lợi thế của nhấp tự động,
+        </item>
+        <item>
+        Danh sách nút={\n
+        {"Thẻ thông tin nhóm","Tài liệu"}\n
+        }
+        service.click(Danh sách nút)\n
+        return true
+        </item>
+        <item>
+        Đây là dấu ngoặc nhọn cấp hai, các nút trong dấu ngoặc nhọn cấp hai này sẽ được nhấp lần lượt, cho đến khi một nút nào đó không tồn tại thì dừng lại,
+        </item>
+        <item>
+        Việc lồng ghép dấu ngoặc trong dấu ngoặc nhọn có thể thực hiện nhấp liên tiếp,
+        </item>
+        <item>
+        Trong danh sách nút, chúng ta sử dụng một số ký hiệu để tăng cường chức năng,
+        </item>
+        <item>
+        Ký hiệu thường dùng nhất là * (dấu sao), dấu sao tiếng Anh, ký hiệu này ở phía trước hoặc phía sau văn bản nút, biểu thị có thể có nội dung khác
+        </item>
+        <item>
+        Ví dụ, trong giao diện chính của QQ, để nhấp vào nhóm đọc màn hình giải thích, và nội dung danh sách này đôi khi sẽ có 99 tin nhắn chưa đọc ở phía sau, lúc này cần phải viết thành,
+        </item>
+        <item>
+        Nhóm đọc màn hình giải thích*
+        </item>
+        <item>
+        # (dấu thăng), biểu thị kết quả thứ mấy, đôi khi một giao diện có nhiều nút có cùng tên, lúc này cần dùng dấu thăng để chỉ định nhấp vào cái thứ mấy,
+        </item>
+        <item>
+        Như, Xác nhận#1, biểu thị cái đầu tiên, cũng có thể là số âm, như Xác nhận#-1, biểu thị cái cuối cùng.
+        </item>
+        <item>
+        Dấu thăng này ở đầu văn bản biểu thị cái cần tìm là thẻ của nút, chứ không phải là tên của nút, như có nút không có tên, có thể tự thêm thẻ và sử dụng thẻ để tìm,
+        </item>
+        <item>
+        Ký hiệu | (dấu gạch đứng), biểu thị hoặc, tức là nếu có cái ở trước dấu gạch đứng thì nhấp vào cái ở trước, không có thì nhấp vào cái ở sau, \n
+        Cũng như ví dụ xác nhận và hoàn thành trước đó, có thể viết tắt là, \n
+        Xác nhận|Hoàn thành\n
+        Nhấp vào Xác nhận hoặc Hoàn thành,
+        </item>
+        <item>
+        &amp; biểu thị và, tức là chỉ khi có nội dung sau ký hiệu &amp; thì mới nhấp vào nút phía trước,
+        </item>
+        <item>
+        Xác nhận&amp;*Thoát*\n
+        Biểu thị, chỉ khi giao diện này có từ thoát, chẳng hạn như xác nhận thoát không, thì mới nhấp vào xác nhận, còn không có hai từ thoát thì không thực hiện,
+        </item>
+        <item>
+        &amp; sau dấu chấm than và từ khóa biểu thị không chứa nội dung phía sau thì thực hiện, \n
+        Xác nhận&amp;!*Thoát*\n
+        Biểu thị, chỉ khi giao diện này không có từ thoát, thì mới nhấp vào xác nhận, còn có hai từ thoát thì không thực hiện, và trường hợp trên trái ngược,
+        </item>
+        <item>
+        &amp; ký hiệu ở phía trước biểu thị kiểm tra loại tiêu điểm hiện tại, \n
+        &amp;Có thể chỉnh sửa\n
+        &amp;Có thể nhấp\n
+        &amp;Danh sách\n
+        &amp;Mục danh sách\n
+        &amp;Ô chỉnh sửa\n
+        Ô chỉnh sửa này là ô nhập liệu bật lên,
+        </item>
+        <item>
+        $ ký hiệu đô la, ký hiệu này ở phía sau văn bản biểu thị nhấp vào nút này sau đó chờ bao lâu, thực hiện thao tác tiếp theo,
+        </item>
+        <item>
+        "Thẻ thông tin nhóm$2000","Tài liệu"\n
+        Biểu thị nhấp vào thẻ thông tin nhóm sau 2 giây nhấp vào tài liệu,
+        </item>
+        <item>
+        &lt; dấu nhỏ hơn, ở phía sau biểu thị lặp lại, nhấp vào nút bao nhiêu lần, \n
+        Như
+        Bài hát tiếp theo&lt;10\n
+        Thì nhấp vào bài hát tiếp theo mười lần,
+        </item>
+        <item>
+        Dấu nhỏ hơn ở phía trước biểu thị chỉ định vị trí, không nhấp vào.\n
+        &lt;Xác nhận\n
+        Tìm thấy xác nhận nhưng không nhấp vào.
+        </item>
+        <item>
+        > dấu lớn hơn, dấu lớn hơn ở phía sau biểu thị, ký hiệu thời gian chờ, \n
+        "Thẻ thông tin nhóm","Tài liệu>10"\n
+        Điện thoại phản ứng nhanh chậm khác nhau, sử dụng ký hiệu này có thể chờ một khoảng thời gian nhất định, mã này biểu thị, nhấp vào thẻ thông tin nhóm sau đó chờ mười giây, nếu trong mười giây xuất hiện tài liệu thì ngay lập tức nhấp vào, nếu quá thời gian thì dừng thực hiện,
+        </item>
+        <item>
+        Dấu lớn hơn ở đầu có thể mở chương trình, \n
+        >微信\n
+        Mở WeChat, \n
+        >QQ\n
+        Mở QQ,
+        </item>
+        <item>
+        Còn một số ký hiệu mở rộng khác, có thể thực hiện các chức năng khác, \n
+        % có thể thực hiện một số lệnh thường dùng, \n
+        Như, \n
+        %sao chép\n
+        Có thể sao chép, \n
+        %đọc toàn văn\n
+        Có thể đọc toàn màn hình,
+        </item>
+        <item>
+        % còn có thể thực hiện hàm chỉ định trong kịch bản, hàm trả về true biểu thị tiếp tục thực hiện, false dừng thực hiện tiếp,
+        </item>
+        <item>
+        [] nội dung được bao quanh bởi dấu ngoặc vuông biểu thị mô phỏng nhấp trực tiếp, và sử dụng chức năng hỗ trợ để nhấp khác nhau, nhấp trực tiếp có thể giải quyết một phần vấn đề tiêu điểm không thể nhấp, \n
+        [Phát]\n
+        Mô phỏng nhấp trực tiếp vào nút phát, \n
+        [%nhấn]\n
+        Mô phỏng nhấp trực tiếp vào tiêu điểm hiện tại
+        </item>
+        <item>
+        [x,y] nội dung được bao quanh bởi hai số biểu thị mô phỏng nhấp vào vị trí chỉ định, có thể dùng số nguyên biểu thị vị trí tuyệt đối, hoặc dùng số thập phân biểu thị vị trí tương đối, \n
+        [300,500]\n
+        Mô phỏng nhấp vào vị trí cách trái 300 pixel, cách trên 500 pixel, \n
+        [0.3,0.5]\n
+        Mô phỏng nhấp vào vị trí cách trái 0.3 chiều rộng màn hình, cách trên 0.5 chiều cao màn hình,
+        </item>
+        <item>
+        [x,y,t] nội dung được bao quanh bởi ba số biểu thị mô phỏng nhấp vào vị trí chỉ định trong thời gian chỉ định, hai số đầu tiên có nghĩa giống như trên, số thứ ba là thời gian tính bằng mili giây, \n
+        [300,500,1000]\n
+        Mô phỏng nhấp vào vị trí cách trái 300 pixel, cách trên 500 pixel, kéo dài 1000 mili giây
+        </item>
+        <item>
+        [x1,y1,x2,y2,t] nội dung được bao quanh bởi năm số biểu thị mô phỏng từ vị trí x1, y1 đến vị trí x2, y2 trong thời gian chỉ định, có thể dùng số nguyên biểu thị vị trí tuyệt đối, hoặc dùng số thập phân biểu thị vị trí tương đối, \n
+        [300,500,300,800,1000]\n
+        Mô phỏng từ vị trí cách trái 300 pixel, cách trên 500 pixel, trong 1000 mili giây kéo đến vị trí 300,800,
+        </item>
+        <item>
+        Việc mô phỏng vuốt cũng có thể chỉ định số lần vuốt\n
+        [300,500,300,800,1000,10]\n
+        Mô phỏng từ vị trí cách trái 300 pixel, cách trên 500 pixel, trong 1000 mili giây kéo đến vị trí 300,800, 10 lần,
+        </item>
+        <item>
+        Trong quá trình thực hiện cử chỉ đôi khi sẽ xảy ra một số tình huống khác nhau, chẳng hạn như mở QQ, nhấp vào nhóm đọc màn hình giải thích, nhấp vào thẻ thông tin nhóm, nhấp vào tài liệu, \n
+        Nếu có thông báo nhóm, sẽ bị kẹt ở bước nhấp vào thẻ thông tin nhóm, không thể thực hiện, \n
+        Lúc này cần có mã nhánh để xử lý những tình huống bất ngờ này, \n
+        Tôi chỉ viết tay ví dụ, có thể có lỗi chính tả dẫn đến không thực hiện được, hiểu ý nghĩa là được,
+        </item>
+        <item>
+        Danh sách nút={\n
+        {
+            ">QQ",\n
+        "Nhóm đọc màn hình giải thích*",\n
+        {
+              "Tôi đã đọc thông báo nhóm|Tôi biết rồi"\n
+        },\n
+        "Thẻ thông tin nhóm",\n
+        "Tài liệu"\n
+        }
+        }
+        </item>
+        <item>
+        Do phiên bản QQ khác nhau, nút xác nhận thông báo nhóm cũng khác nhau, \n
+        Như bạn thấy, sau khi nhấp vào nhóm đọc màn hình giải thích, có thêm một cặp dấu ngoặc nhọn bao quanh nút, các nút trong dấu ngoặc này, có thì thực hiện, không có thì bỏ qua, không ảnh hưởng đến việc thực hiện các nút phía sau, \n
+        Nếu trong nhánh có thao tác phức tạp, hoặc nhiều cảnh khác nhau, chúng ta còn có thể lồng ghép nhiều dấu ngoặc,
+        </item>
+        <item>
+        Danh sách nút={\n
+        {
+            ">QQ",\n
+        "Nhóm đọc màn hình giải thích*",\n
+        {
+             { "Tôi đã đọc thông báo nhóm","Xác nhận"},\n
+        { "Tôi biết rồi","Xác nhận"},\n
+        },\n
+        "Thẻ thông tin nhóm",\n
+        "Tài liệu"\n
+        }
+        }
+        </item>502
+    </string-array>
+
+    <string-array name="gesture_help_items">
+        <item>
+        Điều cần thiết về thao tác cử chỉ:\n
+        Cử chỉ đơn nên thẳng và di chuyển nhanh\n
+        Phần đầu của cử chỉ kết hợp nên dài hơn nửa chiều dài màn hình, phần thứ hai có thể định hướng miễn là phải.</item>
+        <item>
+        Cử chỉ kết hợp:\n
+        Đầu tiên lên, xuống, cuối cùng là tiêu điểm\n
+        Đầu tiên xuống, đầu tiên, tiêu điểm đầu tiên\n
+        Đầu tiên bên trái và bên phải chuyển đổi tác vụ\n
+        Bên phải, sau đó bên trái, quay lại\n
+        Đầu tiên lên và sau đó là menu hành động bên phải\n
+        Đầu tiên bên phải và sau đó là menu chức năng bên phải\n
+        Đầu tiên, sau đó bên trái, tiện ích mở rộng\n
+        Đầu tiên, sau đó bên trái, trợ lý giọng nói\n
+        Đầu tiên bên trái, sau đó bên trái, từng từ một\n
+        Đầu tiên bên phải, sau đó lên, tự động đọc to\n
+        Đầu tiên bên trái và sau đó mở thanh thông báo\n
+        Đầu tiên bên phải, sau đó xuống, duyệt danh sách\n
+        Nhấp đúp hai lần để duyệt\n
+        Vuốt xuống hai lần
+        </item>
+        <item>
+        Nhấp vào cử chỉ chế độ duyệt:\n
+        Nhấp để chuyển đổi tiêu điểm\n
+        Chế độ duyệt lên\n
+        Chế độ duyệt xuống
+        </item>
+        <item>
+        Cử chỉ chế độ duyệt tiêu điểm:\n
+        Lên một tiêu điểm\n
+        Xuống tiêu điểm tiếp theo
+        </item>
+        <item>
+        Cuộc gọi QQ WeChat\n
+        Từ chối bằng cách vuốt trái\n
+        Trả lời bằng cách vuốt phải
+        </item>
+        <item>
+        Cuộc gọi điện thoại QQ WeChat\n
+        Kết thúc cuộc gọi bên trái\n
+        Trả lời bên phải
+        </item>
+        <item>
+        Danh sách\n
+        Cuộn trang lên bên trái\n
+        Lật bên phải xuống dưới cùng
+        </item>
+        <item>
+        Hộp thoại\n
+        Hủy bỏ bên trái\n
+        OK bên phải
+        </item>
+        <item>
+        Thanh trượt tiến trình\n
+		Vuốt trái để giảm thanh trượt\n
+        Vuốt phải để tăng thanh trượt
+        </item>
+        <item>
+        Ô chỉnh sửa\n
+        Di chuyển con trỏ về phía trước\n
+        Di chuyển con trỏ về phía sau
+        </item>
+        <item>
+        Cử chỉ chế độ duyệt từng từ một:\n
+        Nhấp để giải thích ký tự hiện tại\n
+        Lên một dòng lên\n
+        Xuống một dòng\n
+        Trái ký tự trước\n
+        Phải ký tự tiếp theo\n
+        Đầu tiên bên trái, cuối cùng, đoạn văn bản cuối cùng\n
+        Đầu tiên bên phải, tiếp theo, đoạn văn bản tiếp theo\n
+        Đầu tiên, sau đó bên phải, chọn văn bản\n
+        Bên trái trước, sau đó bên trái, thoát theo nghĩa đen
+        </item>
+        <item>
+        Cử chỉ chọn văn bản: \n
+        Nhấn đơn: đọc ký tự hiện tại.\n
+        Vuốt lên: Đi đến dòng trước.\n
+        Vuốt xuống: Đi đến dòng tiếp theo.\n
+        Vuốt trái: Đi đến ký tự trước.\n
+        Vuốt phải: Đi đến ký tự tiếp theo.\n
+        Vuốt lên bên trái: Đi đến đoạn văn trước.\n
+        Vuốt lên bên phải: Đi đến đoạn văn tiếp theo.\n
+        Vuốt lên bên phải: Bỏ chọn tất cả.\n
+        Vuốt xuống bên phải: Sao chép lựa chọn.\n
+        Vuốt lên bên trái: Thêm sao chép.\n
+        Vuốt xuống bên phải: sao chép toàn bộ văn bản.
+        </item>
+        <item>
+        Cử chỉ duyệt nút
+        Vuốt lên: đi đến nút trước.\n
+        Vuốt xuống: Đi đến nút tiếp theo.\n
+        Vuốt trái: đi đến nút cha.\n
+        Vuốt phải: Đi đến nút con.\n
+        Vuốt xuống bên trái: thoát khỏi nút.
+        </item>
+        <item>
+        Hướng dẫn trợ lý giọng nói: \n
+        Mở AppName: Mở ứng dụng đã cho
+        Gửi Nội dung: cho phép gửi trực tiếp đến QQ và Wechat
+        Tìm kiếm nội dung: thực hiện tìm kiếm trực tuyến cho cụm từ đã cho
+        Trợ lý giọng nói có thể mở rộng nhờ vào các menu chỉnh sửa và plugin.
+        </item>
+    </string-array>
+    <string-array name="voice_helper_help_items">
+        <item>Mở chương trình: Mở tên ứng dụng</item>
+        <item>Cài đặt chương trình: cài đặt Tên ứng dụng</item>
+        <item>Gỡ cài đặt chương trình: gỡ cài đặt Tên ứng dụng</item>
+        <item>Đọc mọi thứ: Đọc toàn bộ màn hình</item>
+        <item>Đọc to: đọc to và theo dõi con trỏ</item>
+        <item>Độ sáng hiện tại: đọc độ sáng của môi trường.</item>
+        <item>Nhấp chuột: kích hoạt phần tử đang tập trung.</item>
+        <item>Kích hoạt mục chỉ định: kích hoạt mục với tên chỉ định</item>
+        <item>Sao chép mục hiện tại đang tập trung: Sao chép mục hiện tại đang tập trung vào bảng t clipboard</item>
+        <item>Dịch: Dịch văn bản hiện tại đang tập trung.</item>
+        <item>Dịch Ngôn ngữTên: Dịch văn bản hiện tại đang tập trung sang ngôn ngữ đã cho</item>
+        <item>Chọn: Chọn văn bản đã cho</item>
+        <item>Gửi tin nhắn trong cửa sổ trò chuyện qq WeChat: Xin chào gửi</item>
+        <item>Nhập văn bản: Nhập văn bản đã nói vào ô văn bản</item>
+        <item>Nhập dài: Chế độ ghi âm dài</item>
+        <item>Kiểm tra thời tiết: kiểm tra thời tiết</item>
+        <item>Kiểm tra vé: kiểm tra vé tàu.</item>
+        <item>Kể công thức: kiểm tra công thức cho một món ăn đã cho.</item>
+        <item>Kể một câu chuyện cười: kể một câu chuyện cười ngẫu nhiên</item>
+        <item>Sao chép phản hồi: sao chép phản hồi của một lệnh đã cho.</item>
+        <item>Còn nhiều tính năng hơn đang chờ được khám phá.</item>
+
+    </string-array>
+
+</resources>
