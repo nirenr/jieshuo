@@ -241,7 +241,7 @@
     <string name="use_list_item_index_title">Đọc vị trí của mục trong danh sách</string>
     <string name="use_left_right_summary">Điều chỉnh xem các cử chỉ vuốt có bị đảo ngược đối với cài đặt cử chỉ mặc định hay không. Khi bị đảo ngược, các thao tác vuốt sang trái và phải sẽ điều hướng theo các mục trong khi thao tác vuốt lên và xuống thực hiện các tác vụ phím tắt</string>
     <string name="use_old_previous_title">Sử dụng phương pháp di chuyển tiêu điểm mặc định</string>
-    <string name="baidu_tieba_title">解说读屏贴吧交流</string>
+<string name="baidu_tieba_title">Diễn đàn Baidu – Thảo luận về trình đọc màn hình</string>
     <string name="use_single_tts_title">Sử dụng một công cụ giọng nói duy nhất</string>
     <string name="use_auto_update_title">Tự động kiểm tra cập nhật</string>
     <string name="use_pager_scroll_title">Tự động cuộn trang</string>
@@ -258,7 +258,7 @@
     <string name="key_shortcut_setting_title">Cài đặt phím âm lượng</string>
     <string name="gesture_title">Cài đặt cử chỉ</string>
     <string name="use_single_tap_summary">Điều chỉnh xem nhấn một lần vào tiêu điểm có kích hoạt tiêu điểm đó hay không.</string>
-    <string name="use_old_previous_summary">传统方式上一个焦点是下一个焦点的简单返回，取消后将使用新的上一个焦点方式，按照焦点层级返回，在一直向上浏览时更容易掌握内容所属关系</string>
+<string name="use_old_previous_summary">Cách cũ: Quay lại điểm tập trung trước một cách đơn giản. Nếu tắt, hệ thống sẽ dùng cách mới — quay lại theo cấp bậc tiêu điểm, giúp dễ hiểu hơn khi duyệt ngược các nội dung</string>
     <string name="use_headset_key_summary">Điều chỉnh xem phím tai nghe có được sử dụng để điều khiển trình đọc màn hình hay không. Nhấn nhanh phím sẽ di chuyển tiêu điểm sang mục tiếp theo, nhấn vừa phải sẽ kích hoạt mục dưới tiêu điểm và cuối cùng, nhấn và giữ phím sẽ kích hoạt trợ lý giọng nói</string>
     <string name="list_view_settings_title">Cài đặt đọc danh sách</string>
     <string name="view_label_settings_title">Cài đặt đọc nhãn</string>
@@ -294,8 +294,8 @@
     <string name="use_speak_call_phone_title">Đọc ID của người gọi</string>
     <string name="use_speak_changed_volume_summary">Khi chọn, Jieshuo sẽ đọc khi âm lượng thay đổi</string>
     <string name="use_speak_changed_volume_title">Đọc âm lượng khi thay đổi</string>
-    <string name="vip_qq_group_title">Jieshuo+ VIP QQ group</string>
-    <string name="qq_group2_title">Jieshuo nhóm QQ thứ 2 dành cho thành viên</string>
+    <string name="vip_qq_group_title">Nhóm QQ VIP của Jieshuo+</string>
+    <string name="qq_group2_title">nhóm QQ thứ 2 dành cho thành viên Jieshuo</string>
 
 
     <string name="right_long_edge_gesture_title">Vuốt sang trái từ cạnh phải của màn hình và giữ</string>
@@ -376,7 +376,7 @@
     <string name="restore_settings_title">Khôi phục cài đặt</string>
     <string name="restore_settings_summary">Chọn tùy chọn này cho phép bạn khôi phục cài đặt từ bản sao lưu đã tạo trước đó. Xin lưu ý rằng tùy chọn này sẽ ghi đè các cài đặt hiện tại của bạn</string>
     <string name="backup_settings_summary">Chọn tùy chọn này cho phép bạn tạo một bản sao lưu đầy đủ các cài đặt hiện tại của mình. Xin lưu ý rằng tùy chọn này sẽ ghi đè lên bản sao lưu hiện tại của bạn nếu có</string>
-    <string name="jieshuo_bbs_title">Jieshuo+ Diễn đàn. Lưu ý bằng tiếng Trung</string>
+    <string name="jieshuo_bbs_title">Diễn đàn Jieshuo+. Lưu ý bằng tiếng Trung</string>
     <string name="use_symbol_speak_title">Đọc dấu câu</string>
     <string name="use_cloud_label_title">Sử dụng nhãn từ máy chủ</string>
     <string name="use_cloud_label_summary">Khi chọn, Jieshuo sẽ sử dụng nhãn từ máy chủ được chia sẻ từ những người dùng khác</string>
@@ -602,7 +602,7 @@
     <string name="command_ocr_text">Nhận dạng văn bản</string>
     <string name="camera_title">Jieshuo Camera</string>
     <string name="command_disable_touch">Vô hiệu hóa duyệt bằng cách chạm</string>
-    <string name="command_disable_feedback">rừng tạm thời jieshuo</string>
+    <string name="command_disable_feedback"> tạm thời dừng jieshuo</string>
     <string name="command_to_notifications">thanh thông báo</string>
     <string name="command_notifications">Bóng thông báo</string>
     <string name="command_battery_level">phần trăm pin</string>
@@ -693,12 +693,12 @@
     <string name="command_speak">Nói</string>
     <string name="command_intput">Nhập</string>
     <string name="app">Ứng dụng</string>
-    <string name="command_to_previous_section">tiêu đề trước</string>
-    <string name="command_to_next_section">tiêu đề tiếp</string>
-    <string name="command_to_previous_link">Liên kết trước</string>
-    <string name="command_to_next_link">liên kết tiếp</string>
-    <string name="command_to_previous_control">Điều khiển trước</string>
-    <string name="command_to_next_control">Điều khiển tiếp</string>
+    <string name="command_to_previous_section">tiêu đề trước đó</string>
+    <string name="command_to_next_section">tiêu đề kế tiếp</string>
+    <string name="command_to_previous_link">Liên kết trước đó</string>
+    <string name="command_to_next_link">nliên kết kế tiếp</string>
+    <string name="command_to_previous_control">Điều khiển trước đó</string>
+    <string name="command_to_next_control">Điều khiển kế tiếp</string>
     <string name="system_tts_engine_title">Công cụ giọng nói hệ thống</string>
     <string name="cancel">Hủy</string>
     <string name="timer_interval_title">khoảng thời gian hẹn giờ</string>
@@ -1233,17 +1233,17 @@
     <string name="up_volume_3_key_title">Nhấn ba lần vào nút tăng âm lượng</string>
     <string name="down_volume_2_key_title">Nhấn đúp vào nút giảm âm lượng</string>
     <string name="down_volume_3_key_title">Nhấn ba lần vào nút giảm âm lượng</string>
-    <string name="command_to_next_char">Kí tự tiếp</string>
-    <string name="command_to_previous_char">Kí tự trước</string>
-    <string name="command_to_next_word">từ tiếp</string>
-    <string name="command_to_previous_word">từ trước</string>
-    <string name="command_to_next_row">câu tiếp</string>
-    <string name="command_to_previous_row">Câu trước</string>
-    <string name="command_to_next_paragraph">Đoạn tiếp</string>
-    <string name="command_to_previous_paragraph">Đoạn trước</string>
+    <string name="command_to_next_char">Kí tự kế tiếp</string>
+    <string name="command_to_previous_char">Kí tự trước đó</string>
+    <string name="command_to_next_word">từ kế tiếp</string>
+    <string name="command_to_previous_word">từ trước đó</string>
+    <string name="command_to_next_row">câu kế tiếp</string>
+    <string name="command_to_previous_row">Câu trước đó</string>
+    <string name="command_to_next_paragraph">Đoạn kế tiếp</string>
+    <string name="command_to_previous_paragraph">Đoạn trước đó</string>
     <string name="command_to_head_set_key">Phát hoặc tạm dừng</string>
     <string name="msg_selected_from_to">%d đến %d đã chọn</string>
-    <string name="album_activity">Album Jieshuo</string>
+       <string name="album_activity">Album của Jieshuo</string>
     <string name="command_toggle_tts_engine">Chuyển đổi công cụ giọng nói hiện đang sử dụng</string>
     <string name="command_speak_light">Nói độ sáng hiện tại</string>
     <string name="use_recording_stop_title">tạm dừng đọc trong khi micrô đang được sử dụng</string>
@@ -1430,7 +1430,7 @@
     <string name="light_50">trung bình</string>
     <string name="light_1000">Sáng</string>
     <string name="light_10000">Rất sáng</string>
-    <string name="ambient_light">%d Lux, %s </string>
+1828    <string name="ambient_light">%d Lux, %s </string>
     <string name="msg_load_fail">Không thể tải tùy chọn</string>
     <string name="msg_up">Trước</string>
     <string name="msg_down">Tiếp</string>
@@ -1642,7 +1642,7 @@
     <string name="are_you_delete_all_logs">Bạn có chắc chắn xóa tất cả nhật ký?</string>
     <string name="msg_speech_error_audio">Lỗi âm thanh</string>
     <string name="msg_speech_error_speech_timeout">Tại sao bạn không nói?</string>
-    <string name="msg_speech_error_client">Lỗi client</string>
+    <string name="msg_speech_error_client">Lỗi MÁY KHÁCH</string>
     <string name="msg_speech_error_permissions">Không đủ quyền</string>
     <string name="msg_speech_error_network">Lỗi mạng</string>
     <string name="msg_speech_error_busy">Đang bận</string>
@@ -1659,7 +1659,7 @@
     <string name="msg_remove_speech_recognition_listener">Tiện ích đã dừng theo dõi trạng thái nhận dạng giọng nói</string>
     <string name="timer_start">Bắt đầu</string>
     <string name="trans_error">Bản dịch lỗi</string>
-    <string name="incoming">Quộc gọi đến</string>
+    <string name="incoming">Cuộc gọi đến</string>
     <string name="net_2g_level">%s Tín hiệu 2G %d vạch</string>
     <string name="net_4g_level">%s Tín hiệu 4G %d vạch</string>
     <string name="net_3g_level">%s Tín hiệu 3G %d vạch</string>
@@ -1744,7 +1744,7 @@
     <string name="ocr_lang_swe">Tiếng Thụy Điển</string>
     <string name="ocr_lang_fin">Tiếng Phần Lan</string>
     <string name="ocr_lang_dan">Tiếng Đan Mạch</string>
-    <string name="ocr_lang_nor">Tiếngi Na Uy</string>
+    <string name="ocr_lang_nor">Tiếng Na Uy</string>
     <string name="ocr_lang_hun">Tiếng Hungary</string>
     <string name="ocr_lang_tha">Tiếng Thái</string>
     <string name="ocr_lang_hi">Tiếng Hindi</string>
@@ -1752,7 +1752,9 @@
     <string name="use_virtual_screen_dim_background_title">Sử dụng nền đen cho  màn hình ảo</string>
     <string name="edit_ocr_lua_title">Tùy chỉnh công cụ nhận dạng OCR</string>
     <string name="ocr_lua_template">require \"import\"\nimport \"com.nirenr.talkman.ai.*\"\n--例子代码是帮助理解代码的伪代码，不能直接运行\nbs,listener=...--获取参数\ntask(function(bs)\n  function 识别函数(bs)\n    --虚拟构成识别结果\n    return {\n      length=2,\n      {\n        t=\"例子代码是帮助理解代码的伪代码\",\n        x=0,\n        y=300,\n        w=1000,\n        h=100,\n        s=50\n      },\n      {\n        t=\"不能直接运行\",\n        x=0,\n        y=600,\n        w=800,\n        h=100,\n        s=50\n      }\n    }\n  end\n\n  local ret=识别函数(bs)\n  local rets=OcrResult.OcrItem[ret.length]--构建返回值数组\n  for n=1,ret.length do\n    --注意java与lua数组开始索引不同\n    rets[n-1]=OcrResult.OcrItem(\n    ret[n].t,--文字内容\n    ret[n].x,--文字x坐标，距离屏幕左侧距离\n    ret[n].y,--文字y坐标，距离屏幕顶部距离\n    ret[n].w,--文字区域宽度\n    ret[n].h,--文字区域高度\n    ret[n].s--文字高度\n    )\n  end\n  return OcrResult(rets)--返回结果到主线程\nend,\nbs,--将图片的byte数组传入线程\nfunction(rets)\n  listener.onDone(rets)--在回调函数调用onDone通知读屏识别完成\nend)</string>
-    <string name="accessibility_service_description2">解说辅助服务和主服务功能完全相同，主要用于部分会检测读屏服务名的场景，两个服务不需要同时开启。</string>
+      <string name="accessibility_service_description2">
+Dịch vụ trợ năng Jieshuo có chức năng hoàn toàn giống với dịch vụ chính, chủ yếu dùng trong các trường hợp một số ứng dụng kiểm tra tên dịch vụ đọc màn hình. Không cần bật cả hai dịch vụ cùng lúc.
+</string>
     <string name="resume_on_screen_on_title">Khôi phục phản hồi khi bật màn hình</string>
     <string name="resume_on_notification_show_title">Khôi phục phản hồi khi kéo thanh thông báo xuống</string>
     <string name="resume_on_ringing_title">Khôi phục phản hồi khi có cuộc gọi đến</string>
@@ -1762,7 +1764,7 @@
     <string name="msg_export_all_file_fail">Sao lưu thất bại, vui lòng thử lại</string>
     <string name="import_all_title">Bạn có chắc chắn muốn nhập tất cả thiết lập và dữ liệu của jieshuo</string>
     <string name="msg_import_all">hành động này sẽ ghi đè các thiết lập và dữ liệu của jieshuo</string>
-    <string name="app_service2">Jieshuo helper service</string>
+     <string name="app_service2">Dịch vụ trợ lý Jieshuo</string>
     <string name="app_no_supper_sound_package_title">Ứng dụng không sử dụng hiệu ứng siêu âm thanh (hiệu ứng siêu âm thanh sẽ tạm thời bị chặn trong những ứng dụng được chọn)</string>
     <string name="command_image_to_text2">Mô tả hình ảnh toàn màn hình</string>
     <string name="picture_description2">Nhận diện hình ảnh trên toàn màn hình</string>
@@ -1798,8 +1800,24 @@
     <string name="msg_no_a11y_volume">Không sử dụng âm lượng trợ năng</string>
     <string name="msg_a11y_volume_disabled">Đã tắt âm lượng trợ năng</string>
     <string name="msg_a11y_volume_enabled">Đã bật âm lượng trợ năng</string>
-    <string name="content_blacklist_description">添加到黑名单的内容将在浏览时不会获取内容，\n用于过滤无用或错误的辅助功能信息，\n关键字可以添加星号实现简单匹配模式，\n关键字* 表示以关键字开头的过滤\n*关键字 以关键字结尾的过滤\n*关键字* 包含关键字的都过滤\n没有星号是完整匹配</string>
-    <string name="auto_speak_blacklist_description">添加到黑名单的内容将不会朗读，\n用于过滤在自动朗读中不想朗读的内容，\n关键字可以添加星号实现简单匹配模式，\n关键字* 表示以关键字开头的过滤\n*关键字 以关键字结尾的过滤\n*关键字* 包含关键字的都过滤\n没有星号是完整匹配</string>
+<string name="content_blacklist_description">
+Nội dung được thêm vào danh sách đen sẽ không được truy xuất khi duyệt,\n
+dùng để lọc thông tin trợ năng sai hoặc không cần thiết,\n
+từ khóa có thể thêm dấu sao để áp dụng chế độ khớp đơn giản,\n
+"từ khóa*" nghĩa là lọc những nội dung bắt đầu bằng từ khóa,\n
+"*từ khóa" nghĩa là lọc những nội dung kết thúc bằng từ khóa,\n
+"*từ khóa*" nghĩa là lọc tất cả nội dung chứa từ khóa,\n
+không có dấu sao nghĩa là khớp toàn bộ chính xác.
+</string>
+<string name="auto_speak_blacklist_description">
+Nội dung được thêm vào danh sách đen sẽ không được đọc to,\n
+dùng để lọc nội dung không muốn đọc trong chế độ đọc tự động,\n
+từ khóa có thể thêm dấu sao để áp dụng chế độ khớp đơn giản,\n
+"từ khóa*" nghĩa là lọc những nội dung bắt đầu bằng từ khóa,\n
+"*từ khóa" nghĩa là lọc những nội dung kết thúc bằng từ khóa,\n
+"*từ khóa*" nghĩa là lọc tất cả nội dung chứa từ khóa,\n
+không có dấu sao nghĩa là khớp toàn bộ chính xác.
+</string>
     <string name="notification_black_list_description">Thông báo được thêm vào danh sách đen sẽ không được đọc, nó chỉ được lưu vào hộp thông báo</string>
     <string name="notification_white_list_description">Thông báo được thêm vào danh sách trắng sẽ luôn luôn được đọc, ngay cả khi tính năng đọc thông báo bị tắt</string>
     <string name="nodeinfo_long_clickable">Có thể nhấn lâu</string>
@@ -1807,20 +1825,20 @@
     <string name="nodeinfo_editable">Có thể chỉnh sửa</string>
     <string name="nodeinfo_not_edit">Không thể chỉnh sửa</string>
     <string name="sound_scroll_page">Chuyển trang</string>
-    <string name="use_auto_mode_move_list_view_item_title">在自动浏览中使用列表项目间快速移动</string>
-    <string name="helper_tts_setting_title">语音助手语音设置</string>
-    <string name="node_tts_setting_title">焦点监控语音设置</string>
-    <string name="voice_helper_use_big_title">使用生成式大模式</string>
-    <string name="chat_history">对话记录</string>
-    <string name="command_recognition_icon">图标识别</string>
-    <string name="command_long_hold">点击按住</string>
-    <string name="sound_progress">进度</string>
-    <string name="sound_progress_100">进度100</string>
-    <string name="sound_clear_notification">清除全部通知</string>
-    <string name="sound_talkman_start">解说启动</string>
-    <string name="sound_talkman_stop">解说停止</string>
-    <string name="sound_camera">相机快门</string>
-    <string name="voice_picture_description">语音询问</string>
-    <string name="voice_picture_description2">语音询问全屏</string>
+<string name="use_auto_mode_move_list_view_item_title">Sử dụng di chuyển nhanh giữa các mục trong chế độ duyệt tự động</string>
+<string name="helper_tts_setting_title">Cài đặt giọng nói trợ lý</string>
+<string name="node_tts_setting_title">Cài đặt giọng nói theo dõi tiêu điểm</string>
+<string name="voice_helper_use_big_title">Sử dụng mô hình lớn sinh văn bản</string>
+<string name="chat_history">Lịch sử trò chuyện</string>
+<string name="command_recognition_icon">Nhận dạng biểu tượng</string>
+<string name="command_long_hold">Nhấn và giữ</string>
+<string name="sound_progress">Tiến trình</string>
+<string name="sound_progress_100">Tiến trình 100%</string>
+<string name="sound_clear_notification">Xóa tất cả thông báo</string>
+<string name="sound_talkman_start">Bắt đầu thuyết minh</string>
+<string name="sound_talkman_stop">Dừng thuyết minh</string>
+<string name="sound_camera">Chụp ảnh</string>
+<string name="voice_picture_description">Mô tả bằng giọng nói</string>
+<string name="voice_picture_description2">Mô tả bằng giọng nói toàn màn hình</string>
 
 </resources>
