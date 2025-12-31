@@ -204,6 +204,13 @@
         <item>@string/command_recognition_icon</item>
         <item>@string/voice_picture_description</item>
         <item>@string/voice_picture_description2</item>
+        <item>@string/video_description</item>
+        <item>@string/command_all_node</item>
+        <item>@string/command_node_menu</item>
+        <item>@string/command_take_screenshot2</item>
+        <item>@string/voice_input_mode</item>
+        <item>@string/command_pause_gesture</item>
+        <item>@string/command_grid_mode</item>
 
         <!--item>极速浏览</item-->
 

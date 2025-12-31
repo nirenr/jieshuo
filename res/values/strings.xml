@@ -348,7 +348,7 @@
     <string name="use_foreground_pro_title">Use the enhanced screenreader killing prevention mechanism</string>
     <string name="use_foreground_pro_summary">Setting this option will prevent the battery optimization service from killing the screenreader. It does this by setting Jieshuo Screenreader as the foreground window while the screen is dimmed</string>
     <string name="use_power_save_title">Power saving mode</string>
-    <string name="use_power_save_summary">It is recommended to check this option when the standby power consumbtion is too high</string>
+    <string name="use_power_save_summary">It is recommended to check this option when the standby power consumption is too high</string>
     <string name="power_settings_title">Power management settings</string>
     <string name="action_settings_title">Operation settings</string>
     <string name="keep_focus_position_title">Remember position of the focus</string>
@@ -412,7 +412,7 @@
     <string name="use_wake_lock_pro_title">Enhanced screen locking prevention mechanism</string>
     <string name="use_wake_lock_pro_summary">It is recommended to check this option if the other option does not work</string>
     <string name="more_setting">More</string>
-    <string name="kayword">Enter keyword</string>
+    <string name="keyword">Enter keyword</string>
     <string name="notification_black_list_summary">Notifications containing black-listed content will never be read, even if notification reading is enabled</string>
     <string name="notification_white_list_summary">Notifications containing white-listed content will always be read, even when notification reading is disabled</string>
     <string name="system_tts_volume_title">System TTS volume</string>
@@ -536,15 +536,15 @@
     <string name="selected">Selected</string>
     <string name="disabled">Unavailable</string>
     <string name="progress2">%d percent</string>
-    <string name="view_name_button">Button </string>
+    <string name="view_name_button"> Button</string>
     <string name="view_name_edit_text">Text box</string>
     <string name="view_name_editing">, Editing</string>
     <string name="view_name_web_view">Web view</string>
     <string name="view_name_list_view">List</string>
-    <string name="view_name_spinner">Combo box </string>
+    <string name="view_name_spinner"> Combo box</string>
     <string name="view_name_switch"> Switch </string>
-    <string name="view_name_radio_button"> Radio button </string>
-    <string name="view_name_check_box">Check box</string>
+    <string name="view_name_radio_button"> Radio button</string>
+    <string name="view_name_check_box"> Check box</string>
     <string name="view_name_seek_bar">Slider</string>
     <string name="view_name_progress_bar">Progress bar</string>
     <string name="view_name_rating_bar">Rating bar</string>
@@ -810,7 +810,7 @@
     <string name="saved">Saved</string>
     <string name="edit_name">Enter name</string>
     <string name="actions">Actions</string>
-    <string name="share">Share</string>
+    <string name="share">Upload to server</string>
     <string name="move_to_up">Move up</string>
     <string name="move_to_down">Move down</string>
     <string name="delete">Delete</string>
@@ -966,7 +966,7 @@
     <string name="use_ocr_baidu_help">Please go to https:ai.baidu.com to register. After registration enter the API data in order to recognize text, animals, plants or currency</string>
     <string name="ocr_setting">OCR settings</string>
     <string name="ocr_lang_title">OCR language</string>
-    <string name="ocr_lang_summary">Controls what language is used while recognizing text,. This option works only when the Tencent Cloud OCR engine is selected</string>
+    <string name="ocr_lang_summary">Controls what language is used while recognizing text,. This option works only when the Offline OCR engine is selected</string>
     <string name="ocr_baidu_summary">Allows to set custom settings related to the Baidu OCR engine. This option works only when Baidu is selected as the OCr engine</string>
     <string name="add_from_focus_node">Add from the currently focused element</string>
     <string name="add_from_virtual_screen">Add from virtual screen</string>
@@ -1677,7 +1677,7 @@
     <string name="use_action_menu_show_ext_title">Show additional dynamic focus related options in the functions menu</string>
     <string name="find_next">Next result</string>
     <string name="find_previous">Previous result</string>
-    <string name="command_virtual_keyboard">Virtual keyboard</string>
+    <string name="command_virtual_keyboard" translatable="false">Virtual keyboard</string>
     <string name="command_media_fast_forward">Fast forward</string>
     <string name="command_media_rewind">Rewind</string>
     <string name="command_selection_mode">Selection mode</string>
@@ -1722,7 +1722,7 @@ Swipe down then up or up then down to switch navigation type in all views, and s
     <string name="use_click_dialog_gesture_title">Use shortcut gestures to click the OK/Cancel button in dialog boxes</string>
     <string name="use_click_button_gesture_title">Use shortcut gestures to activate matching onscreen controls</string>
     <string name="export_all_file">Export all</string>
-    <string name="share_all">Share all</string>
+    <string name="share_all">Upload all</string>
     <string name="command_image_to_text">Describe currently focused item</string>
     <string name="incall_tts_setting_title">Caller info TTS settings</string>
     <string name="reader_tts_setting_title">Reading mode TTS settings</string>
@@ -1808,7 +1808,7 @@ Swipe down then up or up then down to switch navigation type in all views, and s
     <string name="msg_no_a11y_volume">You are not using accessibility volume</string>
     <string name="msg_a11y_volume_disabled">Using media volume</string>
     <string name="msg_a11y_volume_enabled">Using accessibility volume</string>
-    <string name="content_blacklist_description">The content added to the blacklist will not be read during browsing. This might help in filtering out unwanted content or buttons that are not labeled properly. 
+    <string name="content_blacklist_description">The content added to the blacklist will not be read during browsing. This might help in filtering out unwanted content or buttons that are not labeled properly.
 Keywords can be added with asterisks to implement simple matching patterns:
 • Keyword* filters content starting with the keyword.
 • *Keyword filters content ending with the keyword.
@@ -1820,10 +1820,10 @@ Keywords can be added with asterisks to implement simple matching patterns:
 • *Keyword filters content ending with the keyword.
 • *Keyword* filters content containing the keyword.
 • No asterisks indicate exact matching.</string>
-    <string name="notification_black_list_description">Notifications containing blacklisted text will not be read automatically, but they will still be recorded in the notification box. 
-Regular expressions are supported. 
+    <string name="notification_black_list_description">Notifications containing blacklisted text will not be read automatically, but they will still be recorded in the notification box.
+Regular expressions are supported.
 If only one asterisk is added, all notifications from the application will not be announced automatically.</string>
-    <string name="notification_white_list_description">Notifications containing whitelisted text will always be read automatically even if notification reading is disabled. 
+    <string name="notification_white_list_description">Notifications containing whitelisted text will always be read automatically even if notification reading is disabled.
 Regular expressions are supported.
 If only one asterisk is added all notifications from the application will be read automatically.</string>
     <string name="nodeinfo_long_clickable">Can be long pressed</string>
@@ -1846,5 +1846,52 @@ If only one asterisk is added all notifications from the application will be rea
     <string name="sound_camera">Camera shutter</string>
     <string name="voice_picture_description">Inquire by voice about current focus</string>
     <string name="voice_picture_description2">Inquire by Voice About the Entire Screen</string>
+    <string name="ocr_lang_en">English</string>
+    <string name="video_description">Video description</string>
+    <string name="msg_start_video_description">Video description started</string>
+    <string name="msg_stop_video_description">Video description stopped</string>
+    <string name="use_image_to_text_title">Auto image description</string>
+    <string name="voice_question">Inquire by voice about scene</string>
+    <string name="find_object">Find objects</string>
+    <string name="use_long_click_voice_image_title">Enable touch and hold to inquire about current focus</string>
+    <string name="use_text_stat_title">Modify default back and recents gestures in textboxes</string>
+    <string name="use_text_stat_summary">When enabled, the swipe right then left gesture will state the character count, while the left then right gesture will spell the contents of the textbox. This works only when the gestures are in their default state</string>
+    <string name="use_move_window_title">Automatically switch between onscreen windows</string>
+    <string name="ads_filter">Filter ads</string>
+    <string name="prevent_jump">Block redirects</string>
+    <string name="voice_helper_use_input_method_title">Switch to text for Voice Assistant and Inquire by Voice functions</string>
+    <string name="input_content">Enter text</string>
+    <string name="select_segmentation_mode">Segment splitting</string>
+    <string name="msg_start_find">Searching for %s, please move your phone slowly</string>
+    <string name="msg_stop_find">Search stopped</string>
+    <string name="command_all_node">Show all nodes</string>
+    <string name="sound_inputmethod_show">Keyboard shown</string>
+    <string name="sound_inputmethod_hide">Keyboard hidden</string>
+    <string name="command_node_menu">Focus menu</string>
+    <string name="command_take_screenshot2">Take a screenshot of current focus</string>
+    <string name="sound_auto_ocr_done">Automatic OCR success</string>
+    <string name="sound_auto_ocr_error">Automatic OCR error</string>
+    <string name="custom_search_engine_title">Custom search engine</string>
+    <string name="app_profiles_title">Per-app profile</string>
+    <string name="edit_app_profiles_title">Edit per-app profile</string>
+    <string name="auto_focus_title">Automatically focus the first focusable element in dialogs and menus</string>
+    <string name="command_pause_gesture">Suspend screen reader gestures</string>
+    <string name="msg_gesture_disabled">screen reader gestures suspended</string>
+    <string name="msg_gesture_enabled">screen reader gestures resumed</string>
+    <string name="tts_low_latency_title">Low latency mode</string>
+    <string name="ocr_level_title">Offline OCR accuracy</string>
+    <string name="use_auto_view_type_title">Automatically switch navigation type to Actions when supported</string>
+    <string name="use_ext_actions_gesture_title">Use shortcut gestures to navigate Actions when supported</string>
+    <string name="use_input_method_no_gesture_title">Suspend screen reader gestures when keyboard is in focus</string>
+    <string name="command_grid_mode">Screen Grid mode</string>
+    <string name="resume_on_screen_off_title">Resume browse by touch or speech feedback and browse by touch when the screen is turned off</string>
+    <string name="app_no_key_shortcut_title">Apps where Jieshuo does not handle volume key presses</string>
+    <string name="sort_title">Sort</string>
+    <string name="sort_name">by name</string>
+    <string name="sort_time">by time</string>
+    <string name="use_reverse_scroll_home_page_title">Reverse home screen page navigation</string>
+    <string name="all_description">Identify screen content</string>
+    <string name="checkbox_description">Identify and activate checkboxes</string>
+    <string name="msg_checkbox_not_found">No unchecked checkboxes found</string>
 
 </resources>

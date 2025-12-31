@@ -1,40 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!--Source: Activity title.
-        Description: Title for the Settings activity.-->
+    <!--
+        Source: Activity title.
+        Description: Title for the Settings activity.
+    -->
     <string name="tts_settings_label">Setări TTS eSpeak</string>
-    <!--Source: Preference title.
-        Description: Title for the preference that controls default voice pitch.-->
+    <!--
+        Source: Preference title.
+        Description: Title for the preference that controls default voice pitch.
+    -->
     <string name="setting_default_pitch">Înălțime prestabilită</string>
-    <!--Source: Preference title.
-        Description: Title for the preference that controls default speech rate.-->
+    <!--
+        Source: Preference title.
+        Description: Title for the preference that controls default speech rate.
+    -->
     <string name="setting_default_rate">Multiplicator ritm vorbire</string>
-    <!--Source: Dialog text.
-        Description: Status message shown when installing voice data.-->
+    <!--
+        Source: Dialog text.
+        Description: Status message shown when installing voice data.
+    -->
     <string name="installing_voice_data">Se instalează datele vocale...</string>
-    <!--Source: Dialog message.
-        Description: Alert dialog prompting the user to set eSpeak as their default TTS engine.-->
+    <!--
+        Source: Dialog message.
+        Description: Alert dialog prompting the user to set eSpeak as their default TTS engine.
+    -->
     <string name="set_default_message">eSpeak nu este setat ca motor prestabilit de transformare a textului în vorbire.</string>
-    <!--Source: Dialog message.
-        Description: Alert dialog telling the user that voice data installation failed.-->
+    <!--
+        Source: Dialog message.
+        Description: Alert dialog telling the user that voice data installation failed.
+    -->
     <string name="voice_data_failed_message">eSpeak nu a putut instala datele vocale. Verificaţi cardul SD.</string>
-    <!--Source: Dialog message.
-        Description: Alert dialog telling the user that an unknown error has occurred.-->
+    <!--
+        Source: Dialog message.
+        Description: Alert dialog telling the user that an unknown error has occurred.
+    -->
     <string name="error_message">Ne pare rău, dar pornirea eSpeak a eșuat.</string>
-    <!--Source: Label text.
-        Description: Label informing the user of the current text-to-speech language.-->
+    <!--
+        Source: Label text.
+        Description: Label informing the user of the current text-to-speech language.
+    -->
     <string name="current_tts_locale">Voce prestabilită</string>
-    <!--Source: Label text.
-        Description: Label informing the user of how many voices are installed.-->
+    <!--
+        Source: Label text.
+        Description: Label informing the user of how many voices are installed.
+    -->
     <string name="available_voices">Voci instalate</string>
-    <!--Source: Button label.
-        Description: Button for launching eSpeak-specific settings.-->
+    <!--
+        Source: Button label.
+        Description: Button for launching eSpeak-specific settings.
+    -->
     <string name="engine_settings">Setări TTS eSpeak</string>
-    <!--Source: Label text.
-        Description: Label informing the user that eSpeak is loading resources.-->
+    <!--
+        Source: Label text.
+        Description: Label informing the user that eSpeak is loading resources.
+    -->
     <string name="loading">Se încarcă, așteptați...</string>
-    <!--Source: Spoken aloud.
-        Description: Sample text spoken aloud when the user is trying out a language.-->
+    <!--
+        Source: Spoken aloud.
+        Description: Sample text spoken aloud when the user is trying out a language.
+    -->
     <string name="sample_text">Aceasta este o mostră de text vorbit în %s</string>
     <string name="status">Stare</string>
     <string name="tts_version">Versiunea eSpeak</string>

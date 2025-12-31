@@ -234,103 +234,103 @@
         <item>3</item>
         <item>4</item></string-array-->
     <string-array name="vibrate_intensity_entries">
-    <!--string-array name="tts_speaker_title">
-        <item>Female voice</item>
-        <item>Male voice</item>
-        <item>Du Xiao Yao</item>
-        <item>Du Ya Ya</item>
-    </string-array>
-    <string-array name="tts_speaker">
-        <item>0</item>
-        <item>1</item>
-        <item>3</item>
-        <item>4</item></string-array-->
+        <!--string-array name="tts_speaker_title">
+            <item>Female voice</item>
+            <item>Male voice</item>
+            <item>Du Xiao Yao</item>
+            <item>Du Ya Ya</item>
+        </string-array>
+        <string-array name="tts_speaker">
+            <item>0</item>
+            <item>1</item>
+            <item>3</item>
+            <item>4</item></string-array-->
         <item>Ușor</item>
-    <!--string-array name="tts_speaker_title">
-        <item>Female voice</item>
-        <item>Male voice</item>
-        <item>Du Xiao Yao</item>
-        <item>Du Ya Ya</item>
-    </string-array>
-    <string-array name="tts_speaker">
-        <item>0</item>
-        <item>1</item>
-        <item>3</item>
-        <item>4</item></string-array-->
+        <!--string-array name="tts_speaker_title">
+            <item>Female voice</item>
+            <item>Male voice</item>
+            <item>Du Xiao Yao</item>
+            <item>Du Ya Ya</item>
+        </string-array>
+        <string-array name="tts_speaker">
+            <item>0</item>
+            <item>1</item>
+            <item>3</item>
+            <item>4</item></string-array-->
         <item>Mediu</item>
-    <!--string-array name="tts_speaker_title">
-        <item>Female voice</item>
-        <item>Male voice</item>
-        <item>Du Xiao Yao</item>
-        <item>Du Ya Ya</item>
-    </string-array>
-    <string-array name="tts_speaker">
-        <item>0</item>
-        <item>1</item>
-        <item>3</item>
-        <item>4</item></string-array-->
+        <!--string-array name="tts_speaker_title">
+            <item>Female voice</item>
+            <item>Male voice</item>
+            <item>Du Xiao Yao</item>
+            <item>Du Ya Ya</item>
+        </string-array>
+        <string-array name="tts_speaker">
+            <item>0</item>
+            <item>1</item>
+            <item>3</item>
+            <item>4</item></string-array-->
         <item>puternic</item>
-    <!--string-array name="tts_speaker_title">
-        <item>Female voice</item>
-        <item>Male voice</item>
-        <item>Du Xiao Yao</item>
-        <item>Du Ya Ya</item>
-    </string-array>
-    <string-array name="tts_speaker">
-        <item>0</item>
-        <item>1</item>
-        <item>3</item>
-        <item>4</item></string-array-->
+        <!--string-array name="tts_speaker_title">
+            <item>Female voice</item>
+            <item>Male voice</item>
+            <item>Du Xiao Yao</item>
+            <item>Du Ya Ya</item>
+        </string-array>
+        <string-array name="tts_speaker">
+            <item>0</item>
+            <item>1</item>
+            <item>3</item>
+            <item>4</item></string-array-->
         <item>Cel mai puternic</item>
     </string-array>
     <string-array name="vibrate_intensity_values">
-    <!--string-array name="tts_speaker_title">
-        <item>Female voice</item>
-        <item>Male voice</item>
-        <item>Du Xiao Yao</item>
-        <item>Du Ya Ya</item>
-    </string-array>
-    <string-array name="tts_speaker">
-        <item>0</item>
-        <item>1</item>
-        <item>3</item>
-        <item>4</item></string-array-->
+        <!--string-array name="tts_speaker_title">
+            <item>Female voice</item>
+            <item>Male voice</item>
+            <item>Du Xiao Yao</item>
+            <item>Du Ya Ya</item>
+        </string-array>
+        <string-array name="tts_speaker">
+            <item>0</item>
+            <item>1</item>
+            <item>3</item>
+            <item>4</item></string-array-->
         <item>12</item>
-    <!--string-array name="tts_speaker_title">
-        <item>Female voice</item>
-        <item>Male voice</item>
-        <item>Du Xiao Yao</item>
-        <item>Du Ya Ya</item>
-    </string-array>
-    <string-array name="tts_speaker">
-        <item>0</item>
-        <item>1</item>
-        <item>3</item>
-        <item>4</item></string-array-->
+        <!--string-array name="tts_speaker_title">
+            <item>Female voice</item>
+            <item>Male voice</item>
+            <item>Du Xiao Yao</item>
+            <item>Du Ya Ya</item>
+        </string-array>
+        <string-array name="tts_speaker">
+            <item>0</item>
+            <item>1</item>
+            <item>3</item>
+            <item>4</item></string-array-->
         <item>32</item>
-    <!--string-array name="tts_speaker_title">
-        <item>Female voice</item>
-        <item>Male voice</item>
-        <item>Du Xiao Yao</item>
-        <item>Du Ya Ya</item>
-    </string-array>
-    <string-array name="tts_speaker">
-        <item>0</item>
-        <item>1</item>
-        <item>3</item>
-        <item>4</item></string-array-->
+        <!--string-array name="tts_speaker_title">
+            <item>Female voice</item>
+            <item>Male voice</item>
+            <item>Du Xiao Yao</item>
+            <item>Du Ya Ya</item>
+        </string-array>
+        <string-array name="tts_speaker">
+            <item>0</item>
+            <item>1</item>
+            <item>3</item>
+            <item>4</item></string-array-->
         <item>48</item>
-    <!--string-array name="tts_speaker_title">
-        <item>Female voice</item>
-        <item>Male voice</item>
-        <item>Du Xiao Yao</item>
-        <item>Du Ya Ya</item>
-    </string-array>
-    <string-array name="tts_speaker">
-        <item>0</item>
-        <item>1</item>
-        <item>3</item>
-        <item>4</item></string-array-->
+        <!--string-array name="tts_speaker_title">
+            <item>Female voice</item>
+            <item>Male voice</item>
+            <item>Du Xiao Yao</item>
+            <item>Du Ya Ya</item>
+        </string-array>
+        <string-array name="tts_speaker">
+            <item>0</item>
+            <item>1</item>
+            <item>3</item>
+            <item>4</item></string-array-->
         <item>64</item>
     </string-array>
     <string-array name="long_click_entries">

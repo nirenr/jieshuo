@@ -409,7 +409,7 @@ Erweiterte benutzerdefinierte Gesten: Legen Sie jeden Befehl auf Ihre bevorzugte
     <string name="use_wake_lock_pro_title">Alternative Option für Bildschirm aktiv lassen</string>
     <string name="use_wake_lock_pro_summary">Falls die Einstellung oben nicht funktioniert, versuchen Sie diese.</string>
     <string name="more_setting">Weitere Funktionen</string>
-    <string name="kayword">Suchbegriff eingeben</string>
+    <string name="keyword">Suchbegriff eingeben</string>
     <string name="notification_black_list_summary">Benachrichtigungen von blockierten Apps werden nicht gesprochen, auch wenn das Lesen von Benachrichtigungen aktiviert ist.</string>
     <string name="notification_white_list_summary">Benachrichtigungen von erlaubten Apps werden immer gesprochen.</string>
     <string name="system_tts_volume_title">Lautstärke der System Sprachausgabe</string>
@@ -613,7 +613,7 @@ Erweiterte benutzerdefinierte Gesten: Legen Sie jeden Befehl auf Ihre bevorzugte
     <string name="main_menu">Hauptmenü</string>
     <string name="auto_read">Automatisches Lesen</string>
     <string name="list_mode_title">Objektliste anzeigen</string>
-    <string name="main_setting">Programmeinstellungen</string>
+    <string name="main_setting">Screenreader Einstellungen</string>
     <string name="battery_level">Akkukapazität: %d</string>
 
 
@@ -1849,8 +1849,54 @@ Wird nur ein Sternchen eingegeben, werden alle Benachrichtigungen dieser App aut
     <string name="sound_talkman_start">Jieshuo Screenreader eingeschaltet</string>
     <string name="sound_talkman_stop">Jieshuo Screenreader ausgeschaltet</string>
     <string name="sound_camera">Kameraauslöser</string>
-    <string name="voice_picture_description">Aktuell gewähltes Bild per Sprache beschreiben</string>
-    <string name="voice_picture_description2">Gesamten Bildschirm per Sprache beschreiben</string>
+    <string name="voice_picture_description">Frage zu aktuell gewähltem Bild stellen</string>
+    <string name="voice_picture_description2">Frage zu Bildschirminhalt stellen</string>
+    <string name="ocr_lang_en">Englisch</string>
+    <string name="video_description">Videobeschreibung</string>
+    <string name="msg_start_video_description">Videobeschreibung gestartet</string>
+    <string name="msg_stop_video_description">Videobeschreibung beendet</string>
+    <string name="use_image_to_text_title">Bilder automatisch beschreiben</string>
+    <string name="voice_question">Frage zur erkannten Szene stellen</string>
+    <string name="find_object">Nach Objekten in Ihrer Umgebung suchen</string>
+    <string name="use_long_click_voice_image_title">Tippen und Halten, um Bild bei Fokus zu beschreiben</string>
+    <string name="use_text_stat_title">Umbelegen der Zurück und Übersicht Gesten in Eingabefeldern</string>
+    <string name="use_text_stat_summary">Nach Aktivieren dieser Option wird beim Wischen nach Rechts, dann Links die Anzahl der Zeichen angesagt, beim Wischen nach links, dann rechts wird der Text buchstabiert. Dies funktioniert nur bei aktivierter Standard Gestenbelegung.</string>
+    <string name="use_move_window_title">Automatisch zwischen Fenstern wechseln</string>
+    <string name="ads_filter">Werbung filtern</string>
+    <string name="prevent_jump">Weiterleitung blockieren</string>
+    <string name="voice_helper_use_input_method_title">Zu Spracheingabe wechseln and Inquire by Voice functions</string>
+    <string name="input_content">Text eingeben</string>
+    <string name="select_segmentation_mode">Segment splitting</string>
+    <string name="msg_start_find">Suche nach %s, bitte bewegen Sie langsam Ihr Smartphone</string>
+    <string name="msg_stop_find">Suche beendet</string>
+    <string name="command_all_node">Alle Objekte anzeigen</string>
+    <string name="sound_inputmethod_show">Ton beim Einblenden der Tastatur</string>
+    <string name="sound_inputmethod_hide">Ton beim Ausblenden der Tastatur</string>
+    <string name="command_node_menu">Fokus Menü</string>
+    <string name="command_take_screenshot2">Screenshot für aktuelles Element erstellen</string>
+    <string name="sound_auto_ocr_done">Ton bei erfolgreicher automatischer Texterkennung</string>
+    <string name="sound_auto_ocr_error">Ton bei Fehler in automatischer Texterkennung</string>
+    <string name="custom_search_engine_title">Benutzerdefinierte Suchmaschine</string>
+    <string name="app_profiles_title">Anwendungsprofile</string>
+    <string name="edit_app_profiles_title">Anwendungsprofil bearbeiten</string>
+    <string name="auto_focus_title">Autofokus</string>
+    <string name="command_pause_gesture">暂停读屏手势</string>
+    <string name="msg_gesture_disabled">读屏手势已暂停</string>
+    <string name="msg_gesture_enabled">读屏手势已启用</string>
+    <string name="tts_low_latency_title">语音库低延时模式</string>
+    <string name="use_auto_view_type_title">自动切换浏览类型</string>
+    <string name="use_ext_actions_gesture_title">在支持操作的焦点切换操作</string>
+    <string name="use_input_method_no_gesture_title">弹出输入法时暂停读屏手势</string>
+    <string name="command_grid_mode">网格模式</string>
+    <string name="resume_on_screen_off_title">当屏幕关闭时恢复反馈</string>
+    <string name="app_no_key_shortcut_title">不使用音量快捷键的应用</string>
+    <string name="sort_title">排序</string>
+    <string name="sort_name">按名称</string>
+    <string name="sort_time">按时间</string>
+    <string name="use_reverse_scroll_home_page_title">在桌面翻页时反转翻页方向</string>
+    <string name="all_description">全能识别</string>
+    <string name="checkbox_description">识别复选框</string>
+    <string name="msg_checkbox_not_found">没有未选中复选框</string>
 
 
 </resources>

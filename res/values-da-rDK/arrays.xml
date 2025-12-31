@@ -763,37 +763,36 @@
         <item>15</item>
     </string-array>
     <string-array name="timer_interval_entries">
-        <item>1 minut</item>
-        <item>5 minutter</item>
-        <item>10 minutter</item>
-        <item>15 minutter</item>
+        <item>Hvert minut</item>
+        <item>Hvert femte minut</item>
+        <item>Hvert tiende minut</item>
+        <item>Hvert femtende minut</item>
     </string-array>
     <string-array name="alarm_hour_values">
-        <item>Midnat</item>
-        <item>Klokken 1</item>
-        <item>Klokken 2</item>
-        <item>Midt om natten</item>
-        <item>Klokken 4</item>
-        <item>Klokken 5</item>
-        <item>Morgen</item>
-        <item>Klokken 7</item>
-        <item>Klokken 8</item>
-        <item>Formiddag</item>
-        <item>Klokken 10</item>
-        <item>Klokken 11</item>
-        <item>Middag</item>
-        <item>Klokken 13</item>
-        <item>Klokken 14</item>
-        <item>Eftermiddag</item>
-        <item>Klokken 16</item>
-        <item>Klokken 17</item>
-        <item>Aften</item>
-        <item>Klokken 19</item>
-        <item>Klokken 20</item>
-        <item>Senaften</item>
-        <item>Klokken 22</item>
-        <item>Klokken 23</item>
-        <item>Midnat</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
     </string-array>
     <string-array name="recognizer_lang_entries">
         <item>Forenklet kinesisk</item>
@@ -819,24 +818,24 @@
         <item>4</item>
         <item>5</item>
     </string-array>
-    <string-array name="web_type_title" >
-        <item>Standard</item>
+    <string-array name="web_type_title">
+        <item>Standardnavigation</item>
         <item>Overskrifter</item>
         <item>Links</item>
         <item>Knapper</item>
 
         <item>Landmærker</item>
         <item>Tekstfelter</item>
-        <item>Fokuselementer</item>
-        <item>Kontrolelementer</item>
+        <item>Fokusemner</item>
+        <item>Formularfelter</item>
         <item>Billeder</item>
         <item>Afkrydsningsfelter</item>
         <item>Combo boxe</item>
         <item>Informationer</item>
         <item>Lister</item>
-        <item>Listepunkter</item>
+        <item>Listeemner</item>
 
-        <item>Rulning</item>
+        <item>Rul</item>
         <item>Overblik</item>
 
         <item>Tegn</item>
@@ -844,38 +843,37 @@
         <item>Linjer</item>
         <item>Sætninger</item>
         <item>Sider</item>
-        <item>Kopieringsfunktion</item>
+        <item>Kopier og vedføj</item>
         <item>Medielydstyrke</item>
         <item>Talehastighed</item>
-        <item>OCR og oversætttelse</item>
-        <item>Skærmområder</item>
-
+        <item>OCR-genkendelse og oversættelse</item>
+        <item>Vinduer</item>
     </string-array>
 
-    <string-array name="hot_key_help_items" >
-        <item>Ctrl + Piletast op: flyt fokusmarkøren til det forrige 	element.</item>
-        <item>Ctrl + Piletast ned: flyt fokusmarkkøren til det næste element.</item>
-        <item>Ctrl + Venstre piletast: venstre bevægelsesgenvej.</item>
-        <item>Ctrl + Højre piletast: højre bevægelsesgenvej.</item>
-        <item>Ctrl + Side op: rul en side op.</item>
-        <item>Ctrl + Side ned: rul en side ned.</item>
-        <item>Ctrl + H: hjem.</item>
-        <item>Ctrl + N: notifikationscenter.</item>
-        <item>Ctrl + P: seneste apps.</item>
-        <item>Ctrl + Mellemrum: aktivere fokuseret element.</item>
-        <item>Ctrl + L: tryk og hold på fokuseret element.</item>
-        <item>Ctrl + Q: kvikmenu.</item>
+    <string-array name="hot_key_help_items">
+        <item>Ctrl+Piletast op: Flytter til det forrige emne.</item>
+        <item>Ctrl+Piletast ned: Flytter til det næste emne.</item>
+        <item>Ctrl+Venstre piletast: Udfører den venstre bevægelsesgenvej.</item>
+        <item>Ctrl+Højre piletast: Udfører den højre bevægelsesgenvej.</item>
+        <item>Ctrl+Side op: Ruller en side op.</item>
+        <item>Ctrl+Side ned: Ruller en side ned.</item>
+        <item>Ctrl+H: Flytter til startskærmen.</item>
+        <item>Ctrl+N: Åbner notifikationscentret.</item>
+        <item>Ctrl+P: Viser de seneste apps.</item>
+        <item>Ctrl+Mellemrum: Aktivere emnet i fokus.</item>
+        <item>Ctrl + L: Udfører et langt tryk på et emne.</item>
+        <item>Ctrl + Q: Åbner kvikmenuen.</item>
 
-        <item>Alt + M: Jieshuo menu.</item>
-        <item>Alt + A: funktionsmenu.</item>
-        <item>Alt + P: udvidelser.</item>
-        <item>Alt + T: Tilføjelsesprogrammer.</item>
-        <item>Alt + V: tale assistent.</item>
-        <item>Alt + S: tekstredigering.</item>
-        <item>Alt + L: listeopstilling.</item>
+        <item>Alt + M: Åbner Jieshuo-menuen.</item>
+        <item>Alt + A: Åbner funktionsmenuen.</item>
+        <item>Alt + P: Åbner installeret udvidelser.</item>
+        <item>Alt + T: Åbner installeret tilføjelsesprogrammer.</item>
+        <item>Alt + V: Aktiverer Jieshuo Assistant.</item>
+        <item>Alt + S: Starter tekstbehandling.</item>
+        <item>Alt + L: Åbner emnevælgeren.</item>
 
     </string-array>
-    <string-array name="view_type_title" >
+    <string-array name="view_type_title">
         <item>Standard</item>
         <item>Etiketter</item>
         <item>Knapper</item>
@@ -883,28 +881,28 @@
 
         <item>Billeder</item>
         <item>Afkrydsningsfelter</item>
-        <item>Proceslinjer</item>
+        <item>Statusindikatorer</item>
         <item>Lister</item>
-        <item>Listepunkter</item>
-        <item>Fokuselementer</item>
-        <item>Elementer der kan trykkes</item>
-        <item>Notes</item>
-        <item>Rulning</item>
-        <item>Vertikalnavigering</item>
+        <item>Listemner</item>
+        <item>Fokusemner</item>
+        <item>Formularfelter</item>
+        <item>Emner</item>
+        <item>Rul</item>
+        <item>Lodret navigering</item>
 
         <item>Tegn</item>
         <item>Ord</item>
         <item>Linjer</item>
         <item>Sætninger</item>
         <item>Sider</item>
-        <item>Kopieringsfunktion</item>
+        <item>Kopiér og vedføj</item>
         <item>Medielydstyrke</item>
         <item>Talehastighed</item>
-        <item>OCR og oversættelse</item>
-        <item>Skærmområder</item>
+        <item>OCR-genkendelse og oversæt</item>
+        <item>Vinduer</item>
+
 
     </string-array>
-
 
 
 </resources>

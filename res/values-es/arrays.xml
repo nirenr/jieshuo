@@ -490,15 +490,15 @@
         <item>Zulú</item>
         <item>Javanés</item>
 
-        <item>奥利亚语</item>
-        <item>弗里西语</item>
-        <item>哈萨克语</item>
-        <item>海地克里奥尔语</item>
-        <item>马尔加什语</item>
-        <item>蒙古语</item>
-        <item>塞索托语</item>
-        <item>维吾尔语</item>
-        <item>乌兹别克语</item>
+        <item>Oriya</item>
+        <item>Frisón</item>
+        <item>Kazajo</item>
+        <item>Haitiano criollo</item>
+        <item>Malgache</item>
+        <item>Mongol</item>
+        <item>Sesotho</item>
+        <item>Uigur</item>
+        <item>Uzbeko</item>
 
     </string-array>
     <string-array name="lang_values">
@@ -818,10 +818,10 @@
         <item>Botón</item>
 
         <item>Emfoque</item>
-        <item>Edición</item>
+        <item>Cuadros de edición</item>
         <item>Foco</item>
         <item>Controles</item>
-        <item>Enlace</item>
+        <item>Gráficos</item>
         <item>Casilla de berificación</item>
         <item>Título</item>
         <item>Tabla</item>
@@ -837,7 +837,7 @@
         <item>Párrafo</item>
         <item>Página</item>
         <item>Copiar y copiado adicional</item>
-        <item>volumen de voz</item>
+        <item>volumen multimedia</item>
         <item>Velocidad de voz</item>
         <item>Traducción y reconocimiento de texto</item>
         <item>Ventana</item>

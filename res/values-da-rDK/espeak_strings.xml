@@ -19,7 +19,7 @@
         Source: Dialog text.
         Description: Status message shown when installing voice data.
     -->
-  <string name="installing_voice_data">Henter stemme, vent venligst…</string>
+  <string name="installing_voice_data">Henter stemme... Vent venligst…</string>
   <!--
         Source: Dialog message.
         Description: Alert dialog prompting the user to set eSpeak as their default TTS engine.
@@ -29,7 +29,7 @@
         Source: Dialog message.
         Description: Alert dialog telling the user that voice data installation failed.
     -->
-  <string name="voice_data_failed_message">Fejl opstod under installering af eSpeak stemmen.</string>
+  <string name="voice_data_failed_message">En fejl opstod under installering af eSpeak stemmen.</string>
   <!--
         Source: Dialog message.
         Description: Alert dialog telling the user that an unknown error has occurred.
@@ -59,12 +59,12 @@
         Source: Spoken aloud.
         Description: Sample text spoken aloud when the user is trying out a language.
     -->
-  <string name="sample_text">Dette er et eksempel hvor eSpeak læser tekst op på %s. Kan du lide hvad du hører</string>
+  <string name="sample_text">Dette er et eksempel hvor eSpeak oplæser tekst på %s. Kan du lide hvad du hører</string>
   <string name="status">Status</string>
   <string name="tts_version">eSpeak version</string>
   <string name="speak">Afspil prøve</string>
   <string name="ssml">Indlæs SSML Skabelon</string>
-  <string name="synthesis_demo">Indtast tekst der skal læses op:</string>
+  <string name="synthesis_demo">Indtast tekst, der skal oplæses:</string>
   <string name="espeak_volume">Talelydstyrke</string>
   <string name="formatter_wpm">%s Ord pr. minut</string>
   <string name="formatter_percentage">%s%%</string>
@@ -84,9 +84,9 @@
   <string name="variant_default">Standard</string>
   <string name="variant_n">Stemme %d</string>
   <string name="variant_young">Ung person</string>
-  <string name="variant_old">Gammel person</string>
+  <string name="variant_old">Ældre person</string>
   <string name="variant_croak">Kvækkende</string>
   <string name="variant_whisper">Hvisken</string>
   <string name="import_voice_title">eSpeak ordbog</string>
-  <string name="import_voice_description">Importer en eSpeak stemme ordbogs fil fra et SD kort.</string>
+  <string name="import_voice_description">Importer eSpeak stemme ordbogs fil .</string>
 </resources>

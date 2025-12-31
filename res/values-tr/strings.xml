@@ -261,7 +261,7 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="item_from_to_count">%d ve %d arası öğeler gösteriliyor, toplam: %d</string>
     <string name="jieshuo_bbs_summary">Jieshuo ekran okuyucu hakkındaki geri bildirimlerinizi forumumuzda paylaşın; diğer üyelerle iletişim kurun, öğrenin ve öğretin.</string>
     <string name="jieshuo_bbs_title">"Jieshuo ekran okuyucu forumu"</string>
-    <string name="kayword">Anahtar sözcük girin</string>
+    <string name="keyword">Anahtar sözcük girin</string>
     <string name="keep_focus_position_title">Odak konumunu hatırla</string>
     <string name="key_shortcut_setting_title">Ses tuşu kısayolları</string>
     <string name="label_manager_title">Özel etiketleri yönet</string>
@@ -292,7 +292,7 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="lower_case_format_number2">%s ilk %d harf</string>
     <string name="main_menu">Ana menü</string>
     <string name="main_menu_items_title">Ana menüyü özelleştir</string>
-    <string name="main_setting">Jieshuo ayarları</string>
+    <string name="main_setting">Ekran Okuyucu ayarları</string>
     <string name="manager_activity_title">Kaynakları yönet</string>
     <string name="menu_manager_title">Ana menüyü yönet</string>
     <string name="menu_title">Ana Menü</string>
@@ -375,12 +375,12 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="questions_answers_title">SSS</string>
     <string name="quick_menu_title">Kısayol menüsü</string>
     <string name="rap_action_settings_title">Telefonun arkasına tıklama ayarları</string>
-    <string name="raw_click">[Doğrudan tıkla]</string>
-    <string name="raw_long_click">[Doğrudan uzun bas]</string>
-    <string name="raw_swipe_down">[Doğrudan aşağı kaydır]</string>
-    <string name="raw_swipe_left">[Doğrudan sola kaydır]</string>
-    <string name="raw_swipe_right">[Doğrudan sağa kaydır]</string>
-    <string name="raw_swipe_up">[Doğrudan yukarı kaydır]</string>
+    <string name="raw_click">Doğrudan tıkla</string>
+    <string name="raw_long_click">Doğrudan uzun bas</string>
+    <string name="raw_swipe_down">Doğrudan aşağı kaydır</string>
+    <string name="raw_swipe_left">Doğrudan sola kaydır</string>
+    <string name="raw_swipe_right">Doğrudan sağa kaydır</string>
+    <string name="raw_swipe_up">Doğrudan yukarı kaydır</string>
     <string name="re_def_msg">Tamam düğmesini tıkladığınızda varsayılan ayarlar yüklenecektir</string>
     <string name="recognizer_lang_title">Konuşma tanıma dili</string>
     <string name="reg_title">Kayıt ol</string>
@@ -901,7 +901,7 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="use_ocr_baidu_help">Lütfen https://ai.baidu.com adresinden kaydolun ve açık metin, resim etiketleri, eşyalar, hayvanlar, bitkiler, meyve ve sebzeler, para birimi tanıma gibi özelliklerden yararlanın</string>
     <string name="ocr_setting">Metin tanıma ayarları</string>
     <string name="ocr_lang_title">Metin tanıma dili</string>
-    <string name="ocr_lang_summary">Metni tanırken hangi dilin kullanılacağını belirler. Bu seçenek yalnızca Tencent Cloud metin okuma motoru seçildiğinde çalışır</string>
+    <string name="ocr_lang_summary">Metni tanırken hangi dilin kullanılacağını belirler. Bu seçenek yalnızca Offline OCR metin okuma motoru seçildiğinde çalışır</string>
     <string name="ocr_baidu_summary">Baidu metin tanıma motoruyla ilgili özel ayarların yapılmasına izin verir. Bu seçenek yalnızca Baidu Metin tanıma arayüzü kullanılırken geçerlidir.</string>
     <string name="add_from_focus_node">Mevcut odaktan ekle</string>
     <string name="add_from_virtual_screen">Sanal ekrandan ekle</string>
@@ -1046,7 +1046,7 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="use_scroll_list_content_title">Listeler hareketlerle kaydırılırken görünür tüm liste içeriğini oku</string>
     <string name="use_view_type_move_title">Öğe türlerine göre dolaşımı etkinleştir</string>
     <string name="use_view_type_move_summary">Standart Android görünümlerinde öğe türlerine göre dolaşıma izin verilip verilmeyeceğini belirler. Bu seçenek etkinleştirildiğinde, türü değiştirmek için varsayılan kısayol hareketleri yeniden haritalandırılır. Hareketlerde herhangi bir çakışma meydana gelirse, bunları elle  düzeltmek için hareket paketini düzenleyebilirsiniz.</string>
-    <string name="command_raw_double_tap">[Çift tıklamayı simüle et]</string>
+    <string name="command_raw_double_tap">Çift tıklamayı simüle et</string>
     <string name="to_previous_granularity_item">Önceki dolaşım öğesi</string>
     <string name="to_next_granularity_item">Sonraki dolaşım öğesi</string>
     <string name="to_previous_granularity">Önceki dolaşım türü</string>
@@ -1484,13 +1484,13 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="vr_camera">Sanal Görsel Yardımcı</string>
     <string name="language_setting_title">Özel dil yerelleştirme ayarları</string>
     <string name="vr_dialog_title">Sanal Görsel Yardımcı için Önemli Uyarı!</string>
-    <string name="vr_dialog_message">Sanal Görsel Yardımcı işlevi ile desteklenen VR görüntüleme özelliği, VR gözlük kutusu ve Bluetooth uzaktan kumanda ile kullanılmalıdır. 
-	Bu özellik öncelikli olarak düşük görme yeteneğine sahip kullanıcıların çevrelerini, kitapları, bilgisayarları, televizyonları vb. görmelerine yardımcı olur. 
-	Büyütülmüş görüş açısı ve yenileme hızı sorunları nedeniyle bu özellik, yürüme gibi hareketli durumlarda kullanılmamalıdır. Eğer dışarıda çevreyi gözlemlemek gerekiyorsa, otobüs durakları, metro istasyonları, dükkan tabelaları vb. gibi durumlarda kullanmadan önce yürümeyi durdurup çevrenin güvenli olduğundan emin olunmalıdır. 
-	Kullanım yöntemi: 
-	Ekranı ikiye böldüğünüzde, telefonu VR gözlük kutusunun sol tarafına yerleştirin. Uzaktan kumanda yön tuşları, ayarları ve değerleri değiştirmek için kullanılabilirken, onay tuşu OCR tanıma için kullanılabilir. Uzaktan kumandanız yoksa, telefonun ses tuşlarını kullanarak büyütme oranını ayarlayabilirsiniz. 
-	(Ek bilgi olarak) Piyasada bulunan VR gözlük kutularının kalitesi farklılık gösterebilir ve bazıları kamera önünü kapatabilir, bu da bu özelliğin düzgün çalışmamasına neden olabilir. 
-	VR gözlük kutusu satın almadan önce, kullanılabilirlik konusunda önceden müşteri hizmetleri ile iletişime geçmeniz önerilir. 
+    <string name="vr_dialog_message">Sanal Görsel Yardımcı işlevi ile desteklenen VR görüntüleme özelliği, VR gözlük kutusu ve Bluetooth uzaktan kumanda ile kullanılmalıdır.
+	Bu özellik öncelikli olarak düşük görme yeteneğine sahip kullanıcıların çevrelerini, kitapları, bilgisayarları, televizyonları vb. görmelerine yardımcı olur.
+	Büyütülmüş görüş açısı ve yenileme hızı sorunları nedeniyle bu özellik, yürüme gibi hareketli durumlarda kullanılmamalıdır. Eğer dışarıda çevreyi gözlemlemek gerekiyorsa, otobüs durakları, metro istasyonları, dükkan tabelaları vb. gibi durumlarda kullanmadan önce yürümeyi durdurup çevrenin güvenli olduğundan emin olunmalıdır.
+	Kullanım yöntemi:
+	Ekranı ikiye böldüğünüzde, telefonu VR gözlük kutusunun sol tarafına yerleştirin. Uzaktan kumanda yön tuşları, ayarları ve değerleri değiştirmek için kullanılabilirken, onay tuşu OCR tanıma için kullanılabilir. Uzaktan kumandanız yoksa, telefonun ses tuşlarını kullanarak büyütme oranını ayarlayabilirsiniz.
+	(Ek bilgi olarak) Piyasada bulunan VR gözlük kutularının kalitesi farklılık gösterebilir ve bazıları kamera önünü kapatabilir, bu da bu özelliğin düzgün çalışmamasına neden olabilir.
+	VR gözlük kutusu satın almadan önce, kullanılabilirlik konusunda önceden müşteri hizmetleri ile iletişime geçmeniz önerilir.
 	Not: Talimatları takip etmezseniz, ortaya çıkabilecek herhangi bir sonuçtan kendiniz sorumlu olursunuz."</string>
     <string name="vr_camera_ae">Pozlama</string>
     <string name="vr_camera_flash_on">Flaş açık</string>
@@ -1637,7 +1637,7 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="default_gesture_type_view_left_right">Tüm görünümlerde öğe türlerine göre sağa/sola gezinme: (Öğe türünü değiştirmek için yukarı/aşağı kaydır, seçili öğe türünü değiştirmek için sağa/sola kaydır)</string>
     <string name="default_gesture_type_view_left_right_new">Tüm görünümlerde yeni öğe gezinme türü: (Öğe türünü değiştirmek için önce aşağı sonra yukarı veya önce yukarı sonra aşağı kaydır, seçili türün öğeleri için sağa/sola kaydır. Odağı değiştirmek için sağa/sola kaydır)</string>
     <string name="use_speak_state_title">Önce odak öğesi türünü oku</string>
-    <string name="alarm_hours_title">报时的时间</string>
+    <string name="alarm_hours_title">Etkin Saatler</string>
     <string name="notification_in_call_no_speak_title">Arama sırasında bildirimleri otomatik seslendirme</string>
     <string name="notification_in_auto_read_no_speak_title">Okuma modu veya otomatik tarama modlarında bildirimleri otomatik seslendirme</string>
     <string name="timer_action_def_title">Zamanlayıcı varsayılan işlemi</string>
@@ -1659,107 +1659,168 @@ Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman ar
     <string name="char_mode_tts_setting_title">Sözcük sözcük okuma sentezleyici ayarları</string>
     <string name="auto_read_tts_setting_title">Otomatik tarama sentezleyici ayarları</string>
     <string name="notification_tts_setting_title">Gelen bildirimler için sentezleyici ayarları</string>
-    <string name="use_up_tap_prompt_title">抬手激活超时提示</string>
-    <string name="double_fling_time_title">两部手势等待时长</string>
-    <string name="jieshuo_beta_title">内测下载</string>
-    <string name="picture_description">图像理解</string>
-    <string name="auto_list_tts_setting_title">自动朗读消息语音设置</string>
-    <string name="more_tts_setting_title">更多语音库设置</string>
-    <string name="ocr_lang_zh">中英混合</string>
-    <string name="ocr_lang_zh_rare">中文生僻字、繁体字</string>
-    <string name="ocr_lang_auto">自动</string>
-    <string name="ocr_lang_mix">混合语种</string>
-    <string name="ocr_lang_jap">日语</string>
-    <string name="ocr_lang_kor">韩语</string>
-    <string name="ocr_lang_spa">西班牙语</string>
-    <string name="ocr_lang_fre">法语</string>
-    <string name="ocr_lang_ger">德语</string>
-    <string name="ocr_lang_por">葡萄牙语</string>
-    <string name="ocr_lang_vie">越语</string>
-    <string name="ocr_lang_may">马来语</string>
-    <string name="ocr_lang_rus">俄语</string>
-    <string name="ocr_lang_ita">意大利语</string>
-    <string name="ocr_lang_hol">荷兰语</string>
-    <string name="ocr_lang_swe">瑞典语</string>
-    <string name="ocr_lang_fin">芬兰语</string>
-    <string name="ocr_lang_dan">丹麦语</string>
-    <string name="ocr_lang_nor">挪威语</string>
-    <string name="ocr_lang_hun">匈牙利语</string>
-    <string name="ocr_lang_tha">泰语</string>
-    <string name="ocr_lang_hi">印地语</string>
-    <string name="ocr_lang_ara">阿拉伯语</string>
-    <string name="use_virtual_screen_dim_background_title">虚拟屏幕使用黑色背景</string>
-    <string name="edit_ocr_lua_title">编辑自定义扩展ocr引擎</string>
+    <string name="use_up_tap_prompt_title">Etkinleştirmek için parmağı kaldır uyarısı</string>
+    <string name="double_fling_time_title">Çok bölümlü hareketler tanınma süresi</string>
+    <string name="jieshuo_beta_title">Beta Sürümleri</string>
+    <string name="picture_description">Odak öğesinin ayrıntılı betimlenmesi</string>
+    <string name="auto_list_tts_setting_title">Sohbet mesajları otomatik okuma sentezleyici ayarları</string>
+    <string name="more_tts_setting_title">Bağlamlara göre Sentezleyici ayarları</string>
+    <string name="ocr_lang_zh">Çince ve İngilizce karışık</string>
+    <string name="ocr_lang_zh_rare">Geleneksel ve Basitleştirilmiş Çince</string>
+    <string name="ocr_lang_auto">Otomatik</string>
+    <string name="ocr_lang_mix">Karışık diller</string>
+    <string name="ocr_lang_jap">Japonca</string>
+    <string name="ocr_lang_kor">Korece</string>
+    <string name="ocr_lang_spa">İspanyolca</string>
+    <string name="ocr_lang_fre">Fransızca</string>
+    <string name="ocr_lang_ger">Almanca</string>
+    <string name="ocr_lang_por">Portekizce</string>
+    <string name="ocr_lang_vie">Viyetnamca</string>
+    <string name="ocr_lang_may">Malayca</string>
+    <string name="ocr_lang_rus">Rusça</string>
+    <string name="ocr_lang_ita">İtalyanca</string>
+    <string name="ocr_lang_hol">Hollandaca</string>
+    <string name="ocr_lang_swe">İsveçce</string>
+    <string name="ocr_lang_fin">Fince</string>
+    <string name="ocr_lang_dan">Danca</string>
+    <string name="ocr_lang_nor">Norveçce</string>
+    <string name="ocr_lang_hun">Macarca</string>
+    <string name="ocr_lang_tha">Tayca</string>
+    <string name="ocr_lang_hi">Hintçe</string>
+    <string name="ocr_lang_ara">Arapça</string>
+    <string name="use_virtual_screen_dim_background_title">Sanal ekranda karanlık arka plan kullan</string>
+    <string name="edit_ocr_lua_title">Özel OCR uzantılarını düzenle</string>
     <string name="ocr_lua_template">require \"import\"\nimport \"com.nirenr.talkman.ai.*\"\n--例子代码是帮助理解代码的伪代码，不能直接运行\nbs,listener=...--获取参数\ntask(function(bs)\n  function 识别函数(bs)\n    --虚拟构成识别结果\n    return {\n      length=2,\n      {\n        t=\"例子代码是帮助理解代码的伪代码\",\n        x=0,\n        y=300,\n        w=1000,\n        h=100,\n        s=50\n      },\n      {\n        t=\"不能直接运行\",\n        x=0,\n        y=600,\n        w=800,\n        h=100,\n        s=50\n      }\n    }\n  end\n\n  local ret=识别函数(bs)\n  local rets=OcrResult.OcrItem[ret.length]--构建返回值数组\n  for n=1,ret.length do\n    --注意java与lua数组开始索引不同\n    rets[n-1]=OcrResult.OcrItem(\n    ret[n].t,--文字内容\n    ret[n].x,--文字x坐标，距离屏幕左侧距离\n    ret[n].y,--文字y坐标，距离屏幕顶部距离\n    ret[n].w,--文字区域宽度\n    ret[n].h,--文字区域高度\n    ret[n].s--文字高度\n    )\n  end\n  return OcrResult(rets)--返回结果到主线程\nend,\nbs,--将图片的byte数组传入线程\nfunction(rets)\n  listener.onDone(rets)--在回调函数调用onDone通知读屏识别完成\nend)</string>
-    <string name="accessibility_service_description2">解说辅助服务和主服务功能完全相同，主要用于部分会检测读屏服务名的场景，两个服务不需要同时开启。</string>
-    <string name="resume_on_screen_on_title">当屏幕打开时恢复反馈</string>
-    <string name="resume_on_notification_show_title">当下拉显示通知栏时恢复反馈</string>
-    <string name="resume_on_ringing_title">当来电时恢复反馈</string>
-    <string name="helper_supper_cmd_title">超级语音指令</string>
-    <string name="back_break_auto_mode_title">返回手势打断自动浏览</string>
-    <string name="msg_export_all_file">将备份所有设置和文件到 %s 文件，发送到新手机可以全部导入，文件包含你的所有数据，请不要分享给其他人以免隐私泄露</string>
-    <string name="msg_export_all_file_fail">备份失败请重试</string>
-    <string name="import_all_title">导入解说完整备份吗</string>
-    <string name="msg_import_all">此操作会覆盖你的解说全部设置和资源</string>
-    <string name="app_service2">Jieshuo helper service</string>
-    <string name="app_no_supper_sound_package_title">不使用超级音效的应用(在选中的应用中超级音效会暂时屏蔽)</string>
-    <string name="command_image_to_text2">图片描述全屏</string>
-    <string name="picture_description2">图像理解全屏</string>
-    <string name="use_split_line_title">拆分编辑显示行号</string>
-    <string name="msg_use_single_tts_enabled">已开启使用单一语音库</string>
-    <string name="msg_disable_use_single_tts">关闭使用单一语音库功能才能使用自定义 %s</string>
-    <string name="command_auto_list_speak">自动朗读消息</string>
-    <string name="command_auto_list_speak_history">自动朗读消息记录</string>
-    <string name="msg_start_auto_list">开始自动朗读%s消息</string>
-    <string name="msg_stop_auto_list">停止自动朗读%s消息</string>
-    <string name="msg_username_typo">用户名或密码格式错误</string>
-    <string name="msg_username_error">用户名或密码错误</string>
-    <string name="msg_invite_code_error">邀请码不正确</string>
-    <string name="msg_username_used">用户名已经被占用</string>
-    <string name="msg_network_error">网络链接出错，请更换网络或稍后重试</string>
-    <string name="command_verification12">滑块验证</string>
-    <string name="command_recognition_edu">试卷识别</string>
-    <string name="use_input_method_speak_word_title">读出输入法按键的例词</string>
-    <string name="trans_lua_engine_title">使用自定义翻译引擎</string>
-    <string name="edit_trans_lua_title">编辑自定义翻译引擎</string>
+    <string name="accessibility_service_description2">Jieshuo yardımcı hizmeti ve ana hizmetin işlevleri tamamen aynıdır; bu, ekran okuyucu hizmet adını kontrol eden belirli durumlar için kullanılır. İki hizmetin aynı anda açılması gerekmez.</string>
+    <string name="resume_on_screen_on_title">Ekran açıldığında dokunarak keşfetmeyi veya konuşma ve dokunarak keşfetmeyi devam ettir</string>
+    <string name="resume_on_notification_show_title">Ekranın üstünden tek parmakla aşağı kaydırarak bildirim çubuğu açıldığında dokunarak keşfetmeyi veya konuşmayı ve dokunarak keşfetmeyi devam ettir</string>
+    <string name="resume_on_ringing_title">Çağrı alındığında dokunarak keşfetmeyi veya konuşma ve dokunarak keşfetmeyi devam ettir</string>
+    <string name="helper_supper_cmd_title">Süper Sesli Komutlar</string>
+    <string name="back_break_auto_mode_title">Otomatik taramayı durdurmak için geri hareketini (tek parmakla önce sağa, sonra sola kaydırma) kullan</string>
+    <string name="msg_export_all_file">Bu işlem, tüm Jieshuo ayarlarını ve dosyalarını %s konumuna aktaracaktır, böylece bunlar yeni bir telefona aktarılabilir. Lütfen, giriş bilgileriniz dahil olmak üzere kişisel verilerinizi içerdiği için dışa aktarılan arşivi başkalarıyla paylaşmaktan kaçının.</string>
+    <string name="msg_export_all_file_fail">Dışa aktarma başarısız oldu, lütfen tekrar deneyin.</string>
+    <string name="import_all_title">Tüm yedek içe aktarılsın mı?</string>
+    <string name="msg_import_all">Bu işlem tüm Jieshuo ayarlarınız ve kaynakların üzerine yazılacaktır</string>
+    <string name="app_service2">Jieshuo Yardımcı Hizmeti</string>
+    <string name="app_no_supper_sound_package_title">Ek Ses Efektlerinin kullanılmayacağı uygulamalar (Ek Ses Efektleri, seçilen uygulamalarda geçici olarak devre dışı bırakılacaktır)</string>
+    <string name="command_image_to_text2">Ekranın tamamını betimle</string>
+    <string name="picture_description2">Ekranın tamamının ayrıntılı betimlemesi</string>
+    <string name="use_split_line_title">Dolaşım modunda satır ve paragraf sıra numaralarını oku</string>
+    <string name="msg_use_single_tts_enabled">Tek sentezleyici kullan seçeneği etkin</string>
+    <string name="msg_disable_use_single_tts">%s kullanabilmek için Tek sentezleyici kullan işlevini devre dışı bırakmanız gerekiyor, devam edilsin mi?</string>
+    <string name="command_auto_list_speak">Sohbet mesajlarını otomatik oku</string>
+    <string name="command_auto_list_speak_history">Sohbet mesajları otomatik okuma geçmişi</string>
+    <string name="msg_start_auto_list">%s için otomatik sohbet okuma başlatıldı</string>
+    <string name="msg_stop_auto_list">%s için otomatik sohbet okuma durduruldu</string>
+    <string name="msg_username_typo">Kullanıcı adı veya şifre formatı hatalı</string>
+    <string name="msg_username_error">Yanlış kullanıcı adı veya parola</string>
+    <string name="msg_invite_code_error">Davet kodu hatalı</string>
+    <string name="msg_username_used">Bu kullanıcı adı zaten kullanımda</string>
+    <string name="msg_network_error">Bağlantı hatası, lütfen başka bir bağlantı kullanmayı deneyin veya tekrar deneyin.</string>
+    <string name="command_verification12">Kaydırıcı doğrulama</string>
+    <string name="command_recognition_edu">Sınav kağıdı tanıma</string>
+    <string name="use_input_method_speak_word_title">Yazarken harfleri örneklendirerek oku</string>
+    <string name="trans_lua_engine_title">Özel çeviri motoru kullan</string>
+    <string name="edit_trans_lua_title">Özel çeviri motorunu düzenle</string>
     <string name="trans_lua_template"><![CDATA[" require \"import\" \n import \"java.util.Locale\"\n local form,to,text,ltr=...\n local url=string.format(\"https://translate.google.com/m?sl=%s&tl=%s&hl=%s&q=%s\",from,to,Locale.getDefault().getCountry(),text)\n Http.get(url,function(code,text)\n   ltr.onTransResult(text:match(\"<[^<>]*\\\"result%-container\\\">([^<>]*)</div>\"))\n   end)"]]></string>
-    <string name="match_all">完整匹配</string>
-    <string name="match_start">匹配开头</string>
-    <string name="match_end">匹配结尾</string>
-    <string name="match_contains">包含匹配</string>
-    <string name="today">今天</string>
-    <string name="yesterday">昨天</string>
-    <string name="before_yesterday">前天</string>
-    <string name="command_accept_call">接听电话</string>
-    <string name="command_end_call">挂断电话</string>
-    <string name="command_pause_a11y_volume">暂停无障碍音量</string>
-    <string name="msg_supper_cmd_only_voice_helper">超级语音指令只能在语音助手中调用</string>
-    <string name="msg_no_a11y_volume">没有使用无障碍音量</string>
-    <string name="msg_a11y_volume_disabled">无障碍音量已停用</string>
-    <string name="msg_a11y_volume_enabled">无障碍音量已启用</string>
-    <string name="content_blacklist_description">添加到黑名单的内容将在浏览时不会获取内容，\n用于过滤无用或错误的辅助功能信息，\n关键字可以添加星号实现简单匹配模式，\n关键字* 表示以关键字开头的过滤\n*关键字 以关键字结尾的过滤\n*关键字* 包含关键字的都过滤\n没有星号是完整匹配</string>
-    <string name="auto_speak_blacklist_description">添加到黑名单的内容将不会朗读，\n用于过滤在自动朗读中不想朗读的内容，\n关键字可以添加星号实现简单匹配模式，\n关键字* 表示以关键字开头的过滤\n*关键字 以关键字结尾的过滤\n*关键字* 包含关键字的都过滤\n没有星号是完整匹配</string>
-    <string name="notification_black_list_description">添加到黑名单的通知将不会朗读，但是会记录在通知盒子，关键字支持正则表达式匹配，如果关键字仅包含一个星号则该程序的通知全部不朗读</string>
-    <string name="notification_white_list_description">添加到白名单的通知将始终朗读，即使已经关闭通知朗读，关键字支持正则表达式匹配，如果关键字仅包含一个星号则该程序的通知全部朗读</string>
-    <string name="nodeinfo_long_clickable">可长按</string>
-    <string name="nodeinfo_not_long_click">不可长按</string>
-    <string name="nodeinfo_editable">可编辑</string>
-    <string name="nodeinfo_not_edit">不可编辑</string>
-    <string name="sound_scroll_page">翻页</string>
-    <string name="use_auto_mode_move_list_view_item_title">在自动浏览中使用列表项目间快速移动</string>
-    <string name="helper_tts_setting_title">语音助手语音设置</string>
-    <string name="node_tts_setting_title">焦点监控语音设置</string>
-    <string name="voice_helper_use_big_title">使用生成式大模式</string>
-    <string name="chat_history">对话记录</string>
-    <string name="command_recognition_icon">图标识别</string>
-    <string name="command_long_hold">点击按住</string>
-    <string name="sound_progress">进度</string>
-    <string name="sound_progress_100">进度100</string>
-    <string name="sound_clear_notification">清除全部通知</string>
-    <string name="sound_talkman_start">解说启动</string>
-    <string name="sound_talkman_stop">解说停止</string>
-    <string name="sound_camera">相机快门</string>
-    <string name="voice_picture_description">语音询问</string>
-    <string name="voice_picture_description2">语音询问全屏</string>
+    <string name="match_all">Tam metin eşleşmesi</string>
+    <string name="match_start">Metnin başlangıcıyla eşleştir</string>
+    <string name="match_end">Metnin sonuyla eşleştir</string>
+    <string name="match_contains">Sınırsız eşleştir</string>
+    <string name="today">Bugün</string>
+    <string name="yesterday">Dün</string>
+    <string name="before_yesterday">Dünden önceki gün</string>
+    <string name="command_accept_call">Aramayı yanıtla</string>
+    <string name="command_end_call">Aramayı sonlandır</string>
+    <string name="command_pause_a11y_volume">Erişilebilirlik sesi kullanımını askıya al</string>
+    <string name="msg_supper_cmd_only_voice_helper">Süper sesli komutlar yalnızca Sesli Yardımcı ile kullanılabilir.</string>
+    <string name="msg_no_a11y_volume">Şu anda erişilebilirlik sesi kullanılmıyor</string>
+    <string name="msg_a11y_volume_disabled">Erişilebilirlik sesi devre dışı bırakıldı, medya sesi kullanılıyor</string>
+    <string name="msg_a11y_volume_enabled">Erişilebilirlik sesi kullanılıyor</string>
+    <string name="content_blacklist_description">Karalisteye eklenen içerik, gezinme sırasında okunmayacaktır. Bu, istenmeyen içeriği veya düzgün etiketlenmemiş düğmeleri filtrelemeye yardımcı olabilir.
+Basit eşleşme desenlerini uygulamak için anahtar kelimeler yıldız işareti ile eklenebilir:
+• AnahtarKelime* anahtar kelime ile başlayan içeriği filtreler.
+• *AnahtarKelime anahtar kelime ile biten içeriği filtreler.
+• *anahtarKelime* anahtar kelimeyi içeren içeriği filtreler.
+• Yıldız işareti olmayan ifadeler tam eşleşmeyi gösterir.</string>
+    <string name="auto_speak_blacklist_description">Karalisteye eklenen içerik otomatik olarak okunmayacaktır. Bu, otomatik mesaj okuma sırasında okunmasını istemediğiniz içeriği filtrelemek için kullanılır.
+Basit eşleşme desenlerini uygulamak için anahtar kelimeler yıldız işareti ile eklenebilir:
+• AnahtarKelime* anahtar kelime ile başlayan içeriği filtreler.
+• *AnahtarKelime anahtar kelime ile biten içeriği filtreler.
+• *anahtarKelime* anahtar kelimeyi içeren içeriği filtreler.
+• Yıldız işareti olmayan ifadeler tam eşleşmeyi gösterir.</string>
+    <string name="notification_black_list_description">Karalisteye alınmış metni içeren bildirimler otomatik olarak okunmayacaktır, ancak yine de bildirim kutusun kaydedilecektir.
+Düzenli ifadeler desteklenmektedir.
+Sadece bir yıldız işareti eklenirse, uygulamadan gelen tüm bildirimler otomatik olarak duyurulmayacaktır.</string>
+    <string name="notification_white_list_description">Beyaz listeye alınmış metni içeren bildirimler, bildirim okuma devre dışı olsa bile otomatik olarak her zaman okunacaktır.
+Düzenli ifadeler desteklenmektedir.
+Sadece bir yıldız işareti eklenirse, uygulamadan gelen tüm bildirimler otomatik olarak okunacaktır.</string>
+    <string name="nodeinfo_long_clickable">Uzun basılabilir</string>
+    <string name="nodeinfo_not_long_click">Uzun basılamaz</string>
+    <string name="nodeinfo_editable">Düzenlenebilir</string>
+    <string name="nodeinfo_not_edit">Düzenlenemez</string>
+    <string name="sound_scroll_page">Sayfayı kaydır</string>
+    <string name="use_auto_mode_move_list_view_item_title">Otomatik Tarama modunda öğe ile ilgili kontrollerin okunmasını atla</string>
+    <string name="helper_tts_setting_title">Sesli Yardımcı yanıtları için Sentezleyici ayarları</string>
+    <string name="node_tts_setting_title">Odak izleme TTS ayarları</string>
+    <string name="voice_helper_use_big_title">Yapay Zeka sohbet botuna istem gönder</string>
+    <string name="chat_history">Sohbet geçmişi</string>
+    <string name="command_recognition_icon">Odaklanılan simgeyi tanı</string>
+    <string name="command_long_hold">Uzun bas ve tut</string>
+    <string name="sound_progress">İlerleme göstergesi</string>
+    <string name="sound_progress_100">Yüzde 100 ilerleme</string>
+    <string name="sound_clear_notification">Tüm bildirimleri temizle</string>
+    <string name="sound_talkman_start">Jieshuo açık</string>
+    <string name="sound_talkman_stop">Jieshuo kapaı</string>
+    <string name="sound_camera">Kamera deklanşörü</string>
+    <string name="voice_picture_description">Mevcut odak hakkında sesli sorgulama yap</string>
+    <string name="voice_picture_description2">Tüm ekran hakkında sesli sorgulama yap</string>
+    <string name="ocr_lang_en">English</string>
+    <string name="video_description">Video betimlemesi</string>
+    <string name="msg_start_video_description">Video betimlemeyi başlat</string>
+    <string name="msg_stop_video_description">Video betimlemeyi sonlandır</string>
+    <string name="use_image_to_text_title">Görselleri otomatik betimle</string>
+    <string name="voice_question">Sesli soru sor</string>
+    <string name="find_object">Nesneleri bul</string>
+    <string name="use_long_click_voice_image_title">Odak hakkında sesli soru sormak için uzun basmayı etkinleştir</string>
+    <string name="use_text_stat_title">Metin kutularında önce sonra sola veya önce sola sonra sağa hareketlerinin işlevini değiştir</string>
+    <string name="use_text_stat_summary">Etkinleştirildiğinde, sağa sonra sola kaydırma hareketi karakter sayısını söyler, sola sonra sağa kaydırma hareketi metin kutusunun içeriğini heceler. Bu özellik yalnızca hareketler varsayılan durumdayken çalışır.</string>
+    <string name="use_move_window_title">Pencereler arasında otomatik geçiş yap</string>
+    <string name="ads_filter">Reklamları filtrele</string>
+    <string name="prevent_jump">Otomatik sayfa yönlendirmelerini engelle</string>
+    <string name="voice_helper_use_input_method_title">Sesli Yardımcı ve Sesle Sorgulama işlevleri için metin girişine geç</string>
+    <string name="input_content">Metin girin</string>
+    <string name="select_segmentation_mode">Bölme modunu seç</string>
+    <string name="msg_start_find">%s nesnesi aranıyor, lütfen telefonunuzu yavaşça hareket ettirin.</string>
+    <string name="msg_stop_find">Arama durduruldu</string>
+    <string name="command_all_node">Tüm düğümleri göster</string>
+    <string name="sound_inputmethod_show">Klavye gösteriliyor</string>
+    <string name="sound_inputmethod_hide">Klavye gösteriliyor</string>
+    <string name="command_node_menu">Odak menüsü</string>
+    <string name="command_take_screenshot2">Odağın ekran görüntüsünü al</string>
+    <string name="sound_auto_ocr_done">Otomatik metin tanıma başarılı</string>
+    <string name="sound_auto_ocr_error">Otomatik metin tanıma hatası</string>
+    <string name="custom_search_engine_title">Özel arama motoru</string>
+    <string name="app_profiles_title">Uygulamaya özgü kullanıcı profili</string>
+    <string name="edit_app_profiles_title">Uygulamaya özgü kullanıcı profilini düzenle</string>
+    <string name="auto_focus_title">Otomatik odaklama</string>
+    <string name="command_pause_gesture">Ekran okuyucu hareketlerini askıya al</string>
+    <string name="msg_gesture_disabled">Ekran okuyucu hareketleri askıya alındı</string>
+    <string name="msg_gesture_enabled">Ekran okuyucu hareketleri yeniden etkinleştirildi</string>
+    <string name="tts_low_latency_title">Düşük gecikme modu</string>
+    <string name="ocr_level_title">离线ocr精度</string>
+    <string name="use_ext_actions_gesture_title">Destekleniyorsa Eylemler\'de gezinmek için kısayol hareketlerini kullan</string>
+    <string name="use_auto_view_type_title">Destekleniyorsa dolaşım türünü otomatik olarak Eylemler\'e geçir</string>
+    <string name="use_input_method_no_gesture_title">Klavye odaktayken ekran okuyucu hareketlerini askıya al</string>
+    <string name="command_grid_mode">Ekran Izgara modu</string>
+    <string name="resume_on_screen_off_title">Ekran kapatıldığında dokunarak keşfetmeyi veya konuşma ve dokunarak keşfetmeyi devam ettir</string>
+    <string name="app_no_key_shortcut_title">Jieshuo\'nun ses tuşlarına basma işlemlerini gerçekleştirmediği uygulamalar</string>
+    <string name="sort_title">Sıralama</string>
+    <string name="sort_name">ada göre</string>
+    <string name="sort_time">zamana göre</string>
+    <string name="use_reverse_scroll_home_page_title">Ana sayfada ters kaydırmayı kullan</string>
+    <string name="all_description">全能识别</string>
+    <string name="checkbox_description">识别复选框</string>
+    <string name="msg_checkbox_not_found">没有未选中复选框</string>
 
 </resources>

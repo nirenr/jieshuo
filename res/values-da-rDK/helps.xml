@@ -3,80 +3,112 @@
 
     <string-array name="help_items">
         <item>
-        Standard navigering med fokusmarkøren:\n
-        Et stryg op med en enkelt finger, flytter som standard fokusmarkøren til det forrige element. Et stryg ned med en enkelt finger, flytter som standard fokusmarkøren til det næste element.\n
-        Du kan ændre hvordan fokusmarkøren skal navigerer inde i Jieshuos grundlæggende indstillinger, eller ved at vælge din foretrukne navigeringsmetode ved at gå ind i bevægelse og navigering, bevægelseshåndtering, navigeringsmetode.</item>
+        Standard navigering med Jieshuo-markøren:\n
+        Et stryg op med en finger, flytter som standard Jieshuo-markøren til det forrige element. Et stryg ned med en finger, flytter som standard Jieshuo-markøren til det næste element.\n
+        Du kan ændre hvordan Jieshuo-markøren skal navigerer, ved at gå ind i Jieshuos grundlæggende indstillinger, vælg herinde inverter bevægelser, for at flytte Jieshuo-markøren til det næste og forrige element, ved at stryge til højre eller venstre med en finger. du har også mulighed for at vælge en foretrukken navigeringsmetode, ved at gå ind i Bevægelse og navigering > Bevægelseshåndtering > Navigeringsmetode.</item>
         <item>
 Jieshuo menu: \n
-        Et stryg ned og så til højre med en enkelt finger, åbner som standard Jieshuo menuen. Når Jieshuo menuen er åbnet, vil der som standard være otte funktioner som du kan tilgå.   Det er muligt at udvide Jieshuo menuens  funktioner, flyt fokusmarkøren til mere, tryk to gange med en enkelt finger på det pågældende element, hvilket udvider Jieshuo menuen, i alt kan den udvides op til to gange, hvorved alle funktioner herefter vil blive vist.\n
-        Du kan selv tilpasse hvilke funktioner Jieshuo menuen skal vise, ved at gå ind i avancerede funktioner, Jieshuo menu og funktionsmenu.</item>
+        Et stryg ned og så til højre med en finger, åbner som standard Jieshuo menuen. Når Jieshuo menuen er åbnet, vil der som standard være otte funktioner du kan tilgå.   Det er muligt at udvide Jieshuo menuens  funktioner, flyt markøren til mere, tryk to gange med en finger på det pågældende element, hvilket udvider Jieshuo menuen.
+Til Info!
+Jieshuo menuen, kan sammelagt udvides op til to gange, hvilket vil vise alle funktioner.\n
+        Du kan selv tilpasse, hvilke funktioner Jieshuo menuen skal vise, ved at gå ind i Avancerede funktioner > Jieshuo menu og funktionsmenu.</item>
         <item>
         tale assistent:\n
-        Som standard aktiveres tale assistenten ved et stryg ned og så til venstre med en enkelt finger, en lyd vil blive afspillet som en Identifikation på at tale assistenten lytter, herefter kan du sige handlingen du ønsker udført. Et enkelt tryk på skærmen med en enkelt finger imens tale assistenten lytter, afbryder tale assistenten\n
-        Du kan tilpasse tale assistentens funktioner og muligheder ved at gå ind i avancerede funktioner, tale assistent og oversættelse.\n</item>
+        Som standard, aktiveres tale assistenten, med et stryg ned og så til venstre med en finger. En lyd vil blive afspillet, som en Identifikation på tale assistenten lytter, herefter, vil du kunne sige den handling du ønsker udført af tale assistenten. Tryk på skærmen med en finger, for at afbryde tale assistenten , mens den er i gang med at lytte.\n
+        Du kan tilpasse tale assistentens funktioner og muligheder, ved at gå ind i Avancerede funktioner > Tale assistent og oversættelse.\n</item>
         <item>
 Funktionsmenu: \n
-        Som standard åbnes funktionsmenuen ved et stryg op og så til højre med en enkelt finger. Du kan vælge og få vist forskellige elementer i funktionsmenuen, ved at gå ind i avancerede funktioner, jieshuo menu og funktionsmenu.</item>
+        Som standard, åbnes funktionsmenuen, med et stryg op og så til højre med en finger. Du kan vælge og få vist forskellige elementer i funktionsmenuen, ved at gå ind i Avancerede funktioner > Jieshuo menu og funktionsmenu.</item>
         <item>
         Udvidelser:\n
-        Som standard åbnes udvidelsesvinduet ved et stryg op og så til venstre med en enkelt finger.\n
-        Du kan hente udvidelser ved at gå ind under hent indhold til Jieshuo, udvidelser.</item>
+        Som standard, åbnes udvidelsesvinduet, med et stryg op og så til venstre med en finger.\n
+        Du kan hente udvidelser ved at gå ind under Hent indhold til Jieshuo > Udvidelser.</item>
         <item>
-        Kopier til udklipsholder, tilføj til udklipsholder, udklipsholder og opslagstavle:\n
-        Du finder de pågældende funktioner inde i funktionsmenuen.\n
+        Kopier og føj til udklipsholder, udklipsholderen, og opslagstavlen:\n
+        Du finder de beskrevne funktioner nedenfor i funktionsmenuen.\n
         Kopier til udklipsholder: kopierer det fokuserede element til  udklipsholderen.\n
-        Tilføj til udklipsholder: kopierer det fokuserede element efter det tidligere kopieret indhold i udklipsholderen.\n
-        Udklipsholder: Administrer kopieret indhold i udklipsholderen, står du placeret på et tekstfelt, kan du trykke to gange med en enkelt finger på et element, for at indsætte indholdet, foretag et langt tryk, for at tilføje indhold til din opslagstavle, redigere tekst, slette tekst, gemme tekst internt på din enhed, eller tilføj til notesblokken.\n
-        Opslagstavle: Tilgå opslagstavlen, for at se vigtig indhold du har tilføjet hertil, står du placeret på et tekstfelt, kan du trykke to gange med en enkelt finger på et element, for at indsætte indholdet, foretag et langt tryk, for at kopiere til udklipsholderen, redigere tekst, slette tekst, gemme tekst internt på din enhed, eller tilføj til notesblokken.\n
-        Du kan sikkerhedskopierer eller  slette alt indhold I udklipsholderen og opslagstavlen, ved at gå ind i avancerede funktioner, overførsler, administrer udklipsholderen</item>
+        Føj til udklipsholder: kopierer det fokuserede element efter det tidligere kopieret indhold i udklipsholderen.\n
+        Udklipsholder: Administrer kopieret indhold i udklipsholderen. Står du placeret i et tekstfelt, kan du trykke to gange med en finger på kopieret indhold i udklipsholderen, for at indsætte det i tekstfeltet. Udfør et langt tryk, for at føje indhold til opslagstavlen, redigere tekst, slette tekst, gemme tekst internt på enheden, eller føje til notesblokken.\n
+        Opslagstavle: Tilgå opslagstavlen for at se gemt indhold du har føjet hertil. Står du placeret i et tekstfelt, kan du trykke to gange med en finger på indhold i opslagstavlen, for at indsætte det. Udfør et langt tryk, for at kopiere til udklipsholderen, redigere tekst, slette tekst, gemme tekst internt på din enhed, eller føj til notesblokken.\n
+        Du kan sikkerhedskopierer eller  slette alt indhold I udklipsholderen og opslagstavlen, ved at gå ind i Avancerede funktioner > Overførsler > Administrer udklipsholderen</item>
         <item>
         Listekopiering (kun tilgængelig i den fulde version):\n
-        Listekopiering kan kopiere indhold fra fokusmarkørens placering til det sidste element fokusmarkøren indrammer.\n
-        Efter listekopiering er startet, skal du vente til processen er fuldført, varigheden på en listekopiering varierer af mængden på det indhold der kopieres. Når processen er fuldført, vil du blive informeret omkring  antallet af linjer og elementer der er blevet kopieret til udklipsholderen.\n
-        Under en listekopiering kan du stoppe processen ved at stryge i hvilken som helst retning med en enkelt finger.</item>
+        Listekopiering kan kopiere indhold fra Jieshuo-markørens placering, til det sidste element, som Jieshuo-markøren indrammer.\n
+        Efter listekopiering er startet, skal du vente til processen er fuldført, varigheden på en listekopiering, varierer af mængden på det indhold der kopieres. Når processen er fuldført, vil du blive informeret omkring  antallet af linjer og elementer der er blevet kopieret til udklipsholderen.\n
+        Under en listekopiering, kan du stoppe processen, ved at stryge i hvilken som helst retning med en finger.</item>
         <item>
         Fuld adgang til tekstmarkering (kun tilgængelig i den fulde version):\n
-        Tekstmarkering kan hjælpe med kopiering af indhold på eksempelvis en webside, eller et længere tekstafsnit.
-        Med tekstmarkerings funktionen kan du sorterer indholdet op i tegn, ord, linjer og sætninger, hvorefter du kan markere dele af teksten du ønsker og herefter kopierer den til udklipsholderen.\n
-        Når tekstmarkerings funktionen er åbnet, kan du udføre et langt tryk på et element for at sætte en startmarkering, udfør et langt tryk på det element hvor slutmarkeringen skal sættes, alle elementer imellem start og slutmarkeringen vil derved blive valgt.</item>
+        Tekstmarkering kan hjælpe med kopiering af indhold, eksempelvis på en webside, eller i længere tekstafsnit.
+        Med tekstmarkerings funktionen, kan du sorterer indholdet op i tegn, ord, linjer og sætninger, hvorefter du kan markere dele af teksten du ønsker, og herefter kopierer den til udklipsholderen.\n
+        Når tekstmarkerings funktionen er åbnet, kan du udføre et langt tryk på et element, for at sætte en startmarkering, udfør et langt tryk på det element hvor slutmarkeringen skal sættes, alle elementer imellem start og slutmarkeringen, vil derved blive valgt.</item>
         <item>
         Tekstredigering (kun tilgængelig i den fulde version):\n
-        Du kan redigere tekst, alt fra tegn, ord, linjer, sætninger, eller hele teksten i tekstfelter eller tekst du læser.\n
-        Tryk to gange med en enkelt finger på et element for at redigere det,  udfør et langt tryk på et element for at få yderligere funktioner fremvist til det specifikke element.\n
-        Det er også muligt at gemme redigerede tekst internt på enheden. Tryk to gange med en enkelt finger på eksporter, navngiv teksten du gerne vil gemme, afslut nu processen ved at trykke to gange med en enkelt finger på ok.</item>
+        Du kan redigere tekst, alt fra tegn, ord, linjer, sætninger, eller hele teksten i tekstfelter, eller i tekst du læser.\n
+        Tryk to gange med en finger på et element, for at redigere det,  udfør et langt tryk på et element, for at få yderligere funktioner fremvist til det specifikke element.\n
+        Det er også muligt at gemme redigerede tekst internt på enheden. Tryk to gange med en finger på eksporter, navngiv teksten du gerne vil gemme, afslut nu processen, ved at trykke to gange med en finger på ok.</item>
         <item>
-        Listopstilling:\n
-        Få vist hele skærmbilledet i en listevisning, tryk på et element du gerne vil aktivere, hvorefter handlingen omgående udføres. Når funktionen listeopstilling er tilgået, kan du søge efter specifikt indhold, vises ingen søgeresultater, kan du trykke på rulle knapperne, hvorved listeopstilling vil rulle ned eller op, indtil indhold med et matchende resultat vises. Listeopstilling er praktisk ved navigering på en webside, da det i visse situationer, gør indhold mere overskueligt.</item>
+        Skærmsøgning:\n
+En skærmsøgning med Jieshuo, tilbyder at du kan søge efter specifikke elementer i det pågældende skærmbillede.
+Du foretager som standard en skærmsøgning, ved at stryge til højre og så ned med en finger. Når skærmsøgningsvinduet er åbnet, kan du søge efter specifikt indhold, Vises der ikke nogle søgeresultater, kan du vælge og trykke på en af de to rulleknapper, hvorved skærmsøgningsvinduet vil rulle ned eller op, indtil et matchende resultat vises. Vises der matchende resultater i skærmsøgningen, vil du kunne flytte Jieshuo-markøren ned gennem resultaterne. Elementet, du vælger og trykke på, vil blive aktiveret omgående, hvis det har mulighed for interaktion,  takket være intelligens fra Jieshuo. Består elementet af almindelig tekst, vil Jieshuo-markøren blive flyttet dertil, hvis du integrere med det i skærmsøgningen.
+En skærmsøgning med Jieshuo, er praktisk ved navigering inde i apps og på websider, da det i visse situationer, giver et bedre overblik over indhold, hvorved skærmlæser-brugere får en bedre forståelse for sidens indhold.</item>
         <item>
         Læsetilstand (kun tilgængelig i den fulde version):\n
         Du kan læse websiders artikler I din browser, filtrer uønsket indhold fra, og få læst indhold automatisk op.</item>
         <item>
         Jieshuo kamera (kun tilgængelig i den fulde version):\n
-        Funktionen Jieshuo kamera kan identificerer scener, tekst, ansigter, billeder, dyr, planter, frugt og grøntsager, valuta, eller hjælpe dig med kameravejledning. Jieshuo kamera kan kun bruges med enhedens bagerste kamera, et tryk på lydstyrke op-tasten påbegynder registreringsprocessen, et tryk på lydstyrke ned-tasten skifter imellem de forskellige registreringsfunktioner.</item>
+        Funktionen Jieshuo kamera, kan hjælpe med og give beskrivelse af scener, tekst, ansigter, billeder, dyr, planter, frugt og grøntsager, valuta, eller hjælpe dig med at få kameravejledning. Jieshuo kamera, kan kun bruges med enhedens bagerste kamera. Et tryk på lydstyrke op-tasten, starter registreringsprocessen, et tryk på lydstyrke ned-tasten, skifter imellem registreringsfunktionerne.</item>
         <item>
         Hurtignavigering igennem lister:\n
-        Jieshuos Bevægelsesgenveje er bevægelser der gør navigering igennem lister langt hurtigere, eksempelvis inde i Facebook, Telegram og YouTube. Bevægelsesgenveje springer overflødige elementer over, for at gøre navigeringen mere simpel, hvilket gør læsning af indhold mere behagelig. Brug den højre bevægelsesgenvej for at navigere i en liste, brug den venstre bevægelsesgenvej for at navigere tilbage i en liste. Du kan finde flere indstillinger til Jieshuos bevægelsesgenveje, ved at gå ind under bevægelse og navigering, bevægelseshåndtering, bevægelsesgenveje.</item>
+        Jieshuos Bevægelsesgenveje, er bevægelser der gør navigering igennem lister langt hurtigere, eksempelvis i Facebook, Telegram og YouTube. Bevægelsesgenveje, springer uoverflødige elementer over, for at gøre navigeringen mere simpel, hvilket gør læsning af indhold mere behagelig. Brug den højre bevægelsesgenvej, for at navigere i en liste, brug den venstre bevægelsesgenvej, for at navigere tilbage i en liste. Du kan finde flere indstillinger til Jieshuos bevægelsesgenveje, ved at gå ind under Bevægelse og navigering > Bevægelseshåndtering > Bevægelsesgenveje.</item>
         <item>
         Systemdialoger der aldrig skal læses op og altid skal læses op:\n
-        Systemdialoger der aldrig skal læses op kan filtrere  systemdialoger indeholdende specifikt indhold.\n
-        Systemdialoger der altid skal læses op kan hjælpe med at læse systemdialoger indeholdende specifikt indhold.</item>
+        Systemdialoger der aldrig skal læses op, kan filtrere  systemdialoger, indeholdende specifikt indhold.\n
+        Systemdialoger der altid skal læses op, kan hjælpe med at læse systemdialoger, indeholdende specifikt indhold.</item>
         <item>
-        Fokusmarkør systemdialoger der aldrig skal læses op:\n
-        Du kan filtrere fokusmarkørens indhold til det specifikke element, det bruges primært til at filtrere tilgængelighedsvejledninger fra.</item>
+        Jieshuo-markør systemdialoger der aldrig skal læses op:\n
+        Du kan filtrere Jieshuo-markørens indhold til et specifikt element, det bruges primært til at filtrere tilgængelighedsvejledninger fra.</item>
         <item>
-        Filtrer billeder på websider med manglende alternative billedbeskrivelser (kun tilgængelig i den fulde version):\n
-        Billeder der mangler en alternativ billedbeskrivelse på en webside, skal filtreres. Denne filtrering gør det nemmere og hurtigere at konstatere indholdet ikke indeholder en alternativ billedbeskrivelse, hvilket hjælper med unødvendig information omkring det aktuelle billede.</item>
+        Filtrer billeder på websider, med manglende alternative billedtekster (kun tilgængelig i den fulde version):\n
+        Billeder, med manglende alternative billedtekster på websider, kan filtreres. Denne filtrering, gør det nemmere og hurtigere, at konstatere, at indholdet, ikke indeholder en alternativ billedtekst, hvilket hjælper med unødvendig information til et aktuelt billede.</item>
         <item>
         Tilpas og hent bevægelsestemaer:\n
         Du kan tilpasse indbyggede og udvidet funktioner til bevægelser.\n
-        Det er en mulighed at hente et nyt bevægelsestema, hvilket giver adgang til nye bevægelser. Du henter et nyt bevægelsestema, ved at gå ind i hent indhold til Jieshuo, bevægelsestema.\n
-        Efter bevægelsestemaet er blevet hentet, skal det vælges som dit bevægelsestema, før du kan bruge det. For at vælge et bevægelsestema, skal du gå ind i bevægelse og navigering, bevægelsestema.\n
-        Hvis du ønsker at oprette dit eget bevægelsestema, er det også en mulighed. For at oprette dit eget bevægelsestema, skal du gå ind i bevægelse og navigering, administrer bevægelsestemaer, opret nyt bevægelsestema. Efter et bevægelsestema er oprettet, kan du efterfølgende gå ind og tilpasse bevægelser efter dine egene preferencer. For at kunne tilpasse bevægelser i et specifikt bevægelsestema, skal du gå ind i bevægelse og navigering, tilpas bevægelsestema.</item>
+        Det er en mulighed at hente et nyt bevægelsestema, hvilket giver adgang til nye bevægelser. Du henter et nyt bevægelsestema, ved at gå ind i Hent indhold til Jieshuo > Bevægelsestema.\n
+        Efter bevægelsestemaet er hentet ned, skal du først vælge det som dit bevægelsestema, før du kan tage det i brug. For at vælge et bevægelsestema, skal du gå ind i Bevægelse og navigering > Bevægelsestema.\n
+        Hvis du ønsker at oprette dit eget bevægelsestema, er det også en mulighed. For at oprette dit eget bevægelsestema, skal du gå ind i Bevægelse og navigering > Administrer bevægelsestemaer > Opret nyt bevægelsestema. Efter et bevægelsestema er oprettet, kan du efterfølgende gå ind og tilpasse bevægelser efter dine egene preferencer. For at kunne tilpasse bevægelser, i et specifikt bevægelsestema, skal du gå ind i Bevægelse og navigering > Tilpas bevægelsestema.</item>
+        <item>
+        Gamer-tilstand:\n
+        Vil du gerne spille spil på din smartphone, har Jieshuo en indbygget funktion, kaldet for gamer-tilstand, som hjælper med at levere den bedste oplevelse, når du gamer.
+        Du kan vælge hvilke apps som skal bruge Jieshuos indbyggede gamer-tilstand, ved at gå ind i Bevægelse og navigering > Gamer-tilstand > Apps til gamer-tilstand.
+        Det er muligt at vælge og slå Jieshuos tale fra, når gamer-tilstand er aktiv, dette hjælper med at undgå forstyrrelser, når du er ved at game. Desuden, kan du også vælge, at kant-bevægelser og menuer skal slåes fra, når gamer-tilstand er aktiv, dette hjælper med at undgå du ikke udløser en kant-bevægelse, eller trækker en kant-menu frem ved et uheld, imens du gamer. Jieshuos tale, kant-bevægelser og menuer, bliver automatisk slået til igen, når du går ud af apps, som er valgt til gamer-tilstand.</item>
+        <item>
+        Fingeraftrykssensor-bevægelser:\n
+        Har du en smartphone med en fysisk fingeraftrykssensor, kan du udføre forskellige handlinger, ved at stryge til venstre, højre, op, og ned på den, f.eks. åbne en app, eller kopiere tekst.
+        For at bruge fingeraftrykssensor-bevægelser, skal du gå ind i Bevægelse og navigering > Fingeraftrykssensor-bevægelser, vælg herinde brug fingeraftrykssensor-bevægelser.
+        Til info!
+        For at bruge fingeraftrykssensor-bevægelser, kræver det at enheden har en fysisk fingeraftrykssensor, samt at Android 8 eller nyere installeret.</item>
+        <item>
+        Kant-bevægelser (kun tilgængelig i den fulde version):\n
+        Med kant-bevægelser, er det en mulighed at udføre forskellige kommandoer, ved at stryge med dine fingre fra skærmens kanter af.
+        Kant-bevægelser kan slåes til, ved at du går ind i Bevægelse og navigering > Bevægelseshåndtering.
+        Kant-bevægelser kan udløses ved hjælp af enten en eller to fingre. Du kan vælge om kant-bevægelser skal bruges med enten en, eller to fingre, ved at gå ind i  Bevægelse og navigering > Bevægelseshåndtering > Indstillinger for kant-bevægelser.
+        Med kant-bevægelser, kan du også trække menuer frem fra den venstre eller højre kant af skærmen, disse menuer, kaldes for kant-menuer.
+        Kant-menuer, giver dig mulighed for at udføre forskellige kommandoer, hvilket hjælper med at spare dig for unødvendig tid, i at søge efter en specifik funktion, app, eller kommando.
+        Du kan tilpasse kant-menuerne, ved at gå ind i Bevægelse og navigering > Bevægelseshåndtering > Indstillinger for kant-bevægelser > Tilpas den venstre/højre kant-menu.
+        Kant-bevægelser og kant-menuer, aktiveres på et lodret aktiveringspunkt, som har fire niveauer for  størrelser du kan vælge imellem, som standard er mellem valgt. Du kan tilpasse størrelsen for det lodrette aktiveringspunkt, ved at gå ind i Bevægelse og navigering > Bevægelseshåndtering > Indstillinger for kant-bevægelser > Størrelse for lodret aktiveringspunkt.
+        Kant-menuer har en funktion, som kan vise dine tilføjede app-bevægelsestemaers kommandoer. Med denne funktion slået til, kan du udføre forskellige kommandoer, ved at trække den venstre kant-menu frem, inde i de appps, som har tilføjede app-bevægelser.</item>
         <item>
         Flerparts-bevægelser (kun tilgængelig i den fulde version):\n
-        En flerparts-bevægelse er en bevægelse der skal udføres indenfor en bestemt tidsperiode, efter en anden bevægelse er udført.\n
-        Flerparts-bevægelser kan slåes til ved at du går ind i bevægelse og navigering, bevægelseshåndtering.\n
-        Efter flerparts-bevægelser er slået til, har du som standard et halvt sekund til at udføre flerparts-bevægelsen du ønsker, denne tidsperiode kan du ændrer ved at gå ind i bevægelse og navigering, bevægelseshåndtering, varighed for flerparts-bevægelse. Du kan vælge hvilke handlinger der skal udføres til en specifik flerpartsbevægelse, ved at gå ind i bevægelse og navigering, bevægelseshåndtering, flerparts-bevægelser.</item>
+        En flerparts-bevægelse, er en bevægelse der skal udføres, indenfor en bestemt tidsperiode, straks efter en anden bevægelse er udført.\n
+        Flerparts-bevægelser kan slåes til, ved at du går ind i Bevægelse og navigering > Bevægelseshåndtering.\n
+        Efter flerparts-bevægelser er slået til, har du som standard et halvt sekund, til at udføre en flerparts-bevægelse, denne tidsperiode, kan du tilpasse, ved at gå ind i Bevægelse og navigering > Bevægelseshåndtering > Varighed for flerparts-bevægelse. Du kan vælge, hvilke handlinger der skal udføres, til en specifik flerpartsbevægelse, ved at gå ind i Bevægelse og navigering > Bevægelseshåndtering > Indstillinger for flerparts-bevægelser.</item>
+        <item>
+        Jieshuo profiler:\n
+        Er der flere brugere af den samme enhed i husstanden, f.eks. en tablet, er Jieshuo profiler, en funktion der anbefales.
+        Med Jieshuo profiler, kan de forskellige brugere i hustanden, oprette sine egne indstillinger, som tilhører profilen de foretages i.
+        Jieshuo profiler kan tilføjes og administreres, inde i Avancerede funktioner > Jieshuo profiler.
+        Det er muligt at vælge hvilken Jieshuo profil der skal bruges, ved at gå ind i Avancerede funktioner > Jieshuo profiler, eller ved at tilgå Jieshuo menuen, og her finde Jieshuo profiler.
+        </item>
     </string-array>
 
     <string-array name="code_help_items">
@@ -588,82 +620,88 @@ Funktionsmenu: \n
     <string-array name="gesture_help_items">
         <item>
         Standardbevægelser:\n
-        Bevægelser med en enkelt finger skal udføres lige og bevægelsen skal foregå i et almindeligt tempo.\n
-        Bevægelser med en enkelt finger bruges f.eks. til at flytte fokusmarkøren, og benytte bevægelsesgenveje. Vær opmærksom på, at denne hjælpebeskrivelse forholder sig til at invertering af bevægelser ikke er valgt.</item>
+        Bevægelser med en finger, skal udføres lige, og foregå i et almindeligt tempo.\n
+        Bevægelser med en finger, bruges f.eks. til at flytte Jieshuo-markøren, eller benytte bevægelsesgenveje. Til info!
+Hjælpebeskrivelsen forholder sig til at invertering af bevægelser ikke er valgt.</item>
         <item>
-        En enkelt finger frem og tilbage:\n
-        Stryg op og så ned med en enkelt finger: flyt fokusmarkøren til det første element i skærmbilledet.\n
-        Stryg ned og så op med en enkelt finger: flyt fokusmarkøren til det sidste element i skærmbilledet.\n
-        Stryg til venstre og så højre med en enkelt finger: seneste apps.\n
-        Stryg til højre og så venstre med en enkelt finger: gå tilbage til det forrige skærmbillede.\n
-        Stryg op og så til højre med en enkelt finger: funktionsmenu.\n
-        Stryg ned og så til højre med en enkelt finger: Jieshuo menu.\n
-        Stryg op og så til venstre med en enkelt finger: udvidelser.\n
-        Stryg ned og så til venstre med en enkelt finger: tale assistent.\n
-        Stryg til venstre og så ned med en enkelt finger: tekstnavigeringsmarkør.\n
-        Stryg til venstre og så op med en enkelt finger: notifikationscenter.\n
-        Stryg til højre og så op med en enkelt finger: læs fra det næste element.\n
-        Stryg til højre og så ned med en enkelt finger: listeopstilling.\n
+        Bevægelser med en finger:\n
+        Stryg op og så ned med en finger: flytter Jieshuo-markøren til det første element i skærmbilledet.\n
+        Stryg ned og så op med en finger: flytter Jieshuo-markøren til det sidste element i skærmbilledet.\n
+        Stryg til venstre og så højre med en finger: viser skærmbillede over seneste apps.\n
+        Stryg til højre og så venstre med en finger: går tilbage til det forrige skærmbillede.\n
+        Stryg op og så til højre med en finger: åbner funktionsmenuen.\n
+        Stryg ned og så til højre med en finger: Åbner Jieshuo menuen.\n
+        Stryg op og så til venstre med en finger: viser udvidelser til Jieshuo.\n
+        Stryg ned og så til venstre med en finger: aktivere tale assistenten.\n
+        Stryg til venstre og så ned med en finger: Slår tekstnavigeringsmarkøren til, udfør samme bevægelse igen, for at slå Jieshuo-markøren til.\n
+        Stryg til venstre og så op med en finger: viser enhedens notifikationscenter.\n
+        Stryg til højre og så op med en finger: læser fra det næste element.\n
+        Stryg til højre og så ned med en finger: Foretager en skærmsøgning i skærmbilledet.\n</item>
+        <item>
+        Almindelig navigering med Jieshuo-markøren:\n
+        Stryg ned med en finger: flytter Jieshuo-markøren til næste element.\n
+        Stryg op med en finger: flytter Jieshuo-markøren til forrige element.
         </item>
         <item>
-        Almindelig navigering med fokusmarkøren:\n
-        Stryg ned med en enkelt finger: flyt fokusmarkøren til det næste element.\n
-        Stryg op med en enkelt finger: flyt fokusmarkøren til det forrige element.
+        Justering af skydværdi:\n
+		Stryg til venstre  med en finger: sænker skyderværdi.\n
+        Stryg til højre med en finger: forøger skyderværdi.
         </item>
         <item>
-        Justering af en skyders værdi:\n
-		Stryg til venstre  med en enkelt finger: sænk skyderens værdi.\n
-        Stryg til højre med en enkelt finger: forøg skyderens værdi.
-        </item>
-        <item>
-        Tekstfelter:\n
-        Stryg til højre med en enkelt finger: flyt tekstmarkøren fremad tegn for tegn.\n
-        Stryg til venstre med en enkelt finger: flyt tekstmarkøren tilbage tegn for tegn.
+        Flyt indsætningsmærkets placering i tekstfelter:\n
+        Stryg til højre med en finger: flytter indsætningsmærket fremad tegn for tegn.\n
+        Stryg til venstre med en finger: flytter indsætningsmærket tilbage tegn for tegn.\n
+        Stryg op og så ned med en finger: flytter indsætningsmærket til begyndelsen af tekstfeltet.\n
+        Stryg ned og så op med en finger: flytter indsætningsmærket til slutningen af tekstfeltet.\n
+        Tryk to gange med en finger: flytter indsætningsmærket til begyndelsen af tekstfeltet, foretag handlingen igen, for at flytte indsætningsmærket til slutningen af tekstfeltet.
         </item>
         <item>
         Bevægelser  med Tekstnavigeringsmarkøren:\n
-        Stryg ned med en enkelt finger: flyt tekstnavigeringsmarkøren fremad en linje af gangen.\n
-        Stryg op med en enkelt finger: flyt tekstnavigeringsmarkøren tilbage en linje af gangen.\n
-        Stryg til højre med en enkelt finger: naviger fremad tegn for tegn.\n
-        Stryg til venstre med en enkelt finger: naviger tilbage tegn for tegn.\n
-        Stryg til højre og så ned med en enkelt finger: flyt en sætning fremad af gangen.\n
-        Stryg til venstre og så op med en enkelt finger: Går en sætning tilbage af gangen.\n
-        Stryg op og så til højre med en enkelt finger: tilgå markeringsmarkøren.\n
-        Stryg til venstre og så ned med en enkelt finger: luk tekstnavigeringsmarkøren og vend tilbage til skærmfokusmarkøren..
+        Stryg ned med en finger: flytter tekstnavigeringsmarkøren fremad en linje af gangen.\n
+        Stryg op med en finger: flytter tekstnavigeringsmarkøren tilbage en linje af gangen.\n
+        Stryg til højre med en finger: flytter tekstnavigeringsmarkøren fremad tegn for tegn.\n
+        Stryg til venstre med en finger: flytter tekstnavigeringsmarkøren tilbage tegn for tegn.\n
+        Stryg til højre og så ned med en finger: flytter tekstnavigeringsmarkøren en sætning fremad af gangen.\n
+        Stryg til venstre og så op med en finger: flytter tekstnavigeringsmarkøren en sætning tilbage af gangen.\n
+        Stryg op og så til højre med en finger: Slår markeringsmarkøren til, udfør samme bevægelse igen, for at slå tekstnavigeringsmarkøren til.\n
+        Stryg til venstre og så ned med en finger: slår Jieshuo-markøren til.\n
+        Til Info!\n
+        Bruger du tilpassede bevægelser, kan bevægelser med tekstnavigeringsmarkøren, ikke bruges. Du kan undgå denne konflikt, ved at gå ind i Bevægelse og navigering > Bevægelseshåndtering, vælg herinde, at slå midlertidig tilpasset bevægelser fra, når tekstnavigeringsmarkøren er slået til.  
         </item>
         <item>
-        Bevægelser når markeringsmarkøren er aktiv: \n
-        Tryk en gang med en enkelt finger: læs valgt tekst op.\n
-        Stryg op med en enkelt finger: markerer en linje frem af gangen.\n
-        Stryg ned med en enkelt finger: markerer en linje tilbage af gangen.\n
-        Stryg til højre med en enkelt finger: markerer et tegn frem af gangen.\n
-        Stryg til venstre med en enkelt finger: markerer et tegn tilbage af gangen.\n
-        Stryg til venstre og så ned med en enkelt finger: markerer en sætning frem af gangen.\n
-        Stryg til højre og så op med en enkelt finger: markerer en sætning af gangen.\n
-        Stryg op og så til højre med en enkelt finger: luk markeringsmarkøren og vend tilbage til tekstnavigeringsmarkøren.\n
-        Stryg ned og så til højre med en enkelt finger: kopier markeret tekst til udklipsholder.\n
-        Stryg op og så til venstre med en enkelt finger: tilføj markeret indhold til udklipsholder.\n
-        Stryg til højre og så op med en enkelt finger: kopier alt tekst til udklipsholderen.
+        Bevægelser med markeringsmarkøren: \n
+        Tryk en gang med en finger: læser valgt tekst op.\n
+        Stryg op med en finger: markerer en linje frem af gangen.\n
+        Stryg ned med en finger: markerer en linje tilbage af gangen.\n
+        Stryg til højre med en finger: markerer et tegn frem af gangen.\n
+        Stryg til venstre med en  finger: markerer et tegn tilbage af gangen.\n
+        Stryg til venstre og så ned med en finger: markerer en sætning frem af gangen.\n
+        Stryg til højre og så op med en finger: markerer en sætning tilbage af gangen.\n
+        Stryg op og så til højre med en finger: Slår tekstnavigeringsmarkøren til.\n
+        Stryg til venstre og så ned med en finger: slår Jieshuo-markøren til.\n
+        Stryg ned og så til højre med en finger: kopiere markeret tekst til udklipsholderen.\n
+        Stryg op og så til venstre med en finger: tilføjer markeret tekst til udklipsholderen.\n
+        Stryg til højre og så op med en finger: kopiere alt tekst til udklipsholderen.
         </item>
         <item>
-        Tale assistent: \n
-        Åbn + navn på specifik app: åbn specifik app du ønsker.
-        Sig send + tekst du gerne vil sende: sender hvad du har sagt inde i dine beskedapps, eksempelvis beskeder, Messenger og WhatsApp.
-        Sig søg efter + hvad du gerne vil søge efter: udfør en online søgning efter det indhold du beder om.
-        Tale assistenten kan udvides med funktioner, ved at du går ind i avancerede funktioner, tale assistent og oversættelse, tale assistent funktioner. Tale assistenten kan også tilgå og bruge dine udvidelser og Tilføjelsesprogrammer.
+        Stemmekommandoer til tale assistenten: \n
+        Sig åbn, plus navn på specifik app: åbner den specifikke app.
+        Sig send + tekst der skal sendes: sender tekst du har sagt i beskedapps, eksempelvis beskeder, Messenger og WhatsApp.
+        Sig søg efter, plus hvad du gerne vil søge efter: udfører en online søgning, efter det indhold du beder om.
+        Tale assistenten kan udvides med funktioner, ved at du går ind i Avancerede funktioner > Tale assistent og oversættelse > Tale assistent funktioner. Tale assistenten har muligheden, for at kunne tilgå og bruge dine udvidelser, og Tilføjelsesprogrammer.
         </item>
     </string-array>
     <string-array name="voice_helper_help_items">
-        <item>Åbn app: åbn specifik app du beder tale assistenten om at åbne for dig.</item>
-        <item>Sig installer + den app du gerne vil hente: åbner den givende app i play butik, hvorefter den kan installeres.</item>
-        <item>Sig afinstallere + programmet der skal afinstalleres: kommandoen vil afinstallerer et givende program på din enhed.</item>
+        <item>Sig åbn app: åbner den specifikke app.</item>
+        <item>Sig installer, plus navn på app der skal hentes ned: åbner den givende app i play butik, hvorefter den kan installeres.</item>
+        <item>Sig afinstallere, plus navn på app: afinstallerer den givende app på enheden.</item>
         <item>Sig læs hele skærmen op: læser hele skærmbilledet op.</item>
         <item>Sig læs fra det næste element: læser fra det næste element.</item>
-        <item>Registrer tændt lys: informerer dine nuværende omgivelsers lysniveau.</item>
-        <item>Tryk: aktiverer det fokuserede element.</item>
-        <item>Sig aktiver + navn på element: aktivere et specifikt element du beder tale assistenten om.</item>
+        <item>Sig registrer tændt lys: informerer dine nuværende omgivelsers lysniveau.</item>
+        <item>Sig tryk: aktiverer elementet i markøren.</item>
+        <item>Sig aktiver, plus navn på element: aktivere et specifikt element du beder tale assistenten om.</item>
         <item>Sig kopier til udklipsholder: kopierer det fokuserede element til udklipsholderen.</item>
-        <item>Sig oversæt: kommandoen vil oversætte det fokuserede element, efterfølgende kan du tilgå  resultatet i udklipsholderen.</item>
+        <item>Sig oversæt element: kommandoen vil oversætte elementet i markøren, efterfølgende, vil du kunne tilgå  resultatet i udklipsholderen.</item>
 
     </string-array>
 

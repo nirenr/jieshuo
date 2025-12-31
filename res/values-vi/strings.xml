@@ -1,44 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">jieshuo+</string>
-    <string name="accessibility_service_description">
-        Jieshuo+ là một phần mềm nhằm giúp cho những người khiếm thị sử dụng điện thoại di động chạy hệ điều hành Android một cách hiệu quả hơn. Chúng tôi đã đưa ra một số đổi mới trong lĩnh vực tương tác giữa con người và máy móc. Chúng tôi hiểu rằng việc hiểu rõ hoàn toàn về phần mềm của chúng tôi có thể mất thời gian, vì vậy chúng tôi động viên bạn khám phá các cài đặt để nhận được trợ giúp hoặc liên hệ với chúng tôi.\n
-        Một số chức năng bị hạn chế và chỉ được mở khóa sau khi bạn mua phiên bản đầy đủ của chương trình. Để biết thêm chi tiết, vui lòng truy cập vào nhóm Telegram chính thức của chúng tôi, Hãy tìm kiếm trên telegram với tên "Jieshuo VN nhóm thảo luận chính thức" Hoặc vào nhóm bằng liên kết sau : https://t.me/Jieshuovn.\n
-        \n
-        Các tính năng đáng chú ý nhất bao gồm:\n
-        Trợ lý giọng nói: nhập văn bản, trò chuyện với bạn bè hoặc sử dụng điện thoại di động của bạn mà không cần chạm vào nó.\n
-        Hệ thống Tiện ích mở rộng: đạt được vô số khả năng với hệ thống Tiện ích mở rộng tiên tiến. Bạn có thể tải xuống các Tiện ích mở rộng có sẵn hoặc tạo Tiện ích mở rộng của riêng bạn.\n
-        Chế độ duyệt danh sách, chế độ duyệt nút, chế độ duyệt tự động, chế độ duyệt toàn văn bản, chế độ duyệt chi tiết hoặc chế độ duyệt từng ký tự: luôn tìm thấy nội dung mà bạn cần với các trợ giúp điều hướng mạnh mẽ này.\n
-        Nâng ngón tay để kích hoạt mục đang ở dưới đó: dễ dàng điều hướng xung quanh giao diện, không cần nhớ hàng tá cử chỉ.\n
-        Âm thanh cử chỉ tùy chỉnh: luôn làm hài lòng tai của bạn với Âm thanh cử chỉ phù hợp nhất với bạn.\n
-        Chọn và sao chép: chọn và sao chép mọi thứ bạn cần.\n
-        Các cử chỉ động: chương trình thích nghi với điều kiện hiện tại trên màn hình, chọn lựa lối điều khiển phù hợp nhất với tình huống mà bạn đang ở.\n
-        Hệ thống cử chỉ tùy chỉnh mở rộng: tái định hướng bất kỳ cử chỉ nào theo ý thích của bạn, tạo một lối điều khiển hoàn toàn mới và chia sẻ nó với bạn bè.\n
-        Dual-voice engine: sử dụng hai bộ tổng hợp giọng nói cùng một lúc để nội dung không quan trọng sẽ không làm phiền quá trình đọc chính của bạn.\n
-			\n
-        Sau khi mua chương trình, bạn sẽ có quyền truy cập vào các tính năng sau đây:\n
-        Màn hình ảo: những phần mềm không thể tiếp cận trước đó không còn là rào cản không thể vượt qua. Khám phá một thế giới hoàn toàn mới cho chính mình nhờ tính năng này.\n
-        Nhận dạng OCR tự động: bất cứ nơi nào bạn chạm vào, công cụ OCR sẽ đi cùng bạn để tìm hiểu về những phần thậm chí không thể truy cập được.\n
-        Đọc tin nhắn tự động: tự động đọc tin nhắn từ QQ, YY, Tiktok và nhiều ứng dụng khác.\n
-        Đọc phụ đề tự động: xem phim nước ngoài chưa bao giờ dễ dàng hơn thế! Tự động đọc phụ đề video và giúp trải nghiệm xem phim của bạn trở nên tuyệt vời hơn.\n
-        Nhận dạng CAPTCHA: sử dụng tính năng AI tiên tiến để nhận dạng CAPTCHA với tốc độ cực nhanh.\n
-        Jieshuo Camera: Tìm hiểu về các cảnh, hình ảnh, người và văn bản xung quanh bạn.\n
-        Lọc nội dung web: không bao giờ để nội dung không quan trọng làm phiền bạn trong quá trình đọc. Lọc hình ảnh, văn bản quảng cáo và các yếu tố không mong muốn khác.\n
-        Sao chép danh sách: nói lời tạm biệt với các phương pháp tẻ nhạt để sao chép danh sách dài. Chỉ cần một lần nhấn là đủ để sao chép những danh sách dài nhất.\n
-        Chế độ đọc bài viết: tự động chuyển trang, lọc nội dung hoặc chế độ đọc trong nền. Hãy để Jieshuo trở thành người đọc sách cho bạn.\n
-        Cử chỉ tùy chỉnh cho từng ứng dụng: tạo các cử chỉ tùy chỉnh riêng  cho từng ứng dụng. Tính năng này mang đến vô số khả năng.\n
-        Mục yêu thích: thu thập nội dung được sử dụng thường xuyên bất cứ lúc nào, ở bất cứ đâu và truy cập dễ dàng.\n
-        Chế độ chỉnh sửa chi tiết: chỉnh sửa văn bản theo từng ký tự, từ, câu hoặc đoạn nhanh hơn, và thực hiện tất cả các thay đổi một cách chính xác.\n
-        Lựa chọn toàn văn bản: lựa chọn bằng ký tự, từ, câu hoặc đoạn để sao chép văn bản chính xác tại vị trí bạn mong muốn.\n
-        Lệnh thoại tùy chỉnh: được điều khiển bởi cùng một công cụ điều khiển hệ thống Tiện ích mở rộng, vô số khả năng cập nhật và điều chỉnh trợ lý giọng nói đang chờ đón bạn.\n
-        Hệ thống Tiện ích mở rộng tự động khởi chạy: tự động khởi động các Tiện ích mở rộng khác nhau trong khoảng thời gian đã đặt.\n
-        Jieshuo+ là của chúng tôi cũng như của bạn. Tạo nên trải nghiệm Jieshuo+ riêng của bạn với vô số tùy chọn cấu hình.
-    </string>
+    <string name="accessibility_service_description">  Jieshuo là một phần mềm nhằm giúp cho những người khiếm thị sử dụng điện thoại di động chạy hệ điều hành Android một cách hiệu quả hơn. Chúng tôi đã đưa ra một số đổi mới trong lĩnh vực tương tác giữa con người và máy móc. Chúng tôi hiểu rằng việc hiểu rõ hoàn toàn về phần mềm của chúng tôi có thể mất thời gian, vì vậy chúng tôi động viên bạn khám phá các cài đặt để nhận được trợ giúp hoặc liên hệ với chúng tôi.\n
+    Một số chức năng bị hạn chế và chỉ được mở khóa sau khi bạn mua phiên bản đầy đủ của chương trình. Để biết thêm chi tiết, vui lòng truy cập vào nhóm Telegram chính thức của chúng tôi, Hãy tìm kiếm trên telegram với tên "Jieshuo VN nhóm thảo luận chính thức" Hoặc vào nhóm bằng liên kết sau : https://t.me/Jieshuovn.\n\n
+    Các tính năng đáng chú ý nhất bao gồm:\n
+    Trợ lý giọng nói: nhập văn bản, trò chuyện với bạn bè hoặc sử dụng điện thoại di động của bạn mà không cần chạm vào nó.\n
+    Hệ thống Tiện ích mở rộng: đạt được vô số khả năng với hệ thống Tiện ích mở rộng tiên tiến. Bạn có thể tải xuống các Tiện ích mở rộng có sẵn hoặc tạo Tiện ích mở rộng của riêng bạn.\n
+    Chế độ duyệt danh sách, chế độ duyệt nút, chế độ duyệt tự động, chế độ duyệt toàn văn bản, chế độ duyệt chi tiết hoặc chế độ duyệt từng ký tự: luôn tìm thấy nội dung mà bạn cần với các trợ giúp điều hướng mạnh mẽ này.\n
+    Nâng ngón tay để kích hoạt mục đang ở dưới đó: dễ dàng điều hướng xung quanh giao diện, không cần nhớ hàng tá cử chỉ.\n
+    Âm thanh cử chỉ tùy chỉnh: luôn làm hài lòng tai của bạn với Âm thanh cử chỉ phù hợp nhất với bạn.\n
+    Chọn và sao chép: chọn và sao chép mọi thứ bạn cần.\n
+    Các cử chỉ động: chương trình thích nghi với điều kiện hiện tại trên màn hình, chọn lựa lối điều khiển phù hợp nhất với tình huống mà bạn đang ở.\n
+    Hệ thống cử chỉ tùy chỉnh mở rộng: tái định hướng bất kỳ cử chỉ nào theo ý thích của bạn, tạo một lối điều khiển hoàn toàn mới và chia sẻ nó với bạn bè.\n
+    Dual-voice engine: sử dụng hai bộ tổng hợp giọng nói cùng một lúc để nội dung không quan trọng sẽ không làm phiền quá trình đọc chính của bạn.\n  \n
+    Sau khi mua chương trình, bạn sẽ có quyền truy cập vào các tính năng sau đây:\n
+    Màn hình ảo: những phần mềm không thể tiếp cận trước đó không còn là rào cản không thể vượt qua. Khám phá một thế giới hoàn toàn mới cho chính mình nhờ tính năng này.\n
+    Nhận dạng OCR tự động: bất cứ nơi nào bạn chạm vào, công cụ OCR sẽ đi cùng bạn để tìm hiểu về những phần thậm chí không thể truy cập được.\n
+    Đọc tin nhắn tự động: tự động đọc tin nhắn từ QQ, YY, Tiktok và nhiều ứng dụng khác.\n
+    Đọc phụ đề tự động: xem phim nước ngoài chưa bao giờ dễ dàng hơn thế! Tự động đọc phụ đề video và giúp trải nghiệm xem phim của bạn trở nên tuyệt vời hơn.\n
+    Nhận dạng CAPTCHA: sử dụng tính năng AI tiên tiến để nhận dạng CAPTCHA với tốc độ cực nhanh.\n
+    Jieshuo Camera: Tìm hiểu về các cảnh, hình ảnh, người và văn bản xung quanh bạn.\n
+    Lọc nội dung web: không bao giờ để nội dung không quan trọng làm phiền bạn trong quá trình đọc. Lọc hình ảnh, văn bản quảng cáo và các yếu tố không mong muốn khác.\n
+    Sao chép danh sách: nói lời tạm biệt với các phương pháp tẻ nhạt để sao chép danh sách dài. Chỉ cần một lần nhấn là đủ để sao chép những danh sách dài nhất.\n
+    Chế độ đọc bài viết: tự động chuyển trang, lọc nội dung hoặc chế độ đọc trong nền. Hãy để Jieshuo trở thành người đọc sách cho bạn.\n
+    Cử chỉ tùy chỉnh cho từng ứng dụng: tạo các cử chỉ tùy chỉnh riêng  cho từng ứng dụng. Tính năng này mang đến vô số khả năng.\n
+    Mục yêu thích: thu thập nội dung được sử dụng thường xuyên bất cứ lúc nào, ở bất cứ đâu và truy cập dễ dàng.\n
+    Chế độ chỉnh sửa chi tiết: chỉnh sửa văn bản theo từng ký tự, từ, câu hoặc đoạn nhanh hơn, và thực hiện tất cả các thay đổi một cách chính xác.\n
+    Lựa chọn toàn văn bản: lựa chọn bằng ký tự, từ, câu hoặc đoạn để sao chép văn bản chính xác tại vị trí bạn mong muốn.\n
+    Lệnh thoại tùy chỉnh: được điều khiển bởi cùng một công cụ điều khiển hệ thống Tiện ích mở rộng, vô số khả năng cập nhật và điều chỉnh trợ lý giọng nói đang chờ đón bạn.\n
+    Hệ thống Tiện ích mở rộng tự động khởi chạy: tự động khởi động các Tiện ích mở rộng khác nhau trong khoảng thời gian đã đặt.\n
+    Jieshuo+ là của chúng tôi cũng như của bạn. Tạo nên trải nghiệm Jieshuo+ riêng của bạn với vô số tùy chọn cấu hình.  </string>
 
-    <string name="about_title"> Công ty Công nghệ Hebei Biyou </string>
-    <string name="help_feed_summary">Jieshuo+ được cung cấp bởi một số công nghệ như Tencent Youtu, Tencent AI, Baidu Voice, Baidu Translation, Baidu LBS, Baidu MTJ, Google Dịch và Andro Lua +</string>
+    <string name="about_title"> Công ty  trách nhiệm hữu hạn Công nghệ Hà Bắc Biyou </string>
+    <string name="help_feed_summary">Jieshuo được cung cấp bởi một số công nghệ như Tencent Youtu, Tencent AI, Baidu Voice, Baidu Translation, Baidu LBS, Baidu MTJ, Google Dịch và Andro Lua +</string>
 
-    <string name="menu_title">Menu chính</string>
+    <string name="menu_title">Trình đơn chính  </string>
 
     <string name="tts_speed_title">tốc độ giọng nói</string>
     <string name="tts_speed_summary">Điều chỉnh tốc độ của giọng nói hiện tại đang được chọn</string>
@@ -96,7 +92,7 @@
     <string name="notification_type_status_started">"Đã bắt đầu"</string>
     <string name="notification_type_status_stopped">"Đã dừng"</string>
     <string name="acc_settings_title">Cài đặt trợ năng</string>
-    <string name="qq_group_title">Jieshuo+ Nhóm QQ (phiên bản đầy đủ)</string>
+    <string name="qq_group_title">Jieshuo Nhóm QQ (Dành  cho  người dùng cao cấp)</string>
     <string name="audio_focus_title">Chế độ giảm âm</string>
 
     <string name="voice_app_name">Trợ lý giọng nói</string>
@@ -107,17 +103,17 @@
     <string name="notification_speak_title">Đọc thông báo</string>
     <string name="plugin_title">Tiện ích mở rộng</string>
     <string name="action_menu_title">Menu hành động</string>
-    <string name="clipboard_menu_title">Lịch sử bộ nhớ tạm</string>
+    <string name="clipboard_menu_title">Lịch sử bảng tạm</string>
     <string name="select_menu_title">Chế độ chọn</string>
     <string name="all_text_title">Xem toàn văn</string>
-    <string name="use_touch_mode_title">Sử dụng chế độ duyệt bằng cảm ứng (Đừng bỏ chọn nếu bạn bị khiếm thị hoàn toàn)</string>
+    <string name="use_touch_mode_title">Sử dụng chế độ duyệt bằng cảm ứng (Đừng bỏ chọn nếu bạn  không nhìn thấy hoàn toàn)</string>
     <string name="unknown_lable_title">Đọc các mục chưa được gắn nhãn</string>
     <string name="action_setting_title">Cài đặt hành động</string>
     <string name="use_single_tap_title">Nhấn một lần để kích hoạt mục đang có tiêu điểm</string>
     <string name="use_up_tap_title">Nhấc ngón tay của bạn để kích hoạt mục bên dưới</string>
     <string name="sound_volume_title">Âm lượng chủ đề âm thanh</string>
     <string name="notification_bar_speak_title">Tự động đọc thông báo từ thanh thông báo</string>
-    <string name="notification_toast_speak_title">Tự động Đọc các thông báo phụ khác</string>
+    <string name="notification_toast_speak_title">Tự động đọc các thông báo nổi</string>
     <string name="notification_announcement_speak_title">Tự động đọc thông báo nội bộ của trình đọc màn hình</string>
     <string name="notification_settings_title">Cài đặt đọc thông báo</string>
     <string name="help_feed_title">Trợ giúp và phản hồi</string>
@@ -139,15 +135,15 @@
     <string name="permissions_settings_title">Thu hồi lại các quyền</string>
     <string name="use_node_info_title">Đọc thông tin của các nút</string>
     <string name="use_content_tree_changed_title">Tự động đọc các thay đổi trong cửa sổ hiện tại</string>
-    <string name="split_menu_title">Duyệt chi tiết</string>
-    <string name="split_edit_title">Chỉnh sửa chi tiết</string>
+    <string name="split_menu_title">Duyệt  phân tách</string>
+    <string name="split_edit_title">Chỉnh sửa  phân tách</string>
     <string name="edit_title">Chỉnh sửa nội dung</string>
     <string name="plugin_manager_title">Quản lý tiện ích mở rộng</string>
     <string name="sound_manager_title">Quản lý chủ đề âm thanh</string>
-    <string name="clipboard_manager_title">Quản lý bộ nhớ tạm</string>
+    <string name="clipboard_manager_title">Quản lý bảng tạm</string>
     <string name="label_manager_title">Quản lý nhãn tùy chỉnh</string>
-    <string name="menu_manager_title">Quản lý menu chính</string>
-    <string name="menu_up_tap_title">Nhấc ngón tay để kích hoạt mục menu</string>
+    <string name="menu_manager_title">Quản lý  trình đơn chính</string>
+    <string name="menu_up_tap_title">Nhấc ngón tay để kích hoạt mục  trình đơn</string>
     <string name="navigation_up_tap_title">Nhấc ngón tay để kích hoạt các phím điều hướng</string>
     <string name="only_notification_title">Cho phép tiếp tục trình đọc màn hình khi tạm dừng từ thanh thông báo</string>
     <string name="send_log_title">Chia sẻ nhật ký gỡ lỗi</string>
@@ -169,21 +165,21 @@
     <string name="no_phone_permission">Không có quyền gọi điện thoại</string>
     <string name="message_time_out">Giấy phép của bạn đã hết hạn</string>
     <string name="message_welcome">Chào mừng bạn đến với Jieshuo</string>
-    <string name="message_in_dim_screen">Đã bật ẩn màn hình</string>
-    <string name="message_out_dim_screen">Đã tắt ẩn màn hình</string>
+    <string name="message_in_dim_screen">Đã bật che màn hình</string>
+    <string name="message_out_dim_screen">Đã tắt che màn hình</string>
     <string name="message_only_android5_last">Tính năng này chỉ được hỗ trợ từ Android 5 trở lên</string>
     <string name="notification_box">Hộp thông báo Jieshuo</string>
     <string name="clear">Xóa tất cả</string>
     <string name="message_disabled_up_tap">Đã tắt chế độ nhấc ngón tay để kích hoạt tiêu điểm</string>
     <string name="message_enabled_up_tap">Đã bật chế độ nhấc ngón tay để kích hoạt tiêu điểm</string>
-    <string name="message_no_found_edit_text">Không tìm thấy hộp chỉnh sửa</string>
+    <string name="message_no_found_edit_text">Không tìm thấy hộp nhập liệu</string>
     <string name="message_voice_feedback_paused">Đã tạm ngừng Jieshuo</string>
     <string name="message_voice_feedback_resume">Đã Tiếp tục Jieshuo</string>
     <string name="message_enable_tap_mode">Khám phá màn hình hiện không được phép</string>
     <string name="message_disabled_tap_mode">Khám phá màn hình Hiện được phép</string>
     <string name="directory_gestures">Cử chỉ</string>
     <string name="directory_temp">TMP</string>
-    <string name="directory_plugins">Tiện ích</string>
+    <string name="directory_plugins">Tiện ích  mở rộng</string>
     <string name="message_recognition">Đang  nhận dạng</string>
     <string name="message_recognition_error">Lỗi nhận dạng. Vui lòng thử lại</string>
     <string name="directory_sounds">Âm thanh</string>
@@ -194,10 +190,10 @@
     <string name="directory_backup">Sao lưu</string>
     <string name="message_load_sound_error">Lỗi khi tải chủ đề âm thanh</string>
     <string name="message_load_done">Thành công</string>
-    <string name="tool_title">Công cụ</string>
-    <string name="directory_tools">Công cụ</string>
+    <string name="tool_title">Công cụ mở rộng</string>
+    <string name="directory_tools">Công cụ mở rộng</string>
     <string name="ocr_title">Nhận dạng văn bản</string>
-    <string name="tool_manager_title">Quản lý công cụ</string>
+    <string name="tool_manager_title">Quản lý công cụ mở rộng</string>
     <string name="message_load_error">Lỗi</string>
     <string name="manager_activity_title">Quản lý tài nguyên</string>
     <string name="use_headset_key_title">Sử dụng nút tai nghe</string>
@@ -228,15 +224,15 @@
     <string name="notification_summary_title">Chỉ đọc tóm tắt thông báo</string>
     <string name="use_image_filter_title">Lọc hình ảnh trên trang web</string>
     <string name="gesture_settings_title">Cài đặt cử chỉ</string>
-    <string name="setup_plugin_title">Tiện ích mở rộng tự khởi động</string>
-    <string name="advanced_menu_title">Menu nhận dạng</string>
-    <string name="quick_menu_title">Menu nhanh</string>
+    <string name="setup_plugin_title">Tự động chạy tiện ích mở rộng</string>
+    <string name="advanced_menu_title">Trình đơn nâng cao</string>
+    <string name="quick_menu_title">Trình đơn nhanh</string>
     <string name="check_update_title">Kiểm tra cập nhật</string>
-    <string name="qq_group_summary"> Thảo luận, đưa ra đề xuất hoặc mua phiên bản VIP của phần mềm </string>
+    <string name="qq_group_summary"> Thảo luận, đưa ra đề xuất hoặc mua  tư cách thành viên </string>
     <string name="favorites_menu_title">Yêu thích</string>
     <string name="favorites_manager_title">Quản lý mục yêu thích</string>
-    <string name="use_multi_menu_title">Sử dụng menu nhiều cột</string>
-    <string name="use_multi_menu_summary">Điều chỉnh xem menu nhiều cột có được sử dụng theo mặc định hay không. Lưu ý menu nhiều cột không hỗ trợ menu tùy chỉnh</string>
+    <string name="use_multi_menu_title">Sử dụng trình đơn nhiều cột</string>
+    <string name="use_multi_menu_summary">Điều chỉnh xem  trình đơn nhiều cột có được sử dụng theo mặc định hay không. Lưu ý  trình đơn nhiều cột không hỗ trợ tùy chỉnh   trình đơn</string>
     <string name="use_left_right_title">Đảo ngược cử chỉ vuốt</string>
     <string name="use_list_item_index_title">Đọc vị trí của mục trong danh sách</string>
     <string name="use_left_right_summary">Điều chỉnh xem các cử chỉ vuốt có bị đảo ngược đối với cài đặt cử chỉ mặc định hay không. Khi bị đảo ngược, các thao tác vuốt sang trái và phải sẽ điều hướng theo các mục trong khi thao tác vuốt lên và xuống thực hiện các tác vụ phím tắt</string>
@@ -246,19 +242,19 @@
     <string name="use_auto_update_title">Tự động kiểm tra cập nhật</string>
     <string name="use_pager_scroll_title">Tự động cuộn trang</string>
     <string name="use_supper_filter_title">Lọc nội dung web</string>
-    <string name="change_log_title">Nhật ký cập nhật các phiên bản mới. Lưu ý bằng tiếng Trung</string>
-    <string name="use_up_long_quick_menu_title">Nhấn giữ để hiển thị menu nhanh trên mỗi ứng dụng</string>
-    <string name="use_show_dis_enabled_quick_menu_title">Hiển thị các hành động không khả dụng trong menu nhanh</string>
-    <string name="voice_helper_setting_title">Cài đặt trợ lý giọng nói và cài đặt dịch</string>
-    <string name="voice_helper_copy_title">Tự động sao chép kết quả dịch vào bộ nhớ tạm</string>
-    <string name="trans_lang_from_title">Chọn ngôn ngữ gốc để dịch từ</string>
+    <string name="change_log_title">Lịch sử cập nhật</string>
+    <string name="use_up_long_quick_menu_title">Nhấn và giữ để hiển thị trình đơn nhanh trên mỗi ứng dụng</string>
+    <string name="use_show_dis_enabled_quick_menu_title">Hiển thị các hành động không khả dụng trong  trình đơn nhanh</string>
+    <string name="voice_helper_setting_title">Cài đặt trợ lý giọng nói và dịch thuật</string>
+    <string name="voice_helper_copy_title">Tự động sao chép kết quả dịch vào bảng tạm</string>
+    <string name="trans_lang_from_title">Ngôn ngữ nguồn</string>
     <string name="use_pager_scroll_summary">Khi chọn, Jieshuo sẽ tự động cuộn trang khi đến mục cuối cùng ở chế độ xem nhiều trang</string>
     <string name="scroll_gesture_settings_title">Cài đặt điều hướng</string>
     <string name="click_settings_title">Cài đặt hành động nhấn</string>
     <string name="key_shortcut_setting_title">Cài đặt phím âm lượng</string>
     <string name="gesture_title">Cài đặt cử chỉ</string>
     <string name="use_single_tap_summary">Điều chỉnh xem nhấn một lần vào tiêu điểm có kích hoạt tiêu điểm đó hay không.</string>
-    <string name="use_old_previous_summary">传统方式上一个焦点是下一个焦点的简单返回，取消后将使用新的上一个焦点方式，按照焦点层级返回，在一直向上浏览时更容易掌握内容所属关系</string>
+    <string name="use_old_previous_summary">"Theo cách truyền thống, một tiêu điểm đơn giản là quay lại tiêu điểm tiếp theo. Sau khi hủy, một phương thức tiêu điểm trước đó mới sẽ được sử dụng, quay lại theo cấp độ tiêu điểm, giúp dễ dàng nắm bắt mối quan hệ thuộc về của nội dung khi duyệt lên trên liên tục."</string>
     <string name="use_headset_key_summary">Điều chỉnh xem phím tai nghe có được sử dụng để điều khiển trình đọc màn hình hay không. Nhấn nhanh phím sẽ di chuyển tiêu điểm sang mục tiếp theo, nhấn vừa phải sẽ kích hoạt mục dưới tiêu điểm và cuối cùng, nhấn và giữ phím sẽ kích hoạt trợ lý giọng nói</string>
     <string name="list_view_settings_title">Cài đặt đọc danh sách</string>
     <string name="view_label_settings_title">Cài đặt đọc nhãn</string>
@@ -266,7 +262,7 @@
     <string name="content_filter_settings_title">Cài đặt lọc nội dung</string>
     <string name="hints_list_settings_title">Cài đặt đọc thông báo động</string>
     <string name="use_node_info_summary">Điều chỉnh xem thông tin bổ sung có được đọc trong chế độ duyệt nút hay không. Thông tin được đọc bao gồm số mục con nút hiện tại có với một số thông tin bổ sung dành riêng cho nút.</string>
-    <string name="use_list_item_index_summary">Điều chỉnh xem vị trí của mục trong danh sách hiện được đặt tiêu điểm có được đọc hay không trong khi điều hướng danh sách. Ví dụ: 1. Cài đặt chung, 2, Cài đặt giọng nói</string>
+    <string name="use_list_item_index_summary">Điều chỉnh xem vị trí của mục trong danh sách hiện được đặt tiêu điểm có được đọc hay không trong khi điều hướng danh sách. </string>
     <string name="use_scroll_list_index_summary">Điều chỉnh xem phạm vi hiển thị của danh sách có được đọc tự động khi cuộn hay không</string>
     <string name="use_view_name_summary">Điều chỉnh xem tiêu đề của cửa sổ có được đọc tự động hay không. Nếu cửa sổ không có tiêu đề, mục có thể đặt tiêu điểm đầu tiên của cửa sổ sẽ được đọc</string>
     <string name="unknown_lable_summary">điều chỉnh xem ID của mục chưa gắn nhãn có được đọc hay không nếu mục đó không có nhãn</string>
@@ -293,16 +289,16 @@
     <string name="use_speak_call_phone_summary">Khi chọn, Jieshuo sẽ đọc tên và số của người gọi đến khi có cuộc gọi</string>
     <string name="use_speak_call_phone_title">Đọc ID của người gọi</string>
     <string name="use_speak_changed_volume_summary">Khi chọn, Jieshuo sẽ đọc khi âm lượng thay đổi</string>
-    <string name="use_speak_changed_volume_title">Đọc âm lượng khi thay đổi</string>
-    <string name="vip_qq_group_title">Jieshuo+ VIP QQ group</string>
-    <string name="qq_group2_title">Jieshuo nhóm QQ thứ 2 dành cho thành viên</string>
+    <string name="use_speak_changed_volume_title">Đọc khi âm lượng được thay đổi</string>
+    <string name="vip_qq_group_title">Jieshuo  nhóm dành cho  người dùng cao cấp</string>
+    <string name="qq_group2_title">Jieshuo nhóm QQ thứ 2 dành cho  người dùng cao cấp</string>
 
 
     <string name="right_long_edge_gesture_title">Vuốt sang trái từ cạnh phải của màn hình và giữ</string>
     <string name="left_long_edge_gesture_title">Vuốt sang phải từ cạnh trái của màn hình và giữ</string>
     <string name="left_long_edge_gesture_summary">Cho phép hành động được kích hoạt khi thực hiện thao tác vuốt sang phải từ cạnh trái của màn hình và vị trí cuối cùng được giữ trong một giây</string>
     <string name="right_long_edge_gesture_summary">Cho phép hành động được kích hoạt khi vuốt trái từ cạnh phải của màn hình được thực hiện và vị trí cuối cùng được giữ trong một giây</string>
-    <string name="use_up_long_quick_menu_summary">Khi chọn, menu phím tắt sẽ hiển thị khi ngón tay ở trên 1 tiêu điểm trong thời gian dài</string>
+    <string name="use_up_long_quick_menu_summary">Khi chọn,  trình đơn phím tắt sẽ hiển thị khi ngón tay ở trên 1 tiêu điểm trong thời gian dài</string>
 
     <string name="up_volume_short_key_title">Bấm nhanh phím tăng âm lượng</string>
     <string name="up_volume_short_key_summary">Cho phép đặt hành động tùy chỉnh được kích hoạt khi nhấn phím tăng âm lượng</string>
@@ -316,7 +312,7 @@
     <string name="up_down_volume_short_key_title">Nhấn đồng thời hai phím âm lượng</string>
     <string name="tts_engine_title">Công cụ giọng nói chính</string>
     <string name="async_tts_engine_title">Công cụ giọng nói phụ</string>
-    <string name="async_tts_engine_summary">Cho phép đặt công cụ giọng nói phụ được sử dụng để đọc thông báo và các nội dung phụ khác. Đặt cùng một công cụ làm công cụ giọng nói chính tương đương với việc chỉ sử dụng một công cụ giọng nói duy nhất, Hãy chọn hai công cụ giọng nói khác nhau và bạn sẽ có trải nghiệm tuyệt vời</string>
+    <string name="async_tts_engine_summary">Cho phép đặt công cụ giọng nói phụ được sử dụng để đọc thông báo và các nội dung phụ khác. Đặt cùng một công cụ làm công cụ giọng nói chính tương đương với việc chỉ sử dụng một công cụ giọng nói duy nhất</string>
     <string name="tts_engine_summary">Cho phép đặt công cụ giọng nói chính được sử dụng để đọc nội dung. Trong trường hợp công cụ giọng nói không đọc được, phần mềm sẽ sử dụng công cụ có sẵn khác</string>
     <string name="timer_manager_title">quản lý hẹn giờ</string>
     <string name="use_foreground_title">Ngăn chặn tắt trình đọc màn hình</string>
@@ -331,14 +327,14 @@
     <string name="use_add_async_tts_title">Thông báo đọc lần lượt</string>
     <string name="use_add_async_tts_summary">Điều chỉnh xem các thông báo có nên được xếp hàng đợi để đọc hay không. Khi tùy chọn này được bật, các thông báo sẽ được đọc từng cái một khi chúng đến, trong khi tùy chọn này bị tắt, thông báo trước đó sẽ bị gián đoạn trong khi thông báo tiếp theo đến. Xin lưu ý rằng tùy chọn này chỉ hoạt động khi công cụ giọng nói phụ đang hoạt động</string>
     <string name="questions_answers_title">Các câu hỏi thường gặp</string>
-    <string name="orientation_landscape">Màn hình ngang</string>
-    <string name="orientation_portrait">Màn hình dọc</string>
+    <string name="orientation_landscape">Ngang</string>
+    <string name="orientation_portrait">Dọc</string>
     <string name="use_alarm_title">Tự động đọc thời gian</string>
     <string name="use_alarm_summary">Điều chỉnh xem thời gian có được tự động đọc theo các khoảng thời gian đã chỉ định hay không</string>
     <string name="alarm_settings_title">Cài đặt hẹn giờ</string>
-    <string name="url_menu_title">Mở liên kết</string>
-    <string name="use_long_click_voice_input_title">Sử dụng Nhập bằng giọng nói khi giữ ngón tay của bạn trên hộp chỉnh sửa</string>
-    <string name="voice_input_append_mode_title">Nối văn bản vào hộp chỉnh sửa khi sử dụng nhập bằng giọng nói</string>
+    <string name="url_menu_title">Liên kết</string>
+    <string name="use_long_click_voice_input_title">Sử dụng Nhập bằng giọng nói khi giữ ngón tay của bạn trên hộp  văn bản</string>
+    <string name="voice_input_append_mode_title">Nối văn bản vào hộp  nhập liệukhi sử dụng nhập bằng giọng nói</string>
 
     <string name="general_usage_hints_title">Đọc gợi ý sử dụng</string>
     <string name="general_speak_list_title">Đọc vị trí của mục trong danh sách</string>
@@ -350,7 +346,7 @@
     <string name="use_power_save_title">Chế độ tiết kiệm pin</string>
     <string name="use_power_save_summary">Nên chọn tùy chọn này khi mức tiêu thụ pin ở chế độ chờ quá cao</string>
     <string name="power_settings_title">Cài đặt quản lý pin</string>
-    <string name="action_settings_title">cài đặt hoạt động</string>
+    <string name="action_settings_title">Cài đặt hành động</string>
     <string name="keep_focus_position_title">Ghi nhớ vị trí của tiêu điểm</string>
     <string name="download_activity_title">Tải xuống tài nguyên bổ sung</string>
     <string name="use_number_speak_title">Đọc số dưới dạng chữ số đơn</string>
@@ -363,7 +359,7 @@
     <string name="user_id_text">ID tài khoản</string>
     <string name="screen_on_off_settings_title">Cài đặt đọc thông báo khi tắt hoặc bật màn hình</string>
     <string name="use_screen_on_speak_title">Đọc thông báo khi màn hình được mở</string>
-    <string name="use_screen_off_speak_title">Đọc thông báo màn hình tắt khi tắt màn hình</string>
+    <string name="use_screen_off_speak_title">Đọc thông báo khi tắt màn hình</string>
     <string name="use_accessibility_volume_title">Sử dụng âm lượng trợ năng</string>
     <string name="use_accessibility_volume_summary">Điều chỉnh xem kênh âm lượng trợ năng có được sử dụng để giọng nói được nói hay không. Xin lưu ý rằng tùy chọn này chỉ được hỗ trợ khi công cụ giọng nói của hệ thống được sử dụng</string>
     <string name="value_stream_accessibility">Trợ năng</string>
@@ -376,7 +372,7 @@
     <string name="restore_settings_title">Khôi phục cài đặt</string>
     <string name="restore_settings_summary">Chọn tùy chọn này cho phép bạn khôi phục cài đặt từ bản sao lưu đã tạo trước đó. Xin lưu ý rằng tùy chọn này sẽ ghi đè các cài đặt hiện tại của bạn</string>
     <string name="backup_settings_summary">Chọn tùy chọn này cho phép bạn tạo một bản sao lưu đầy đủ các cài đặt hiện tại của mình. Xin lưu ý rằng tùy chọn này sẽ ghi đè lên bản sao lưu hiện tại của bạn nếu có</string>
-    <string name="jieshuo_bbs_title">Jieshuo+ Diễn đàn. Lưu ý bằng tiếng Trung</string>
+    <string name="jieshuo_bbs_title">Diễn đàn Jieshuo</string>
     <string name="use_symbol_speak_title">Đọc dấu câu</string>
     <string name="use_cloud_label_title">Sử dụng nhãn từ máy chủ</string>
     <string name="use_cloud_label_summary">Khi chọn, Jieshuo sẽ sử dụng nhãn từ máy chủ được chia sẻ từ những người dùng khác</string>
@@ -385,12 +381,12 @@
     <string name="alarm_interval_title">Khoảng thời gian đọc</string>
     <string name="use_timer_speak_title">Thông báo bằng lời nói</string>
     <string name="use_timer_vibrate_title">Thông báo bằng rung</string>
-    <string name="use_double_edge_gesture_title">Sử dụng menu cạnh hai ngón tay</string>
+    <string name="use_double_edge_gesture_title">Sử dụng trình đơn cạnh hai ngón tay</string>
     <string name="use_raw_click_title">Sử dụng nhấn mặc định thay vì nhấn trợ năng</string>
     <string name="use_raw_click_summary">điều chỉnh xem liệu một lần nhấn mặc định có được sử dụng thay cho lần nhấn bằng trợ năng hay không. Tùy chọn này mô phỏng một lần nhấn vật lý vào vị trí của phần tử, điều này có thể cải thiện khả năng truy cập của một số ứng dụng</string>
-    <string name="has_vip_summary"> %s chỉ dành cho người dùng phiên bản đầy đủ </string>
-    <string name="vip_qq_kefu_title">Jieshuo+ dịch vụ khách hàng</string>
-    <string name="vip_qq_kefu_summary">Tư vấn, mua phần mềm, chuyển nhượng giấy phép đến thiết bị mới. Hãy chắc chắn chỉ liên hệ với nhân viên được chứng nhận. Trong trường hợp bạn không liên hệ được bằng tiếng Anh hoặc tiếng Trung. Vui lòng tham gia nhóm telegram hoặc nhóm messenger tiếng Việt trong Menu Trợ giúp và Phản hồi</string>
+    <string name="has_vip_summary"> %s chỉ dành cho   người dùng cao cấp</string>
+    <string name="vip_qq_kefu_title">Dịch vụ khách hàng Jieshuo</string>
+    <string name="vip_qq_kefu_summary">Tư vấn, mua   tư cách thành viên, chuyển nhượng giấy phép. Hãy chắc chắn chỉ liên hệ với nhân viên được chứng nhận</string>
     <string name="use_speak_changed_window_title">Đọc toàn bộ cửa sổ khi thay đổi cửa sổ</string>
     <string name="use_timer_sound_title">Thông báo bằng âm thanh</string>
     <string name="timer_setting_title">Cài đặt hẹn giờ</string>
@@ -405,22 +401,22 @@
     <string name="voice_helper_use_cmd_title">Cho phép sử dụng Lệnh thoại với trợ lý giọng nói</string>
     <string name="voice_helper_use_supper_cmd_title">Cho phép sử dụng lệnh thoại tùy chỉnh với trợ lý giọng nói</string>
     <string name="voice_helper_use_plugin_title">Cho phép thực thi các tiện ích mở rộng với trợ lý giọng nói</string>
-    <string name="voice_helper_use_tool_title">Cho phép thực thi các công cụ với trợ lý giọng nói</string>
-    <string name="message_has_vip">Chỉ có sẵn cho người dùng của phiên bản đầy đủ</string>
+    <string name="voice_helper_use_tool_title">Cho phép thực thi các công cụ  mở rộng với trợ lý giọng nói</string>
+    <string name="message_has_vip">Chỉ có sẵn cho người dùng cao cấp</string>
     <string name="has_vip_summary2">%s bị giới hạn với những người dùng phiên bản miễn phí</string>
     <string name="voice_helper_capability_setting">Cài đặt khả năng của trợ lý giọng nói</string>
     <string name="use_wake_lock_pro_title">Cơ chế ngăn chặn tắt màn hình nâng cao</string>
     <string name="use_wake_lock_pro_summary">Nên chọn tùy chọn này nếu tùy chọn Cơ chế ngăn chặn tắt màn hình mặc định không hoạt động</string>
     <string name="more_setting">Tùy chọn khác</string>
-    <string name="kayword">Tìm kiếm</string>
+    <string name="keyword">Nhập từ khóa</string>
     <string name="notification_black_list_summary">Thông báo chứa nội dung được liệt kê trong danh sách đen sẽ không bao giờ được đọc, ngay cả khi tính năng đọc thông báo được bật</string>
     <string name="notification_white_list_summary">Thông báo chứa nội dung được liệt kê trong danh sách trắng sẽ luôn được đọc, ngay cả khi tính năng đọc thông báo bị tắt</string>
     <string name="system_tts_volume_title">Âm lượng giọng nói hệ thống</string>
     <string name="notification_select_title">Thông báo được đọc</string>
 
-    <string name="message_disable_dim_screen">Vui lòng tắt ẩn màn hình trước đã</string>
-    <string name="start_long_copy">Bắt đầu sao chép danh sách</string>
-    <string name="runnimg_background">jieshuo+ đang chạy trong nền</string>
+    <string name="message_disable_dim_screen">Vui lòng tắt che màn hình trước</string>
+    <string name="start_long_copy">Bắt đầu tự động sao chép  danh sách</string>
+    <string name="runnimg_background">jieshuo đang chạy trong nền</string>
     <string name="description">Mô tả</string>
     <string name="gestures_description_not_found">Không tìm thấy mô tả nào cho cử chỉtùy chỉnh</string>
     <string name="timer_date_format">yyyy-M-d HH:mm</string>
@@ -428,36 +424,36 @@
     <string name="try_again">Vui lòng thử lại</string>
     <string name="timer_and_now_time">%s trôi qua. Bây giờ là %s</string>
     <string name="edit">Chỉnh sửa</string>
-    <string name="edit_text_not_found">Không tìm thấy hộp chỉnh sửa</string>
-    <string name="char_mode">Ký tự theo chế độ duyệt ký tự</string>
+    <string name="edit_text_not_found">Không tìm thấy hộp nhập liệu</string>
+    <string name="char_mode">Chế độ dệt ký tự theo ký tự</string>
     <string name="focus_mode">Duyệt Tập trung</string>
-    <string name="auto_next">duyệt tự động</string>
-    <string name="message_copy">Đã được Sao chép</string>
+    <string name="auto_next">Tự động duyệt</string>
+    <string name="message_copy">Đã sao chép</string>
     <string name="message_append">Đã sao chép thêm</string>
      <string name="text_format_settings_title">Cài đặt giải thích ký tự</string>
     <string name="use_text_format_first_title">Đọc văn bản trước khi giải thích</string>
     <string name="use_text_format_char_number_title">Đọc chỉ mục của một chữ cái Latinh</string>
 
     <string name="lower_case_format">chữ thường %s , %s</string>
-    <string name="upper_case_format">Chữ hoa %s %s </string>
+    <string name="upper_case_format">Hoa %s %s </string>
     <string name="lower_case_format_number"> Chữ thường %s , %s chữ cái %d </string>
-    <string name="upper_case_format_number">Chữ hoa %s %s Chữ cái %d </string>
+    <string name="upper_case_format_number">Hoa %s %s Chữ cái %d </string>
 
     <string name="lower_case_format2">%s</string>
-    <string name="upper_case_format2"> Chữ hoa %s </string>
-    <string name="upper_case_format3"> Chữ hoa %s </string>
+    <string name="upper_case_format2"> Hoa %s </string>
+    <string name="upper_case_format3"> Hoa %s </string>
     <string name="lower_case_format_number2">%s chữ cái %d</string>
-    <string name="upper_case_format_number2">Chữ hoa %s Chữ cái %d</string>
+    <string name="upper_case_format_number2">Hoa %s Chữ cái %d</string>
 
-    <string name="use_slow_speed_title">Làm chậm giọng nói trong khi ở chế độ duyệt ký tự</string>
-    <string name="has_vip_summary_gesture">Tùy chỉnh vuốt lên, xuống, trái, phải chỉ dành cho người dùng phiên bản đầy đủ</string>
-    <string name="message_has_vip_loop_click">Nhấn tự động chỉ khả dụng cho người dùng phiên bản đầy đủ của phần mềm</string>
+    <string name="use_slow_speed_title">Làm chậm giọng nói trong khi ở chế độ duyệt ký tự theo ký tự</string>
+    <string name="has_vip_summary_gesture">Tùy chỉnh vuốt lên, xuống, trái, phải chỉ dành cho người dùng   cao cấp</string>
+    <string name="message_has_vip_loop_click">Nhấn tự động chỉ khả dụng cho người dùng  cao cấp</string>
 
     <string name="command_click">Nhấn</string>
     <string name="command_long_click">nhấn lâu</string>
     <string name="command_unlock">mở khóa</string>
-    <string name="command_start">lên đầu</string>
-    <string name="command_end">Xuống cuối</string>
+    <string name="command_start">Về đầu</string>
+    <string name="command_end">Về cuối</string>
     <string name="command_nothing">Không có lệnh</string>
     <string name="command_sleep">Ngủ</string>
     <string name="command_send_log">Chia sẻ nhật ký</string>
@@ -470,7 +466,7 @@
     <string name="command_help_feed_setting">Trợ giúp và phản hồi</string>
     <string name="command_left_shortcut">phím tắt trái</string>
     <string name="command_right_shortcut">phím tắt phải</string>
-    <string name="command_long_copy">Sao chép danh sách</string>
+    <string name="command_long_copy">Sao chép nâng cao</string>
     <string name="command_my_location">Vị trí của tôi</string>
     <string name="command_where_i">tôi đang ở đâu</string>
     <string name="command_current_location">Vị trí hiện tại</string>
@@ -484,22 +480,22 @@
     <string name="command_play_control">Điều chỉnh phát lại</string>
     <string name="command_read_mode">Chế độ đọc</string>
     <string name="command_verbatim_speak">Đánh vần</string>
-    <string name="command_verbatim_speak2">Đọc theo ký tự</string>
+    <string name="command_verbatim_speak2">Đọc từng ký thử</string>
     <string name="command_to_previous_focus">Phần tử có thể lấy tiêu điểm trước đó</string>
     <string name="command_to_next_focus">Phần tử có thể lấy tiêu điểm tiếp theo</string>
     <string name="command_to_previous_page">Trang trước</string>
     <string name="command_to_next_page">Trang tiếp</string>
     <string name="command_to_previous_scroll">Cuộn lên</string>
     <string name="command_to_next_scroll">Cuộn xuống</string>
-    <string name="command_to_previous_progress">Giảm tỉ lệ của thanh trượt</string>
-    <string name="command_to_next_progress">Tăng tỉ lệ của thanh trượt</string>
+    <string name="command_to_previous_progress">Giảm thanh trượt</string>
+    <string name="command_to_next_progress">Tăng thanh trượt</string>
     <string name="command_lower_volume">Giảm âm lượng phương tiện</string>
     <string name="command_raise_volume">Tăng âm lượng phương tiện</string>
     <string name="command_now_time">Thời gian hiện tại</string>
     <string name="command_timer_mode">hẹn giờ</string>
     <string name="command_timer_start">bắt đầu hẹn giờ</string>
     <string name="command_quick_mode">duyệt nhanh</string>
-    <string name="command_auto_next">duyệt tự động</string>
+    <string name="command_auto_next">Tự động duyệt</string>
     <string name="command_auto_speak">đọc tự động</string>
 
     <string name="command_copy">Sao chép</string>
@@ -537,13 +533,13 @@
     <string name="disabled">Đã tắt</string>
     <string name="progress2">%d phần trăm</string>
     <string name="view_name_button">Nút</string>
-    <string name="view_name_edit_text">hộp chỉnh sửa</string>
-    <string name="view_name_editing">,  Đang được chỉnh sửa </string>
+    <string name="view_name_edit_text">Hộp nhập liệu</string>
+    <string name="view_name_editing">,   chỉnh sửa </string>
     <string name="view_name_web_view">Chế độ xem web</string>
     <string name="view_name_list_view">Danh sách</string>
-    <string name="view_name_spinner">Danh sách thả xuống</string>
+    <string name="view_name_spinner">Hộp danh sách</string>
     <string name="view_name_switch">Nút chuyển</string>
-    <string name="view_name_radio_button">Hộp kiểm nút</string>
+    <string name="view_name_radio_button">Hộp kiểm</string>
     <string name="view_name_check_box">Hộp kiểm</string>
     <string name="view_name_seek_bar">Thanh trượt</string>
     <string name="view_name_progress_bar">Thanh tiến trình</string>
@@ -551,20 +547,20 @@
     <string name="view_name_image_button">nút hình ảnh</string>
     <string name="view_name_image">Hình ảnh</string>
 
-    <string name="message_has_vip_read_mode">Chế độ đọc chỉ khả dụng cho người dùng phiên bản đầy đủ</string>
+    <string name="message_has_vip_read_mode">Chế độ đọc chỉ khả dụng cho người dùng cao cấp</string>
     <string name="message_enabled_read_mode">Tắt chế độ đọc</string>
-    <string name="message_long_copyed">Sao chép danh sách đã hoàn tất thành công. %d mục đã sao chép</string>
+    <string name="message_long_copyed"> tự động sao chép đã  hoàn tất. %d mục đã sao chép</string>
     <string name="message_read_mode_enabled">Bật chế độ đọc, </string>
     <string name="message_timer_mode_enabled">Bật hẹn giờ</string>
-    <string name="message_clean"> Đã xóa tất cả</string>
+    <string name="message_clean">Đã xóa</string>
     <string name="message_clean_error">Có Lỗi khi xóa</string>
-    <string name="message_edit_text_not_found">Không tìm thấy hộp chỉnh sửa</string>
+    <string name="message_edit_text_not_found">Không tìm thấy hộp nhập liệu</string>
 
 
     <string name="rap_action_settings_title">Cài đặt nhấn đúp mặt sau</string>
 
     <string name="back_rap_action_title">Cài đặt nhấn đúp mặt sau</string>
-    <string name="back_rap_action_summary">Cho phép thiết lập một hành động được kích hoạt khi mặt sau của điện thoại được gõ hai lần</string>
+    <string name="back_rap_action_summary">Cho phép thiết lập một hành động được kích hoạt khi mặt sau của điện thoại được nhấn hai lần</string>
 
 
     <string name="shake_action_title">Cài đặt hành động lắc</string>
@@ -580,9 +576,9 @@
     <string name="command_lock">Khóa Thiết bị</string>
     <string name="command_accessibility_service_setting">Cài đặt trợ năng</string>
     <string name="command_trans">Dịch</string>
-    <string name="command_disable_dim_screen">Tắt ẩn màn hình</string>
-    <string name="command_enable_dim_screen">Bật ẩn màn hình</string>
-    <string name="command_enable_dim_screen2">Ẩn màn hình</string>
+    <string name="command_disable_dim_screen">Tắt che màn hình</string>
+    <string name="command_enable_dim_screen">Bật che màn hình</string>
+    <string name="command_enable_dim_screen2">Che màn hình</string>
     <string name="command_to_recents">ứng dụng gần đây</string>
     <string name="command_clean">Xóa tất cả</string>
     <string name="command_select">lựa chọn văn bản</string>
@@ -597,26 +593,26 @@
     <string name="command_all_speak2">Đọc mọi thứ</string>
     <string name="command_all_select">Lựa chọn toàn văn</string>
     <string name="command_voice_helper">trợ lý giọng nói</string>
-    <string name="command_voice_input">Nhập bằng giọng nói</string>
+    <string name="command_voice_input">Nhập giọng nói</string>
     <string name="command_ocr">Nhận dạng hình ảnh</string>
     <string name="command_ocr_text">Nhận dạng văn bản</string>
-    <string name="camera_title">Jieshuo Camera</string>
+    <string name="camera_title">Máy ảnh Jieshuo</string>
     <string name="command_disable_touch">Vô hiệu hóa duyệt bằng cách chạm</string>
     <string name="command_disable_feedback">rừng tạm thời jieshuo</string>
     <string name="command_to_notifications">thanh thông báo</string>
     <string name="command_notifications">Bóng thông báo</string>
     <string name="command_battery_level">phần trăm pin</string>
     <string name="command_battery">Phần trăm pin hiện tại</string>
-    <string name="command_quick_menu">Menu phím tắt</string>
+    <string name="command_quick_menu"> trình đơn  phím tắt</string>
     <string name="command_gestures_edit">Chỉnh sửa cử chỉ</string>
 
-    <string name="clipboard">Bộ nhớ tạm</string>
+    <string name="clipboard">Bảng tạm</string>
     <string name="favorites">yêu thích</string>
-    <string name="input_method">Đầu vào</string>
-    <string name="main_menu">Menu chính</string>
+    <string name="input_method">Nhập liệu</string>
+    <string name="main_menu"> trình đơn chính</string>
     <string name="auto_read">đọc tự động</string>
     <string name="list_mode_title">duyệt danh sách</string>
-    <string name="main_setting">Cài đặt jieshuo</string>
+    <string name="main_setting">Cài đặt chương trình</string>
     <string name="battery_level">mức pin %d phần trăm pin</string>
 
 
@@ -693,12 +689,12 @@
     <string name="command_speak">Nói</string>
     <string name="command_intput">Nhập</string>
     <string name="app">Ứng dụng</string>
-    <string name="command_to_previous_section">tiêu đề trước</string>
-    <string name="command_to_next_section">tiêu đề tiếp</string>
-    <string name="command_to_previous_link">Liên kết trước</string>
-    <string name="command_to_next_link">liên kết tiếp</string>
-    <string name="command_to_previous_control">Điều khiển trước</string>
-    <string name="command_to_next_control">Điều khiển tiếp</string>
+    <string name="command_to_previous_section">tiêu đề trước đó</string>
+    <string name="command_to_next_section">tiêu đề tiếp theo</string>
+    <string name="command_to_previous_link">Liên kết trước đó</string>
+    <string name="command_to_next_link">liên kết tiếp theo</string>
+    <string name="command_to_previous_control">Điều khiển trước đó</string>
+    <string name="command_to_next_control">Điều khiển tiếp theo</string>
     <string name="system_tts_engine_title">Công cụ giọng nói hệ thống</string>
     <string name="cancel">Hủy</string>
     <string name="timer_interval_title">khoảng thời gian hẹn giờ</string>
@@ -725,24 +721,24 @@
     <string name="voice_helper_use_click_summary">Điều chỉnh xem bạn có thể nhấn vào một phần tử nhất định hay không bằng cách nói tên của nó. Khi tùy chọn này không được chọn, hãy sử dụng từ khóa \"nhấn\" với tên của thành phần bạn muốn nhấn</string>
     <string name="edge_gesture_width_title">Phạm vi kích hoạt dọc cho cử chỉ cạnh</string>
     <string name="use_double_edge_gesture_summary">Điều chỉnh xem việc có kéo menu cử chỉ ở cạnh ra bằng hai ngón tay hay không. Khi tùy chọn này được chọn, có thể sử dụng các hành động cử chỉ cạnh khác bằng một ngón tay</string>
-    <string name="left_edge_gesture_items_title">Tùy chỉnh menu cạnh trái</string>
-    <string name="right_edge_gesture_items_title">Tùy chỉnh menu cạnh phải</string>
-    <string name="multi_menu_items_title">Tùy chỉnh menu nhiều cột</string>
-    <string name="main_menu_items_title">Tùy chỉnh menu chính</string>
-    <string name="use_edge_gesture_menu_title">Sử dụng menu cạnh</string>
-    <string name="use_left_edge_gesture_quick_menu_title">Sử dụng menu cạnh trái làm menu tắt</string>
+    <string name="left_edge_gesture_items_title">Tùy chỉnh  trình đơn cạnh trái</string>
+    <string name="right_edge_gesture_items_title">Tùy chỉnh  trình đơn cạnh phải</string>
+    <string name="multi_menu_items_title">Tùy chỉnh  trình đơn nhiều cột</string>
+    <string name="main_menu_items_title">Tùy chỉnh  trình đơn chính</string>
+    <string name="use_edge_gesture_menu_title">Sử dụng  trình đơn cạnh</string>
+    <string name="use_left_edge_gesture_quick_menu_title">Sử dụng trình đơn cạnh trái làm trình đơn phím tắt</string>
     <string name="use_small_filter_title">Lọc các phần tử không mong muốn</string>
     <string name="jieshuo_bbs_summary">Giao lưu, học hỏi và chia sẻ</string>
     <string name="voice_recognizer_title">công cụ nhận dạng</string>
     <string name="use_text_format_char_upper_title">Đọc chữ hoa</string>
     <string name="voice_helper_media_mute_mode_title">Tắt âm lượng phương tiện trong khi trợ lý giọng nói đang nghe</string>
-    <string name="trans_lang_to_title">Chọn ngôn ngữ để dịch sang</string>
+    <string name="trans_lang_to_title">Ngôn ngữ mục tiêu</string>
     <string name="recognizer_lang_title">Ngôn ngữ nhận dạng giọng nói</string>
-    <string name="float_menu_items_title">menu nổi</string>
-    <string name="use_float_menu_title">Sử dụng menu nổi</string>
+    <string name="float_menu_items_title"> trình đơn nổi</string>
+    <string name="use_float_menu_title">Sử dụng  trình đơn nổi</string>
     <string name="tts_scale_title">Tăng tốc độ giọng nói hơn mức bình thường</string>
     <string name="auto_previous">Tự động duyệt ngược</string>
-    <string name="code_help_title">Trợ giúp về Jieshuo Screenreader API</string>
+    <string name="code_help_title">Trợ giúp về API Jieshuo</string>
     <string name="sign_up">Đăng ký</string>
     <string name="login">Đăng nhập</string>
     <string name="back">Quay lại</string>
@@ -755,14 +751,14 @@
     <string name="msg_deleted"> %s  xóa </string>
     <string name="tts_echo_voice_settings_title">Cài đặt Echo TTS</string>
     <string name="screen_off">Màn hình tắt</string>
-    <string name="edit_box_no_found">Không tìm thấy hộp chỉnh sửa</string>
+    <string name="edit_box_no_found">Không tìm thấy hộp nhập liệu</string>
     <string name="msg_speak_content">Hãy nói ngay bây giờ</string>
     <string name="msg_bye">Tạm biệt</string>
     <string name="date_format">HH:mm</string>
     <string name="date_format0">HH:00</string>
     <string name="more">Thêm</string>
     <string name="add_label">Thêm nhãn</string>
-    <string name="grid_item_current">%d hàng ngang %d cột</string>
+    <string name="grid_item_current">%d hàng %d cột</string>
     <string name="node_info_root">Nút gốc chứa %d nút con</string>
     <string name="node_info">%d nút con</string>
     <string name="node_info_none">Không có nút con</string>
@@ -771,7 +767,7 @@
     <string name="date_format_min_sec">m\'phút\'ss\'giây\'</string>
     <string name="date_format_hour_min">HH:mm</string>
     <string name="hint_move">Vuốt sang trái hoặc phải để di chuyển tiêu điểm</string>
-    <string name="hint_edit">Nhấn đúp để chỉnh sửa</string>
+    <string name="hint_edit">Nhấn để chỉnh sửa</string>
     <string name="hint_change_seek">Vuốt sang trái hoặc phải để điều chỉnh thanh trượt</string>
     <string name="hint_change_rating">Vuốt sang trái hoặc phải để thay đổi xếp hạng</string>
     <string name="hint_checked">Nhấn đúp để chọn</string>
@@ -820,7 +816,7 @@
     <string name="func_create">Tạo một chức năng mới</string>
     <string name="waiting">Vui lòng chờ</string>
     <string name="gestures_description_default">Đây là cử chỉ mặc định của trình đọc màn hình. Vui lòng xem tài liệu trợ giúp phù hợp để tìm hiểu thêm, Vui lòng chuy cập trợ giúp để tìm hiểu</string>
-    <string name="auto_click">Tự động nhấn</string>
+    <string name="auto_click">Nhấn tự động</string>
     <string name="insert">Chèn %s</string>
     <string name="edit_button">Nhập các nút để nhấn (một nút trên mỗi dòng)</string>
     <string name="use_upper_speak_title">Đọc chữ hoa khi nhập văn bản</string>
@@ -834,7 +830,7 @@
     <string name="open">Mở</string>
     <string name="voice_cmd_uninstall">Gỡ cài đặt</string>
     <string name="voice_cmd_install">Cài đặt</string>
-    <string name="voice_cmd_input">Đầu vào</string>
+    <string name="voice_cmd_input">Nhập liệu</string>
     <string name="voice_cmd_search">Tìm kiếm</string>
     <string name="camera_guide">chế độ hướng dẫn</string>
     <string name="camera_tag">Nhận dạng cảnh</string>
@@ -854,41 +850,41 @@
     <string name="no_save">Không lưu</string>
 
     <string name="use_web_type_move_title">Cho phép di chuyển theo loại phần tử trên web</string>
-    <string name="pref_donate_alipay">Quyên góp qua Alipay để hỗ trợ phát triển Jieshuo+</string>
-    <string name="pref_donate_paypal">Quyên góp qua Paypal để hỗ trợ phát triển Jieshuo+</string>
-    <string name="menu_settings_title">Menu tùy chỉnh</string>
+    <string name="pref_donate_alipay">Quyên góp qua Alipay để hỗ trợ phát triển Jieshuo</string>
+    <string name="pref_donate_paypal">Quyên góp qua Paypal để hỗ trợ phát triển Jieshuo</string>
+    <string name="menu_settings_title">Tùy chỉnh trình đơn</string>
     <string name="directory_download">Tải xuống</string>
     <string name="msg_has_vip_split_edit">Người dùng phiên bản miễn phí không thể chỉnh sửa văn bản dài hơn 100 ký tự</string>
     <string name="media_doc_title">hướng dẫn bằng âm thanh</string>
-    <string name="downloaded">Tài nguyên đã tải xuống</string>
+    <string name="downloaded">Các tài nguyên đã tải xuống</string>
     <string name="no_login">Bạn chưa đăng nhập</string>
     <string name="no_vip">Bạn đang sử dụng phiên bản miễn phí</string>
-    <string name="need_vip">Nếu bạn muốn mua phiên bản đầy đủ của trình đọc màn hình, vui lòng liên hệ với một trong các thành viên Dịch vụ khách hàng. Trường hợp bạn không thể thanh toán qua paypal hoặc không nói được ngôn ngữ khác mà chỉ biết tiếng Việt. Vui lòng liên hệ với người hỗ trợ tại nhóm Jieshuo tiếng Việt</string>
+    <string name="need_vip">Nếu bạn muốn mua  tư cách thành viên của trình đọc màn hình, vui lòng liên hệ với một trong các thành viên Dịch vụ khách hàng</string>
     <string name="check_read_phone_state_permission">Kiểm tra xem quyền đọc trạng thái điện thoại có được cấp hay không</string>
     <string name="message_timer_mode_disabled">Hẹn giờ đã dừng. %s trôi qua. Bây giờ là %s</string>
-    <string name="camera_right_up">nâng bên phải</string>
-    <string name="camera_left_up">nâng bên trái</string>
+    <string name="camera_right_up">nâng bên phải lên</string>
+    <string name="camera_left_up">nâng bên trái lên</string>
     <string name="camera_hold_posture">giữ im</string>
     <string name="camera_hold_posture_have_face">có %d khuôn mặt</string>
-    <string name="camera_lower_left_hand">Hạ tay trái</string>
-    <string name="camera_raise_left_hand">nâng tay trái</string>
-    <string name="camera_top_up">nâng đỉnh điện thoại</string>
-    <string name="camera_bottom_up">nâng đáy điện thoại</string>
+    <string name="camera_lower_left_hand">Hạ tay trái xuống</string>
+    <string name="camera_raise_left_hand">nâng tay trái lên</string>
+    <string name="camera_top_up">Nâng phần trên cùng của điện thoại lên</string>
+    <string name="camera_bottom_up">Nâng phần dưới cùng của điện thoại lên</string>
     <string name="camera_screen_up">Màn hình hướng lên trên</string>
     <string name="camera_screen_down">màn hình úp xuống</string>
     <string name="camera_move_left">Di chuyển sang trái</string>
     <string name="camera_move_right">Di chuyển sang phải</string>
-    <string name="camera_move_up">Di chuyển lên</string>
-    <string name="camera_move_down">Di chuyển xuống</string>
-    <string name="camera_top_move_far">nâng cao màn hình</string>
-    <string name="camera_top_move_near">nâng điện thoại lên</string>
+    <string name="camera_move_up">Di chuyển lên trên</string>
+    <string name="camera_move_down">Di chuyển xuống dưới</string>
+    <string name="camera_top_move_far">Di chuyển máy ảnh ra xa</string>
+    <string name="camera_top_move_near">Di chuyển máy ảnh gần hơn</string>
 
     <string name="use_text_format_read_word_title">Đọc các chữ cái có ví dụ </string>
     <string name="restore">Khôi phục</string>
     <string name="backup">Sao lưu</string>
-    <string name="directory_camera">Camera</string>
-    <string name="game_mode_title">Chế độ chơi game</string>
-    <string name="game_mode_summary">Khi ứng dụng hoặc trò chơi được thêm vào chế độ chơi game. Duyệt bằng cách chạm sẽ bị tạm dừng khi ứng dụng hoặc trò chơi hoạt động và sẽ tiếp tục khi thoát khỏi ứng dụng hoặc trò chơi đó</string>
+    <string name="directory_camera">Máy ảnh</string>
+    <string name="game_mode_title">Chế độ  trò chơi</string>
+    <string name="game_mode_summary">Khi ứng dụng hoặc trò chơi được thêm vào chế độ trò chơi. Duyệt bằng cách chạm sẽ bị tạm dừng khi ứng dụng hoặc trò chơi hoạt động và sẽ tiếp tục khi thoát khỏi ứng dụng hoặc trò chơi đó</string>
     <string name="msg_backuped">Sao lưu thành công</string>
     <string name="msg_items"> %d Mục</string>
     <string name="msg_recognition_results">kết quả nhận dạng</string>
@@ -896,7 +892,7 @@
     <string name="use_dpad_key_title">Sử dụng các phím mũi tên trên bàn phím làm phím con trỏ</string>
     <string name="ocr_engine_title">công cụ OCR</string>
     <string name="manager_title">Quản lý</string>
-    <string name="msg_battery_full">Pin đã đầy</string>
+    <string name="msg_battery_full">Pin đã  được sạc đầy</string>
     <string name="invite_code">Mã mời</string>
     <string name="msg_supper_mode">Chế độ tiêu điểm chi tiết nâng cao có thể truy cập vào nhiều nội dung hơn</string>
     <string name="msg_enabled_supper_mode">Đã bật chế độ tiêu điểm chi tiết nâng cao</string>
@@ -908,28 +904,28 @@
     <string name="backup_done">Sao lưu hoàn tất</string>
     <string name="msg_gestures_empty">Bạn Không có cử chỉ tùy chỉnh</string>
     <string name="msg_sounds_empty">Bạn Không có chủ đề âm thanh</string>
-    <string name="msg_clipboards_empty">Bạn Không có lịch sử bộ nhớ tạm</string>
+    <string name="msg_clipboards_empty">Bạn Không có lịch sử bảng tạm</string>
     <string name="msg_favorites_empty">Bạn Không có mục yêu thích</string>
     <string name="msg_timers_empty">Bạn Không có nhãn hẹn giờ</string>
     <string name="msg_plugins_empty">Bạn Không có tiện ích mở rộng</string>
-    <string name="msg_tools_empty">Bạn không có công cụ</string>
+    <string name="msg_tools_empty">Bạn không có công cụ  mở rộng</string>
     <string name="msg_labels_empty">Bạn Không có nhãn tùy chỉnh</string>
     <string name="msg_backups_empty">Bạn Không có bản sao lưu</string>
     <string name="msg_cmds_empty">Bạn Không có lệnh thoại</string>
     <string name="close">Đóng</string>
     <string name="multi_click">Chế độ nhiều lần nhấn</string>
-    <string name="command_raw_tap">Tạm dừng jieshuo trong 1 giây</string>
-    <string name="msg_enabled_raw_tap">Đã Bật chế độ Tạm dừng jieshuo. giờ đây, bạn có thể tạm thời bỏ qua trình đọc màn hình và tương tác trực tiếp với thiết bị của mình trong 1 giây sau khi chạm vào màn hình một lần.</string>
-    <string name="msg_disabled_raw_tap">Đã tắt chế độ Tạm dừng jieshuo</string>
+    <string name="command_raw_tap">Chế độ trạm trực tiếp</string>
+    <string name="msg_enabled_raw_tap">Đã Bật  chế độ trạm trực tiếp. giờ đây, bạn có thể tạm thời bỏ qua trình đọc màn hình và tương tác trực tiếp với thiết bị của mình trong 1 giây sau khi chạm vào màn hình một lần.</string>
+    <string name="msg_disabled_raw_tap">Đã tắt chế độ trạm trực tiếp</string>
 
     <string name="system_tts_scale_summary">Chức năng này vẫn đang trong giai đoạn thử nghiệm. Nó cho phép tăng tốc độ giọng nói vượt quá tốc độ khả dụng tối đa của giọng nói đó. Không đảm bảo hỗ trợ tất cả các công cụ giọng nói</string>
-    <string name="send_email_title">Email của nhà phát triển: 946049229@qq.com</string>
+    <string name="send_email_title">Email: 946049229@qq.com</string>
 
     <string name="voice_helper_use_blot_title">Sử dụng trợ lý trò chuyện nhân tạo</string>
 
     <string name="message_recognition_empty">tôi không hiểu tin nhắn của bạn</string>
     <string name="voice_helper_exit">Tạm biệt</string>
-    <string name="voice_input_mode">Nhập bằng giọng nói liên tục</string>
+    <string name="voice_input_mode">Nhập giọng nói liên tục</string>
     <string name="voice_helper_record_start">Bắt đầu ghi âm</string>
     <string name="voice_helper_record_stop">Kết thúc ghi âm</string>
     <string name="voice_helper_record_message">Quá trình ghi đã bắt đầu. Nói từng hướng dẫn một và cuối cùng nói \"dừng ghi âm\" để kết thúc</string>
@@ -943,8 +939,8 @@
     <string name="cloud_backup_restore_settings_title">Sao lưu và khôi phục từ máy chủ</string>
     <string name="cloud_backup_settings_title">Sao lưu cài đặt lên máy chủ</string>
     <string name="cloud_restore_settings_title">Khôi phục cài đặt từ máy chủ</string>
-    <string name="cloud_backup_clipboard_title">Sao lưu lịch sử bộ nhớ tạm lên máy chủ</string>
-    <string name="cloud_restore_clipboard_title">Khôi phục lịch sử bộ nhớ tạm từ máy chủ</string>
+    <string name="cloud_backup_clipboard_title">Sao lưu lịch sử bảng  tạm lên máy chủ</string>
+    <string name="cloud_restore_clipboard_title">Khôi phục lịch sử bảng  tạm từ máy chủ</string>
     <string name="cloud_backup_favorites_title">Sao lưu mục yêu thích lên máy chủ</string>
     <string name="cloud_restore_favorites_title">Khôi phục mục yêu thích từ máy chủ</string>
     <string name="cloud_backup_timer_title">Sao lưu hẹn giờ lên máy chủ</string>
@@ -966,7 +962,7 @@
     <string name="use_ocr_baidu_help">Vui lòng chuy cập https://ai.baidu.com để đăng ký. Sau khi đăng ký, hãy nhập dữ liệu API để nhận dạng văn bản, động vật, thực vật hoặc tiền tệ</string>
     <string name="ocr_setting">cài đặt OCR</string>
     <string name="ocr_lang_title">ngôn ngữ OCR</string>
-    <string name="ocr_lang_summary">Điều chỉnh xem ngôn ngữ nào được sử dụng trong khi nhận dạng văn bản,. Tùy chọn này chỉ hoạt động khi công cụ Tencent Cloud OCR được chọn</string>
+    <string name="ocr_lang_summary">Điều chỉnh xem ngôn ngữ nào được sử dụng trong khi nhận dạng văn bản,. Tùy chọn này chỉ hoạt động khi công cụ Offline OCR được chọn</string>
     <string name="ocr_baidu_summary">Cho phép đặt cài đặt tùy chỉnh liên quan đến công cụ Baidu OCR. Tùy chọn này chỉ hoạt động khi Baidu được chọn làm công cụ OCr</string>
     <string name="add_from_focus_node">Thêm từ phần tử hiện được đặt tiêu điểm</string>
     <string name="add_from_virtual_screen">Thêm từ màn hình ảo</string>
@@ -1003,7 +999,7 @@
     <string name="usage_hints_msg">Tiếp theo, hãy quyết định xem bạn có muốn nhận gợi ý sử dụng từ Jieshuo hay không. Gợi ý sử dụng là những thông tin ngắn được nói trên bất kỳ tiêu điểm nào, ví dụ: các thông báo được nói khi bạn di chuyển đến 1 tiêu điểm và Jieshuo sẽ đọc nhấn đúp để kích hoạt. Những thông báo này có thể giúp bạn biết được 1 số điều khiển nhất định, nhưng nếu bạn đã quen với việc sử dụng trình đọc màn hình, bạn nên tắt để có trải nghiệm nhanh hơn</string>
     <string name="use_list_index_msg">Danh sách là một phần rất quan trọng của giao diện người dùng Android. Bây giờ, bạn sẽ quyết định xem bạn có muốn trình đọc màn hình đọc nhiều thông tin khác nhau về danh sách hiện tại, như vị chí của phần tử hiện được tập trung trong danh sách hay phạm vi hiển thị của danh sách. Bạn có muốn thông tin này được đọc hay không?</string>
     <string name="notification_speak_msg">Hãy chọn xem bạn có muốn trình đọc màn hình đọc thông báo hay không. Thông báo bao gồm tin nhắn SMS đến, dự báo thời tiết hoặc bất kỳ thông tin nào khác do thiết bị của bạn gửi đến. Bạn nên bật thông báo nhưng nếu không muốn bị gián đoạn trong quá trình làm việc, bạn có thể tắt chúng đi. Điều đáng chú ý là jieshuo+ có một tính năng gọi là Hộp thông báo có thể giúp xem thông báo trên một số thiết bị dễ dàng hơn nhiều</string>
-    <string name="use_single_tts_msg">Jieshuo+ có thể sử dụng hai công cụ giọng nói cùng một lúc. Công cụ giọng nói chính sẽ được sử dụng để đọc hầu hết thông tin, trong khi công cụ giọng nói phụ sẽ được sử dụng để đọc thông báo và các nội dung ít quan trọng khác. Ví dụ, Bạn có thể chọn công cụ giọng nói của google đọc thông báo chính, Nhưng giọng nói VN speak lại có thể sử dụng để đọc thông báo</string>
+    <string name="use_single_tts_msg">Jieshuo có thể sử dụng hai công cụ giọng nói cùng một lúc. Công cụ giọng nói chính sẽ được sử dụng để đọc hầu hết thông tin, trong khi công cụ giọng nói phụ sẽ được sử dụng để đọc thông báo và các nội dung ít quan trọng khác. Ví dụ, Bạn có thể chọn công cụ giọng nói của google đọc thông báo chính, Nhưng giọng nói VN speak lại có thể sử dụng để đọc thông báo</string>
     <string name="use_left_right_ok">Đảo ngược cử chỉ vuốt</string>
     <string name="use_left_right_no">Sử dụng cử chỉ mặc định</string>
     <string name="usage_hints_ok">Có</string>
@@ -1014,26 +1010,26 @@
     <string name="use_single_tts_no">Sử dụng hai công cụ giọng nói cùng một lúc.</string>
     <string name="permission_title">Trợ giúp về quyền</string>
     <string name="permission_msg">Đọc trạng thái điện thoại Nó được sử dụng để xác định tính duy nhất của danh tính để cung cấp các dịch vụ được cá nhân hóa và xác thực tài khoản, đồng thời theo dõi trạng thái điện thoại để cung cấp thông tin trạng thái để trả lời/từ chối cuộc gọi nhanh và các chức năng khác, đồng thời báo cáo số lượng cuộc gọi đến.\n  Trả lời cuộc gọi Cung cấp các chức năng như trả lời nhanh/từ chối cuộc gọi trên Android 8 trở lên.\n  Thực hiện cuộc gọi Cung cấp chức năng quay số trực tiếp trong việc tìm nạp số và báo cáo bằng giọng nói.\n  Thông tin vị trí được sử dụng để cung cấp các dịch vụ được cá nhân hóa dựa trên vị trí, chẳng hạn như thời tiết địa phương, vị trí hiện tại cũng như các dịch vụ bản đồ và điều hướng có thể được mở rộng trong tương lai.\n  Máy ảnh Được sử dụng để chụp ảnh và các chức năng nhận dạng khác nhau.\n  Micrô Trợ lý giọng nói, Nhập bằng giọng nói.\n  Danh bạ nó sử dụng để gọi bằng giọng nói và phần mềm có thể đọc thông tin người gọi đến.\n  Thông báo nổi Hiển thị các menu và các biểu mẫu và hộp thoại kiểu màn hình đen.\n  Tạo lối tắt trên màn hình nền Cung cấp các công cụ mở rộng (ứng dụng nhẹ) với khả năng thêm vào màn hình nền để khởi động dễ dàng.\n  Cài đặt trong ứng dụng để cập nhật các phiên bản mới tự động.\n  Truy cập mạng, xác thực người dùng, nhận dạng hình ảnh, gắn thẻ trên máy chủ, nhận dạng giọng nói.\n  Bắt đầu khi khởi động để phần mềm được bật ngay sau khi khởi động lại thiết bị.\n  Ngăn điện thoại ở chế độ ngủ Ngăn màn hình tắt trong khi có thông báo.\n  Việc vô hiệu hóa một số quyền có thể khiến một số chức năng không hoạt động bình thường, Nên hãy cho phép phần mềm chuy cập các quyền.</string>
-    <string name="check_permissions_msg">Jieshuo+ cần một số quyền cơ bản để hoạt động, chẳng hạn như quyền Bộ nhớ được sử dụng để đọc chủ đề âm thanh, tiện ích mở rộng hoặc bất kỳ dữ liệu bên ngoài nào khác từ thiết bị. Nhấn vào \"Tiếp theo\" để tiếp tục và cấp tất cả các quyền được yêu cầu hoặc nhấn vào \"Hủy bỏ\" để thoát khỏi phần mềm</string>
+    <string name="check_permissions_msg">Jieshuo cần một số quyền cơ bản để hoạt động, chẳng hạn như quyền Bộ nhớ được sử dụng để đọc chủ đề âm thanh, tiện ích mở rộng hoặc bất kỳ dữ liệu bên ngoài nào khác từ thiết bị. Nhấn vào \"Tiếp theo\" để tiếp tục và cấp tất cả các quyền được yêu cầu hoặc nhấn vào \"Hủy bỏ\" để thoát khỏi phần mềm</string>
     <string name="next">Tiếp theo</string>
     <string name="setup_setting_done">Thiết lập đã hoàn tất</string>
     <string name="setup_setting_continue">Tiếp tục thiết lập</string>
     <string name="setup_setting_done_msg"><![CDATA[Nếu bạn cần mở lại hướng dẫn cài đặt cơ bản, hãy vào Cài đặt chung > Hướng dẫn cài đặt]]></string>
     <string name="setup_setting_not_permission">Quyền cơ bản chưa được cấp</string>
-    <string name="setup_setting_not_permission_msg">Jieshuo+ sẽ không hoạt động nếu không có một số quyền cơ bản mà bạn chưa cấp. Nhấn vào \"Tiếp tục thiết lập\" sẽ cấp tất cả các quyền được yêu cầu và tiếp tục trình hướng dẫn thiết lập, nhấn \"Cấp quyền\" sẽ cấp tất cả các quyền được yêu cầu và thoát khỏi trình hướng dẫn, Nếu bạn nhấn vào \"Thoát\" sẽ khiến một số tính năng hoạt động không chính xác</string>
+    <string name="setup_setting_not_permission_msg">Jieshuo sẽ không hoạt động nếu không có một số quyền cơ bản mà bạn chưa cấp. Nhấn vào \"Tiếp tục thiết lập\" sẽ cấp tất cả các quyền được yêu cầu và tiếp tục trình hướng dẫn thiết lập, nhấn \"Cấp quyền\" sẽ cấp tất cả các quyền được yêu cầu và thoát khỏi trình hướng dẫn, Nếu bạn nhấn vào \"Thoát\" sẽ khiến một số tính năng hoạt động không chính xác</string>
     <string name="setup_setting_set_permission_and_exit">Cấp quyền và thoát</string>
     <string name="setup_setting_not_notification_permission">Quyền hiển thị thông báo chưa được cấp</string>
-    <string name="setup_setting_notification_permission_msg">Jieshuo+ sử dụng quyền hiển thị thông báo để hiển thị biểu tượng thông báo được sử dụng để tiếp tục cử chỉ, sử dụng các tính năng ngăn chặn đóng, v.v. Cấp quyền này sẽ giúp ứng dụng hoạt động ổn định hơn trên thiết bị của bạn</string>
+    <string name="setup_setting_notification_permission_msg">Jieshuo sử dụng quyền hiển thị thông báo để hiển thị biểu tượng thông báo được sử dụng để tiếp tục cử chỉ, sử dụng các tính năng ngăn chặn đóng, v.v. Cấp quyền này sẽ giúp ứng dụng hoạt động ổn định hơn trên thiết bị của bạn</string>
     <string name="setup_setting_get_permission">Cấp quyền</string>
     <string name="setup_setting_has_notification_permission">Quyền hiển thị thông báo đã được cấp</string>
     <string name="changed">thay đổi</string>
     <string name="setup_setting_not_battery_permission">Bỏ qua quyền tối ưu hóa pin chưa được cấp</string>
     <string name="setup_setting_battery_permission_msg">Tối ưu hóa pin có thể giúp kéo dài thời gian sử dụng pin, nhưng nó sẽ khiến trình đọc màn hình tắt hoặc ngủ bất ngờ. Bạn nên cấp quyền bỏ qua tối ưu hóa pin để ổn định hơn và sử dụng chế độ tiết kiệm pin chuyên dụng để kéo dài thời gian pin</string>
-    <string name="setup_setting_has_battery_permission">Bỏ qua quyền tối ưu hóa pin đã được cấp</string>
+    <string name="setup_setting_has_battery_permission"> quyền  bỏ qua tối  ưu hóa pin đã được cấp</string>
     <string name="setup_setting_not_overlay_permission">Quyền hiển thị cửa sổ bật lên chưa được cấp</string>
-    <string name="setup_setting_overlay_permission_msg">Trình đọc màn hình Jieshuo sử dụng cửa sổ bật lên cho những thứ như hiển thị menu, kết quả nhận dạng hoặc cho chế độ ẩn màn hình</string>
+    <string name="setup_setting_overlay_permission_msg">Trình đọc màn hình Jieshuo sử dụng cửa sổ bật lên cho những thứ như hiển thị menu, kết quả nhận dạng hoặc cho chế độ che màn hình</string>
     <string name="setup_setting_has_overlay_permission">Quyền hiển thị cửa sổ bật lên đã được cấp</string>
-    <string name="copy_username_and_userid">Sao chép tên tài khoản và ID tài khoản vào bộ nhớ tạm</string>
+    <string name="copy_username_and_userid">Sao chép tên tài khoản và ID tài khoản vào bảng tạm</string>
     <string name="username_and_userid_format">帐户名称 %s ID %s</string>
     <string name="file_name_dict">dict.json</string>
     <string name="refresh">Làm mới</string>
@@ -1057,7 +1053,7 @@
     <string name="install_shortcut">Thêm vào màn hình chính</string>
     <string name="msg_select_end">kết thúc lựa chọn</string>
     <string name="msg_select_start">Bắt đầu lựa chọn</string>
-    <string name="msg_plugin_run_error">Vui lòng chạy phần mềm trợ năng Jieshuo+ trước</string>
+    <string name="msg_plugin_run_error">Vui lòng chạy phần mềm trợ năng Jieshuo trước</string>
     <string name="input_file_name">tên tệp</string>
     <string name="input_project_name">Tên dự án</string>
     <string name="use_loop_move_title">Gói điều hướng</string>
@@ -1071,7 +1067,7 @@
     <string name="sound_focus4">phần tử không thể tập chung</string>
     <string name="sound_click">Nhấn</string>
     <string name="sound_long_click">Nhấn lâu</string>
-    <string name="sound_focus0">phần tử menu cạnh hoặc loại điều hướng</string>
+    <string name="sound_focus0">phần tử  trình đơn cạnh hoặc loại điều hướng</string>
     <string name="sound_scroll_up">Cuộn lên</string>
     <string name="sound_scroll_down">Cuộn xuống</string>
     <string name="sound_tick">đồng hồ bấm giờ</string>
@@ -1091,9 +1087,9 @@
     <string name="command_quick_settings">Cài đặt nhanh</string>
     <string name="command_take_screenshot">Chụp màn hình</string>
     <string name="command_off_screen2">Khóa Màn hình</string>
-    <string name="command_power_dialog">menu nguồn</string>
-    <string name="use_bottom_menu_edge_gesture_summary">Điều chỉnh xem menu cạnh dưới có được sử dụng hay không. Menu cạnh dưới được kéo lên từ cạnh dưới cùng của màn hình và nó cho phép thực hiện các thao tác như quay lại màn hình chính, mở thanh thông báo hoặc mở hộp thoại cài đặt nhanh</string>
-    <string name="use_bottom_menu_edge_gesture_title">Sử dụng menu cạnh dưới</string>
+    <string name="command_power_dialog"> trình đơn nguồn</string>
+    <string name="use_bottom_menu_edge_gesture_summary">Điều chỉnh xem  trình đơn cạnh dưới có được sử dụng hay không.  trình đơn cạnh dưới được kéo lên từ cạnh dưới cùng của màn hình và nó cho phép thực hiện các thao tác như quay lại màn hình chính, mở thanh thông báo hoặc mở hộp thoại cài đặt nhanh</string>
+    <string name="use_bottom_menu_edge_gesture_title">Sử dụng trình đơn cạnh dưới</string>
     <string name="all">Tất cả</string>
     <string name="create_hot_key">Tạo bộ phím nóng mới</string>
     <string name="create_app_hot_key">Tạo bộ phím nóng cho từng ứng dụng mới</string>
@@ -1106,16 +1102,16 @@
     <string name="app_hot_key_package_summary">Được sử dụng để tạo bộ phím nóng cho từng ứng dụng khác nhau. Nó sẽ chỉ có hiệu lực trong ứng dụng được xác định</string>
     <string name="directory_hot_key">Phím nóng</string>
     <string name="hot_key_summary">Nhấn một phím hoặc tổ hợp phím. </string>
-    <string name="sound_timer_end">hẹn giờ kết thúc</string>
+    <string name="sound_timer_end">Kết thúc hẹn giờ</string>
     <string name="sound_timer_start">bắt đầu hẹn giờ</string>
     <string name="use_scroll_list_content_title">Đọc tất cả nội dung hiển thị của danh sách khi cuộn bằng các lệnh</string>
     <string name="use_view_type_move_title">Cho phép di chuyển theo loại phần tử trong giao diện chuẩn của Android</string>
     <string name="use_view_type_move_summary">Khi chọn, bạn có thể tùy chỉnh những loại điều hướng khi duyệt ở chế độ xem tiêu chuẩn của Android</string>
     <string name="command_raw_double_tap">[nhấn đúp]</string>
-    <string name="to_previous_granularity_item">Loại điều hướng đã chọn trước đó</string>
-    <string name="to_next_granularity_item">Loại điều hướng đã chọn tiếp theo</string>
-    <string name="to_previous_granularity">Chọn Loại điều hướng trước đó</string>
-    <string name="to_next_granularity">Chọn Loại điều hướng tiếp theo</string>
+    <string name="to_previous_granularity_item">Mục điều hướng trước đó</string>
+    <string name="to_next_granularity_item">Mục điều hướng tiếp theo</string>
+    <string name="to_previous_granularity">Loại điều hướng trước đó</string>
+    <string name="to_next_granularity">Loại điều hướng tiếp theo</string>
     <string name="select_granularity_mode">Chọn loại điều hướng</string>
     <string name="web_type_move_title">Tùy chỉnh điều hướng phần tử trang web</string>
     <string name="view_type_move_title">Tùy chỉnh điều hướng phần tử chế độ xem tiêu chuẩn</string>
@@ -1148,9 +1144,9 @@
     <string name="gesture_2_triple_tap">Nhấn ba lần bằng hai ngón tay</string>
     <string name="gesture_3_triple_tap">Nhấn ba lần bằng ba ngón tay</string>
     <string name="gesture_4_triple_tap">Nhấn ba lần bằng bốn ngón tay</string>
-    <string name="gesture_2_double_tap_hold">Nhấn đúp rồi giữ bằng hai ngón tay</string>
-    <string name="gesture_3_double_tap_hold">Nhấn đúp rồi giữ bằng ba ngón tay</string>
-    <string name="gesture_4_double_tap_hold">Nhấn đúp rồi giữ bằng bốn ngón tay</string>
+    <string name="gesture_2_double_tap_hold">Nhấn đúp và giữ bằng hai ngón tay</string>
+    <string name="gesture_3_double_tap_hold">Nhấn đúp và giữ bằng ba ngón tay</string>
+    <string name="gesture_4_double_tap_hold">Nhấn đúp và giữ bằng bốn ngón tay</string>
     <string name="gesture_2_swipe_up">Vuốt lên bằng hai ngón tay</string>
     <string name="gesture_3_swipe_up">Vuốt lên bằng ba ngón tay</string>
     <string name="gesture_4_swipe_up">Vuốt lên bằng bốn ngón tay</string>
@@ -1164,19 +1160,19 @@
     <string name="gesture_3_swipe_right">Vuốt sang phải bằng ba ngón tay</string>
     <string name="gesture_4_swipe_right">Vuốt sang phải bằng bốn ngón tay</string>
     <string name="msg_gesture_updated">Đã cập nhật cử chỉ</string>
-    <string name="msg_favorite_added">Đã thêm vào yêu thích</string>
+    <string name="msg_favorite_added">Đã thêm vào mục yêu thích</string>
     <string name="msg_shared">Đã chia sẻ thành công</string>
     <string name="msg_share_error">Đã xảy ra lỗi khi chia sẻ</string>
     <string name="select_progress">Điều chỉnh phần trăm của thanh trượt</string>
     <string name="node_changed_list_manager">Quản lý màn hình tập trung</string>
     <string name="add_node_changed_list">Giám sát phần tử hiện được đặt tiêu điểm</string>
-    <string name="switch_multi_finger_gestures">Chuyển cử chỉ nhiều ngón tay</string>
+    <string name="switch_multi_finger_gestures">Bật cử chỉ nhiều ngón tay</string>
     <string name="msg_node_changed_list_added">bắt đầu giám sát</string>
     <string name="msg_node_changed_list_removed">Dừng theo dõi</string>
-    <string name="msg_in_game_mode">Đã Bật chế độ chơi game, Chơi nào</string>
+    <string name="msg_in_game_mode">Vào chế độ trò chơi</string>
     <string name="use_accessibility_volume_fix_title">Sử dụng điều khiển âm lượng trợ năng nâng cao</string>
     <string name="use_accessibility_volume_fix_summary">Nếu âm lượng trợ năng dao động thường xuyên, bạn có thể thử bật tùy chọn này</string>
-    <string name="msg_exit_game_mode">Đã Tắt chế độ chơi game</string>
+    <string name="msg_exit_game_mode">Thoát chế độ trò chơi</string>
     <string name="privacy">Chính sách bảo mật</string>
     <string name="version_msg">%s\nKích cỡ: %s\nSố lượt tải xuống: %s</string>
     <string name="show_download_title">Tải xuống Jieshuo Beta</string>
@@ -1189,7 +1185,7 @@
     <string name="msg_multi_touch_mode_enabled">Bật cử chỉ nhiều ngón tay</string>
     <string name="msg_multi_touch_mode_disenabled">Tắt cử chỉ nhiều ngón tay</string>
     <string name="activation_code_text">Mã kích hoạt</string>
-    <string name="activate_title">Kích hoạt phiên bản đầy đủ</string>
+    <string name="activate_title">Kích hoạt tư cách thành viên</string>
     <string name="select_app">Chọn một ứng dụng</string>
     <string name="command_to_split_screen">Chế độ xem màn hình chia nhỏ</string>
     <string name="edit_activity">Trình soạn thảo văn bản Jieshuo</string>
@@ -1204,7 +1200,7 @@
     <string name="previous_chapter_title">Chương trước</string>
     <string name="next_chapter_default_value">Chương tiếp theo|Trang tiếp theo</string>
     <string name="previous_chapter_default_value">Chương trước|Trang trước</string>
-    <string name="msg_activated">Yêu cầu kích hoạt của bạn đã được gửi để xem xét. Nếu việc kích hoạt không được thực hiện trong thời gian hợp lý, vui lòng liên hệ với Dịch vụ khách hàng hoặc dịch giả</string>
+    <string name="msg_activated">Yêu cầu kích hoạt của bạn đã được gửi để xem xét. Nếu việc kích hoạt không được thực hiện trong thời gian hợp lý, vui lòng liên hệ với Dịch vụ khách hàng</string>
     <string name="flash_light">đèn pin</string>
     <string name="cloud_multi_backup_title">Chọn các mục để Sao lưu lên máy chủ</string>
     <string name="cloud_multi_restore_title">Chọn các mục để Khôi phục từ máy chủ</string>
@@ -1218,11 +1214,11 @@
     <string name="use_touch_stop_title">Dừng đọc khi chạm vào màn hình</string>
     <string name="continuous_recognition">Nhận dạng liên tục</string>
     <string name="edit_dict">sửa từ điển</string>
-    <string name="up_volume_key_off_title">Nhấn và giữ phím tăng âm lượng trong khi màn hình đang khóa</string>
-    <string name="down_volume_key_off_title">Nhấn và giữ phím giảm âm lượng trong khi màn hình đang khóa</string>
+    <string name="up_volume_key_off_title">Nhấn và giữ phím tăng âm lượng trong khi màn hình khóa</string>
+    <string name="down_volume_key_off_title">Nhấn và giữ phím giảm âm lượng trong khi màn hình  khóa</string>
     <string name="use_loop_move_space_title">Cảnh báo trước khi điều hướng xảy ra</string>
     <string name="use_view_type_move_mode_title">sử dụng chế độ điều hướng phần tử thay thế</string>
-    <string name="use_view_type_move_mode_summary">Điều chỉnh xem chế độ điều hướng phần tử thay thế có được sử dụng hay không. Trong chế độ này, cử chỉ vuốt lên rồi vuốt xuống hoặc vuốt xuống rồi vuốt lên được sử dụng để chuyển loại điều hướng, trong khi các cử chỉ phím tắt được sử dụng để điều hướng đến phần tử tiếp theo và trước đó của loại đã chọn</string>
+    <string name="use_view_type_move_mode_summary">Điều chỉnh xem chế độ điều hướng phần tử thay thế có được sử dụng hay không. Trong chế độ này, cử chỉ vuốt lên rồi vuốt xuống hoặc vuốt xuống rồi vuốt lên được sử dụng để chuyển loại điều hướng, trong khi các cử chỉ phím tắt được sử dụng để điều hướng đến mục tiếp theo và trước đó của loại  điều hướng đã chọn</string>
 
     <string name="app_hot_key_shortcut_title">Phím tắt âm lượng ứng dụng</string>
     <string name="shared_cloud_label">Chia sẻ nhãn tùy chỉnh lên máy chủ</string>
@@ -1233,65 +1229,65 @@
     <string name="up_volume_3_key_title">Nhấn ba lần vào nút tăng âm lượng</string>
     <string name="down_volume_2_key_title">Nhấn đúp vào nút giảm âm lượng</string>
     <string name="down_volume_3_key_title">Nhấn ba lần vào nút giảm âm lượng</string>
-    <string name="command_to_next_char">Kí tự tiếp</string>
-    <string name="command_to_previous_char">Kí tự trước</string>
-    <string name="command_to_next_word">từ tiếp</string>
-    <string name="command_to_previous_word">từ trước</string>
-    <string name="command_to_next_row">câu tiếp</string>
-    <string name="command_to_previous_row">Câu trước</string>
-    <string name="command_to_next_paragraph">Đoạn tiếp</string>
-    <string name="command_to_previous_paragraph">Đoạn trước</string>
-    <string name="command_to_head_set_key">Phát hoặc tạm dừng</string>
+    <string name="command_to_next_char">Kí tự tiếp theo</string>
+    <string name="command_to_previous_char">Kí tự trước đó</string>
+    <string name="command_to_next_word">từ tiếp theo</string>
+    <string name="command_to_previous_word">từ trước đó</string>
+    <string name="command_to_next_row">câu tiếp theo</string>
+    <string name="command_to_previous_row">Câu trước đó</string>
+    <string name="command_to_next_paragraph">Đoạn tiếp theo</string>
+    <string name="command_to_previous_paragraph">Đoạn trước đó</string>
+    <string name="command_to_head_set_key">Phát hoặc dừng</string>
     <string name="msg_selected_from_to">%d đến %d đã chọn</string>
-    <string name="album_activity">Album Jieshuo</string>
-    <string name="command_toggle_tts_engine">Chuyển đổi công cụ giọng nói hiện đang sử dụng</string>
+    <string name="album_activity"> bộ sưu tập Jieshuo</string>
+    <string name="command_toggle_tts_engine">Chuyển đổi công cụ giọng nói</string>
     <string name="command_speak_light">Nói độ sáng hiện tại</string>
-    <string name="use_recording_stop_title">tạm dừng đọc trong khi micrô đang được sử dụng</string>
+    <string name="use_recording_stop_title">Tắt âm thanh của trình đọc màn hình khi micro đang được sử dụng</string>
     <string name="use_speak_call_time_title">Đọc thời lượng của cuộc gọi đã kết thúc</string>
-    <string name="use_speak_call_time_summary">Điều chỉnh xem thời lượng của cuộc gọi có được tự động đọc khi cuộc gọi kết thúc hay không. Chức năng này yêu cầu quyền đọc nhật ký cuộc gọi</string>
+    <string name="use_speak_call_time_summary">Điều chỉnh xem thời gian của cuộc gọi có được tự động đọc khi cuộc gọi kết thúc hay không. Chức năng này yêu cầu quyền đọc nhật ký cuộc gọi</string>
     <string name="use_list_item_index_real_time_title">Đọc vị chí của mục trong danh sách hiện được đặt tiêu điểm trong khi cuộn danh sách</string>
     <string name="add_favorites">Thêm vào mục yêu thích</string>
     <string name="save_as_file">Lưu dưới dạng tệp cục bộ</string>
     <string name="save_as_cloud">Lưu dưới dạng ghi chú trên máy chủ</string>
-    <string name="msg_toggle_tts">Công cụ giọng nói hiện đang được sử dụng đã được chuyển đổi</string>
+    <string name="msg_toggle_tts">Công cụ giọng nói hiện tại đã được chuyển đổi thành</string>
     <string name="curren_char_idx"> %d dòng, %d Kí tự</string>
     <string name="command_add_content_blacklist">Thêm nội dung vào danh sách đen</string>
-    <string name="command_media_previous">Phương tiện trước</string>
-    <string name="command_media_next">Phương tiện tiếp</string>
+    <string name="command_media_previous">Phương tiện trước đó</string>
+    <string name="command_media_next">Phương tiện tiếp theo</string>
     <string name="use_answer_phone_calls_gesture_title">Bật điều khiển cuộc gọi chung</string>
     <string name="command_previous_window">Khu vực màn hình trước</string>
-    <string name="command_next_window">Khu vực màn hình tiếp</string>
+    <string name="command_next_window">Khu vực màn hình tiếp theo</string>
     <string name="accessibility_focus_appearance_title">Đánh dấu con trỏ</string>
     <string name="alpha">Trong suốt</string>
     <string name="red">đỏ</string>
     <string name="green">xanh lá</string>
     <string name="blue">xanh da trời</string>
     <string name="stroke">Chiều rộng</string>
-    <string name="gesture_2_triple_tap_hold">Nhấn ba lần rồi giữ bằng hai ngón tay</string>
-    <string name="gesture_3_triple_tap_hold">Nhấn ba lần rồi giữ bằng ba ngón tay</string>
-    <string name="gesture_4_triple_tap_hold">Nhấn ba lần rồi giữ bằng bốn ngón tay</string>
-    <string name="up_long">Vuốt lên từ từ</string>
-    <string name="up_right_long">từ từ vuốt lên rồi vuốt sang phải</string>
-    <string name="up_down_long">Vuốt lên rồi vuốt xuống từ từ</string>
-    <string name="up_left_long">từ từ Vuốt lên rồi vuốt sang trái</string>
-    <string name="down_long">Vuốt xuống từ từ</string>
-    <string name="down_right_long">từ từ Vuốt xuống rồi vuốt sang phải</string>
-    <string name="down_up_long">Vuốt xuống rồi vuốt lên từ từ</string>
-    <string name="down_left_long">từ từ Vuốt xuống rồi vuốt sang trái</string>
-    <string name="left_long">Vuốt sang trái từ từ</string>
-    <string name="left_up_long">từ từ Vuốt sang trái rồi vuốt lên</string>
-    <string name="left_down_long">từ từ Vuốt sang trái rồi vuốt xuống</string>
-    <string name="left_right_long">Vuốt sang trái rồi vuốt sang phải từ từ</string>
-    <string name="right_long">Vuốt sang phải từ từ</string>
-    <string name="right_up_long">từ từ Vuốt sang phải rồi vuốt lên</string>
-    <string name="right_down_long">từ từ Vuốt sang phải rồi vuốt xuống</string>
-    <string name="right_left_long">Vuốt sang phải rồi vuốt sang trái từ từ</string>
+    <string name="gesture_2_triple_tap_hold">Nhấn ba lần và giữ bằng hai ngón tay</string>
+    <string name="gesture_3_triple_tap_hold">Nhấn ba lần và giữ bằng ba ngón tay</string>
+    <string name="gesture_4_triple_tap_hold">Nhấn ba lần và giữ bằng bốn ngón tay</string>
+    <string name="up_long">Vuốt chậm lên</string>
+    <string name="up_right_long">Vuốt chậm lên rồi sang phải</string>
+    <string name="up_down_long">Vuốt chậm lên rồi vuốt xuống</string>
+    <string name="up_left_long">Vuốt chậm lên rồi sang trái</string>
+    <string name="down_long">Vuốt chậm xuống</string>
+    <string name="down_right_long">Vote chậm xuống rồi sang phải</string>
+    <string name="down_up_long">Vuốt chậm xuống rồi vuốt lên</string>
+    <string name="down_left_long">Vuốt chậm xuống rồi sang trái</string>
+    <string name="left_long">Vuốt chậm sang trái</string>
+    <string name="left_up_long">Vuốt chậm sang trái rồi vuốt lên</string>
+    <string name="left_down_long">Vuốt chậm sang trái rồi vuốt xuống</string>
+    <string name="left_right_long">Vuốt chậm sang trái rồi sang phải</string>
+    <string name="right_long">Vuốt chậm sang phải</string>
+    <string name="right_up_long">Vuốt chậm sang phải rồi vuốt lên</string>
+    <string name="right_down_long">Vuốt chậm sang phải rồi vuốt xuống</string>
+    <string name="right_left_long">Vuốt chậm sang phải rồi sang trái</string>
     <string name="keep_focus_position_speak_title">Đọc mục tập trung đã nhớ</string>
     <string name="save_as_cmd">Lưu dưới dạng lệnh thoại</string>
-    <string name="execute_cmd">Chấp hành</string>
+    <string name="execute_cmd">Thực thi</string>
     <string name="command_show_nodeinfo">Thuộc tính của nút hiện đang tập trung</string>
     <string name="copy_as_jieshuo_cmd">Sao chép dưới dạng lệnh thoại</string>
-    <string name="copy_text_auto_execute">Sao chép văn bản tự động</string>
+    <string name="copy_text_auto_execute">Tự động sao chép văn bản</string>
     <string name="msg_cmd_copyed">Đã sao chép thành công. Bây giờ bạn có thể dán và chia sẻ</string>
     <string name="use_custom_dict_regex_title">Sử dụng cụm từ thông dụng để thay thế từ điển</string>
     <string name="profiles_title">Cấu hình</string>
@@ -1301,14 +1297,14 @@
     <string name="message_load_gesture_error">Đã xảy ra lỗi khi chuyển đổi cử chỉ</string>
     <string name="msg_gesture_empty">Không có cử chỉ</string>
     <string name="msg_sound_empty">Không có chủ đề âm thanh</string>
-    <string name="msg_clipboard_empty">Không có gì trong lịch sử bộ nhớ tạm</string>
+    <string name="msg_clipboard_empty">Không có gì trong lịch sử bảng tạm</string>
     <string name="msg_plugin_empty">Không có tiện ích mở rộng</string>
-    <string name="msg_tool_empty">không có công cụ</string>
+    <string name="msg_tool_empty">không có công cụ  mở rộng</string>
     <string name="msg_label_empty">Không có nhãn tùy chỉnh</string>
     <string name="msg_setting_backup_error">Đã xảy ra lỗi khi sao lưu cài đặt</string>
     <string name="msg_setting_backup_done">Cài đặt đã được sao lưu thành công</string>
-    <string name="msg_clipboard_backup_error">Đã xảy ra lỗi khi sao lưu lịch sử khay nhớ tạm</string>
-    <string name="msg_clipboard_backup_done">Lịch sử khay nhớ tạm đã được sao lưu thành công</string>
+    <string name="msg_clipboard_backup_error">Đã xảy ra lỗi khi sau lưu lịch sử bảng tạm</string>
+    <string name="msg_clipboard_backup_done">Lịch sử bảng tạm đã được sao lưu thành công</string>
     <string name="msg_favorite_backup_error">Đã xảy ra lỗi khi sao lưu mục yêu thích</string>
     <string name="msg_favorite_backup_done">Mục Yêu thích đã được sao lưu thành công</string>
     <string name="msg_timer_backup_error">Đã xảy ra lỗi khi sao lưu thẻ hẹn giờ</string>
@@ -1323,8 +1319,8 @@
     <string name="msg_hotkey_backup_done">phím nóng đã được sao lưu thành công</string>
     <string name="msg_restore_setting_error">Đã xảy ra lỗi khi khôi phục cài đặt</string>
     <string name="msg_restore_setting_done">Cài đặt đã được khôi phục thành công</string>
-    <string name="msg_restore_clipboard_error">Đã xảy ra lỗi khi khôi phục lịch sử khay nhớ tạm</string>
-    <string name="msg_restore_clipboard_done">Lịch sử khay nhớ tạm đã được khôi phục thành công</string>
+    <string name="msg_restore_clipboard_error">Đã xảy ra lỗi khi khôi phục lịch sử bảng tạm</string>
+    <string name="msg_restore_clipboard_done">Lịch sử bảng tạm đã được khôi phục thành công</string>
     <string name="msg_restore_favorite_error">Đã xảy ra lỗi khi khôi phục mục yêu thích</string>
     <string name="msg_restore_favorite_done">Mục Yêu thích đã được khôi phục thành công</string>
     <string name="msg_restore_timer_error">Đã xảy ra lỗi khi khôi phục thẻ hẹn giờ</string>
@@ -1346,7 +1342,7 @@
     <string name="use_single_tts_summary">Mọi thứ sẽ được đọc bằng công cụ giọng nói chính khi tùy chọn này được chọn</string>
     <string name="notification_toast">thông báo gợi ý</string>
     <string name="notification">Thông báo</string>
-    <string name="gesture_3_single_tap_hold">Nhấn rồi giữ bằng 3 ngón tay</string>
+    <string name="gesture_3_single_tap_hold">Nhấn và giữ bằng 3 ngón tay</string>
     <string name="alua_help_title">Trợ giúp Androlua+</string>
     <string name="lua_help_title">Hướng dẫn tham khảo LUA</string>
 
@@ -1356,7 +1352,7 @@
     <string name="use_navigation_gesture_summary">Vuốt lên từ phần dưới cùng của màn hình để thực hiện các cử chỉ toàn màn hình (Android 11 trở lên)</string>
     <string name="msg_import">Nhập %s</string>
     <string name="wallpaper_description">Nếu bạn không muốn cấp thêm quyền, vui lòng đặt Trình đọc màn hình Jieshuo làm hình nền của bạn</string>
-    <string name="wallpaper_title">Sử dụng Hình nền Jieshuo (Đang Thử nghiệm)</string>
+    <string name="wallpaper_title">Sử dụng Hình nền Jieshuo (Thử nghiệm)</string>
     <string name="wallpaper_summary">Một số điện thoại được bật theo mặc định hạn chế về pin. Nếu trình đọc màn hình bị tắt bởi mô-đun tối ưu hóa pin, việc bật tùy chọn này sẽ đặt Trình đọc màn hình Jieshuo làm máy chủ lưu trữ hình nền, giảm hiệu ứng này</string>
     <string name="nodeinfo_type">Loại: </string>
     <string name="nodeinfo_text">Văn bản: </string>
@@ -1367,14 +1363,14 @@
     <string name="nodeinfo_bounds_in_screen">vị trí trên màn hình: </string>
     <string name="nodeinfo_parent">nút cha: </string>
     <string name="nodeinfo_childs">nút con: </string>
-    <string name="nodeinfo_actions">Hoạt động có sẵn: </string>
+    <string name="nodeinfo_actions">Hành động có sẵn: </string>
     <string name="nodeinfo_clickable">có thể nhấn</string>
     <string name="nodeinfo_not_click">Không thể nhấn</string>
     <string name="nodeinfo_checkable">Có thể chọn</string>
     <string name="nodeinfo_not_check">Không thể chọn</string>
     <string name="nodeinfo_focusable">có thể lấy tiêu điểm</string>
     <string name="nodeinfo_not_focus">Không thể lấy tiêu điểm</string>
-    <string name="nodeinfo_focused">Đang tiêu điểm</string>
+    <string name="nodeinfo_focused">Đang đặt tiêu điểm</string>
     <string name="nodeinfo_unfocus">Không đặt tiêu điểm</string>
     <string name="nodeinfo_visible">Dễ thấy</string>
     <string name="nodeinfo_invisible">Vô hình</string>
@@ -1382,7 +1378,7 @@
     <string name="notification_listener_summary">Cấp quyền này sẽ tăng tính ổn định của việc đọc thông báo</string>
     <string name="use_scroll_list_keep_position_title">Giữ vị trí danh sách hiện tại trong khi cuộn</string>
     <string name="use_scroll_list_keep_position_summary">Tự động khóa lại mục danh sách được chạm lần cuối trong khi cuộn</string>
-    <string name="use_dim_screen_title">Bật ẩn màn hình khi khởi động</string>
+    <string name="use_dim_screen_title">Bật che màn hình khi khởi động</string>
     <string name="use_new_web_type_title">Sử dụng trình xử lý duyệt web mới</string>
     <string name="use_new_web_type_summary">Phương pháp xử lý trình duyệt web mới có thể tăng tốc độ duyệt web tuy nhiên nó cũng có thể gây ra sự không ổn định. Nếu bạn thấy trình duyệt web không ổn định sau khi bật tùy chọn này, hãy tắt nó đi</string>
     <string name="split_row_keyword_title">danh sách các ký hiệu và từ sẽ sử dụng để tách văn bản tùy chỉnh</string>
@@ -1391,12 +1387,12 @@
     <string name="my">Của tôi</string>
     <string name="backgroud_download">Tải xuống trong nền</string>
     <string name="cancel_download">Hủy tải xuống</string>
-    <string name="comment">Nhận xét</string>
-    <string name="comment_done">Nhận xét được thêm thành công</string>
+    <string name="comment">Bình luận</string>
+    <string name="comment_done">Đã thêm bình luận</string>
     <string name="use_proximity_false_touch_prevention_title">Ngăn ngừa vô tình chạm</string>
     <string name="use_proximity_false_touch_prevention_only_lock_title">Chỉ ngăn vô tình chạm vào màn hình khóa</string>
     <string name="enbled_gesture_title">Tắt</string>
-    <string name="enabled_app_gesture">Bật cử chỉ tùy chỉnh của từng ứng dụng</string>
+    <string name="enabled_app_gesture">Bật cử chỉ tùy chỉnh cho từng ứng dụng</string>
     <string name="enabled_gesture">Bật cử chỉ</string>
     <string name="expand">Mở rộng</string>
     <string name="fold">Thu gọn</string>
@@ -1442,11 +1438,11 @@
     <string name="fail">Lỗi hệ thống</string>
     <string name="msg_search_in_web">Kết quả sau đây đã được tìm thấy</string>
     <string name="continue_run">Tiếp tục</string>
-    <string name="msg_keyboard_hide">Bàn phím bị ẩn</string>
-    <string name="msg_long_copying">Đang sao chép danh sách. Nhấn để hủy</string>
+    <string name="msg_keyboard_hide">Bàn phím ẩn</string>
+    <string name="msg_long_copying">Đang  tự động sao chép. Nhấn để hủy</string>
     <string name="ringer_mode_vibate">Đặt ở chế độ rung</string>
     <string name="ringer_mode_silent">Đặt ở chế độ im lặng</string>
-    <string name="msg_gesture_has_vip">Phiên bản miễn phí không hỗ trợ sửa đổi cử chỉ lên, xuống, trái và phải</string>
+    <string name="msg_gesture_has_vip">Phiên bản miễn phí không hỗ trợ sửa đổi cử chỉ vuốt lên, xuống, trái và phải</string>
     <string name="announcement">thông báo ứng dụng</string>
     <string name="command_disable_main_tts">Tạm dừng công cụ giọng nói chính</string>
     <string name="command_disable_async_tts">Tạm dừng công cụ giọng nói phụ</string>
@@ -1464,9 +1460,9 @@
     <string name="custom_content_title">Cài đặt nhãn và bí danh tùy chỉnh</string>
     <string name="directory_name">bí danh</string>
     <string name="use_emoji_speak_mode_title">Chế độ đọc biểu tượng cảm xúc</string>
-    <string name="use_no_bluetooth_title">Bỏ qua loa/tai nghe bluetooth trong khi giọng nói đang nói</string>
+    <string name="use_no_bluetooth_title">Bỏ qua loa/, tai nghe bluetooth trong khi giọng nói đang nói</string>
     <string name="custom_speak_clear_summary">Các ký tự được thêm vào đây sẽ không được đọc. Biểu thức chính quy được hỗ trợ</string>
-    <string name="input_setting_title">cài đặt nhập văn bản</string>
+    <string name="input_setting_title">Cài đặt nhập liệu</string>
     <string name="use_input_method_speak_key_title">Đọc các thành phần kí tự bàn phím khi bạn chạm vào chúng</string>
     <string name="use_input_method_speak_candidate_title">Đọc ứng viên</string>
     <string name="use_input_method_speak_commit_title">Đọc lại ký tự đã nhập</string>
@@ -1482,7 +1478,7 @@
     <string name="use_screen_on_speak_battery_title">đọc phần trăm pin khi màn hình được mở</string>
     <string name="use_screen_on_speak_notification_title">Đọc số lượng thông báo chưa đọc khi màn hình được mở</string>
     <string name="command_virtual_table">Xác định hình thức</string>
-    <string name="command_incall_mode">chế độ tai nghe</string>
+    <string name="command_incall_mode">Chế độ tai nghe</string>
     <string name="command_edit_node_name">Chỉnh sửa bí danh nút</string>
     <string name="command_pasue_timer">Dừng hẹn giờ</string>
     <string name="command_show_input_method_picker">Thay đổi phương thức nhập</string>
@@ -1496,7 +1492,7 @@
     <string name="ocr_portrait_mode_title">Nhận dạng phụ đề (chế độ dọc mặc định)</string>
     <string name="ocr_landscape_mode_title">Nhận dạng phụ đề (chế độ ngang mặc định)</string>
     <string name="command_recognition_caption">Nhận dạng phụ đề</string>
-    <string name="command_auto_trans">Tự động Dịch</string>
+    <string name="command_auto_trans">Dịch tự động</string>
     <string name="has_notification_listener">Quyền truy cập thông báo cần được cấp</string>
     <string name="ocr_mode_def">Luôn hỏi</string>
     <string name="ocr_mode0">Một phần tư trên cùng của màn hình (ưu tiên cho chế độ dọc)</string>
@@ -1530,19 +1526,19 @@
     <string name="msg_timer_no_run">Hẹn giờ chưa bắt đầu</string>
     <string name="msg_start_auto_trans">Đã Bật dịch tự động</string>
     <string name="msg_stop_auto_trans">Đã Tắt dịch tự động</string>
-    <string name="msg_auto_trans_has_vip">Dịch tự động yêu cầu phiên bản đầy đủ</string>
+    <string name="msg_auto_trans_has_vip">Dịch tự động chỉ dành cho người dùng cao cấp</string>
     <string name="msg_start_auto_ocr">Đã Bật OCR tự động</string>
     <string name="msg_stop_auto_ocr">Đã Tắt OCR tự động</string>
     <string name="start_auto_ocr_title">Chọn khu vực nhận dạng</string>
 
     <string name="command_disable_edge_gesture_title">Tạm dừng cử chỉ cạnh</string>
-    <string name="use_game_mode_no_speak_title">Tạm dừng phản hồi bằng giọng nói trong khi chế độ game thủ đang hoạt động</string>
-    <string name="use_game_mode_no_edge_title">Tạm dừng cử chỉ cạnh trong khi chế độ game thủ đang hoạt động</string>
-    <string name="game_mode_setting">Cài đặt chế độ game thủ</string>
+    <string name="use_game_mode_no_speak_title">Tạm dừng phản hồi bằng giọng nói trong khi chế độ  trò chơi đang hoạt động</string>
+    <string name="use_game_mode_no_edge_title">Tạm dừng cử chỉ cạnh trong khi chế độ  trò chơi đang hoạt động</string>
+    <string name="game_mode_setting">Cài đặt chế độ  trò chơi</string>
     <string name="timer_items_title">hẹn giờ đặt trước</string>
     <string name="timer_tags">Nhãn</string>
-    <string name="command_paste_from_cloud">Dán từ khay nhớ tạm trên máy chủ</string>
-    <string name="command_copy_to_cloud">Sao chép vào khay nhớ tạm trên máy chủ</string>
+    <string name="command_paste_from_cloud">Dán từ bảng tạm trên máy chủ</string>
+    <string name="command_copy_to_cloud">Sao chép vào bảng tạm trên máy chủ</string>
     <string name="use_timer_stream_type_title">kênh âm thanh</string>
     <string name="timer_tts_engine_title">Công cụ giọng nói</string>
     <string name="command_up_page">Cuộn trực tiếp lên</string>
@@ -1552,7 +1548,7 @@
     <string name="vr_camera">Trợ lý trực quan VR</string>
     <string name="language_setting_title">Cài đặt ngôn ngữ</string>
     <string name="vr_dialog_title">Quan trọng cần đọc</string>
-    <string name="vr_dialog_message">Trợ lý trực quan VR được thiết kế để sử dụng với tai nghe thực tế ảo trên điện thoại thông minh và điều khiển từ xa Bluetooth, nhưng cũng có thể sử dụng nó chỉ với điện thoại. \n Tính năng này chủ yếu hỗ trợ người dùng có thị lực kém nhìn thấy môi trường xung quanh, đọc sách hoặc màn hình máy tính và TV thông qua khả năng phóng đại và nhận dạng ký tự quang học OCR. \n Tuy nhiên, do góc nhìn rộng và tốc độ làm mới chậm, chức năng này không phù hợp với các tình huống như đi bộ hoặc du lịch. Nếu bạn cần quan sát môi trường xung quanh khi ra ngoài, chẳng hạn như đọc các biển báo dừng xe buýt hoặc điều hướng các ga tàu điện ngầm, vui lòng đảm bảo dừng đi bộ và chỉ sử dụng trợ lý hình ảnh VR khi thấy an toàn. \nĐể sử dụng trợ lý trực quan VR, trước tiên hãy đảm bảo rằng màn hình điện thoại được chia thành hai phần. Sau đó, lắp điện thoại vào tai nghe VR với màn hình hướng về phía bạn. Sử dụng các phím mũi tên trên điều khiển từ xa để thay đổi giá trị và nhấn nút OK để nhận dạng văn bản. Nếu không có điều khiển từ xa, bạn có thể sử dụng phím âm lượng của điện thoại hoặc tai nghe để điều chỉnh độ phóng đại và phím điều khiển phương tiện hoặc chức năng tạm dừng phát để nhận dạng văn bản. Cũng có thể sử dụng bàn phím ngoài làm điều khiển từ xa. \n Vì tai nghe VR có nhiều kích cỡ khác nhau nên điều quan trọng là phải đảm bảo rằng tai nghe bạn mua vừa vặn với điện thoại của bạn. Nếu không, bạn có thể kết thúc với một máy ảnh bị che, điều này sẽ làm giảm đáng kể khả năng sử dụng của trợ lý hình ảnh VR. \n Xin lưu ý rằng bạn phải chịu trách nhiệm về bất kỳ hậu quả nào do không sử dụng trợ lý trực quan VR theo hướng dẫn được cung cấp. Người dịch và nhà phát triển không thể chịu trách nhiệm về việc này. Nếu bạn cảm thấy các hướng dẫn được dịch một cách mơ hồ và không hiểu. Vui lòng báo cáo cho người dịch phần mềm.</string>
+    <string name="vr_dialog_message">Trợ lý trực quan VR được thiết kế để sử dụng với tai nghe thực tế ảo trên điện thoại thông minh và điều khiển từ xa Bluetooth, nhưng cũng có thể sử dụng nó chỉ với điện thoại. \n Tính năng này chủ yếu hỗ trợ người dùng có thị lực kém nhìn thấy môi trường xung quanh, đọc sách hoặc màn hình máy tính và TV thông qua khả năng phóng đại và nhận dạng ký tự quang học OCR. \n Tuy nhiên, do góc nhìn rộng và tốc độ làm mới chậm, chức năng này không phù hợp với các tình huống như đi bộ hoặc du lịch. Nếu bạn cần quan sát môi trường xung quanh khi ra ngoài, chẳng hạn như đọc các biển báo dừng xe buýt hoặc điều hướng các ga tàu điện ngầm, vui lòng đảm bảo dừng đi bộ và chỉ sử dụng trợ lý hình ảnh VR khi thấy an toàn. \nĐể sử dụng trợ lý trực quan VR, trước tiên hãy đảm bảo rằng màn hình điện thoại được chia thành hai phần. Sau đó, lắp điện thoại vào tai nghe VR với màn hình hướng về phía bạn. Sử dụng các phím mũi tên trên điều khiển từ xa để thay đổi giá trị và nhấn nút OK để nhận dạng văn bản. Nếu không có điều khiển từ xa, bạn có thể sử dụng phím âm lượng của điện thoại hoặc tai nghe để điều chỉnh độ phóng đại và phím điều khiển phương tiện hoặc chức năng   phát  hoặc rừng nhận dạng văn bản. Cũng có thể sử dụng bàn phím ngoài làm điều khiển từ xa. \n Vì tai nghe VR có nhiều kích cỡ khác nhau nên điều quan trọng là phải đảm bảo rằng tai nghe bạn mua vừa vặn với điện thoại của bạn. Nếu không, bạn có thể kết thúc với một máy ảnh bị che, điều này sẽ làm giảm đáng kể khả năng sử dụng của trợ lý hình ảnh VR. \n Xin lưu ý rằng bạn phải chịu trách nhiệm về bất kỳ hậu quả nào do không sử dụng trợ lý trực quan VR theo hướng dẫn được cung cấp. Người dịch và nhà phát triển không thể chịu trách nhiệm về việc này. Nếu bạn cảm thấy các hướng dẫn được dịch một cách mơ hồ và không hiểu. Vui lòng báo cáo cho người dịch phần mềm.</string>
     <string name="vr_camera_ae">Hiển thị</string>
     <string name="vr_camera_flash_on">Bật đèn pin</string>
     <string name="vr_camera_flash_off">tắt đèn pin</string>
@@ -1565,10 +1561,10 @@
     <string name="use_custom_language_title">Sử dụng bản dịch tùy chỉnh</string>
     <string name="msg_has_not_enabled">Jieshuo vẫn chưa được bật. Sau khi bật jieshuo trong trợ năng, chúng tôi mới có thể cung cấp dịch vụ cho bạn. Bạn có muốn chuyển đến cài đặt trợ năng và bật jieshuo không? Bạn cũng có thể bật jieshuo trong cài đặt trợ năng sau."</string>
     <string name="msg_has_not_enabled_33">Lưu ý: Nếu bạn là người dùng Android 13, khi bạn lần đầu tiên bật jieshuo trong trợ năng, có thể sẽ xuất hiện hộp thoại cài đặt bị hạn chế, cho biết rằng vì lý do an toàn, cài đặt này không khả dụng. Vui lòng nhấn vào nút xác nhận và sau đó mở thông tin ứng dụng jieshuo, bằng cách nhấn vào tùy chọn Thêm ở góc trên bên phải, sau đó nhấp vào Cho phép cài đặt bị hạn chế. Sau đó, quay lại mục trợ năng và bật jieshuo là được. Nếu thiết bị Android 13 của bạn không xuất hiện thông báo trên, bạn có thể bỏ qua hướng dẫn này.\n</string>
-    <string name="use_edit_hint_title">Đọc gợi ý trong hộp chỉnh sửa</string>
+    <string name="use_edit_hint_title">Đọc gợi ý trong hộp nhập liệu</string>
     <string name="check_manage_files_permissions_title">Kiểm tra quyền quản lý tập tin</string>
     <string name="check_alarm_permissions_title">Kiểm tra quyền đồng hồ báo thức và nhắc nhở</string>
-    <string name="setup_setting_file_permission_msg">Trình Đọc màn hình sử dụng quyền quản lý tập tin để lưu trữ và đọc các tài nguyên, plugin, chủ đề âm thanh, công cụ và dữ liệu sao lưu</string>
+    <string name="setup_setting_file_permission_msg">Trình Đọc màn hình Jieshuo sử dụng quyền quản lý tập tin để lưu trữ và đọc các tài nguyên,  tiện ích mở rộng, chủ đề âm thanh, công cụ  mở rộng và dữ liệu sao lưu</string>
     <string name="setup_setting_not_file_permission">Chưa có quyền quản lý tập tin</string>
     <string name="setup_setting_has_file_permission">Đã có quyền quản lý tập tin</string>
     <string name="setup_setting_not_alarm_permission">Chưa có quyền đồng hồ báo thức và nhắc nhở</string>
@@ -1594,7 +1590,7 @@
     <string name="sound_lower_volume">giảm âm lượng</string>
     <string name="sound_copy">sao chép</string>
     <string name="sound_paste">dán</string>
-    <string name="sound_previous_text">Văn bản trước</string>
+    <string name="sound_previous_text">Văn bản trước đó</string>
     <string name="sound_next_text">văn bản tiếp theo</string>
     <string name="sound_to_back">trở lại</string>
     <string name="sound_has_action">có thể nhấn</string>
@@ -1615,16 +1611,16 @@
     <string name="other_res">Các Tài nguyên khác</string>
     <string name="language_title">Bản dịch tùy chỉnh</string>
     <string name="msg_download_error">Lỗi tải xuống</string>
-    <string name="buy_with_alipay">Thanh toán bằng Alipay để mua thành viên VIP</string>
-    <string name="buy_with_unipay">Sử dụng chuyển tiền xuyên biên giới bằng thẻ ngân hàng để mua tư cách thành viên Vip (sử dụng Nhân dân tệ để thanh toán, được hưởng chiết khấu tương tự như thanh toán bằng Nhân dân tệ của người dùng Trung Quốc</string>
-    <string name="buy_with_paypal">Mua tư cách thành viên VIP qua PayPal</string>
+    <string name="buy_with_alipay">Thanh toán bằng Alipay để mua  tư cách thành viên</string>
+    <string name="buy_with_unipay">Sử dụng chuyển tiền xuyên biên giới bằng thẻ ngân hàng để mua tư cách thành viên  (sử dụng Nhân dân tệ để thanh toán, được hưởng chiết khấu tương tự như thanh toán bằng Nhân dân tệ của người dùng Trung Quốc</string>
+    <string name="buy_with_paypal">Mua tư cách thành viên  qua PayPal</string>
     <string name="msg_change_custom_gesture">Chuyển sang cử chỉ tùy chỉnh để chỉnh sửa, có chuyển sang cử chỉ tùy chỉnh hay không</string>
     <string name="msg_import_strings">Nhập bản dịch tủy chỉnh sẽ ghi đè và hợp nhất cài đặt ngôn ngữ hiện tại của bạn. Bạn có thể xuất cài đặt của mình trước và sau đó nhập. Có nhập trực tiếp không?</string>
     <string name="browser">trình duyệt</string>
     <string name="stop">dừng lại</string>
     <string name="read_next_chapter">chương tiếp theo</string>
     <string name="read_previous_chapter">chương trước</string>
-    <string name="read_history">Lịch sử ghi chép</string>
+    <string name="read_history">Lịch sử duyệt web</string>
     <string name="clear_history">Xóa lịch sử</string>
     <string name="web_back">Quay lại</string>
     <string name="web_reload">Làm mới trang</string>
@@ -1679,7 +1675,7 @@
     <string name="find_next">Tìm tới</string>
     <string name="find_previous">Tìm trở lại</string>
 
-    <string name="command_media_fast_forward">Tua tiến</string>
+    <string name="command_media_fast_forward">Tua đi</string>
     <string name="command_media_rewind">Tua lại</string>
     <string name="command_selection_mode">Chế độ lựa chọn</string>
     <string name="timer_format_title">Định dạng thời gian</string>
@@ -1706,7 +1702,7 @@
     <string name="timer_item_formater">%s %d Giờ %d phút %s</string>
     <string name="use_ocr_auto_speak_title">Tự động đọc nhận dạng văn bản OCR hoặc kết quả màn hình ảo</string>
     <string name="use_new_text_move_type_title">Sử dụng kiểu tường thuật để xử lý các thao tác di chuyển văn bản</string>
-    <string name="use_move_text_gesture_title">Di chuyển con trỏ trong hộp chỉnh sửa đang hoạt động</string>
+    <string name="use_move_text_gesture_title">Di chuyển con trỏ trong hộp  văn bản đang hoạt động</string>
     <string name="use_answer_phone_calls_incall_gesture_title">Trả lời và ngắt cuộc gọi trên màn hình cuộc gọi đến</string>
     <string name="use_scroll_seek_gesture_title">Điều chỉnh tiến trình trên thanh tiến trình</string>
     <string name="use_scroll_list_gesture_title">Cuộn Danh sách trong danh sách</string>
@@ -1720,10 +1716,10 @@
     <string name="char_mode_tts_setting_title">Cài đặt giọng nói Duyệt  từng từ</string>
     <string name="auto_read_tts_setting_title">Cài đặt giọng nói Tự động duyệt</string>
     <string name="notification_tts_setting_title">Cài đặt giọng nói thông báo</string>
-    <string name="use_up_tap_prompt_title">Thông báo khi cử chỉ nhấcc tay hết thời gian</string>
+    <string name="use_up_tap_prompt_title">Thông báo khi cử chỉ nhấc ngón tay hết thời gian</string>
     <string name="double_fling_time_title">Thời gian chờ cho cử chỉ hai bước</string>
     <string name="jieshuo_beta_title">Tải xuống jieshuo beta</string>
-    <string name="picture_description">Nhận biết hình ảnh và tiêu điểm</string>
+    <string name="picture_description">Nhận biết hình ảnh dưới tiêu điểm</string>
     <string name="auto_list_tts_setting_title">Cài đặt giọng nói tự động đọc tin nhắn</string>
     <string name="more_tts_setting_title">Cài đặt thư viện giọng nói bổ sung</string>
     <string name="ocr_lang_zh">Tiếng Anh và tiếng Trung hỗn hợp</string>
@@ -1752,34 +1748,34 @@
     <string name="use_virtual_screen_dim_background_title">Sử dụng nền đen cho  màn hình ảo</string>
     <string name="edit_ocr_lua_title">Tùy chỉnh công cụ nhận dạng OCR</string>
     <string name="ocr_lua_template">require \"import\"\nimport \"com.nirenr.talkman.ai.*\"\n--例子代码是帮助理解代码的伪代码，不能直接运行\nbs,listener=...--获取参数\ntask(function(bs)\n  function 识别函数(bs)\n    --虚拟构成识别结果\n    return {\n      length=2,\n      {\n        t=\"例子代码是帮助理解代码的伪代码\",\n        x=0,\n        y=300,\n        w=1000,\n        h=100,\n        s=50\n      },\n      {\n        t=\"不能直接运行\",\n        x=0,\n        y=600,\n        w=800,\n        h=100,\n        s=50\n      }\n    }\n  end\n\n  local ret=识别函数(bs)\n  local rets=OcrResult.OcrItem[ret.length]--构建返回值数组\n  for n=1,ret.length do\n    --注意java与lua数组开始索引不同\n    rets[n-1]=OcrResult.OcrItem(\n    ret[n].t,--文字内容\n    ret[n].x,--文字x坐标，距离屏幕左侧距离\n    ret[n].y,--文字y坐标，距离屏幕顶部距离\n    ret[n].w,--文字区域宽度\n    ret[n].h,--文字区域高度\n    ret[n].s--文字高度\n    )\n  end\n  return OcrResult(rets)--返回结果到主线程\nend,\nbs,--将图片的byte数组传入线程\nfunction(rets)\n  listener.onDone(rets)--在回调函数调用onDone通知读屏识别完成\nend)</string>
-    <string name="accessibility_service_description2">解说辅助服务和主服务功能完全相同，主要用于部分会检测读屏服务名的场景，两个服务不需要同时开启。</string>
-    <string name="resume_on_screen_on_title">Khôi phục phản hồi khi bật màn hình</string>
-    <string name="resume_on_notification_show_title">Khôi phục phản hồi khi kéo thanh thông báo xuống</string>
-    <string name="resume_on_ringing_title">Khôi phục phản hồi khi có cuộc gọi đến</string>
+    <string name="accessibility_service_description2">Dịch vụ hỗ trợ Jieshuo và dịch vụ chính có chức năng hoàn toàn giống nhau, chủ yếu được sử dụng trong một số trường hợp cần phát hiện tên dịch vụ đọc màn hình. Hai dịch vụ này không cần phải bật đồng thời.</string>
+    <string name="resume_on_screen_on_title">Tiếp tục phản hồi khi bật màn hình</string>
+    <string name="resume_on_notification_show_title">Tiếp tục phản hồi khi kéo thanh thông báo xuống</string>
+    <string name="resume_on_ringing_title">Tiếp tục phản hồi khi có cuộc gọi đến</string>
     <string name="helper_supper_cmd_title">Lệnh siêu âm thanh</string>
-    <string name="back_break_auto_mode_title">Tạm dừng duyệt tự động khi sử dụng cử chỉ quay lại</string>
+    <string name="back_break_auto_mode_title">Tạm dừng tự động duyệt khi sử dụng cử chỉ quay lại</string>
     <string name="msg_export_all_file">Sao lưu tất cả cài đặt và dữ liệu vào tệp %s và gửi sang điện thoại mới để nhập tất cả.</string>
     <string name="msg_export_all_file_fail">Sao lưu thất bại, vui lòng thử lại</string>
     <string name="import_all_title">Bạn có chắc chắn muốn nhập tất cả thiết lập và dữ liệu của jieshuo</string>
     <string name="msg_import_all">hành động này sẽ ghi đè các thiết lập và dữ liệu của jieshuo</string>
-    <string name="app_service2">Jieshuo helper service</string>
-    <string name="app_no_supper_sound_package_title">Ứng dụng không sử dụng hiệu ứng siêu âm thanh (hiệu ứng siêu âm thanh sẽ tạm thời bị chặn trong những ứng dụng được chọn)</string>
+    <string name="app_service2"> dịch vụ hỗ trợ Jieshuo</string>
+    <string name="app_no_supper_sound_package_title">Chọn Ứng dụng không sử dụng hiệu ứng siêu âm thanh (hiệu ứng siêu âm thanh sẽ tạm thời bị chặn trong những ứng dụng được chọn)</string>
     <string name="command_image_to_text2">Mô tả hình ảnh toàn màn hình</string>
     <string name="picture_description2">Nhận diện hình ảnh trên toàn màn hình</string>
     <string name="use_split_line_title">Hiển thị số dòng trong khi chỉnh sửa</string>
     <string name="msg_use_single_tts_enabled">Đã kích hoạt tùy chọn sử dụng một công cụ giọng nói duy nhất</string>
     <string name="msg_disable_use_single_tts">Bạn phải tắt tùy chọn "Sử dụng một công cụ giọng nói duy nhất" để sử dụng %s. Bạn có muốn tiếp tục không?</string>
     <string name="command_auto_list_speak">Tự động đọc tin nhắn</string>
-    <string name="command_auto_list_speak_history">Lịch sử tin nhắn tự động đọc</string>
+    <string name="command_auto_list_speak_history">Lịch sử tự động đọc tin nhắn</string>
     <string name="msg_start_auto_list">Bắt đầu tự động đọc tin nhắn cho %s </string>
     <string name="msg_stop_auto_list">Dừng tự động đọc tin nhắn cho %s </string>
     <string name="msg_username_typo">Định dạng tên người dùng hoặc mật khẩu không chính xác</string>
     <string name="msg_username_error">Tên người dùng hoặc mật khẩu không chính xác</string>
     <string name="msg_invite_code_error">Mã mời không hợp lệ</string>
     <string name="msg_username_used">Tên người dùng đã được sử dụng</string>
-    <string name="msg_network_error">Lỗi mạng,请更换网络或稍后重试</string>
+    <string name="msg_network_error">Lỗi mạng, vui lòng thay đổi mạng hoặc thử lại sau</string>
     <string name="command_verification12">Xác minh thanh trượt</string>
-    <string name="command_recognition_edu">Nhận dạng giấy</string>
+    <string name="command_recognition_edu">Nhận dạng giấy tờ</string>
     <string name="use_input_method_speak_word_title">Đọc ví dụ các chữ cái khi nhập</string>
     <string name="trans_lua_engine_title">Sử dụng công cụ dịch tùy chỉnh</string>
     <string name="edit_trans_lua_title">Chỉnh sửa công cụ dịch tùy chỉnh</string>
@@ -1798,8 +1794,8 @@
     <string name="msg_no_a11y_volume">Không sử dụng âm lượng trợ năng</string>
     <string name="msg_a11y_volume_disabled">Đã tắt âm lượng trợ năng</string>
     <string name="msg_a11y_volume_enabled">Đã bật âm lượng trợ năng</string>
-    <string name="content_blacklist_description">添加到黑名单的内容将在浏览时不会获取内容，\n用于过滤无用或错误的辅助功能信息，\n关键字可以添加星号实现简单匹配模式，\n关键字* 表示以关键字开头的过滤\n*关键字 以关键字结尾的过滤\n*关键字* 包含关键字的都过滤\n没有星号是完整匹配</string>
-    <string name="auto_speak_blacklist_description">添加到黑名单的内容将不会朗读，\n用于过滤在自动朗读中不想朗读的内容，\n关键字可以添加星号实现简单匹配模式，\n关键字* 表示以关键字开头的过滤\n*关键字 以关键字结尾的过滤\n*关键字* 包含关键字的都过滤\n没有星号是完整匹配</string>
+    <string name="content_blacklist_description">Nội dung được thêm vào danh sách đen sẽ không được lấy khi duyệt,  Dùng để lọc thông tin trợ năng vô dụng hoặc sai sót,  Từ khóa có thể thêm dấu sao để thực hiện chế độ khớp đơn giản,  Từ khóa* biểu thị lọc những gì bắt đầu bằng từ khóa  *Từ khóa biểu thị lọc những gì kết thúc bằng từ khóa  *Từ khóa* biểu thị lọc tất cả những gì chứa từ khóa  Không có dấu sao là khớp hoàn toàn</string>
+    <string name="auto_speak_blacklist_description">Nội dung được thêm vào danh sách đen sẽ không được đọc lên,  Dùng để lọc nội dung không muốn đọc lên trong quá trình đọc tự động,  Từ khóa có thể thêm dấu sao để thực hiện chế độ khớp đơn giản,  Từ khóa* biểu thị lọc những gì bắt đầu bằng từ khóa  *Từ khóa biểu thị lọc những gì kết thúc bằng từ khóa  *Từ khóa* biểu thị lọc tất cả những gì chứa từ khóa  Không có dấu sao là khớp hoàn toàn</string>
     <string name="notification_black_list_description">Thông báo được thêm vào danh sách đen sẽ không được đọc, nó chỉ được lưu vào hộp thông báo</string>
     <string name="notification_white_list_description">Thông báo được thêm vào danh sách trắng sẽ luôn luôn được đọc, ngay cả khi tính năng đọc thông báo bị tắt</string>
     <string name="nodeinfo_long_clickable">Có thể nhấn lâu</string>
@@ -1807,20 +1803,66 @@
     <string name="nodeinfo_editable">Có thể chỉnh sửa</string>
     <string name="nodeinfo_not_edit">Không thể chỉnh sửa</string>
     <string name="sound_scroll_page">Chuyển trang</string>
-    <string name="use_auto_mode_move_list_view_item_title">在自动浏览中使用列表项目间快速移动</string>
-    <string name="helper_tts_setting_title">语音助手语音设置</string>
-    <string name="node_tts_setting_title">焦点监控语音设置</string>
-    <string name="voice_helper_use_big_title">使用生成式大模式</string>
-    <string name="chat_history">对话记录</string>
-    <string name="command_recognition_icon">图标识别</string>
-    <string name="command_long_hold">点击按住</string>
-    <string name="sound_progress">进度</string>
-    <string name="sound_progress_100">进度100</string>
-    <string name="sound_clear_notification">清除全部通知</string>
-    <string name="sound_talkman_start">解说启动</string>
-    <string name="sound_talkman_stop">解说停止</string>
-    <string name="sound_camera">相机快门</string>
-    <string name="voice_picture_description">语音询问</string>
-    <string name="voice_picture_description2">语音询问全屏</string>
+    <string name="use_auto_mode_move_list_view_item_title">Sử dụng các mục trong danh sách để di chuyển nhanh chóng trong  chế độ  tự động duyệt</string>
+    <string name="helper_tts_setting_title">Cài đặt trợ lý giọng nói và công cụ giọng nói dành cho  máy ảnh Jieshuo</string>
+    <string name="node_tts_setting_title">Cài đặt giọng nói Theo dõi tiêu điểm</string>
+    <string name="voice_helper_use_big_title">Sử dụng mô hình thế hệ lớn</string>
+    <string name="chat_history">Lịch sử trò chuyện</string>
+    <string name="command_recognition_icon">Nhận dạng biểu tượng</string>
+    <string name="command_long_hold">Nhấn lâu</string>
+    <string name="sound_progress">Tiến trình</string>
+    <string name="sound_progress_100"> tiến trình 100</string>
+    <string name="sound_clear_notification">Xóa tất cả thông báo</string>
+    <string name="sound_talkman_start">Bắt đầu Jieshuo</string>
+    <string name="sound_talkman_stop">Dừng Jieshuo</string>
+    <string name="sound_camera">Màn trập máy ảnh</string>
+    <string name="voice_picture_description">Yêu cầu bằng giọng nói</string>
+    <string name="voice_picture_description2">Yêu cầu giọng nói toàn màn hình</string>
+    <string name="ocr_lang_en">English</string>
+    <string name="video_description">Mô tả video</string>
+    <string name="msg_start_video_description">Bắt đầu mô tả video</string>
+    <string name="msg_stop_video_description">Dừng mô tả video</string>
+    <string name="use_image_to_text_title">Mô tả hình ảnh tự động</string>
+    <string name="voice_question">Hỏi đáp bằng giọng nói</string>
+    <string name="find_object">Tìm đồ vật</string>
+    <string name="use_long_click_voice_image_title">Nhấn một lần hoặc nhấn giữ để sử dụng tính năng  nhận dạng tiêu điểm bằng giọng nói</string>
+    <string name="use_text_stat_title">Sử dụng cử chỉ  thống kê  ký tự</string>
+    <string name="use_text_stat_summary">Trong khi hộp văn bản đang hoạt động, sử dụng cử chỉ  vuốt sang trái rồi sang phải và  vuốt sang phải rồi sang trái cho tính năng  thống kê ký tự</string>
+    <string name="use_move_window_title">Chuyển đổi cửa sổ tự động</string>
+    <string name="ads_filter">Bộ lọc quảng cáo</string>
+    <string name="prevent_jump">Chống chuyển hướng</string>
+    <string name="voice_helper_use_input_method_title">Sử dụng phương thức nhập liệu thay vì tương tác bằng giọng nói</string>
+    <string name="input_content"> nhập nội dung</string>
+    <string name="select_segmentation_mode">Lựa chọn chế độ phân chia</string>
+    <string name="msg_start_find">Bắt đầu tìm kiếm %s, vui lòng di chuyển điện thoại  từ từ.</string>
+    <string name="msg_stop_find">Đã dừng tìm kiếm</string>
+    <string name="command_all_node">Tất cả các nút.</string>
+    <string name="sound_inputmethod_show">Bàn phím đã hiển thị</string>
+    <string name="sound_inputmethod_hide">Bàn phím đã đóng</string>
+    <string name="command_node_menu">Trình đơn tiêu điểm</string>
+    <string name="command_take_screenshot2">焦点截屏</string>
+    <string name="sound_auto_ocr_done">自动OCR完成</string>
+    <string name="sound_auto_ocr_error">自动OCR出错</string>
+    <string name="custom_search_engine_title">自定义搜索引擎</string>
+    <string name="app_profiles_title">单应用情景模式</string>
+    <string name="edit_app_profiles_title">编辑单应用情景模式</string>
+    <string name="auto_focus_title">自动聚焦</string>
+    <string name="command_pause_gesture">暂停读屏手势</string>
+    <string name="msg_gesture_disabled">读屏手势已暂停</string>
+    <string name="msg_gesture_enabled">读屏手势已启用</string>
+    <string name="tts_low_latency_title">语音库低延时模式</string>
+    <string name="use_auto_view_type_title">自动切换浏览类型</string>
+    <string name="use_ext_actions_gesture_title">在支持操作的焦点切换操作</string>
+    <string name="use_input_method_no_gesture_title">弹出输入法时暂停读屏手势</string>
+    <string name="command_grid_mode">网格模式</string>
+    <string name="resume_on_screen_off_title">当屏幕关闭时恢复反馈</string>
+    <string name="app_no_key_shortcut_title">不使用音量快捷键的应用</string>
+    <string name="sort_title">排序</string>
+    <string name="sort_name">按名称</string>
+    <string name="sort_time">按时间</string>
+    <string name="use_reverse_scroll_home_page_title">在桌面翻页时反转翻页方向</string>
+    <string name="all_description">全能识别</string>
+    <string name="checkbox_description">识别复选框</string>
+    <string name="msg_checkbox_not_found">没有未选中复选框</string>
 
 </resources>

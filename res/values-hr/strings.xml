@@ -38,37 +38,37 @@
 
     <string name="menu_title">Izbornik</string>
 
-    <string name="tts_speed_title">brzina govora: </string>
+    <string name="tts_speed_title">brzina govora:</string>
     <string name="tts_speed_summary">brzina govorne jedinice.</string>
 
 
-    <string name="usage_hints_title">Čitaj savjete za korištenje: </string>
+    <string name="usage_hints_title">Čitaj savjete za korištenje:</string>
     <string name="usage_hints_summary">Čitajte interaktivne savjete bazirane na aplikaciji koju koristite.</string>
 
-    <string name="vibrate_title">Vibracija: </string>
+    <string name="vibrate_title">Vibracija:</string>
     <string name="vibrate_summary">Koristite vibraciju s čitačem ekrana.</string>
 
-    <string name="use_proixmity_sensor_title">Koristi blizinski senzor: </string>
+    <string name="use_proixmity_sensor_title">Koristi blizinski senzor:</string>
     <string name="use_proixmity_sensor_summary">zaustavlja čitanje kada je dodirnut senzor za čitanje.</string>
 
-    <string name="screen_off_speak_title">čitaj obavijesti kada je zaslon zaključan: </string>
+    <string name="screen_off_speak_title">čitaj obavijesti kada je zaslon zaključan:</string>
     <string name="screen_off_speak_summary">Čita obavijesti kada je zaslon zaključan.</string>
 
-    <string name="use_sound_title">Zvučna povratna informacija: </string>
+    <string name="use_sound_title">Zvučna povratna informacija:</string>
     <string name="use_sound_summary">Koristite trenutno odabranu zvučnu temu.</string>
 
-    <string name="use_list_index_title">Čitaj raspon popisa: </string>
+    <string name="use_list_index_title">Čitaj raspon popisa:</string>
     <string name="use_list_index_summary">Čita informaciju o rasponu popisa pri kretanju.</string>
 
     <string name="use_node_title">Koristi čvorasti način pregleda (samo za napredne korisnike)</string>
     <string name="use_node_summary">Koristite čvorasti način pregleda.</string>
 
-    <string name="tts_volume_title">Glasnoća govorne jedinice: </string>
+    <string name="tts_volume_title">Glasnoća govorne jedinice:</string>
     <string name="tts_volume_summary">Glasnoća govorne jedinice jednaka je glasnoći multimedije.</string>
 
-    <string name="use_key_shortcut_title">Koristite tipke za glasnoću kao tipke prečaca: </string>
+    <string name="use_key_shortcut_title">Koristite tipke za glasnoću kao tipke prečaca:</string>
     <string name="use_key_shortcut_summary">Dugo pritišćite tipke za glasnoću kako biste izvršavali razne operacije.</string>
-    <string name="tts_speaker_title">Glas: </string>
+    <string name="tts_speaker_title">Glas:</string>
     <string name="tts_speaker_summary">ugrađeni glas govorne jedinice.</string>
 
     <string name="tts_settings_title">Postavke sinteze govora</string>
@@ -80,43 +80,43 @@
 
     <string name="template_stream_volume">%1$s glasnoća je %2$d</string>
     <string name="template_stream_volume_set">%1$s glasnoća %2$d</string>
-    <string name="value_stream_master">"Glavna"</string>
-    <string name="value_stream_voice_call">"Poziv"</string>
-    <string name="value_stream_system">"Zvukovi sustava "</string>
-    <string name="value_stream_ring">"Zvonjava"</string>
-    <string name="value_stream_music">"Multimedija"</string>
-    <string name="value_stream_alarm">"Alarm"</string>
-    <string name="value_stream_notification">"Obavijesti"</string>
-    <string name="value_stream_dtmf">"DTMF tonovi"</string>
-    <string name="value_googletv_screen_saver">"čuvar ekrana"</string>
+    <string name="value_stream_master">Glavna</string>
+    <string name="value_stream_voice_call">Poziv</string>
+    <string name="value_stream_system">Zvukovi sustava </string>
+    <string name="value_stream_ring">Zvonjava</string>
+    <string name="value_stream_music">Multimedija</string>
+    <string name="value_stream_alarm">Alarm</string>
+    <string name="value_stream_notification">Obavijesti</string>
+    <string name="value_stream_dtmf">DTMF tonovi</string>
+    <string name="value_googletv_screen_saver">čuvar ekrana</string>
 
-    <string name="template_charging">"punjenje %1$s, stanje baterije je %2$s."</string>
-    <string name="notification_type_status_started">"započeto"</string>
-    <string name="notification_type_status_stopped">"zaustavljeno"</string>
+    <string name="template_charging">punjenje %1$s, stanje baterije je %2$s.</string>
+    <string name="notification_type_status_started">započeto</string>
+    <string name="notification_type_status_stopped">zaustavljeno</string>
     <string name="acc_settings_title">Postavke pristupačnosti</string>
     <string name="qq_group_title">Službena QQ grupa Jieshuo čitača ekrana</string>
-    <string name="audio_focus_title">utišavanje zvuka kada rade druge aplikacije: </string>
+    <string name="audio_focus_title">utišavanje zvuka kada rade druge aplikacije:</string>
 
     <string name="voice_app_name">Glasovni pomoćnik</string>
     <string name="voice_helper_service_description">Koristite vaš telefon uz pomoć glasovnih komandi.</string>
     <string name="web_app_name">Jieshuo Internetski preglednik</string>
     <string name="help_title">Zaslon pomoći</string>
-    <string name="use_log_title">Omogući vođenje zapisnika: </string>
-    <string name="notification_speak_title">čitaj obavjesti: </string>
+    <string name="use_log_title">Omogući vođenje zapisnika:</string>
+    <string name="notification_speak_title">čitaj obavjesti:</string>
     <string name="plugin_title">dodaci</string>
     <string name="action_menu_title">Izbornik radnji</string>
     <string name="clipboard_menu_title">Izbornik međuspremnika</string>
     <string name="select_menu_title">Označavanje teksta</string>
     <string name="all_text_title">Čitanje punog teksta</string>
-    <string name="use_touch_mode_title">Omogući geste (ne isključujte ovo ako ste potpuno slijepi): </string>
-    <string name="unknown_lable_title">Pokušaj pogađati oznaku  neoznačenog elementa: </string>
+    <string name="use_touch_mode_title">Omogući geste (ne isključujte ovo ako ste potpuno slijepi):</string>
+    <string name="unknown_lable_title">Pokušaj pogađati oznaku neoznačenog elementa:</string>
     <string name="action_setting_title">Postavke radnji</string>
-    <string name="use_single_tap_title">Jednostruki dodir za aktivaciju: </string>
-    <string name="use_up_tap_title">Maknite prst sa stavke za aktivaciju: </string>
-    <string name="sound_volume_title">Glasnoća zvučne teme: </string>
-    <string name="notification_bar_speak_title">Čitaj obavjesti iz trake obavijesti: </string>
-    <string name="notification_toast_speak_title">Čitaj skočne obavijesti: </string>
-    <string name="notification_announcement_speak_title">Čitaj obavijesti čitača ekrana: </string>
+    <string name="use_single_tap_title">Jednostruki dodir za aktivaciju:</string>
+    <string name="use_up_tap_title">Maknite prst sa stavke za aktivaciju:</string>
+    <string name="sound_volume_title">Glasnoća zvučne teme:</string>
+    <string name="notification_bar_speak_title">Čitaj obavjesti iz trake obavijesti:</string>
+    <string name="notification_toast_speak_title">Čitaj skočne obavijesti:</string>
+    <string name="notification_announcement_speak_title">Čitaj obavijesti čitača ekrana:</string>
     <string name="notification_settings_title">Postavke obavijesti</string>
     <string name="help_feed_title">Pomoć i povratne informacije</string>
     <string name="advanced_setting_title">Napredne postavke</string>
@@ -125,18 +125,18 @@
     <string name="voice_help_title">Glasovni pomoćnik help</string>
     <string name="sound_package_title">Zvučne teme</string>
     <string name="value_default">Podrazumjevana</string>
-    <string name="notification_app_name_speak_title">Čitaj izvor obavjesti: </string>
+    <string name="notification_app_name_speak_title">Čitaj izvor obavjesti:</string>
     <string name="use_up_tap_summary">Otpuštanjem prsta s elementa će isti aktivirati. ako se prst zadrži dulje na elementu, isti neće biti aktiviran.</string>
-    <string name="use_tap_mode_title">Dotaknite zaslon kako biste prebacili fokus: </string>
-    <string name="vibrate_intensity_title">Intenzitet vibracije: </string>
-    <string name="use_progress_title">Automatsko čitanje traka napredovanja: </string>
-    <string name="use_scroll_list_index_title">Čitaj trenutni opseg prikazanih elemenata na zaslonu: </string>
-    <string name="use_content_changed_title">Izvijesti o dinamičkim promjenama sadržaja: </string>
-    <string name="use_double_fling_title">Koristi višedijelne geste: </string>
-    <string name="use_view_name_title">Čitaj naziv trenutno fokusirane kontrole: </string>
+    <string name="use_tap_mode_title">Dotaknite zaslon kako biste prebacili fokus:</string>
+    <string name="vibrate_intensity_title">Intenzitet vibracije:</string>
+    <string name="use_progress_title">Automatsko čitanje traka napredovanja:</string>
+    <string name="use_scroll_list_index_title">Čitaj trenutni opseg prikazanih elemenata na zaslonu:</string>
+    <string name="use_content_changed_title">Izvijesti o dinamičkim promjenama sadržaja:</string>
+    <string name="use_double_fling_title">Koristi višedijelne geste:</string>
+    <string name="use_view_name_title">Čitaj naziv trenutno fokusirane kontrole:</string>
     <string name="permissions_settings_title">Ispraviti probleme s pravima</string>
-    <string name="use_node_info_title">Čitaj trenutnu informaciju o čvoru: </string>
-    <string name="use_content_tree_changed_title">Automatski čitaj sadržaj trenutnog prozora: </string>
+    <string name="use_node_info_title">Čitaj trenutnu informaciju o čvoru:</string>
+    <string name="use_content_tree_changed_title">Automatski čitaj sadržaj trenutnog prozora:</string>
     <string name="split_menu_title">Izbornik za kretanje</string>
     <string name="split_edit_title">Uređivanje</string>
     <string name="edit_title">Uredi</string>
@@ -145,23 +145,23 @@
     <string name="clipboard_manager_title">upravljaj međuspremnikom</string>
     <string name="label_manager_title">Upravitelj prilagođenih oznaka</string>
     <string name="menu_manager_title">Upravljaj glavnim izbornikom</string>
-    <string name="menu_up_tap_title">Pustite prst za aktivaciju izbornika: </string>
-    <string name="navigation_up_tap_title">Otpustite prst, kako biste aktivirali softverske navigacijske tipke: </string>
-    <string name="only_notification_title">Omogući ponovno pokretanje čitača ekrana samo iz trake obavjesti: </string>
+    <string name="menu_up_tap_title">Pustite prst za aktivaciju izbornika:</string>
+    <string name="navigation_up_tap_title">Otpustite prst, kako biste aktivirali softverske navigacijske tipke:</string>
+    <string name="only_notification_title">Omogući ponovno pokretanje čitača ekrana samo iz trake obavjesti:</string>
     <string name="send_log_title">Pošalji zapisnik</string>
-    <string name="long_click_title">Čekanje na dugi pritisak: </string>
+    <string name="long_click_title">Čekanje na dugi pritisak:</string>
     <string name="long_click_summary">Kašnjenje uz koje će radnja povezana sa dugim klikom biti aktivirana.</string>
     <string name="split_select_title">Označavam</string>
-    <string name="use_up_long_click_title">Klikni i otpusti prst, kako bi se aktivirao element akcijom dugog klika: </string>
+    <string name="use_up_long_click_title">Klikni i otpusti prst, kako bi se aktivirao element akcijom dugog klika:</string>
     <string name="use_up_long_click_summary">Simuliraj dugi pritisak sa gestom dugog klika</string>
     <string name="backup_manager_title">Upravljaj sigurnosnim kopijama</string>
-    <string name="user_letter_map_title">Koristi korisnički rječnik (potrebno je ponovno pokretanje da bi promjena stupila na snagu): </string>
-    <string name="tts_use_offline_title">Koristi On-line govornu jedinicu: </string>
+    <string name="user_letter_map_title">Koristi korisnički rječnik (potrebno je ponovno pokretanje da bi promjena stupila na snagu):</string>
+    <string name="tts_use_offline_title">Koristi On-line govornu jedinicu:</string>
     <string name="tts_use_offline_summary">Ako wi-fi nije dostupan, biti ćete automatski prebaćeni na podrazumjevanu govornu jedinicu</string>
-    <string name="gesture_package_title">Tema geste: </string>
+    <string name="gesture_package_title">Tema geste:</string>
     <string name="long_text_title">Napredno uređivanje teksta</string>
     <string name="gesture_manager_title">Upravljaj gestama</string>
-    <string name="use_ocr_title">Automatsko korištenje OCR: </string>
+    <string name="use_ocr_title">Automatsko korištenje OCR:</string>
     <string name="use_ocr_summary">Automatski identificiraj tekst ili kontrolu. Ovo će koristiti više prometa i energije</string>
     <string name="content_blacklist_title">Crna lista sadržaja</string>
     <string name="no_phone_permission">Nema prava.</string>
@@ -172,13 +172,13 @@
     <string name="message_only_android5_last">Podržan je samo android 5 ili noviji!</string>
     <string name="notification_box">Okvir obavijesti</string>
     <string name="clear">Očisti</string>
-    <string name="message_disabled_up_tap">"Otpusti za aktivaciju" onemogućeno</string>
-    <string name="message_enabled_up_tap">"omogući za aktivaciju" uključeno.</string>
+    <string name="message_disabled_up_tap">Otpusti za aktivaciju onemogućeno</string>
+    <string name="message_enabled_up_tap">omogući za aktivaciju uključeno.</string>
     <string name="message_no_found_edit_text">Okvir za uređivanje nije pronađen.</string>
     <string name="message_voice_feedback_paused">Glasovna povratna informacija je privremeno isključena.</string>
     <string name="message_voice_feedback_resume">Glasovne funkcije su ponovno uključene</string>
-    <string name="message_enable_tap_mode">Uključi način "dodirni za prebacivanje fokusa"</string>
-    <string name="message_disabled_tap_mode">Donemogući "didirni za prebacivanje fokusa"</string>
+    <string name="message_enable_tap_mode">Uključi način dodirni za prebacivanje fokusa</string>
+    <string name="message_disabled_tap_mode">Donemogući didirni za prebacivanje fokusa</string>
     <string name="directory_gestures">geste</string>
     <string name="directory_temp">TMP</string>
     <string name="directory_plugins">Dodaci</string>
@@ -198,13 +198,13 @@
     <string name="tool_manager_title">Upravljanje alatima</string>
     <string name="message_load_error">Neuspješno uvažam resurs.</string>
     <string name="manager_activity_title">Upravljanje resursima</string>
-    <string name="use_headset_key_title">Koristi gumb na slušalicama za kontrolu čitača ekrana: </string>
-    <string name="use_wake_lock_title">Ostavite telefon stalno otključan: </string>
+    <string name="use_headset_key_title">Koristi gumb na slušalicama za kontrolu čitača ekrana:</string>
+    <string name="use_wake_lock_title">Ostavite telefon stalno otključan:</string>
     <string name="user_settings_title">Korisnički centar</string>
     <string name="user_name_title">Korisničko ime</string>
     <string name="user_id_title">Korisnički identifikator</string>
     <string name="user_key_title">Autorizacijski ključ</string>
-    <string name="user_validity_title">Period valjanosti: </string>
+    <string name="user_validity_title">Period valjanosti:</string>
     <string name="user_point_title">Bodovi za pozivanje korisnika</string>
     <string name="gesture_description_title">Opis gesti</string>
     <string name="user_invite_title">Identifikator pozivatelja</string>
@@ -212,16 +212,16 @@
     <string name="reg_title">Registriraj se</string>
     <string name="message_recognition_none">Nema rezultata prepoznavanja govora</string>
     <string name="tts_iflytek_settings_title">Xunfei TTS postavke</string>
-    <string name="tts_use_fly_title">Koristi Xunfei govornu jedinicu: </string>
-    <string name="tts_pitch_title">Visina glasa: </string>
-    <string name="tts_speed_double_title">Dodatno ubrzanje sinteze govora: </string>
+    <string name="tts_use_fly_title">Koristi Xunfei govornu jedinicu:</string>
+    <string name="tts_pitch_title">Visina glasa:</string>
+    <string name="tts_speed_double_title">Dodatno ubrzanje sinteze govora:</string>
     <string name="tts_unisound_settings_title">Unisound TTS postavke</string>
     <string name="use_wake_lock_summary">Ostavite zaslon uključenim kada se čita tekst.</string>
     <string name="audio_focus_summary">Utišavaj druge zvukove pri izgovaranju teksta.</string>
     <string name="message_done">Završeno</string>
     <string name="app_gesture_package_title">Tema gesti za aplikacije.</string>
     <string name="app_gesture_package_summary">Konfiguriraj temu gesti za aplikacije.</string>
-    <string name="char_mode_gesture_title">Ne koristi prilagođene geste u načinu pregleda riječ po riječ: </string>
+    <string name="char_mode_gesture_title">Ne koristi prilagođene geste u načinu pregleda riječ po riječ:</string>
     <string name="char_mode_gesture_summary">Koristi podrazumijevane geste u načinu pregleda riječ po riječ</string>
     <string name="notification_summary_title">Opis obavijesti</string>
     <string name="use_image_filter_title">Filtriraj slike prilikom pregledavanja web stranica</string>
@@ -233,23 +233,23 @@
     <string name="qq_group_summary">Diskutirajte o programu ili ga kupite</string>
     <string name="favorites_menu_title">Omiljene</string>
     <string name="favorites_manager_title">Upravljajte svojim omiljenim stavkama</string>
-    <string name="use_multi_menu_title">Koristi višestupčasti izbornik: </string>
+    <string name="use_multi_menu_title">Koristi višestupčasti izbornik:</string>
     <string name="use_multi_menu_summary">višestupčasti izbornik ne podržava prilagođeni sadržaj</string>
-    <string name="use_left_right_title">Koristi povlačenja prstom u lijevo ili u desno za kretanje: </string>
-    <string name="use_list_item_index_title">Čitaj broj fokusiranog elementa na popisu: </string>
+    <string name="use_left_right_title">Koristi povlačenja prstom u lijevo ili u desno za kretanje:</string>
+    <string name="use_list_item_index_title">Čitaj broj fokusiranog elementa na popisu:</string>
     <string name="use_left_right_summary">Kada se koristi podrazumjevana tema gesti, mijenjanje fokusa s povlačenjem lijevo-desno, izvršava funkcije prečaca sa povlačenjem gore\'dolje.</string>
-    <string name="use_old_previous_title">Koristi stari način mijenjanja fokusa: </string>
+    <string name="use_old_previous_title">Koristi stari način mijenjanja fokusa:</string>
     <string name="baidu_tieba_title">Baidu enciklopedija</string>
-    <string name="use_single_tts_title">Koristi jednu govornu jedinicu: </string>
-    <string name="use_auto_update_title">Uključi automatske nadogradnje: </string>
-    <string name="use_pager_scroll_title">Automatski listaj stranice: </string>
-    <string name="use_supper_filter_title">Strogo filtriranje web stranica: </string>
+    <string name="use_single_tts_title">Koristi jednu govornu jedinicu:</string>
+    <string name="use_auto_update_title">Uključi automatske nadogradnje:</string>
+    <string name="use_pager_scroll_title">Automatski listaj stranice:</string>
+    <string name="use_supper_filter_title">Strogo filtriranje web stranica:</string>
     <string name="change_log_title">Lista izmjena</string>
-    <string name="use_up_long_quick_menu_title">Prikaži izbornik akcija prilikom dugog pritiska: </string>
-    <string name="use_show_dis_enabled_quick_menu_title">Prikaži nedostupne radnje u izborniku radnji: </string>
+    <string name="use_up_long_quick_menu_title">Prikaži izbornik akcija prilikom dugog pritiska:</string>
+    <string name="use_show_dis_enabled_quick_menu_title">Prikaži nedostupne radnje u izborniku radnji:</string>
     <string name="voice_helper_setting_title">Postavke glasovnog pomoćnika</string>
-    <string name="voice_helper_copy_title">Automatski kopiraj rezultate prijevoda u međuspremnik: </string>
-    <string name="trans_lang_from_title">Izvorni jezik: </string>
+    <string name="voice_helper_copy_title">Automatski kopiraj rezultate prijevoda u međuspremnik:</string>
+    <string name="trans_lang_from_title">Izvorni jezik:</string>
     <string name="use_pager_scroll_summary">Automatski se prebacuj na sljedeću stranicu kada dođete do kraja trenutne</string>
     <string name="scroll_gesture_settings_title">Postavke pomicanja</string>
     <string name="click_settings_title">Postavke klikabilnih akcija</string>
@@ -274,7 +274,7 @@
     <string name="content_blacklist_summary">Filtrirajte sadržaj na crnu listu kako biste odstranili dio nepotrebnog fokusa. Pojavila se pogreška koja znači da se oznaka ne može dodati.</string>
     <string name="use_image_filter_summary">Filtriraj slike prilikom pregleda web stranica</string>
     <string name="use_supper_filter_summary">Filtriraj web sadržaj koji nije kineski.</string>
-    <string name="use_edge_gesture_title">Koristi rubne geste: </string>
+    <string name="use_edge_gesture_title">Koristi rubne geste:</string>
     <string name="left_edge_gesture_title">Postavke lijevog rubnog prečaca</string>
     <string name="right_edge_gesture_title">Postavke desnog rubnog prečaca</string>
 
@@ -288,10 +288,10 @@
     <string name="up_volume_key_title">Dugo pritisnite gumb za pojačavanje</string>
     <string name="up_volume_key_summary">Pritisnite gumb za pojačavanje glasnoće</string>
 
-    <string name="use_speak_call_phone_summary">Izgovaraj identifikator pozivatelja: </string>
-    <string name="use_speak_call_phone_title">Informacija o pozivatelju: </string>
+    <string name="use_speak_call_phone_summary">Izgovaraj identifikator pozivatelja:</string>
+    <string name="use_speak_call_phone_title">Informacija o pozivatelju:</string>
     <string name="use_speak_changed_volume_summary">Čitaj poruku pri podešavanju glasnoće</string>
-    <string name="use_speak_changed_volume_title">Čitaj poruku za glasnoću: </string>
+    <string name="use_speak_changed_volume_title">Čitaj poruku za glasnoću:</string>
     <string name="vip_qq_group_title">Jieshuo VBP QQ grupa</string>
     <string name="qq_group2_title">QQ grupa Jieshuo čitača ekrana</string>
 
@@ -302,12 +302,12 @@
     <string name="right_long_edge_gesture_summary">Povucite s desna prema lijevom rubu ekrana.</string>
     <string name="use_up_long_quick_menu_summary">Prikažite izbornik prečaca prilikom dugog pritiska na stavku.</string>
 
-    <string name="up_volume_short_key_title">Kratak pritisak na tipke za pojačavanje zvuka: </string>
+    <string name="up_volume_short_key_title">Kratak pritisak na tipke za pojačavanje zvuka:</string>
     <string name="up_volume_short_key_summary">Izaberi radnju koju želiš da bude izvršena pri kratkom pritisku gumba za povečavanje glasnoće. Ako želiš promjeniti glasnoću, koristi gumbe za glasnoću držeći prst na zaslonu</string>
 
-    <string name="down_volume_short_key_title">Kratki pritisak gumba za smanjivanje glasnoće: </string>
+    <string name="down_volume_short_key_title">Kratki pritisak gumba za smanjivanje glasnoće:</string>
     <string name="down_volume_short_key_summary">Izaberi radnju koju želiš da bude izvršena pri kratkom pritisku gumba za smanjivanje glasnoće. Ako želiš promjeniti glasnoću, koristi gumbe za glasnoću držeći prst na zaslonu</string>
-    <string name="use_ringtone_volume_title">Koristi glasnoću zvonjave: </string>
+    <string name="use_ringtone_volume_title">Koristi glasnoću zvonjave:</string>
     <string name="use_ringtone_volume_summary">Koristi glasnoću zvonjave za određivanje glasnoće informacija o pozivatelju</string>
 
     <string name="up_down_volume_short_key_summary">Pauziraj ili ponovno pokreni pregledavanje dodirom</string>
@@ -326,12 +326,12 @@
     <string name="edge_gesture_title">Postavke rubnih gesti</string>
     <string name="left_button_title">Akcije prečaca lijevog povlačenja</string>
     <string name="right_button_title">Akcije desnog povlačenja</string>
-    <string name="use_add_async_tts_title">Skladišti obavijesti za čitanje: </string>
+    <string name="use_add_async_tts_title">Skladišti obavijesti za čitanje:</string>
     <string name="use_add_async_tts_summary">Ako postoji više od jedne obavjesti koja mora biti pročitana, govor neće biti prekinut. Ova opcija ne podržava način jedne govorne jedinice</string>
     <string name="questions_answers_title">Čpp</string>
     <string name="orientation_landscape">Pejzaž</string>
     <string name="orientation_portrait">Portret</string>
-    <string name="use_alarm_title">Izgovaraj vrijeme: </string>
+    <string name="use_alarm_title">Izgovaraj vrijeme:</string>
     <string name="use_alarm_summary">Izgovara određeno vrijeme.</string>
     <string name="alarm_settings_title">Postavke alarma</string>
     <string name="url_menu_title">Elementi za interakciju</string>
@@ -345,13 +345,13 @@
     <string name="custom_gesture_settings_title">Postavke prilagođenih gesti</string>
     <string name="use_foreground_pro_title">Napredna zaštita protiv zaključavanja</string>
     <string name="use_foreground_pro_summary">Postavlja Jieshuo iznad drugih programa, pomaže pri učitavanu govornih jedinica na zaključanom zaslonu</string>
-    <string name="use_power_save_title">Način štednje energije: </string>
+    <string name="use_power_save_title">Način štednje energije:</string>
     <string name="use_power_save_summary">Smanjuje korištenje baterije</string>
     <string name="power_settings_title">Postavke štednje energije</string>
     <string name="action_settings_title">Postavke radnji</string>
     <string name="keep_focus_position_title">Pamti poziciju fokusa</string>
     <string name="download_activity_title">preuzmi dodatne elemente resurasa</string>
-    <string name="use_number_speak_title">Čitaj brojeve znamenku po znamenku: </string>
+    <string name="use_number_speak_title">Čitaj brojeve znamenku po znamenku:</string>
     <string name="use_input_method_gesture_title">Kada se nalazite u načinu uređivanja, koristite geste za označavanje riječi</string>
     <string name="use_input_method_gesture_summary">Povlačenja će mijenjati odabir riječi za automatski ispravak.</string>
     <string name="use_volume_key_move_text_title">Koristite tipke za glasnoću kako biste pomicali kursor kada se nalazite u načinu uređivanja</string>
@@ -376,7 +376,7 @@
     <string name="backup_settings_summary">Sigurnosno kopiranje postavki će nadpisati sigurnosnu kopiju na serveru</string>
     <string name="jieshuo_bbs_title">Jieshuo forum</string>
     <string name="use_symbol_speak_title">Čitaj interpunkciju</string>
-    <string name="use_cloud_label_title">Dijeljenje oznaka: </string>
+    <string name="use_cloud_label_title">Dijeljenje oznaka:</string>
     <string name="use_cloud_label_summary">Dijeli i preuzmi prilagođene oznake s poslužitelja</string>
     <string name="directory_helper">Asistent</string>
     <string name="helper_manager_title">Raširene postavke Glasovnog pomoćnika</string>
@@ -389,8 +389,8 @@
     <string name="has_vip_summary">%s je dostupno samo za premium korisnike</string>
     <string name="vip_qq_kefu_title">Jieshuo podrška</string>
     <string name="vip_qq_kefu_summary">Ovdje možete dobiti podršku i kupiti čitač zaslona</string>
-    <string name="use_speak_changed_window_title">Čita cjeloviti sadržaj prozora kada se isti promjeni: </string>
-    <string name="use_timer_sound_title">Zvuk tajmera: </string>
+    <string name="use_speak_changed_window_title">Čita cjeloviti sadržaj prozora kada se isti promjeni:</string>
+    <string name="use_timer_sound_title">Zvuk tajmera:</string>
     <string name="timer_setting_title">Postavke tajmera</string>
     <string name="voice_cmd_setting_title">Postavke glasovnih komandi</string>
     <string name="directory_cmd">Prilagođene glasovne komande</string>
@@ -410,7 +410,7 @@
     <string name="use_wake_lock_pro_title">Unaprjeđeno držanje zaslona odključanim</string>
     <string name="use_wake_lock_pro_summary">Ako opcija iznad ne radi, Molimo koristite ovu opciju.</string>
     <string name="more_setting">Više postavki</string>
-    <string name="kayword">Unesite ključnu riječ</string>
+    <string name="keyword">Unesite ključnu riječ</string>
     <string name="notification_black_list_summary">Obavijesti koje sadrže stavke koje su na crnoj listi neće biti izgovorene.</string>
     <string name="notification_white_list_summary">Notifications Obavijesti koje sadrže elemente na bijeloj listi bit će izgovorene.</string>
     <string name="system_tts_volume_title">Glasnoća govorne jedinice sustava</string>
@@ -433,8 +433,8 @@
     <string name="message_copy">Poruka je iskopirana</string>
     <string name="message_append">Tekst je dodan</string>
      <string name="text_format_settings_title">Postavke rječnika</string>
-    <string name="use_text_format_first_title">Čitaj prvo tekst, kada se nalazi u načinu objašnjavanja: </string>
-    <string name="use_text_format_char_number_title">Čitaj sastavljajuća slova kao jedno: </string>
+    <string name="use_text_format_first_title">Čitaj prvo tekst, kada se nalazi u načinu objašnjavanja:</string>
+    <string name="use_text_format_char_number_title">Čitaj sastavljajuća slova kao jedno:</string>
 
     <string name="lower_case_format">%s，Malo%s</string>
     <string name="upper_case_format">%s，Veliko %s</string>
@@ -461,10 +461,10 @@
     <string name="command_send_log">Pošalji zapisnike</string>
     <string name="command_gesture_setting">Postavke gesti</string>
     <string name="command_voice_setting">Postavke govorne jedinice</string>
-    <string name="command_action_setting">@string/action_setting_title</string>
-    <string name="command_feedback_setting">@string/feed_setting_title</string>
-    <string name="command_content_setting">@string/content_setting_title</string>
-    <string name="command_notification_setting">@string/notification_settings_title</string>
+    <string name="command_action_setting">Postavke radnji</string>
+    <string name="command_feedback_setting">postavke povratnih informacija</string>
+    <string name="command_content_setting">Postavke prezentacije sadržaja</string>
+    <string name="command_notification_setting">Postavke obavijesti</string>
     <string name="command_help_feed_setting">Pomoć i povratna informacija</string>
     <string name="command_left_shortcut">Lijevi prečac</string>
     <string name="command_right_shortcut">Desni prečac</string>
@@ -516,10 +516,10 @@
     <string name="node_mode">Čvorasti pregled</string>
     <string name="ignore_battery">Molimo omogućite aplikaciji zanemarivanje postavki optimizacije baterije.</string>
     <string name="overlay_window">Molimo omogućite sliku u slici.</string>
-    <string name="opened"> uključeno</string>
-    <string name="closed"> isključeno</string>
-    <string name="checked"> odabrano</string>
-    <string name="unchecked"> neodabrano</string>
+    <string name="opened">uključeno</string>
+    <string name="closed">isključeno</string>
+    <string name="checked">odabrano</string>
+    <string name="unchecked">neodabrano</string>
     <string name="page_from_to">stranica %d od %d</string>
     <string name="done">Operacija je završena</string>
     <string name="error_try_again">Dogodila se pogreška. Molimo pokušajte ponovno</string>
@@ -534,20 +534,20 @@
     <string name="selected">Odabrano</string>
     <string name="disabled">Nedostupno</string>
     <string name="progress2">Pozicija: %d</string>
-    <string name="view_name_button"> gumb</string>
-    <string name="view_name_edit_text"> Polje za uređivanje</string>
+    <string name="view_name_button">gumb</string>
+    <string name="view_name_edit_text">Polje za uređivanje</string>
     <string name="view_name_editing">uređuje se</string>
     <string name="view_name_web_view">Komponenta prikaza web sadržaja</string>
-    <string name="view_name_list_view"> popis</string>
-    <string name="view_name_spinner"> odabirni okvir</string>
-    <string name="view_name_switch"> preklopnik</string>
-    <string name="view_name_radio_button"> izborni gumb</string>
-    <string name="view_name_check_box"> potvrdni okvir</string>
-    <string name="view_name_seek_bar"> klizač</string>
-    <string name="view_name_progress_bar"> traka napredka</string>
-    <string name="view_name_rating_bar"> ocjenjivačka traka</string>
-    <string name="view_name_image_button"> gumb sa slikom</string>
-    <string name="view_name_image"> slika</string>
+    <string name="view_name_list_view">popis</string>
+    <string name="view_name_spinner">odabirni okvir</string>
+    <string name="view_name_switch">preklopnik</string>
+    <string name="view_name_radio_button">izborni gumb</string>
+    <string name="view_name_check_box">potvrdni okvir</string>
+    <string name="view_name_seek_bar">klizač</string>
+    <string name="view_name_progress_bar">traka napredka</string>
+    <string name="view_name_rating_bar">ocjenjivačka traka</string>
+    <string name="view_name_image_button">gumb sa slikom</string>
+    <string name="view_name_image">slika</string>
 
     <string name="message_has_vip_read_mode">Način čitanja članaka nije dostupan u besplatnoj inačici programa</string>
     <string name="message_enabled_read_mode">Izlazim iz načina čitanja</string>
@@ -562,15 +562,15 @@
     <string name="rap_action_settings_title">Dodirivanje stražnje strane telefona</string>
 
     <string name="back_rap_action_title">Dvostruki dodir stražnje strane telefona</string>
-    <string name="back_rap_action_summary">dvostruki  dodir stražnje strane telefona</string>
+    <string name="back_rap_action_summary">dvostruki dodir stražnje strane telefona</string>
 
 
     <string name="shake_action_title">Protresi</string>
     <string name="shake_action_summary">Protresite vaš uređaj horizontalno</string>
 
 
-    <string name="shake_action_sens_title">Osjetljivost protresivanja: </string>
-    <string name="shake_action_call_title">Protresi za odgovor na poziv: </string>
+    <string name="shake_action_sens_title">Osjetljivost protresivanja:</string>
+    <string name="shake_action_call_title">Protresi za odgovor na poziv:</string>
     <string name="message_no_thing">Nema sadržaja</string>
     <string name="double_fling_setting">Postavke višedjelnih gesti</string>
 
@@ -585,7 +585,7 @@
     <string name="command_clean">Očisti trenutno fokusirano polje za uređivanje</string>
     <string name="command_select">Izbornik označavanja</string>
     <string name="command_notification_box">Polje obavijesti</string>
-    <string name="command_up_tap">Uključi ili isključi odpusti za aktivaciju"</string>
+    <string name="command_up_tap">Uključi ili isključi odpusti za aktivaciju</string>
     <string name="command_tap_mode">Uključi ili isključi pritisak za prebacivanje fokusa</string>
     <string name="command_node_mode">Uključi ili isključi čvorasti način pregleda</string>
     <string name="command_to_home">Glavni ekran</string>
@@ -704,7 +704,7 @@
     <string name="show_volume_ui_title">Prikaži panel glasnoće sustava kada se podešava glasnoća</string>
     <string name="fingerprint_gesture_setting">Geste čitača otiska prsta settings</string>
     <string name="fingerprint_gesture_setting_summary">Ova je funkcija podržana na uređajima sa inačicom androida 8 ili novijim.</string>
-    <string name="use_fingerprint_gesture_title">Koristi geste koje se izvode na čitaču otiska prsta: </string>
+    <string name="use_fingerprint_gesture_title">Koristi geste koje se izvode na čitaču otiska prsta:</string>
 
 
 
@@ -712,30 +712,30 @@
     <string name="command_supper_mode">Način detaljiziranog kretanja</string>
     <string name="command_ocr_focus">Prepoznaj fokusiranu stavku prepoznavačem teksta.</string>
     <string name="navi">kretanje</string>
-    <string name="unknown_index_title">Čitaj poziciju neobilježene kontrole: </string>
+    <string name="unknown_index_title">Čitaj poziciju neobilježene kontrole:</string>
     <string name="unknown_index_summary">Čita poziciju trenutne stavke, čak ako ista nema oznake ili identifikatora.</string>
     <string name="alarm_start_hour_title">Početak alarma</string>
     <string name="alarm_end_hour_title">Kraj alarma</string>
     <string name="command_virtual_navigation">Virtualna navigacija</string>
     <string name="voice_helper_use_click_title">Direktno aktiviraj označenu stavku.</string>
     <string name="voice_helper_use_app_title">Direktno otvori označeni program</string>
-    <string name="voice_helper_use_app_summary">Možete otvoriti određeni program tako da izgovorite njegovo ime. Ako je ta opcija onemogućena izgovorite "otvori ime programa" kako biste ga otvorili.</string>
-    <string name="voice_helper_use_click_summary">Možete koristit naziv stavke kako biste ju aktivirali. Ako je ova opcija onemogućena, recite "aktivirajte ime stavke" kako biste aktivirali danu stavku.</string>
-    <string name="edge_gesture_width_title">raspon aktivacije rubne geste: </string>
+    <string name="voice_helper_use_app_summary">Možete otvoriti određeni program tako da izgovorite njegovo ime. Ako je ta opcija onemogućena izgovorite otvori ime programa kako biste ga otvorili.</string>
+    <string name="voice_helper_use_click_summary">Možete koristit naziv stavke kako biste ju aktivirali. Ako je ova opcija onemogućena, recite aktivirajte ime stavke kako biste aktivirali danu stavku.</string>
+    <string name="edge_gesture_width_title">raspon aktivacije rubne geste:</string>
     <string name="use_double_edge_gesture_summary">Prilagođene funkcije koje su postavljene da se ispunjavaju uz pomoć višedijelnih gesti nisu dostupne iz izbornika višedijelnih gesti.</string>
     <string name="left_edge_gesture_items_title">Prilagodite lijevi rubni izbornik</string>
     <string name="right_edge_gesture_items_title">Prilagodi desni rubni izbornik</string>
     <string name="multi_menu_items_title">Prilagodi višestupčasti izbornik</string>
     <string name="main_menu_items_title">Prilagodi glavni izbornik</string>
-    <string name="use_edge_gesture_menu_title">Koristi rubni zaslonski izbornik: </string>
+    <string name="use_edge_gesture_menu_title">Koristi rubni zaslonski izbornik:</string>
     <string name="use_left_edge_gesture_quick_menu_title">Koristi lijevi istureni izbornik</string>
-    <string name="use_small_filter_title">Filtriraj neželjene stavke: </string>
+    <string name="use_small_filter_title">Filtriraj neželjene stavke:</string>
     <string name="jieshuo_bbs_summary">Pošaljite vašu povratnu informaciju o Jieshuo čitaču ekrana na našem forumu</string>
-    <string name="voice_recognizer_title">Prepoznavač glasa: </string>
-    <string name="use_text_format_char_upper_title">Izgovori kada se radi o velikim slovima: </string>
-    <string name="voice_helper_media_mute_mode_title">Utišaj glasnoću multimedije kada je glasovni pomoćnik aktivan: </string>
-    <string name="trans_lang_to_title">Ciljni jezik: </string>
-    <string name="recognizer_lang_title">Jezik prepoznavanja govora: </string>
+    <string name="voice_recognizer_title">Prepoznavač glasa:</string>
+    <string name="use_text_format_char_upper_title">Izgovori kada se radi o velikim slovima:</string>
+    <string name="voice_helper_media_mute_mode_title">Utišaj glasnoću multimedije kada je glasovni pomoćnik aktivan:</string>
+    <string name="trans_lang_to_title">Ciljni jezik:</string>
+    <string name="recognizer_lang_title">Jezik prepoznavanja govora:</string>
     <string name="float_menu_items_title">Postavke plivajućeg izbornika</string>
     <string name="use_float_menu_title">Koristi plivajući izbornik</string>
     <string name="tts_scale_title">Brzina govora govorne jedinice</string>
@@ -761,7 +761,7 @@
     <string name="more">više</string>
     <string name="add_label">Dodaj oznaku</string>
     <string name="grid_item_current">%d stupaca, %d redaka,</string>
-    <string name="node_info_root">Postoji%d korjenskih čvorova i  podčinjenih čvorova</string>
+    <string name="node_info_root">Postoji%d korjenskih čvorova i podčinjenih čvorova</string>
     <string name="node_info">Postoji %d podređenih čvorova</string>
     <string name="node_info_none">Nema podređenih čvorova.</string>
     <string name="rating_current_count">Ocjena %d od %d zvjezdica</string>
@@ -817,7 +817,7 @@
     <string name="func_manager">Upravitelj funkcija</string>
     <string name="func_create">Stvori funkciju</string>
     <string name="waiting">Čekam</string>
-    <string name="gestures_description_default">Podrazumjevana tema gesti: pogledajte izbornik "pomoć i povratna informacija" kako biste vidjeli opis gesti</string>
+    <string name="gestures_description_default">Podrazumjevana tema gesti: pogledajte izbornik pomoć i povratna informacija kako biste vidjeli opis gesti</string>
     <string name="auto_click">Automatski klik</string>
     <string name="insert">%s Umetnuto</string>
     <string name="edit_button">Otvori popis gumbi (Jedan gumb po retku)</string>
@@ -877,7 +877,7 @@
     <string name="camera_move_right">pomaknite u desno</string>
     <string name="camera_move_up">pomaknite prema gore</string>
     <string name="camera_move_down">pomaknite prema dolje</string>
-    <string name="camera_top_move_far">udaljite </string>
+    <string name="camera_top_move_far">udaljite</string>
     <string name="camera_top_move_near">približite</string>
     <string name="camera_bottom_up">prema dolje</string>
 
@@ -962,9 +962,9 @@
     <string name="use_ocr_baidu_title">Koristi Baidu OCR</string>
     <string name="use_ocr_baidu_summary">Morate se registrirati za Baidu api na stranici https://ai.baidu.com</string>
     <string name="use_ocr_baidu_help">Idite na https://ai.baidu.com i dohvatite valjane API podatke.</string>
-    <string name="ocr_setting">Postavke  prepoznavanja teksta</string>
-    <string name="ocr_lang_title">Jezik prepoznavanja teksta: </string>
-    <string name="ocr_lang_summary">Radi samo kada je Tencent OCR označen.</string>
+    <string name="ocr_setting">Postavke prepoznavanja teksta</string>
+    <string name="ocr_lang_title">Jezik prepoznavanja teksta:</string>
+    <string name="ocr_lang_summary">Radi samo kada je Offline OCR označen.</string>
     <string name="ocr_baidu_summary">Vrijedi samo kada je Baidu OCR označen.</string>
     <string name="add_from_focus_node">Dodaj od trenutnog fokusiranog čvora.</string>
     <string name="add_from_virtual_screen">Dodaj s virtualnog zaslona.</string>
@@ -1001,7 +1001,7 @@
     <string name="usage_hints_msg">Kratke poruke o korištenju mogu pomoći novom korisniku kako koristiti čitač zaslona. Ako je ovo prvi puta kako ste počeli koristiti mobilni telefon, preporučujemo uključenje ove opcije. Međutim, ako ste iskusan korisnik mobilnih telefona, preporučujemo isključivanje ove opcije za kraće iskustvo.</string>
     <string name="use_list_index_msg">Čitanje pozicije na popisu može vam pomoći u orijentaciji i rketanju po dugim popisima, međutim nekim će ljudima to smetati zbog dužina poruka.</string>
     <string name="notification_speak_msg">Čitanje obavjesti omogućava čitanje obavjesti. Uključite ovu opciju ako želite čitati obavjesti. Ako ne želite biti ometeni, preporučujemo isključiti ovu opciju.</string>
-    <string name="use_single_tts_msg">Označite ovu opciju ako želite da se koriste dvije govorne jedinice za čitanje. Prva će biti korištena za čitanje glavnih informacija poput trenutnog fokusa i drugih vrlo važnih stvari. Druga će se govorna jedinica koristiti za čitanje manje važnih informacija poput balončića i obavijesti. </string>
+    <string name="use_single_tts_msg">Označite ovu opciju ako želite da se koriste dvije govorne jedinice za čitanje. Prva će biti korištena za čitanje glavnih informacija poput trenutnog fokusa i drugih vrlo važnih stvari. Druga će se govorna jedinica koristiti za čitanje manje važnih informacija poput balončića i obavijesti.</string>
     <string name="use_left_right_ok">Koristim alternativnu temu gesti.</string>
     <string name="use_left_right_no">Koristim podrazumijevanu temu gesti.</string>
     <string name="usage_hints_ok">savjeti o korištenju će biti čitani.</string>
@@ -1010,7 +1010,7 @@
     <string name="notification_speak_no">Obavijesti neće biti pročitane.</string>
     <string name="use_single_tts_ok">Koristit će se samo jedna govorna jedinica.</string>
     <string name="use_single_tts_no">Koristit će se dvije govorne jedinice.</string>
-    <string name="permission_title">Opis prava: </string>
+    <string name="permission_title">Opis prava:</string>
     <string name="permission_msg">Pogledajte ugrađeno uputstvo za više detalja.</string>
     <string name="check_permissions_msg">Kliknite dalje za davanje osnovnih prava, ili odustani za izlaz.。</string>
     <string name="next">Sljedeći korak</string>
@@ -1051,13 +1051,13 @@
     <string name="format">Format</string>
     <string name="fix_import">Ponovno pridruži datotečne nastavke</string>
     <string name="run">Pokreni</string>
-    <string name="use_emoji_speak_title">Čitaj Emoji: </string>
+    <string name="use_emoji_speak_title">Čitaj Emoji:</string>
     <string name="install_shortcut">Dodaj prečac na radnu površinu</string>
     <string name="msg_select_end">kraj</string>
     <string name="msg_select_start">početak</string>
     <string name="msg_plugin_run_error">Prvo pokrenite uslugu dodataka commentary!</string>
-    <string name="input_file_name">Upišite naziv datoteke: </string>
-    <string name="input_project_name">Upišite naziv projekta: </string>
+    <string name="input_file_name">Upišite naziv datoteke:</string>
+    <string name="input_project_name">Upišite naziv projekta:</string>
     <string name="use_loop_move_title">Kružno kretanje</string>
     <string name="message_cut">Izreži</string>
     <string name="choice_mode_multiple">Način višestrukod odabira</string>
@@ -1114,7 +1114,7 @@
     <string name="to_next_granularity_item">Sljedeća navigacijska jedinica</string>
     <string name="to_previous_granularity">Prethodni tip navigacije</string>
     <string name="to_next_granularity">Sljedeći tip navigacije</string>
-    <string name="select_granularity_mode">Odaberite tip navigacije: </string>
+    <string name="select_granularity_mode">Odaberite tip navigacije:</string>
     <string name="web_type_move_title">Odaberite tip navigacije koji će se koristiti na web stranicama</string>
     <string name="view_type_move_title">Odaberite tip navigacije koji će se koristiti na standardnim kontrolama.</string>
     <string name="notification_in_touch_no_speak_title">Ne čitaj dolazne obavijesti kada je govor uključen.</string>
@@ -1176,21 +1176,24 @@
     <string name="use_accessibility_volume_fix_summary">Ako ne možete promijeniti glasnoću, ili se promjene prikazuju netočno, možete uključiti ovu opciju.</string>
     <string name="privacy">Politika privatnosti</string>
     <string name="show_download_title">Preuzmite Jieshuo</string>
-    <string name="version_msg">%s\nVeličina:%s\nBroj preuzimanja:%s</string>
-    <string name="user_new_password">Nova lozinka (od 6 do 15 latiničnih slova): </string>
-    <string name="repassword_title">Potvrdi lozinku: </string>
+    <string name="version_msg">%s
+Veličina:%s
+Broj preuzimanja:%s</string>
+    <string name="user_new_password">Nova lozinka (od 6 do 15 latiničnih slova):</string>
+    <string name="repassword_title">Potvrdi lozinku:</string>
     <string name="msg_not_empty">Polje ne može biti prazno!</string>
-    <string name="msg_unknown_error">Dogodila se nepoznata pogreška. Molimo pokušajte ponovno ili kontaktirajte tehničku podršku.\n</string>
+    <string name="msg_unknown_error">Dogodila se nepoznata pogreška. Molimo pokušajte ponovno ili kontaktirajte tehničku podršku.
+</string>
     <string name="msg_timer_mode_pause">Tajmer je pauziran.</string>
     <string name="msg_timer_mode_resume">Tajmer je ponovno pokrenut.</string>
     <string name="msg_multi_touch_mode_enabled">Geste koje se izvode sa više prstiju su uključene.</string>
     <string name="msg_multi_touch_mode_disenabled">Geste koje se izvode sa više prstiju su isključene.</string>
-    <string name="activation_code_text">Aktivacijski kod: </string>
+    <string name="activation_code_text">Aktivacijski kod:</string>
     <string name="activate_title">Aktiviraj premium članstvo</string>
     <string name="select_app">Odaberi aplikaciju</string>
     <string name="command_to_split_screen">Pogled podijeljenog zaslona</string>
     <string name="edit_activity">XML uređivač</string>
-    <string name="use_speak_key_title">Jeka tipkovnice: </string>
+    <string name="use_speak_key_title">Jeka tipkovnice:</string>
     <string name="auto_speak_title">Postavke automatskog čitanja</string>
     <string name="auto_speak_apps_title">Odabir programa koji će se automatski čitati</string>
     <string name="auto_speak_apps_summary">Imajte na umu da ne podržavaju sve aplikacije ovu funkciju. veća je vjerojatnost da će Aplikacije koje prikazuju svoje informacije u popisima biti podržane.</string>
@@ -1219,7 +1222,8 @@
     <string name="down_volume_key_off_title">Držite pritisnutim gumb za smanjivanje glasnoće kada je zaslon zaključan</string>
     <string name="use_loop_move_space_title">Obavještavaj kada se fokuws vraća na početak</string>
     <string name="use_view_type_move_mode_title">Koristi novi način kretanja po tipu</string>
-    <string name="use_view_type_move_mode_summary">Ova opcija omogućuje pregledavanje zaslona po tipu. Podrazumjevano, Povlačenje prstom prema gore ili dolje prebacuje između tipova kretanja, dok povlačenje u lijevo ili desno izvode kretanje.\nPodrazumjevani tip premještava fokus na uobičajeni način.</string>
+    <string name="use_view_type_move_mode_summary">Ova opcija omogućuje pregledavanje zaslona po tipu. Podrazumjevano, Povlačenje prstom prema gore ili dolje prebacuje između tipova kretanja, dok povlačenje u lijevo ili desno izvode kretanje.
+Podrazumjevani tip premještava fokus na uobičajeni način.</string>
     <string name="app_hot_key_shortcut_title">Prečaci glasnoče za aplikacije</string>
     <string name="shared_cloud_label">Pošalji prilagođene oznake u oblak</string>
     <string name="use_more_node_title">detaljni način fokusa</string>
@@ -1354,16 +1358,16 @@
     <string name="wallpaper_description">Ako ne želite davati dodatna prava, molimo postavite Jieshuo čitač zaslona kao vašu pozadinu</string>
     <string name="wallpaper_title">Koristi Jieshuo pozadinu (Beta)</string>
     <string name="wallpaper_summary">Neki telefoni podrazumjevano imaju omogućena stroga ograničenja baterije. Ako modul optimizacije baterije nasilno ugasi čitač zaslona, uključenjem ove opcije Jieshuo čitač zaslona bizt će postavljen kao pozadina, što će smanjiti mogučnost tog neželjenog događaja</string>
-    <string name="nodeinfo_type">tip: </string>
-    <string name="nodeinfo_text">tekst: </string>
-    <string name="nodeinfo_content_description">Pristupačan opis: </string>
-    <string name="nodeinfo_state_description">Opis statusa: </string>
-    <string name="nodeinfo_resource_name">Identifikator resursa: </string>
-    <string name="nodeinfo_indoex">Indeks: </string>
-    <string name="nodeinfo_bounds_in_screen">Pozicija na zaslonu: </string>
-    <string name="nodeinfo_parent">Vršni čvor: </string>
-    <string name="nodeinfo_childs">Podređeni čvorovi: </string>
-    <string name="nodeinfo_actions">Dostupne akcije: </string>
+    <string name="nodeinfo_type">tip:</string>
+    <string name="nodeinfo_text">tekst:</string>
+    <string name="nodeinfo_content_description">Pristupačan opis:</string>
+    <string name="nodeinfo_state_description">Opis statusa:</string>
+    <string name="nodeinfo_resource_name">Identifikator resursa:</string>
+    <string name="nodeinfo_indoex">Indeks:</string>
+    <string name="nodeinfo_bounds_in_screen">Pozicija na zaslonu:</string>
+    <string name="nodeinfo_parent">Vršni čvor:</string>
+    <string name="nodeinfo_childs">Podređeni čvorovi:</string>
+    <string name="nodeinfo_actions">Dostupne akcije:</string>
     <string name="nodeinfo_clickable">klikabilno</string>
     <string name="nodeinfo_not_click">Nije klikabilno</string>
     <string name="nodeinfo_checkable">Može se označiti</string>
@@ -1392,7 +1396,7 @@
     <string name="use_proximity_false_touch_prevention_title">Zaštiti od slučajnih dodira</string>
     <string name="use_proximity_false_touch_prevention_only_lock_title">Koristi zaštitu od slučajnog dodira samo na zaključanom zaslonu</string>
     <string name="enbled_gesture_title">nije omogućeno</string>
-    <string name="enabled_app_gesture">Omogućena je tema gesti za aplikaciju </string>
+    <string name="enabled_app_gesture">Omogućena je tema gesti za aplikaciju</string>
     <string name="enabled_gesture">Omogući shemu gesti</string>
     <string name="expand">Proširi</string>
     <string name="fold">Skupi</string>
@@ -1499,7 +1503,7 @@
     <string name="ocr_mode1">doljnja polovica zaslona (Preporučeno za vodoravan način)</string>
     <string name="ocr_mode2">Gornja trećina zaslona</string>
     <string name="ocr_mode3">Polovina trećine zaslona</string>
-    <string name="ocr_mode4">Dolnja trećina zaslona</string>
+    <string name="ocr_mode4">Doljnja trećina zaslona</string>
     <string name="ocr_mode5">Gornja trećina trenutnog elementa</string>
     <string name="ocr_mode6">Srednja trećina trenutnog elementa</string>
     <string name="ocr_mode7">posljednja trećina trenutnog elementa</string>
@@ -1509,7 +1513,7 @@
     <string name="create_profiles_from_this">Stvori novi profil iz trenutnog profila</string>
     <string name="all_notification_count">%d obavijesti</string>
     <string name="command_speak_all_notification">Čitaj sve obavijesti</string>
-    <string name="msg_start_log">Dodirnite \"OK\" kako biste započeli zapisnik događaja. Ako imate problem prilikom korištenja, pošaljite ove zapisnike programeru</string>
+    <string name="msg_start_log">Dodirnite "OK" kako biste započeli zapisnik događaja. Ako imate problem prilikom korištenja, pošaljite ove zapisnike programeru</string>
     <string name="msg_loging">Zapisivanje događaja</string>
     <string name="emoji_speak_mode0">Neka govorna jedinica kontrolira</string>
     <string name="emoji_speak_mode1">neka kontrolira čitač zaslona</string>
@@ -1547,14 +1551,14 @@
     <string name="vr_camera">Asistent kamere proširene realnosti</string>
     <string name="language_setting_title">Postavke jezičnih podataka</string>
     <string name="vr_dialog_title">Važna informacija</string>
-    <string name="vr_dialog_message">Funkcija asistenta proširene realnosti treba se koristiti u paru sa vr naočalama i daljinskim. Ovu funkciju trebaju koristiti slabovidni korisnici kako bi im bila od koristi u pregledavanju okoline, kao što su to televizori, računala, knjige.\n
-    Zbog velike točnosti i sporog odziva, ova funkcija nije pogodna za korištenje pri putovanju i šetnji.\n
-    Upute za korištenje: \n
-    Ako trebate gledati okolinu poput znakova autobusnih stanica, željezničkih stanica, prometnih znakova, itd uvjerite se da da koristite funkciju tek kada se uvjerite u sigurnost vaše okoline.\n
-    Zaslon telefona je podijeljen na dva dijela. postavite lijevu stranu prema dolje u kvadratić vr oko. Koristite strelice na daljinskom kako biste prebacivali stavke pregleda, i pritisnite gumb u redu kako biste započeli identifikaciju.\n
-    Koristite tipke za glasnoću vašeg telefona kako biste postavili razinu uvećanja.\n
-    Zbog raznih tipa takvih uređaja na tržištu, neki od njih mogu blokirati kameru, što rezultira i zatamnjenom ili sumnjivom pogledu. Za preporuke možete kontaktirati tehničku podršku.\n
-    Upozorenje: zloupotreba funkcije može završiti tragičnim ishodom.</string>
+    <string name="vr_dialog_message">Funkcija asistenta proširene realnosti treba se koristiti u paru sa vr naočalama i daljinskim. Ovu funkciju trebaju koristiti slabovidni korisnici kako bi im bila od koristi u pregledavanju okoline, kao što su to televizori, računala, knjige.
+ Zbog velike točnosti i sporog odziva, ova funkcija nije pogodna za korištenje pri putovanju i šetnji.
+ Upute za korištenje: 
+ Ako trebate gledati okolinu poput znakova autobusnih stanica, željezničkih stanica, prometnih znakova, itd uvjerite se da da koristite funkciju tek kada se uvjerite u sigurnost vaše okoline.
+ Zaslon telefona je podijeljen na dva dijela. postavite lijevu stranu prema dolje u kvadratić vr oko. Koristite strelice na daljinskom kako biste prebacivali stavke pregleda, i pritisnite gumb u redu kako biste započeli identifikaciju.
+ Koristite tipke za glasnoću vašeg telefona kako biste postavili razinu uvećanja.
+ Zbog raznih tipa takvih uređaja na tržištu, neki od njih mogu blokirati kameru, što rezultira i zatamnjenom ili sumnjivom pogledu. Za preporuke možete kontaktirati tehničku podršku.
+ Upozorenje: zloupotreba funkcije može završiti tragičnim ishodom.</string>
     <string name="vr_camera_ae">pregled</string>
     <string name="vr_camera_flash_on">Uključena bljeskalica</string>
     <string name="vr_camera_flash_off">Isključena bljeskalica</string>
@@ -1566,7 +1570,7 @@
     <string name="do_not_prompt_again">Ne podsjećaj me ponovo</string>
     <string name="use_custom_language_title">Koristi prilagođene jezične pakete</string>
     <string name="msg_has_not_enabled">Jieshuo još nije uključen. program će raditi samo poslije uključenja odgovarajuće usluge pristupačnosti. Želite li uključiti Jieshuo sada? Takožer možete to učiniti poslije u postavkama pristupačnosti.</string>
-    <string name="msg_has_not_enabled_33">Upozorenje: ako koristite Android 13, poslije prvog pokretanja Jieshuo u postavkama pristupačnosti možete dobiti obavijest, da je ta akcija zablokirana iz sigurnosnih razloga. Poslije zatvaranja tog dijaloškog okvira, molimo otvorite dijaloški okvir informacija o aplikaciji Jieshuo, pritisnite u desnom gornjem kutu ekrana gumb "više i izaberite stavku "dozvoliti ograničene postavke". Poslije toga opet uključite Jieshuo u postavkama pristupačnosti.
+    <string name="msg_has_not_enabled_33">Upozorenje: ako koristite Android 13, poslije prvog pokretanja Jieshuo u postavkama pristupačnosti možete dobiti obavijest, da je ta akcija zablokirana iz sigurnosnih razloga. Poslije zatvaranja tog dijaloškog okvira, molimo otvorite dijaloški okvir informacija o aplikaciji Jieshuo, pritisnite u desnom gornjem kutu ekrana gumb više i izaberite stavku dozvoliti ograničene postavke. Poslije toga opet uključite Jieshuo u postavkama pristupačnosti.
 Ako koristite Android 13, ali niste dobili takvu obavijest, ignorirajte ovo upozorenje.</string>
     <string name="use_edit_hint_title">Uvijek izgovori sugestije poljima uređivanja</string>
     <string name="check_manage_files_permissions_title">Provjera dozvola za sustav datoteka</string>
@@ -1614,7 +1618,7 @@ Ako koristite Android 13, ali niste dobili takvu obavijest, ignorirajte ovo upoz
     <string name="move">Premjesti</string>
     <string name="msg_move_start">Za premještanje dotaknite mjesto na koje želite premjestiti stavku i potvrdite akciju dodirom dva puta.</string>
     <string name="msg_move_done">Premješteno na poziciju %d</string>
-    <string name="timer_tts_setting_title">Postavke govorne jedinice  pri čitanju obavijesti tajmera i sata</string>
+    <string name="timer_tts_setting_title">Postavke govorne jedinice pri čitanju obavijesti tajmera i sata</string>
     <string name="other_res">Drugi resursi</string>
     <string name="language_title">Datoteke prijevoda</string>
     <string name="msg_download_error">Greška pri preuzimanju</string>
@@ -1622,7 +1626,7 @@ Ako koristite Android 13, ali niste dobili takvu obavijest, ignorirajte ovo upoz
     <string name="buy_with_unipay">Kupi premium izravnim kartičnim transferom (plaćaš u juanima i dobijaš iste popuste, koje dobivaju i kineski korisnici).</string>
     <string name="buy_with_paypal">Kupi premium uz pomoć PayPala</string>
     <string name="msg_change_custom_gesture">Možeš uređivati samo personaliziranu shemu gesti. Želiš li se na nju prebaciti i nastaviti?</string>
-    <string name="msg_import_strings">Pri uvozu datoteke prijevoda vaše vlastite postavke prijevoda sučelja bit će zamijenjene. Možete ih sačuvati tako da ih najprije uvezete  u datoteku lokalizacije.</string>
+    <string name="msg_import_strings">Pri uvozu datoteke prijevoda vaše vlastite postavke prijevoda sučelja bit će zamijenjene. Možete ih sačuvati tako da ih najprije uvezete u datoteku lokalizacije.</string>
     <string name="browser">Idi</string>
     <string name="stop">Zaustavi</string>
     <string name="read_next_chapter">Sljedeće poglavlje</string>
@@ -1690,26 +1694,16 @@ Ako koristite Android 13, ali niste dobili takvu obavijest, ignorirajte ovo upoz
     <string name="timer_format_12">12-satni format</string>
     <string name="timer_format_24">24-satni format</string>
     <string name="default_gesture_type_title">Podrazumjevani stil gesti za kretanje</string>
-    <string name="default_gesture_type_def_up_down">podrazumjevano:
-povucite gore/dolje kako biste pomicali fokus, ili lijevo/desno kako biste izvodili prečace</string>
-    <string name="default_gesture_type_web_up_down">Osnovno kretanje po web stranicama:
-povucite u lijevo ili desno za prebacivanje tipa kretanja u web pregledu, ili gore/dolje za kretanje po označenom tipu elementa</string>
-    <string name="default_gesture_type_web_up_down_new">Alternativno kretanje po Web pregledu:
-Povucite prema dolje, a potom gore ili ili gore a potom prema dolje kako biste se prebacivali između tipa elementa u web pregledu, i povucite u lijevo  ili desno kako biste se kretali unutar označenog elementa. Koristite povlačenja prema gore/dolje za pomicnje fokusa.</string>
-    <string name="default_gesture_type_view_up_down">Osnovna globalna navigacija:
-Povucite u lijevo ili desno kako biste promijenili tip navigacije u svim pregledima, i prema dilje ili gore kako biste se kretali unutar označenog tipa</string>
-    <string name="default_gesture_type_view_up_down_new">Alternativna globalna navigacija:
-Povucite prema gore ili dolje, ili prema dolje ili gore za prebacivanje tipa navigacije u svim pregledima, povucite prema desno ili lijevo za premještanje unutar odabranog tipa. koristite povlačenja prema gore ili doje za mijenjanje fokusa</string>
-    <string name="default_gesture_type_def_left_right">Podrazumjevano2:
-povucite u desno ili lijevo za prebacivanje fokusa, i prema gore i dolje za izvođenje prečaca</string>
-    <string name="default_gesture_type_web_left_right">Osnovna navigacija po web pregledima2:
-Povucite prema dolje ili gore za prebacivanje tipa kretanja u web pregledima, i u lijevo ili desno za prebacivanje unutar označenog tipa</string>
-    <string name="default_gesture_type_web_left_right_new">Alternativna navigacija po web pregledima2:
-Povucite prema dolje a onda prema gore ili prema gore a onda dolje za prebacivanje tipova kretanja, i povucite prema lijevo ili desno kako biste se premještali unutar označenog tipa. Koristite povlačenja u lijevo ili desno za premještavanje fokusa.</string>
-    <string name="default_gesture_type_view_left_right">Globalno kretanje2:
-Povucite prema dolje ili gore kako biste prebacili tipove kretanja u svim pregledima, i povucite u lijevo ili desno za kreanjue u označenom tipu</string>
-    <string name="default_gesture_type_view_left_right_new">Alternativni način kretanja2:
-povucite prema dolje a potom rpema gore ili prema gore a potom dolje za prebacivanje tipa kretanja u svim pregledima, i povucite prema gore ili dolje za prebacivanje u označenom tipu. Koristite kretnje u lijevo ili desno za pomicanje fokusa</string>
+    <string name="default_gesture_type_def_up_down">podrazumjevano: povucite gore/dolje kako biste pomicali fokus, ili lijevo/desno kako biste izvodili prečace</string>
+    <string name="default_gesture_type_web_up_down">Osnovno kretanje po web stranicama: povucite u lijevo ili desno za prebacivanje tipa kretanja u web pregledu, ili gore/dolje za kretanje po označenom tipu elementa</string>
+    <string name="default_gesture_type_web_up_down_new">Alternativno kretanje po Web pregledu: Povucite prema dolje, a potom gore ili ili gore a potom prema dolje kako biste se prebacivali između tipa elementa u web pregledu, i povucite u lijevo ili desno kako biste se kretali unutar označenog elementa. Koristite povlačenja prema gore/dolje za pomicnje fokusa.</string>
+    <string name="default_gesture_type_view_up_down">Osnovna globalna navigacija: Povucite u lijevo ili desno kako biste promijenili tip navigacije u svim pregledima, i prema dilje ili gore kako biste se kretali unutar označenog tipa</string>
+    <string name="default_gesture_type_view_up_down_new">Alternativna globalna navigacija: Povucite prema gore ili dolje, ili prema dolje ili gore za prebacivanje tipa navigacije u svim pregledima, povucite prema desno ili lijevo za premještanje unutar odabranog tipa. koristite povlačenja prema gore ili doje za mijenjanje fokusa</string>
+    <string name="default_gesture_type_def_left_right">Podrazumjevano2: povucite u desno ili lijevo za prebacivanje fokusa, i prema gore i dolje za izvođenje prečaca</string>
+    <string name="default_gesture_type_web_left_right">Osnovna navigacija po web pregledima2: Povucite prema dolje ili gore za prebacivanje tipa kretanja u web pregledima, i u lijevo ili desno za prebacivanje unutar označenog tipa</string>
+    <string name="default_gesture_type_web_left_right_new">Alternativna navigacija po web pregledima2: Povucite prema dolje a onda prema gore ili prema gore a onda dolje za prebacivanje tipova kretanja, i povucite prema lijevo ili desno kako biste se premještali unutar označenog tipa. Koristite povlačenja u lijevo ili desno za premještavanje fokusa.</string>
+    <string name="default_gesture_type_view_left_right">Globalno kretanje2: Povucite prema dolje ili gore kako biste prebacili tipove kretanja u svim pregledima, i povucite u lijevo ili desno za kreanjue u označenom tipu</string>
+    <string name="default_gesture_type_view_left_right_new">Alternativni način kretanja2: povucite prema dolje a potom rpema gore ili prema gore a potom dolje za prebacivanje tipa kretanja u svim pregledima, i povucite prema gore ili dolje za prebacivanje u označenom tipu. Koristite kretnje u lijevo ili desno za pomicanje fokusa</string>
     <string name="use_speak_state_title">Prvo pročitaj stanje fokusiranog elementa</string>
     <string name="alarm_hours_title">Aktivni sati</string>
     <string name="notification_in_call_no_speak_title">Tijekom poziva ne čitaj obavijesti</string>
@@ -1732,7 +1726,7 @@ povucite prema dolje a potom rpema gore ili prema gore a potom dolje za prebaciv
     <string name="reader_tts_setting_title">Postavke govorne jedinice za način čitanja</string>
     <string name="char_mode_tts_setting_title">Postavke govorne jedinice za čitanje znak po znak</string>
     <string name="auto_read_tts_setting_title">Postavke govorne jedinice za automatski pregled</string>
-    <string name="notification_tts_setting_title">Postavke govorne jedinice za čitanje obavijesti </string>
+    <string name="notification_tts_setting_title">Postavke govorne jedinice za čitanje obavijesti</string>
     <string name="use_up_tap_prompt_title">Podignite prst kako biste aktivirali poruku odgađanja</string>
     <string name="double_fling_time_title">Trajanje prepoznavanja višedjelnih gesti</string>
     <string name="jieshuo_beta_title">Beta verzije</string>
@@ -1764,29 +1758,74 @@ povucite prema dolje a potom rpema gore ili prema gore a potom dolje za prebaciv
     <string name="ocr_lang_ara">Arabski</string>
     <string name="use_virtual_screen_dim_background_title">Koristi tamnu pozadinu za virtualni zaslon</string>
     <string name="edit_ocr_lua_title">Uredi prilagođene Ocr dodatke</string>
-    <string name="ocr_lua_template">require \"import\"\nimport \"com.nirenr.talkman.ai.*\"\n--例子代码是帮助理解代码的伪代码，不能直接运行\nbs,listener=...--获取参数\ntask(function(bs)\n  function 识别函数(bs)\n    --虚拟构成识别结果\n    return {\n      length=2,\n      {\n        t=\"例子代码是帮助理解代码的伪代码\",\n        x=0,\n        y=300,\n        w=1000,\n        h=100,\n        s=50\n      },\n      {\n        t=\"不能直接运行\",\n        x=0,\n        y=600,\n        w=800,\n        h=100,\n        s=50\n      }\n    }\n  end\n\n  local ret=识别函数(bs)\n  local rets=OcrResult.OcrItem[ret.length]--构建返回值数组\n  for n=1,ret.length do\n    --注意java与lua数组开始索引不同\n    rets[n-1]=OcrResult.OcrItem(\n    ret[n].t,--文字内容\n    ret[n].x,--文字x坐标，距离屏幕左侧距离\n    ret[n].y,--文字y坐标，距离屏幕顶部距离\n    ret[n].w,--文字区域宽度\n    ret[n].h,--文字区域高度\n    ret[n].s--文字高度\n    )\n  end\n  return OcrResult(rets)--返回结果到主线程\nend,\nbs,--将图片的byte数组传入线程\nfunction(rets)\n  listener.onDone(rets)--在回调函数调用onDone通知读屏识别完成\nend)</string>
+    <string name="ocr_lua_template">require "import"
+import "com.nirenr.talkman.ai.*"
+--例子代码是帮助理解代码的伪代码，不能直接运行
+bs,listener=...--获取参数
+task(function(bs)
+ function 识别函数(bs)
+ --虚拟构成识别结果
+ return {
+ length=2,
+ {
+ t="例子代码是帮助理解代码的伪代码",
+ x=0,
+ y=300,
+ w=1000,
+ h=100,
+ s=50
+ },
+ {
+ t="不能直接运行",
+ x=0,
+ y=600,
+ w=800,
+ h=100,
+ s=50
+ }
+ }
+ end
+
+ local ret=识别函数(bs)
+ local rets=OcrResult.OcrItem[ret.length]--构建返回值数组
+ for n=1,ret.length do
+ --注意java与lua数组开始索引不同
+ rets[n-1]=OcrResult.OcrItem(
+ ret[n].t,--文字内容
+ ret[n].x,--文字x坐标，距离屏幕左侧距离
+ ret[n].y,--文字y坐标，距离屏幕顶部距离
+ ret[n].w,--文字区域宽度
+ ret[n].h,--文字区域高度
+ ret[n].s--文字高度
+ )
+ end
+ return OcrResult(rets)--返回结果到主线程
+end,
+bs,--将图片的byte数组传入线程
+function(rets)
+ listener.onDone(rets)--在回调函数调用onDone通知读屏识别完成
+end)</string>
     <string name="accessibility_service_description2">Glavna usluga i pomočna su iste. Ne treba ih uključivati u istovremeno.</string>
     <string name="resume_on_screen_on_title">Ponovno uključi istraživanje dodirom ili govornu povratnu informaciju i istraživanje dodirom kada je zaslon uključen</string>
     <string name="resume_on_notification_show_title">Ponovno pokreni isttraživanje dodirom i govorne povratne informacije pri otvaranju područja obavijesti sa povlačenjem prsta prema dolje na zaslonu</string>
     <string name="resume_on_ringing_title">Ponovno pokreni istraživanje dodirom ili govornu povratnu informaciju kada je primljen poziv</string>
     <string name="helper_supper_cmd_title">Dodatne glasovne naredbe</string>
     <string name="back_break_auto_mode_title">Koristite gestu za vraćanje (jednim prstom u desno pa lijevo) za prekidanje funkcije automatskog pregleda</string>
-    <string name="msg_export_all_file">Ovo će izvesti sve vaše postavke Jiesuo u  %s spremne za novi telefon. Izbjegavajte dijeljenje svoje arhive s drugima, jer sadrži vaše podatke, uključujući podatke za prijavu.</string>
+    <string name="msg_export_all_file">Ovo će izvesti sve vaše postavke Jiesuo u %s spremne za novi telefon. Izbjegavajte dijeljenje svoje arhive s drugima, jer sadrži vaše podatke, uključujući podatke za prijavu.</string>
     <string name="msg_export_all_file_fail">Nije bilo moguće izvesti. Molimo pokušajte ponovno</string>
     <string name="import_all_title">Želite li uvesti kompletnu sigurnosnu kopiju?</string>
     <string name="msg_import_all">Ova će radnja nadpisati sve vaše resurse Jieshuo i postavke</string>
     <string name="app_service2">Usluga Jieshuo helper</string>
-    <string name="app_no_supper_sound_package_title">Aplikacije u kojima se ne koriste dodatni zvučni efekti
-(Dodatni zvučni efekti bit će isključeni u označenim aplikacijama)</string>
+    <string name="app_no_supper_sound_package_title">Aplikacije u kojima se ne koriste dodatni zvučni efekti (Dodatni zvučni efekti bit će isključeni u označenim aplikacijama)</string>
     <string name="command_image_to_text2">Opiši cijeli zaslon</string>
     <string name="picture_description2">Detaljni opis cijelog zaslona</string>
     <string name="use_split_line_title">Izgovori broj redka i odlomka u granularnom načinu uređivanja</string>
     <string name="msg_use_single_tts_enabled">Opcija jednoe govorne jedinice ue uključena</string>
-    <string name="msg_disable_use_single_tts">Morate isključiti "opciju koristi jednu govornu jedinicu" kako biste koristili %s. Želite li nastaviti?</string>
+    <string name="msg_disable_use_single_tts">Morate isključiti opciju koristi jednu govornu jedinicu kako biste koristili %s. Želite li nastaviti?</string>
     <string name="command_auto_list_speak">Automatski čitaj poruke Chata</string>
     <string name="command_auto_list_speak_history">Automatska povijest chata</string>
-    <string name="msg_start_auto_list">Automatsko čitanje poruka je počelo za %s </string>
-    <string name="msg_stop_auto_list">Automatsko čitanje poruka je započelo za %s </string>
+    <string name="msg_start_auto_list">Automatsko čitanje poruka je počelo za %s</string>
+    <string name="msg_stop_auto_list">Automatsko čitanje poruka je započelo za %s</string>
     <string name="msg_username_typo">Korisničko ime i lozinka su neispravni</string>
     <string name="msg_username_error">Neispravno korisničko ime i lozinka</string>
     <string name="msg_invite_code_error">Pozivnica je neispravna</string>
@@ -1812,25 +1851,11 @@ povucite prema dolje a potom rpema gore ili prema gore a potom dolje za prebaciv
     <string name="msg_no_a11y_volume">Ne koristiš glasnoću pristupačnosti</string>
     <string name="msg_a11y_volume_disabled">Koristim glasnoću multimedije</string>
     <string name="msg_a11y_volume_enabled">Koristim glasnoću pristupačnosti</string>
-    <string name="content_blacklist_description">Prilikom listanja, sadržaj dodan u crnu listu se neće čitati. Ovo pomaže u filtriranju neželjenog sadržaja ili neoznačenih gumbi. 
-Keywords can be added with asterisks to implement simple matching patterns:
-• Keyword* filters content starting with the keyword.
-• *Keyword filters content ending with the keyword.
-• *keyword* filters content containing the keyword.
-• No asterisks indicate exact matching.</string>
-    <string name="auto_speak_blacklist_description">The content added to the blacklist will not be automatically spoken. This is used to filter out content that you do not want to be read during automatic message reading.
-Mogu se dodavati ključne riječi sa zvjezdicom za implementaciju jednostavnih izraza za poklapanje:
-• Ključna riječ* filtrira sadržaj sa ključnom riječi.
-• *ključna riječ koja završava ključnom riječi.
-• *ključna riječ* filtrira sadržaj koji sadrži ključnu riječ.
-• Ako nema zvjezdica, podrazumijeva se točno poklapanje.</string>
-    <string name="notification_black_list_description">Obavijesti koji sadrže tekst sa crne liste neće biti čitane automatski, ali će se prikazivati u području obavijesti. 
-Podržani su regularni izrazi. 
-Ako je dodana samo  jedna zvjezdica, niti jedna obavijest iz aplikacije neće biti pročitana.</string>
-    <string name="notification_white_list_description">Obavijesti koje sadrže test sa bijele liste će uvijek automatski biti pročitane čak iako je onemogućeno čitanje obavijesti. 
-REgularni izrazi su podržani.
-Ako je dodana samo jedna zvjezdica čitat će se sve obavijesti</string>
-    <string name="nodeinfo_long_clickable">Može biti pritisnuto dugo</string>
+    <string name="content_blacklist_description">Prilikom listanja, sadržaj dodan u crnu listu se neće čitati. Ovo pomaže u filtriranju neželjenog sadržaja ili neoznačenih gumbi. Keywords can be added with asterisks to implement simple matching patterns: • Keyword* filters content starting with the keyword. • *Keyword filters content ending with the keyword. • *keyword* filters content containing the keyword. • No asterisks indicate exact matching.</string>
+    <string name="auto_speak_blacklist_description">The content added to the blacklist will not be automatically spoken. This is used to filter out content that you do not want to be read during automatic message reading. Mogu se dodavati ključne riječi sa zvjezdicom za implementaciju jednostavnih izraza za poklapanje: • Ključna riječ* filtrira sadržaj sa ključnom riječi. • *ključna riječ koja završava ključnom riječi. • *ključna riječ* filtrira sadržaj koji sadrži ključnu riječ. • Ako nema zvjezdica, podrazumijeva se točno poklapanje.</string>
+    <string name="notification_black_list_description">Obavijesti koji sadrže tekst sa crne liste neće biti čitane automatski, ali će se prikazivati u području obavijesti. Podržani su regularni izrazi. Ako je dodana samo jedna zvjezdica, niti jedna obavijest iz aplikacije neće biti pročitana.</string>
+    <string name="notification_white_list_description">Obavijesti koje sadrže test sa bijele liste će uvijek automatski biti pročitane čak iako je onemogućeno čitanje obavijesti. REgularni izrazi su podržani. Ako je dodana samo jedna zvjezdica čitat će se sve obavijesti</string>
+    <string name="nodeinfo_long_clickable">Može se  pritisnuti dugo</string>
     <string name="nodeinfo_not_long_click">Ne može biti pritisnuto dugo</string>
     <string name="nodeinfo_editable">za uređivanje</string>
     <string name="nodeinfo_not_edit">Nije za uređivanje</string>
@@ -1850,5 +1875,51 @@ Ako je dodana samo jedna zvjezdica čitat će se sve obavijesti</string>
     <string name="sound_camera">Zavarač kamere</string>
     <string name="voice_picture_description">Doznaj glasom o trenutnoj slici</string>
     <string name="voice_picture_description2">Doznaj glasom o cijelom zaslonu</string>
+    <string name="ocr_lang_en">Engleski</string>
+    <string name="video_description">Opis videa</string>
+    <string name="msg_start_video_description">Opis videa je pokrenut.</string>
+    <string name="msg_stop_video_description">Opis videa je zaustavljen.</string>
+    <string name="use_image_to_text_title">Automatski opis slika</string>
+    <string name="voice_question">Glasovni upit o slici</string>
+    <string name="find_object">Pretraga objekata</string>
+    <string name="use_long_click_voice_image_title">Pritisnite i držite stavku za glasovni upit o slici</string>
+    <string name="use_text_stat_title">Brojanje znakova u poljima za uređivanje</string>
+    <string name="use_text_stat_summary">U aktivnom polju za uređivanje koristite klizanje desno-lijevo za brojanje znakova i klizanje lijevo-desno za slovkanje.</string>
+    <string name="use_move_window_title">Automatsko prebacivanje između prozora</string>
+    <string name="ads_filter">Blokiranje reklama</string>
+    <string name="prevent_jump">Blokiranje skočnih prozora</string>
+    <string name="voice_helper_use_input_method_title">Koristiti tekstne upite umjesto glasovnih naredbi</string>
+    <string name="input_content">Upišite upit</string>
+    <string name="select_segmentation_mode">Izaberite način dijeljenja riječi</string>
+    <string name="msg_start_find">Pretraga je pokrenuta%s, Molimo lagano okrećite kameru telefona.</string>
+    <string name="msg_stop_find">Pretraga je zaustavljena.</string>
+    <string name="command_all_node">Pokaži sve stavke na zaslonu</string>
+    <string name="sound_inputmethod_show">Tipkovnica se prikazuje</string>
+    <string name="sound_inputmethod_hide">Tipkovnica je sakrivena</string>
+    <string name="command_node_menu">Radnje za trenutni čvor</string>
+    <string name="command_take_screenshot2">Snimak trenutne stavke</string>
+    <string name="sound_auto_ocr_done">Automatsko prepoznavanje teksta je dovršeno</string>
+    <string name="sound_auto_ocr_error">Greška pri automatskom prepoznavanju teksta</string>
+    <string name="custom_search_engine_title">Psobne postavle pretraživača</string>
+    <string name="app_profiles_title">Profili za određene aplikacije</string>
+    <string name="edit_app_profiles_title">Urediti profil za određenu aplikaciju</string>
+    <string name="auto_focus_title">Automatsko fokusiranje</string>
+    <string name="command_pause_gesture">Pauzirati geste čitača ekrana</string>
+    <string name="msg_gesture_disabled">Geste čitača ekrana su onemogućene</string>
+    <string name="msg_gesture_enabled">Geste čitača paslona su ponovo omogućene</string>
+    <string name="tts_low_latency_title">Način bržeg odaziva za govorne jedinice</string>
+    <string name="use_auto_view_type_title">自动切换浏览类型</string>
+    <string name="use_ext_actions_gesture_title">在支持操作的焦点切换操作</string>
+    <string name="use_input_method_no_gesture_title">弹出输入法时暂停读屏手势</string>
+    <string name="command_grid_mode">网格模式</string>
+    <string name="resume_on_screen_off_title">当屏幕关闭时恢复反馈</string>
+    <string name="app_no_key_shortcut_title">不使用音量快捷键的应用</string>
+    <string name="sort_title">排序</string>
+    <string name="sort_name">按名称</string>
+    <string name="sort_time">按时间</string>
+    <string name="use_reverse_scroll_home_page_title">在桌面翻页时反转翻页方向</string>
+    <string name="all_description">全能识别</string>
+    <string name="checkbox_description">识别复选框</string>
+    <string name="msg_checkbox_not_found">没有未选中复选框</string>
 
 </resources>

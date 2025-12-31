@@ -86,7 +86,7 @@
     <string name="use_log_title">Activer la journalisation: </string>
     <string name="notification_speak_title">Lire les notifications: </string>
     <string name="plugin_title">plugins</string>
-    <string name="action_menu_title">menu d\'actions</string>
+    <string name="action_menu_title">menu des actions du texte</string>
     <string name="clipboard_menu_title">presse-papier</string>
     <string name="select_menu_title">Sélection du texte</string>
     <string name="all_text_title">modifications du texte intégral</string>
@@ -127,7 +127,7 @@
     <string name="clipboard_manager_title">Gérer le presse-papier</string>
     <string name="label_manager_title">Gérer les étiquettes personnalisées</string>
     <string name="menu_manager_title">Gérer le menu principal</string>
-    <string name="menu_up_tap_title">Levez le doigt Pour activer les éléments du menu principal et du menu d\'actions: </string>
+    <string name="menu_up_tap_title">Levez le doigt Pour activer les éléments du menu principal et du menu des actions du texte:</string>
     <string name="navigation_up_tap_title">Levez le doigt pour activer les touches de navigation logicielles: </string>
     <string name="only_notification_title">reprendre la parole et les gestes à partir de panneau de notification, Ou en appuyant simultanément sur les touches de volume:</string>
     <string name="send_log_title">Envoyer les journaux d\'utilisation</string>
@@ -135,7 +135,7 @@
     <string name="long_click_summary">la durée après laquelle l\'action appui longue est activée</string>
     <string name="split_select_title">Mode multi-sélection</string>
     <string name="use_up_long_click_title">simuler une pression prolongée de l\'accessibilité: </string>
-    <string name="use_up_long_click_summary">cliquer une fois avec 1 doigt sur l\'élément  ciblé puis rester appuyer pour simuler une pression prolongée. cette option compatible avec les fonctionnalités intitulées: Cliquez une fois sur l\'élément ciblé pour activer, et lever le doigt pour activer.</string>
+    <string name="use_up_long_click_summary">cliquer une fois sur l\'élément ciblé puis rester appuyer pour simuler une pression prolongée. cette option compatible avec les fonctionnalités intitulées: Cliquez une fois sur l\'élément ciblé pour activer, et lever le doigt pour activer.</string>
     <string name="backup_manager_title">Gérer les sauvegardes</string>
     <string name="user_letter_map_title">Utiliser le dictionnaire personnalisé (redémarrage requis pour appliquer): </string>
     <string name="tts_use_offline_title">Utiliser les TTS en ligne: </string>
@@ -176,7 +176,7 @@
     <string name="message_load_done">La ressource a été importée avec succès.</string>
     <string name="tool_title">Outils</string>
     <string name="directory_tools">Tools</string>
-    <string name="ocr_title">Reconnaissance du texte à l\'écran actuell</string>
+    <string name="ocr_title">Reconnaissance du texte de l\'écran</string>
     <string name="tool_manager_title">Gérer les outils</string>
     <string name="message_load_error">Impossible d\'importer la ressource</string>
     <string name="manager_activity_title">gestion des ressources</string>
@@ -323,7 +323,7 @@
     <string name="general_speak_list_title">Lire les informations de la liste </string>
     <string name="general_settings_title">Paramètres généraux</string>
     <string name="use_custom_gesture_title">Utilisez le thème des gestes personnalisé:</string>
-    <string name="custom_gesture_settings_title">paramètres du thème personnalisez</string>
+    <string name="custom_gesture_settings_title">paramètres du thème personnalisé</string>
     <string name="use_foreground_pro_title">Amélioration du sommeil de l\'écran anti-blocage: </string>
     <string name="use_foreground_pro_summary">Si le téléphone est éteint et que l\'hibernation est sérieuse, vous pouvez essayer cette option.Lorsque vous fermez l\'écran, définissez le commentaire sur la fenêtre au premier plan</string>
     <string name="use_power_save_title">Mode économie d\'énergie: </string>
@@ -392,7 +392,7 @@
     <string name="use_wake_lock_pro_title">Gardez l\'écran allumé avec une technologie améliorée</string>
     <string name="use_wake_lock_pro_summary">Si l\'option ci-dessus ne fonctionne pas, veuillez utiliser celle-ci</string>
     <string name="more_setting">Autres</string>
-    <string name="kayword">Entrez un mot-clef</string>
+    <string name="keyword">Entrez un mot-clef</string>
     <string name="notification_black_list_summary">Les notifications ajoutées à la liste noire ne seront pas prononcées, Y compris les titres des fenêtres.</string>
     <string name="notification_white_list_summary"> Les notifications ajoutées à la liste blanche seront toujours prononcées, Même si la lecture des notifications est désactivée</string>
     <string name="system_tts_volume_title">volume de synthèse vocale du système</string>
@@ -459,7 +459,7 @@
     <string name="command_play_control">Contrôle de la lecture</string>
     <string name="command_read_mode">Mode lecture</string>
     <string name="command_verbatim_speak">Mode mot par mot</string>
-    <string name="command_verbatim_speak2">Épeler le focus actuel</string>
+    <string name="command_verbatim_speak2">Épeler le texte de l’élément</string>
     <string name="command_to_previous_focus">éléments précédents</string>
     <string name="command_to_next_focus">éléments suivants</string>
     <string name="command_to_previous_page">Page précédente</string>
@@ -564,7 +564,7 @@
     <string name="command_voice_helper">assistant vocal</string>
     <string name="command_voice_input">Dictée vocale</string>
     <string name="command_ocr">Reconnaissance d\'image</string>
-    <string name="command_ocr_text">Reconnaissance du texte à l\'écran actuell</string>
+    <string name="command_ocr_text">Reconnaissance du texte de l\'écran</string>
     <string name="camera_title">caméra de reconnaissance</string>
     <string name="command_disable_touch">Suspendre l\'exploration par toucher</string>
     <string name="command_disable_feedback">suspendre la parole et les gestes</string>
@@ -648,7 +648,7 @@
 
 
     <string name="command_supper_mode">Mode de navigation détaillé</string>
-    <string name="command_ocr_focus">Reconnaissance du texte ciblé .</string>
+    <string name="command_ocr_focus">Reconnaissance du texte de l’élément</string>
     <string name="navi">navigation</string>
     <string name="unknown_index_title">Lire l\'index  de l\'élément: </string>
     <string name="unknown_index_summary">Lire le numéro d\'index de l\'élément Par indexation d\'application,,  s\'il n\'a pas d\'étiquette ou d\'ID</string>
@@ -744,7 +744,7 @@
     <string name="save">sauvegarder</string>
     <string name="saved">Enregistrée</string>
     <string name="edit_name">Modifier le nom</string>
-    <string name="actions">actions</string>
+    <string name="actions">actions de l’élément</string>
     <string name="share">Partager</string>
     <string name="move_to_up">Monter</string>
     <string name="move_to_down">Descendre</string>
@@ -896,7 +896,7 @@
     <string name="use_ocr_baidu_help">Veuillez vous inscrire sur: https://ai.baidu.com pour en savoir plus sur les textes, les images, les plantes, les animaux, les fruits et les légumes et l\'argent</string>
     <string name="ocr_setting">Paramètres o c r</string>
     <string name="ocr_lang_title">Langue de reconnaissance: </string>
-    <string name="ocr_lang_summary">Cela ne fonctionne que lorsque vous choisissez Tencent Cloud </string>
+    <string name="ocr_lang_summary">Cela ne fonctionne que lorsque vous choisissez Offline OCR </string>
     <string name="ocr_baidu_summary">Cela ne fonctionne que lorsque vous choisissez Baidu OCR</string>
     <string name="add_from_focus_node">Ajouter le focus actuel</string>
     <string name="add_from_virtual_screen">Ajouter via l\'écran virtuel</string>
@@ -1181,7 +1181,7 @@
     <string name="add_favorites">Ajouter aux favoris</string>
     <string name="save_as_file">exporter comme un fichier Dans le dossier Notes</string>
     <string name="save_as_cloud">exporter comme une note sur le cloud</string>
- <string name="msg_toggle_tts">Moteur changé</string>
+    <string name="msg_toggle_tts">Moteur changé</string>
     <string name="curren_char_idx">%d lignes, %d caractères. </string>
     <string name="command_add_content_blacklist">Ajouter à la Liste noire des contenu</string>
     <string name="command_media_previous">piste précédente</string>
@@ -1289,9 +1289,9 @@
     <string name="nodeinfo_type">type: </string>
     <string name="nodeinfo_text">text: </string>
     <string name="nodeinfo_content_description">Description de l\'accessibilité: </string>
-    <string name="nodeinfo_state_description">Description de l\'état:</string>
+    <string name="nodeinfo_state_description">Description de l\'état: </string>
     <string name="nodeinfo_resource_name">resource name: </string>
-    <string name="nodeinfo_indoex">index:</string>
+    <string name="nodeinfo_indoex">index: </string>
     <string name="nodeinfo_bounds_in_screen">Emplacement: </string>
     <string name="nodeinfo_parent">racine: </string>
     <string name="nodeinfo_childs">Sous noeud: </string>
@@ -1316,7 +1316,7 @@
     <string name="split_row_keyword_title">Modifier le fractionnement  Personnalisé du texte: </string>
     <string name="split_row_keyword_summary">Le texte peut être Fractionner par des symboles, des mots ou des phrases. Mettez le bar verticale entre chaque élément, Les symboles peuvent également être placés entre crochets.</string>
     <string name="command_false_touch_prevention">Activer le verrouillage tactile</string>
-	<string name="my">MOI</string>
+    <string name="my">MOI</string>
     <string name="backgroud_download">télécharger en arrière-plan</string>
     <string name="cancel_download">Annuler le téléchargement</string>
     <string name="comment">Commentaire</string>
@@ -1615,8 +1615,8 @@
     <string name="battery_charging">. Mise en charge, </string>
     <string name="default_gesture_setting_title">paramètres par défaut des gestes. </string>
     <string name="default_gesture_setting_summary">Si la fonction affectée au geste n\'est pas exécutée, la fonction par défaut sera exécutée à la place.</string>
-    <string name="use_action_menu_show_cursor_title">Afficher les actions de l\'élément ciblé dans le menu d\'actions:</string>
-    <string name="use_action_menu_show_ext_title">Afficher les actions supplémentaires Comme les éléments interactable et le déplacement du curseur dans le menu d\'actions: </string>
+    <string name="use_action_menu_show_cursor_title">Afficher les actions de l\'élément ciblé dans le :menu des actions du texte:</string>
+    <string name="use_action_menu_show_ext_title">Afficher les actions supplémentaires Comme les éléments interactable et le déplacement du curseur dans le menu des actions du texte:</string>
     <string name="find_next">résultats suivant</string>
     <string name="find_previous">résultats précédent</string>
 
@@ -1740,23 +1740,23 @@
     <string name="msg_a11y_volume_disabled">le volume d\'accessibilité a été suspendu.</string>
     <string name="msg_a11y_volume_enabled">le volume d\'accessibilité a été repris..</string>
     <string name="content_blacklist_description">Le contenu ajouté à la liste noire ne sera pas lu lors de la navigation.
-Il est utilisé pour filtrer les descriptions d\'accessibilité inutiles ou invalides. 
-Vous pouvez saisir une partie du nom de l\'élément afin de l\'ajouter à la liste noire et contrôler la correspondance via l\'astérisque. 
-Si l\'astérisque est après le texte saisi, cela signifie que la correspondance est au début du nom. 
-Exemple: 
+Il est utilisé pour filtrer les descriptions d\'accessibilité inutiles ou invalides.
+Vous pouvez saisir une partie du nom de l\'élément afin de l\'ajouter à la liste noire et contrôler la correspondance via l\'astérisque.
+Si l\'astérisque est après le texte saisi, cela signifie que la correspondance est au début du nom.
+Exemple:
 Image de profil pour* dans WhatsApp.
 Si l\'astérisque est devant le texte saisi, cela signifie que la correspondance est à la fin du nom.
 Exemple:
 *arrière-plan dans Facebook.
-Si le texte saisi est entre les deux astérisques, cela signifie que la correspondance est au début, à la fin ou au milieu du nom. 
-Exemple: 
+Si le texte saisi est entre les deux astérisques, cela signifie que la correspondance est au début, à la fin ou au milieu du nom.
+Exemple:
 S\'il n\'y a pas d\'astérisque, cela signifie que la correspondance doit être complète.</string>
     <string name="auto_speak_blacklist_description">Le contenu ajouté à la liste noire des messages ne sera pas lu lors de la lecture automatique des messages.
-Il est utilisé pour filtrer le spam ou les messages inappropriés. 
-Vous pouvez saisir une partie du nom de l\'élément afin de l\'ajouter à la liste noire et contrôler la correspondance via l\'astérisque. 
-Si l\'astérisque est après le texte saisi, cela signifie que la correspondance est au début du nom. 
+Il est utilisé pour filtrer le spam ou les messages inappropriés.
+Vous pouvez saisir une partie du nom de l\'élément afin de l\'ajouter à la liste noire et contrôler la correspondance via l\'astérisque.
+Si l\'astérisque est après le texte saisi, cela signifie que la correspondance est au début du nom.
 Si l\'astérisque est devant le texte saisi, cela signifie que la correspondance est à la fin du nom.
-Si le texte saisi est entre les deux astérisques, cela signifie que la correspondance est au début, à la fin ou au milieu du nom. 
+Si le texte saisi est entre les deux astérisques, cela signifie que la correspondance est au début, à la fin ou au milieu du nom.
 S\'il n\'y a pas d\'astérisque, cela signifie que la correspondance doit être complète.</string>
     <string name="notification_black_list_description">Les notifications ajoutées à la liste noire ne seront pas prononcées, Y compris les titres des fenêtres.
 Mais cela sera enregistré dans la boîte de notification.
@@ -1783,7 +1783,55 @@ Si vous souhaitez lire toutes les notifications d\'une application spécifique, 
     <string name="sound_talkman_start">Activation Jieshuo:</string>
     <string name="sound_talkman_stop">Désactivation Jieshuo:</string>
     <string name="sound_camera">Prendre une photo:</string>
-    <string name="voice_picture_description">interroger vocalement sur le contenu de focus actuel</string>
-    <string name="voice_picture_description2">interroger vocalement sur le contenu de l\'écran actuel</string>
+    <string name="voice_picture_description">interroger sur le contenu de l’élément</string>
+    <string name="voice_picture_description2">interroger sur le contenu de l\'écran</string>
+    <string name="ocr_lang_en">English</string>
+    <string name="video_description">description de la vidéo</string>
+    <string name="msg_start_video_description">description de la vidéo et démarrer</string>
+    <string name="msg_stop_video_description">description de la vidéo est arrêtée</string>
+    <string name="use_image_to_text_title">description automatique de l\'image:</string>
+    <string name="voice_question">Interroger sur le contenu de la scène actuelle</string>
+    <string name="find_object">Trouver des objets</string>
+    <string name="use_long_click_voice_image_title">cliquer une fois  sur l\'élément ciblé puis rester appuyer pour l\'interroger:</string>
+    <string name="use_text_stat_title">Utilisation des fonctions par défaut pour les gestes du rebond horizontal dans la zone de texte:</string>
+    <string name="use_text_stat_summary">balayer vers la droite puis vers la gauche Pour connaître le nombre des caractères  et la position du curseur,
+Ou balayer vers la gauche puis vers la droite Pour épeler  le texte saisi.</string>
+    <string name="use_move_window_title">Changement automatique de fenêtre:</string>
+    <string name="ads_filter">Bloquer les publicités:</string>
+    <string name="prevent_jump">Bloquer la redirection des pages:</string>
+    <string name="voice_helper_use_input_method_title">Utiliser la saisie de texte au lieu de la saisie vocale pour l\'interaction:</string>
+    <string name="input_content">Entrer le texte</string>
+    <string name="select_segmentation_mode">"Choisir le mode de fractionnement.</string>
+    <string name="msg_start_find">recherche en cours %s, veuillez déplacer votre téléphone lentement.</string>
+    <string name="msg_stop_find">Recherche arrêtée.</string>
+    <string name="command_all_node">Afficher tous les nœuds</string>
+    <string name="sound_inputmethod_show">Clavier ouvert: </string>
+    <string name="sound_inputmethod_hide">Clavier fermé: </string>
+    <string name="command_node_menu">options de l’élément</string>
+    <string name="command_take_screenshot2">Capture de l’élément</string>
+    <string name="sound_auto_ocr_done">Succès de la reconnaissance automatique: </string>
+    <string name="sound_auto_ocr_error">Erreur de la reconnaissance automatique: </string>
+    <string name="custom_search_engine_title">Paramètres du moteur de recherche personnalisé</string>
+    <string name="app_profiles_title">单应用情景模式</string>
+    <string name="edit_app_profiles_title">编辑单应用情景模式</string>
+    <string name="auto_focus_title">Focus automatique sur le premier élément:</string>
+    <string name="command_pause_gesture">suspendre les gestes de Jieshuo</string>
+    <string name="msg_gesture_disabled">Les gestes de Jieshuo sont suspendus</string>
+    <string name="msg_gesture_enabled">Les gestes de Jieshuo sont repris</string>
+    <string name="tts_low_latency_title">Mode faible de la synthèse vocale:</string>
+    <string name="ocr_level_title">Qualité du moteur de reconnaissance hors ligne:</string>
+    <string name="use_auto_view_type_title">Basculer automatiquement le type de navigation vers les Actions lorsqu’elles sont disponibles:</string>
+    <string name="use_ext_actions_gesture_title">naviguer dans les Actions en balayant Vers le bas ou vers le haut:</string>
+    <string name="use_input_method_no_gesture_title">Suspendre les gestes lors de la navigation au clavier:</string>
+    <string name="command_grid_mode">interaction avec l’écran  par grille</string>
+    <string name="resume_on_screen_off_title">reprendre la parole et les gestes lors de l’extinction de l’écran:</string>
+    <string name="app_no_key_shortcut_title">Choisissez des applications dans lesquelles les raccourcis des boutons de volume ne sont pas utilisés:</string>
+    <string name="sort_title">Trier par</string>
+    <string name="sort_name">nom</string>
+    <string name="sort_time">date</string>
+    <string name="use_reverse_scroll_home_page_title">Inverser la direction du défilement des pages sur l’écran d’accueil:</string>
+    <string name="all_description">multi reconnaissance</string>
+    <string name="checkbox_description">Reconnaître les cases à cocher</string>
+    <string name="msg_checkbox_not_found">aucune case à décocher</string>
 
 </resources>

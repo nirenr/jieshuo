@@ -1,0 +1,3698 @@
+{
+  "use_auto_update_title": [
+    [
+      "advanced_setting.xml",
+      "other_setting",
+      "use_auto_update_title"
+    ]
+  ],
+  "next_chapter_title": [
+    [
+      "advanced_setting.xml",
+      "read_mode_setting",
+      "next_chapter_title"
+    ]
+  ],
+  "voice_helper_use_supper_cmd_title": [
+    [
+      "voice_helper_setting.xml",
+      "voice_helper_capability_setting",
+      "voice_helper_use_supper_cmd_title"
+    ]
+  ],
+  "use_down_right_double_fling_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "down_right_double_fling_setting",
+      "use_down_right_double_fling_gesture_title"
+    ]
+  ],
+  "use_custom_node_name_title": [
+    [
+      "content_setting.xml",
+      "custom_content_title",
+      "use_custom_node_name_title"
+    ]
+  ],
+  "node_tts_setting_title": [
+    [
+      "voice_setting.xml",
+      "more_tts_setting_title",
+      "node_tts_setting_title"
+    ]
+  ],
+  "screen_on_off_settings_title": [
+    [
+      "content_setting.xml",
+      "screen_on_off_settings_title"
+    ]
+  ],
+  "incall_tts_setting_title": [
+    [
+      "content_setting.xml",
+      "incall_setting_title",
+      "incall_tts_setting_title"
+    ],
+    [
+      "voice_setting.xml",
+      "more_tts_setting_title",
+      "incall_tts_setting_title"
+    ]
+  ],
+  "use_touch_mode_title": [
+    [
+      "advanced_setting.xml",
+      "action_settings_title",
+      "use_touch_mode_title"
+    ]
+  ],
+  "user_invite_title": [
+    [
+      "user_setting.xml",
+      "user_invite_title"
+    ]
+  ],
+  "app_hot_key_package_title": [
+    [
+      "action_setting.xml",
+      "custom_hot_key_settings_title",
+      "app_hot_key_package_title"
+    ]
+  ],
+  "use_show_text_title": [
+    [
+      "advanced_setting.xml",
+      "other_setting",
+      "use_show_text_title"
+    ]
+  ],
+  "auto_read_tts_setting_title": [
+    [
+      "voice_setting.xml",
+      "more_tts_setting_title",
+      "auto_read_tts_setting_title"
+    ]
+  ],
+  "use_timer_stream_type_title": [
+    [
+      "timer_tts_setting.xml",
+      "use_timer_stream_type_title"
+    ]
+  ],
+  "tts_speed_title": [
+    [
+      "uni_sound_setting.xml",
+      "tts_speed_title"
+    ],
+    [
+      "async_tts_setting.xml",
+      "tts_speed_title"
+    ],
+    [
+      "main_tts_setting.xml",
+      "tts_speed_title"
+    ],
+    [
+      "timer_tts_setting.xml",
+      "tts_speed_title"
+    ],
+    [
+      "system_tts_setting.xml",
+      "tts_speed_title"
+    ],
+    [
+      "general_setting.xml",
+      "tts_speed_title"
+    ]
+  ],
+  "acc_settings_title": [
+    [
+      "setting.xml",
+      "acc_settings_title"
+    ]
+  ],
+  "notification_summary_title": [
+    [
+      "notification_setting.xml",
+      "notification_summary_title"
+    ]
+  ],
+  "down_volume_2_key_title": [
+    [
+      "action_setting.xml",
+      "key_shortcut_setting_title",
+      "down_volume_2_key_title"
+    ]
+  ],
+  "open_application_info_title": [
+    [
+      "setup.xml",
+      "open_application_info_title"
+    ]
+  ],
+  "user_validity_title": [
+    [
+      "user_setting.xml",
+      "user_validity_title"
+    ]
+  ],
+  "vibrate_title": [
+    [
+      "feed_setting.xml",
+      "vibrate_title"
+    ]
+  ],
+  "left_edge_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "edge_gesture_title",
+      "left_edge_gesture_title"
+    ]
+  ],
+  "use_emoji_speak_mode_title": [
+    [
+      "voice_setting.xml",
+      "use_emoji_speak_mode_title"
+    ]
+  ],
+  "use_window_title_changed_title": [
+    [
+      "content_setting.xml",
+      "view_changed_settings_title",
+      "use_window_title_changed_title"
+    ]
+  ],
+  "voice_help_title": [
+    [
+      "help_feed_setting.xml",
+      "voice_help_title"
+    ]
+  ],
+  "left_right_double_fling_setting": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "left_right_double_fling_setting"
+    ]
+  ],
+  "auto_list_tts_setting_title": [
+    [
+      "content_setting.xml",
+      "auto_speak_title",
+      "auto_list_tts_setting_title"
+    ],
+    [
+      "voice_setting.xml",
+      "more_tts_setting_title",
+      "auto_list_tts_setting_title"
+    ]
+  ],
+  "use_move_text_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "left_right_gesture_title",
+      "use_move_text_gesture_title"
+    ]
+  ],
+  "custom_symbol_title": [
+    [
+      "voice_setting.xml",
+      "custom_symbol_title"
+    ]
+  ],
+  "use_game_mode_no_speak_title": [
+    [
+      "action_setting.xml",
+      "game_mode_setting",
+      "use_game_mode_no_speak_title"
+    ]
+  ],
+  "use_input_method_no_gesture_title": [
+    [
+      "advanced_setting.xml",
+      "input_setting_title",
+      "use_input_method_no_gesture_title"
+    ]
+  ],
+  "use_speak_key_title": [
+    [
+      "content_setting.xml",
+      "hints_list_settings_title",
+      "use_speak_key_title"
+    ]
+  ],
+  "resume_on_screen_on_title": [
+    [
+      "advanced_setting.xml",
+      "action_settings_title",
+      "resume_on_screen_on_title"
+    ]
+  ],
+  "resume_on_screen_off_title": [
+    [
+      "advanced_setting.xml",
+      "action_settings_title",
+      "resume_on_screen_off_title"
+    ]
+  ],
+  "notification_bar_speak_title": [
+    [
+      "notification_setting.xml",
+      "notification_bar_speak_title"
+    ],
+    [
+      "general_setting.xml",
+      "notification_bar_speak_title"
+    ]
+  ],
+  "notification_white_list_title": [
+    [
+      "notification_setting.xml",
+      "notification_white_list_title"
+    ]
+  ],
+  "double_fling_time_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_time_title"
+    ]
+  ],
+  "timer_format_title": [
+    [
+      "content_setting.xml",
+      "screen_on_off_settings_title",
+      "timer_format_title"
+    ]
+  ],
+  "use_custom_speak_clear_title": [
+    [
+      "voice_setting.xml",
+      "speak_clear_setting",
+      "use_custom_speak_clear_title"
+    ]
+  ],
+  "use_add_async_tts_title": [
+    [
+      "voice_setting.xml",
+      "other_setting",
+      "use_add_async_tts_title"
+    ]
+  ],
+  "content_setting.xml": [
+    [
+      "content_setting.xml"
+    ]
+  ],
+  "down_volume_3_key_title": [
+    [
+      "action_setting.xml",
+      "key_shortcut_setting_title",
+      "down_volume_3_key_title"
+    ]
+  ],
+  "jieshuo_bbs_title": [
+    [
+      "help_feed_setting.xml",
+      "jieshuo_bbs_title"
+    ]
+  ],
+  "code_help_title": [
+    [
+      "help_feed_setting.xml",
+      "code_help_title"
+    ]
+  ],
+  "keep_focus_position_speak_title": [
+    [
+      "advanced_setting.xml",
+      "action_settings_title",
+      "keep_focus_position_speak_title"
+    ]
+  ],
+  "left_down_double_fling_setting": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "left_down_double_fling_setting"
+    ]
+  ],
+  "content_filter_settings_title": [
+    [
+      "content_setting.xml",
+      "content_filter_settings_title"
+    ]
+  ],
+  "use_upper_speak_title": [
+    [
+      "advanced_setting.xml",
+      "input_setting_title",
+      "use_upper_speak_title"
+    ]
+  ],
+  "use_speak_qq_changed_title": [
+    [
+      "content_setting.xml",
+      "auto_speak_title",
+      "use_speak_qq_changed_title"
+    ]
+  ],
+  "use_input_method_speak_commit_title": [
+    [
+      "advanced_setting.xml",
+      "input_setting_title",
+      "use_input_method_speak_commit_title"
+    ]
+  ],
+  "use_volume_on_long_speak_title": [
+    [
+      "action_setting.xml",
+      "key_shortcut_setting_title",
+      "use_volume_on_long_speak_title"
+    ]
+  ],
+  "use_fast_node_title": [
+    [
+      "action_setting.xml",
+      "scroll_gesture_settings_title",
+      "use_fast_node_title"
+    ]
+  ],
+  "use_move_window_title": [
+    [
+      "action_setting.xml",
+      "scroll_gesture_settings_title",
+      "use_move_window_title"
+    ]
+  ],
+  "edge_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "edge_gesture_title"
+    ]
+  ],
+  "use_text_format_char_upper_title": [
+    [
+      "content_setting.xml",
+      "text_format_settings_title",
+      "use_text_format_char_upper_title"
+    ]
+  ],
+  "use_input_method_no_touch_title": [
+    [
+      "advanced_setting.xml",
+      "input_setting_title",
+      "use_input_method_no_touch_title"
+    ]
+  ],
+  "key_shortcut_setting_title": [
+    [
+      "action_setting.xml",
+      "key_shortcut_setting_title"
+    ]
+  ],
+  "use_input_method_speak_word_title": [
+    [
+      "advanced_setting.xml",
+      "input_setting_title",
+      "use_input_method_speak_word_title"
+    ]
+  ],
+  "check_overlay_permissions_title": [
+    [
+      "setup.xml",
+      "check_overlay_permissions_title"
+    ]
+  ],
+  "use_auto_view_type_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "use_auto_view_type_title"
+    ]
+  ],
+  "voice_helper_capability_setting": [
+    [
+      "voice_helper_setting.xml",
+      "voice_helper_capability_setting"
+    ]
+  ],
+  "use_number_speak_title": [
+    [
+      "flytek_setting.xml",
+      "use_number_speak_title"
+    ],
+    [
+      "voice_setting.xml",
+      "other_setting",
+      "use_number_speak_title"
+    ]
+  ],
+  "ocr_baidu_setting": [
+    [
+      "advanced_setting.xml",
+      "ocr_setting",
+      "ocr_baidu_setting"
+    ]
+  ],
+  "double_fling_down_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "up_double_fling_setting",
+      "double_fling_down_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "down_double_fling_setting",
+      "double_fling_down_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "left_double_fling_setting",
+      "double_fling_down_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "right_double_fling_setting",
+      "double_fling_down_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "left_right_double_fling_setting",
+      "double_fling_down_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "right_left_double_fling_setting",
+      "double_fling_down_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "up_down_double_fling_setting",
+      "double_fling_down_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "down_up_double_fling_setting",
+      "double_fling_down_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "left_up_double_fling_setting",
+      "double_fling_down_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "left_down_double_fling_setting",
+      "double_fling_down_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "right_up_double_fling_setting",
+      "double_fling_down_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "right_down_double_fling_setting",
+      "double_fling_down_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "up_left_double_fling_setting",
+      "double_fling_down_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "up_right_double_fling_setting",
+      "double_fling_down_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "down_left_double_fling_setting",
+      "double_fling_down_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "down_right_double_fling_setting",
+      "double_fling_down_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "fingerprint_gesture_setting",
+      "double_fling_down_gesture_title"
+    ]
+  ],
+  "edge_gesture_width_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "edge_gesture_title",
+      "edge_gesture_width_title"
+    ]
+  ],
+  "use_raw_click_title": [
+    [
+      "action_setting.xml",
+      "click_settings_title",
+      "use_raw_click_title"
+    ]
+  ],
+  "click_settings_title": [
+    [
+      "action_setting.xml",
+      "click_settings_title"
+    ]
+  ],
+  "help_feed_setting.xml": [
+    [
+      "help_feed_setting.xml"
+    ]
+  ],
+  "web_app_name": [
+    [
+      "setting.xml",
+      "more_setting",
+      "web_app_name"
+    ]
+  ],
+  "timer_manager_title": [
+    [
+      "manager_setting.xml",
+      "timer_manager_title"
+    ],
+    [
+      "timer_setting.xml",
+      "timer_manager_title"
+    ]
+  ],
+  "app_no_supper_sound_package_title": [
+    [
+      "feed_setting.xml",
+      "app_no_supper_sound_package_title"
+    ]
+  ],
+  "use_screen_on_speak_notification_title": [
+    [
+      "content_setting.xml",
+      "screen_on_off_settings_title",
+      "use_screen_on_speak_notification_title"
+    ]
+  ],
+  "tts_settings_label": [
+    [
+      "voice_setting.xml",
+      "tts_settings_label"
+    ]
+  ],
+  "voice_input_append_mode_title": [
+    [
+      "voice_helper_setting.xml",
+      "voice_input_append_mode_title"
+    ]
+  ],
+  "use_slow_speed_title": [
+    [
+      "voice_setting.xml",
+      "other_setting",
+      "use_slow_speed_title"
+    ]
+  ],
+  "right_down_double_fling_setting": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "right_down_double_fling_setting"
+    ]
+  ],
+  "use_node_title": [
+    [
+      "action_setting.xml",
+      "scroll_gesture_settings_title",
+      "use_node_title"
+    ]
+  ],
+  "voice_helper_use_big_title": [
+    [
+      "voice_helper_setting.xml",
+      "voice_helper_capability_setting",
+      "voice_helper_use_big_title"
+    ]
+  ],
+  "voice_helper_media_mute_mode_title": [
+    [
+      "voice_helper_setting.xml",
+      "voice_helper_media_mute_mode_title"
+    ]
+  ],
+  "left_right_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "left_right_gesture_title"
+    ]
+  ],
+  "only_notification_title": [
+    [
+      "advanced_setting.xml",
+      "action_settings_title",
+      "only_notification_title"
+    ]
+  ],
+  "tts_system_settings_title": [
+    [
+      "system_tts_setting.xml",
+      "tts_system_settings_title"
+    ],
+    [
+      "voice_setting.xml",
+      "tts_system_settings_title"
+    ]
+  ],
+  "double_fling_setting": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting"
+    ]
+  ],
+  "custom_speak_symbol_number_title": [
+    [
+      "voice_setting.xml",
+      "speak_clear_setting",
+      "custom_speak_symbol_number_title"
+    ]
+  ],
+  "cloud_multi_backup_title": [
+    [
+      "advanced_setting.xml",
+      "backup_restore_settings_title",
+      "cloud_multi_backup_title"
+    ]
+  ],
+  "auto_speak_apps_title": [
+    [
+      "content_setting.xml",
+      "auto_speak_title",
+      "auto_speak_apps_title"
+    ]
+  ],
+  "right_edge_gesture_items_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "edge_gesture_title",
+      "right_edge_gesture_items_title"
+    ]
+  ],
+  "help_feed_title": [
+    [
+      "setting.xml",
+      "help_feed_title"
+    ]
+  ],
+  "helper_supper_cmd_title": [
+    [
+      "voice_helper_setting.xml",
+      "helper_supper_cmd_title"
+    ]
+  ],
+  "right_left_double_fling_setting": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "right_left_double_fling_setting"
+    ]
+  ],
+  "tts_speaker_title": [
+    [
+      "flytek_setting.xml",
+      "tts_speaker_title"
+    ]
+  ],
+  "use_speak_changed_window_title": [
+    [
+      "content_setting.xml",
+      "hints_list_settings_title",
+      "use_speak_changed_window_title"
+    ]
+  ],
+  "use_speak_state_title": [
+    [
+      "content_setting.xml",
+      "view_label_settings_title",
+      "use_speak_state_title"
+    ]
+  ],
+  "alarm_interval_title": [
+    [
+      "timer_setting.xml",
+      "alarm_interval_title"
+    ]
+  ],
+  "voice_helper_use_tool_title": [
+    [
+      "voice_helper_setting.xml",
+      "voice_helper_capability_setting",
+      "voice_helper_use_tool_title"
+    ]
+  ],
+  "gesture_settings_title": [
+    [
+      "action_setting.xml",
+      "gesture_settings_title"
+    ]
+  ],
+  "ocr_baidu_key_title": [
+    [
+      "advanced_setting.xml",
+      "ocr_setting",
+      "ocr_baidu_setting",
+      "ocr_baidu_key_title"
+    ]
+  ],
+  "vip_qq_kefu_title": [
+    [
+      "user_setting.xml",
+      "vip_qq_kefu_title"
+    ]
+  ],
+  "left_edge_gesture_items_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "edge_gesture_title",
+      "left_edge_gesture_items_title"
+    ]
+  ],
+  "use_down_left_double_fling_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "down_left_double_fling_setting",
+      "use_down_left_double_fling_gesture_title"
+    ]
+  ],
+  "use_headset_key_title": [
+    [
+      "action_setting.xml",
+      "key_shortcut_setting_title",
+      "use_headset_key_title"
+    ]
+  ],
+  "timer_tts_setting_title": [
+    [
+      "timer_setting.xml",
+      "timer_tts_setting_title"
+    ],
+    [
+      "voice_setting.xml",
+      "more_tts_setting_title",
+      "timer_tts_setting_title"
+    ]
+  ],
+  "tts_iflytek_settings_title": [
+    [
+      "voice_setting.xml",
+      "tts_iflytek_settings_title"
+    ]
+  ],
+  "use_fingerprint_gesture_title": [
+    [
+      "action_setting.xml",
+      "fingerprint_gesture_setting",
+      "use_fingerprint_gesture_title"
+    ]
+  ],
+  "hot_key_manager_title": [
+    [
+      "action_setting.xml",
+      "custom_hot_key_settings_title",
+      "hot_key_manager_title"
+    ],
+    [
+      "manager_setting.xml",
+      "hot_key_manager_title"
+    ]
+  ],
+  "use_wake_lock_pro_title": [
+    [
+      "voice_setting.xml",
+      "other_setting",
+      "use_wake_lock_pro_title"
+    ]
+  ],
+  "use_accessibility_volume_title": [
+    [
+      "async_tts_setting.xml",
+      "use_accessibility_volume_title"
+    ],
+    [
+      "main_tts_setting.xml",
+      "use_accessibility_volume_title"
+    ]
+  ],
+  "check_alarm_permissions_title": [
+    [
+      "setup.xml",
+      "check_alarm_permissions_title"
+    ]
+  ],
+  "pref_donate_paypal": [
+    [
+      "help_feed_setting.xml",
+      "pref_donate_paypal"
+    ]
+  ],
+  "use_long_click_voice_image_title": [
+    [
+      "voice_helper_setting.xml",
+      "use_long_click_voice_image_title"
+    ]
+  ],
+  "float_menu_items_title": [
+    [
+      "advanced_setting.xml",
+      "menu_settings_title",
+      "float_menu_items_title"
+    ]
+  ],
+  "use_screen_on_speak_title": [
+    [
+      "content_setting.xml",
+      "screen_on_off_settings_title",
+      "use_screen_on_speak_title"
+    ]
+  ],
+  "use_scroll_list_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "left_right_gesture_title",
+      "use_scroll_list_gesture_title"
+    ]
+  ],
+  "use_reverse_scroll_home_page_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "left_right_gesture_title",
+      "use_reverse_scroll_home_page_title"
+    ]
+  ],
+  "ocr_baidu_secret_title": [
+    [
+      "advanced_setting.xml",
+      "ocr_setting",
+      "ocr_baidu_setting",
+      "ocr_baidu_secret_title"
+    ]
+  ],
+  "previous_chapter_title": [
+    [
+      "advanced_setting.xml",
+      "read_mode_setting",
+      "previous_chapter_title"
+    ]
+  ],
+  "setting.xml": [
+    [
+      "setting.xml"
+    ]
+  ],
+  "input_setting_title": [
+    [
+      "advanced_setting.xml",
+      "input_setting_title"
+    ]
+  ],
+  "use_up_right_double_fling_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "up_right_double_fling_setting",
+      "use_up_right_double_fling_gesture_title"
+    ]
+  ],
+  "long_click_title": [
+    [
+      "action_setting.xml",
+      "click_settings_title",
+      "long_click_title"
+    ]
+  ],
+  "setup_plugin_title": [
+    [
+      "advanced_setting.xml",
+      "setup_plugin_title"
+    ]
+  ],
+  "auto_speak_title": [
+    [
+      "content_setting.xml",
+      "auto_speak_title"
+    ]
+  ],
+  "custom_node_name_title": [
+    [
+      "content_setting.xml",
+      "custom_content_title",
+      "custom_node_name_title"
+    ]
+  ],
+  "double_fling_left_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "up_double_fling_setting",
+      "double_fling_left_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "down_double_fling_setting",
+      "double_fling_left_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "left_double_fling_setting",
+      "double_fling_left_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "right_double_fling_setting",
+      "double_fling_left_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "left_right_double_fling_setting",
+      "double_fling_left_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "right_left_double_fling_setting",
+      "double_fling_left_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "up_down_double_fling_setting",
+      "double_fling_left_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "down_up_double_fling_setting",
+      "double_fling_left_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "left_up_double_fling_setting",
+      "double_fling_left_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "left_down_double_fling_setting",
+      "double_fling_left_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "right_up_double_fling_setting",
+      "double_fling_left_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "right_down_double_fling_setting",
+      "double_fling_left_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "up_left_double_fling_setting",
+      "double_fling_left_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "up_right_double_fling_setting",
+      "double_fling_left_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "down_left_double_fling_setting",
+      "double_fling_left_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "down_right_double_fling_setting",
+      "double_fling_left_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "fingerprint_gesture_setting",
+      "double_fling_left_gesture_title"
+    ]
+  ],
+  "flytek_setting.xml": [
+    [
+      "flytek_setting.xml"
+    ]
+  ],
+  "shake_action_call_title": [
+    [
+      "action_setting.xml",
+      "other_setting",
+      "shake_action_call_title"
+    ]
+  ],
+  "notification_announcement_speak_title": [
+    [
+      "notification_setting.xml",
+      "notification_announcement_speak_title"
+    ]
+  ],
+  "tts_scale_title": [
+    [
+      "uni_sound_setting.xml",
+      "tts_scale_title"
+    ],
+    [
+      "async_tts_setting.xml",
+      "tts_scale_title"
+    ],
+    [
+      "main_tts_setting.xml",
+      "tts_scale_title"
+    ],
+    [
+      "timer_tts_setting.xml",
+      "tts_scale_title"
+    ],
+    [
+      "system_tts_setting.xml",
+      "tts_scale_title"
+    ]
+  ],
+  "view_label_settings_title": [
+    [
+      "content_setting.xml",
+      "view_label_settings_title"
+    ]
+  ],
+  "fly_pinyin_speak_title": [
+    [
+      "flytek_setting.xml",
+      "fly_pinyin_speak_title"
+    ]
+  ],
+  "use_power_save_title": [
+    [
+      "advanced_setting.xml",
+      "power_settings_title",
+      "use_power_save_title"
+    ]
+  ],
+  "use_long_click_voice_input_title": [
+    [
+      "voice_helper_setting.xml",
+      "use_long_click_voice_input_title"
+    ]
+  ],
+  "unknown_lable_title": [
+    [
+      "content_setting.xml",
+      "view_label_settings_title",
+      "unknown_lable_title"
+    ]
+  ],
+  "notification_black_list_title": [
+    [
+      "notification_setting.xml",
+      "notification_black_list_title"
+    ]
+  ],
+  "download_sound_package_title": [
+    [
+      "feed_setting.xml",
+      "download_sound_package_title"
+    ]
+  ],
+  "user_key_title": [
+    [
+      "user_setting.xml",
+      "user_key_title"
+    ]
+  ],
+  "voice_helper_use_input_method_title": [
+    [
+      "voice_helper_setting.xml",
+      "voice_helper_use_input_method_title"
+    ]
+  ],
+  "use_touch_stop_title": [
+    [
+      "async_tts_setting.xml",
+      "use_touch_stop_title"
+    ],
+    [
+      "main_tts_setting.xml",
+      "use_touch_stop_title"
+    ]
+  ],
+  "use_virtual_screen_dim_background_title": [
+    [
+      "advanced_setting.xml",
+      "ocr_setting",
+      "use_virtual_screen_dim_background_title"
+    ]
+  ],
+  "about_title": [
+    [
+      "help_feed_setting.xml",
+      "about_title"
+    ]
+  ],
+  "camera_title": [
+    [
+      "setting.xml",
+      "more_setting",
+      "camera_title"
+    ]
+  ],
+  "web_type_move_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "web_type_move_title"
+    ]
+  ],
+  "action_setting_title": [
+    [
+      "setting.xml",
+      "action_setting_title"
+    ]
+  ],
+  "use_speak_call_time_title": [
+    [
+      "content_setting.xml",
+      "incall_setting_title",
+      "use_speak_call_time_title"
+    ]
+  ],
+  "sound_volume_title": [
+    [
+      "feed_setting.xml",
+      "sound_volume_title"
+    ]
+  ],
+  "backup_settings_title": [
+    [
+      "advanced_setting.xml",
+      "backup_restore_settings_title",
+      "backup_settings_title"
+    ]
+  ],
+  "use_left_right_title": [
+    [
+      "general_setting.xml",
+      "use_left_right_title"
+    ]
+  ],
+  "use_new_text_move_type_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "use_new_text_move_type_title"
+    ]
+  ],
+  "up_volume_3_key_title": [
+    [
+      "action_setting.xml",
+      "key_shortcut_setting_title",
+      "up_volume_3_key_title"
+    ]
+  ],
+  "voice_helper_use_plugin_title": [
+    [
+      "voice_helper_setting.xml",
+      "voice_helper_capability_setting",
+      "voice_helper_use_plugin_title"
+    ]
+  ],
+  "helper_tts_setting_title": [
+    [
+      "voice_setting.xml",
+      "more_tts_setting_title",
+      "helper_tts_setting_title"
+    ]
+  ],
+  "use_recording_stop_title": [
+    [
+      "voice_setting.xml",
+      "other_setting",
+      "use_recording_stop_title"
+    ]
+  ],
+  "check_manage_files_permissions_title": [
+    [
+      "setup.xml",
+      "check_manage_files_permissions_title"
+    ]
+  ],
+  "edit_ocr_lua_title": [
+    [
+      "advanced_setting.xml",
+      "ocr_setting",
+      "edit_ocr_lua_title"
+    ]
+  ],
+  "use_input_method_double_tap_title": [
+    [
+      "advanced_setting.xml",
+      "input_setting_title",
+      "use_input_method_double_tap_title"
+    ]
+  ],
+  "use_multi_touch_mode_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "use_multi_touch_mode_title"
+    ]
+  ],
+  "view_changed_settings_title": [
+    [
+      "content_setting.xml",
+      "view_changed_settings_title"
+    ]
+  ],
+  "up_double_fling_setting": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "up_double_fling_setting"
+    ]
+  ],
+  "ocr_portrait_mode_title": [
+    [
+      "advanced_setting.xml",
+      "ocr_setting",
+      "ocr_portrait_mode_title"
+    ]
+  ],
+  "keep_focus_position_title": [
+    [
+      "advanced_setting.xml",
+      "action_settings_title",
+      "keep_focus_position_title"
+    ]
+  ],
+  "use_alarm_title": [
+    [
+      "timer_setting.xml",
+      "use_alarm_title"
+    ]
+  ],
+  "use_ocr_title": [
+    [
+      "advanced_setting.xml",
+      "ocr_setting",
+      "use_ocr_title"
+    ]
+  ],
+  "user_setting.xml": [
+    [
+      "user_setting.xml"
+    ]
+  ],
+  "shake_action_sens_title": [
+    [
+      "action_setting.xml",
+      "other_setting",
+      "shake_action_sens_title"
+    ]
+  ],
+  "menu_up_tap_title": [
+    [
+      "action_setting.xml",
+      "click_settings_title",
+      "menu_up_tap_title"
+    ]
+  ],
+  "default_gesture_type_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "default_gesture_type_title"
+    ]
+  ],
+  "use_left_edge_gesture_quick_menu_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "edge_gesture_title",
+      "use_left_edge_gesture_quick_menu_title"
+    ]
+  ],
+  "use_scroll_list_index_title": [
+    [
+      "content_setting.xml",
+      "list_view_settings_title",
+      "use_scroll_list_index_title"
+    ]
+  ],
+  "use_new_web_type_title": [
+    [
+      "action_setting.xml",
+      "scroll_gesture_settings_title",
+      "use_new_web_type_title"
+    ]
+  ],
+  "use_accessibility_volume_fix_title": [
+    [
+      "voice_setting.xml",
+      "other_setting",
+      "use_accessibility_volume_fix_title"
+    ]
+  ],
+  "right_double_fling_setting": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "right_double_fling_setting"
+    ]
+  ],
+  "use_custom_dict_speak_title": [
+    [
+      "content_setting.xml",
+      "custom_content_title",
+      "use_custom_dict_speak_title"
+    ]
+  ],
+  "sound_package_title": [
+    [
+      "feed_setting.xml",
+      "sound_package_title"
+    ]
+  ],
+  "scroll_gesture_settings_title": [
+    [
+      "action_setting.xml",
+      "scroll_gesture_settings_title"
+    ]
+  ],
+  "up_right_double_fling_setting": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "up_right_double_fling_setting"
+    ]
+  ],
+  "ocr_clean_keyword_title": [
+    [
+      "advanced_setting.xml",
+      "ocr_setting",
+      "ocr_clean_keyword_title"
+    ]
+  ],
+  "favorites_manager_title": [
+    [
+      "manager_setting.xml",
+      "favorites_manager_title"
+    ]
+  ],
+  "use_down_up_double_fling_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "down_up_double_fling_setting",
+      "use_down_up_double_fling_gesture_title"
+    ]
+  ],
+  "custom_speak_clear_title": [
+    [
+      "voice_setting.xml",
+      "speak_clear_setting",
+      "custom_speak_clear_title"
+    ]
+  ],
+  "use_edit_hint_title": [
+    [
+      "content_setting.xml",
+      "view_label_settings_title",
+      "use_edit_hint_title"
+    ]
+  ],
+  "use_log_title": [
+    [
+      "help_feed_setting.xml",
+      "use_log_title"
+    ]
+  ],
+  "use_small_filter_title": [
+    [
+      "content_setting.xml",
+      "content_filter_settings_title",
+      "use_small_filter_title"
+    ]
+  ],
+  "check_battery_permissions_title": [
+    [
+      "setup.xml",
+      "check_battery_permissions_title"
+    ]
+  ],
+  "use_up_tap_prompt_title": [
+    [
+      "action_setting.xml",
+      "click_settings_title",
+      "use_up_tap_prompt_title"
+    ]
+  ],
+  "use_bottom_menu_edge_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "edge_gesture_title",
+      "use_bottom_menu_edge_gesture_title"
+    ]
+  ],
+  "voice_helper_use_blot_title": [
+    [
+      "voice_helper_setting.xml",
+      "voice_helper_capability_setting",
+      "voice_helper_use_blot_title"
+    ]
+  ],
+  "resume_on_notification_show_title": [
+    [
+      "advanced_setting.xml",
+      "action_settings_title",
+      "resume_on_notification_show_title"
+    ]
+  ],
+  "use_proixmity_sensor_title": [
+    [
+      "async_tts_setting.xml",
+      "use_proixmity_sensor_title"
+    ],
+    [
+      "main_tts_setting.xml",
+      "use_proixmity_sensor_title"
+    ]
+  ],
+  "vibrate_intensity_title": [
+    [
+      "feed_setting.xml",
+      "vibrate_intensity_title"
+    ]
+  ],
+  "use_cloud_label_title": [
+    [
+      "content_setting.xml",
+      "custom_content_title",
+      "use_cloud_label_title"
+    ]
+  ],
+  "use_speak_changed_volume_title": [
+    [
+      "content_setting.xml",
+      "hints_list_settings_title",
+      "use_speak_changed_volume_title"
+    ]
+  ],
+  "use_wake_lock_title": [
+    [
+      "main_tts_setting.xml",
+      "use_wake_lock_title"
+    ]
+  ],
+  "use_timer_sound_title": [
+    [
+      "timer_setting.xml",
+      "use_timer_sound_title"
+    ]
+  ],
+  "use_float_menu_title": [
+    [
+      "advanced_setting.xml",
+      "menu_settings_title",
+      "use_float_menu_title"
+    ]
+  ],
+  "use_custom_dict_regex_title": [
+    [
+      "content_setting.xml",
+      "custom_content_title",
+      "use_custom_dict_regex_title"
+    ]
+  ],
+  "timer_interval_title": [
+    [
+      "timer_setting.xml",
+      "timer_interval_title"
+    ]
+  ],
+  "trans_lang_from_title": [
+    [
+      "voice_helper_setting.xml",
+      "trans_lang_from_title"
+    ]
+  ],
+  "up_volume_key_title": [
+    [
+      "action_setting.xml",
+      "key_shortcut_setting_title",
+      "up_volume_key_title"
+    ]
+  ],
+  "profiles_title": [
+    [
+      "advanced_setting.xml",
+      "profiles_title"
+    ]
+  ],
+  "check_notification_permissions_title": [
+    [
+      "setup.xml",
+      "check_notification_permissions_title"
+    ]
+  ],
+  "advanced_setting_title": [
+    [
+      "setting.xml",
+      "advanced_setting_title"
+    ]
+  ],
+  "notification_in_touch_no_speak_title": [
+    [
+      "notification_setting.xml",
+      "notification_in_touch_no_speak_title"
+    ]
+  ],
+  "down_left_double_fling_setting": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "down_left_double_fling_setting"
+    ]
+  ],
+  "plugin_manager_title": [
+    [
+      "manager_setting.xml",
+      "plugin_manager_title"
+    ]
+  ],
+  "use_up_long_quick_menu_title": [
+    [
+      "action_setting.xml",
+      "click_settings_title",
+      "use_up_long_quick_menu_title"
+    ]
+  ],
+  "use_loop_move_space_title": [
+    [
+      "action_setting.xml",
+      "scroll_gesture_settings_title",
+      "use_loop_move_space_title"
+    ]
+  ],
+  "more_setting": [
+    [
+      "setting.xml",
+      "more_setting"
+    ]
+  ],
+  "use_content_changed_title": [
+    [
+      "content_setting.xml",
+      "view_changed_settings_title",
+      "use_content_changed_title"
+    ]
+  ],
+  "timer_setting.xml": [
+    [
+      "timer_setting.xml"
+    ]
+  ],
+  "other_setting": [
+    [
+      "action_setting.xml",
+      "other_setting"
+    ],
+    [
+      "advanced_setting.xml",
+      "other_setting"
+    ],
+    [
+      "voice_setting.xml",
+      "other_setting"
+    ]
+  ],
+  "up_volume_short_key_title": [
+    [
+      "action_setting.xml",
+      "key_shortcut_setting_title",
+      "up_volume_short_key_title"
+    ]
+  ],
+  "timer_setting_title": [
+    [
+      "advanced_setting.xml",
+      "timer_setting_title"
+    ]
+  ],
+  "down_right_double_fling_setting": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "down_right_double_fling_setting"
+    ]
+  ],
+  "text_format_settings_title": [
+    [
+      "content_setting.xml",
+      "text_format_settings_title"
+    ]
+  ],
+  "more_tts_setting_title": [
+    [
+      "voice_setting.xml",
+      "more_tts_setting_title"
+    ]
+  ],
+  "auto_focus_title": [
+    [
+      "advanced_setting.xml",
+      "action_settings_title",
+      "auto_focus_title"
+    ]
+  ],
+  "use_single_tap_title": [
+    [
+      "action_setting.xml",
+      "click_settings_title",
+      "use_single_tap_title"
+    ]
+  ],
+  "custom_hot_key_settings_title": [
+    [
+      "action_setting.xml",
+      "custom_hot_key_settings_title"
+    ]
+  ],
+  "command_set_tts_engine": [
+    [
+      "async_tts_setting.xml",
+      "command_set_tts_engine"
+    ],
+    [
+      "main_tts_setting.xml",
+      "command_set_tts_engine"
+    ],
+    [
+      "timer_tts_setting.xml",
+      "command_set_tts_engine"
+    ]
+  ],
+  "use_right_up_double_fling_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "right_up_double_fling_setting",
+      "use_right_up_double_fling_gesture_title"
+    ]
+  ],
+  "use_answer_phone_calls_incall_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "left_right_gesture_title",
+      "use_answer_phone_calls_incall_gesture_title"
+    ]
+  ],
+  "custom_search_engine_title": [
+    [
+      "voice_helper_setting.xml",
+      "custom_search_engine_title"
+    ]
+  ],
+  "game_mode_title": [
+    [
+      "action_setting.xml",
+      "game_mode_setting",
+      "game_mode_title"
+    ]
+  ],
+  "tts_settings_title": [
+    [
+      "async_tts_setting.xml",
+      "tts_settings_title"
+    ],
+    [
+      "main_tts_setting.xml",
+      "tts_settings_title"
+    ],
+    [
+      "setting.xml",
+      "tts_settings_title"
+    ]
+  ],
+  "use_input_method_speak_commit_space_title": [
+    [
+      "advanced_setting.xml",
+      "input_setting_title",
+      "use_input_method_speak_commit_space_title"
+    ]
+  ],
+  "use_ringtone_volume_title": [
+    [
+      "content_setting.xml",
+      "incall_setting_title",
+      "use_ringtone_volume_title"
+    ]
+  ],
+  "download_activity_title": [
+    [
+      "setting.xml",
+      "download_activity_title"
+    ]
+  ],
+  "tts_low_latency_title": [
+    [
+      "voice_setting.xml",
+      "other_setting",
+      "tts_low_latency_title"
+    ]
+  ],
+  "use_image_to_text_title": [
+    [
+      "advanced_setting.xml",
+      "ocr_setting",
+      "use_image_to_text_title"
+    ]
+  ],
+  "use_web_view_name_title": [
+    [
+      "content_setting.xml",
+      "view_label_settings_title",
+      "use_web_view_name_title"
+    ]
+  ],
+  "use_view_name_title": [
+    [
+      "content_setting.xml",
+      "view_label_settings_title",
+      "use_view_name_title"
+    ]
+  ],
+  "use_text_format_read_word_title": [
+    [
+      "content_setting.xml",
+      "text_format_settings_title",
+      "use_text_format_read_word_title"
+    ]
+  ],
+  "send_log_title": [
+    [
+      "help_feed_setting.xml",
+      "send_log_title"
+    ]
+  ],
+  "use_left_down_double_fling_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "left_down_double_fling_setting",
+      "use_left_down_double_fling_gesture_title"
+    ]
+  ],
+  "notification_in_auto_read_no_speak_title": [
+    [
+      "notification_setting.xml",
+      "notification_in_auto_read_no_speak_title"
+    ]
+  ],
+  "async_tts_engine_title": [
+    [
+      "voice_setting.xml",
+      "async_tts_engine_title"
+    ]
+  ],
+  "use_answer_phone_calls_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "left_right_gesture_title",
+      "use_answer_phone_calls_gesture_title"
+    ]
+  ],
+  "list_view_settings_title": [
+    [
+      "content_setting.xml",
+      "list_view_settings_title"
+    ]
+  ],
+  "use_proximity_false_touch_prevention_only_lock_title": [
+    [
+      "advanced_setting.xml",
+      "action_settings_title",
+      "use_proximity_false_touch_prevention_only_lock_title"
+    ]
+  ],
+  "use_up_long_click_title": [
+    [
+      "action_setting.xml",
+      "click_settings_title",
+      "use_up_long_click_title"
+    ]
+  ],
+  "down_volume_key_off_title": [
+    [
+      "action_setting.xml",
+      "key_shortcut_setting_title",
+      "down_volume_key_off_title"
+    ]
+  ],
+  "game_mode_setting": [
+    [
+      "action_setting.xml",
+      "game_mode_setting"
+    ]
+  ],
+  "use_list_item_index_real_time_title": [
+    [
+      "content_setting.xml",
+      "list_view_settings_title",
+      "use_list_item_index_real_time_title"
+    ]
+  ],
+  "use_screen_off_speak_title": [
+    [
+      "content_setting.xml",
+      "screen_on_off_settings_title",
+      "use_screen_off_speak_title"
+    ]
+  ],
+  "use_right_left_double_fling_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "right_left_double_fling_setting",
+      "use_right_left_double_fling_gesture_title"
+    ]
+  ],
+  "shake_action_title": [
+    [
+      "action_setting.xml",
+      "other_setting",
+      "shake_action_title"
+    ]
+  ],
+  "use_speak_call_phone_title": [
+    [
+      "content_setting.xml",
+      "incall_setting_title",
+      "use_speak_call_phone_title"
+    ]
+  ],
+  "gesture_help_title": [
+    [
+      "help_feed_setting.xml",
+      "gesture_help_title"
+    ]
+  ],
+  "check_permissions_title": [
+    [
+      "setup.xml",
+      "check_permissions_title"
+    ]
+  ],
+  "open_setup_setting_title": [
+    [
+      "setup.xml",
+      "open_setup_setting_title"
+    ]
+  ],
+  "ocr_landscape_mode_title": [
+    [
+      "advanced_setting.xml",
+      "ocr_setting",
+      "ocr_landscape_mode_title"
+    ]
+  ],
+  "search_engine_title": [
+    [
+      "voice_helper_setting.xml",
+      "search_engine_title"
+    ]
+  ],
+  "gesture_package_title": [
+    [
+      "action_setting.xml",
+      "gesture_package_title"
+    ]
+  ],
+  "backup_restore_settings_title": [
+    [
+      "advanced_setting.xml",
+      "backup_restore_settings_title"
+    ]
+  ],
+  "alarm_hours_title": [
+    [
+      "timer_setting.xml",
+      "alarm_hours_title"
+    ]
+  ],
+  "multi_menu_items_title": [
+    [
+      "advanced_setting.xml",
+      "menu_settings_title",
+      "multi_menu_items_title"
+    ]
+  ],
+  "ocr_setting": [
+    [
+      "advanced_setting.xml",
+      "ocr_setting"
+    ]
+  ],
+  "action_setting.xml": [
+    [
+      "action_setting.xml"
+    ]
+  ],
+  "command_start_log": [
+    [
+      "help_feed_setting.xml",
+      "command_start_log"
+    ]
+  ],
+  "content_blacklist_title": [
+    [
+      "content_setting.xml",
+      "content_filter_settings_title",
+      "content_blacklist_title"
+    ]
+  ],
+  "content_setting_title": [
+    [
+      "setting.xml",
+      "content_setting_title"
+    ]
+  ],
+  "gesture_manager_title": [
+    [
+      "action_setting.xml",
+      "gesture_manager_title"
+    ],
+    [
+      "manager_setting.xml",
+      "gesture_manager_title"
+    ]
+  ],
+  "user_id_title": [
+    [
+      "user_setting.xml",
+      "user_id_title"
+    ]
+  ],
+  "note_tile": [
+    [
+      "setting.xml",
+      "more_setting",
+      "note_tile"
+    ]
+  ],
+  "voice_helper_use_app_title": [
+    [
+      "voice_helper_setting.xml",
+      "voice_helper_capability_setting",
+      "voice_helper_use_app_title"
+    ]
+  ],
+  "voice_setting.xml": [
+    [
+      "voice_setting.xml"
+    ]
+  ],
+  "tts_pitch_title": [
+    [
+      "uni_sound_setting.xml",
+      "tts_pitch_title"
+    ],
+    [
+      "async_tts_setting.xml",
+      "tts_pitch_title"
+    ],
+    [
+      "main_tts_setting.xml",
+      "tts_pitch_title"
+    ],
+    [
+      "timer_tts_setting.xml",
+      "tts_pitch_title"
+    ],
+    [
+      "system_tts_setting.xml",
+      "tts_pitch_title"
+    ]
+  ],
+  "use_click_button_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "left_right_gesture_title",
+      "use_click_button_gesture_title"
+    ]
+  ],
+  "use_ocr_auto_speak_title": [
+    [
+      "advanced_setting.xml",
+      "ocr_setting",
+      "use_ocr_auto_speak_title"
+    ]
+  ],
+  "up_down_double_fling_setting": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "up_down_double_fling_setting"
+    ]
+  ],
+  "right_long_edge_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "edge_gesture_title",
+      "right_long_edge_gesture_title"
+    ]
+  ],
+  "clipboard_manager_title": [
+    [
+      "manager_setting.xml",
+      "clipboard_manager_title"
+    ]
+  ],
+  "use_multi_hot_key_title": [
+    [
+      "action_setting.xml",
+      "key_shortcut_setting_title",
+      "use_multi_hot_key_title"
+    ]
+  ],
+  "use_image_filter_title": [
+    [
+      "content_setting.xml",
+      "content_filter_settings_title",
+      "use_image_filter_title"
+    ]
+  ],
+  "notification_setting.xml": [
+    [
+      "notification_setting.xml"
+    ]
+  ],
+  "use_ext_actions_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "left_right_gesture_title",
+      "use_ext_actions_gesture_title"
+    ]
+  ],
+  "use_show_dis_enabled_quick_menu_title": [
+    [
+      "action_setting.xml",
+      "click_settings_title",
+      "use_show_dis_enabled_quick_menu_title"
+    ]
+  ],
+  "use_left_right_double_fling_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "left_right_double_fling_setting",
+      "use_left_right_double_fling_gesture_title"
+    ]
+  ],
+  "voice_helper_use_click_title": [
+    [
+      "voice_helper_setting.xml",
+      "voice_helper_capability_setting",
+      "voice_helper_use_click_title"
+    ]
+  ],
+  "advanced_setting.xml": [
+    [
+      "advanced_setting.xml"
+    ]
+  ],
+  "tts_volume_title": [
+    [
+      "uni_sound_setting.xml",
+      "tts_volume_title"
+    ],
+    [
+      "async_tts_setting.xml",
+      "tts_volume_title"
+    ],
+    [
+      "main_tts_setting.xml",
+      "tts_volume_title"
+    ],
+    [
+      "timer_tts_setting.xml",
+      "tts_volume_title"
+    ],
+    [
+      "system_tts_setting.xml",
+      "tts_volume_title"
+    ],
+    [
+      "general_setting.xml",
+      "tts_volume_title"
+    ]
+  ],
+  "help_title": [
+    [
+      "help_feed_setting.xml",
+      "help_title"
+    ]
+  ],
+  "fingerprint_gesture_setting": [
+    [
+      "action_setting.xml",
+      "fingerprint_gesture_setting"
+    ]
+  ],
+  "feed_setting_title": [
+    [
+      "setting.xml",
+      "feed_setting_title"
+    ]
+  ],
+  "use_up_down_double_fling_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "up_down_double_fling_setting",
+      "use_up_down_double_fling_gesture_title"
+    ]
+  ],
+  "notification_toast_speak_title": [
+    [
+      "notification_setting.xml",
+      "notification_toast_speak_title"
+    ]
+  ],
+  "use_list_item_index_title": [
+    [
+      "content_setting.xml",
+      "list_view_settings_title",
+      "use_list_item_index_title"
+    ]
+  ],
+  "use_screen_on_speak_battery_title": [
+    [
+      "content_setting.xml",
+      "screen_on_off_settings_title",
+      "use_screen_on_speak_battery_title"
+    ]
+  ],
+  "up_down_volume_short_key_title": [
+    [
+      "action_setting.xml",
+      "key_shortcut_setting_title",
+      "up_down_volume_short_key_title"
+    ]
+  ],
+  "use_input_method_speak_candidate_title": [
+    [
+      "advanced_setting.xml",
+      "input_setting_title",
+      "use_input_method_speak_candidate_title"
+    ]
+  ],
+  "menu_settings_title": [
+    [
+      "advanced_setting.xml",
+      "menu_settings_title"
+    ]
+  ],
+  "split_row_keyword_title": [
+    [
+      "advanced_setting.xml",
+      "other_setting",
+      "split_row_keyword_title"
+    ]
+  ],
+  "user_settings_title": [
+    [
+      "setting.xml",
+      "user_settings_title"
+    ]
+  ],
+  "use_up_double_fling_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "up_double_fling_setting",
+      "use_up_double_fling_gesture_title"
+    ]
+  ],
+  "use_scroll_seek_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "left_right_gesture_title",
+      "use_scroll_seek_gesture_title"
+    ]
+  ],
+  "recognizer_lang_title": [
+    [
+      "voice_helper_setting.xml",
+      "recognizer_lang_title"
+    ]
+  ],
+  "custom_content_title": [
+    [
+      "content_setting.xml",
+      "custom_content_title"
+    ]
+  ],
+  "send_email_title": [
+    [
+      "help_feed_setting.xml",
+      "send_email_title"
+    ]
+  ],
+  "use_keep_type_move_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "use_keep_type_move_title"
+    ]
+  ],
+  "main_tts_setting.xml": [
+    [
+      "main_tts_setting.xml"
+    ]
+  ],
+  "default_gesture_setting_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title"
+    ]
+  ],
+  "action_settings_title": [
+    [
+      "advanced_setting.xml",
+      "action_settings_title"
+    ]
+  ],
+  "use_left_double_fling_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "left_double_fling_setting",
+      "use_left_double_fling_gesture_title"
+    ]
+  ],
+  "back_break_auto_mode_title": [
+    [
+      "action_setting.xml",
+      "other_setting",
+      "back_break_auto_mode_title"
+    ]
+  ],
+  "use_input_method_gesture_title": [
+    [
+      "advanced_setting.xml",
+      "input_setting_title",
+      "use_input_method_gesture_title"
+    ]
+  ],
+  "speak_call_phone_index_title": [
+    [
+      "content_setting.xml",
+      "incall_setting_title",
+      "speak_call_phone_index_title"
+    ]
+  ],
+  "use_edge_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "use_edge_gesture_title"
+    ]
+  ],
+  "use_auto_mode_move_list_view_item_title": [
+    [
+      "action_setting.xml",
+      "scroll_gesture_settings_title",
+      "use_auto_mode_move_list_view_item_title"
+    ]
+  ],
+  "general_setting.xml": [
+    [
+      "general_setting.xml"
+    ]
+  ],
+  "use_action_menu_show_cursor_title": [
+    [
+      "advanced_setting.xml",
+      "menu_settings_title",
+      "use_action_menu_show_cursor_title"
+    ]
+  ],
+  "up_volume_2_key_title": [
+    [
+      "action_setting.xml",
+      "key_shortcut_setting_title",
+      "up_volume_2_key_title"
+    ]
+  ],
+  "navigation_up_tap_title": [
+    [
+      "action_setting.xml",
+      "click_settings_title",
+      "navigation_up_tap_title"
+    ]
+  ],
+  "timer_tags_items_title": [
+    [
+      "timer_setting.xml",
+      "timer_tags_items_title"
+    ]
+  ],
+  "use_double_edge_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "edge_gesture_title",
+      "use_double_edge_gesture_title"
+    ]
+  ],
+  "delete_log_title": [
+    [
+      "help_feed_setting.xml",
+      "delete_log_title"
+    ]
+  ],
+  "cloud_multi_restore_title": [
+    [
+      "advanced_setting.xml",
+      "backup_restore_settings_title",
+      "cloud_multi_restore_title"
+    ]
+  ],
+  "use_timer_speak_title": [
+    [
+      "timer_setting.xml",
+      "use_timer_speak_title"
+    ]
+  ],
+  "use_progress_title": [
+    [
+      "content_setting.xml",
+      "view_changed_settings_title",
+      "use_progress_title"
+    ]
+  ],
+  "voice_helper_use_gestures_title": [
+    [
+      "voice_helper_setting.xml",
+      "voice_helper_capability_setting",
+      "voice_helper_use_gestures_title"
+    ]
+  ],
+  "read_mode_setting": [
+    [
+      "advanced_setting.xml",
+      "read_mode_setting"
+    ]
+  ],
+  "use_left_up_double_fling_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "left_up_double_fling_setting",
+      "use_left_up_double_fling_gesture_title"
+    ]
+  ],
+  "voice_cmd_setting_title": [
+    [
+      "voice_helper_setting.xml",
+      "voice_cmd_setting_title"
+    ]
+  ],
+  "tts_engine_title": [
+    [
+      "voice_setting.xml",
+      "tts_engine_title"
+    ]
+  ],
+  "plugin_title": [
+    [
+      "setting.xml",
+      "plugin_title"
+    ]
+  ],
+  "trans_lang_to_title": [
+    [
+      "voice_helper_setting.xml",
+      "trans_lang_to_title"
+    ]
+  ],
+  "user_name_title": [
+    [
+      "user_setting.xml",
+      "user_name_title"
+    ]
+  ],
+  "use_scroll_list_content_title": [
+    [
+      "content_setting.xml",
+      "list_view_settings_title",
+      "use_scroll_list_content_title"
+    ]
+  ],
+  "use_no_bluetooth_title": [
+    [
+      "voice_setting.xml",
+      "other_setting",
+      "use_no_bluetooth_title"
+    ]
+  ],
+  "content_label_title": [
+    [
+      "content_setting.xml",
+      "custom_content_title",
+      "content_label_title"
+    ]
+  ],
+  "setup.xml": [
+    [
+      "setup.xml"
+    ]
+  ],
+  "double_fling_right_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "up_double_fling_setting",
+      "double_fling_right_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "down_double_fling_setting",
+      "double_fling_right_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "left_double_fling_setting",
+      "double_fling_right_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "right_double_fling_setting",
+      "double_fling_right_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "left_right_double_fling_setting",
+      "double_fling_right_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "right_left_double_fling_setting",
+      "double_fling_right_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "up_down_double_fling_setting",
+      "double_fling_right_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "down_up_double_fling_setting",
+      "double_fling_right_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "left_up_double_fling_setting",
+      "double_fling_right_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "left_down_double_fling_setting",
+      "double_fling_right_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "right_up_double_fling_setting",
+      "double_fling_right_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "right_down_double_fling_setting",
+      "double_fling_right_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "up_left_double_fling_setting",
+      "double_fling_right_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "up_right_double_fling_setting",
+      "double_fling_right_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "down_left_double_fling_setting",
+      "double_fling_right_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "down_right_double_fling_setting",
+      "double_fling_right_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "fingerprint_gesture_setting",
+      "double_fling_right_gesture_title"
+    ]
+  ],
+  "use_game_mode_no_edge_title": [
+    [
+      "action_setting.xml",
+      "game_mode_setting",
+      "use_game_mode_no_edge_title"
+    ]
+  ],
+  "voice_helper_use_app_gestures_title": [
+    [
+      "voice_helper_setting.xml",
+      "voice_helper_capability_setting",
+      "voice_helper_use_app_gestures_title"
+    ]
+  ],
+  "right_button_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "left_right_gesture_title",
+      "right_button_title"
+    ]
+  ],
+  "use_double_fling_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "use_double_fling_title"
+    ]
+  ],
+  "incall_setting_title": [
+    [
+      "content_setting.xml",
+      "incall_setting_title"
+    ]
+  ],
+  "use_custom_gesture_title": [
+    [
+      "general_setting.xml",
+      "use_custom_gesture_title"
+    ]
+  ],
+  "main_menu_items_title": [
+    [
+      "advanced_setting.xml",
+      "menu_settings_title",
+      "main_menu_items_title"
+    ]
+  ],
+  "use_foreground_title": [
+    [
+      "advanced_setting.xml",
+      "power_settings_title",
+      "use_foreground_title"
+    ]
+  ],
+  "use_text_format_first_title": [
+    [
+      "content_setting.xml",
+      "text_format_settings_title",
+      "use_text_format_first_title"
+    ]
+  ],
+  "audio_focus_title": [
+    [
+      "async_tts_setting.xml",
+      "audio_focus_title"
+    ],
+    [
+      "main_tts_setting.xml",
+      "audio_focus_title"
+    ]
+  ],
+  "use_custom_speak_symbol_number_title": [
+    [
+      "voice_setting.xml",
+      "speak_clear_setting",
+      "use_custom_speak_symbol_number_title"
+    ]
+  ],
+  "timer_tts_setting.xml": [
+    [
+      "timer_tts_setting.xml"
+    ]
+  ],
+  "use_symbol_speak_title": [
+    [
+      "voice_setting.xml",
+      "other_setting",
+      "use_symbol_speak_title"
+    ]
+  ],
+  "use_edge_gesture_menu_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "edge_gesture_title",
+      "use_edge_gesture_menu_title"
+    ]
+  ],
+  "ocr_baidu_id_title": [
+    [
+      "advanced_setting.xml",
+      "ocr_setting",
+      "ocr_baidu_setting",
+      "ocr_baidu_id_title"
+    ]
+  ],
+  "app_no_key_shortcut_title": [
+    [
+      "action_setting.xml",
+      "key_shortcut_setting_title",
+      "app_no_key_shortcut_title"
+    ]
+  ],
+  "app_hot_key_shortcut_title": [
+    [
+      "action_setting.xml",
+      "key_shortcut_setting_title",
+      "app_hot_key_shortcut_title"
+    ]
+  ],
+  "down_up_double_fling_setting": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "down_up_double_fling_setting"
+    ]
+  ],
+  "use_custom_symbol_speak_title": [
+    [
+      "voice_setting.xml",
+      "use_custom_symbol_speak_title"
+    ]
+  ],
+  "use_move_list_view_item_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "left_right_gesture_title",
+      "use_move_list_view_item_title"
+    ]
+  ],
+  "custom_gesture_settings_title": [
+    [
+      "general_setting.xml",
+      "custom_gesture_settings_title"
+    ]
+  ],
+  "down_double_fling_setting": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "down_double_fling_setting"
+    ]
+  ],
+  "hot_key_package_title": [
+    [
+      "action_setting.xml",
+      "custom_hot_key_settings_title",
+      "hot_key_package_title"
+    ]
+  ],
+  "use_multi_menu_title": [
+    [
+      "advanced_setting.xml",
+      "menu_settings_title",
+      "use_multi_menu_title"
+    ]
+  ],
+  "use_up_tap_title": [
+    [
+      "action_setting.xml",
+      "click_settings_title",
+      "use_up_tap_title"
+    ]
+  ],
+  "timer_items_title": [
+    [
+      "timer_setting.xml",
+      "timer_items_title"
+    ]
+  ],
+  "use_loop_move_title": [
+    [
+      "action_setting.xml",
+      "scroll_gesture_settings_title",
+      "use_loop_move_title"
+    ]
+  ],
+  "lua_help_title": [
+    [
+      "help_feed_setting.xml",
+      "lua_help_title"
+    ]
+  ],
+  "use_proximity_false_touch_prevention_title": [
+    [
+      "advanced_setting.xml",
+      "action_settings_title",
+      "use_proximity_false_touch_prevention_title"
+    ]
+  ],
+  "notification_in_call_no_speak_title": [
+    [
+      "notification_setting.xml",
+      "notification_in_call_no_speak_title"
+    ]
+  ],
+  "right_edge_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "edge_gesture_title",
+      "right_edge_gesture_title"
+    ]
+  ],
+  "hints_list_settings_title": [
+    [
+      "content_setting.xml",
+      "hints_list_settings_title"
+    ]
+  ],
+  "edit_activity": [
+    [
+      "setting.xml",
+      "more_setting",
+      "edit_activity"
+    ]
+  ],
+  "tool_manager_title": [
+    [
+      "manager_setting.xml",
+      "tool_manager_title"
+    ]
+  ],
+  "sound_settings_title": [
+    [
+      "feed_setting.xml",
+      "sound_settings_title"
+    ]
+  ],
+  "use_down_double_fling_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "down_double_fling_setting",
+      "use_down_double_fling_gesture_title"
+    ]
+  ],
+  "left_long_edge_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "edge_gesture_title",
+      "left_long_edge_gesture_title"
+    ]
+  ],
+  "gesture_description_title": [
+    [
+      "action_setting.xml",
+      "gesture_description_title"
+    ]
+  ],
+  "alua_help_title": [
+    [
+      "help_feed_setting.xml",
+      "alua_help_title"
+    ]
+  ],
+  "chat_history": [
+    [
+      "voice_helper_setting.xml",
+      "chat_history"
+    ]
+  ],
+  "system_tts_setting.xml": [
+    [
+      "system_tts_setting.xml"
+    ]
+  ],
+  "up_volume_key_off_title": [
+    [
+      "action_setting.xml",
+      "key_shortcut_setting_title",
+      "up_volume_key_off_title"
+    ]
+  ],
+  "use_navigation_gesture_title": [
+    [
+      "advanced_setting.xml",
+      "action_settings_title",
+      "use_navigation_gesture_title"
+    ]
+  ],
+  "voice_helper_setting_title": [
+    [
+      "advanced_setting.xml",
+      "voice_helper_setting_title"
+    ]
+  ],
+  "accessibility_focus_appearance_title": [
+    [
+      "advanced_setting.xml",
+      "other_setting",
+      "accessibility_focus_appearance_title"
+    ]
+  ],
+  "use_node_info_title": [
+    [
+      "content_setting.xml",
+      "hints_list_settings_title",
+      "use_node_info_title"
+    ]
+  ],
+  "async_tts_setting.xml": [
+    [
+      "async_tts_setting.xml"
+    ]
+  ],
+  "uni_sound_setting.xml": [
+    [
+      "uni_sound_setting.xml"
+    ]
+  ],
+  "hot_key_settings_title": [
+    [
+      "action_setting.xml",
+      "custom_hot_key_settings_title",
+      "hot_key_settings_title"
+    ]
+  ],
+  "general_settings_title": [
+    [
+      "setting.xml",
+      "general_settings_title"
+    ]
+  ],
+  "show_volume_ui_title": [
+    [
+      "action_setting.xml",
+      "key_shortcut_setting_title",
+      "show_volume_ui_title"
+    ]
+  ],
+  "char_mode_tts_setting_title": [
+    [
+      "voice_setting.xml",
+      "more_tts_setting_title",
+      "char_mode_tts_setting_title"
+    ]
+  ],
+  "use_more_node_title": [
+    [
+      "action_setting.xml",
+      "scroll_gesture_settings_title",
+      "use_more_node_title"
+    ]
+  ],
+  "use_content_tree_changed_title": [
+    [
+      "content_setting.xml",
+      "view_changed_settings_title",
+      "use_content_tree_changed_title"
+    ]
+  ],
+  "down_volume_short_key_title": [
+    [
+      "action_setting.xml",
+      "key_shortcut_setting_title",
+      "down_volume_short_key_title"
+    ]
+  ],
+  "change_log_title": [
+    [
+      "help_feed_setting.xml",
+      "change_log_title"
+    ]
+  ],
+  "use_scroll_list_keep_position_title": [
+    [
+      "content_setting.xml",
+      "list_view_settings_title",
+      "use_scroll_list_keep_position_title"
+    ]
+  ],
+  "backup_manager_title": [
+    [
+      "manager_setting.xml",
+      "backup_manager_title"
+    ]
+  ],
+  "command_read_mode": [
+    [
+      "setting.xml",
+      "more_setting",
+      "command_read_mode"
+    ]
+  ],
+  "sound_manager_title": [
+    [
+      "feed_setting.xml",
+      "sound_manager_title"
+    ],
+    [
+      "manager_setting.xml",
+      "sound_manager_title"
+    ]
+  ],
+  "language_setting_title": [
+    [
+      "advanced_setting.xml",
+      "language_setting_title"
+    ]
+  ],
+  "use_list_index_title": [
+    [
+      "content_setting.xml",
+      "list_view_settings_title",
+      "use_list_index_title"
+    ],
+    [
+      "general_setting.xml",
+      "use_list_index_title"
+    ]
+  ],
+  "pref_donate_alipay": [
+    [
+      "help_feed_setting.xml",
+      "pref_donate_alipay"
+    ]
+  ],
+  "setup_setting_title": [
+    [
+      "setup.xml",
+      "setup_setting_title"
+    ],
+    [
+      "general_setting.xml",
+      "setup_setting_title"
+    ]
+  ],
+  "edit_trans_lua_title": [
+    [
+      "voice_helper_setting.xml",
+      "edit_trans_lua_title"
+    ]
+  ],
+  "notification_tts_setting_title": [
+    [
+      "notification_setting.xml",
+      "notification_tts_setting_title"
+    ],
+    [
+      "voice_setting.xml",
+      "more_tts_setting_title",
+      "notification_tts_setting_title"
+    ]
+  ],
+  "hot_key_description_title": [
+    [
+      "action_setting.xml",
+      "custom_hot_key_settings_title",
+      "hot_key_description_title"
+    ]
+  ],
+  "use_text_format_char_number_title": [
+    [
+      "content_setting.xml",
+      "text_format_settings_title",
+      "use_text_format_char_number_title"
+    ]
+  ],
+  "vip_qq_group_title": [
+    [
+      "user_setting.xml",
+      "vip_qq_group_title"
+    ]
+  ],
+  "use_pager_scroll_title": [
+    [
+      "action_setting.xml",
+      "scroll_gesture_settings_title",
+      "use_pager_scroll_title"
+    ]
+  ],
+  "power_settings_title": [
+    [
+      "advanced_setting.xml",
+      "power_settings_title"
+    ]
+  ],
+  "voice_recognizer_title": [
+    [
+      "voice_helper_setting.xml",
+      "voice_recognizer_title"
+    ]
+  ],
+  "tool_title": [
+    [
+      "setting.xml",
+      "tool_title"
+    ]
+  ],
+  "use_right_double_fling_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "right_double_fling_setting",
+      "use_right_double_fling_gesture_title"
+    ]
+  ],
+  "char_mode_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "char_mode_gesture_title"
+    ]
+  ],
+  "left_up_double_fling_setting": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "left_up_double_fling_setting"
+    ]
+  ],
+  "use_up_left_double_fling_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "up_left_double_fling_setting",
+      "use_up_left_double_fling_gesture_title"
+    ]
+  ],
+  "notification_app_name_speak_title": [
+    [
+      "notification_setting.xml",
+      "notification_app_name_speak_title"
+    ]
+  ],
+  "use_key_shortcut_title": [
+    [
+      "action_setting.xml",
+      "key_shortcut_setting_title",
+      "use_key_shortcut_title"
+    ]
+  ],
+  "use_split_line_title": [
+    [
+      "advanced_setting.xml",
+      "other_setting",
+      "use_split_line_title"
+    ]
+  ],
+  "label_manager_title": [
+    [
+      "manager_setting.xml",
+      "label_manager_title"
+    ]
+  ],
+  "use_volume_key_move_text_title": [
+    [
+      "action_setting.xml",
+      "key_shortcut_setting_title",
+      "use_volume_key_move_text_title"
+    ]
+  ],
+  "ocr_lang_title": [
+    [
+      "advanced_setting.xml",
+      "ocr_setting",
+      "ocr_lang_title"
+    ]
+  ],
+  "manager_activity_title": [
+    [
+      "advanced_setting.xml",
+      "manager_activity_title"
+    ]
+  ],
+  "timer_action_def_title": [
+    [
+      "timer_setting.xml",
+      "timer_action_def_title"
+    ]
+  ],
+  "use_single_tts_title": [
+    [
+      "main_tts_setting.xml",
+      "use_single_tts_title"
+    ]
+  ],
+  "trans_lua_engine_title": [
+    [
+      "voice_helper_setting.xml",
+      "trans_lua_engine_title"
+    ]
+  ],
+  "notification_settings_title": [
+    [
+      "setting.xml",
+      "notification_settings_title"
+    ]
+  ],
+  "custom_dict_title": [
+    [
+      "content_setting.xml",
+      "custom_content_title",
+      "custom_dict_title"
+    ]
+  ],
+  "down_volume_key_title": [
+    [
+      "action_setting.xml",
+      "key_shortcut_setting_title",
+      "down_volume_key_title"
+    ]
+  ],
+  "use_timer_vibrate_title": [
+    [
+      "timer_setting.xml",
+      "use_timer_vibrate_title"
+    ]
+  ],
+  "voice_helper_use_cmd_title": [
+    [
+      "voice_helper_setting.xml",
+      "voice_helper_capability_setting",
+      "voice_helper_use_cmd_title"
+    ]
+  ],
+  "gesture_setting.xml": [
+    [
+      "gesture_setting.xml"
+    ]
+  ],
+  "use_text_stat_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "use_text_stat_title"
+    ]
+  ],
+  "unknown_index_title": [
+    [
+      "content_setting.xml",
+      "view_label_settings_title",
+      "unknown_index_title"
+    ]
+  ],
+  "export_all_file": [
+    [
+      "advanced_setting.xml",
+      "backup_restore_settings_title",
+      "export_all_file"
+    ]
+  ],
+  "manager_setting.xml": [
+    [
+      "manager_setting.xml"
+    ]
+  ],
+  "use_input_method_speak_password_title": [
+    [
+      "advanced_setting.xml",
+      "input_setting_title",
+      "use_input_method_speak_password_title"
+    ]
+  ],
+  "use_input_method_speak_key_title": [
+    [
+      "advanced_setting.xml",
+      "input_setting_title",
+      "use_input_method_speak_key_title"
+    ]
+  ],
+  "user_point_title": [
+    [
+      "user_setting.xml",
+      "user_point_title"
+    ]
+  ],
+  "right_up_double_fling_setting": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "right_up_double_fling_setting"
+    ]
+  ],
+  "vr_camera": [
+    [
+      "setting.xml",
+      "more_setting",
+      "vr_camera"
+    ]
+  ],
+  "voice_helper_setting.xml": [
+    [
+      "voice_helper_setting.xml"
+    ]
+  ],
+  "speak_clear_setting": [
+    [
+      "voice_setting.xml",
+      "speak_clear_setting"
+    ]
+  ],
+  "double_fling_up_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "up_double_fling_setting",
+      "double_fling_up_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "down_double_fling_setting",
+      "double_fling_up_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "left_double_fling_setting",
+      "double_fling_up_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "right_double_fling_setting",
+      "double_fling_up_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "left_right_double_fling_setting",
+      "double_fling_up_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "right_left_double_fling_setting",
+      "double_fling_up_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "up_down_double_fling_setting",
+      "double_fling_up_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "down_up_double_fling_setting",
+      "double_fling_up_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "left_up_double_fling_setting",
+      "double_fling_up_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "left_down_double_fling_setting",
+      "double_fling_up_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "right_up_double_fling_setting",
+      "double_fling_up_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "right_down_double_fling_setting",
+      "double_fling_up_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "up_left_double_fling_setting",
+      "double_fling_up_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "up_right_double_fling_setting",
+      "double_fling_up_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "down_left_double_fling_setting",
+      "double_fling_up_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "down_right_double_fling_setting",
+      "double_fling_up_gesture_title"
+    ],
+    [
+      "action_setting.xml",
+      "fingerprint_gesture_setting",
+      "double_fling_up_gesture_title"
+    ]
+  ],
+  "feed_setting.xml": [
+    [
+      "feed_setting.xml"
+    ]
+  ],
+  "use_click_dialog_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "left_right_gesture_title",
+      "use_click_dialog_gesture_title"
+    ]
+  ],
+  "ocr_engine_title": [
+    [
+      "advanced_setting.xml",
+      "ocr_setting",
+      "ocr_engine_title"
+    ]
+  ],
+  "use_dim_screen_title": [
+    [
+      "advanced_setting.xml",
+      "other_setting",
+      "use_dim_screen_title"
+    ]
+  ],
+  "app_gesture_package_title": [
+    [
+      "action_setting.xml",
+      "app_gesture_package_title"
+    ]
+  ],
+  "auto_speak_blacklist_title": [
+    [
+      "content_setting.xml",
+      "auto_speak_title",
+      "auto_speak_blacklist_title"
+    ]
+  ],
+  "resume_on_ringing_title": [
+    [
+      "advanced_setting.xml",
+      "action_settings_title",
+      "resume_on_ringing_title"
+    ]
+  ],
+  "left_double_fling_setting": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "left_double_fling_setting"
+    ]
+  ],
+  "voice_helper_copy_title": [
+    [
+      "voice_helper_setting.xml",
+      "voice_helper_copy_title"
+    ]
+  ],
+  "use_dpad_key_title": [
+    [
+      "action_setting.xml",
+      "key_shortcut_setting_title",
+      "use_dpad_key_title"
+    ]
+  ],
+  "up_left_double_fling_setting": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "up_left_double_fling_setting"
+    ]
+  ],
+  "restore_settings_title": [
+    [
+      "advanced_setting.xml",
+      "backup_restore_settings_title",
+      "restore_settings_title"
+    ]
+  ],
+  "view_type_move_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "view_type_move_title"
+    ]
+  ],
+  "usage_hints_title": [
+    [
+      "content_setting.xml",
+      "hints_list_settings_title",
+      "usage_hints_title"
+    ],
+    [
+      "general_setting.xml",
+      "usage_hints_title"
+    ]
+  ],
+  "use_sound_title": [
+    [
+      "feed_setting.xml",
+      "use_sound_title"
+    ]
+  ],
+  "user_letter_map_title": [
+    [
+      "advanced_setting.xml",
+      "other_setting",
+      "user_letter_map_title"
+    ]
+  ],
+  "reader_tts_setting_title": [
+    [
+      "voice_setting.xml",
+      "more_tts_setting_title",
+      "reader_tts_setting_title"
+    ]
+  ],
+  "use_right_down_double_fling_gesture_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "double_fling_setting",
+      "right_down_double_fling_setting",
+      "use_right_down_double_fling_gesture_title"
+    ]
+  ],
+  "use_action_menu_show_ext_title": [
+    [
+      "advanced_setting.xml",
+      "menu_settings_title",
+      "use_action_menu_show_ext_title"
+    ]
+  ],
+  "show_download_title": [
+    [
+      "advanced_setting.xml",
+      "other_setting",
+      "show_download_title"
+    ],
+    [
+      "help_feed_setting.xml",
+      "show_download_title"
+    ]
+  ],
+  "left_button_title": [
+    [
+      "action_setting.xml",
+      "default_gesture_setting_title",
+      "left_right_gesture_title",
+      "left_button_title"
+    ]
+  ],
+  "use_supper_filter_title": [
+    [
+      "content_setting.xml",
+      "content_filter_settings_title",
+      "use_supper_filter_title"
+    ]
+  ]
+}

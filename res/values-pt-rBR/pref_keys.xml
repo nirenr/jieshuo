@@ -532,4 +532,20 @@
     <string name="edit_trans_lua">edit_trans_lua</string>
     <string name="use_auto_mode_move_list_view_item">use_auto_mode_move_list_view_item</string>
     <string name="voice_helper_use_big">voice_helper_use_big</string>
+    <string name="use_image_to_text">use_image_to_text</string>
+    <string name="use_long_click_voice_image">use_long_click_voice_image</string>
+    <string name="use_text_stat">use_text_stat</string>
+    <string name="use_move_window">use_move_window</string>
+    <string name="voice_helper_use_input_method">voice_helper_use_input_method</string>
+    <string name="use_upper_speak">use_upper_speak</string>
+    <string name="custom_search_engine">custom_search_engine</string>
+    <string name="auto_focus">auto_focus</string>
+    <string name="tts_low_latency">tts_low_latency</string>
+    <string name="use_auto_view_type">use_auto_view_type</string>
+    <string name="use_ext_actions_gesture">use_ext_actions_gesture</string>
+    <string name="use_input_method_no_gesture">use_input_method_no_gesture</string>
+    <string name="resume_on_screen_off">resume_on_screen_off</string>
+    <string name="app_no_key_shortcut">app_no_key_shortcut</string>
+    <string name="use_reverse_scroll_home_page">use_reverse_scroll_home_page</string>
+
 </resources>

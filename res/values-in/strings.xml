@@ -32,18 +32,18 @@
     <string name="alarm_end_hour">alarm_end_hour</string>
     <string name="alarm_end_hour_title">Mengakhiri waktu alarm</string>
     <string name="alarm_interval">alarm_interval</string>
-    <string name="alarm_interval_title">Interval alarm</string>
+    <string name="alarm_interval_title">Interval waktu:</string>
     <string name="alarm_settings_title">Pengaturan Alarm</string>
     <string name="alarm_start_hour">alarm_start_hour</string>
     <string name="alarm_start_hour_title">Memulai waktu alarm</string>
     <string name="album_activity">Album</string>
     <string name="all">Semua</string>
-    <string name="all_notification_count">共%d条通知</string>
+    <string name="all_notification_count">Total %d notifikasi</string>
     <string name="all_text_title">Penjelajahan teks lengkap</string>
     <string name="alpha">transparan</string>
     <string name="alua_help">alua_help</string>
     <string name="alua_help_title">AndroLua+语法帮助</string>
-    <string name="ambient_light" formatted="false">kecerahan saat ini %d %s</string>
+    <string name="ambient_light">kecerahan saat ini %d %s</string>
     <string name="announcement">pemberitahuan program</string>
     <string name="app">Buka aplikasi</string>
     <string name="app_gesture_package">app_gesture_package</string>
@@ -73,7 +73,7 @@
     <string name="auto_read">Membaca otomatis</string>
     <string name="auto_speak_apps">auto_speak_apps</string>
     <string name="auto_speak_apps_summary">Tidak semua aplikasi mendukung pesan baca-keras otomatis, dan perangkat lunak obrolan yang muncul sebagai daftar lebih kompatibel</string>
-    <string name="auto_speak_apps_title">Sebuah program yang secara otomatis membaca dengan keras</string>
+    <string name="auto_speak_apps_title">Aplikasi yang dibacakan secara otomatis:</string>
     <string name="auto_speak_blacklist">auto_speak_blacklist</string>
     <string name="auto_speak_blacklist_data">auto_speak_blacklist_data</string>
     <string name="auto_speak_blacklist_title">Daftar hitam konten pembacaan otomatis</string>
@@ -90,7 +90,7 @@
     <string name="backup_done">Pencadangan selesai.</string>
     <string name="backup_manager">backup_manager</string>
     <string name="backup_manager_title">Kelola cadangan</string>
-    <string name="backup_restore_settings_title">Cadangkan atau kembalikan pengaturan</string>
+    <string name="backup_restore_settings_title">Kelola Pencadangan dan pemulihan</string>
     <string name="backup_settings">backup_settings</string>
     <string name="backup_settings_summary">Menyimpan pengaturan saat ini akan menimpa pengaturan yang pernah disimpan sebelumnya</string>
     <string name="backup_settings_title">Cadangkan pengaturan</string>
@@ -105,7 +105,7 @@
     <string name="camera_face">Kenali wajah</string>
     <string name="camera_guide">Mode pengenalan langsung.</string>
     <string name="camera_hold_posture">Tahan posisi kameramu</string>
-    <string name="camera_hold_posture_have_face">Hold posture, have %d faces</string>
+    <string name="camera_hold_posture_have_face">Tahan posisi, memiliki %d wajah</string>
     <string name="camera_ingredient">Kenali buah dan sayur-sayuran.</string>
     <string name="camera_left_up">kiri atas</string>
     <string name="camera_lower_left_hand">Turunkan posisi tangan kiri</string>
@@ -148,7 +148,7 @@
     <string name="check_update_title">Periksa pembaruan</string>
     <string name="checked">Dicentang.</string>
     <string name="choice_mode_multiple">Multi-select mode</string>
-    <string name="clear"> suara bersihkan kotak edit</string>
+    <string name="clear">Bersihkan</string>
     <string name="click_setting">click_setting</string>
     <string name="click_settings_title">Pengaturan tindakan ketuk</string>
     <string name="click_to_enabled">Menjelajah dengan menyentuh telah dilanjutkan.</string>
@@ -218,7 +218,7 @@
     <string name="command_auto_trans">terjemahan otomatis</string>
     <string name="command_battery">Tingkat baterai</string>
     <string name="command_battery_level">Umumkan tingkat baterai</string>
-    <string name="command_clean">Bersihkan kotak edit yang difokuskan</string>
+    <string name="command_clean">Bersihkan</string>
     <string name="command_click">Klik</string>
     <string name="command_content_setting">@string/content_setting_title</string>
     <string name="command_copy">salin</string>
@@ -355,12 +355,12 @@
     <string name="content_blacklist">content_blacklist</string>
     <string name="content_blacklist_data">content_blacklist_data</string>
     <string name="content_blacklist_summary">Saring konten dalam daftar hitam, pecahkan beberapa fokus yang memiliki deskripsi kesalahan tidak dapat menambahkan masalah tag</string>
-    <string name="content_blacklist_title">Konten yang dilarang</string>
+    <string name="content_blacklist_title">Konten yang diblokir</string>
     <string name="content_filter_settings_title">Pengaturan penyaringan konten</string>
     <string name="content_label">content_label</string>
     <string name="content_label_title">Manajemen Tag Fokus</string>
     <string name="content_setting">content_setting</string>
-    <string name="content_setting_title">Pengaturan konten presentasi</string>
+    <string name="content_setting_title">Pengaturan pengucapan konten</string>
     <string name="continue_run">melanjutkan</string>
     <string name="continuous_recognition">Identifikasi berkelanjutan</string>
     <string name="copy_as_jieshuo_cmd">Salin sebagai kata sandi penjelasan</string>
@@ -375,9 +375,9 @@
     <string name="create_profiles_from_this">Buat profil dari konfigurasi saat ini</string>
     <string name="create_project">Buat rancangan</string>
     <string name="cur_timer_tags">cur_timer_tags</string>
-    <string name="curren_char_idx" formatted="false">%d行%d字符</string>
-    <string name="current_selected_text" formatted="false">共%d个字符，当前选择的是第%d个到%d个</string>
-    <string name="current_text" formatted="false">%d dari %d huruf</string>
+    <string name="curren_char_idx">%d行%d字符</string>
+    <string name="current_selected_text">共%d个字符，当前选择的是第%d个到%d个</string>
+    <string name="current_text">%d dari %d huruf</string>
     <string name="current_tts_locale">Suara default</string>
     <string name="custom">kustom</string>
     <string name="custom_content_title">Pengaturan kustom Konten fokus</string>
@@ -529,10 +529,10 @@
     <string name="espeak_speak_punctuation">Pengucapan tanda baca:</string>
     <string name="espeak_variant">Variasi Pengucapan:</string>
     <string name="espeak_volume">Volume</string>
-    <string name="event_stat_info" formatted="false">共响应事件%d次，平均耗时%d毫秒。</string>
-    <string name="execute_cmd">Execute the following command</string>
+    <string name="event_stat_info">Total peristiwa d ditanggapi, dengan waktu rata -rata %d milidetik.</string>
+    <string name="execute_cmd">Jalankan perintah berikut</string>
     <string name="exit">Keluar</string>
-    <string name="expand">mengembangkan</string>
+    <string name="expand">Luaskan</string>
     <string name="export_file">Ekspor</string>
     <string name="fail">operasi gagal</string>
     <string name="favorites">Favorit</string>
@@ -625,12 +625,12 @@
     <string name="gesture_package_title">Tema gerakan:</string>
     <string name="gesture_settings">gesture_settings</string>
     <string name="gesture_settings_title">Pengaturan gerakan</string>
-    <string name="gesture_stat_info" formatted="false">共响应手势%d次，平均耗时%d毫秒。</string>
+    <string name="gesture_stat_info">共响应手势%d次，平均耗时%d毫秒。</string>
     <string name="gesture_title">Pengaturan gerakan</string>
     <string name="gestures_description_default">Untuk pengaturan gerakan asli, silahkan baca panduan.</string>
     <string name="gestures_description_not_found">Bantuan Petunjuk penggunaan gerakan tidak ditemukan</string>
     <string name="green">hijau</string>
-    <string name="grid_item_current" formatted="false">Baris %d, kolom %d.</string>
+    <string name="grid_item_current">Baris %d, kolom %d.</string>
     <string name="has_notification_listener">Perlu mengaktifkan akses notifikasi</string>
     <string name="has_vip_summary">%s adalah Fitur kusus pengguna premium</string>
     <string name="has_vip_summary2">Fungsi %s dibatasi untuk non premium</string>
@@ -667,12 +667,12 @@
     <string name="hot_key_settings_title">Pengaturan tombol pintasan</string>
     <string name="hot_key_summary">Tekan tombol yang akan ditetapkan, tombol huruf terpisah dan tombol angka tidak didukung</string>
     <string name="hour">Hour</string>
-    <string name="hover_stat_info" formatted="false">共触摸焦点%d次，平均耗时%d毫秒。</string>
+    <string name="hover_stat_info">共触摸焦点%d次，平均耗时%d毫秒。</string>
     <string name="ignore_battery">Izinkan aplikasi untuk tidak menggunakan pengoptimalan baterai.</string>
     <string name="import_file">Mengimpor</string>
     <string name="import_voice_description">Memuat kamus ucapan eSpeak dari kartu SD.</string>
     <string name="import_voice_title">Memuat kamus eSpeak</string>
-    <string name="incall_setting_title">Pengaturan Pengumuman Panggilan</string>
+    <string name="incall_setting_title">Pengaturan Pengucapan Panggilan</string>
     <string name="input_dir_name">Ketikkan nama folder</string>
     <string name="input_file_name">Ketikkan nama file</string>
     <string name="input_method">Metode input</string>
@@ -682,12 +682,12 @@
     <string name="install_shortcut">Tambahkan ke layar depan</string>
     <string name="installing_voice_data">Memasang data suara...</string>
     <string name="invite_code">Kode undangan:</string>
-    <string name="item_current_count" formatted="false">%d dari %d</string>
-    <string name="item_from_to_count" formatted="false">Menampilkan item %d hingga %d dari %d</string>
+    <string name="item_current_count">%d dari %d</string>
+    <string name="item_from_to_count">Menampilkan item %d hingga %d dari %d</string>
     <string name="jieshuo_bbs">jieshuo_bbs</string>
     <string name="jieshuo_bbs_summary">Bagikan saran kamu tentang Jieshuo di forum kami</string>
     <string name="jieshuo_bbs_title">"Jieshuo Screenreader\'s forum"</string>
-    <string name="kayword">Pencarian</string>
+    <string name="keyword">Pencarian</string>
     <string name="keep_focus_position">keep_focus_position</string>
     <string name="keep_focus_position_speak">keep_focus_position_speak</string>
     <string name="keep_focus_position_speak_title">Bacakan posisi fokus sebelumnya:</string>
@@ -697,7 +697,7 @@
     <string name="label_manager">label_manager</string>
     <string name="label_manager_title">Kelola label khusus</string>
     <string name="lang">in</string>
-    <string name="language_setting_title">pengaturan bahasa</string>
+    <string name="language_setting_title">Kelola bahasa</string>
     <string name="last_open">Dibuka terahir</string>
     <string name="left_button">left_button</string>
     <string name="left_button_default_value">tolak|*geser untuk menolak panggilan*|akhiri panggilan|tutup telepon|trek sebelumnya|lagu sebelum*|Navigasi ke atas|Batal|Membatalkan&amp;loud speaker</string>
@@ -757,8 +757,8 @@
     <string name="long_text_title">Pengeditan teks tingkat lanjut</string>
     <string name="lower_case_format">%s</string>
     <string name="lower_case_format2">%s</string>
-    <string name="lower_case_format_number" formatted="false">%s，Huruf kecil %s，Huruf ke %d</string>
-    <string name="lower_case_format_number2" formatted="false">%s，%d Letters</string>
+    <string name="lower_case_format_number">%s，Huruf kecil %s，Huruf ke %d</string>
+    <string name="lower_case_format_number2">%s，%d Letters</string>
     <string name="lua_help">lua_help</string>
     <string name="lua_help_title">Manual Referensi Lua</string>
     <string name="main_menu">Menu utama</string>
@@ -767,7 +767,7 @@
     <string name="main_setting">Pengaturan program</string>
     <string name="make_dir">Membuat folder baru</string>
     <string name="manager">manager</string>
-    <string name="manager_activity_title">Kelola resources</string>
+    <string name="manager_activity_title">Kelola data</string>
     <string name="manager_title">Pengelola</string>
     <string name="media_doc_title">Tutorial suara</string>
     <string name="menu_manager">menu_manager</string>
@@ -809,7 +809,7 @@
     <string name="message_recognition_error">Kesalahan saat mendeteksi. Silakan coba lagi.</string>
     <string name="message_recognition_none">Tidak ada yang dapat dikenal</string>
     <string name="message_time_out">tidak sah</string>
-    <string name="message_timer_mode_disabled" formatted="false">Timer dihentikan,%s,sekarang adalah %s</string>
+    <string name="message_timer_mode_disabled">Timer dihentikan,%s,sekarang adalah %s</string>
     <string name="message_timer_mode_enabled">Timer dimulai</string>
     <string name="message_voice_feedback_paused">Umpan balik suara dimatikan.</string>
     <string name="message_voice_feedback_resume">Umpan balik suara diaktifkan</string>
@@ -863,7 +863,7 @@
     <string name="msg_favorite_backup_done">favorite berhasil di backup</string>
     <string name="msg_favorite_backup_error">favorite gagal di backup</string>
     <string name="msg_favorites_empty">Daftar faforit kosong</string>
-    <string name="msg_filter">共找到%d ditemukan</string>
+    <string name="msg_filter">Total %d ditemukan.</string>
     <string name="msg_gesture_backup_done">tema gerakan berhasil di backup</string>
     <string name="msg_gesture_backup_error">tema gerakan gagal di backup</string>
     <string name="msg_gesture_empty">tema gerakan, kosong</string>
@@ -933,7 +933,7 @@
     <string name="msg_search_on_store">Cari di store.</string>
     <string name="msg_select_end">Pemilihan berahir</string>
     <string name="msg_select_start">Pemilihan dimulai</string>
-    <string name="msg_selected_from_to" formatted="false">已选择第%d到第%d项</string>
+    <string name="msg_selected_from_to">已选择第%d到第%d项</string>
     <string name="msg_send_not_found">Tombol kirim tidak ditemukan.</string>
     <string name="msg_sended">Berhasil dikirim.</string>
     <string name="msg_setting_backup_done">pengaturan berhasil di backup</string>
@@ -970,10 +970,10 @@
     <string name="navigation_up_tap">navi_up_tap</string>
     <string name="navigation_up_tap_title">Angkat jari untuk mengaktifkan tombol navigasi perangkat lunak:</string>
     <string name="need_vip">Jika kamu ingin membeli versi penuh aplikasi ini, silahkan hubungi pelayanan pelangan kami.</string>
-    <string name="next">Lankah selanjutnya</string>
+    <string name="next">Lanjutkan.</string>
     <string name="next_chapter">next_chapter</string>
-    <string name="next_chapter_default_value">*下一页*|*下一章*|*下页*|*下章*|*下一个*</string>
-    <string name="next_chapter_title">下一章按钮关键字</string>
+    <string name="next_chapter_default_value">*Halaman berikutnya*|*Bab Berikutnya*|*Bagian Berikutnya*|*Chapter Berikutnya*|*Bab selanjutnya*|*Berikutnya*|*Selanjutnya*</string>
+    <string name="next_chapter_title">Kata kunci tombol bab berikutnya</string>
     <string name="no_login">Kamu belum masuk.</string>
     <string name="no_phone_permission">tidak diizinkan.</string>
     <string name="no_save">Tidak ada yang disimpan</string>
@@ -981,14 +981,14 @@
     <string name="no_vip">Kamu belum membeli versi penuh aplikasi ini!</string>
     <string name="node_changed_list_manager">manajemen pemantauan fokus</string>
     <string name="node_details">Node details</string>
-    <string name="node_info">Ada %d node anak.</string>
-    <string name="node_info_none">Tidak ada node anak.,</string>
-    <string name="node_info_root">Node root mengandung %d node anak.</string>
+    <string name="node_info">Ada %d node cabang.</string>
+    <string name="node_info_none">Tidak ada node cabang.,</string>
+    <string name="node_info_root">Node root mengandung %d node cabang.</string>
     <string name="node_mode">Menjelajah dengan node</string>
     <string name="nodeinfo_actions">beroperasi:</string>
     <string name="nodeinfo_bounds_in_screen">Lokasi:</string>
-    <string name="nodeinfo_checkable">opsional</string>
-    <string name="nodeinfo_childs">simpul anak</string>
+    <string name="nodeinfo_checkable">Dapat dipilih</string>
+    <string name="nodeinfo_childs">simpul cabang</string>
     <string name="nodeinfo_clickable">dapat diklik</string>
     <string name="nodeinfo_content_description">Deskripsi fungsi bantu:</string>
     <string name="nodeinfo_focusable">dapat difokuskan</string>
@@ -1059,10 +1059,10 @@
     <string name="ocr_engine">ocr_engine</string>
     <string name="ocr_engine_title">Mesin pengenalan OCR:</string>
     <string name="ocr_landscape_mode">ocr_landscape_mode</string>
-    <string name="ocr_landscape_mode_title">Mode default lanskap pengenalan subtitle</string>
+    <string name="ocr_landscape_mode_title">Mode default lanskap pengenalan subtitle: </string>
     <string name="ocr_lang">ocr_lang</string>
     <string name="ocr_lang_enteries">Mixed english|Automatically identify|Japanese|Korean|Spanish|French|German|Portuguese|Vietnamese|malay|Russian|Italian|Dutch|Swedish|Finnish|Danish|Norvegian|Hungarian|Thai|Latin|阿拉伯语</string>
-    <string name="ocr_lang_summary">Hanya berlaku jika tencent OCR yang dipilih.</string>
+    <string name="ocr_lang_summary">Hanya berlaku jika OCR offline yang dipilih.</string>
     <string name="ocr_lang_title">Bahasa OCR:</string>
     <string name="ocr_mode0">Seperempat atas layar (lebih disukai untuk potret)</string>
     <string name="ocr_mode1">Seperempat bawah layar (lanskap lebih disukai)</string>
@@ -1077,7 +1077,7 @@
     <string name="ocr_mode9">setengah bawah fokus saat ini</string>
     <string name="ocr_mode_def">tanyakan selalu</string>
     <string name="ocr_portrait_mode">ocr_portrait_mode</string>
-    <string name="ocr_portrait_mode_title">Mode default layar portrait pengenalan subtitle</string>
+    <string name="ocr_portrait_mode_title">Mode default layar portrait pengenalan subtitle: </string>
     <string name="ocr_setting">Pengaturan OCR</string>
     <string name="ocr_title">Teks recognition</string>
     <string name="offline_ocr">offline OCR</string>
@@ -1090,7 +1090,7 @@
     <string name="open_application_info_title">Buka info aplikasi Jieshuo.</string>
     <string name="open_project">Buka rancangan</string>
     <string name="open_setup_setting">open_setup_setting</string>
-    <string name="open_setup_setting_title">Buka pengaturan auto start, jika tersedia.</string>
+    <string name="open_setup_setting_title">Buka pengaturan Mulai otomatis aplikasi, jika tersedia.</string>
     <string name="open_web">open_web</string>
     <string name="opened">Aktif.</string>
     <string name="orientation_landscape">Landscape</string>
@@ -1098,10 +1098,10 @@
     <string name="other_setting">Pengaturan lainnya</string>
     <string name="overlay_window">Harap aktifkan gambar dalam gambar.</string>
     <string name="overwrite_file">Overwrite</string>
-    <string name="page_from_to" formatted="false">Halaman %d dari %d</string>
+    <string name="page_from_to">Halaman %d dari %d</string>
     <string name="pass_text">Password: 6 sampai 15 huruf latin.</string>
     <string name="permission_msg">Baca panduan untuk detail lebih.</string>
-    <string name="permission_title">Deskripsi izin:</string>
+    <string name="permission_title">Periksa izin:</string>
     <string name="permissions_settings">permissions_settings</string>
     <string name="permissions_settings_title">Pengaturan izin</string>
     <string name="plugin">plugin</string>
@@ -1113,8 +1113,8 @@
     <string name="pref_donate_alipay">Donasi melalui alipay untuk mendukung perkembangan Jieshuo.</string>
     <string name="pref_donate_paypal">Donasi melalui paypal untuk mendukung perkembangan Jieshuo.</string>
     <string name="previous_chapter">previous_chapter</string>
-    <string name="previous_chapter_default_value">*上一页*|*上一章*|*上页*|*上章*|*上一个*</string>
-    <string name="previous_chapter_title">上一章按钮关键字</string>
+    <string name="previous_chapter_default_value">*Halaman Sebelumnya*|*Bab Sebelumnya*|*Bagian Sebelumnya*|*Chapter Sebelumnya*|*Sebelumnya*</string>
+    <string name="previous_chapter_title">Kata kunci tombol bab sebelumnya</string>
     <string name="privacy">Kebijakan Privasi</string>
     <string name="profiles">profiles</string>
     <string name="profiles_data">profiles_data</string>
@@ -1137,7 +1137,7 @@
     <string name="questions_answers_title">FAQ</string>
     <string name="quick_menu_title">Menu cepat</string>
     <string name="rap_action_settings_title">Mengetuk bagian belakang ponsel</string>
-    <string name="rating_current_count" formatted="false">Peringkat %d Dari %d bintang.</string>
+    <string name="rating_current_count">Peringkat %d Dari %d bintang.</string>
     <string name="raw_click">[Klik]</string>
     <string name="raw_long_click">[Tekan lama]</string>
     <string name="raw_swipe_down">[usap ke bawah]</string>
@@ -1149,7 +1149,7 @@
     <string name="read_mode_setting">Pengaturan mode baca</string>
     <string name="recognition_cancel">Pengenalan dibatalkan</string>
     <string name="recognition_end">Pengenalan berahir</string>
-    <string name="recognition_error">Kesalahan saat mengenal</string>
+    <string name="recognition_error">Kesalahan saat mengenali</string>
     <string name="recognition_start">Pengenalan dimulai</string>
     <string name="recognition_success">Pengenalan berhasil</string>
     <string name="recognizer_lang">recognizer_lang</string>
@@ -1167,7 +1167,7 @@
     <string name="restore">Kembalikan</string>
     <string name="restore_settings">restore_settings</string>
     <string name="restore_settings_summary">Mengembalikan pengaturan yang tersimpan akan menimpa pengaturan saat ini</string>
-    <string name="restore_settings_title">Kembalikan pengaturan</string>
+    <string name="restore_settings_title">Pulihkan pengaturan yang tersimpan</string>
     <string name="right_button">right_button</string>
     <string name="right_button_default_value">jawab|*geser untuk menjawab panggilan*|*speaker*|lagu berikut*|trek berikutnya|oke|ok</string>
     <string name="right_button_title">Atur aksi pintasan usap kekanan</string>
@@ -1212,7 +1212,7 @@
     <string name="sample_text">Ini adalah sebuah contoh teks yang diucapkan di %s</string>
     <string name="save">Simpan</string>
     <string name="save_as_cloud">simpan sebagai catatan awan</string>
-    <string name="save_as_cmd">保存为指令</string>
+    <string name="save_as_cmd">Simpan sebagai perintah suara</string>
     <string name="save_as_file">simpan ke lokal</string>
     <string name="saved">Disimpan</string>
     <string name="scan_all_res">pindai semua resource</string>
@@ -1226,8 +1226,8 @@
     <string name="screen_on_off_settings_title">Pengaturan pengucapan kondisi layar</string>
     <string name="scroll_gesture_settings_title">Pengaturan pengguliran</string>
     <string name="search_engine">search_engine</string>
-    <string name="search_engine_title">mesin telusur</string>
-    <string name="search_stat_info" formatted="false">共查找焦点%d次，平均耗时%d毫秒。</string>
+    <string name="search_engine_title">mesin telusur:</string>
+    <string name="search_stat_info">共查找焦点%d次，平均耗时%d毫秒。</string>
     <string name="select">Pilih</string>
     <string name="select_app">Pilih aplikasi</string>
     <string name="select_granularity_mode">pilih jenis navigasi</string>
@@ -1243,7 +1243,7 @@
     <string name="setting_default_pitch">Nada</string>
     <string name="setting_default_rate">Pengucapan</string>
     <string name="setup_plugin">setup_plugin</string>
-    <string name="setup_plugin_title">Jalankan plugin secara otomatis</string>
+    <string name="setup_plugin_title">Pengaturan plugin otomatis</string>
     <string name="setup_setting">setup_setting</string>
     <string name="setup_setting_battery_permission_msg">Menghidupkan opsi ini dapat mengoptimalkan Jieshuo.</string>
     <string name="setup_setting_continue">Lanjutkan panduan pengaturan.</string>
@@ -1261,7 +1261,7 @@
     <string name="setup_setting_notification_permission_msg">Penggunaan izin pemberitahuan memungkinkan ScreenReader untuk mempertahankan ikonnya di panel notifikasi yang mengarah pada peningkatan stabilitas.</string>
     <string name="setup_setting_overlay_permission_msg">Izin jendela terapung membantu dengan fungsi-fungsi seperti tirai layar.</string>
     <string name="setup_setting_set_permission_and_exit">beri izin dan keluar dari panduan pengaturan.</string>
-    <string name="setup_setting_title">Bantuan pengaturan</string>
+    <string name="setup_setting_title">Panduan.</string>
     <string name="shake_action">shake_action</string>
     <string name="shake_action_call">shake_action_call</string>
     <string name="shake_action_call_title">Goyang untuk menjawab panggilan:</string>
@@ -1324,7 +1324,7 @@
     <string name="ssml">Memuat SSML Template</string>
     <string name="start_auto_ocr_title">Pilih area pengenalan</string>
     <string name="start_long_copy">Penyalinan lanjutan dimulai</string>
-    <string name="stat_info">status kemajuan</string>
+    <string name="stat_info">Status peforma:</string>
     <string name="status">Status</string>
     <string name="stroke">Tebal</string>
     <string name="swipe_down">Usap ke bawah</string>
@@ -1360,11 +1360,11 @@
     <string name="template_stream_volume">%1$s volume adalah %2$d</string>
     <string name="template_stream_volume_set">%1$s volume %2$d</string>
     <string name="text_format_settings_title">Pengaturan kamus</string>
-    <string name="timer_and_now_time" formatted="false">%s, sekarang adalah %s</string>
+    <string name="timer_and_now_time">%s, sekarang adalah %s</string>
     <string name="timer_data">timer_data</string>
     <string name="timer_date_format">yyyy.M.d. HH:mm.</string>
     <string name="timer_interval">timer_interval</string>
-    <string name="timer_interval_title">Interval peringatan</string>
+    <string name="timer_interval_title">Interval timer:</string>
     <string name="timer_items">timer_items</string>
     <string name="timer_items_title">Kelola timer yang telah ditetapkan</string>
     <string name="timer_manager">timer_manager</string>
@@ -1373,9 +1373,9 @@
     <string name="timer_mode_pause_start">timer_mode_pause_start</string>
     <string name="timer_mode_pause_time">timer_mode_pause_time</string>
     <string name="timer_run">timer_run</string>
-    <string name="timer_run_title">Scheduled tasks</string>
+    <string name="timer_run_title">Pengaturan jadwal tugas</string>
     <string name="timer_setting">timer_setting</string>
-    <string name="timer_setting_title">Pengaturan timer</string>
+    <string name="timer_setting_title">Pengaturan Jam dan Timer</string>
     <string name="timer_tags">Label</string>
     <string name="timer_tags_items">timer_tags_manager</string>
     <string name="timer_tags_items_title">timer tags manager</string>
@@ -1386,7 +1386,7 @@
     <string name="timer_tts_scale">timer_tts_scale</string>
     <string name="timer_tts_speed">timer_tts_speed</string>
     <string name="timer_tts_volume">timer_tts_volume</string>
-    <string name="to_all" formatted="false">%s ke %s, total %s.</string>
+    <string name="to_all">%s ke %s, total %s.</string>
     <string name="to_next_granularity">tipe navigasi berikutnya</string>
     <string name="to_next_granularity_item">item navigasi berikutnya</string>
     <string name="to_previous_granularity">tipe navigasi sebelumnya</string>
@@ -1397,7 +1397,7 @@
     <string name="tool_title">Plugin dan peralatan</string>
     <string name="touch_mode_disabled">Menjelajah dengan menyentuh telah dijeda.</string>
     <string name="touch_mode_enabled">Mode sentuh untuk menjelajah diaktifkan.</string>
-    <string name="touch_stat_info" formatted="false">penjelajahan sentuh total %d kali, penundaan rata-rata %d mili detik.</string>
+    <string name="touch_stat_info">penjelajahan sentuh total %d kali, penundaan rata-rata %d mili detik.</string>
     <string name="touch_stop">touch_stop</string>
     <string name="trans_lang_from">trans_lang_from</string>
     <string name="trans_lang_from_title">Bahasa utama:</string>
@@ -1494,8 +1494,8 @@
     <string name="upper_case_format">Huruf besar %s</string>
     <string name="upper_case_format2">Huruf besar %s</string>
     <string name="upper_case_format3">Huruf Besar %s</string>
-    <string name="upper_case_format_number" formatted="false">%s，Huruf besar %s，Huruf ke %d</string>
-    <string name="upper_case_format_number2" formatted="false">Ada %s huruf besar %d huruf</string>
+    <string name="upper_case_format_number">%s，Huruf besar %s，Huruf ke %d</string>
+    <string name="upper_case_format_number2">Ada %s huruf besar %d huruf</string>
     <string name="url_menu_title">Element yang dapat diinteraksi</string>
     <string name="usage_hints">usage_hints</string>
     <string name="usage_hints_msg">Tips penggunaan dapat berguna apabila anda pengguna baru SmartPhone, namun anda dapat mematikan ini jika sudah terbiasa.</string>
@@ -1513,8 +1513,8 @@
     <string name="use_add_async_tts_summary">Teks ke ucapan tidak akan terintrupsi ketika ada notifikasi yang masuk disaat sedang membaca notifikasi yang telah dahulu masuk. Pengaturan ini tidak bekerja jika anda menggunakan satu teks ke ucapan.</string>
     <string name="use_add_async_tts_title">Baca notifikasi satu-persatu dengan teratur.</string>
     <string name="use_alarm">use_alarm</string>
-    <string name="use_alarm_summary">Umumkan waktu pada saat yang ditentukan.</string>
-    <string name="use_alarm_title">Umumkan waktu:</string>
+    <string name="use_alarm_summary">Umumkan waktu yang ditentukan.</string>
+    <string name="use_alarm_title">Jam bicara:</string>
     <string name="use_answer_phone_calls_gesture">use_answer_phone_calls_gesture</string>
     <string name="use_answer_phone_calls_gesture_title">Menjawab telepon di antarmuka aplikasi apapun.</string>
     <string name="use_audio_focus">audio_focus</string>
@@ -1596,7 +1596,7 @@
     <string name="use_game_mode_no_speak">use_game_mode_no_speak</string>
     <string name="use_game_mode_no_speak_title">Nonaktifkan sintesis ucapan dalam mode permainan:</string>
     <string name="use_headset_key">use_headset_key</string>
-    <string name="use_headset_key_summary">Tekan tombol headset untuk menuju ke item berikutnya, tekan lama tombol untuk mengaktifkan suara asisten.</string>
+    <string name="use_headset_key_summary">Tekan tombol headset untuk menuju ke item berikutnya, tekan lama tombol untuk mengaktifkan asisten suara.</string>
     <string name="use_headset_key_title">Gunakan tombol headset untuk mengontrol pembaca layar:</string>
     <string name="use_image_filter">use_image_filter</string>
     <string name="use_image_filter_summary">Memfilter gambar ketika menjelajah halaman web</string>
@@ -1641,7 +1641,7 @@
     <string name="use_left_up_double_fling_gesture">use_left_up_double_fling_gesture</string>
     <string name="use_left_up_double_fling_gesture_title">gunakan usap ke kiri atas multipart gestur</string>
     <string name="use_list_index">use_number</string>
-    <string name="use_list_index_msg">Membaca angka pada item dilayar dapat membantu anda untuk mengetahui posisi anda pada suatu menu, namun hal ini akan memperpanjang hal yang dibaca oleh tts. atur sesuai dengan kenyamanan anda.</string>
+    <string name="use_list_index_msg">Membaca angka pada item dilayar dapat membantu anda untuk mengetahui posisi anda pada suatu menu, namun hal ini akan memperpanjang hal yang dibaca oleh tts. Atur sesuai dengan kenyamanan anda.</string>
     <string name="use_list_index_summary">Membaca daftar awal hingga akhir yang dapat ditampilkan layar ketika menggulirkan.</string>
     <string name="use_list_index_title">Baca daftar item:</string>
     <string name="use_list_item_index">use_list_item_index</string>
@@ -1653,7 +1653,7 @@
     <string name="use_log_summary">Itu dapat diaktifkan ketika umpan balik diperlukan, dan biasanya dimatikan untuk meningkatkan kinerja</string>
     <string name="use_log_title">Aktifkan pencatatan log:</string>
     <string name="use_long_click_voice_input">use_long_click_voice_input</string>
-    <string name="use_long_click_voice_input_title">Ketuk dan tahan pada kotak edit untuk menggunakan masukan suara.</string>
+    <string name="use_long_click_voice_input_title">Sentuh tahan pada kotak edit untuk menggunakan masukan suara.</string>
     <string name="use_loop_move">use_loop_move</string>
     <string name="use_loop_move_space">use_loop_move_space</string>
     <string name="use_loop_move_space_title">Menambahkan promt kosong sebelum loop fokus:</string>
@@ -1782,8 +1782,8 @@
     <string name="use_speak_key">use_speak_key</string>
     <string name="use_speak_key_title">Baca kuncinya dengan keras:</string>
     <string name="use_speak_qq_changed">use_speak_qq_changed</string>
-    <string name="use_speak_qq_changed_summary">Membaca pesan QQ secara automatis.</string>
-    <string name="use_speak_qq_changed_title">Membaca pesan QQ secara automatis.</string>
+    <string name="use_speak_qq_changed_summary">Membaca pesan daftar secara otomatis, seperti komentar baru saat live di tiktok dan lainnya.</string>
+    <string name="use_speak_qq_changed_title">Membaca pesan daftar secara otomatis:</string>
     <string name="use_supper_filter">use_supper_filter</string>
     <string name="use_supper_filter_summary">Memfilter konten web selain cina.</string>
     <string name="use_supper_filter_title">Penyaringan konten web yang ketat:</string>
@@ -1804,7 +1804,7 @@
     <string name="use_timer_speak">use_timer_speak</string>
     <string name="use_timer_speak_title">Berbicara saat timer:</string>
     <string name="use_timer_stream_type">use_timer_stream_type</string>
-    <string name="use_timer_stream_type_title">saluran audio yang digunakan</string>
+    <string name="use_timer_stream_type_title">saluran audio yang digunakan:</string>
     <string name="use_timer_vibrate">use_timer_vibrate</string>
     <string name="use_timer_vibrate_title">Getaran saat timer:</string>
     <string name="use_touch_mode">use_touch_mode</string>
@@ -1865,7 +1865,7 @@
     <string name="user_letter_map_title">Gunakan kamus khusus (mulai ulang pembaca layar diperlukan untuk menerapkan):</string>
     <string name="user_name">user_name</string>
     <string name="user_name_title">Nama pengguna</string>
-    <string name="user_new_password">新密码,6到15位英语字母或数字</string>
+    <string name="user_new_password">Kata sandi baru, 6 hingga 15 huruf atau angka</string>
     <string name="user_password">user_password</string>
     <string name="user_point">user_point</string>
     <string name="user_point_title">Poin referensi</string>
@@ -1875,7 +1875,7 @@
     <string name="user_text">Nama pengguna: 5 sampai 15 huruf latin</string>
     <string name="user_validity">user_validity</string>
     <string name="user_validity_title">Masa berlaku:</string>
-    <string name="username_and_userid_format" formatted="false">Nama Pengguna: %s ID pengguna: %s</string>
+    <string name="username_and_userid_format">Nama Pengguna: %s ID pengguna: %s</string>
     <string name="value_default">Standar</string>
     <string name="value_googletv_screen_saver">Screen saver</string>
     <string name="value_none">Tidak ada</string>
@@ -1977,15 +1977,15 @@
     <string name="variant_whisper">Bisikan</string>
     <string name="variant_young">Muda</string>
     <string name="variant_zac">Zac</string>
-    <string name="version_msg" formatted="false">"%s
+    <string name="version_msg">"%s
 大小:%s
 下载次数:%s"</string>
     <string name="vibrate_intensity">vibrate_intensity</string>
     <string name="vibrate_intensity_title">Intensitas getaran:</string>
     <string name="vibrate_summary">gunakan umpan balik getaran dengan pembaca layar.</string>
     <string name="vibrate_title">Umpan balik getaran:</string>
-    <string name="view_changed_settings_title">Pengaturan konten dinamis</string>
-    <string name="view_label_settings_title">Pengaturan label presentasi</string>
+    <string name="view_changed_settings_title">Pengaturan pengucapan konten yang berubah</string>
+    <string name="view_label_settings_title">Pengaturan pengucapan label</string>
     <string name="view_name_button">Tombol.</string>
     <string name="view_name_check_box">Kotak centang.</string>
     <string name="view_name_edit_text">Kotak edit.</string>
@@ -2005,7 +2005,7 @@
     <string name="vip_qq_group">vip_qq_group</string>
     <string name="vip_qq_group_title">Commentary Screenreader VIP QQ group</string>
     <string name="vip_qq_kefu">vip_qq_kefu</string>
-    <string name="vip_qq_kefu_summary">咨询，购买，移机，过户请务必通过认证客服</string>
+    <string name="vip_qq_kefu_summary">Untuk konsultasi, pembelian, pergantian perangkat, dan pengalihan kepemilikan, pastikan untuk melalui layanan pelanggan bersertifikat</string>
     <string name="vip_qq_kefu_title">Jieshuo screenreader support</string>
     <string name="voice_app_name">Voice assistant</string>
     <string name="voice_cmd_call">Panggil</string>
@@ -2020,7 +2020,7 @@
     <string name="voice_data_failed_message">eSpeak gagal memasang data suara. Silahkan periksa kartu SD anda.</string>
     <string name="voice_help">voice_help</string>
     <string name="voice_help_title">Bantuan suara asisten</string>
-    <string name="voice_helper_capability_setting">Pengaturan kemampuan voice assistant</string>
+    <string name="voice_helper_capability_setting">Pengaturan kemampuan asisten suara</string>
     <string name="voice_helper_copy">voice_helper_copy</string>
     <string name="voice_helper_copy_title">Otomatis menyalin hasil terjemahan ke papan klip:</string>
     <string name="voice_helper_exit">Sampai jumpa</string>
@@ -2032,10 +2032,10 @@
     <string name="voice_helper_record_stop">Hentikan rekaman</string>
     <string name="voice_helper_service_description">Gunakan ponsel Anda dengan perintah suara.</string>
     <string name="voice_helper_setting">voice_helper_setting</string>
-    <string name="voice_helper_setting_title">Pengaturan voice assistant</string>
+    <string name="voice_helper_setting_title">Pengaturan asisten suara</string>
     <string name="voice_helper_use_app">voice_helper_use_app</string>
     <string name="voice_helper_use_app_gestures">voice_helper_use_app_gestures</string>
-    <string name="voice_helper_use_app_gestures_title">Izinkan mengganti tema gerakan dengan voice assistant</string>
+    <string name="voice_helper_use_app_gestures_title">Izinkan mengganti tema gerakan dengan asisten suara</string>
     <string name="voice_helper_use_app_summary">Jika opsi ini dinyalakan,kamu hanya perlu untuk menyebutkan nama suatu aplikasi untuk membukannya, sebaliknya jika opsi ini dimatikan kamu harus mengucapkan open nama aplikasi .</string>
     <string name="voice_helper_use_app_title">Langsung membuka program tersebut</string>
     <string name="voice_helper_use_blot">voice_helper_use_blot</string>
@@ -2046,13 +2046,13 @@
     <string name="voice_helper_use_cmd">voice_helper_use_cmd</string>
     <string name="voice_helper_use_cmd_title">Izinkan penggunaan perintah suara</string>
     <string name="voice_helper_use_gestures">voice_helper_use_gestures</string>
-    <string name="voice_helper_use_gestures_title">Izinkan mengganti tema gerakan dengan voice assistant</string>
+    <string name="voice_helper_use_gestures_title">Izinkan mengganti tema gerakan dengan asisten suara</string>
     <string name="voice_helper_use_plugin">voice_helper_use_plugin</string>
-    <string name="voice_helper_use_plugin_title">Gunakan ekstensi di voice assistant</string>
+    <string name="voice_helper_use_plugin_title">Gunakan ekstensi di asisten suara</string>
     <string name="voice_helper_use_supper_cmd">voice_helper_use_supper_cmd</string>
-    <string name="voice_helper_use_supper_cmd_title">Gunakan perintah suara tambahan di voice assistant</string>
+    <string name="voice_helper_use_supper_cmd_title">Gunakan perintah suara super di asisten suara</string>
     <string name="voice_helper_use_tool">voice_helper_use_tool</string>
-    <string name="voice_helper_use_tool_title">Izinkan penggunaan ekstensi di voice assistant</string>
+    <string name="voice_helper_use_tool_title">Izinkan penggunaan peralatan dan plugin di asisten suara</string>
     <string name="voice_input_append_mode">voice_input_append_mode</string>
     <string name="voice_input_append_mode_title">Tambahkan text pada akhir kotak edit saat menggunakan masukan suara.</string>
     <string name="voice_input_mode">Mode dikte suara</string>
@@ -2074,9 +2074,9 @@
     <string name="wallpaper_title">Wallpaper Jieshuo.</string>
     <string name="web_app_name">Jieshuo Web browser</string>
     <string name="web_type_move">web_type_move</string>
-    <string name="web_type_move_title">Jenis halaman yang digunakan</string>
+    <string name="web_type_move_title">Jenis halaman yang digunakan: </string>
     <string name="welcome">welcome</string>
-    <string name="welcome_msg">Selamat datang di Jieshuo screen reader! pilih diantara tiga opsi berikut, panduan untuk membaca cara penggunaan, periksa izin untuk memeriksa izin pembaca layar ini, dan keluar untuk menutup.</string>
+    <string name="welcome_msg">Pilih diantara tiga opsi berikut, panduan untuk membaca cara penggunaan, periksa izin untuk memeriksa izin pembaca layar ini, dan keluar untuk menutup.</string>
     <string name="windows_notification">jendela pemberitahuan</string>
     <string name="xiaoyan">xiaoyan</string>
     <string name="zoom_in">memperbesar</string>
@@ -2094,7 +2094,7 @@
     <string name="use_volume_on_long_speak_title">Saat membaca teks panjang, tekan tombol volume untuk mengatur volume aksesibilitas:</string>
     <string name="message_title">Petunjuk</string>
     <string name="msg_talkback_enabled">Anda telah mengaktifkan TalkBack, dan mengaktifkan Jieshuo dan TalkBack secara bersamaan dapat menyebabkan sentuhan yang tidak normal. Harap kembalikan penjelajahan sentuh Jieshuo setelah mematikan TalkBack.</string>
-    <string name="cur_timer_speak_title">pengaturan pembacaan timer</string>
+    <string name="cur_timer_speak_title">pengaturan pembacaan timer:</string>
     <string name="use_speak_uts">waktu yang berlalu</string>
     <string name="use_speak_rts">waktu yang tersisa</string>
     <string name="use_speak_nts">waktu saat ini</string>
@@ -2128,7 +2128,7 @@
     <string name="move">pindah</string>
     <string name="msg_move_start">Mulai bergerak, sentuh posisi untuk bergerak dan klik dua kali untuk menyelesaikan gerakan</string>
     <string name="msg_move_done">Dipindahkan ke item %d</string>
-    <string name="timer_tts_setting_title">pengaturan tts timer</string>
+    <string name="timer_tts_setting_title">pengaturan tts jam dan timer</string>
     <string name="other_res">resource lainnya</string>
     <string name="language_title">Bahasa terjemahan</string>
     <string name="msg_download_error">Pengunduhan gagal</string>
@@ -2181,16 +2181,16 @@
     <string name="net_4g_level">%s4G信号%d格</string>
     <string name="net_3g_level">%s3G信号%d格</string>
     <string name="net_5g_level">%s5G信号%d格</string>
-    <string name="wifi_level_5">Sinyal WIFI: penuh</string>
-    <string name="wifi_level_4">Sinyal WIFI: 4 bar</string>
-    <string name="wifi_level_3">Sinyal WIFI: 3 bar</string>
-    <string name="wifi_level_2">Sinyal WIFI: 2 bar</string>
-    <string name="wifi_level_1">Sinyal WIFI: 1 bar</string>
+    <string name="wifi_level_5">Sinyal WIFI: penuh.</string>
+    <string name="wifi_level_4">Sinyal WIFI: 4 balok.</string>
+    <string name="wifi_level_3">Sinyal WIFI: 3 balok.</string>
+    <string name="wifi_level_2">Sinyal WIFI: 2 balok.</string>
+    <string name="wifi_level_1">Sinyal WIFI: 1 balok.</string>
     <string name="timer_rts">tersisa</string>
     <string name="timer_pause_and_now_time">计时已暂停，%s，%s</string>
     <string name="battery_charging">Mengisi daya</string>
-    <string name="default_gesture_setting_title">Pengaturan Gestur Default</string>
-    <string name="default_gesture_setting_summary">Kelola perilaku saat skema gerakan disetel sebagai default, atau skema kustom menjalankan fungsi default</string>
+    <string name="default_gesture_setting_title">Pengaturan Gestur Default.</string>
+    <string name="default_gesture_setting_summary">Kelola pengaturan skema gerakan yang diatur sebagai fungsi default, atau skema kustom yang menjalankan fungsi default.</string>
     <string name="use_action_menu_show_cursor_title">Tampilkan aksi khusus fokus di menu tindakan.</string>
     <string name="use_action_menu_show_ext_title">Tampilkan fungsi yang diperluas seperti penyesuaian kemajuan ekstraksi tautan di menu tindakan.</string>
     <string name="find_next">temukan selanjutnya</string>
@@ -2199,7 +2199,7 @@
     <string name="command_media_fast_forward">maju cepat</string>
     <string name="command_media_rewind">mundur cepat</string>
     <string name="command_selection_mode">mode pemilihan</string>
-    <string name="timer_format_title">Format waktu</string>
+    <string name="timer_format_title">Format waktu:</string>
     <string name="timer_format_def">Mengikuti sistem.</string>
     <string name="timer_format_12">12jam.</string>
     <string name="timer_format_24">24jam.</string>
@@ -2215,20 +2215,20 @@
     <string name="default_gesture_type_view_left_right">Gunakan penelusuran menurut jenis navigasi di semua tampilan, (jenis navigasi atas atau bawah, untuk item navigasi kiri atau kanan)</string>
     <string name="default_gesture_type_view_left_right_new">Gunakan penelusuran menurut jenis navigasi di semua tampilan, Baru. Gunakan gerakan atas lalu bawah dan sebaliknya untuk mengganti jenis navigasi, gerakan atas atau bawah untuk menggunakan item navigasi, gerakan kiri atau kanan akan tetap berfungsi sebagai navigasi default.</string>
     <string name="use_speak_state_title">Bacakan status item terlebih dahulu.</string>
-    <string name="alarm_hours_title">waktu berbunyi</string>
+    <string name="alarm_hours_title">waktu berbunyi:</string>
     <string name="notification_in_call_no_speak_title">Jangan ganggu notifikasi selama panggilan:</string>
     <string name="notification_in_auto_read_no_speak_title">Jangan ganggu notifikasi selama mode penelusuran atau membaca otomatis:</string>
-    <string name="timer_action_def_title">Tindakan default pengatur waktu</string>
+    <string name="timer_action_def_title">Tindakan default pengatur waktu:</string>
     <string name="timer_action_def_summary">Berlaku bila menyertakan pengatur waktu yang telah ditetapkan sebelumnya</string>
     <string name="timer_item_formater">%s %d小时 %d分钟 %s</string>
     <string name="use_ocr_auto_speak_title">Secara otomatis membaca pengenalan teks layar penuh atau hasil layar virtual.</string>
     <string name="use_new_text_move_type_title">Gunakan gaya narasi untuk menangani operasi pergerakan teks.</string>
-    <string name="use_move_text_gesture_title">Pindahkan kursor di kotak edit yang aktif</string>
-    <string name="use_answer_phone_calls_incall_gesture_title">Jawab dan tutup panggilan di layar panggilan masuk</string>
+    <string name="use_move_text_gesture_title">Pindahkan kursor di kotak edit yang aktif:</string>
+    <string name="use_answer_phone_calls_incall_gesture_title">Jawab dan tutup panggilan di layar panggilan masuk:</string>
     <string name="use_scroll_seek_gesture_title">Sesuaikan kemajuan pada penggeser kemajuan.</string>
     <string name="use_scroll_list_gesture_title">Gulir daftar di dalam daftar.</string>
-    <string name="use_click_dialog_gesture_title">Klik tombol OK atau Batal di kotak dialog</string>
-    <string name="use_click_button_gesture_title">Lakukan operasi pintasan khusus, atau aksi</string>
+    <string name="use_click_dialog_gesture_title">Klik tombol OK atau Batal di kotak dialog:</string>
+    <string name="use_click_button_gesture_title">Lakukan operasi pintasan khusus, atau aksi:</string>
     <string name="export_all_file">Ekspor semua</string>
     <string name="share_all">bagikan semua</string>
     <string name="command_image_to_text">Pengenalan gambar</string>
@@ -2241,7 +2241,7 @@
     <string name="double_fling_time_title">Waktu tunggu untuk Gestur kedua:</string>
     <string name="jieshuo_beta_title">Jieshuo beta internal</string>
     <string name="picture_description">Deskripsi gambar</string>
-    <string name="auto_list_tts_setting_title">Pengaturan TTS pembacaan daftar qq otomatis</string>
+    <string name="auto_list_tts_setting_title">Pengaturan TTS pembacaan daftar otomatis</string>
     <string name="more_tts_setting_title">Setelan TTS lainnya</string>
     <string name="ocr_lang_zh">Campuran cina dan inggris</string>
     <string name="ocr_lang_zh_rare">Karakter langka Tiongkok dan karakter tradisional</string>
@@ -2267,9 +2267,9 @@
     <string name="ocr_lang_hi">Hindi</string>
     <string name="ocr_lang_ara">Arab</string>
     <string name="use_virtual_screen_dim_background_title">Layar virtual menggunakan latar belakang hitam</string>
-    <string name="edit_ocr_lua_title">Edit mesin ocr ekstensi khusus</string>
-    <string name="ocr_lua_template">"require \"import\"
-import \"com.nirenr.talkman.ai.*\"
+    <string name="edit_ocr_lua_title">Edit mesin ocr custom</string>
+    <string name="ocr_lua_template">"require import
+import com.nirenr.talkman.ai.*
 --例子代码是帮助理解代码的伪代码，不能直接运行
 bs,listener=...--获取参数
 task(function(bs)
@@ -2278,7 +2278,7 @@ task(function(bs)
  return {
  length=2,
  {
- t=\"例子代码是帮助理解代码的伪代码\",
+ t=例子代码是帮助理解代码的伪代码,
  x=0,
  y=300,
  w=1000,
@@ -2286,7 +2286,7 @@ task(function(bs)
  s=50
  },
  {
- t=\"不能直接运行\",
+ t=不能直接运行,
  x=0,
  y=600,
  w=800,
@@ -2295,7 +2295,6 @@ task(function(bs)
  }
  }
  end
-
  local ret=识别函数(bs)
  local rets=OcrResult.OcrItem[ret.length]--构建返回值数组
  for n=1,ret.length do
@@ -2316,11 +2315,11 @@ function(rets)
  listener.onDone(rets)--在回调函数调用onDone通知读屏识别完成
 end)"</string>
     <string name="accessibility_service_description2">Dijelaskan bahwa fungsi layanan tambahan dan layanan utama sama persis. Keduanya terutama digunakan dalam beberapa skenario di saat nama layanan pembacaan layar terdeteksi. Kedua layanan tersebut tidak perlu diaktifkan secara bersamaan .</string>
-    <string name="resume_on_screen_on_title">Pulihkan umpan balik saat layar menyala</string>
-    <string name="resume_on_notification_show_title">Pulihkan umpan balik saat bayangan notifikasi ditarik ke bawah</string>
-    <string name="resume_on_ringing_title">Pulihkan umpan balik saat ada panggilan masuk</string>
+    <string name="resume_on_screen_on_title">Pulihkan umpan balik saat layar menyala:</string>
+    <string name="resume_on_notification_show_title">Pulihkan umpan balik saat panel notifikasi ditarik ke bawah:</string>
+    <string name="resume_on_ringing_title">Pulihkan umpan balik saat ada panggilan masuk:</string>
     <string name="helper_supper_cmd_title">Perintah suara super</string>
-    <string name="back_break_auto_mode_title">Gerakan kembali menghentikan penelusuran otomatis</string>
+    <string name="back_break_auto_mode_title">Gerakan kembali menghentikan penelusuran otomatis:</string>
     <string name="msg_export_all_file">Ini akan mengekspor semua pengaturan dan file Jieshuo ke %s untuk diimpor pada ponsel baru. Harap hindari berbagi arsip yang diekspor dengan orang lain karena berisi data Anda sendiri, termasuk informasi login Anda.</string>
     <string name="msg_export_all_file_fail">Gagal mengekspor. Silakan coba lagi</string>
     <string name="import_all_title">Impor cadangan lengkap?</string>
@@ -2334,7 +2333,7 @@ end)"</string>
     <string name="msg_disable_use_single_tts">Anda harus menonaktifkan opsi Gunakan mesin TTS tunggal untuk menggunakan %s. Apakah Anda ingin melanjutkan?</string>
     <string name="command_auto_list_speak">Membaca pesan obrolan secara otomatis</string>
     <string name="command_auto_list_speak_history">Riwayat pesan obrolan otomatis</string>
-    <string name="msg_start_auto_list">Pembacaan pesan otomatis telah dimulai untuk  %s</string>
+    <string name="msg_start_auto_list">Pembacaan pesan otomatis telah dimulai untuk %s</string>
     <string name="msg_stop_auto_list">Pembacaan pesan otomatis telah dihentikan untuk %s</string>
     <string name="msg_username_typo">Format nama pengguna atau kata sandi salah</string>
     <string name="msg_username_error">Username atau password salah</string>
@@ -2343,21 +2342,21 @@ end)"</string>
     <string name="msg_network_error">Masalah jaringan</string>
     <string name="command_verification12">Verifikasi penggeser</string>
     <string name="command_recognition_edu">Pengakuan ujian</string>
-    <string name="use_input_method_speak_word_title">Ucapkan contoh kata untuk huruf saat mengetik</string>
-    <string name="trans_lua_engine_title">Gunakan mesin terjemahan khusus</string>
+    <string name="use_input_method_speak_word_title">Ucapkan contoh kata dari huruf saat mengetik:</string>
+    <string name="trans_lua_engine_title">Gunakan mesin terjemahan khusus.</string>
     <string name="edit_trans_lua_title">Edit mesin terjemahan khusus</string>
     <string name="trans_lua_template"><![CDATA[" require \"import\" \n import \"java.util.Locale\"\n local form,to,text,ltr=...\n local url=string.format(\"https://translate.google.com/m?sl=%s&tl=%s&hl=%s&q=%s\",from,to,Locale.getDefault().getCountry(),text)\n Http.get(url,function(code,text)\n   ltr.onTransResult(text:match(\"<[^<>]*\\\"result%-container\\\">([^<>]*)</div>\"))\n   end)"]]></string>
-    <string name="match_all">Pencarian semua text</string>
-    <string name="match_start">Mulai mencari text</string>
-    <string name="match_end">Akhir dari pencarian text</string>
-    <string name="match_contains">Text ditemukan</string>
+    <string name="match_all">Memblokir text yang cocok dengan kata kunci.</string>
+    <string name="match_start">Memblokir text yang diawali dengan kata kunci yang dimasukkan.</string>
+    <string name="match_end">Memblokir text yang diakhiri dengan kata kunci yang dimasukkan.</string>
+    <string name="match_contains">Memblokir text yang mengandung kata kunci yang dimasukkan.</string>
     <string name="today">Hari ini</string>
     <string name="yesterday">Kemarin</string>
     <string name="before_yesterday">Kemarin lusa</string>
     <string name="command_accept_call">Jawab panggilan</string>
     <string name="command_end_call">Tutup panggilan</string>
     <string name="command_pause_a11y_volume">Mode volume</string>
-    <string name="msg_supper_cmd_only_voice_helper">Perintah suara super hanya dapat dipanggil di asisten suara</string>
+    <string name="msg_supper_cmd_only_voice_helper">Perintah suara super hanya dapat dipanggil dengan asisten suara</string>
     <string name="msg_no_a11y_volume">Anda tidak menggunakan volume aksesibilitas</string>
     <string name="msg_a11y_volume_disabled">Menggunakan volume media</string>
     <string name="msg_a11y_volume_enabled">Menggunakan volume aksesibilitas</string>
@@ -2369,21 +2368,68 @@ end)"</string>
     <string name="nodeinfo_not_long_click">Tidak bisa ditekan lama</string>
     <string name="nodeinfo_editable">Dapat diedit</string>
     <string name="nodeinfo_not_edit">Tidak dapat diedit</string>
-    <string name="sound_scroll_page">翻页</string>
-    <string name="use_auto_mode_move_list_view_item_title">在自动浏览中使用列表项目间快速移动</string>
-    <string name="helper_tts_setting_title">语音助手语音设置</string>
-    <string name="node_tts_setting_title">焦点监控语音设置</string>
-    <string name="voice_helper_use_big_title">使用生成式大模式</string>
-    <string name="chat_history">对话记录</string>
-    <string name="command_recognition_icon">图标识别</string>
-    <string name="command_long_hold">点击按住</string>
-    <string name="sound_progress">进度</string>
-    <string name="sound_progress_100">进度100</string>
-    <string name="sound_clear_notification">清除全部通知</string>
-    <string name="sound_talkman_start">解说启动</string>
-    <string name="sound_talkman_stop">解说停止</string>
-    <string name="sound_camera">相机快门</string>
-    <string name="voice_picture_description">语音询问</string>
-    <string name="voice_picture_description2">语音询问全屏</string>
+    <string name="sound_scroll_page">Suara scroll halaman</string>
+    <string name="use_auto_mode_move_list_view_item_title">Gunakan item daftar untuk berpindah dengan cepat antar item di Penjelajahan Otomatis.</string>
+    <string name="helper_tts_setting_title">Pengaturan tts asisten suara</string>
+    <string name="node_tts_setting_title">Pengaturan tts pemantauan fokus</string>
+    <string name="voice_helper_use_big_title">Gunakan model percakapan.</string>
+    <string name="chat_history">Riwayat chat</string>
+    <string name="command_recognition_icon">Pengenalan ikon</string>
+    <string name="command_long_hold">Klik dan tahan</string>
+    <string name="sound_progress">Suara proses kemajuan</string>
+    <string name="sound_progress_100">Suara kemajuan 100 persen</string>
+    <string name="sound_clear_notification">Suara menghapus semua notifikasi</string>
+    <string name="sound_talkman_start">Suara aksesibilitas Jieshuo dimulai</string>
+    <string name="sound_talkman_stop">Suara aksesibilitas Jieshuo dimatikan</string>
+    <string name="sound_camera">Suara kamera</string>
+    <string name="voice_picture_description">Tanyakan gambar</string>
+    <string name="voice_picture_description2">Tanyakan gambar layar penuh</string>
+    <string name="ocr_lang_en">Ingris</string>
+    <string name="video_description">Deskripsi video</string>
+    <string name="msg_start_video_description">Deskripsi video dimulai</string>
+    <string name="msg_stop_video_description">Deskripsi video dihentikan</string>
+    <string name="use_image_to_text_title">Deskripsi gambar otomatis</string>
+    <string name="voice_question">Tanya Jawab Suara</string>
+    <string name="find_object">Temukan objek</string>
+    <string name="use_long_click_voice_image_title">Sentuh tahan untuk mendeskripsikan item yang difokuskan.</string>
+    <string name="use_text_stat_title">Gunakan Gerakan Penghitungan Karakter.</string>
+    <string name="use_text_stat_summary">Gunakan fungsi penghitungan karakter kiri ke kanan dan kanan ke kiri dalam kotak edit yang diaktifkan</string>
+    <string name="use_move_window_title">Pengalihan jendela otomatis.</string>
+    <string name="ads_filter">saring iklan.</string>
+    <string name="prevent_jump">Anti-lompatan.</string>
+    <string name="voice_helper_use_input_method_title">Gunakan masukan teks alih-alih masukan suara untuk interaksi.</string>
+    <string name="input_content">Masukan konten.</string>
+    <string name="select_segmentation_mode">Mode pemilihan terpisah</string>
+    <string name="msg_start_find">Mulai mencari %s, harap gerakkan ponsel Anda perlahan</string>
+    <string name="msg_stop_find">Pencarian dihentikan</string>
+    <string name="command_all_node">Semua node</string>
+    <string name="sound_inputmethod_show">Keyboard telah ditampilkan</string>
+    <string name="sound_inputmethod_hide">Keyboard telah ditutup</string>
+    <string name="command_node_menu">Menu fokus</string>
+    <string name="command_take_screenshot2">Tangkapan layar fokus</string>
+    <string name="sound_auto_ocr_done">Suara OCR otomatis berakhir:</string>
+    <string name="sound_auto_ocr_error">Suara kesalahan OCR otomatis:</string>
+    <string name="custom_search_engine_title">Kustom Mesin Telusur</string>
+    <string name="app_profiles_title">Per-app profile</string>
+    <string name="edit_app_profiles_title">Edit per-app profile</string>
+    <string name="auto_focus_title">Fokus otomatis</string>
+    <string name="command_pause_gesture">Jeda Gerakan</string>
+    <string name="msg_gesture_disabled">Gerakan dijeda</string>
+    <string name="msg_gesture_enabled">Gerakan diaktifkan</string>
+    <string name="tts_low_latency_title">Mode respon cepat TTS</string>
+    <string name="ocr_level_title">Akurasi OCR Offline:</string>
+    <string name="use_ext_actions_gesture_title">Lakukan tindakan khusus dalam fokus yang mendukung tindakan khusus:</string>
+    <string name="use_auto_view_type_title">Secara otomatis beralih jenis penelusuran: </string>
+    <string name="use_input_method_no_gesture_title">Jeda gerakan saat keyboard ditampilkan:</string>
+    <string name="command_grid_mode">网格模式</string>
+    <string name="resume_on_screen_off_title">当屏幕关闭时恢复反馈</string>
+    <string name="app_no_key_shortcut_title">不使用音量快捷键的应用</string>
+    <string name="sort_title">排序</string>
+    <string name="sort_name">按名称</string>
+    <string name="sort_time">按时间</string>
+    <string name="use_reverse_scroll_home_page_title">在桌面翻页时反转翻页方向</string>
+    <string name="all_description">pengenalan universal</string>
+    <string name="checkbox_description">pengenalan kotak centang</string>
+    <string name="msg_checkbox_not_found">Tidak ada kotak centang yang ditemukan</string>
 
 </resources>
