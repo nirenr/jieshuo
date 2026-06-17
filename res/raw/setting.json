@@ -630,6 +630,12 @@
       "app_no_supper_sound_package_title"
     ]
   ],
+  "use_effect_pro_title": [
+    [
+      "feed_setting.xml",
+      "use_effect_pro_title"
+    ]
+  ],
   "use_screen_on_speak_notification_title": [
     [
       "content_setting.xml",
@@ -2997,6 +3003,35 @@
       "use_navigation_gesture_title"
     ]
   ],
+  "use_gesture_detection_title": [
+    [
+      "advanced_setting.xml",
+      "action_settings_title",
+      "use_gesture_detection_title"
+    ]
+  ],
+  "touch_focus_time_out_title": [
+    [
+      "advanced_setting.xml",
+      "action_settings_title",
+      "touch_focus_time_out_title"
+    ]
+  ],
+  "double_tap_time_out_title": [
+    [
+      "advanced_setting.xml",
+      "action_settings_title",
+      "double_tap_time_out_title"
+    ]
+  ],
+  "navigation_gesture_width_title": [
+    [
+      "advanced_setting.xml",
+      "action_settings_title",
+      "navigation_gesture_width_title"
+    ]
+  ],
+
   "voice_helper_setting_title": [
     [
       "advanced_setting.xml",

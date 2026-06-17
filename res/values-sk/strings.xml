@@ -1757,8 +1757,9 @@
     <string name="msg_gesture_disabled">读屏手势已暂停</string>
     <string name="msg_gesture_enabled">读屏手势已启用</string>
     <string name="tts_low_latency_title">语音库低延时模式</string>
-    <string name="use_auto_view_type_title">自动切换浏览类型</string>
+    <string name="ocr_level_title">离线ocr精度</string>
     <string name="use_ext_actions_gesture_title">在支持操作的焦点切换操作</string>
+    <string name="use_auto_view_type_title">自动切换浏览类型</string>
     <string name="use_input_method_no_gesture_title">弹出输入法时暂停读屏手势</string>
     <string name="command_grid_mode">网格模式</string>
     <string name="resume_on_screen_off_title">当屏幕关闭时恢复反馈</string>
@@ -1770,6 +1771,27 @@
     <string name="all_description">全能识别</string>
     <string name="checkbox_description">识别复选框</string>
     <string name="msg_checkbox_not_found">没有未选中复选框</string>
+    <string name="cloud_backup_dict_title">备份词典</string>
+    <string name="cloud_backup_name_title">备份别名</string>
+    <string name="cloud_restore_dict_title">恢复词典</string>
+    <string name="cloud_restore_name_title">恢复别名</string>
+    <string name="msg_dict_backup_error">词典备份出错</string>
+    <string name="msg_dict_backup_done">词典备份完成</string>
+    <string name="msg_name_backup_error">别名备份出错</string>
+    <string name="msg_name_backup_done">别名备份完成</string>
+    <string name="msg_restore_dict_error">恢复词典出错</string>
+    <string name="msg_restore_dict_done">恢复词典完成</string>
+    <string name="msg_restore_name_error">恢复别名出错</string>
+    <string name="msg_restore_name_done">恢复别名完成</string>
+    <string name="use_effect_pro_title">精确控制超级音效的播放时间</string>
+    <string name="command_captcha_click_recognition">点选验证码识别</string>
+    <string name="command_ai_text_summarization">全文总结</string>
+    <string name="command_ai_grammar_correction">智能改错</string>
+    <string name="use_gesture_detection_title">在解说中处理手势</string>
+    <string name="touch_focus_time_out_title">触摸焦点延时</string>
+    <string name="typing_focus_time_out_title">输入法焦点延时</string>
+    <string name="navigation_gesture_width_title">单指全面屏手势触发范围</string>
+    <string name="double_tap_time_out_title">双击延时</string>
 
 
 </resources>

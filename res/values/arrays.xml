@@ -1118,7 +1118,85 @@
         <item>Screen areas</item>
 
     </string-array>
-
-
+    <string-array name="service_detected_gesture_list">
+        <!-- Start with double tap. -->
+        <item>MAPPER_GESTURE_DOUBLE_TAP</item>
+        <item>MAPPER_GESTURE_DOUBLE_TAP_AND_HOLD</item>
+        <!-- Second-finger tap. -->
+        <item>MAPPER_GESTURE_FAKED_SPLIT_TYPING</item>
+        <item>MAPPER_GESTURE_FAKED_SPLIT_TYPING_AND_HOLD</item>
+        <!-- One-direction swipes. -->
+        <item>MAPPER_GESTURE_SWIPE_RIGHT</item>
+        <item>MAPPER_GESTURE_SWIPE_LEFT</item>
+        <item>MAPPER_GESTURE_SWIPE_UP</item>
+        <item>MAPPER_GESTURE_SWIPE_DOWN</item>
+        <!-- Two-direction swipes. -->
+        <item>MAPPER_GESTURE_SWIPE_LEFT_AND_RIGHT</item>
+        <item>MAPPER_GESTURE_SWIPE_LEFT_AND_UP</item>
+        <item>MAPPER_GESTURE_SWIPE_LEFT_AND_DOWN</item>
+        <item>MAPPER_GESTURE_SWIPE_RIGHT_AND_UP</item>
+        <item>MAPPER_GESTURE_SWIPE_RIGHT_AND_DOWN</item>
+        <item>MAPPER_GESTURE_SWIPE_RIGHT_AND_LEFT</item>
+        <item>MAPPER_GESTURE_SWIPE_DOWN_AND_UP</item>
+        <item>MAPPER_GESTURE_SWIPE_DOWN_AND_LEFT</item>
+        <item>MAPPER_GESTURE_SWIPE_DOWN_AND_RIGHT</item>
+        <item>MAPPER_GESTURE_SWIPE_UP_AND_DOWN</item>
+        <item>MAPPER_GESTURE_SWIPE_UP_AND_LEFT</item>
+        <item>MAPPER_GESTURE_SWIPE_UP_AND_RIGHT</item>
+        <!--> Two-finger taps. -->
+        <item>MAPPER_GESTURE_2_FINGER_SINGLE_TAP</item>
+        <item>MAPPER_GESTURE_2_FINGER_SINGLE_TAP_AND_HOLD</item>
+        <item>MAPPER_GESTURE_2_FINGER_DOUBLE_TAP</item>
+        <item>MAPPER_GESTURE_2_FINGER_DOUBLE_TAP_AND_HOLD</item>
+        <item>MAPPER_GESTURE_2_FINGER_TRIPLE_TAP</item>
+        <item>MAPPER_GESTURE_2_FINGER_TRIPLE_TAP_AND_HOLD</item>
+        <!-- Three-finger taps. -->
+        <item>MAPPER_GESTURE_3_FINGER_SINGLE_TAP</item>
+        <item>MAPPER_GESTURE_3_FINGER_DOUBLE_TAP</item>
+        <item>MAPPER_GESTURE_3_FINGER_SINGLE_TAP_AND_HOLD</item>
+        <item>MAPPER_GESTURE_3_FINGER_DOUBLE_TAP_AND_HOLD</item>
+        <item>MAPPER_GESTURE_3_FINGER_TRIPLE_TAP</item>
+        <item>MAPPER_GESTURE_3_FINGER_TRIPLE_TAP_AND_HOLD</item>
+        <item>MAPPER_GESTURE_3_FINGER_TRIPLE_TAP</item>
+        <!-- Four-finger taps. -->
+        <item>MAPPER_GESTURE_4_FINGER_SINGLE_TAP</item>
+        <item>MAPPER_GESTURE_4_FINGER_DOUBLE_TAP</item>
+        <item>MAPPER_GESTURE_4_FINGER_DOUBLE_TAP_AND_HOLD</item>
+        <item>MAPPER_GESTURE_4_FINGER_TRIPLE_TAP</item>
+        <!-- Two-finger swipes. -->
+        <item>MAPPER_GESTURE_2_FINGER_SWIPE_DOWN</item>
+        <item>MAPPER_GESTURE_2_FINGER_SWIPE_LEFT</item>
+        <item>MAPPER_GESTURE_2_FINGER_SWIPE_RIGHT</item>
+        <item>MAPPER_GESTURE_2_FINGER_SWIPE_UP</item>
+        <!-- Three-finger swipes. -->
+        <item>MAPPER_GESTURE_3_FINGER_SWIPE_DOWN</item>
+        <item>MAPPER_GESTURE_3_FINGER_SWIPE_LEFT</item>
+        <item>MAPPER_GESTURE_3_FINGER_SWIPE_RIGHT</item>
+        <item>MAPPER_GESTURE_3_FINGER_SWIPE_UP</item>
+        <!-- Four-finger swipes. -->
+        <item>MAPPER_GESTURE_4_FINGER_SWIPE_DOWN</item>
+        <item>MAPPER_GESTURE_4_FINGER_SWIPE_LEFT</item>
+        <item>MAPPER_GESTURE_4_FINGER_SWIPE_RIGHT</item>
+        <item>MAPPER_GESTURE_4_FINGER_SWIPE_UP</item>
+    </string-array>
+    <string-array name="touch_focus_time_out_values" >
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+    </string-array>
+    <string-array name="typing_focus_time_out_values" >
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+    </string-array>
+    <string-array name="navigation_gesture_width_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
 
 </resources>

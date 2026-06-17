@@ -193,7 +193,7 @@
     <string name="directory_labels">标签</string>
     <string name="directory_backup">备份</string>
     <string name="message_load_sound_error">音效切换失败</string>
-    <string name="message_load_done">导入成功</string>
+    <string name="message_load_done">导入完成</string>
     <string name="tool_title">扩展工具</string>
     <string name="directory_tools">工具</string>
     <string name="ocr_title">文字识别</string>
@@ -724,8 +724,8 @@
     <string name="login">登陆</string>
     <string name="back">返回</string>
     <string name="error">出错</string>
-    <string name="login_done">登陆成功</string>
-    <string name="sign_done">注册成功</string>
+    <string name="login_done">登陆完成</string>
+    <string name="sign_done">注册完成</string>
     <string name="directory_timer">计时</string>
     <string name="timer_tags_items_title">计时器标签管理</string>
     <string name="value_none">无</string>
@@ -943,7 +943,7 @@
     <string name="use_ocr_baidu_help">请到https://ai.baidu.com注册，并开通文字，图片标签，植物，动物，植物，果蔬，货币识别</string>
     <string name="ocr_setting">文字识别设置</string>
     <string name="ocr_lang_title">识别语言</string>
-    <string name="ocr_lang_summary">仅使用离线文字识别接口时有效</string>
+    <string name="ocr_lang_summary">仅使用离线文字识别时有效</string>
     <string name="ocr_baidu_summary">仅使用百度OCR接口时有效</string>
     <string name="add_from_focus_node">添加当前焦点</string>
     <string name="add_from_virtual_screen">通过虚拟屏幕</string>
@@ -1062,7 +1062,7 @@
     <string name="sound_gesture_end">手势结束</string>
     <string name="recognition_start">识别开始</string>
     <string name="recognition_end">识别结束</string>
-    <string name="recognition_success">识别成功</string>
+    <string name="recognition_success">识别完成</string>
     <string name="recognition_error">识别出错</string>
     <string name="recognition_cancel">识别取消</string>
     <string name="command_quick_settings">控制中心</string>
@@ -1142,7 +1142,7 @@
     <string name="gesture_4_swipe_right">四指右滑</string>
     <string name="msg_gesture_updated">更新手势方案完成</string>
     <string name="msg_favorite_added">已收藏</string>
-    <string name="msg_shared">分享成功</string>
+    <string name="msg_shared">分享完成</string>
     <string name="msg_share_error">分享失败</string>
     <string name="select_progress">进度</string>
     <string name="node_changed_list_manager">焦点监控管理</string>
@@ -1329,7 +1329,7 @@
     <string name="command_disable_hotkey">暂停快捷键</string>
     <string name="fly_pinyin_speak_title">读出拼音和音标</string>
     <string name="use_navigation_gesture_title">单指全面屏手势</string>
-    <string name="use_navigation_gesture_summary">单指从屏幕底部向上滑动操作全面屏手势（仅支持安卓11以上）</string>
+    <string name="use_navigation_gesture_summary">单指从屏幕边缘向内滑动操作全面屏手势（仅支持安卓11以上）</string>
     <string name="msg_import">已导入%s</string>
     <string name="wallpaper_description">如果你想读屏不用权限设置不死，请把解说设置为你的壁纸</string>
     <string name="wallpaper_title">解说壁纸(测试功能)</string>
@@ -1368,7 +1368,7 @@
     <string name="backgroud_download">后台下载</string>
     <string name="cancel_download">取消下载</string>
     <string name="comment">评论</string>
-    <string name="comment_done">评论成功</string>
+    <string name="comment_done">评论完成</string>
     <string name="use_proximity_false_touch_prevention_title">口袋防误触模式</string>
     <string name="use_proximity_false_touch_prevention_only_lock_title">仅在锁屏界面使用口袋防误触</string>
     <string name="enbled_gesture_title">尚未启用是否启用</string>
@@ -1837,8 +1837,9 @@
     <string name="msg_gesture_disabled">读屏手势已暂停</string>
     <string name="msg_gesture_enabled">读屏手势已启用</string>
     <string name="tts_low_latency_title">语音库低延时模式</string>
-    <string name="use_auto_view_type_title">自动切换浏览类型</string>
+    <string name="ocr_level_title">离线ocr精度</string>
     <string name="use_ext_actions_gesture_title">在支持操作的焦点切换操作</string>
+    <string name="use_auto_view_type_title">自动切换浏览类型</string>
     <string name="use_input_method_no_gesture_title">弹出输入法时暂停读屏手势</string>
     <string name="command_grid_mode">网格模式</string>
     <string name="resume_on_screen_off_title">当屏幕关闭时恢复反馈</string>
@@ -1850,5 +1851,26 @@
     <string name="all_description">全能识别</string>
     <string name="checkbox_description">识别复选框</string>
     <string name="msg_checkbox_not_found">没有未选中复选框</string>
+    <string name="cloud_backup_dict_title">备份词典</string>
+    <string name="cloud_backup_name_title">备份别名</string>
+    <string name="cloud_restore_dict_title">恢复词典</string>
+    <string name="cloud_restore_name_title">恢复别名</string>
+    <string name="msg_dict_backup_error">词典备份出错</string>
+    <string name="msg_dict_backup_done">词典备份完成</string>
+    <string name="msg_name_backup_error">别名备份出错</string>
+    <string name="msg_name_backup_done">别名备份完成</string>
+    <string name="msg_restore_dict_error">恢复词典出错</string>
+    <string name="msg_restore_dict_done">恢复词典完成</string>
+    <string name="msg_restore_name_error">恢复别名出错</string>
+    <string name="msg_restore_name_done">恢复别名完成</string>
+    <string name="use_effect_pro_title">精确控制超级音效的播放时间</string>
+    <string name="command_captcha_click_recognition">点选验证码识别</string>
+    <string name="command_ai_text_summarization">全文总结</string>
+    <string name="command_ai_grammar_correction">智能改错</string>
+    <string name="use_gesture_detection_title">在解说中处理手势</string>
+    <string name="touch_focus_time_out_title">触摸焦点延时</string>
+    <string name="typing_focus_time_out_title">输入法焦点延时</string>
+    <string name="navigation_gesture_width_title">单指全面屏手势触发范围</string>
+    <string name="double_tap_time_out_title">双击延时</string>
 
 </resources>

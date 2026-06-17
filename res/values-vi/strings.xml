@@ -29,7 +29,7 @@
     Lựa chọn toàn văn bản: lựa chọn bằng ký tự, từ, câu hoặc đoạn để sao chép văn bản chính xác tại vị trí bạn mong muốn.\n
     Lệnh thoại tùy chỉnh: được điều khiển bởi cùng một công cụ điều khiển hệ thống Tiện ích mở rộng, vô số khả năng cập nhật và điều chỉnh trợ lý giọng nói đang chờ đón bạn.\n
     Hệ thống Tiện ích mở rộng tự động khởi chạy: tự động khởi động các Tiện ích mở rộng khác nhau trong khoảng thời gian đã đặt.\n
-    Jieshuo+ là của chúng tôi cũng như của bạn. Tạo nên trải nghiệm Jieshuo+ riêng của bạn với vô số tùy chọn cấu hình.  </string>
+    Jieshuo Max là của chúng tôi cũng như của bạn. Tạo nên trải nghiệm Jieshuo Max riêng của bạn với vô số tùy chọn cấu hình.  </string>
 
     <string name="about_title"> Công ty  trách nhiệm hữu hạn Công nghệ Hà Bắc Biyou </string>
     <string name="help_feed_summary">Jieshuo được cung cấp bởi một số công nghệ như Tencent Youtu, Tencent AI, Baidu Voice, Baidu Translation, Baidu LBS, Baidu MTJ, Google Dịch và Andro Lua +</string>
@@ -998,7 +998,7 @@
     <string name="use_left_right_msg">Trước tiên, hãy đặt chế độ hoạt động vuốt cơ bản của trình đọc màn hình. Theo mặc định, Jieshuo sử dụng thao tác vuốt lên để di chuyển phím tắt trái, vuốt xuống để di chuyển phím tắt phải và vuốt sang trái hoặc sang phải để di chuyển giữa các loại điều hướng. Ví dụ như Liên kết, Nút, v.v. Nếu bạn đã quen với thao tác vuốt của các trình đọc màn hình như Talkback, vui lòng chọn tùy chọn \"Đảo ngược cử chỉ vuốt\" tại đây. Cần lưu ý rằng, khi thay đổi này được áp dụng, thao tác vuốt lên sẽ thực hiện di chuyển đến loại điều hướng trước đó, vuốt xuống sẽ thực hiện di chuyển đến loại điều hướng tiếp theo. và vuốt sang phải hoặc sang trái để di chuyển giữa các phím tắt trái và phím tắt phải</string>
     <string name="usage_hints_msg">Tiếp theo, hãy quyết định xem bạn có muốn nhận gợi ý sử dụng từ Jieshuo hay không. Gợi ý sử dụng là những thông tin ngắn được nói trên bất kỳ tiêu điểm nào, ví dụ: các thông báo được nói khi bạn di chuyển đến 1 tiêu điểm và Jieshuo sẽ đọc nhấn đúp để kích hoạt. Những thông báo này có thể giúp bạn biết được 1 số điều khiển nhất định, nhưng nếu bạn đã quen với việc sử dụng trình đọc màn hình, bạn nên tắt để có trải nghiệm nhanh hơn</string>
     <string name="use_list_index_msg">Danh sách là một phần rất quan trọng của giao diện người dùng Android. Bây giờ, bạn sẽ quyết định xem bạn có muốn trình đọc màn hình đọc nhiều thông tin khác nhau về danh sách hiện tại, như vị chí của phần tử hiện được tập trung trong danh sách hay phạm vi hiển thị của danh sách. Bạn có muốn thông tin này được đọc hay không?</string>
-    <string name="notification_speak_msg">Hãy chọn xem bạn có muốn trình đọc màn hình đọc thông báo hay không. Thông báo bao gồm tin nhắn SMS đến, dự báo thời tiết hoặc bất kỳ thông tin nào khác do thiết bị của bạn gửi đến. Bạn nên bật thông báo nhưng nếu không muốn bị gián đoạn trong quá trình làm việc, bạn có thể tắt chúng đi. Điều đáng chú ý là jieshuo+ có một tính năng gọi là Hộp thông báo có thể giúp xem thông báo trên một số thiết bị dễ dàng hơn nhiều</string>
+    <string name="notification_speak_msg">Hãy chọn xem bạn có muốn trình đọc màn hình đọc thông báo hay không. Thông báo bao gồm tin nhắn SMS đến, dự báo thời tiết hoặc bất kỳ thông tin nào khác do thiết bị của bạn gửi đến. Bạn nên bật thông báo nhưng nếu không muốn bị gián đoạn trong quá trình làm việc, bạn có thể tắt chúng đi. Điều đáng chú ý là Jieshuo Max có một tính năng gọi là Hộp thông báo có thể giúp xem thông báo trên một số thiết bị dễ dàng hơn nhiều</string>
     <string name="use_single_tts_msg">Jieshuo có thể sử dụng hai công cụ giọng nói cùng một lúc. Công cụ giọng nói chính sẽ được sử dụng để đọc hầu hết thông tin, trong khi công cụ giọng nói phụ sẽ được sử dụng để đọc thông báo và các nội dung ít quan trọng khác. Ví dụ, Bạn có thể chọn công cụ giọng nói của google đọc thông báo chính, Nhưng giọng nói VN speak lại có thể sử dụng để đọc thông báo</string>
     <string name="use_left_right_ok">Đảo ngược cử chỉ vuốt</string>
     <string name="use_left_right_no">Sử dụng cử chỉ mặc định</string>
@@ -1851,8 +1851,9 @@
     <string name="msg_gesture_disabled">读屏手势已暂停</string>
     <string name="msg_gesture_enabled">读屏手势已启用</string>
     <string name="tts_low_latency_title">语音库低延时模式</string>
-    <string name="use_auto_view_type_title">自动切换浏览类型</string>
+    <string name="ocr_level_title">离线ocr精度</string>
     <string name="use_ext_actions_gesture_title">在支持操作的焦点切换操作</string>
+    <string name="use_auto_view_type_title">自动切换浏览类型</string>
     <string name="use_input_method_no_gesture_title">弹出输入法时暂停读屏手势</string>
     <string name="command_grid_mode">网格模式</string>
     <string name="resume_on_screen_off_title">当屏幕关闭时恢复反馈</string>
@@ -1864,5 +1865,26 @@
     <string name="all_description">全能识别</string>
     <string name="checkbox_description">识别复选框</string>
     <string name="msg_checkbox_not_found">没有未选中复选框</string>
+    <string name="cloud_backup_dict_title">备份词典</string>
+    <string name="cloud_backup_name_title">备份别名</string>
+    <string name="cloud_restore_dict_title">恢复词典</string>
+    <string name="cloud_restore_name_title">恢复别名</string>
+    <string name="msg_dict_backup_error">词典备份出错</string>
+    <string name="msg_dict_backup_done">词典备份完成</string>
+    <string name="msg_name_backup_error">别名备份出错</string>
+    <string name="msg_name_backup_done">别名备份完成</string>
+    <string name="msg_restore_dict_error">恢复词典出错</string>
+    <string name="msg_restore_dict_done">恢复词典完成</string>
+    <string name="msg_restore_name_error">恢复别名出错</string>
+    <string name="msg_restore_name_done">恢复别名完成</string>
+    <string name="use_effect_pro_title">精确控制超级音效的播放时间</string>
+    <string name="command_captcha_click_recognition">点选验证码识别</string>
+    <string name="command_ai_text_summarization">全文总结</string>
+    <string name="command_ai_grammar_correction">智能改错</string>
+    <string name="use_gesture_detection_title">在解说中处理手势</string>
+    <string name="touch_focus_time_out_title">触摸焦点延时</string>
+    <string name="typing_focus_time_out_title">输入法焦点延时</string>
+    <string name="navigation_gesture_width_title">单指全面屏手势触发范围</string>
+    <string name="double_tap_time_out_title">双击延时</string>
 
 </resources>

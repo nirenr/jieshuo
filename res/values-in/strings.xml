@@ -2431,5 +2431,26 @@ end)"</string>
     <string name="all_description">pengenalan universal</string>
     <string name="checkbox_description">pengenalan kotak centang</string>
     <string name="msg_checkbox_not_found">Tidak ada kotak centang yang ditemukan</string>
+    <string name="cloud_backup_dict_title">备份词典</string>
+    <string name="cloud_backup_name_title">备份别名</string>
+    <string name="cloud_restore_dict_title">恢复词典</string>
+    <string name="cloud_restore_name_title">恢复别名</string>
+    <string name="msg_dict_backup_error">词典备份出错</string>
+    <string name="msg_dict_backup_done">词典备份完成</string>
+    <string name="msg_name_backup_error">别名备份出错</string>
+    <string name="msg_name_backup_done">别名备份完成</string>
+    <string name="msg_restore_dict_error">恢复词典出错</string>
+    <string name="msg_restore_dict_done">恢复词典完成</string>
+    <string name="msg_restore_name_error">恢复别名出错</string>
+    <string name="msg_restore_name_done">恢复别名完成</string>
+    <string name="use_effect_pro_title">精确控制超级音效的播放时间</string>
+    <string name="command_captcha_click_recognition">点选验证码识别</string>
+    <string name="command_ai_text_summarization">全文总结</string>
+    <string name="command_ai_grammar_correction">智能改错</string>
+    <string name="use_gesture_detection_title">在解说中处理手势</string>
+    <string name="touch_focus_time_out_title">触摸焦点延时</string>
+    <string name="typing_focus_time_out_title">输入法焦点延时</string>
+    <string name="navigation_gesture_width_title">单指全面屏手势触发范围</string>
+    <string name="double_tap_time_out_title">双击延时</string>
 
 </resources>

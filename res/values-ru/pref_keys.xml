@@ -543,12 +543,19 @@
     <string name="custom_search_engine">custom_search_engine</string>
     <string name="auto_focus">auto_focus</string>
     <string name="tts_low_latency">tts_low_latency</string>
-    <string name="use_auto_view_type">use_auto_view_type</string>
+    <string name="ocr_level">ocr_level</string>
     <string name="use_ext_actions_gesture">use_ext_actions_gesture</string>
+    <string name="use_auto_view_type">use_auto_view_type</string>
     <string name="use_input_method_no_gesture">use_input_method_no_gesture</string>
     <string name="resume_on_screen_off">resume_on_screen_off</string>
     <string name="app_no_key_shortcut">app_no_key_shortcut</string>
     <string name="use_reverse_scroll_home_page">use_reverse_scroll_home_page</string>
+    <string name="use_effect_pro">use_effect_pro</string>
+    <string name="use_gesture_detection">use_gesture_detection</string>
+    <string name="touch_focus_time_out">touch_focus_time_out</string>
+    <string name="typing_focus_time_out">typing_focus_time_out</string>
+    <string name="navigation_gesture_width">navigation_gesture_width</string>
+    <string name="double_tap_time_out">double_tap_time_out</string>
 
 
 </resources>

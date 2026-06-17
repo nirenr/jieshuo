@@ -518,10 +518,18 @@
     <string name="node_mode">Node browsing mode</string>
     <string name="ignore_battery">Please ignore battery optimization from the system settings</string>
     <string name="overlay_window">Please allow pop-up windows to be displayed from the system settings</string>
-    <string name="opened"> On</string>
-    <string name="closed"> Off</string>
-    <string name="checked"> Checked</string>
-    <string name="unchecked"> Unchecked</string>
+    <string name="opened">
+On
+</string>
+    <string name="closed">
+Off
+</string>
+    <string name="checked">
+Checked
+</string>
+    <string name="unchecked">
+Unchecked
+</string>
     <string name="page_from_to">Page %d of %d</string>
     <string name="done">Operation completed</string>
     <string name="error_try_again">Operation failed. Please try again</string>
@@ -536,17 +544,30 @@
     <string name="selected">Selected</string>
     <string name="disabled">Unavailable</string>
     <string name="progress2">%d percent</string>
-    <string name="view_name_button"> Button</string>
+    <string name="view_name_button">
+Button
+</string>
     <string name="view_name_edit_text">Text box</string>
     <string name="view_name_editing">, Editing</string>
     <string name="view_name_web_view">Web view</string>
     <string name="view_name_list_view">List</string>
-    <string name="view_name_spinner"> Combo box</string>
-    <string name="view_name_switch"> Switch </string>
-    <string name="view_name_radio_button"> Radio button</string>
-    <string name="view_name_check_box"> Check box</string>
-    <string name="view_name_seek_bar">Slider</string>
-    <string name="view_name_progress_bar">Progress bar</string>
+    <string name="view_name_spinner">
+Combo box
+</string>
+    <string name="view_name_switch">
+Switch
+</string>
+    <string name="view_name_radio_button">
+Radio button</string>
+    <string name="view_name_check_box">
+Checkbox
+</string>
+    <string name="view_name_seek_bar">
+Slider
+</string>
+    <string name="view_name_progress_bar">
+Progress bar
+</string>
     <string name="view_name_rating_bar">Rating bar</string>
     <string name="view_name_image_button">Image button</string>
     <string name="view_name_image">Image</string>
@@ -941,21 +962,21 @@
     <string name="note_tile">Cloud notes</string>
     <string name="message_count_out">Limit exceeded</string>
     <string name="cloud_backup_restore_settings_title">Cloud backup and restore</string>
-    <string name="cloud_backup_settings_title">Backup settings to cloud</string>
+    <string name="cloud_backup_settings_title">Back up settings</string>
     <string name="cloud_restore_settings_title">Restore settings from cloud</string>
-    <string name="cloud_backup_clipboard_title">Backup clipboard history to cloud</string>
+    <string name="cloud_backup_clipboard_title">Back up clipboard history</string>
     <string name="cloud_restore_clipboard_title">Restore clipboard history from cloud</string>
-    <string name="cloud_backup_favorites_title">Backup favorites to cloud</string>
+    <string name="cloud_backup_favorites_title">Back up favorites</string>
     <string name="cloud_restore_favorites_title">Restore favorites from cloud</string>
-    <string name="cloud_backup_timer_title">Backup timers to cloud</string>
+    <string name="cloud_backup_timer_title">Back up timers</string>
     <string name="cloud_restore_timer_title">Restore timers from cloud</string>
-    <string name="cloud_backup_label_title">Backup custom labels to cloud</string>
+    <string name="cloud_backup_label_title">Back up custom labels</string>
     <string name="cloud_restore_label_title">Restore custom labels from cloud</string>
-    <string name="cloud_backup_gesture_title">Backup gesture schemes to cloud</string>
+    <string name="cloud_backup_gesture_title">Back up gesture schemes</string>
     <string name="cloud_restore_gesture_title">Restore gesture schemes from cloud</string>
-    <string name="cloud_backup_sound_title">Backup sound schemes to cloud</string>
+    <string name="cloud_backup_sound_title">Back up sound schemes</string>
     <string name="cloud_restore_sound_title">Restore sound schemes from cloud</string>
-    <string name="cloud_backup_cmd_title">Backup voice commands to cloud</string>
+    <string name="cloud_backup_cmd_title">Back up voice commands</string>
     <string name="cloud_restore_cmd_title">Restore voice commands from cloud</string>
     <string name="ocr_baidu_secret_title">Secret key</string>
     <string name="ocr_baidu_key_title">App key</string>
@@ -1124,7 +1145,7 @@
     <string name="use_keep_type_move_title">Remember the selected navigation type when changing windows</string>
     <string name="hot_key_manager_title">Hotkey scheme manager</string>
     <string name="msg_hot_key_empty">No hotkey schemes</string>
-    <string name="cloud_backup_hot_key_title">Backup hotkey schemes to cloud</string>
+    <string name="cloud_backup_hot_key_title">Back up hotkey schemes</string>
     <string name="cloud_restore_hot_key_title">Restore hotkey schemes from cloud</string>
     <string name="use_multi_touch_mode_title">use multi-finger gestures</string>
     <string name="msg_added">Added</string>
@@ -1205,8 +1226,8 @@
     <string name="previous_chapter_default_value">Previous chapter|Previous page</string>
     <string name="msg_activated">Your activation request has been submitted for review. If the activation is not performed within reasonable time, please contact Customer Service</string>
     <string name="flash_light">Flashlight</string>
-    <string name="cloud_multi_backup_title">Backup to cloud</string>
-    <string name="cloud_multi_restore_title">Restore from cloud</string>
+    <string name="cloud_multi_backup_title">cloud backup</string>
+    <string name="cloud_multi_restore_title">cloud restore</string>
     <string name="search_engine_title">Search engine</string>
     <string name="directory_notes">Notes</string>
     <string name="replace">Replace</string>
@@ -1808,7 +1829,7 @@ Swipe down then up or up then down to switch navigation type in all views, and s
     <string name="msg_no_a11y_volume">You are not using accessibility volume</string>
     <string name="msg_a11y_volume_disabled">Using media volume</string>
     <string name="msg_a11y_volume_enabled">Using accessibility volume</string>
-    <string name="content_blacklist_description">The content added to the blacklist will not be read during browsing. This might help in filtering out unwanted content or buttons that are not labeled properly.
+    <string name="content_blacklist_description">The content added to the blacklist will not be read during browsing. This might help in filtering out unwanted content or buttons that are not labeled properly. 
 Keywords can be added with asterisks to implement simple matching patterns:
 • Keyword* filters content starting with the keyword.
 • *Keyword filters content ending with the keyword.
@@ -1820,10 +1841,10 @@ Keywords can be added with asterisks to implement simple matching patterns:
 • *Keyword filters content ending with the keyword.
 • *Keyword* filters content containing the keyword.
 • No asterisks indicate exact matching.</string>
-    <string name="notification_black_list_description">Notifications containing blacklisted text will not be read automatically, but they will still be recorded in the notification box.
-Regular expressions are supported.
+    <string name="notification_black_list_description">Notifications containing blacklisted text will not be read automatically, but they will still be recorded in the notification box. 
+Regular expressions are supported. 
 If only one asterisk is added, all notifications from the application will not be announced automatically.</string>
-    <string name="notification_white_list_description">Notifications containing whitelisted text will always be read automatically even if notification reading is disabled.
+    <string name="notification_white_list_description">Notifications containing whitelisted text will always be read automatically even if notification reading is disabled. 
 Regular expressions are supported.
 If only one asterisk is added all notifications from the application will be read automatically.</string>
     <string name="nodeinfo_long_clickable">Can be long pressed</string>
@@ -1893,5 +1914,26 @@ If only one asterisk is added all notifications from the application will be rea
     <string name="all_description">Identify screen content</string>
     <string name="checkbox_description">Identify and activate checkboxes</string>
     <string name="msg_checkbox_not_found">No unchecked checkboxes found</string>
+    <string name="cloud_backup_dict_title">Back up custom dictionary</string>
+    <string name="cloud_backup_name_title">Back up custom Aliases</string>
+    <string name="cloud_restore_dict_title">Restore custom dictionary</string>
+    <string name="cloud_restore_name_title">Restore custom Aliases</string>
+    <string name="msg_dict_backup_error">There was an error while backing up custom dictionary</string>
+    <string name="msg_dict_backup_done">Custom dictionary has been successfully backed up</string>
+    <string name="msg_name_backup_error">There was an error while backing up custom aliases</string>
+    <string name="msg_name_backup_done">Custom aliases have been successfully backed up</string>
+    <string name="msg_restore_dict_error">There was an error while restoring custom dictionary</string>
+    <string name="msg_restore_dict_done">Custom dictionary has been successfully restored</string>
+    <string name="msg_restore_name_error">There was an error while restoring custom aliases</string>
+    <string name="msg_restore_name_done">Custom aliases have been successfully restored</string>
+    <string name="use_effect_pro_title">Play additional sound effects precisely when matching text is reached</string>
+    <string name="command_captcha_click_recognition">Solve click CAPTCHAs</string>
+    <string name="command_ai_text_summarization">AI summary</string>
+    <string name="command_ai_grammar_correction">AI text correction</string>
+    <string name="use_gesture_detection_title">Handle gestures in the screen reader</string>
+    <string name="touch_focus_time_out_title">Touch focus delay</string>
+    <string name="typing_focus_time_out_title">Typing focus delay</string>
+    <string name="navigation_gesture_width_title">One-finger system gesture trigger range</string>
+    <string name="double_tap_time_out_title">Double-tap delay</string>
 
 </resources>

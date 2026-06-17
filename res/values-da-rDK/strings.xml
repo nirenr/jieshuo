@@ -210,7 +210,7 @@ Filtrer uønskede kontrolelementer fra, og undlad at filtrere kinesisk indhold f
     <string name="directory_temp">TMP</string>
     <string name="directory_plugins">Udvidelser</string>
     <string name="message_recognition">Genkendelse igang</string>
-    <string name="message_recognition_error">Genkendelse mislykkedes... Prøv venligst igen</string>
+    <string name="message_recognition_error">Genkendelse mislykkedes: Prøv venligst igen...</string>
     <string name="directory_sounds">Lydtemaer</string>
     <string name="directory_resources">Resurser</string>
     <string name="file_name_letter">Bogstaver.json</string>
@@ -620,7 +620,7 @@ Læsningen af information dækker både antallet af emner i det pågældende emn
     <string name="command_to_home">Gå til startskærmen</string>
     <string name="command_to_back">Gå tilbage</string>
     <string name="command_all_speak">Læs alt fra begyndelsen</string>
-    <string name="command_long_edit">Rediger den nuværende tekst</string>
+    <string name="command_long_edit">Rediger den aktuelle tekst</string>
     <string name="command_all_speak2">Læs alt op</string>
     <string name="command_all_select">Tekstmarkering</string>
     <string name="command_voice_helper">Jieshuo Assistant</string>
@@ -845,7 +845,7 @@ Læsningen af information dækker både antallet af emner i det pågældende emn
     <string name="rename">Omdøb</string>
     <string name="func_manager">Funktionsmenu</string>
     <string name="func_create">Opret en ny funktion</string>
-    <string name="waiting">Vent venligst</string>
+    <string name="waiting">Indlæser... Vent venligst...</string>
     <string name="gestures_description_default">Det her er standardbevægelsestemaet. Hvis du vil vide mere om Jieshuos bevægelser, kan du finde en vejledning i Hjælp &amp; feedback.</string>
     <string name="auto_click">Automatisk tryk</string>
     <string name="insert">Indsat %s</string>
@@ -877,7 +877,7 @@ Læsningen af information dækker både antallet af emner i det pågældende emn
     <string name="split_line">Vis linje og afsnitsnumre</string>
     <string name="split_paragraph">Sætninger</string>
     <string name="auto_click_create">Opret et nyt automatisk tryk</string>
-    <string name="msg_text_changed">Indholdet blev ændret</string>
+    <string name="msg_text_changed">Vælg handling for ændret indhold:</string>
     <string name="no_save">Gem ikke</string>
 
     <string name="use_web_type_move_title">Flyt mellem emnetyper, når du besøger en webside</string>
@@ -914,8 +914,8 @@ Læsningen af information dækker både antallet af emner i det pågældende emn
     <string name="restore">Gendan</string>
     <string name="backup">Sikkerhedskopi</string>
     <string name="directory_camera">JieshuoKamera</string>
-    <string name="game_mode_title">Apps til gamer-tilstand</string>
-    <string name="game_mode_summary">Vælg apps til gamer-tilstand. Når valgte apps åbnes,, vil berøringsbevægelser automatisk blive ignoreret. Berøringsbevægelser genoptages igen, når du forlader valgte apps til gamer-tilstand</string>
+    <string name="game_mode_title">Apps til Spilfunktion</string>
+    <string name="game_mode_summary">Vælg apps, der skal bruges med Spilfunktion. Berøringsbevægelser ignoreres, når Spilfunktion er aktiv.</string>
     <string name="msg_backuped">Sikkerhedskopien blev fuldført</string>
     <string name="msg_items">%d emner</string>
     <string name="msg_recognition_results">Genkendelsesresultater</string>
@@ -1191,7 +1191,7 @@ Du kan også bruge din enheds egen strømbesparende tilstand for at forlænge ba
     <string name="add_from_grid">Tilføj fra gitter</string>
     <string name="sound_settings_title">Tilpas lydtema</string>
     <string name="sound_focus1">Emne fokuseret</string>
-    <string name="sound_focus2">fokusérbart emne fokuseret</string>
+    <string name="sound_focus2">fokuserbart emne fokuseret</string>
     <string name="sound_focus3">		Tastatur-emne fokuseret</string>
     <string name="sound_focus4">Intet emne fundet</string>
     <string name="sound_click">Emne aktiveret</string>
@@ -1254,8 +1254,8 @@ Du kan også bruge din enheds egen strømbesparende tilstand for at forlænge ba
     <string name="cloud_restore_hot_key_title">Cloud-gendan tastaturtemaerne</string>
     <string name="use_multi_touch_mode_title">Brug bevægelser med flere fingre</string>
     <string name="msg_added">Tilføjet</string>
-    <string name="msg_add_error">Tilføjelse mislykkedes... Prøv venligst igen</string>
-    <string name="select_move_type_">Åbn liste over rotoremner</string>
+    <string name="msg_add_error">Tilføjelse mislykkedes..: Prøv venligst igen...</string>
+    <string name="select_move_type_">Vis liste over rotoremner</string>
     <string name="msg_cancel_select">Markeringsmarkør lukket. Vender tilbage til tekstnavigeringsmarkøren</string>
     <string name="msg_start_select">Markeringsmarkør</string>
     <string name="msg_all_copyed">Alt kopieret  til udklipsholderen</string>
@@ -1298,10 +1298,10 @@ Du kan også bruge din enheds egen strømbesparende tilstand for at forlænge ba
     <string name="switch_multi_finger_gestures">Bevægelser med flere fingre</string>
     <string name="msg_node_changed_list_added">Overvåger nu</string>
     <string name="msg_node_changed_list_removed">Overvågning stoppet</string>
-    <string name="msg_in_game_mode">Gamer-tilstand aktiv</string>
+    <string name="msg_in_game_mode">Spilfunktion aktiv</string>
     <string name="use_accessibility_volume_fix_title">Avanceret tilgængelighedslydstyrke</string>
     <string name="use_accessibility_volume_fix_summary">Stabiliser lydniveauet for tilgængelighedslydstyrken</string>
-    <string name="msg_exit_game_mode">Gamer-tilstand afsluttet</string>
+    <string name="msg_exit_game_mode">Spilfunktion stoppet</string>
     <string name="privacy">Privatlivspolitik</string>
     <string name="version_msg">%s
 Størrelse: %s
@@ -1368,7 +1368,7 @@ Download : %s</string>
     <string name="command_to_previous_row">Forrige Linje</string>
     <string name="command_to_next_paragraph">Næste sætning</string>
     <string name="command_to_previous_paragraph">Forrige sætning</string>
-    <string name="command_to_head_set_key">Afspil pause</string>
+    <string name="command_to_head_set_key">Afspil eller pause medier</string>
     <string name="msg_selected_from_to">Emne %d til emne %d markeret</string>
     <string name="album_activity">Jieshuo album</string>
     <string name="command_toggle_tts_engine">Skift til næste tekst-til-tale tjeneste</string>
@@ -1480,7 +1480,7 @@ Download : %s</string>
     <string name="command_disable_hotkey">Tastaturkommandoer til/fra</string>
     <string name="fly_pinyin_speak_title">Læs pinyin som standard tegn</string>
     <string name="use_navigation_gesture_title">Brug fuldskærmsbevægelser</string>
-    <string name="use_navigation_gesture_summary">Stryg op fra bunden af skærmen med en finger for at bruge fuldskærmsbevægelser (kræver Android 11 eller nyere)</string>
+    <string name="use_navigation_gesture_summary">Stryg fra bunden eller toppen af skærmen for at udføre fuldskærmsbevægelser (kræver Android 11 eller nyere)</string>
     <string name="msg_import">Importeret %s</string>
     <string name="wallpaper_description">Hvis du ikke ønsker og godkende ekstra tilladelser, indstil venligst Jieshuo som baggrund</string>
     <string name="wallpaper_title">Jieshuo baggrund</string>
@@ -1663,8 +1663,8 @@ Download : %s</string>
     <string name="start_auto_ocr_title">Vælg genkendelses området</string>
 
     <string name="command_disable_edge_gesture_title">Kant-bevægelser og paneler til eller fra</string>
-    <string name="use_game_mode_no_speak_title">Slå tale fra, når gamer-tilstand er aktiv</string>
-    <string name="use_game_mode_no_edge_title">Slå kant-bevægelser og paneler fra, når gamer-tilstand er aktiv</string>
+    <string name="use_game_mode_no_speak_title">Slå tale fra, når Spilfunktion er aktiv</string>
+    <string name="use_game_mode_no_edge_title">Slå kant-bevægelser og paneler fra, når Spilfunktion er aktiv</string>
     <string name="game_mode_setting">Gamer-tilstand</string>
     <string name="timer_items_title">Tidtagninger</string>
     <string name="timer_tags">Mærke</string>
@@ -1905,7 +1905,7 @@ Du kan også omgå denne konflikt helt ved at installere Jieshuo med et tredjepa
     <string name="resume_on_notification_show_title">Genoptag tale og berøringsbevægelser, når notifikationscentret tilgås</string>
     <string name="resume_on_ringing_title">Genoptag tale og berøringsbevægelser, når du modtager et indgående opkald</string>
     <string name="helper_supper_cmd_title">Super stemmekommandoer</string>
-    <string name="back_break_auto_mode_title">Navigering tilbage afbryder læs fra det næste element</string>
+    <string name="back_break_auto_mode_title">Afbryd læsning af det næste emne, når du navigerer tilbage</string>
     <string name="msg_export_all_file">Ved aktivering af sikkerhedskopieringsfunktionen vil alle brugerindstillinger og tilhørende Jieshuo-data blive gemt i en komprimeret fil med navnet %s, som lagres internt på enheden. Denne fil kan senere anvendes til en komplet gendannelse af dine data på en anden enhed med Jieshuo installeret.
 Af hensyn til din datasikkerhed anbefales det, at sikkerhedskopien opbevares sikkert og ikke deles med andre, da den kan indeholde personlige eller følsomme oplysninger.</string>
     <string name="msg_export_all_file_fail">Sikkerhedskopieringen mislykkedes, prøv venligst igen</string>
@@ -2022,5 +2022,26 @@ Med blokeringslisten kan du fortsat modtage beskeder uden forstyrrelse, samtidig
     <string name="all_description">Aflæs skærmindhold</string>
     <string name="checkbox_description">Registrer og aktiver afkrydsningsfelter</string>
     <string name="msg_checkbox_not_found">Ingen afkrydsningsfelter uden markering blev fundet</string>
+    <string name="cloud_backup_dict_title">Cloud-sikkerhedskopier udtalejusteringer</string>
+    <string name="cloud_backup_name_title">Cloud-sikkerhedskopier emnemærker</string>
+    <string name="cloud_restore_dict_title">Cloud-gendan udtalejusteringer</string>
+    <string name="cloud_restore_name_title">Cloud-gendan emnemærker</string>
+    <string name="msg_dict_backup_error">Der opstod en fejl under sikkerhedskopieringen af udtalejusteringerne</string>
+    <string name="msg_dict_backup_done">Udtalejusteringerne er sikkerhedskopieret</string>
+    <string name="msg_name_backup_error">Der opstod en fejl under sikkerhedskopieringen af emnemærkerne</string>
+    <string name="msg_name_backup_done">Emnemærkerne er sikkerhedskopieret</string>
+    <string name="msg_restore_dict_error">Der opstod en fejl under gendannelse af udtalejusteringerne</string>
+    <string name="msg_restore_dict_done">Udtalejusteringerne er sikkerhedskopieret</string>
+    <string name="msg_restore_name_error">Der opstod en fejl under gendannelse af emnemærkerne</string>
+    <string name="msg_restore_name_done">Emnemærkerne er sikkerhedskopieret</string>
+    <string name="use_effect_pro_title">Afspil særlige lydeffekter ved bestemte tekststykker</string>
+    <string name="command_captcha_click_recognition">Auto-bekræft CAPTCHA</string>
+    <string name="command_ai_text_summarization">Smart Opsummering</string>
+    <string name="command_ai_grammar_correction">TekstOptimering</string>
+    <string name="use_gesture_detection_title">在解说中处理手势</string>
+    <string name="touch_focus_time_out_title">触摸焦点延时</string>
+    <string name="typing_focus_time_out_title">输入法焦点延时</string>
+    <string name="navigation_gesture_width_title">单指全面屏手势触发范围</string>
+    <string name="double_tap_time_out_title">双击延时</string>
 
 </resources>

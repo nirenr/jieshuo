@@ -227,7 +227,7 @@
     <string name="use_image_filter_title">Фільтрувати мітки зображень на веб-сторінках</string>
     <string name="gesture_settings_title">Налаштування поточної схеми жестів</string>
     <string name="setup_plugin_title">Автоматичний запуск плагінів</string>
-    <string name="advanced_menu_title">Розширені налаштування</string>
+    <string name="advanced_menu_title">Розширене меню</string>
     <string name="quick_menu_title">Швидке меню</string>
     <string name="check_update_title">Перевірити оновлення</string>
     <string name="qq_group_summary">Обговорити або придбати додаток. </string>
@@ -721,7 +721,7 @@
     <string name="voice_helper_use_app_title">Прямий запуск додатків</string>
     <string name="voice_helper_use_app_summary">Ви можете запустити додаток, промовивши його назву. Якщо цю опцію вимкнено, скажіть «Відкрити назва додатка» для його запуску.</string>
     <string name="voice_helper_use_click_summary">Ви можете використовувати назви елементів для їх активації. Якщо цю опцію вимкнено, скажіть «активувати назва елемента», для його активації.</string>
-    <string name="edge_gesture_width_title">Розмір області активації крайових жестів: </string>
+    <string name="edge_gesture_width_title">Область активації крайових жестів:</string>
     <string name="use_double_edge_gesture_summary">Персоналізовані функції, встановлені на крайові жести, недоступні в цьому меню.</string>
     <string name="left_edge_gesture_items_title">Налаштування меню лівого краю</string>
     <string name="right_edge_gesture_items_title">Налаштування меню правого краю</string>
@@ -941,8 +941,8 @@
     <string name="note_tile">Хмарні нотатки</string>
     <string name="message_count_out">Перевищено ліміт.</string>
     <string name="cloud_backup_restore_settings_title">Резервне копіювання у хмарне сховище</string>
-    <string name="cloud_backup_settings_title">Резервне копіювання налаштувань у хмарне сховище.</string>
-    <string name="cloud_restore_settings_title">Відновлення налаштувань з резервної копії у хмарному сховищі.</string>
+    <string name="cloud_backup_settings_title">Резервне копіювання параметрів програми у хмарне сховище.</string>
+    <string name="cloud_restore_settings_title">Відновлення параметрів програми з резервної копії у хмарному сховищі.</string>
     <string name="cloud_backup_clipboard_title">Резервне копіювання історії буфера обміну в хмарне сховище.</string>
     <string name="cloud_restore_clipboard_title">Відновлення історії буфера обміну з резервної копії у хмарному сховищі.</string>
     <string name="cloud_backup_favorites_title">Резервне копіювання обраного в хмарне сховище.</string>
@@ -1126,7 +1126,7 @@
     <string name="hot_key_manager_title">Керування схемами комбінацій клавіш</string>
     <string name="msg_hot_key_empty">Немає створених комбінацій клавіш.</string>
     <string name="cloud_backup_hot_key_title">Резервне копіювання комбінацій клавіш у хмарне сховище</string>
-    <string name="cloud_restore_hot_key_title">Відновити комбінації клавіш з резервної копії у хмарному сховищі</string>
+    <string name="cloud_restore_hot_key_title">Відновлення комбінацій клавіш з резервної копії у хмарному сховищі</string>
     <string name="use_multi_touch_mode_title">Використовувати багатопальцеві жести</string>
     <string name="msg_added">Додано</string>
     <string name="msg_add_error">Помилка під час додавання. Будь ласка, спробуйте ще раз.</string>
@@ -1476,7 +1476,7 @@
     <string name="speak_call_phone_index_title">Кількість сповіщень</string>
     <string name="edit_node_name">Редагувати мітку вузла</string>
     <string name="edit_node">Дії для поточного вузла</string>
-    <string name="use_input_method_no_touch_title">Призупиняти дослідження дотиком при появі клавіатури</string>
+    <string name="use_input_method_no_touch_title">Призупиняти дослідження дотиком при появі екранної клавіатури</string>
     <string name="use_input_method_speak_commit_space_title">Промовляти останнє введене слово при натисканні пробілу</string>
     <string name="use_screen_on_speak_battery_title">Промовляти заряд батареї</string>
     <string name="use_screen_on_speak_notification_title">Промовляти кількість непрочитаних сповіщень</string>
@@ -1888,5 +1888,26 @@
     <string name="all_description">Універсальне розпізнавання</string>
     <string name="checkbox_description">Розпізнавання прапорців</string>
     <string name="msg_checkbox_not_found">Прапорців не знайдено.</string>
+    <string name="cloud_backup_dict_title">Резервне копіювання словників у хмарне сховище</string>
+    <string name="cloud_backup_name_title">Резервне копіювання персоналізованих міток вмісту у хмарне сховище</string>
+    <string name="cloud_restore_dict_title">Відновлення словників з резервної копії у хмарному сховищі</string>
+    <string name="cloud_restore_name_title">Відновлення персоналізованих міток вмісту з резервної копії у хмарному сховищі</string>
+    <string name="msg_dict_backup_error">Не вдалося створити хмарну резервну копію словників.</string>
+    <string name="msg_dict_backup_done">Хмарну резервну копію словників успішно створено.</string>
+    <string name="msg_name_backup_error">Не вдалося створити хмарну резервну копію персоналізованих міток вмісту.</string>
+    <string name="msg_name_backup_done">Хмарну резервну копію персоналізованих міток вмісту успішно створено.</string>
+    <string name="msg_restore_dict_error">Не вдалося відновити словники з резервної копії у хмарному сховищі.</string>
+    <string name="msg_restore_dict_done">Словники успішно відновлено з резерної копії у хмарному сховищі.</string>
+    <string name="msg_restore_name_error">Не вдалося відновити персоналізовані мітки вмісту з резервної копії у хмарному сховищі.</string>
+    <string name="msg_restore_name_done">Персоналізовані мітки вмісту успішно відновлено з резерної копії у хмарному сховищі.</string>
+    <string name="use_effect_pro_title">Точний контроль моменту відтворення розширених звукових ефектів</string>
+    <string name="command_captcha_click_recognition">Розпізнавання капчі з вибором елементів</string>
+    <string name="command_ai_text_summarization">Стислий виклад змісту</string>
+    <string name="command_ai_grammar_correction">Інтелектуальне виправлення помилок</string>
+    <string name="use_gesture_detection_title">Обробляти жести засобами Jieshuo</string>
+    <string name="touch_focus_time_out_title">Затримка виділення</string>
+    <string name="typing_focus_time_out_title">Затримка виділення під час введення тексту</string>
+    <string name="navigation_gesture_width_title">Область активації навігаційних жестів одним пальцем</string>
+    <string name="double_tap_time_out_title">Затримка подвійного натискання</string>
 
 </resources>

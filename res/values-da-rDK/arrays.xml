@@ -826,17 +826,17 @@
 
         <item>Landmærker</item>
         <item>Tekstfelter</item>
-        <item>Fokusemner</item>
+        <item>Fokuserbare emner</item>
         <item>Formularfelter</item>
         <item>Billeder</item>
         <item>Afkrydsningsfelter</item>
         <item>Combo boxe</item>
-        <item>Informationer</item>
+        <item>Struktur-navigation</item>
         <item>Lister</item>
         <item>Listeemner</item>
 
         <item>Rul</item>
-        <item>Overblik</item>
+        <item>Objekt-navigation</item>
 
         <item>Tegn</item>
         <item>Ord</item>
@@ -849,7 +849,6 @@
         <item>OCR-genkendelse og oversættelse</item>
         <item>Vinduer</item>
     </string-array>
-
     <string-array name="hot_key_help_items">
         <item>Ctrl+Piletast op: Flytter til det forrige emne.</item>
         <item>Ctrl+Piletast ned: Flytter til det næste emne.</item>
@@ -866,16 +865,16 @@
 
         <item>Alt + M: Åbner Jieshuo-menuen.</item>
         <item>Alt + A: Åbner funktionsmenuen.</item>
-        <item>Alt + P: Åbner installeret udvidelser.</item>
-        <item>Alt + T: Åbner installeret tilføjelsesprogrammer.</item>
+        <item>Alt + P: Viser installeret udvidelser.</item>
+        <item>Alt + T: Viser installeret tilføjelsesprogrammer.</item>
         <item>Alt + V: Aktiverer Jieshuo Assistant.</item>
         <item>Alt + S: Starter tekstbehandling.</item>
         <item>Alt + L: Åbner emnevælgeren.</item>
 
     </string-array>
     <string-array name="view_type_title">
-        <item>Standard</item>
-        <item>Etiketter</item>
+        <item>Standardnavigation</item>
+        <item>Mærker</item>
         <item>Knapper</item>
         <item>Tekstfelter</item>
 
@@ -884,7 +883,7 @@
         <item>Statusindikatorer</item>
         <item>Lister</item>
         <item>Listemner</item>
-        <item>Fokusemner</item>
+        <item>Fokuserbare emner </item>
         <item>Formularfelter</item>
         <item>Emner</item>
         <item>Rul</item>
