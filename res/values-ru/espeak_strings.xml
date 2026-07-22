@@ -35,7 +35,7 @@
   <string name="loading">Идёт загрузка, пожалуйста подождите...</string>
   <!--Source: Spoken aloud.
         Description: Sample text spoken aloud when the user is trying out a language.-->
-  <string name="sample_text">Так синтезатор речи озвучивает текст  %s</string>
+  <string name="sample_text">Это пример звучания текста на языке %s</string>
   <string name="status">Статус</string>
   <string name="tts_version">Версия eSpeak</string>
   <string name="speak">Озвучить</string>
