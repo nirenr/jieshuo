@@ -990,7 +990,7 @@
     <string name="denied_permissions_title">Разрешения, которые не были получены:</string>
     <string name="welcome_msg">Jieshuo является вспомогательным программным обеспечением для слепых, эта программа может помочь вам более эффективно использовать ваш телефон, нажмите мастер настройки, чтобы помочь вам сделать основные настройки скринридера, нажмите  Разрешения, чтобы ознакомиться с информацией о том, какие разрешения и для чего используются в программном обеспечение. Нажмите Выход, чтобы выйти из Мастера настройки.</string>
     <string name="use_left_right_msg">Jieshuo по умолчанию использует смахивание вниз для перемещения фокуса вперёд, смахивание вверх для перемещения фокуса назад, смахивание влево и вправо для выполнения функции быстрого доступа, если вы привыкли использовать смахивание влево и вправо для перемещения фокуса, пожалуйста, нажмите, Использовать жесты влево и вправо, если вы используете свайпы вверх и вниз, то пожалуйста, нажмите, Использовать жесты вверх и вниз.</string>
-    <string name="usage_hints_msg">подсказки по использованию могут помочь начинающему пользователю ознакомиться с Jieshuo. Если вы впервые пользуетесь мобильным телефоном, мы рекомендуем включить эту опцию для удобной работы. Однако, если вы опытный пользователь, то мы рекомендуем отключить эту опцию для того, чтобы не получать лишнюю информацию.</string>
+    <string name="usage_hints_msg">подсказки по использованию могут помочь начинающему пользователю познакомиться с Jieshuo. Если вы впервые пользуетесь мобильным телефоном, мы рекомендуем включить эту опцию для удобной работы. Однако, если вы опытный пользователь, то мы рекомендуем отключить эту опцию для того, чтобы не получать лишнюю информацию.</string>
     <string name="use_list_index_msg">Подсказка списка озвучивает отображаемый в данный момент диапазон списка и номер текущего элемента, нажатие кнопки Включить подсказку озвучивает эту информацию, а нажатие кнопки Отключить подсказку не озвучивает подсказок.</string>
     <string name="notification_speak_msg">чтение уведомлений позволит Jieshuo озвучивать входящие уведомления. Включите эту опцию, чтобы вам прочитывались все уведомления. Если вы не хотите, чтобы вас беспокоили, рекомендуем отключить эту опцию.</string>
     <string name="use_single_tts_msg">Вы можете использовать два синтезатора речи для чтения. Первый будет использоваться для чтения основной информации, такой как текущий выделенный объект и другие элементы. Второй синтезатор будет использоваться для чтения уведомлений и любых других сообщений.</string>
@@ -1408,10 +1408,10 @@
     <string name="command_speak_net">Информация о состоянии сети</string>
     <string name="msg_disabled_quick_mode">Быстрый просмотр выключен</string>
     <string name="msg_enabled_quick_mode">Быстрый просмотр включён</string>
-    <string name="msg_enabled_hotkey">включены сочетания клавиш</string>
-    <string name="msg_disabled_hotkey">Отключены сочетания клавиш</string>
-    <string name="msg_enabled_false_touch_prevention">Включена защита от случайного касания. Жесты заблокированы. Нажмите клавиши громкости вместе чтобы выключить</string>
-    <string name="msg_disabled_false_touch_prevention">Отключена защита от случайного касания</string>
+    <string name="msg_enabled_hotkey">сочетания клавиш включены</string>
+    <string name="msg_disabled_hotkey">Сочетания клавиш выключены</string>
+    <string name="msg_enabled_false_touch_prevention">Защита от случайного касания включена. Жесты заблокированы. Для выключения нажмите одновременно кнопки регулировки громкости</string>
+    <string name="msg_disabled_false_touch_prevention">Защита от случайного касания выключена</string>
     <string name="light_0">темно</string>
     <string name="light_5">светло</string>
     <string name="light_10">светло</string>
@@ -1422,8 +1422,8 @@
     <string name="msg_load_fail">Невозможно включить настройки</string>
     <string name="msg_up">вверх</string>
     <string name="msg_down">вниз</string>
-    <string name="msg_enabled_auto_ocr">Включено автоматическое распознавание</string>
-    <string name="msg_disabled_auto_ocr">Отключено автоматическое распознавание</string>
+    <string name="msg_enabled_auto_ocr">Автоматическое распознавание включено</string>
+    <string name="msg_disabled_auto_ocr">Автоматическое распознавание выключено</string>
     <string name="current_selected_text">%d знаков совокупно. %d до %d выделено</string>
     <string name="msg_not_supported">Ваше устройство не поддерживает эту функцию</string>
     <string name="msg_no_result">Нет результата</string>
@@ -1516,8 +1516,8 @@
     <string name="zoom_in">Увеличить масштаб</string>
     <string name="zoom_out">Уменьшить масштаб</string>
     <string name="msg_timer_no_run">Таймер не запущен</string>
-    <string name="msg_start_auto_trans">Включён автоматический перевод</string>
-    <string name="msg_stop_auto_trans">Отключён автоматический перевод</string>
+    <string name="msg_start_auto_trans">Автоматический перевод включён</string>
+    <string name="msg_stop_auto_trans">Автоматический перевод выключен</string>
     <string name="msg_auto_trans_has_vip">Для автоматического перевода требуется премиум-версия</string>
     <string name="msg_start_auto_ocr">Включить автоматическое распознавание OCR</string>
     <string name="msg_stop_auto_ocr">Отключить автоматическое распознавание OCR</string>
@@ -1596,7 +1596,7 @@
     <string name="stream_type_notification">Уведомление</string>
     <string name="stream_type_accessibility">Спец возможности</string>
     <string name="move">Перемещение</string>
-    <string name="msg_move_start">Чтобы начать перемещение, коснитесь позиции, которую необходимо переместить. Нажмите дважды, чтобы завершить перемещение.</string>
+    <string name="msg_move_start">Чтобы начать перемещение, коснитесь позиции, которую необходимо переместить. Коснитесь дважды, чтобы завершить перемещение.</string>
     <string name="msg_move_done">Перемещено в позицию %d</string>
     <string name="timer_tts_setting_title">Настройки синтеза речи для таймера и говорящих часов</string>
     <string name="other_res">Другие ресурсы</string>
@@ -1758,8 +1758,8 @@
     <string name="msg_disable_use_single_tts">Отключите функцию использования одного синтезатора речи, чтобы использовать пользовательский %s</string>
     <string name="command_auto_list_speak">Автоматическое чтение сообщений</string>
     <string name="command_auto_list_speak_history">История автоматического чтения сообщений</string>
-    <string name="msg_start_auto_list">Включено автоматическое чтение сообщений %s</string>
-    <string name="msg_stop_auto_list">Отключено автоматическое чтение сообщений %s</string>
+    <string name="msg_start_auto_list">Автоматическое чтение сообщений %s включено</string>
+    <string name="msg_stop_auto_list">Автоматическое чтение сообщений %s выключено</string>
     <string name="msg_username_typo">Неверный формат имени пользователя или пароля</string>
     <string name="msg_username_error">Неправильное имя пользователя или пароль</string>
     <string name="msg_invite_code_error">Неверный код приглашения</string>
