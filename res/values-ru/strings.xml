@@ -2,8 +2,8 @@
 <resources>
     <string name="app_name">Jieshuo+</string>
     <string name="accessibility_service_description">
-        Jieshuo Screenreader это программа, которая поможет незрячим  людям пользоваться своими смартфонами. Мы предлагаем несколько инновационных решений. Для более подробной информации откройте настройки \ Помощь.\n
-        Некоторые функции ограничены, пока вы не приобретете полную версию. Для получения дополнительной информации, пожалуйста, свяжитесь со службой поддержки в официальной группе QQ.\n
+        Jieshuo Screenreader — это программа, которая помогает незрячим людям пользоваться смартфонами. Мы предлагаем несколько инновационных решений. Для получения более подробной информации откройте раздел «Помощь» в настройках.\n
+        Некоторые функции ограничены, пока вы не приобретёте полную версию. Для получения дополнительной информации, пожалуйста, свяжитесь со службой поддержки в официальной группе QQ.\n
         \n
         Возможности: \n
         Голосовой помощник: пользуйтесь телефоном, используя наш голосовой помощник.\n
@@ -11,25 +11,25 @@
         Просмотр по символам, словам, абзацам… Всегда есть подходящий режим просмотра для ваших нужд.\n
         Быстрая и отзывчивая программа.\n
         Установите звуковые темы, которые всегда будут радовать ваш слух.\n
-        Расширенные функции копирования, позволяют копировать именно то, что вам нужно.\n
-        Контекстные жесты, обеспечивают гибкость.\n
+        Расширенные функции копирования позволяют копировать именно то, что вам нужно.\n
+        Контекстные жесты обеспечивают гибкость.\n
         Переназначаемые жесты.\n
         Гибкие настройки уведомлений. Вы никогда не будете потревожены тем, что вас не интересует в данный момент.\n
         \n
         Премиум-функции:\n
-        Виртуальный экран откроет новый мир для Вас в приложениях, которые не доступны.\n
-        Автоматическое распознавание OCR: распознавайте изображения и читайте текст с них с легкостью.\n
+        Виртуальный экран откроет для вас новый мир в недоступных приложениях.\n
+        Автоматическое распознавание OCR: распознавайте изображения и легко читайте распознанный текст.\n
         Молниеносное распознавание кода с картинки на основе искусственного интеллекта.\n
-        Определяйте все, что перед вами: Люди, картины и предметы.\n
-        Фильтрация веб-страниц: читайте веб-страницы с легкостью, без изображений и нарушения качества контента.\n
-        Скопируйте целый экран с легкостью.\n
+        Определяйте всё, что перед вами: Люди, картины и предметы.\n
+        Фильтрация веб-страниц: читайте веб-страницы с лёгкостью, без изображений и нарушения качества контента.\n
+        Скопируйте целый экран с лёгкостью.\n
         Режим чтения статей: автоматическое перелистывание страниц, фильтрация контента… \n
         Настраиваемые жесты для каждого приложения.
         Список избранного: доступ к любимому контенту в любом месте и в любое время.\n
-        Быстрое редактирование: быстро найти предложение, слово или абзац, который вы хотите редактировать.\n
-        Расширенный выбор текста: по слову, предложению, абзацу. Выберите именно тот режим, который вам нужен.\n
+        Быстрое редактирование: быстро находите предложение, слово или абзац, который вы хотите редактировать.\n
+        Расширенное выделение текста: по слову, предложению, абзацу. Выбирайте именно тот режим, который вам нужен.\n
         Различные операции упрощаются с помощью дополнительных голосовых команд.\n
-        Автоматический запуск плагинов,  ваши любимые Плагины доступны сразу.\n
+        Автоматический запуск плагинов: ваши любимые плагины доступны сразу.\n
         Jieshuo Screenreader - это бесконечно настраиваемая и гибкая программа!!!
     </string>
 
@@ -98,7 +98,7 @@
     <string name="audio_focus_title">Приглушение аудио</string>
 
     <string name="voice_app_name">Голосовой помощник</string>
-    <string name="voice_helper_service_description">Используйте свой телефон с голосовыми командами.</string>
+    <string name="voice_helper_service_description">Используйте телефон с помощью голосовых команд.</string>
     <string name="web_app_name">Jieshuo-браузер</string>
     <string name="help_title">Помощь</string>
     <string name="use_log_title">Включить ведение журнала</string>
@@ -121,15 +121,15 @@
     <string name="help_feed_title">Помощь и обратная связь</string>
     <string name="advanced_setting_title">Расширенные настройки</string>
     <string name="notification_white_list_title">Белый список уведомлений.</string>
-    <string name="notification_black_list_title">Черный список уведомлений.</string>
+    <string name="notification_black_list_title">Чёрный список уведомлений.</string>
     <string name="voice_help_title">Голосовой помощник</string>
     <string name="sound_package_title">Звуковая схема</string>
     <string name="value_default">По умолчанию</string>
     <string name="notification_app_name_speak_title">Озвучивать название приложения, от которого поступило уведомление</string>
-    <string name="use_up_tap_summary">Оторвав палец от экрана, вы активируете объект, который был под пальцем. Если палец дольше остается на объекте, он не будет активирован.</string>
+    <string name="use_up_tap_summary">Оторвав палец от экрана, вы активируете объект, который был под пальцем. Если палец остаётся на объекте дольше, он не будет активирован.</string>
     <string name="use_tap_mode_title">Коснитесь экрана для переключения фокуса</string>
     <string name="vibrate_intensity_title">Интенсивность вибрации</string>
-    <string name="use_progress_title">Чтение индикаторов прогресса</string>
+    <string name="use_progress_title">Чтение индикаторов выполнения</string>
     <string name="use_scroll_list_index_title">Озвучивание диапазона прокручиваемого списка</string>
     <string name="use_content_changed_title">Сообщать о динамических изменениях контента</string>
     <string name="use_double_fling_title">Использовать составные жесты</string>
@@ -165,11 +165,11 @@
     <string name="use_ocr_summary">Автоматическое распознавание выделенного изображения или не подписанного элемента управления. Данная функция будет потреблять больше интернет-трафика и заряда аккумулятора.</string>
     <string name="content_blacklist_title">Содержимое чёрного списка</string>
     <string name="no_phone_permission">Нет разрешений.</string>
-    <string name="message_time_out">неразрешенный</string>
+    <string name="message_time_out">запрещённый</string>
     <string name="message_welcome">Добро пожаловать в Jieshuo Screenreader!</string>
     <string name="message_in_dim_screen">Затемнение экрана включено.</string>
     <string name="message_out_dim_screen">Затемнение экрана отключено</string>
-    <string name="message_only_android5_last">Поддерживается только Android 5 и выше!</string>
+    <string name="message_only_android5_last">Поддерживается только Android 5 и более поздние версии!</string>
     <string name="notification_box">Окно уведомлений</string>
     <string name="clear">Очистить</string>
     <string name="message_disabled_up_tap">Активация по отрыву отключена</string>
@@ -177,8 +177,8 @@
     <string name="message_no_found_edit_text">Текстовое поле не найдено.</string>
     <string name="message_voice_feedback_paused">Озвучивание приостановлено.</string>
     <string name="message_voice_feedback_resume">Озвучивание возобновлено.</string>
-    <string name="message_enable_tap_mode">Включен режим перемещения фокуса с помощью касаний</string>
-    <string name="message_disabled_tap_mode">Отключен режим перемещения фокуса с помощью касаний</string>
+    <string name="message_enable_tap_mode">Режим перемещения фокуса с помощью касаний включён</string>
+    <string name="message_disabled_tap_mode">Режим перемещения фокуса с помощью касаний выключен</string>
     <string name="directory_gestures">жесты</string>
     <string name="directory_temp">TMP</string>
     <string name="directory_plugins">Плагины</string>
@@ -271,7 +271,7 @@
     <string name="use_progress_summary">Автоматически читать изменения индикатора выполнения при его выделении</string>
     <string name="use_content_changed_summary">Автоматически читать выделенный элемент</string>
     <string name="use_content_tree_changed_summary">Автоматически читать изменения в текущем окне</string>
-    <string name="content_blacklist_summary">Фильтрация содержимого в черном списке для устранения неполадок с ошибками в фокусе</string>
+    <string name="content_blacklist_summary">Фильтрация содержимого в чёрном списке уведомлений для устранения неполадок с ошибками в фокусе</string>
     <string name="use_image_filter_summary">Фильтр изображений при просмотре веб-страниц</string>
     <string name="use_supper_filter_summary">Фильтровать не китайский контент.</string>
     <string name="use_edge_gesture_title">Использовать краевые жесты</string>
@@ -279,7 +279,7 @@
     <string name="right_edge_gesture_title">Настройки правого краевого жеста.</string>
 
 
-    <string name="use_edge_gesture_summary">При горизонтальном смахивании, выполняемом от края экрана, будут выполняться определенные действия.</string>
+    <string name="use_edge_gesture_summary">При горизонтальном смахивании, выполняемом от края экрана, будут выполняться определённые действия.</string>
     <string name="left_edge_gesture_summary">настройки быстрого смахивания от левого края.</string>
     <string name="right_edge_gesture_summary">настройки быстрого смахивания от правого края.</string>
 
@@ -292,7 +292,7 @@
     <string name="use_speak_call_phone_title">Информация о звонящем</string>
     <string name="use_speak_changed_volume_summary">Озвучивать подсказку при изменении уровня громкости.</string>
     <string name="use_speak_changed_volume_title">Озвучивание изменения громкости</string>
-    <string name="vip_qq_group_title">Jieshuo Screenreader - группа для VIP в QQ</string>
+    <string name="vip_qq_group_title">Jieshuo Screenreader - группа для премиум-пользователей в QQ</string>
     <string name="qq_group2_title">Официальная группа Jieshuo Screenreader в QQ.</string>
 
 
@@ -314,11 +314,11 @@
     <string name="up_down_volume_short_key_title">Одновременное нажатие кнопок увеличения и уменьшения громкости:</string>
     <string name="tts_engine_title">Основной синтезатор речи</string>
     <string name="async_tts_engine_title">Дополнительный синтезатор речи</string>
-    <string name="async_tts_engine_summary">Дополнительный синтезатор речи используется для чтения уведомлений или дополнительной информации. Выбор того же синтезатора , что и основной, приведет к использованию только одного синтезатора речи.</string>
-    <string name="tts_engine_summary">Основной синтезатор речи используется для чтения контента. Если выбранный синтезатор не работает, то будет использоваться первый доступный.</string>
-    <string name="timer_manager_title">Сохраненные результаты замеров.</string>
+    <string name="async_tts_engine_summary">Дополнительный синтезатор речи используется для чтения уведомлений или дополнительной информации. Выбор того же синтезатора, что и основной, приведёт к использованию только одного синтезатора речи.</string>
+    <string name="tts_engine_summary">Основной синтезатор речи используется для чтения контента. Если выбранный синтезатор не работает, то будет использоваться первый доступный синтезатор.</string>
+    <string name="timer_manager_title">Сохранённые результаты замеров.</string>
     <string name="use_foreground_title">Использовать высокий приоритет запуска</string>
-    <string name="use_foreground_summary">Если screenreader часто замолкает, то рекомендуется установить этот флажок.</string>
+    <string name="use_foreground_summary">Если скринридер часто замолкает, то рекомендуется установить этот флажок.</string>
     <string name="use_speak_qq_changed_title">Чтение сообщений чата QQ</string>
     <string name="use_speak_qq_changed_summary">Автоматически читать сообщения чата QQ.</string>
     <string name="left_button_default_value">Отклонить|*Смахните, чтобы отклонить вызов*|Завершить вызов|Повесить трубку|Завершить QQ звонки|Предыдущая песня|Предыдущий трек|Предыдущее видео|Переход вверх|Отменить|Гарнитура</string>
@@ -343,7 +343,7 @@
     <string name="general_settings_title">Общие настройки</string>
     <string name="use_custom_gesture_title">Использовать пользовательские жесты</string>
     <string name="custom_gesture_settings_title">Настройки пользовательских жестов</string>
-    <string name="use_foreground_pro_title">Усиление препятствует тому, чтобы экран блокировки спал</string>
+    <string name="use_foreground_pro_title">Усиление препятствует тому, чтобы экран блокировки гас</string>
     <string name="use_foreground_pro_summary">Если экран гаснет, то вы можете попробовать эту опцию. Когда экран выключается, он устанавливает Jieshuo screen reader на передний план.</string>
     <string name="use_power_save_title">Использовать режим энергосбережения</string>
     <string name="use_power_save_summary">Jieshuo screen reader будет потреблять меньше заряда аккумулятора.</string>
@@ -353,11 +353,11 @@
     <string name="download_activity_title">Загрузить дополнительные ресурсы</string>
     <string name="use_number_speak_title">Чтение чисел по цифрам</string>
     <string name="use_input_method_gesture_title">Использовать жесты для выбора символов в режиме редактирования</string>
-    <string name="use_input_method_gesture_summary">При использовании клавиатур Xunfei, Google Pinyin и Google Zhuyin, позволяет выбирать смахиваниями символы из списка предложенных.</string>
+    <string name="use_input_method_gesture_summary">При использовании клавиатур Xunfei, Google Pinyin и Google Zhuyin, позволяет выбирать смахиваниями символы из списка предложенных вариантов.</string>
     <string name="use_volume_key_move_text_title">Использовать кнопки громкости для перемещения курсора в режиме редактирования</string>
     <string name="user_text">Имя пользователя: от 5 до 15 латинских букв.</string>
     <string name="pass_text">Пароль: от 6 до 15 латинских букв.</string>
-    <string name="current_text">%d из %d введенных символов</string>
+    <string name="current_text">%d из %d введённых символов</string>
     <string name="user_id_text">Идентификатор пользователя</string>
     <string name="screen_on_off_settings_title">Информация о блокировки экрана</string>
     <string name="use_screen_on_speak_title">Произнести информацию при разблокировки экрана</string>
@@ -367,13 +367,13 @@
     <string name="value_stream_accessibility">спец. возможности</string>
     <string name="left_right_gesture_title">Настройки жестов быстрого действия</string>
     <string name="use_move_list_view_item_title">Быстрое перемещение между элементами списка</string>
-    <string name="no_support">Требуется версия Android%d или более поздняя.</string>
+    <string name="no_support">Требуется Android%d или более поздняя версия.</string>
     <string name="use_pinyin_speak_title">Использовать Pinyin TTS в режиме редактирования текста</string>
     <string name="backup_restore_settings_title">Резервное копирование и восстановление настроек</string>
     <string name="backup_settings_title">Создание резервной копии.</string>
     <string name="restore_settings_title">Восстановление резервной копии</string>
-    <string name="restore_settings_summary">Восстановление настроек перезапишут текущие настройки.</string>
-    <string name="backup_settings_summary">Настройки резервного копирования перезапишут последнюю резервную копию.</string>
+    <string name="restore_settings_summary">Восстановление настроек перезапишет текущие настройки.</string>
+    <string name="backup_settings_summary">Резервное копирование настроек перезапишет последнюю резервную копию.</string>
     <string name="jieshuo_bbs_title">Форум Jieshuo Screenreader</string>
     <string name="use_symbol_speak_title">Читать пунктуацию</string>
     <string name="use_cloud_label_title">Обмен метками</string>
@@ -389,12 +389,12 @@
     <string name="has_vip_summary">%s Это доступно только для премиум-пользователей</string>
     <string name="vip_qq_kefu_title">служба поддержки Jieshuo screenreader</string>
     <string name="vip_qq_kefu_summary">Консультирование, покупка, передача. Просим пройти сертификацию обслуживания клиентов.</string>
-    <string name="use_speak_changed_window_title">Прочитать всё содержимое при смене окна</string>
+    <string name="use_speak_changed_window_title">Читать всё содержимое при смене окна</string>
     <string name="use_timer_sound_title">Звуковая подсказка таймера</string>
     <string name="timer_setting_title">Настройки таймера и говорящих часов.</string>
     <string name="voice_cmd_setting_title">Настройки голосовых команд</string>
     <string name="directory_cmd">Пользовательские голосовые команды</string>
-    <string name="use_move_list_view_item_summary">Позволяет быстро перемещаться в списках с помощью жестов быстрого действия.</string>
+    <string name="use_move_list_view_item_summary">Позволяет быстро перемещаться по спискам с помощью жестов быстрого действия.</string>
     <string name="add">Добавить</string>
     <string name="re_def_msg">Нажатие OK восстановит настройки по умолчанию.</string>
     <string name="use_double_fling_summary">Быстро смахните два раза вверх, откройте режим просмотра и смахните два раза вниз для автоматического просмотра.</string>
@@ -407,23 +407,23 @@
     <string name="message_has_vip">Эта функция доступна только для премиум-пользователей.</string>
     <string name="has_vip_summary2">Функция %s ограничена в бесплатной версии программы</string>
     <string name="voice_helper_capability_setting">Настройки возможностей голосового помощника</string>
-    <string name="use_wake_lock_pro_title">Улучшенная блокировка от погашения экрана</string>
+    <string name="use_wake_lock_pro_title">Улучшенная блокировка гашения экрана</string>
     <string name="use_wake_lock_pro_summary">Если вышеуказанный вариант не работает, используйте этот.</string>
     <string name="more_setting">Дополнительные функции</string>
     <string name="keyword">Введите ключевое слово</string>
-    <string name="notification_black_list_summary">Уведомления, содержащиеся в черном списке, не будут озвучиваться.</string>
-    <string name="notification_white_list_summary">Уведомления, содержащиеся в белом списке, всегда будут озвучиваться.</string>
+    <string name="notification_black_list_summary">Уведомления, содержащиеся в чёрном списке, не будут озвучиваться.</string>
+    <string name="notification_white_list_summary">Уведомления, содержащиеся в белом списке, будут озвучиваться всегда.</string>
     <string name="system_tts_volume_title">Громкость системного синтезатора речи.</string>
     <string name="notification_select_title">Настройки чтения уведомлений</string>
 
-    <string name="message_disable_dim_screen">Пожалуйста, сначала отключите затемнение</string>
+    <string name="message_disable_dim_screen">Пожалуйста, сначала отключите затемнение экрана</string>
     <string name="start_long_copy">Расширенное копирование запущено...</string>
     <string name="runnimg_background">Запуск программы Jieshuo screenreader в фоновом режиме.</string>
     <string name="description">Описание</string>
     <string name="gestures_description_not_found">Файл справки по жестам не найден</string>
     <string name="timer_date_format">yyyy.M.d. HH:mm.</string>
     <string name="to_all">%s до %s, всего элементов %s.</string>
-    <string name="try_again">Пожалуйста, попробуйте еще раз</string>
+    <string name="try_again">Пожалуйста, попробуйте ещё раз</string>
     <string name="timer_and_now_time">%s,сейчас %s</string>
     <string name="edit">редактировать</string>
     <string name="edit_text_not_found">Текстовый редактор не найден</string>
@@ -449,7 +449,7 @@
 
     <string name="use_slow_speed_title">Замедлять речь в режиме чтения по символам</string>
     <string name="has_vip_summary_gesture">Эти жесты нельзя настроить в бесплатной версии программы.</string>
-    <string name="message_has_vip_loop_click">Задержка кликов не поддерживается в бесплатной версии.</string>
+    <string name="message_has_vip_loop_click">Задержка кликов не поддерживается в бесплатной версии программы.</string>
 
     <string name="command_click">Нажатие</string>
     <string name="command_long_click">Длительное нажатие</string>
@@ -512,7 +512,7 @@
     <string name="raw_click">Касание</string>
 
     <string name="click_to_enabled">Исследование экрана возобновлено.</string>
-    <string name="touch_mode_disabled">Изучение касанием было приостановлено.</string>
+    <string name="touch_mode_disabled">Изучение касанием приостановлено.</string>
     <string name="node_mode">Обзор узла</string>
     <string name="ignore_battery">Пожалуйста, разрешите приложению игнорировать настройки оптимизации батареи.</string>
     <string name="overlay_window">Пожалуйста, включите картинку в картинке.</string>
@@ -522,12 +522,12 @@
     <string name="unchecked">не отмечено.</string>
     <string name="page_from_to">Страница %d из %d</string>
     <string name="done">Операция завершена</string>
-    <string name="error_try_again">Произошла ошибка. Пожалуйста, попробуйте еще раз</string>
-    <string name="swipe_right">Провести пальцем вправо:</string>
-    <string name="swipe_left">Провести пальцем влево:</string>
+    <string name="error_try_again">Произошла ошибка. Пожалуйста, попробуйте ещё раз</string>
+    <string name="swipe_right">Смахнуть пальцем вправо:</string>
+    <string name="swipe_left">Смахнуть пальцем влево:</string>
     <string name="long_clicked">Длительное касание.</string>
     <string name="notification_from">Новое уведомление от: %s:</string>
-    <string name="progress">Прогресс: %d</string>
+    <string name="progress">Выполнение: %d</string>
     <string name="item_current_count">%d из %d</string>
     <string name="item_from_to_count">Показано элементов с%d по%d из %d</string>
     <string name="point">Точка</string>
@@ -556,7 +556,7 @@
     <string name="message_timer_mode_enabled">Таймер запущен.</string>
     <string name="message_clean">Текстовый редактор очищен.</string>
     <string name="message_clean_error">Ошибка очистки.</string>
-    <string name="message_edit_text_not_found">Текстовое поле не найдено.</string>
+    <string name="message_edit_text_not_found">Текстовый редактор не найден.</string>
 
 
     <string name="rap_action_settings_title">Постукивание по задней панели телефона</string>
@@ -592,8 +592,8 @@
     <string name="command_to_back">Вернуться назад</string>
     <string name="command_long_edit">Расширенное редактирование текста</string>
     <string name="command_all_speak">Читать весь экран</string>
-    <string name="command_all_speak2">Читать все</string>
-    <string name="command_all_select">Выбрать все</string>
+    <string name="command_all_speak2">Читать всё</string>
+    <string name="command_all_select">Выделить всё</string>
     <string name="command_voice_helper">Голосовой помощник</string>
     <string name="command_voice_input">Голосовой ввод</string>
     <string name="command_ocr">Распознать изображение</string>
@@ -603,7 +603,7 @@
     <string name="command_disable_feedback">Приостановить озвучивание</string>
     <string name="command_to_notifications">Открыть панель уведомлений</string>
     <string name="command_notifications">Панель уведомлений</string>
-    <string name="command_battery_level">Объявлять уровень заряда батареи</string>
+    <string name="command_battery_level">Объявить уровень заряда батареи</string>
     <string name="command_battery">Уровень заряда батареи</string>
     <string name="command_quick_menu">Быстрое меню</string>
     <string name="command_gestures_edit">Редактировать жесты</string>
@@ -708,8 +708,8 @@
     <string name="alarm_start_hour_title">Время начала оповещений.</string>
     <string name="alarm_end_hour_title">Время окончания оповещений.</string>
     <string name="command_virtual_navigation">Виртуальная навигация</string>
-    <string name="voice_helper_use_click_title">Прямая активация произнесенного вами элемента</string>
-    <string name="voice_helper_use_app_title">Прямое открытие произнесенной вами программы</string>
+    <string name="voice_helper_use_click_title">Прямая активация произнесённого вами элемента</string>
+    <string name="voice_helper_use_app_title">Прямое открытие произнесённой вами программы</string>
     <string name="voice_helper_use_app_summary">Произнесите названия программы, чтобы открыть её. Если эта опция отключена, скажите «Открыть» перед названием программы, чтобы открыть данную программу.</string>
     <string name="voice_helper_use_click_summary">Произнесите название элемента на экране, чтобы активировать его. Если эта опция отключена, скажите «Активировать» перед названием элемента, чтобы активировать данный элемент.</string>
     <string name="edge_gesture_width_title">Размер области активации краевых жестов:</string>
@@ -755,7 +755,7 @@
     <string name="node_info_root">Корневой узел содержит %d дочерних узлов.</string>
     <string name="node_info">Есть %d дочерних узлов.</string>
     <string name="node_info_none">Нет дочерних узлов.，</string>
-    <string name="rating_current_count">Рейтинг: %d из%d звезд.</string>
+    <string name="rating_current_count">Рейтинг: %d из%d звёзд.</string>
     <string name="date_format_sec">s\'секунд\'</string>
     <string name="date_format_min_sec">m\'минут\'ss\'секунд\'</string>
     <string name="date_format_hour_min">HH\'часов\'mm\'минут\'</string>
@@ -767,13 +767,13 @@
     <string name="hint_uncheck">Коснитесь дважды, чтобы снять отметку.</string>
     <string name="hint_closed">Коснитесь дважды, чтобы деактивировать.</string>
     <string name="hint_opened">Коснитесь дважды, чтобы активировать.</string>
-    <string name="hint_changed">Коснитесь дважды для изменения.</string>
+    <string name="hint_changed">Коснитесь дважды, чтобы изменить.</string>
     <string name="hint_double_click">Двойное касание.</string>
     <string name="hint_activated">Коснитесь для активации.</string>
     <string name="hint_double_click_activated">Двойное касание для активации.</string>
     <string name="hint_node_move">Проведите влево: перейти к предыдущему узлу. Проведите вправо: перейти к следующему узлу. Проведите пальцем вниз: перейдите к следующему элементу. Проведите вверх: перейти к предыдущему элементу.</string>
     <string name="date_formater_min">mm\'минут\'</string>
-    <string name="touch_mode_enabled">режим изучения касанием включен.</string>
+    <string name="touch_mode_enabled">режим изучения касанием включён.</string>
     <string name="custom">Пользовательская</string>
 
     <string name="create_gesture">Создать схему жестов</string>
@@ -847,19 +847,19 @@
     <string name="pref_donate_paypal">Поддержать развитие Jieshuo screenreader через Paypal.</string>
     <string name="menu_settings_title">Настройки меню</string>
     <string name="directory_download">Загрузить</string>
-    <string name="msg_has_vip_split_edit">Продвинутое редактирование текста в бесплатной версии ограничено до 100 символов</string>
+    <string name="msg_has_vip_split_edit">Расширенное редактирование текста в бесплатной версии ограничено до 100 символов</string>
     <string name="media_doc_title">Аудио руководства.</string>
     <string name="downloaded">загружено</string>
     <string name="no_login">Не авторизован</string>
-    <string name="no_vip">Вы пользуетесь бесплатной версией программы.</string>
-    <string name="need_vip">Если у вас есть желание купить программу, то пожалуйста, свяжитесь со службой поддержки.</string>
+    <string name="no_vip">Вы используете бесплатную версию программы.</string>
+    <string name="need_vip">Если у вас есть желание купить программу, пожалуйста, свяжитесь со службой поддержки.</string>
     <string name="check_read_phone_state_permission">проверить разрешение на чтение состояния телефона</string>
     <string name="message_timer_mode_disabled">Таймер остановлен, %s, сейчас %s</string>
 
     <string name="camera_right_up">Вправо вверх</string>
     <string name="camera_left_up">Влево вверх</string>
-    <string name="camera_hold_posture">Удерживайте позицию</string>
-    <string name="camera_hold_posture_have_face">Удерживайте лицо в позиции %d</string>
+    <string name="camera_hold_posture">Удерживайте</string>
+    <string name="camera_hold_posture_have_face">Удерживайте лицо %d</string>
     <string name="camera_lower_left_hand">Опустите левую руку</string>
     <string name="camera_raise_left_hand">Поднимите левую руку</string>
     <string name="camera_top_up">Вверх</string>
@@ -873,7 +873,7 @@
     <string name="camera_top_move_near">Приблизить</string>
     <string name="camera_bottom_up">Вниз</string>
 
-    <string name="use_text_format_read_word_title">Озвучивать фонетические символы</string>
+    <string name="use_text_format_read_word_title">Озвучивать фонетические описания символов</string>
     <string name="restore">Восстановить</string>
     <string name="backup">резервное копирование</string>
     <string name="directory_camera">камера</string>
@@ -883,7 +883,7 @@
     <string name="msg_items">%d элементов.</string>
     <string name="msg_recognition_results">Результаты</string>
     <string name="edit_mode">Режим редактирования</string>
-    <string name="use_dpad_key_title">Использовать клавиши со стрелками для перемещения фокуса</string>
+    <string name="use_dpad_key_title">Использовать клавиши-стрелки для перемещения фокуса</string>
     <string name="ocr_engine_title">Система распознавания OCR</string>
     <string name="manager_title">Управление</string>
     <string name="msg_battery_full">Аккумулятор заряжен.</string>
@@ -897,7 +897,7 @@
     <string name="msg_restored">Восстановление завершено.</string>
     <string name="backup_done">Резервное копирование завершено</string>
     <string name="msg_gestures_empty">Жесты отсутствуют.</string>
-    <string name="msg_sounds_empty">Звуковые схемы отсутствует.</string>
+    <string name="msg_sounds_empty">Звуковые схемы отсутствуют.</string>
     <string name="msg_clipboards_empty">Буфер обмена пуст.</string>
     <string name="msg_favorites_empty">Список избранного пуст.</string>
     <string name="msg_timers_empty">Таймер пуст.</string>
@@ -909,7 +909,7 @@
     <string name="close">Закрыть</string>
     <string name="multi_click">Несколько кликов</string>
     <string name="command_raw_tap">Режим наведения</string>
-    <string name="msg_enabled_raw_tap">Режим наведения включен. Коснитесь экрана в течение одной секунды, чтобы автоматически активировать элемент под пальцем.</string>
+    <string name="msg_enabled_raw_tap">Режим наведения включён. Коснитесь экрана в течение одной секунды, чтобы автоматически активировать элемент под пальцем.</string>
     <string name="msg_disabled_raw_tap">Выход из режима наведения.</string>
 
     <string name="system_tts_scale_summary">Тестовая функция для ускорения системного синтезатора речи, не гарантирует поддержку всех синтизаторов.</string>
@@ -931,23 +931,23 @@
     <string name="note_tile">Облачные заметки</string>
     <string name="message_count_out">Лимит превышен.</string>
     <string name="cloud_backup_restore_settings_title">Резервное копирование и восстановление настроек из облачного хранилища.</string>
-    <string name="cloud_backup_settings_title">Резервное копирование настроек на облачное хранилище.</string>
+    <string name="cloud_backup_settings_title">Резервное копирование настроек в облачное хранилище.</string>
     <string name="cloud_restore_settings_title">Восстановление настроек из облачного хранилища.</string>
-    <string name="cloud_backup_clipboard_title">Резервное копирование истории буфера обмена на облачное хранилище.</string>
-    <string name="cloud_restore_clipboard_title">Восстановление истории буфера обмена из резервной копии на облачном хранилище.</string>
-    <string name="cloud_backup_favorites_title">Резервное копирование избранного на облачное хранилище.</string>
-    <string name="cloud_restore_favorites_title">Восстановление избранного из резервной копии на облачном хранилище.</string>
-    <string name="cloud_backup_timer_title">Резервное копирование таймеров на облачное хранилище.</string>
-    <string name="cloud_restore_timer_title">Восстановление таймера из резервной копии на облачном хранилище.</string>
-    <string name="cloud_backup_label_title">Резервное копирование пользовательских меток на облачное хранилище.</string>
-    <string name="cloud_restore_label_title">Восстановление пользовательских меток из резервной копии на облачном хранилище.</string>
-    <string name="cloud_backup_gesture_title">Резервное копирование пользовательских жестов на облачное хранилище.</string>
-    <string name="cloud_restore_gesture_title">Восстановление пользовательских жестов из резервной копии на облачном хранилище.</string>
-    <string name="cloud_backup_sound_title">Резервное копирование звуковых тем на облачное хранилище.</string>
-    <string name="cloud_restore_sound_title">Восстановление звуковых тем из резервной копии на облачном хранилище.</string>
-    <string name="cloud_backup_cmd_title">Резервное копирование голосовых команд на облачное хранилище.</string>
-    <string name="cloud_restore_cmd_title">Восстановление голосовых команд из резервной копии на облачном хранилище.</string>
-    <string name="ocr_baidu_secret_title">Секретный ключ</string>
+    <string name="cloud_backup_clipboard_title">Резервное копирование истории буфера обмена в облачное хранилище.</string>
+    <string name="cloud_restore_clipboard_title">Восстановление истории буфера обмена из резервной копии в облачном хранилище.</string>
+    <string name="cloud_backup_favorites_title">Резервное копирование избранного в облачное хранилище.</string>
+    <string name="cloud_restore_favorites_title">Восстановление избранного из резервной копии в облачном хранилище.</string>
+    <string name="cloud_backup_timer_title">Резервное копирование таймеров в облачное хранилище.</string>
+    <string name="cloud_restore_timer_title">Восстановление таймера из резервной копии в облачном хранилище.</string>
+    <string name="cloud_backup_label_title">Резервное копирование пользовательских меток в облачное хранилище.</string>
+    <string name="cloud_restore_label_title">Восстановление пользовательских меток из резервной копии в облачном хранилище.</string>
+    <string name="cloud_backup_gesture_title">Резервное копирование пользовательских жестов в облачное хранилище.</string>
+    <string name="cloud_restore_gesture_title">Восстановление пользовательских жестов из резервной копии в облачном хранилище.</string>
+    <string name="cloud_backup_sound_title">Резервное копирование звуковых схем в облачное хранилище.</string>
+    <string name="cloud_restore_sound_title">Восстановление звуковых схем из резервной копии в облачном хранилище.</string>
+    <string name="cloud_backup_cmd_title">Резервное копирование голосовых команд в облачное хранилище.</string>
+    <string name="cloud_restore_cmd_title">Восстановление голосовых команд из резервной копии в облачном хранилище.</string>
+    <string name="ocr_baidu_secret_title">Закрытый ключ</string>
     <string name="ocr_baidu_key_title">Ключ приложения</string>
     <string name="ocr_baidu_id_title">Идентификатор приложения</string>
     <string name="ocr_baidu_setting">Распознавание Baidu</string>
@@ -962,12 +962,12 @@
     <string name="add_from_virtual_screen">Добавить с виртуального экрана.</string>
     <string name="add_from_virtual_list">Добавление символов, распознанных OCR.</string>
     <string name="use_ocr_qq_title">Использовать облачное распознавание от Tencent.</string>
-    <string name="ocr_lang_enteries">Смешанный английский | Автоматически идентифицировать | Японский | Корейский | Испанский | Французский | Немецкий | Португальский | Вьетнамский | Малайский | Русский | Итальянский | Голландский | Шведский | Финский | Датский | Норвежский | Венгерский | Тайский | Латинский |阿拉伯语</string>
+    <string name="ocr_lang_enteries">Китайский и английский|Автоматическое определение|Японский|Корейский|Испанский|Французский|Немецкий|Португальский|Вьетнамский|Малайский|Русский|Итальянский|Нидерландский|Шведский|Финский|Датский|Норвежский|Венгерский|Тайский|Латинский|Арабский</string>
     <string name="cmd_description">Описание (более 15 слов)</string>
     <string name="timer_run_title">Выполнение задач по расписанию.</string>
-    <string name="msg_has_vip_timer_run">Выполнение более одной задачи доступно премиум-пользователям.</string>
+    <string name="msg_has_vip_timer_run">Выполнение более одной задачи доступно только премиум-пользователям.</string>
     <string name="use_web_view_name_title">Читать типы элементов веб-страницы</string>
-    <string name="use_web_view_name_summary">Все типы элементов веб-страницы будут зачитываться, в другом случаи будет зачитываться только необходимая информация.</string>
+    <string name="use_web_view_name_summary">Будут озвучиваться все типы элементов веб-страницы, в другом случаи будет зачитываться только необходимая информация.</string>
     <string name="hour">Час</string>
     <string name="min">Минута</string>
     <string name="msg_result_empty">Не слышно. Повторите.</string>
@@ -988,9 +988,9 @@
     <string name="open_setup_setting_title">Открыть настройки автозапуска.</string>
     <string name="check_notification_permissions_title">Проверка разрешений на отображение уведомлений.</string>
     <string name="denied_permissions_title">Разрешения, которые не были получены:</string>
-    <string name="welcome_msg">Jieshuo является вспомогательным программным обеспечением для слепых, эта программа может помочь вам более эффективно использовать ваш телефон, нажмите на мастер настройки, чтобы помочь вам сделать основные настройки скринридера, нажмите на Разрешения, чтобы ознакомиться с информацией о том, какие разрешения и для чего используются в программном обеспечение. Нажмите на Выход, чтобы выйти из Мастера настроек.</string>
-    <string name="use_left_right_msg">Jieshuo по умолчанию использует смахивание вниз для перемещения фокуса вперед, смахивание вверх для перемещения фокуса назад, смахивание влево и вправо для выполнения функции быстрого доступа, если вы привыкли использовать смахивание влево и вправо для перемещения фокуса, пожалуйста, нажмите, Использовать жесты влево и вправо, если вы используете свайпы вверх и вниз, то пожалуйста, нажмите, Использовать жесты вверх и вниз.</string>
-    <string name="usage_hints_msg">советы по использованию могут помочь начинающему пользователю ознакомиться с Jieshuo. Если вы впервые пользуетесь мобильным телефоном, мы рекомендуем включить эту опцию для удобной работы. Однако, если вы опытный пользователь, то мы рекомендуем отключить эту опцию для того, чтобы не получать лишнюю информацию.</string>
+    <string name="welcome_msg">Jieshuo является вспомогательным программным обеспечением для слепых, эта программа может помочь вам более эффективно использовать ваш телефон, нажмите мастер настройки, чтобы помочь вам сделать основные настройки скринридера, нажмите  Разрешения, чтобы ознакомиться с информацией о том, какие разрешения и для чего используются в программном обеспечение. Нажмите Выход, чтобы выйти из Мастера настройки.</string>
+    <string name="use_left_right_msg">Jieshuo по умолчанию использует смахивание вниз для перемещения фокуса вперёд, смахивание вверх для перемещения фокуса назад, смахивание влево и вправо для выполнения функции быстрого доступа, если вы привыкли использовать смахивание влево и вправо для перемещения фокуса, пожалуйста, нажмите, Использовать жесты влево и вправо, если вы используете свайпы вверх и вниз, то пожалуйста, нажмите, Использовать жесты вверх и вниз.</string>
+    <string name="usage_hints_msg">подсказки по использованию могут помочь начинающему пользователю познакомиться с Jieshuo. Если вы впервые пользуетесь мобильным телефоном, мы рекомендуем включить эту опцию для удобной работы. Однако, если вы опытный пользователь, то мы рекомендуем отключить эту опцию для того, чтобы не получать лишнюю информацию.</string>
     <string name="use_list_index_msg">Подсказка списка озвучивает отображаемый в данный момент диапазон списка и номер текущего элемента, нажатие кнопки Включить подсказку озвучивает эту информацию, а нажатие кнопки Отключить подсказку не озвучивает подсказок.</string>
     <string name="notification_speak_msg">чтение уведомлений позволит Jieshuo озвучивать входящие уведомления. Включите эту опцию, чтобы вам прочитывались все уведомления. Если вы не хотите, чтобы вас беспокоили, рекомендуем отключить эту опцию.</string>
     <string name="use_single_tts_msg">Вы можете использовать два синтезатора речи для чтения. Первый будет использоваться для чтения основной информации, такой как текущий выделенный объект и другие элементы. Второй синтезатор будет использоваться для чтения уведомлений и любых других сообщений.</string>
@@ -1003,17 +1003,17 @@
     <string name="use_single_tts_ok">Будет использоваться один синтезатор речи</string>
     <string name="use_single_tts_no">Будут использоваться два синтезатора речи</string>
     <string name="permission_title">Описание разрешений</string>
-    <string name="permission_msg">Чтение состояния телефона используется для определения уникальности личности, предоставления персонализированных услуг и аутентификации учетной записи , мониторинга состояния телефона для быстрого ответа / отклонения вызовов и других функций, предоставления информации о состоянии для входящих вызовов. Ответ на вызов в Android 8 и выше система обеспечивает быстрый ответ / отклонение вызовов и других функций. Вызов обеспечивает функцию прямого вызова как в номере извлечения, так и в номере голосового сообщения. Информация о местоположении используется для предоставления персонализированных услуг на основе местоположения, таких как местная погода, текущее местоположение и, возможно, расширенные карты и навигационная информация. Камера используется для съемки фотографий и различных функций распознавания. Микрофон использует голосовой помощник, голосовой ввод для записи звука. Адресная книга голосовые вызовы и звонки на основе имени службы. Плавающее окно отображает меню, диалоговые окна и формы в режиме затемнённого экрана. Создание ярлыков на рабочем столе предоставляет расширенные инструменты (легкие приложения), добавленные на рабочий стол для удобного запуска. Установка в приложении используется для автоматического обновления. Доступ к сети, аутентификация пользователей,распознавание изображений, облачные метки, распознавание голоса . Загрузочный запуск для обслуживания в первый раз после перезагрузки. Предотвращает спящий режим телефона предотвращает выключение экрана во время передачи голоса. Отключение некоторых разрешений может привести к неправильной работе некоторых функций.</string>
+    <string name="permission_msg">Чтение состояния телефона: используется для аутентификации учётной записи, отслеживания состояния вызовов, быстрого ответа на них или их отклонения, а также для озвучивания сведений о вызывающем абоненте.\nОтвет на вызовы: позволяет быстро отвечать на вызовы и отклонять их в Android 8 и более поздних версиях.\nСовершение вызовов: позволяет звонить по телефонным номерам, извлечённым из текста или произнесённым вслух.\nМестоположение: используется функциями, которым нужны данные о местоположении, например местной погодой и определением текущей позиции.\nКамера: используется для съёмки и функций распознавания.\nМикрофон: записывает звук для голосового помощника и голосового ввода.\nКонтакты: позволяют определять имена контактов при голосовом наборе и озвучивании сведений о вызывающем абоненте.\nОтображение поверх других приложений: позволяет показывать меню, диалоговые окна и интерфейс затемнения экрана.\nСоздание ярлыков: добавляет инструменты расширений на главный экран.\nУстановка приложений: используется для автоматического обновления.\nДоступ к сети: используется для аутентификации, распознавания изображений и речи, а также облачных меток.\nЗапуск при включении устройства: позволяет своевременно запускать службу после перезагрузки.\nПредотвращение перехода в спящий режим: не даёт экрану выключиться во время вывода речи.\nЕсли отключить разрешения, некоторые функции могут работать неправильно.</string>
     <string name="check_permissions_msg">Для работы Jieshuo требуются некоторые базовые разрешения, такие, как: хранение и чтения звуковых эффектов, хранение фотографий и Т. Д. Нажмите Далее, чтобы предоставить эти разрешения. Это основные разрешения программы. Нажмите Отмена для выхода из программы.</string>
     <string name="next">Далее.</string>
     <string name="setup_setting_done">Настройка завершена.</string>
     <string name="setup_setting_done_msg"><![CDATA[Вы можете повторно запустить мастер настройки в разделе Общие настройки>Мастер настройки]]></string>
     <string name="setup_setting_continue">Продолжить настройку.</string>
-    <string name="setup_setting_not_permission">Базовые разрешения еще не предоставлены.</string>
-    <string name="setup_setting_not_permission_msg">Jieshuo может не корректно работать без предоставления основных разрешений, нажмите Продолжить, чтобы продолжить работу мастера, нажмите Предоставить разрешения, чтобы предоставить необходимые разрешения и закрыть мастер настроек или нажмите выйти, но имейте ввиду, что некоторые функции не будут работать.</string>
+    <string name="setup_setting_not_permission">Базовые разрешения ещё не предоставлены.</string>
+    <string name="setup_setting_not_permission_msg">Jieshuo может не корректно работать без предоставления основных разрешений, нажмите Продолжить, чтобы продолжить работу мастера, нажмите Предоставить разрешения, чтобы предоставить необходимые разрешения и закрыть мастер настройки или нажмите выйти, но имейте ввиду, что некоторые функции не будут работать.</string>
     <string name="setup_setting_set_permission_and_exit">Предоставить разрешения и закрыть мастер.</string>
     <string name="setup_setting_not_notification_permission">Разрешение на уведомления не получено.</string>
-    <string name="setup_setting_notification_permission_msg">Использование разрешения на уведомления позволяет Jieshuo сохранять ее значок на панели уведомлений, что повышает стабильность работы.</string>
+    <string name="setup_setting_notification_permission_msg">Использование разрешения на уведомления позволяет Jieshuo сохранять её значок на панели уведомлений, что повышает стабильность работы.</string>
     <string name="setup_setting_get_permission">Получение разрешений.</string>
     <string name="setup_setting_has_notification_permission">Разрешения на чтение уведомлений были получены.</string>
     <string name="changed">Изменить.</string>
@@ -1075,7 +1075,7 @@
     <string name="sound_gesture_end">Завершение жеста</string>
     <string name="recognition_start">Начало распознавания</string>
     <string name="recognition_end">Завершение распознавания</string>
-    <string name="recognition_success">Успешные распознавание</string>
+    <string name="recognition_success">Успешное распознавание</string>
     <string name="recognition_error">Ошибка распознавания</string>
     <string name="recognition_cancel">Отмена распознавания</string>
     <string name="command_quick_settings">Быстрые настройки</string>
@@ -1098,7 +1098,7 @@
     <string name="hot_key_summary">Нажмите клавишу, которую хотите настроить.</string>
     <string name="sound_timer_end">Завершение таймера</string>
     <string name="sound_timer_start">Запуск таймера</string>
-    <string name="use_scroll_list_content_title">Озвучивать все содержимое списка при прокрутки</string>
+    <string name="use_scroll_list_content_title">Озвучивать содержимое списка при прокрутки</string>
     <string name="use_view_type_move_title">Перемещение по типам навигации в стандартном просмотре</string>
     <string name="use_view_type_move_summary">Если возникает конфликт жестов, рассмотрите возможность их переназначения для этих действий.</string>
     <string name="command_raw_double_tap">Двойной клик</string>
@@ -1162,7 +1162,7 @@
     <string name="switch_multi_finger_gestures">Многопальцевые жесты</string>
     <string name="msg_node_changed_list_added">Добавлен объект для отслеживания.</string>
     <string name="msg_node_changed_list_removed">Отслеживание отменено.</string>
-    <string name="msg_in_game_mode">Игровой режим включен.</string>
+    <string name="msg_in_game_mode">Игровой режим включён.</string>
     <string name="use_accessibility_volume_fix_title">Использовать оптимизацию громкости спец.возможностей.</string>
     <string name="use_accessibility_volume_fix_summary">Если вы не можете изменить громкость или уровень громкости изменяется неправильно, включите эту опцию.</string>
     <string name="msg_exit_game_mode">Игровой режим выключен.</string>
@@ -1175,8 +1175,8 @@
     <string name="msg_unknown_error">Неизвестная ошибка. Повторите попытку позже или обратитесь в службу поддержки.</string>
     <string name="msg_timer_mode_pause">Таймер приостановлен.</string>
     <string name="msg_timer_mode_resume">Таймер возобновлён.</string>
-    <string name="msg_multi_touch_mode_enabled">Включены многопальцевые жесты.</string>
-    <string name="msg_multi_touch_mode_disenabled">Многопальцевые жесты отключены.</string>
+    <string name="msg_multi_touch_mode_enabled">Многопальцевые жесты включены.</string>
+    <string name="msg_multi_touch_mode_disenabled">Многопальцевые жесты выключены.</string>
     <string name="activation_code_text">Код активации</string>
     <string name="activate_title">Активировать премиум.</string>
     <string name="select_app">Выберите приложение.</string>
@@ -1187,7 +1187,7 @@
     <string name="auto_speak_apps_title">Выбор приложения для автоматического чтения.</string>
     <string name="auto_speak_apps_summary">Имейте введу, что не все приложения поддерживают автоматическое чтение сообщений, программное обеспечение, в котором содержимое отображается в виде списка, скорее всего, будет поддерживаться.</string>
     <string name="msg_has_vip_auto_speak">пользователи бесплатной версии могут автоматически читать сообщения только в QQ.</string>
-    <string name="auto_speak_blacklist_title">Черный список автоматического чтения.</string>
+    <string name="auto_speak_blacklist_title">Чёрный список автоматического чтения.</string>
     <string name="read_mode_setting">Настройки режима чтения</string>
     <string name="next_chapter_title">Команды следующей главы.</string>
     <string name="previous_chapter_title">Команды предыдущей главы.</string>
@@ -1195,9 +1195,9 @@
     <string name="previous_chapter_default_value">*Предыдущая глава*|*Перейти к предыдущей главе*|*Предыдущая глава*|*Назад*|*Назад к главе*</string>
     <string name="msg_activated">Отправка завершена. Дождитесь активации. Если этого не произошло в течении длительного времени, обратитесь в службу поддержки.</string>
     <string name="flash_light">Вспышка.</string>
-    <string name="cloud_multi_backup_title">Выборочноерезервное копирование на облачное хранилище.</string>
+    <string name="cloud_multi_backup_title">Выборочное резервное копирование в облачное хранилище.</string>
     <string name="cloud_multi_restore_title">Выборочное восстановление настроек из облачного хранилища.</string>
-    <string name="search_engine_title">система поиска</string>
+    <string name="search_engine_title">поисковая система</string>
     <string name="directory_notes">Заметки.</string>
     <string name="replace">Замена.</string>
     <string name="export_file">Экспортировать</string>
@@ -1230,7 +1230,7 @@
     <string name="command_to_next_paragraph">Следующий абзац</string>
     <string name="command_to_previous_paragraph">Предыдущий абзац</string>
     <string name="command_to_head_set_key">Воспроизвести или приостановить</string>
-    <string name="msg_selected_from_to">Были выбраны элементы от %d до %d.</string>
+    <string name="msg_selected_from_to">Выбраны элементы от %d до %d.</string>
     <string name="album_activity">Комментарии к альбому</string>
     <string name="command_toggle_tts_engine">Переключить синтезатор речи</string>
     <string name="command_speak_light">Произнести уровень освещения</string>
@@ -1241,9 +1241,9 @@
     <string name="add_favorites">Добавить в избранное</string>
     <string name="save_as_file">Сохранить как локальный файл</string>
     <string name="save_as_cloud">Сохранить как облачную заметку</string>
-    <string name="msg_toggle_tts">Синтезатор речи переключен</string>
+    <string name="msg_toggle_tts">Синтезатор речи переключён</string>
     <string name="curren_char_idx">Строка %d, Символ %d</string>
-    <string name="command_add_content_blacklist">Добавить содержимое в черный список</string>
+    <string name="command_add_content_blacklist">Добавить содержимое в чёрный список</string>
     <string name="command_media_previous">Предыдущий трек</string>
     <string name="command_media_next">Следующий трек</string>
     <string name="use_answer_phone_calls_gesture_title">Принимать и отклонять звонки, находясь в любом приложении.</string>
@@ -1252,7 +1252,7 @@
     <string name="accessibility_focus_appearance_title">Настройки индикатора фокуса</string>
     <string name="alpha">прозрачный.</string>
     <string name="red">Красный.</string>
-    <string name="green">Зеленый.</string>
+    <string name="green">Зелёный.</string>
     <string name="blue">Синий.</string>
     <string name="stroke">Толщина.</string>
     <string name="gesture_2_triple_tap_hold">Тройное касание двумя пальцами с удержанием:</string>
@@ -1274,7 +1274,7 @@
     <string name="right_up_long">Провести пальцем вправо, затем вверх с удержанием:</string>
     <string name="right_down_long">Провести пальцем вправо, затем вниз с удержанием:</string>
     <string name="right_left_long">Провести пальцем вправо, затем влево с удержанием:</string>
-    <string name="keep_focus_position_speak_title">Озвучивать сохраненное положение фокуса:</string>
+    <string name="keep_focus_position_speak_title">Озвучивать сохранённое положение фокуса:</string>
     <string name="save_as_cmd">Сохранить как команду</string>
     <string name="execute_cmd">Следует ли выполнять следующую команду.</string>
     <string name="command_show_nodeinfo">Детали узла.</string>
@@ -1325,14 +1325,14 @@
     <string name="msg_restore_cmd_done">Восстановление команд завершено.</string>
     <string name="msg_restore_hotkey_error">Ошибка восстановления сочетания клавиш.</string>
     <string name="msg_restore_hotkey_done">Восстановление сочетания клавиш завершено.</string>
-    <string name="profiles_summary">Режим профиля может быть настроен с независимыми настройками в различных сценариях, чтобы облегчить использование чтения с экрана в различных ситуациях.</string>
+    <string name="profiles_summary">Режим профиля может быть настроен с независимыми настройками в различных сценариях, чтобы облегчить использование скринридера в различных ситуациях.</string>
     <string name="msg_open_file_not_supported">Файл не поддерживается.</string>
     <string name="ocr_clean_keyword_title">Фильтрует ключевые слова при чтении субтитров</string>
-    <string name="ocr_clean_keyword_summary">Заменяет частые ошибки распознавания текста правильными словами, поддерживаются джава регулярные выражения</string>
+    <string name="ocr_clean_keyword_summary">Заменяет частые ошибки распознавания текста правильными словами, поддерживаются регулярные выражения Java</string>
     <string name="command_set_tts_engine">Выбрать синтезатор речи</string>
     <string name="download_sound_package_title">Загрузить звуковые схемы</string>
-    <string name="use_single_tts_summary">Всё будет прочитано основным синтезатором речи, когда эта опция включена.</string>
-    <string name="notification_toast">Всплывающие уведомление</string>
+    <string name="use_single_tts_summary">Если эта опция включена, то содержимое экрана и уведомления будут озвучиваться основным синтезатором речи.</string>
+    <string name="notification_toast">Всплывающие уведомления</string>
     <string name="notification">Уведомление</string>
     <string name="gesture_3_single_tap_hold">Касание тремя пальцами с удержанием:</string>
     <string name="alua_help_title">Помощь по Androlua+</string>
@@ -1343,19 +1343,19 @@
     <string name="use_navigation_gesture_title">Использовать жест одним пальцем для навигации</string>
     <string name="use_navigation_gesture_summary">Проведите вверх от нижнего края экрана вместо кнопок навигационной панели, не забудьте отключить навигационную панель в настройках телефона (Android 11 и выше).</string>
     <string name="msg_import">импортировано %s</string>
-    <string name="wallpaper_description">Если не хотите предоставлять добавочных разрешений, поставте Джишуо как ваше фоновое изображение</string>
+    <string name="wallpaper_description">Если не хотите предоставлять дополнительные разрешения, поставте Jieshuo в качестве фонового изображения</string>
     <string name="wallpaper_title">Использовать Jieshuo как фоновое изображение (тестовая функция)</string>
     <string name="wallpaper_summary">На некоторых устройствах оптимизация расхода батареи может препятствовать работе скринридера. Для повышения стабильности работы вы можете попробовать установить Jieshuo в качестве службы управления фоновыми изображениями главного экрана.</string>
     <string name="nodeinfo_type">Тип:</string>
     <string name="nodeinfo_text">текст:</string>
-    <string name="nodeinfo_content_description">Доступное описание содержания:</string>
+    <string name="nodeinfo_content_description">Доступное описание контента:</string>
     <string name="nodeinfo_state_description">Статус описания:</string>
     <string name="nodeinfo_resource_name">Идентификатор ресурса:</string>
     <string name="nodeinfo_indoex">Indeкс:</string>
     <string name="nodeinfo_bounds_in_screen">позиция на экране:</string>
     <string name="nodeinfo_parent">узел родитель:</string>
-    <string name="nodeinfo_childs">Дети узла:</string>
-    <string name="nodeinfo_actions">Доступны действия:</string>
+    <string name="nodeinfo_childs">Потомки узла:</string>
+    <string name="nodeinfo_actions">Доступные действия:</string>
     <string name="nodeinfo_clickable">Нажимаемое</string>
     <string name="nodeinfo_not_click">невозможно нажать</string>
     <string name="nodeinfo_checkable">Выбираемое</string>
@@ -1383,10 +1383,10 @@
     <string name="comment_done">Комментарий успешно добавлен</string>
     <string name="use_proximity_false_touch_prevention_title">Защита от случайного касания</string>
     <string name="use_proximity_false_touch_prevention_only_lock_title">Защита от случайного касания только на экране блокировки</string>
-    <string name="enbled_gesture_title">не включено</string>
+    <string name="enbled_gesture_title">отключено</string>
     <string name="enabled_app_gesture">Включить как схему жестов для приложения</string>
     <string name="enabled_gesture">Включить как пользовательскую схему жестов</string>
-    <string name="expand">расширить</string>
+    <string name="expand">развернуть</string>
     <string name="fold">Свернуть</string>
     <string name="decoding">Декодировать</string>
     <string name="decode_start">енкодирование %d страниц...</string>
@@ -1395,8 +1395,8 @@
     <string name="make_dir">Новая папка</string>
     <string name="input_dir_name">Напишите название папки</string>
     <string name="windows_notification">Уведомления окна</string>
-    <string name="add_to_backlist">Добавить к чёрному списку</string>
-    <string name="add_to_whitelist">Добавить к белому списку</string>
+    <string name="add_to_backlist">Добавить в чёрный список</string>
+    <string name="add_to_whitelist">Добавить в белый список</string>
     <string name="edit_keyword">Редактировать ключевые слова (поддерживаются регулярные выражения)</string>
     <string name="only_screen_on">Только при включённом экране</string>
     <string name="only_screen_off">Только при выключенном экране</string>
@@ -1406,12 +1406,12 @@
     <string name="call_duration">Продолжительность звонка</string>
     <string name="command_speak_time">Время и уровень заряда батареи</string>
     <string name="command_speak_net">Информация о состоянии сети</string>
-    <string name="msg_disabled_quick_mode">Отключён быстрый просмотр</string>
-    <string name="msg_enabled_quick_mode">включен быстрый просмотр</string>
-    <string name="msg_enabled_hotkey">включены сочетания клавиш</string>
-    <string name="msg_disabled_hotkey">Отключены сочетания клавиш</string>
-    <string name="msg_enabled_false_touch_prevention">Включена защита от случайного касания. Жесты заблокированы. Нажмите клавиши громкости вместе чтобы выключить</string>
-    <string name="msg_disabled_false_touch_prevention">Отключена защита от случайного касания</string>
+    <string name="msg_disabled_quick_mode">Быстрый просмотр выключен</string>
+    <string name="msg_enabled_quick_mode">Быстрый просмотр включён</string>
+    <string name="msg_enabled_hotkey">сочетания клавиш включены</string>
+    <string name="msg_disabled_hotkey">Сочетания клавиш выключены</string>
+    <string name="msg_enabled_false_touch_prevention">Защита от случайного касания включена. Жесты заблокированы. Для выключения нажмите одновременно кнопки регулировки громкости</string>
+    <string name="msg_disabled_false_touch_prevention">Защита от случайного касания выключена</string>
     <string name="light_0">темно</string>
     <string name="light_5">светло</string>
     <string name="light_10">светло</string>
@@ -1422,13 +1422,13 @@
     <string name="msg_load_fail">Невозможно включить настройки</string>
     <string name="msg_up">вверх</string>
     <string name="msg_down">вниз</string>
-    <string name="msg_enabled_auto_ocr">Включено автоматическое распознавание</string>
-    <string name="msg_disabled_auto_ocr">Отключено автоматическое распознавание</string>
+    <string name="msg_enabled_auto_ocr">Автоматическое распознавание включено</string>
+    <string name="msg_disabled_auto_ocr">Автоматическое распознавание выключено</string>
     <string name="current_selected_text">%d знаков совокупно. %d до %d выделено</string>
     <string name="msg_not_supported">Ваше устройство не поддерживает эту функцию</string>
     <string name="msg_no_result">Нет результата</string>
-    <string name="fail">Операция неуспешна</string>
-    <string name="msg_search_in_web">Следующи результаты были найдены</string>
+    <string name="fail">Операция не удалась</string>
+    <string name="msg_search_in_web">Найдены следующие результаты</string>
     <string name="continue_run">Продолжить</string>
     <string name="msg_keyboard_hide">Клавиатура скрыта</string>
     <string name="msg_long_copying">Копирование списка. коснитесь, чтобы отменить</string>
@@ -1516,9 +1516,9 @@
     <string name="zoom_in">Увеличить масштаб</string>
     <string name="zoom_out">Уменьшить масштаб</string>
     <string name="msg_timer_no_run">Таймер не запущен</string>
-    <string name="msg_start_auto_trans">Включён автоматический перевод</string>
-    <string name="msg_stop_auto_trans">Отключён автоматический перевод</string>
-    <string name="msg_auto_trans_has_vip">Для автоматического перевода требуется Prеmium версия</string>
+    <string name="msg_start_auto_trans">Автоматический перевод включён</string>
+    <string name="msg_stop_auto_trans">Автоматический перевод выключен</string>
+    <string name="msg_auto_trans_has_vip">Для автоматического перевода требуется премиум-версия</string>
     <string name="msg_start_auto_ocr">Включить автоматическое распознавание OCR</string>
     <string name="msg_stop_auto_ocr">Отключить автоматическое распознавание OCR</string>
     <string name="start_auto_ocr_title">Выбрать область распознавания</string>
@@ -1530,7 +1530,7 @@
     <string name="timer_tags">Ярлык</string>
     <string name="command_paste_from_cloud">Вставить из облачного буфера обмена</string>
     <string name="command_copy_to_cloud">Копировать в облачный буфер обмена</string>
-    <string name="use_timer_stream_type_title">Выбрать канал для вывода речи</string>
+    <string name="use_timer_stream_type_title">Выбрать канал вывода речи</string>
     <string name="timer_tts_engine_title">Выбрать синтезатор речи</string>
     <string name="command_up_page">Прокрутить страницу вверх</string>
     <string name="command_down_page">Прокрутить страницу вниз</string>
@@ -1550,8 +1550,8 @@
     <string name="use_window_title_changed_title">Озвучивать изменения заголовка окна</string>
     <string name="do_not_prompt_again">Больше не показывать</string>
     <string name="use_custom_language_title">Использовать пользовательский перевод</string>
-    <string name="msg_has_not_enabled">解说还没有启动，在辅助功能启用解说后才能为你提供服务，是否立即前往辅助功能开启解说，你也可以在稍后解说辅助功能设置中开启</string>
-    <string name="msg_has_not_enabled_33">Внимание, если вы являетесь пользователем тринадцатого Андроида, при первом запуске Jieshuo в разделе «Спец возможностей» может появиться диалоговое окно «Ограниченные настройки», в котором будет указано, что данная настройка недоступна по соображениям безопасности. Пожалуйста, нажмите кнопку «OK», откройте информацию о приложении Jieshuo, нажмите кнопку «ещё» в правом верхнем углу, затем нажмите кнопку Разрешить «Ограниченные настройки», а затем снова перейдите в «Спец возможности», чтобы включить Jieshuo. Если в вашем устройстве с тринадцатым андроидом не отображается указанная выше подсказка, вы можете пропустить эту инструкцию.</string>
+    <string name="msg_has_not_enabled">Jieshuo ещё не запущен. Чтобы пользоваться программой, включите её службу в настройках специальных возможностей. Перейти к этим настройкам сейчас?</string>
+    <string name="msg_has_not_enabled_33">В Android 13 и более поздних версиях при включении службы специальных возможностей Jieshuo может появиться сообщение об ограничении доступа к настройкам. Чтобы разрешить запуск Jieshuo, откройте информацию о приложении, нажмите «Ещё» и выберите «Разрешить доступ к настройкам». Затем подтвердите свой выбор.</string>
     <string name="use_edit_hint_title">Озвучивать подсказку в поле редактирования</string>
     <string name="check_manage_files_permissions_title">Проверить разрешение на управление файлами</string>
     <string name="check_alarm_permissions_title">Проверить разрешение для будильника и напоминаний</string>
@@ -1596,7 +1596,7 @@
     <string name="stream_type_notification">Уведомление</string>
     <string name="stream_type_accessibility">Спец возможности</string>
     <string name="move">Перемещение</string>
-    <string name="msg_move_start">чтобы начать перемещение, коснитесь позиции, которую необходимо переместить. Нажмите два раза, чтобы завершить перемещение.</string>
+    <string name="msg_move_start">Чтобы начать перемещение, коснитесь позиции, которую необходимо переместить. Коснитесь дважды, чтобы завершить перемещение.</string>
     <string name="msg_move_done">Перемещено в позицию %d</string>
     <string name="timer_tts_setting_title">Настройки синтеза речи для таймера и говорящих часов</string>
     <string name="other_res">Другие ресурсы</string>
@@ -1618,7 +1618,7 @@
     <string name="web_forward">Вперёд</string>
     <string name="web_enter_url">Введите URL адрес</string>
     <string name="web_copy_url">Скопировать URL адрес</string>
-    <string name="web_are_you_open">Разрешаете ли открытие?</string>
+    <string name="web_are_you_open">Разрешить открытие?</string>
     <string name="web_download_info">Тип: %s Размер: %s</string>
     <string name="web_direct_download">Загрузить</string>
     <string name="web_download_only_wifi">Загрузка только через wi-fi</string>
@@ -1707,7 +1707,7 @@
     <string name="char_mode_tts_setting_title">Настройки синтеза речи для режима чтения по символам</string>
     <string name="auto_read_tts_setting_title">Настройки синтеза речи для автоматического просмотра</string>
     <string name="notification_tts_setting_title">Настройки синтеза речи для озвучивания уведомлений</string>
-    <string name="use_up_tap_prompt_title">抬手激活超时提示</string>
+    <string name="use_up_tap_prompt_title">Сообщать об истечении времени активации поднятием пальца</string>
     <string name="double_fling_time_title">Время ожидания для составных жестов</string>
     <string name="jieshuo_beta_title">Загрузка внутренней бета-версии</string>
     <string name="picture_description">Подробное описание изображения</string>
@@ -1738,8 +1738,8 @@
     <string name="ocr_lang_ara">Арабский</string>
     <string name="use_virtual_screen_dim_background_title">Использовать на виртуальном экране тёмный фон</string>
     <string name="edit_ocr_lua_title">Редактирование пользовательского плагина движка распознавания текста</string>
-    <string name="ocr_lua_template">require import import com.nirenr.talkman.ai.* --例子代码是帮助理解代码的伪代码，不能直接运行 bs,listener=...--获取参数 task(function(bs) function 识别函数(bs) --虚拟构成识别结果 return { length=2, { t=例子代码是帮助理解代码的伪代码, x=0, y=300, w=1000, h=100, s=50 }, { t=不能直接运行, x=0, y=600, w=800, h=100, s=50 } } end local ret=识别函数(bs) local rets=OcrResult.OcrItem[ret.length]--构建返回值数组 for n=1,ret.length do --注意java与lua数组开始索引不同 rets[n-1]=OcrResult.OcrItem( ret[n].t,--文字内容 ret[n].x,--文字x坐标，距离屏幕左侧距离 ret[n].y,--文字y坐标，距离屏幕顶部距离 ret[n].w,--文字区域宽度 ret[n].h,--文字区域高度 ret[n].s--文字高度 ) end return OcrResult(rets)--返回结果到主线程 end, bs,--将图片的byte数组传入线程 function(rets) listener.onDone(rets)--在回调函数调用onDone通知读屏识别完成 end)</string>
-    <string name="accessibility_service_description2">解说辅助服务和主服务功能完全相同，主要用于部分会检测读屏服务名的场景，两个服务不需要同时开启。</string>
+    <string name="ocr_lua_template"><![CDATA[require "import"\nimport "com.nirenr.talkman.ai.*"\n--Это псевдокод для знакомства с API; его нельзя выполнить напрямую.\nbs,listener=...--Получение аргументов.\ntask(function(bs)\n  function recognize(bs)\n    --Создание примера результата распознавания.\n    return {\n      length=2,\n      {t="Пример псевдокода",x=0,y=300,w=1000,h=100,s=50},\n      {t="Нельзя выполнить напрямую",x=0,y=600,w=800,h=100,s=50}\n    }\n  end\n  local ret=recognize(bs)\n  local rets=OcrResult.OcrItem[ret.length]--Создание массива результатов.\n  for n=1,ret.length do\n    --Индексация массивов Java и Lua начинается с разных значений.\n    rets[n-1]=OcrResult.OcrItem(\n      ret[n].t,--Текст\n      ret[n].x,--Координата X от левого края\n      ret[n].y,--Координата Y от верхнего края\n      ret[n].w,--Ширина области текста\n      ret[n].h,--Высота области текста\n      ret[n].s--Высота текста\n    )\n  end\n  return OcrResult(rets)--Возврат результата в основной поток.\nend,\nbs,--Передача массива байтов изображения в поток.\nfunction(rets)\n  listener.onDone(rets)--Уведомление программы экранного доступа о завершении распознавания.\nend)]]></string>
+    <string name="accessibility_service_description2">Вспомогательная служба Jieshuo предоставляет те же функции, что и основная. Она предназначена для приложений, которые определяют программы экранного доступа по имени службы. Одновременно включать обе службы не нужно.</string>
     <string name="resume_on_screen_on_title">Возобновлять отклик при включении экрана</string>
     <string name="resume_on_notification_show_title">Возобновлять отклик при отпускании шторки уведомлений</string>
     <string name="resume_on_ringing_title">Возобновлять отклик при входящем звонке</string>
@@ -1758,8 +1758,8 @@
     <string name="msg_disable_use_single_tts">Отключите функцию использования одного синтезатора речи, чтобы использовать пользовательский %s</string>
     <string name="command_auto_list_speak">Автоматическое чтение сообщений</string>
     <string name="command_auto_list_speak_history">История автоматического чтения сообщений</string>
-    <string name="msg_start_auto_list">Включено автоматическое чтение сообщений %s</string>
-    <string name="msg_stop_auto_list">Отключено автоматическое чтение сообщений %s</string>
+    <string name="msg_start_auto_list">Автоматическое чтение сообщений %s включено</string>
+    <string name="msg_stop_auto_list">Автоматическое чтение сообщений %s выключено</string>
     <string name="msg_username_typo">Неверный формат имени пользователя или пароля</string>
     <string name="msg_username_error">Неправильное имя пользователя или пароль</string>
     <string name="msg_invite_code_error">Неверный код приглашения</string>
@@ -1782,7 +1782,7 @@
     <string name="command_end_call">Завершить звонок</string>
     <string name="command_pause_a11y_volume">Приостановить громкость специальных возможностей</string>
     <string name="msg_supper_cmd_only_voice_helper">Супер голосовые команды можно вызывать только в голосовом помощнике</string>
-    <string name="msg_no_a11y_volume">Громкость специальных возможностей не используются</string>
+    <string name="msg_no_a11y_volume">Громкость специальных возможностей не используется</string>
     <string name="msg_a11y_volume_disabled">Громкость специальных возможностей отключена</string>
     <string name="msg_a11y_volume_enabled">Громкость специальных возможностей включена</string>
     <string name="content_blacklist_description">Содержимое, добавленное в чёрный список, не будет доступна при навигации. Используется для фильтрации бесполезной или неверной информации о специальных возможностях. Ключевые слова можно добавлять со звёздочкой для реализации простых шаблонов совпадения. *Ключевое слово указывает на фильтрацию, начинающуюся с ключевого слово.*Ключевое слово указывает на фильтрацию, оканчивающиеся ключевым словом.*Ключевое слово* фильтрует всё, содержащее ключевое слово. Без звёздочки указывает на полное совпадение.</string>
@@ -1842,9 +1842,9 @@
     <string name="msg_gesture_disabled">Жесты скринрейдера отключены</string>
     <string name="msg_gesture_enabled">Жесты скринрейдера включены</string>
     <string name="tts_low_latency_title">режим синтезатора речи с низкой задержкой</string>
-    <string name="ocr_level_title">离线ocr精度</string>
+    <string name="ocr_level_title">Точность автономного распознавания текста</string>
     <string name="use_ext_actions_gesture_title">Переключаться на тип навигации действия в поддерживаемых элементах</string>
-    <string name="use_auto_view_type_title">Автоматическое переключение типа навигации </string>
+    <string name="use_auto_view_type_title">Автоматическое переключение типа навигации</string>
     <string name="use_input_method_no_gesture_title">Приостанавливать жесты скринрейдера при появлении клавиатуры</string>
     <string name="command_grid_mode">Режим сетки</string>
     <string name="resume_on_screen_off_title">Возобновлять отклик при выключении экрана</string>
@@ -1852,30 +1852,30 @@
     <string name="sort_title">Сортировка</string>
     <string name="sort_name">По названию</string>
     <string name="sort_time">По времени</string>
-    <string name="use_reverse_scroll_home_page_title">在桌面翻页时反转翻页方向</string>
-    <string name="all_description">Полное распознавание </string>
-    <string name="checkbox_description">Распознавание флажков </string>
-    <string name="msg_checkbox_not_found">Флажки не найдены </string>
-    <string name="cloud_backup_dict_title">备份词典</string>
-    <string name="cloud_backup_name_title">备份别名</string>
-    <string name="cloud_restore_dict_title">恢复词典</string>
-    <string name="cloud_restore_name_title">恢复别名</string>
-    <string name="msg_dict_backup_error">词典备份出错</string>
-    <string name="msg_dict_backup_done">词典备份完成</string>
-    <string name="msg_name_backup_error">别名备份出错</string>
-    <string name="msg_name_backup_done">别名备份完成</string>
-    <string name="msg_restore_dict_error">恢复词典出错</string>
-    <string name="msg_restore_dict_done">恢复词典完成</string>
-    <string name="msg_restore_name_error">恢复别名出错</string>
-    <string name="msg_restore_name_done">恢复别名完成</string>
-    <string name="use_effect_pro_title">精确控制超级音效的播放时间</string>
-    <string name="command_captcha_click_recognition">点选验证码识别</string>
-    <string name="command_ai_text_summarization">全文总结</string>
-    <string name="command_ai_grammar_correction">智能改错</string>
-    <string name="use_gesture_detection_title">在解说中处理手势</string>
-    <string name="touch_focus_time_out_title">触摸焦点延时</string>
-    <string name="typing_focus_time_out_title">输入法焦点延时</string>
-    <string name="navigation_gesture_width_title">单指全面屏手势触发范围</string>
-    <string name="double_tap_time_out_title">双击延时</string>
+    <string name="use_reverse_scroll_home_page_title">Обратить направление перелистывания главного экрана</string>
+    <string name="all_description">Полное распознавание</string>
+    <string name="checkbox_description">Распознавание флажков</string>
+    <string name="msg_checkbox_not_found">Флажки не найдены</string>
+    <string name="cloud_backup_dict_title">Создать резервную копию словаря</string>
+    <string name="cloud_backup_name_title">Создать резервную копию псевдонимов</string>
+    <string name="cloud_restore_dict_title">Восстановить словарь</string>
+    <string name="cloud_restore_name_title">Восстановить псевдонимы</string>
+    <string name="msg_dict_backup_error">Не удалось создать резервную копию словаря</string>
+    <string name="msg_dict_backup_done">Резервная копия словаря создана</string>
+    <string name="msg_name_backup_error">Не удалось создать резервную копию псевдонимов</string>
+    <string name="msg_name_backup_done">Резервная копия псевдонимов создана</string>
+    <string name="msg_restore_dict_error">Не удалось восстановить словарь</string>
+    <string name="msg_restore_dict_done">Словарь восстановлен</string>
+    <string name="msg_restore_name_error">Не удалось восстановить псевдонимы</string>
+    <string name="msg_restore_name_done">Псевдонимы восстановлены</string>
+    <string name="use_effect_pro_title">Точно синхронизировать дополнительные звуковые эффекты с текстом</string>
+    <string name="command_captcha_click_recognition">Распознать CAPTCHA с выбором объектов</string>
+    <string name="command_ai_text_summarization">Создать краткое изложение с помощью ИИ</string>
+    <string name="command_ai_grammar_correction">Исправить текст с помощью ИИ</string>
+    <string name="use_gesture_detection_title">Обрабатывать жесты в Jieshuo</string>
+    <string name="touch_focus_time_out_title">Задержка сенсорного фокуса</string>
+    <string name="typing_focus_time_out_title">Задержка фокуса при вводе</string>
+    <string name="navigation_gesture_width_title">Область срабатывания системных жестов одним пальцем</string>
+    <string name="double_tap_time_out_title">Интервал двойного касания</string>
 
 </resources>

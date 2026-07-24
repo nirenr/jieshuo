@@ -260,8 +260,6 @@
         <item>@string/favorites_menu_title</item>
         <item>@string/split_edit_title</item>
         <item>@string/command_long_copy</item>
-        <item>Open keyboard</item>
-
     </string-array>
     <string-array name="menu_def_items">
         <item>@string/split_menu_title</item>
@@ -309,8 +307,8 @@
         <item>End call</item>
         <item>Hang up</item>
         <item>End call</item>
-        <item>结束QQ通话</item>
-        <item>结束QQ电话</item>
+        <item>End QQ call</item>
+        <item>End QQ call</item>
         <item>Previous media</item>
         <item>Previous track</item>
         <item>Go back</item>
@@ -708,15 +706,15 @@
         <item>Zulu</item>
         <item>Javanese</item>
 
-        <item>奥利亚语</item>
-        <item>弗里西语</item>
-        <item>哈萨克语</item>
-        <item>海地克里奥尔语</item>
-        <item>马尔加什语</item>
-        <item>蒙古语</item>
-        <item>塞索托语</item>
-        <item>维吾尔语</item>
-        <item>乌兹别克语</item>
+        <item>Odia</item>
+        <item>Frisian</item>
+        <item>Kazakh</item>
+        <item>Haitian Creole</item>
+        <item>Malagasy</item>
+        <item>Mongolian</item>
+        <item>Sesotho</item>
+        <item>Uyghur</item>
+        <item>Uzbek</item>
 
     </string-array>
     <string-array name="lang_values">

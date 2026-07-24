@@ -108,513 +108,119 @@ Actions menu: \n
         If there is an unrecognized instruction during the recording process, you can re-speak it.
         Recorded commands can be changed in Advanced Settings, Voice Assistant Settings, Voice Command Settings.</item>
 
-    </string-array>
+            <item>Automatic message reading:\nFree users can automatically read new messages in chat apps.\nPremium users can also read messages from supported live-streaming apps, including Douyin, Huoshan, and Now.\nConfigure this feature under Content settings, Content change settings, Automatic chat-message reading.</item>
+</string-array>
 
-    <string-array name="code_help_items">
-        <item>
-        解说多功能手势和插件以lua语法配合解说专有API实现一个手势多个功能。\n
-        如果对lua和androlua比较熟悉，还可以实现更多功能，本文档只讲述专有API部分。
-        </item>
-        <item>
-        基本概念，\n
-        service，辅助功能服务，是这个读屏服务的核心，各个功能都是以这个服务为核心。
-        </item>
-        <item>
-        参数类型说明，\n
-        node，当前焦点，也就是当前获得辅助功能焦点的节点，一般操作都是针对这个焦点的。\n
-        bool，布尔值，true或者false。\n
-        text，文字内容。
-        </item>
-        <item>
-        return，返回，通知读屏你是否希望读屏执行该手势的默认操作。\n
-        返回true则拦截该手势，false返回上一层执行，如在单程序手势返回false，则由全局手势接管处理，全局手势返回false，由默认手势处理。
-        </item>
-        <item>
-        常用命令，\n
-        service.execute("命令",node)\n
-        这个命令就是解说为了简化开发内置的一些指令，如果执行成功返回true，失败返回false。
-        </item>
-        <item>
-        service.postExecute(时间,"命令",node)\n
-        延时执行命令，
-        </item>
-        <item>
-        text=service.getText(node)\n
-        获取指定节点的文字信息。
-        </item>
-        <item>
-        service.setText(node,text)\n
-        设置指定焦点输入框文字内容。
-        </item>
-        <item>
-        service.setText(text)\n
-        设置当前界面焦点输入框文字内容。
-        </item>
-        <item>
-        service.copy()\n
-        复制当前焦点的文字内容到剪切板。
-        </item>
-        <item>
-        service.appendCopy()\n
-        追加复制当前焦点的文字内容到剪切板。
-        </item>
-        <item>
-        service.copy(text)\n
-        复制指定的文字内容到剪切板。
-        </item>
-        <item>
-        service.appendCopy(text)\n
-        追加复制指定的文字内容到剪切板。
-        </item>
-        <item>
-        service.paste()\n
-        将剪切板内容粘贴到当前界面的输入框。
-        </item>
-        <item>
-        service.paste(node)\n
-        将剪切板内容粘贴到指定的输入框。
-        </item>
-        <item>
-        service.toNext()\n
-        下一个焦点。
-        </item>
-        <item>
-        service.toNext(node,bool)\n
-        指定节点下一个焦点，bool为true查找子节点，为false不查找子节点。
-        </item>
-        <item>
-        service.toPrevious()\n
-        上一个焦点。
-        </item>
-        <item>
-        service.toPrevious(node,bool)\n
-        指定节点上一个焦点，bool为true查找子节点，为false不查找子节点。
-        </item>
-        <item>
-        service.toNextChar()\n
-        下一个字符。
-        </item>
-        <item>
-        service.toPreviousChar()\n
-        上一个字符。
-        </item>
-        <item>
-        service.toNextLine()\n
-        下一行。
-        </item>
-        <item>
-        service.toPreviousLine()\n
-        上一行。
-        </item>
-        <item>
-        service.toTextStart()\n
-        到文字开头。
-        </item>
-        <item>
-        service.toTextEnd()\n
-        到文字结尾。
-        </item>
-        <item>
-        service.toListViewStart()\n
-        到列表开头。
-        </item>
-        <item>
-        service.toListViewEnd()\n
-        到列表结尾。
-        </item>
-        <item>
-        service.getRootNodeInfo()\n
-        获取根节点。
-        </item>
-        <item>
-        service.ocr(node)\n
-        文字识别指定节点，仅会员可用。
-        </item>
-        <item>
-        service.setTimerMode(bool)\n
-        开启或关闭计时器模式，bool为true开启，false为关闭。
-        </item>
-        <item>
-        service.setAutoReadEnabled(bool)\n
-        开启或关闭阅读模式，bool为true开启，false为关闭。
-        </item>
-        <item>
-        service.setAutoNext(bool)\n
-        开启或关闭自动浏览模式，bool为true开启，false为关闭。
-        </item>
-        <item>
-        bool=service.isEditView(node)\n
-        判断当前节点是否为编辑框。
-        </item>
-        <item>
-        bool=service.isSeekBar(node)\n
-        判断当前节点是否为进度滑块。
-        </item>
-        <item>
-        bool=service.isListView(node)\n
-        判断当前节点是否为列表。
-        </item>
-        <item>
-        bool=service.isInListView(node)\n
-        判断当前节点是否在列表中。
-        </item>
-        <item>
-        bool=service.isInWebView(node)\n
-        判断当前节点是否在网页中。
-        </item>
-        <item>
-        bool=service.isClick(node)\n
-        判断当前节点是否可以点击。
-        </item>
-        <item>
-        service.toClick()\n
-        点击当前焦点，在安卓7以上优先使用模拟手点击焦点。
-        </item>
-        <item>
-        service.toClick(node)\n
-        点击指定节点。
-        </item>
-        <item>
-        service.toLongClick()\n
-        长当前焦点。
-        </item>
-        <item>
-        service.toLongClick(node)\n
-        长按指定节点。
-        </item>
-        <item>
-        service.toBack()\n
-        返回。
-        </item>
-        <item>
-        service.toHome()\n
-        返回主屏幕。
-        </item>
-        <item>
-        service.toNotification()\n
-        打开通知栏。
-        </item>
-        <item>
-        service.toParent()\n
-        打开最近任务列表。
-        </item>
-        <item>
-        service.scrollBackward(node)\n
-        向后滚动。
-        </item>
-        <item>
-        service.scrollForward(node)\n
-        向前滚动。
-        </item>
-        <item>
-        service.loadGesturePackage(name)\n
-        载入手势方案。
-        </item>
-        <item>
-        service.click(x,y)\n
-        模拟人手点击屏幕指定位置，仅安卓7以上可用。
-        </item>
-        <item>
-        service.longClick(x,y)\n
-        模拟人手长按屏幕指定位置，仅安卓7以上可用。
-        </item>
-        <item>
-        service.press(x,y,t)\n
-        模拟人手在屏幕指定位置按住指定时间，仅安卓7以上可用。
-        </item>
-        <item>
-        service.swipe(x1,y1,x2,y2,t)\n
-        模式人手从一个位置用指定时间滑动到另一个位置，仅安卓7以上可用。
-        </item>
-        <item>
-        代码控制语句。
-        </item>
-        <item>
-        if 条件 then
-        要执行的代码\n
-        end\n
-        满足指定条件执行中间的代码。\n
-        如，\n
-        if service.isEditView(node) then
-          service.execute("拆分编辑",node)\n
-        return true\n
-        end\n
-        这句代码意思是，当焦点为编辑框时打开拆分编辑。
-        </item>
-        <item>
-        for n=1,重复次数 do\n
-        要执行代码\n
-        end\n
-        重复指定代码一定次数\n
-        如，\n
-        for n=1,10 do\n
-        service.toBack()\n
-        end\n
-        重复返回10次。
-        </item>
-        <item>
-        定义函数，\n
-        function 函数名称(参数)\n
-        函数代码\n
-        end
-        </item>
-        <item>
-        函数是代码的功能块，可以有效的重复利用代码。\n
-        如，下边是一个向列表添加数据的函数，在手势代码中，可以用于向一个列表添加重复的代码。\n
-        function append(t1,t2)\n
-        for k,v in ipairs(t2) do\n
-        table.insert(t1,v)\n
-        end \n
-        end \n
-        点击列表={}\n
-        按钮列表={"%点击","%返回"}\n
-        for n=1,10 do\n
-        append(点击列表,按钮列表)\n
-        end\n
-        向点击列表重复添加10次按钮列表的内容。
-        </item>
-        <item>
-        function 滑动()\n
-        service.swipe(500,300,500,1000,1000)\n
-        return true\n
-        end\n
-        模拟手在屏幕上滑动，可以在手势代码中使用，\n
-        service.click({{">微信","%滑动"}})\n
-        打开微信模拟在屏幕从上向下滑动。
-        </item>
-        <item>
-        自动点击，\n
-        service.click({按钮列表})\n
-        自动依次查找点击按钮列表的按钮，\n
-        按钮名称支持一些符号进行通配，\n
-        如前面加#(井号)，表示搜索的是自定义标签，\n
-        前边或后边加*(星号)表示前边或后边还有其他字符，\n
-        后边加#(井号)表示按钮次序，\n
-        后边加@(圈a)表示只在某一个程序查找，\n
-        加$(美元)表示执行完成后延时。\n
-        参数支持多个表，按顺序查找，\n
-        如果查找成功返回true，失败返回false。\n
-        完整说明见后边，
-        </item>
-        <item>
-        延时点击，\n
-        service.postClick(时间,{按钮列表})\n
-        延时一定时间执行点击，时间单位为毫秒，按钮列表定义与click相同，\n
-        没有返回值。
-        </item>
-        <item>
-        service.plugin("插件名称",node)\n
-        执行一个插件，\n
-        返回插件自定义返回的值。
-        </item>
-        <item>
-        解说手势以自动点击最为灵活，基础形式是
-        </item>
-        <item>
-        按钮列表={}\n
-        service.click(按钮列表)\n
-        return true
-        </item>
-        <item>
-        下边两行是固定的，自己只需要修改按钮列表即可，\n
-        按钮列表格式是用英文花括号或者叫大括号括起来的一些按钮名称和符号组成，
-        </item>
-        <item>
-        最简单的例子，
-        </item>
-        <item>
-        按钮列表={"确定"}\n
-        service.click(按钮列表)\n
-        return true
-        </item>
-        <item>
-        这个代码就能点击屏幕上的确定按钮，
-        </item>
-        <item>
-        按钮列表={\n
-        "确定",\n
-        "完成"\n
-        }
-        service.click(按钮列表)\n
-        return true
-        </item>
-        <item>
-        这是第一级花括号，这个是如果有确定点击确定，没有确定就点击完成，如果没有确定，就继续找完成，依次类推
-        </item>
-        <item>
-        有时候我们需要连续点击一系列按钮实现一些功能，这也是自动点击的优势，
-        </item>
-        <item>
-        按钮列表={\n
-        {"群资料卡","文件"}\n
-        }
-        service.click(按钮列表)\n
-        return true
-        </item>
-        <item>
-        这是二级花括号，在二级花括号中的按钮会被依次点击，直到某一个按钮不存在停止，
-        </item>
-        <item>
-        在花括号中嵌套括号可以实现连续点击，
-        </item>
-        <item>
-        在按钮列表中我们用一些符号来增强功能，
-        </item>
-        <item>
-        最常用的是 * 星号，英文星号，这个符号在按钮文字的前后，表示可以有其它内容
-        </item>
-        <item>
-        比如，在QQ主界面要点击，解说读屏交流群，而这个列表内容有时候后面会有99条未读之类内容，这时候就要写成，
-        </item>
-        <item>
-        解说读屏交流群*
-        </item>
-        <item>
-        # 井号，表示第几个结果，有时候一个界面有很多个名字一样的按钮，这时候需要用井号来说明点击第几个，
-        </item>
-        <item>
-        如，确定#1，表示第一个，也可以是负数，如确定#-1，表示最后一个。
-        </item>
-        <item>
-        这个井号在文字开头表示要查找的是按钮的标签，而不是按钮的名字，比如有的按钮没有名字，可以自己添加标签，并使用标签查找，
-        </item>
-        <item>
-        符号中英文竖线|，表示或，也就是如果有竖线前边的点击前边的，没有就点击后边的，\n
-        就拿刚才确定和完成的例子，可以简写为，\n
-        确定|完成\n
-        点击 确定 或者 完成，
-        </item>
-        <item>
-        &amp; 表示和，也就是只有有&amp;符号后边内容的界面，才点击前边内容的按钮，
-        </item>
-        <item>
-        确定&amp;*退出*\n
-        表示，只有这个界面有退出字样，比如确定退出吗，才点击确定，而没有退出两个字就不执行，
-        </item>
-        <item>
-        &amp;后边加叹号加关键字表示不包含后边内容时执行，\n
-        确定&amp;!*退出*\n
-        表示，只有这个界面没有退出字样时，才点击确定，而有退出两个字就不执行,和上一个情况相反，
-        </item>
-        <item>
-        &amp;符号在前表示检查当前焦点类型，\n
-        &amp;可编辑\n
-        &amp;可点击\n
-        &amp;列表\n
-        &amp;列表项目\n
-        &amp;编辑框\n
-        这个编辑框是弹出输入法的编辑框，
-        </item>
-        <item>
-        $美元符号，这个符号在文字后边表示点击该按钮后等待多长时间，执行下一步操作，
-        </item>
-        <item>
-        "群资料卡$2000","文件"\n
-        表示点击群资料卡卡后2秒点击文件，
-        </item>
-        <item>
-        &lt; 小于号，在后边表示重复执行，重复点击按钮多少次，\n
-        如
-        下一曲&lt;10\n
-        就重复点击下一曲十次，
-        </item>
-        <item>
-        小于号在前边表示只定位，不点击。\n
-        &lt;确定\n
-        找到确定但是不点击。
-        </item>
-        <item>
-        > 大于号，大于号在后边表示，等待次数符，\n
-        "群资料卡","文件>10"\n
-        手机反应有快有慢，用这个符号可以等待一定时间，这个代码表示，点击群资料卡后等待十秒，十秒以内以内如果出现文件就立即点击，如果超时就停止执行，
-        </item>
-        <item>
-        在开头的大于号可以打开程序，\n
-        >微信\n
-        打开微信，\n
-        >QQ\n
-        打开QQ，
-        </item>
-        <item>
-        还有一些扩展符号，可以执行其它功能，\n
-        % 可以执行一些常用指令，\n
-        比如，\n
-        %复制\n
-        可以复制，\n
-        %全文朗读\n
-        可以全屏朗读，
-        </item>
-        <item>
-        %还可以执行脚本中指定的函数，函数返回true表示继续执行，false停止继续执行，
-        </item>
-        <item>
-        []方括号包括的内容表示模拟直接点击，和使用辅助功能点击不同，直接点击可以解决一部分焦点不能点击的问题，\n
-        [播放]\n
-        模拟直接点击播放按钮，\n
-        [%点击]\n
-        模拟直接点击当前焦点
-        </item>
-        <item>
-        [x,y]方括号包含两个数字表示模拟点击指定位置，可以用整数表示绝对位置，或者用小数表示相对位置，\n
-        [300,500]\n
-        模拟点击从左算300像素，从上算500像素的位置，\n
-        [0.3,0.5]\n
-        模拟点击从左算 0.3 个屏幕宽度，从上算 0.5 个屏幕高度的位置，
-        </item>
-        <item>
-        [x,y,t]方括号包含三个数字表示模拟点击指定位置指定时间，前两个意思和上一个相同，第三个是以毫秒为单位的时间，\n
-        [300,500,1000]\n
-        模拟点击从左算 300 像素，从上算 500 像素的位置，持续 1000 毫秒
-        </item>
-        <item>
-        [x1,y1,x2,y2,t]方括号包含五个数字表示用指定时间模拟从x1，y1滑动到x2,y2位置，可以用整数表示绝对位置，或者用小数表示相对位置，\n
-        [300,500,300,800,1000]\n
-        模拟从左算 300 像素，从上算 500 像素的位置，用 1000 毫秒时间滑动到 300,800 的位置，
-        </item>
-        <item>
-        模拟滑动还可以指定滑动次数\n
-        [300,500,300,800,1000,10]\n
-        模拟从左算 300 像素，从上算 500 像素的位置，用 1000 毫秒时间滑动到 300,800 的位置，10 次,
-        </item>
-        <item>
-        在手势执行中有时会有一些不同情况出现，比如打开QQ，点击解说读屏交流群，点击群资料卡，点击文件，\n
-        如果有群公告，会在点击群资料卡那一步卡住，不能执行，\n
-        这时需要分支代码来执行这些突发情况，\n
-        我只是手写例子，可能会有错字导致不能执行，理解意思就可以了，
-        </item>
-        <item>
-        按钮列表={\n
-        {
-            ">QQ",\n
-        "解说读屏交流群*",\n
-        {
-              "我已阅读群公告|我知道了"\n
-        },\n
-        "群资料卡",\n
-        "文件"\n
-        }
-        }
-        </item>
-        <item>
-        因为QQ版本不同，确定群公告按钮也不一样，\n
-        可以看到，在点击解说读屏交流群后，多了一对花括号括起来按钮，这个括号中的按钮，有则执行，没有则跳过，不影响后边按钮的执行，\n
-        如果分支中有复杂操作，或者多种场景，我们还可以套入多个括号，
-        </item>
-        <item>
-        按钮列表={\n
-        {
-            ">QQ",\n
-        "解说读屏交流群*",\n
-        {
-             { "我已阅读群公告","确定"},\n
-        { "我知道了","确定"},\n
-        },\n
-        "群资料卡",\n
-        "文件"\n
-        }
-        }
-        </item>502
-    </string-array>
+    <string-array name="code_help_items" formatted="false">
+        <item>Jieshuo multifunction gestures and extensions combine Lua syntax with the Jieshuo API to perform multiple actions with one gesture. If you know Lua and AndroLua, you can create more advanced features. This guide covers only the Jieshuo-specific API.</item>
+        <item>Basic concept:\nservice is the accessibility service and the core of the screen reader. All features operate through this service.</item>
+        <item>Parameter types:\nnode: the node with accessibility focus; most actions operate on this node.\nbool: a Boolean value, true or false.\ntext: text content.</item>
+        <item>return tells the screen reader whether to perform the gesture's default action. Return true to intercept the gesture. Return false to pass it to the next level: an app-specific gesture passes to the global gesture, and a global gesture passes to the default gesture.</item>
+        <item>Common command:\nservice.execute("command",node)\nRuns a built-in Jieshuo command. Returns true on success and false on failure.</item>
+        <item>service.postExecute(delay,"command",node)\nRuns a command after a delay.</item>
+        <item>text=service.getText(node)\nGets the text of the specified node.</item>
+        <item>service.setText(node,text)\nSets the text of the specified edit field.</item>
+        <item>service.setText(text)\nSets the text of the focused edit field on the current screen.</item>
+        <item>service.copy()\nCopies the focused node's text to the clipboard.</item>
+        <item>service.appendCopy()\nAppends the focused node's text to the clipboard.</item>
+        <item>service.copy(text)\nCopies the specified text to the clipboard.</item>
+        <item>service.appendCopy(text)\nAppends the specified text to the clipboard.</item>
+        <item>service.paste()\nPastes clipboard content into the focused edit field.</item>
+        <item>service.paste(node)\nPastes clipboard content into the specified edit field.</item>
+        <item>service.toNext()\nMoves to the next focus.</item>
+        <item>service.toNext(node,bool)\nMoves to the next focus from node. If bool is true, child nodes are searched; if false, they are not.</item>
+        <item>service.toPrevious()\nMoves to the previous focus.</item>
+        <item>service.toPrevious(node,bool)\nMoves to the previous focus from node. If bool is true, child nodes are searched; if false, they are not.</item>
+        <item>service.toNextChar()\nMoves to the next character.</item>
+        <item>service.toPreviousChar()\nMoves to the previous character.</item>
+        <item>service.toNextLine()\nMoves to the next line.</item>
+        <item>service.toPreviousLine()\nMoves to the previous line.</item>
+        <item>service.toTextStart()\nMoves to the start of the text.</item>
+        <item>service.toTextEnd()\nMoves to the end of the text.</item>
+        <item>service.toListViewStart()\nMoves to the start of the list.</item>
+        <item>service.toListViewEnd()\nMoves to the end of the list.</item>
+        <item>service.getRootNodeInfo()\nGets the root node.</item>
+        <item>service.ocr(node)\nRecognizes text in the specified node. Premium feature.</item>
+        <item>service.setTimerMode(bool)\nEnables timer mode when bool is true and disables it when false.</item>
+        <item>service.setAutoReadEnabled(bool)\nEnables reading mode when bool is true and disables it when false.</item>
+        <item>service.setAutoNext(bool)\nEnables automatic browsing when bool is true and disables it when false.</item>
+        <item>bool=service.isEditView(node)\nChecks whether node is an edit field.</item>
+        <item>bool=service.isSeekBar(node)\nChecks whether node is a seek bar.</item>
+        <item>bool=service.isListView(node)\nChecks whether node is a list.</item>
+        <item>bool=service.isInListView(node)\nChecks whether node is inside a list.</item>
+        <item>bool=service.isInWebView(node)\nChecks whether node is inside a web view.</item>
+        <item>bool=service.isClick(node)\nChecks whether node can be clicked.</item>
+        <item>service.toClick()\nClicks the focused node. On Android 7 and later, a simulated screen tap is preferred.</item>
+        <item>service.toClick(node)\nClicks the specified node.</item>
+        <item>service.toLongClick()\nLong-clicks the focused node.</item>
+        <item>service.toLongClick(node)\nLong-clicks the specified node.</item>
+        <item>service.toBack()\nGoes back.</item>
+        <item>service.toHome()\nGoes to the Home screen.</item>
+        <item>service.toNotification()\nOpens the notification shade.</item>
+        <item>service.toParent()\nOpens the recent-apps screen.</item>
+        <item>service.scrollBackward(node)\nScrolls backward.</item>
+        <item>service.scrollForward(node)\nScrolls forward.</item>
+        <item>service.loadGesturePackage(name)\nLoads the named gesture scheme.</item>
+        <item>service.click(x,y)\nSimulates a tap at the specified screen coordinates. Requires Android 7 or later.</item>
+        <item>service.longClick(x,y)\nSimulates a long press at the specified screen coordinates. Requires Android 7 or later.</item>
+        <item>service.press(x,y,t)\nPresses the specified screen coordinates for t milliseconds. Requires Android 7 or later.</item>
+        <item>service.swipe(x1,y1,x2,y2,t)\nSimulates a swipe from x1,y1 to x2,y2 lasting t milliseconds. Requires Android 7 or later.</item>
+        <item>Code control statements.</item>
+        <item>if condition then\n  code to run\nend\nRuns the enclosed code when condition is true. Example:\nif service.isEditView(node) then\n  service.execute("Split edit",node)\n  return true\nend\nThis opens Split edit when the focus is an edit field.</item>
+        <item>for n=1,count do\n  code to run\nend\nRepeats code count times. Example:\nfor n=1,10 do\n  service.toBack()\nend\nThis goes back ten times.</item>
+        <item>Defining a function:\nfunction functionName(arguments)\n  function code\nend</item>
+        <item>A function is a reusable block of code. This example appends the contents of one list to another ten times:\nfunction append(t1,t2)\n  for k,v in ipairs(t2) do\n    table.insert(t1,v)\n  end\nend\nclickList={}\nbuttonList={"%Click","%Back"}\nfor n=1,10 do\n  append(clickList,buttonList)\nend</item>
+        <item>function swipeDown()\n  service.swipe(500,300,500,1000,1000)\n  return true\nend\nThis simulates a downward swipe and can be used in gesture code. Example:\nservice.click({{"&gt;WeChat","%swipeDown"}})\nOpen WeChat, then swipe downward.</item>
+        <item>Automatic clicking:\nservice.click({buttonList})\nFinds and clicks the listed buttons in order. Button names support operators: # before a name searches custom labels; * before or after a name matches extra text; # after a name selects a result by index; @ limits a search to an app; $ adds a delay. Multiple lists and result indexes are supported. Returns true on success and false on failure.</item>
+        <item>Delayed clicking:\nservice.postClick(delay,{buttonList})\nRuns the click sequence after delay milliseconds. buttonList uses the same syntax as service.click. This method has no return value.</item>
+        <item>service.plugin("extensionName",node)\nRuns an extension and returns the value supplied by that extension.</item>
+        <item>Automatic clicking is the most flexible way to implement Jieshuo gestures. Its basic form is:</item>
+        <item>buttonList={}\nservice.click(buttonList)\nreturn true</item>
+        <item>These two lines remain fixed; normally you only edit buttonList. A button list contains button names and operators enclosed in braces.</item>
+        <item>Simplest example:</item>
+        <item>buttonList={"OK"}\nservice.click(buttonList)\nreturn true</item>
+        <item>This code clicks the OK button on the screen.</item>
+        <item>buttonList={\n  "OK",\n  "Done"\n}\nservice.click(buttonList)\nreturn true</item>
+        <item>This is a first-level list. Jieshuo clicks OK if it exists; otherwise it tries Done, then continues through any remaining alternatives.</item>
+        <item>Sometimes several buttons must be clicked in sequence. This is one advantage of automatic clicking.</item>
+        <item>buttonList={\n  {"Group info","Files"}\n}\nservice.click(buttonList)\nreturn true</item>
+        <item>This is a second-level list. Its buttons are clicked in order until one cannot be found.</item>
+        <item>Nesting braces makes sequential click operations possible.</item>
+        <item>Operators inside buttonList extend its behavior.</item>
+        <item>The most common operator is * (asterisk). Before or after button text, it means that other text may appear there.</item>
+        <item>For example, a QQ group entry may include an unread count after its name. Use an asterisk to ignore that suffix:</item>
+        <item>Jieshuo Screen Reader Group*</item>
+        <item># after a name selects a matching result by index. Use it when several buttons have the same name.</item>
+        <item>For example, OK#1 selects the first OK button. Negative indexes count from the end; OK#-1 selects the last one.</item>
+        <item># before text searches a custom label instead of a button name. This is useful for unlabeled controls after you assign them a label.</item>
+        <item>| means OR. If the text before the bar is present, it is clicked; otherwise the text after the bar is tried. Example:\nOK|Done\nClick OK or Done.</item>
+        <item>&amp; means AND. The button before &amp; is clicked only when the current screen also contains the text after it.</item>
+        <item>OK&amp;*Exit*\nClick OK only when the screen contains text matching Exit.</item>
+        <item>Adding ! after &amp; reverses the condition:\nOK&amp;!*Exit*\nClick OK only when the screen does not contain Exit.</item>
+        <item>&amp; at the beginning checks the focused node type. Supported examples include &amp;editable, &amp;clickable, &amp;list, &amp;listItem, and &amp;editField. editField means an edit control that opens the keyboard.</item>
+        <item>$ after button text specifies how long to wait before the next action.</item>
+        <item>"Group info$2000","Files"\nClick Group info, wait two seconds, then click Files.</item>
+        <item>&lt; after a button repeats the click the specified number of times. Example:\nNext track&lt;10\nClick Next track ten times.</item>
+        <item>&lt; before text locates a button without clicking it. Example:\n&lt;OK\nFind OK but do not click it.</item>
+        <item>&gt; after a button specifies how many times to wait for it. Example:\n"Group info","Files&gt;10"\nAfter clicking Group info, wait for Files for up to ten seconds; click it as soon as it appears or stop on timeout.</item>
+        <item>&gt; at the beginning opens an app. Examples:\n&gt;WeChat\nOpen WeChat.\n&gt;QQ\nOpen QQ.</item>
+        <item>Additional operators can run other actions. % runs a built-in command. For example, %Copy copies text and %Read all reads the entire screen.</item>
+        <item>% can also call a function defined in the script. The function returns true to continue or false to stop. Example: %customFunction</item>
+                <item>% can call a script function with arguments. The function returns true to continue or false to stop. Example: %customFunction(arguments).</item>
+<item>Text inside [] is activated using a simulated screen tap instead of an accessibility click. This can activate some controls that otherwise cannot be clicked.\n[Play] taps Play directly.\n[%Click] directly taps the focused node.</item>
+        <item>[t] uses one number in brackets to press and hold the current focus for t milliseconds.\n[6000]\nPress and hold the current focus for 6000 milliseconds.</item>
+        <item>[x,y] taps specified coordinates. Integers are absolute pixels and decimals are relative screen positions.\n[300,500] taps 300 pixels from the left and 500 from the top.\n[0.3,0.5] taps at 30% of the screen width and 50% of its height.</item>
+        <item>[x,y,t] presses specified coordinates for t milliseconds.\n[300,500,1000] presses the point 300 pixels from the left and 500 from the top for 1000 milliseconds.</item>
+        <item>[x1,y1,n,a] taps coordinates x1,y1 n times while app a is active. Coordinates may be absolute integers or relative decimals.\n[300,500,100,Douyin]\nTap 300,500 one hundred times in Douyin and stop if the app closes. The optional condition supports @appName, &amp;requiredText, and !excludedText.</item>
+        <item>[x1,y1,x2,y2,t] swipes from x1,y1 to x2,y2 in t milliseconds. Coordinates may be absolute integers or relative decimals.\n[300,500,300,800,1000] swipes from 300,500 to 300,800 in 1000 milliseconds.</item>
+                <item>[x1,y1,x2,y2,t,n] repeats a simulated swipe n times.\n[300,500,300,800,1000,10] performs the specified one-second swipe ten times.</item>
+<item>[x1,y1,x2,y2,t,n,a] repeats a simulated swipe only while app a is active.\n[300,500,300,800,1000,10,Douyin]\nPerform the one-second swipe ten times in Douyin and stop if the app closes. The optional condition supports @appName, &amp;requiredText, and !excludedText.</item>
+        <item>[x1,y1,x2,y2,r,g,b,d] searches the rectangle x1,y1,x2,y2 for RGB color r,g,b within tolerance d, then taps it.\n[300,300,800,800,128,128,128,10]</item>
+        <item>Gesture execution sometimes encounters optional screens. For example, opening a QQ group and then Group info and Files may be interrupted by a group announcement. Branching lists handle these cases. The following handwritten example illustrates the idea and may require adjustment.</item>
+                <item>buttonList={\n  {\n    "&gt;QQ",\n    "Jieshuo Screen Reader Group*",\n    {"I have read the group announcement|Got it"},\n    "Group info",\n    "Files"\n  }\n}</item>
+<item>Different QQ versions use different buttons to dismiss group announcements. The nested optional list after the group name runs when one of its buttons exists and is skipped otherwise, without stopping later actions. More levels may be nested for complex flows or multiple cases.</item>502
+            <item>buttonList={\n  {\n    "&gt;QQ",\n    "Jieshuo Screen Reader Group*",\n    {\n      {"I have read the group announcement","OK"},\n      {"Got it","OK"}\n    },\n    "Group info",\n    "Files"\n  }\n}</item>
+</string-array>
 
     <string-array name="gesture_help_items">
         <item>
@@ -638,7 +244,8 @@ Actions menu: \n
         Up twice click to browse\n
         Twice swipe down
         </item>
-        <item>
+                <item>Multi-finger gestures require Android 11 or later.\nTwo-finger double tap: play or pause.\nThree-finger swipe down: open notifications.\nThree-finger swipe up: go to the Home screen.\nThree-finger swipe left: open recent apps.\nThree-finger swipe right: go back.</item>
+<item>
         Click on the browse mode gesture:\n
         Click to switch focus\n
         Browse up mode\n

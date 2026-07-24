@@ -2,7 +2,7 @@
 <resources>
   <!--Source: Activity title.
         Description: Title for the Settings activity.-->
-  <string name="tts_settings_label">Настройки TTS eSpeak</string>
+  <string name="tts_settings_label">Настройки eSpeak</string>
   <!--Source: Preference title.
         Description: Title for the preference that controls default voice pitch.-->
   <string name="setting_default_pitch">Тон голоса</string>
@@ -11,13 +11,13 @@
   <string name="setting_default_rate">Скорость речи</string>
   <!--Source: Dialog text.
         Description: Status message shown when installing voice data.-->
-  <string name="installing_voice_data">Установка голосовых данных...</string>
+  <string name="installing_voice_data">Установка голоса...</string>
   <!--Source: Dialog message.
         Description: Alert dialog prompting the user to set eSpeak as their default TTS engine.-->
   <string name="set_default_message">eSpeak не является основным синтезатором речи.</string>
   <!--Source: Dialog message.
         Description: Alert dialog telling the user that voice data installation failed.-->
-  <string name="voice_data_failed_message">Не удалось загрузить голосовые данные. Проверьте SD-карту.</string>
+  <string name="voice_data_failed_message">Не удалось загрузить голос. Проверьте SD-карту.</string>
   <!--Source: Dialog message.
         Description: Alert dialog telling the user that an unknown error has occurred.-->
   <string name="error_message">Не удалось запустить eSpeak.</string>
@@ -26,16 +26,16 @@
   <string name="current_tts_locale">Язык по умолчанию</string>
   <!--Source: Label text.
         Description: Label informing the user of how many voices are installed.-->
-  <string name="available_voices">Разновидностей голоса</string>
+  <string name="available_voices">Вариантов голоса</string>
   <!--Source: Button label.
         Description: Button for launching eSpeak-specific settings.-->
   <string name="engine_settings">Настройки eSpeak</string>
   <!--Source: Label text.
         Description: Label informing the user that eSpeak is loading resources.-->
-  <string name="loading">Загрузка, пожалуйста ожидайте...</string>
+  <string name="loading">Идёт загрузка, пожалуйста подождите...</string>
   <!--Source: Spoken aloud.
         Description: Sample text spoken aloud when the user is trying out a language.-->
-  <string name="sample_text">Так синтезатор речи озвучивает %s текст</string>
+  <string name="sample_text">Это пример звучания текста на языке %s</string>
   <string name="status">Статус</string>
   <string name="tts_version">Версия eSpeak</string>
   <string name="speak">Озвучить</string>

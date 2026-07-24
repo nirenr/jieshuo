@@ -240,7 +240,7 @@
     <string name="use_left_right_title">Invert swiping gestures</string>
     <string name="use_list_item_index_title">Read the list item\'s index</string>
     <string name="use_left_right_summary">Controls whether the swipe gestures are inverted in the default gesture scheme. When they are inverted, left and right swipes navigate by items while up and down swipes execute the shortcut actions</string>
-    <string name="use_old_previous_title">使用传统的上一个焦点移动方式</string>
+    <string name="use_old_previous_title">Use the legacy previous-focus navigation method</string>
     <string name="baidu_tieba_title">Jieshuo Screenreader posting board</string>
     <string name="use_single_tts_title">Use a single TTS engine</string>
     <string name="use_auto_update_title">Automatically check for updates</string>
@@ -258,7 +258,7 @@
     <string name="key_shortcut_setting_title">Shortcut keys settings</string>
     <string name="gesture_title">Gesture scheme settings</string>
     <string name="use_single_tap_summary">Controls whether clicking only once on the element activates it.</string>
-    <string name="use_old_previous_summary">传统方式上一个焦点是下一个焦点的简单返回，取消后将使用新的上一个焦点方式，按照焦点层级返回，在一直向上浏览时更容易掌握内容所属关系</string>
+    <string name="use_old_previous_summary">The legacy method simply reverses the next-focus action. Disable this option to navigate backward through the focus hierarchy, making the content structure easier to understand while browsing upward.</string>
     <string name="use_headset_key_summary">Controls whether the headset key is used to control the screenreader. The short press of the key moves the focus to the next item, a medium-length press activates the element under the focus, and finally the long press of the key activates the voice assistant</string>
     <string name="list_view_settings_title">List reading settings</string>
     <string name="view_label_settings_title">Label reading settings</string>
@@ -416,7 +416,7 @@
     <string name="notification_black_list_summary">Notifications containing black-listed content will never be read, even if notification reading is enabled</string>
     <string name="notification_white_list_summary">Notifications containing white-listed content will always be read, even when notification reading is disabled</string>
     <string name="system_tts_volume_title">System TTS volume</string>
-    <string name="notification_select_title">要朗读的通知</string>
+    <string name="notification_select_title">Notifications to read</string>
 
     <string name="message_disable_dim_screen">Please disable the curtain first</string>
     <string name="start_long_copy">List copying started</string>
@@ -438,16 +438,16 @@
     <string name="use_text_format_first_title">Read the text first when explaining</string>
     <string name="use_text_format_char_number_title">Read the index of a latin letter</string>
 
-    <string name="lower_case_format">%s，小写%s</string>
-    <string name="upper_case_format">%s，大写%s</string>
-    <string name="lower_case_format_number">%s，小写%s，第%d个字母</string>
-    <string name="upper_case_format_number">%s，大写%s，第%d个字母</string>
+    <string name="lower_case_format">%s, lowercase %s</string>
+    <string name="upper_case_format">%s, uppercase %s</string>
+    <string name="lower_case_format_number">%s, lowercase %s, letter %d</string>
+    <string name="upper_case_format_number">%s, uppercase %s, letter %d</string>
 
     <string name="lower_case_format2">%s</string>
     <string name="upper_case_format2">Capital %s</string>
     <string name="upper_case_format3">Capital %s</string>
-    <string name="lower_case_format_number2">%s，第%d个字母</string>
-    <string name="upper_case_format_number2">大写%s，第%d个字母</string>
+    <string name="lower_case_format_number2">%s, letter %d</string>
+    <string name="upper_case_format_number2">Uppercase %s, letter %d</string>
 
     <string name="use_slow_speed_title">Slow down speech while in character by character browsing mode</string>
     <string name="has_vip_summary_gesture">Customizing the up, down, left and right swipes is only available for users of the full version</string>
@@ -1033,7 +1033,7 @@ Progress bar
     <string name="use_single_tts_ok">Use a single TTS engine</string>
     <string name="use_single_tts_no">Use two TTS engines at the same time.</string>
     <string name="permission_title">Permission help</string>
-    <string name="permission_msg">读取电话状态 用于确定身份的唯一性提供个性化服务与账户认证， 用于监听电话状态为快速接听/拒绝电话等功能提供状态信息， 用于来电报号。\n  接听电话 在安卓8及更高系统提供快速接听/拒绝电话等功能。\n  拨打电话 在提取号码和语音报号中提供直接拨打功能。\n  位置信息 用于提供基于位置的个性化服务，如当地天气，当前位置及以后可能扩展的地图与导航服务。\n  相机 用于拍照和各种识别功能。\n  麦克风 语音助手，语音输入的录制音频。\n  通讯录 语音拨打电话和来电报号时基于人名的服务。\n  悬浮窗 显示菜单和黑屏模式的对话框和窗体。\n  创建桌面快捷方式 为扩展工具（轻应用）提供添加到桌面方便启动的功能。\n  应用内安装 用于自动升级。\n  网络访问，用户验证，图片识别，云端标签，语音识别 。\n  开机启动 为在重启后能第一时间提供服务。\n  防止手机休眠 在语音播报时阻止屏幕关闭。\n  禁用部分权限可能导致部分功能不能正常运行</string>
+    <string name="permission_msg">Read phone state: used for account authentication, call-state monitoring, quick answer or reject actions, and caller announcements.\nAnswer calls: enables quick answer and reject actions on Android 8 and later.\nMake calls: enables direct dialing from extracted or spoken phone numbers.\nLocation: provides location-based features such as local weather and current position.\nCamera: used for photography and recognition features.\nMicrophone: records audio for the voice assistant and voice input.\nContacts: resolves contact names for voice dialing and caller announcements.\nDisplay over other apps: shows menus, dialogs, and the screen-curtain interface.\nCreate shortcuts: adds extension tools to the Home screen.\nInstall apps: used for automatic updates.\nNetwork access: used for authentication, image recognition, cloud labels, and speech recognition.\nStart at boot: starts the service promptly after a restart.\nPrevent sleep: keeps the screen awake during speech output.\nDisabling permissions may prevent some features from working correctly.</string>
     <string name="check_permissions_msg">JieshuoScreenreader needs some basic permissions to work, for instance Storage permission is used to read sound schemes, extensions or any other external data from the device. Click on \"Next\" to continue and grant all required permissions, or click \"Cancel\" to exit the software</string>
     <string name="next">Next</string>
     <string name="setup_setting_done">The setup wizard is completed</string>
@@ -1636,7 +1636,7 @@ Progress bar
     <string name="language_title">Custom translations</string>
     <string name="msg_download_error">Download error</string>
     <string name="buy_with_alipay">Buy with AliPay</string>
-    <string name="buy_with_unipay">使用银行卡跨境汇款购买会员（使用人民币支付，享受等同中国用户人民币付款优惠）</string>
+    <string name="buy_with_unipay">Purchase a membership by international bank-card transfer. Pay in Chinese yuan to receive the same price available to users in China.</string>
     <string name="buy_with_paypal">Buy with PayPal</string>
     <string name="msg_change_custom_gesture">You cannot modify the default gestures scheme. Do you want to switch to the custom gestures scheme?</string>
     <string name="msg_import_strings">Importing this custom translation will either merge your changes with the imported version or overwrite them entirely. Before importing, you may export your current changes. What would you like to do</string>
@@ -1781,8 +1781,8 @@ Swipe down then up or up then down to switch navigation type in all views, and s
     <string name="ocr_lang_ara">Arabic</string>
     <string name="use_virtual_screen_dim_background_title">Use a dark background for the Virtual Screen</string>
     <string name="edit_ocr_lua_title">Edit custom OCR extensions</string>
-    <string name="ocr_lua_template"><![CDATA[require \"import\"\nimport \"com.nirenr.talkman.ai.*\"\n--例子代码是帮助理解代码的伪代码，不能直接运行\nbs,listener=...--获取参数\ntask(function(bs)\n  function 识别函数(bs)\n    --虚拟构成识别结果\n    return {\n      length=2,\n      {\n        t=\"例子代码是帮助理解代码的伪代码\",\n        x=0,\n        y=300,\n        w=1000,\n        h=100,\n        s=50\n      },\n      {\n        t=\"不能直接运行\",\n        x=0,\n        y=600,\n        w=800,\n        h=100,\n        s=50\n      }\n    }\n  end\n\n  local ret=识别函数(bs)\n  local rets=OcrResult.OcrItem[ret.length]--构建返回值数组\n  for n=1,ret.length do\n    --注意java与lua数组开始索引不同\n    rets[n-1]=OcrResult.OcrItem(\n    ret[n].t,--文字内容\n    ret[n].x,--文字x坐标，距离屏幕左侧距离\n    ret[n].y,--文字y坐标，距离屏幕顶部距离\n    ret[n].w,--文字区域宽度\n    ret[n].h,--文字区域高度\n    ret[n].s--文字高度\n    )\n  end\n  return OcrResult(rets)--返回结果到主线程\nend,\nbs,--将图片的byte数组传入线程\nfunction(rets)\n  listener.onDone(rets)--在回调函数调用onDone通知读屏识别完成\nend)]]></string>
-    <string name="accessibility_service_description2">解说辅助服务和主服务功能完全相同，主要用于部分会检测读屏服务名的场景，两个服务不需要同时开启。</string>
+    <string name="ocr_lua_template"><![CDATA[require "import"\nimport "com.nirenr.talkman.ai.*"\n--This sample is pseudocode for understanding the API and cannot be run directly.\nbs,listener=...--Get the arguments.\ntask(function(bs)\n  function recognize(bs)\n    --Create a sample recognition result.\n    return {\n      length=2,\n      {t="Sample pseudocode",x=0,y=300,w=1000,h=100,s=50},\n      {t="Cannot be run directly",x=0,y=600,w=800,h=100,s=50}\n    }\n  end\n  local ret=recognize(bs)\n  local rets=OcrResult.OcrItem[ret.length]--Create the result array.\n  for n=1,ret.length do\n    --Java and Lua arrays use different starting indexes.\n    rets[n-1]=OcrResult.OcrItem(\n      ret[n].t,--Text\n      ret[n].x,--X coordinate from the left edge\n      ret[n].y,--Y coordinate from the top edge\n      ret[n].w,--Text-region width\n      ret[n].h,--Text-region height\n      ret[n].s--Text height\n    )\n  end\n  return OcrResult(rets)--Return the result to the main thread.\nend,\nbs,--Pass the image byte array to the thread.\nfunction(rets)\n  listener.onDone(rets)--Notify the screen reader that recognition is complete.\nend)]]></string>
+    <string name="accessibility_service_description2">The Jieshuo auxiliary service provides the same features as the main service. It is intended for apps that detect screen readers by service name; you do not need to enable both services.</string>
     <string name="resume_on_screen_on_title">Resume browse by touch or speech feedback and browse by touch when the screen is turned on</string>
     <string name="resume_on_notification_show_title">Resume browse by touch or speech feedback and browse by touch when opening the notification bar with a 1-finger down swipe from the top of the screen</string>
     <string name="resume_on_ringing_title">Resume browse by touch or speech feedback and browse by touch when a call is received</string>
